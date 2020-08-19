@@ -1,0 +1,224 @@
+{
+  "type": "law",
+  "id": "BJNR084210008",
+  "attributes": {
+    "jurisAbbrs": [
+      "JFDG"
+    ],
+    "officialAbbr": "JFDG",
+    "firstPublished": "2008-05-16",
+    "sourceTimestamp": "20200403212528",
+    "headingLong": "Gesetz zur F\u00f6rderung von Jugendfreiwilligendiensten",
+    "headingShort": "Jugendfreiwilligendienstegesetz",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "2008, 842"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 47 G v. 12.12.2019 I 2652"
+      }
+    ],
+    "prelude": {
+      "body": null,
+      "footnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.6.2008 +++)<BR/><BR/></pre>Das G wurde als Artikel 1 des G v. 16.5.2008 I 842 vom Bundestag mit Zustimmung  des Bundesrates beschlossen. Es ist gem. Art. 3 Satz 1 dieses G mWv 1.6.2008 in Kraft getreten.</P>"
+    }
+  },
+  "content": [
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000100000",
+      "attributes": {
+        "name": "\u00a7 1",
+        "title": "F\u00f6rdervoraussetzungen",
+        "body": {
+          "content": "<P>(1) Jugendfreiwilligendienste f\u00f6rdern die Bildungsf\u00e4higkeit der Jugendlichen und geh\u00f6ren zu den besonderen Formen des b\u00fcrgerschaftlichen Engagements. Ein Jugendfreiwilligendienst wird gef\u00f6rdert, wenn die in den \u00a7\u00a7 2 bis 8 genannten Voraussetzungen erf\u00fcllt sind und der Dienst von einem nach \u00a7 10 zugelassenen Tr\u00e4ger durchgef\u00fchrt wird. Die F\u00f6rderung dient dazu, die H\u00e4rten und Nachteile zu beseitigen, die mit der Ableistung des Jugendfreiwilligendienstes im Sinne dieses Gesetzes verbunden sind.</P><P>(2) Jugendfreiwilligendienste im Sinne des Gesetzes sind das freiwillige soziale Jahr (FSJ) und das freiwillige \u00f6kologische Jahr (F\u00d6J).</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000201116",
+      "attributes": {
+        "name": "\u00a7 2",
+        "title": "Freiwillige",
+        "body": {
+          "content": "<P>(1) Freiwillige im Sinne dieses Gesetzes sind Personen, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Vollzeitschulpflicht erf\u00fcllt haben, aber das 27. Lebensjahr noch nicht vollendet haben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einen freiwilligen Dienst <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>ohne Erwerbsabsicht, au\u00dferhalb einer Berufsausbildung und vergleichbar einer Vollzeitbesch\u00e4ftigung leisten oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>ohne Erwerbsabsicht, au\u00dferhalb einer Berufsausbildung und vergleichbar einer Teilzeitbesch\u00e4ftigung von mehr als 20 Stunden pro Woche leisten, sofern ein berechtigtes Interesse der Freiwilligen an einer Teilzeitbesch\u00e4ftigung vorliegt,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sich auf Grund einer Vereinbarung nach \u00a7 11 zur Leistung des freiwilligen Dienstes f\u00fcr eine Zeit von mindestens sechs Monaten und h\u00f6chstens 24 Monaten verpflichtet haben und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr den freiwilligen Dienst <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>nur unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung sowie ein angemessenes Taschengeld erhalten d\u00fcrfen oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>anstelle von unentgeltlicher Unterkunft, Verpflegung und Arbeitskleidung entsprechende Geldersatzleistungen sowie ein angemessenes Taschengeld erhalten d\u00fcrfen.</LA></DD></DL>Angemessen ist ein Taschengeld, wenn es 6 Prozent der in der allgemeinen Rentenversicherung geltenden Beitragsbemessungsgrenze nicht \u00fcbersteigt. Bei einem freiwilligen Dienst vergleichbar einer Teilzeitbesch\u00e4ftigung ist dieser Prozentsatz zu k\u00fcrzen.</LA></DD></DL></P><P>(2) Als Freiwillige gelten auch Personen, die durch einen nach \u00a7 10 zugelassenen Tr\u00e4ger des Jugendfreiwilligendienstes darauf vorbereitet werden, einen Jugendfreiwilligendienst im Ausland zu leisten (Vorbereitungsdienst), f\u00fcr den Vorbereitungsdienst nur Leistungen erhalten, die dieses Gesetz vorsieht, und neben dem Vorbereitungsdienst keine T\u00e4tigkeit gegen Entgelt aus\u00fcben sowie die Voraussetzungen des Absatzes 1 Nummer 1 und 3 erf\u00fcllen.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000301116",
+      "attributes": {
+        "name": "\u00a7 3",
+        "title": "Freiwilliges soziales Jahr",
+        "body": {
+          "content": "<P>(1) Das freiwillige soziale Jahr wird als \u00fcberwiegend praktische Hilfst\u00e4tigkeit, die an Lernzielen orientiert ist, in gemeinwohlorientierten Einrichtungen geleistet, insbesondere in Einrichtungen der Wohlfahrtspflege, in Einrichtungen der Kinder- und Jugendhilfe, einschlie\u00dflich der Einrichtungen f\u00fcr au\u00dferschulische Jugendbildung und Einrichtungen f\u00fcr Jugendarbeit, in Einrichtungen der Gesundheitspflege, in Einrichtungen der Kultur und Denkmalpflege oder in Einrichtungen des Sports.</P><P>(2) Das freiwillige soziale Jahr wird p\u00e4dagogisch begleitet. Die p\u00e4dagogische Begleitung wird von einer zentralen Stelle eines nach \u00a7 10 zugelassenen Tr\u00e4gers des Jugendfreiwilligendienstes sichergestellt mit dem Ziel, soziale, kulturelle und interkulturelle Kompetenzen zu vermitteln und das Verantwortungsbewusstsein f\u00fcr das Gemeinwohl zu st\u00e4rken.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000401116",
+      "attributes": {
+        "name": "\u00a7 4",
+        "title": "Freiwilliges \u00f6kologisches Jahr",
+        "body": {
+          "content": "<P>(1) Das freiwillige \u00f6kologische Jahr wird als \u00fcberwiegend praktische Hilfst\u00e4tigkeit, die an Lernzielen orientiert ist, in geeigneten Stellen und Einrichtungen geleistet, die im Bereich des Natur- und Umweltschutzes einschlie\u00dflich der Bildung zur Nachhaltigkeit t\u00e4tig sind.</P><P>(2) Das freiwillige \u00f6kologische Jahr wird p\u00e4dagogisch begleitet. Die p\u00e4dagogische Begleitung wird von einer zentralen Stelle eines nach \u00a7 10 zugelassenen Tr\u00e4gers des Jugendfreiwilligendienstes sichergestellt mit dem Ziel, soziale, kulturelle und interkulturelle Kompetenzen zu vermitteln und das Verantwortungsbewusstsein f\u00fcr das Gemeinwohl zu st\u00e4rken. Im freiwilligen \u00f6kologischen Jahr sollen insbesondere der nachhaltige Umgang mit Natur und Umwelt gest\u00e4rkt und Umweltbewusstsein entwickelt werden, um ein kompetentes Handeln f\u00fcr Natur und Umwelt zu f\u00f6rdern.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000501116",
+      "attributes": {
+        "name": "\u00a7 5",
+        "title": "Jugendfreiwilligendienste im Inland",
+        "body": {
+          "content": "<P>(1) Das freiwillige soziale Jahr und das freiwillige \u00f6kologische Jahr im Inland werden in der Regel f\u00fcr eine Dauer von zw\u00f6lf zusammenh\u00e4ngenden Monaten geleistet. Die Mindestdauer bei demselben nach \u00a7 10 anerkannten Tr\u00e4ger betr\u00e4gt sechs Monate, der Dienst kann bis zu der Gesamtdauer von insgesamt 18 Monaten verl\u00e4ngert werden. Der Tr\u00e4ger kann den Jugendfreiwilligendienst im Rahmen des p\u00e4dagogischen Gesamtkonzepts auch unterbrochen zur Ableistung in Abschnitten anbieten, wenn ein Abschnitt mindestens drei Monate dauert.</P><P>(2) Die p\u00e4dagogische Begleitung umfasst die an Lernzielen orientierte fachliche Anleitung der Freiwilligen durch die Einsatzstelle, die individuelle Betreuung durch p\u00e4dagogische Kr\u00e4fte des Tr\u00e4gers und durch die Einsatzstelle sowie die Seminararbeit. Es werden ein Einf\u00fchrungs-, ein Zwischen- und ein Abschlussseminar durchgef\u00fchrt, deren Mindestdauer je f\u00fcnf Tage betr\u00e4gt. Die Gesamtdauer der Seminare betr\u00e4gt bezogen auf eine zw\u00f6lfmonatige Teilnahme am Jugendfreiwilligendienst mindestens 25 Tage. Wird ein Dienst \u00fcber den Zeitraum von zw\u00f6lf Monaten hinaus vereinbart oder verl\u00e4ngert, erh\u00f6ht sich die Zahl der Seminartage um mindestens einen Tag je Monat der Verl\u00e4ngerung. Die Seminarzeit gilt als Dienstzeit. Die Teilnahme ist Pflicht. Die Freiwilligen wirken an der inhaltlichen Gestaltung und der Durchf\u00fchrung der Seminare mit.</P><P>(3) Bis zu einer H\u00f6chstdauer von insgesamt 18 Monaten k\u00f6nnen ein freiwilliges soziales Jahr und ein freiwilliges \u00f6kologisches Jahr mit einer Mindestdienstdauer von sechs Monaten nacheinander geleistet werden. In diesem Fall richtet sich die Zahl der Seminartage f\u00fcr jeden einzelnen Dienst nach Absatz 2. Auf die Gesamtdauer ist ein Bundesfreiwilligendienst nach dem Bundesfreiwilligendienstgesetz anzurechnen.</P><P>(4) Zur Durchf\u00fchrung des Jugendfreiwilligendienstes nach diesem Gesetz schlie\u00dfen zugelassene Tr\u00e4ger und Einsatzstellen eine vertragliche Vereinbarung. Die Vereinbarung legt fest, in welcher Weise Tr\u00e4ger und Einsatzstellen die Ziele des Dienstes, insbesondere soziale Kompetenz, Pers\u00f6nlichkeitsbildung sowie die F\u00f6rderung der Bildungs- und Besch\u00e4ftigungsf\u00e4higkeit der Freiwilligen gemeinsam verfolgen.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000601116",
+      "attributes": {
+        "name": "\u00a7 6",
+        "title": "Jugendfreiwilligendienst im Ausland",
+        "body": {
+          "content": "<P>(1) Ein freiwilliges soziales Jahr oder ein freiwilliges \u00f6kologisches Jahr im Sinne dieses Gesetzes kann auch im Ausland geleistet werden.</P><P>(2) Der Jugendfreiwilligendienst im Ausland wird als Dienst gem\u00e4\u00df \u00a7 2 Abs. 1 Nr. 1 und ausschlie\u00dflich ununterbrochen geleistet. \u00a7 5 gilt entsprechend, soweit keine abweichenden Regelungen f\u00fcr den Jugendfreiwilligendienst im Ausland vorgesehen sind. Zum freiwilligen sozialen Jahr im Ausland geh\u00f6rt insbesondere auch der Dienst f\u00fcr Frieden und Vers\u00f6hnung. Der Jugendfreiwilligendienst im Ausland wird nach Ma\u00dfgabe der Nummern 1 bis 3 p\u00e4dagogisch begleitet: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Die p\u00e4dagogische Begleitung wird von einem nach \u00a7 10 zugelassenen Tr\u00e4ger sichergestellt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zur Vorbereitung auf den Jugendfreiwilligendienst und w\u00e4hrend des Dienstes im Ausland erfolgt die p\u00e4dagogische Begleitung in Form von Bildungsma\u00dfnahmen (Seminaren oder p\u00e4dagogischen Veranstaltungen), durch fachliche Anleitung durch die Einsatzstelle und die individuelle Betreuung durch p\u00e4dagogische Kr\u00e4fte der Einsatzstelle oder des Tr\u00e4gers; die Freiwilligen wirken an der inhaltlichen Gestaltung und Durchf\u00fchrung der Bildungsma\u00dfnahmen mit,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Gesamtdauer der Bildungsma\u00dfnahmen betr\u00e4gt, bezogen auf eine zw\u00f6lfmonatige Teilnahme am Jugendfreiwilligendienst im Ausland, mindestens f\u00fcnf Wochen.</LA></DD></DL>Die p\u00e4dagogische Begleitung soll in der Weise erfolgen, dass jeweils in der Bundesrepublik Deutschland vorbereitende Veranstaltungen von mindestens vierw\u00f6chiger Dauer und nachbereitende Veranstaltungen von mindestens einw\u00f6chiger Dauer stattfinden. Falls der Tr\u00e4ger ein Zwischenseminar im Ausland sicherstellen kann, das regelm\u00e4\u00dfig bis zu zwei Wochen dauern kann, verk\u00fcrzen sich die vorbereitenden Veranstaltungen entsprechend. Die Teilnahme an den Bildungsma\u00dfnahmen gilt als Dienstzeit. Die Teilnahme ist Pflicht.</P><P>(3) Der Dienst muss nach Ma\u00dfgabe des \u00a7 11 Abs. 1 mit dem Tr\u00e4ger vereinbart und gestaltet werden. \u00a7 11 Abs. 2 findet keine Anwendung. Die H\u00f6chstdauer der Entsendung betr\u00e4gt 18 Monate. F\u00fcr die Zahl zus\u00e4tzlicher Seminartage gilt \u00a7 5 Absatz 2 Satz 3 und 4 entsprechend.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000701116",
+      "attributes": {
+        "name": "\u00a7 7",
+        "title": "Kombinierter Jugendfreiwilligendienst",
+        "body": {
+          "content": "<P>Ein kombinierter Jugendfreiwilligendienst im In- und Ausland kann vom Tr\u00e4ger angeboten werden, wenn insgesamt eine Dauer von 18 zusammenh\u00e4ngenden Monaten nicht \u00fcberschritten wird und die Einsatzabschnitte im In- und Ausland jeweils mindestens drei Monate dauern. Der Dienst ist f\u00fcr den Gesamtzeitraum nach \u00a7 11 Abs. 1 mit dem Tr\u00e4ger zu vereinbaren und zu gestalten. \u00a7 11 Abs. 2 findet keine Anwendung. Die p\u00e4dagogische Begleitung soll nach Ma\u00dfgabe des \u00a7 6 erfolgen; Zwischenseminare k\u00f6nnen auch im Inland stattfinden. \u00a7 5 Abs. 2 gilt f\u00fcr k\u00fcrzer oder l\u00e4nger als zw\u00f6lf Monate dauernde Dienste entsprechend.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000801116",
+      "attributes": {
+        "name": "\u00a7 8",
+        "title": "Zeitliche Ausnahmen",
+        "body": {
+          "content": "<P>Der Jugendfreiwilligendienst nach den \u00a7\u00a7 5, 6 und 7 kann ausnahmsweise bis zu einer Dauer von 24 Monaten geleistet werden, wenn dies im Rahmen eines besonderen p\u00e4dagogischen Konzepts begr\u00fcndet ist.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE000902116",
+      "attributes": {
+        "name": "\u00a7 9",
+        "title": "F\u00f6rderung",
+        "body": {
+          "content": "<P>Die F\u00f6rderung des freiwilligen sozialen Jahres und des freiwilligen \u00f6kologischen Jahres richtet sich nach folgenden Rechtsnormen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 3 der Verordnung \u00fcber Sonderurlaub f\u00fcr Bundesbeamte und Richter im Bundesdienst (Sonderurlaub),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 2 Abs. 1 Nr. 8 des Arbeitsgerichtsgesetzes (Zust\u00e4ndigkeit von Gerichten),</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 32 Abs. 4 Satz 1 Nr. 2 Buchstabe b und d des Einkommensteuergesetzes (Ber\u00fccksichtigung von Kindern),</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 265 Abs. 2 Satz 3 Nr. 2 des Gesetzes \u00fcber den Lastenausgleich (Lastenausgleich),</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 27 Abs. 2 Satz 2 Nr. 1, \u00a7 150 Absatz 2 Satz 1 Nummer 2, \u00a7 344 Abs. 2 des Dritten Buches Sozialgesetzbuch (Arbeitsf\u00f6rderung),</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 20 Abs. 3 Satz 1 Nr. 2 des Vierten Buches Sozialgesetzbuch (Gesamtsozialversicherungsbeitrag),</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 67 Abs. 3 Satz 1 Nr. 2 Buchstabe b und c, \u00a7 82 Abs. 2 Satz 2 des Siebten Buches Sozialgesetzbuch (Gesetzliche Unfallversicherung),</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 33b Abs. 4 Satz 2 Nr. 2 Buchstabe d, \u00a7 45 Abs. 3 Satz 1 Buchstabe c des Bundesversorgungsgesetzes (Kinderzuschlag und Waisenrente bei Kriegsopferversorgung),</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 2 Abs. 2 Satz 1 Nr. 2 Buchstabe b und d des Bundeskindergeldgesetzes (Kindergeld),</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 10 Abs. 1 des Vierten Buches Sozialgesetzbuch (Besch\u00e4ftigungsort),</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 7 Abs. 1 Satz 1 Nr. 2, \u00a7 10 Abs. 2 Nr. 3 des F\u00fcnften Buches Sozialgesetzbuch (Krankenversicherung),</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 6 Absatz 1b Satz 5, \u00a7 48 Abs. 4 Satz 1 Nr. 2 Buchstabe b und c des Sechsten Buches Sozialgesetzbuch (Rentenversicherung),</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 25 Abs. 2 Nr. 3 des Elften Buches Sozialgesetzbuch (Pflegeversicherung),</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 1 Abs. 1 Nr. 2 Buchstabe h der Verordnung \u00fcber den Ausgleich gemeinwirtschaftlicher Leistungen im Stra\u00dfenpersonenverkehr (Erm\u00e4\u00dfigungen im Stra\u00dfenpersonenverkehr),</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 1 Abs. 1 Nr. 2 Buchstabe h der Verordnung \u00fcber den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr (Erm\u00e4\u00dfigungen im Eisenbahnverkehr),</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 14c des Gesetzes \u00fcber den Zivildienst der Kriegsdienstverweigerer (Anerkannte Kriegsdienstverweigerer).</LA></DD></DL></P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE001000000",
+      "attributes": {
+        "name": "\u00a7 10",
+        "title": "Tr\u00e4ger",
+        "body": {
+          "content": "<P>(1) Als Tr\u00e4ger des freiwilligen sozialen Jahres im Inland im Sinne dieses Gesetzes sind zugelassen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Verb\u00e4nde, die in der Bundesarbeitsgemeinschaft der freien Wohlfahrtspflege zusammengeschlossen sind, und ihre Untergliederungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Religionsgemeinschaften mit dem Status einer \u00f6ffentlich-rechtlichen K\u00f6rperschaft und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Gebietsk\u00f6rperschaften sowie nach n\u00e4herer Bestimmung der L\u00e4nder sonstige K\u00f6rperschaften des \u00f6ffentlichen Rechts.</LA></DD></DL></P><P>(2) Als weitere Tr\u00e4ger des freiwilligen sozialen Jahres im Inland und als Tr\u00e4ger des freiwilligen \u00f6kologischen Jahres im Inland im Sinne dieses Gesetzes kann die zust\u00e4ndige Landesbeh\u00f6rde solche Einrichtungen zulassen, die f\u00fcr eine den Bestimmungen der \u00a7\u00a7 2, 3 oder 4 und 5 entsprechende Durchf\u00fchrung Gew\u00e4hr bieten.</P><P>(3) Als Tr\u00e4ger des freiwilligen sozialen Jahres im Ausland oder als Tr\u00e4ger des freiwilligen \u00f6kologischen Jahres im Ausland im Sinne dieses Gesetzes werden juristische Personen zugelassen, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Ma\u00dfnahmen im Sinne der \u00a7\u00a7 6 oder 7 durchf\u00fchren und Freiwillige f\u00fcr einen Dienst im Ausland vorbereiten, entsenden und betreuen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Gew\u00e4hr daf\u00fcr bieten, dass sie auf Grund ihrer nachgewiesenen Auslandserfahrungen ihre Aufgabe auf Dauer erf\u00fcllen und den ihnen nach dem Gesetz obliegenden Verpflichtungen nachkommen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>ausschlie\u00dflich und unmittelbar steuerbeg\u00fcnstigten Zwecken im Sinne der \u00a7\u00a7 51 bis 68 der Abgabenordnung dienen und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>ihren Sitz in der Bundesrepublik Deutschland haben.</LA></DD></DL>\u00dcber die Zulassung eines Tr\u00e4gers des freiwilligen sozialen Jahres im Ausland und \u00fcber die Zulassung eines Tr\u00e4gers des freiwilligen \u00f6kologischen Jahres im Ausland entscheidet die zust\u00e4ndige Landesbeh\u00f6rde.</P><P>(4) Die zust\u00e4ndige Landesbeh\u00f6rde hat die Zulassung von Tr\u00e4gern im Sinne dieses Gesetzes zu widerrufen, wenn eine der in Absatz 2 oder 3 genannten Voraussetzungen nicht mehr vorliegt. Die Zulassung kann auch aus anderen wichtigen Gr\u00fcnden widerrufen werden, insbesondere, wenn eine Auflage nicht erf\u00fcllt worden ist. Durch den Widerruf oder die R\u00fccknahme der Zulassung werden die Rechte der Freiwilligen nach diesem Gesetz nicht ber\u00fchrt.</P><P>(5) Bestehende Zulassungen von Tr\u00e4gern nach dem Gesetz zur F\u00f6rderung eines freiwilligen sozialen Jahres oder nach dem Gesetz zur F\u00f6rderung eines freiwilligen \u00f6kologischen Jahres bleiben unber\u00fchrt.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE001100000",
+      "attributes": {
+        "name": "\u00a7 11",
+        "title": "Vereinbarung, Bescheinigung, Zeugnis",
+        "body": {
+          "content": "<P>(1) Der zugelassene Tr\u00e4ger des Jugendfreiwilligendienstes und die oder der Freiwillige schlie\u00dfen vor Beginn des Jugendfreiwilligendienstes eine schriftliche Vereinbarung ab. Sie muss enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Vor- und Familienname, Geburtsdatum und Anschrift der oder des Freiwilligen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Bezeichnung des Tr\u00e4gers des Jugendfreiwilligendienstes und der Einsatzstelle,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Angabe des Zeitraumes, f\u00fcr den die oder der Freiwillige sich zum Jugendfreiwilligendienst verpflichtet hat, sowie Regelungen f\u00fcr den Fall der vorzeitigen Beendigung des Dienstes,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Erkl\u00e4rung, dass die Bestimmungen dieses Gesetzes w\u00e4hrend der Durchf\u00fchrung des Jugendfreiwilligendienstes einzuhalten sind,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Angabe des Zulassungsbescheides des Tr\u00e4gers oder der gesetzlichen Zulassung,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Angaben zur Art und H\u00f6he der Geld- und Sachleistungen f\u00fcr Unterkunft, Verpflegung, Arbeitskleidung und Taschengeld,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>die Angabe der Anzahl der Urlaubstage und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>die Ziele des Dienstes und die wesentlichen der Zielerreichung dienenden Ma\u00dfnahmen.</LA></DD></DL></P><P>(2) Die Vereinbarung nach Absatz 1 kann auch als gemeinsame Vereinbarung zwischen dem zugelassenen Tr\u00e4ger, der Einsatzstelle und der oder dem Freiwilligen geschlossen werden, in der die Einsatzstelle die Geld- und Sachleistungen f\u00fcr Unterkunft, Verpflegung, Arbeitskleidung und Taschengeld auf eigene Rechnung \u00fcbernimmt. Der Tr\u00e4ger haftet f\u00fcr die Erf\u00fcllung dieser Pflichten gegen\u00fcber der oder dem Freiwilligen und Dritten wie ein selbstschuldnerischer B\u00fcrge.</P><P>(3) Der Tr\u00e4ger stellt der Freiwilligen oder dem Freiwilligen nach Abschluss des Dienstes eine Bescheinigung aus. Absatz 1 Satz 2 Nr. 4 und 5 gilt entsprechend; au\u00dferdem muss die Bescheinigung den Zeitraum des Dienstes enthalten.</P><P>(4) Bei Beendigung des Jugendfreiwilligendienstes kann die Freiwillige oder der Freiwillige von dem Tr\u00e4ger ein schriftliches Zeugnis \u00fcber die Art und Dauer des Jugendfreiwilligendienstes fordern. Die Einsatzstelle soll bei der Zeugniserstellung angemessen beteiligt werden; im Falle des \u00a7 11 Abs. 2 ist das Zeugnis im Einvernehmen mit der Einsatzstelle zu erstellen. Das Zeugnis ist auf Verlangen auf die Leistungen und die F\u00fchrung w\u00e4hrend der Dienstzeit zu erstrecken. Dabei sind in das Zeugnis berufsqualifizierende Merkmale des Jugendfreiwilligendienstes aufzunehmen.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE001201116",
+      "attributes": {
+        "name": "\u00a7 12",
+        "title": "Datenschutz",
+        "body": {
+          "content": "<P>Der Tr\u00e4ger des Jugendfreiwilligendienstes darf personenbezogene Daten nach \u00a7 11 Abs. 1 Satz 2 verarbeiten, soweit dies f\u00fcr die F\u00f6rderung nach \u00a7 9 in Verbindung mit den dort genannten Vorschriften erforderlich ist. Die Daten sind nach Abwicklung des Jugendfreiwilligendienstes zu l\u00f6schen.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE001300000",
+      "attributes": {
+        "name": "\u00a7 13",
+        "title": "Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen",
+        "body": {
+          "content": "<P>F\u00fcr eine T\u00e4tigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Bundesurlaubsgesetz entsprechend anzuwenden. F\u00fcr Sch\u00e4den bei der Aus\u00fcbung ihrer T\u00e4tigkeit haften Freiwillige nur wie Arbeitnehmerinnen und Arbeitnehmer.</P>",
+          "toc": null,
+          "footnotes": null
+        },
+        "footnotes": null
+      }
+    },
+    {
+      "type": "article",
+      "id": "BJNR084210008BJNE001501116",
+      "attributes": {
+        "name": "\u00a7 15",
+        "title": "(weggefallen)",
+        "body": null,
+        "footnotes": null
+      }
+    }
+  ]
+}
