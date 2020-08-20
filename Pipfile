@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+rechtsinfo-api = {editable = true, path = "."}
+
+[packages]
+pytest = "*"
+lxml = "*"
+pydantic = "*"
+pyhumps = "*"
+
+[requires]
+python_version = "3.8"
