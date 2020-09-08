@@ -10,7 +10,7 @@ from .models import Article, Heading, HeadingArticle
 def _text(elements, multi=False):
     def _element_text_with_tags(element):
         """Preserve XML tags in the returned text string."""
-        return ''.join(itertools.chain([element.text or ''], (etree.tostring(child, encoding='unicode') for child in element)))
+        return ''.join(itertools.chain([element.text or ''], (etree.tostring(child, encoding='unicode') for child in element))).strip()
 
     if elements is None or len(elements) == 0:
         return None
@@ -81,9 +81,12 @@ def _parse_text(norm):
 
     assert text_format == 'XML', f'Unknown text format {text["format"]}'
 
+    content = _parse_content(text.xpath('Content'))
+    toc = _text(text.xpath('TOC'))
+    assert not (content and toc), 'Found norm with both TOC and Content.'
+
     data = {
-        'content': _parse_text_content(text.xpath('Content')),
-        'toc': _text(text.xpath('TOC')),
+        'content': content or toc,
         'footnotes': _text(text.xpath('Footnotes'))
     }
 
