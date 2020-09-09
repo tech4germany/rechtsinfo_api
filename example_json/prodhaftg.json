@@ -1,0 +1,277 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR021980989",
+    "abbreviation": "ProdHaftG",
+    "extraAbbreviations": [],
+    "firstPublished": "1989-12-15",
+    "sourceTimestamp": "20170811221042",
+    "headingShort": "Produkthaftungsgesetz",
+    "headingLong": "Gesetz \u00fcber die Haftung f\u00fcr fehlerhafte Produkte",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1989, 2198"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 5 G v. 17.7.2017 I 2421"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.1990 +++)<BR/>(+++ Ma\u00dfgaben aufgrund EinigVtr vgl ProdHaftG Anhang EV,<BR/>     nicht mehr anzuwenden +++)<BR/><BR/></pre></P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR021980989BJNE000100328",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Haftung",
+        "body": {
+          "content": "<P>(1) Wird durch den Fehler eines Produkts jemand get\u00f6tet, sein K\u00f6rper oder seine Gesundheit verletzt oder eine Sache besch\u00e4digt, so ist der Hersteller des Produkts verpflichtet, dem Gesch\u00e4digten den daraus entstehenden Schaden zu ersetzen. Im Falle der Sachbesch\u00e4digung gilt dies nur, wenn eine andere Sache als das fehlerhafte Produkt besch\u00e4digt wird und diese andere Sache ihrer Art nach gew\u00f6hnlich f\u00fcr den privaten Ge- oder Verbrauch bestimmt und hierzu von dem Gesch\u00e4digten haupts\u00e4chlich verwendet worden ist.</P><P>(2) Die Ersatzpflicht des Herstellers ist ausgeschlossen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">er das Produkt nicht in den Verkehr gebracht hat,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den Umst\u00e4nden davon auszugehen ist, da\u00df das Produkt den Fehler, der den Schaden verursacht hat, noch nicht hatte, als der Hersteller es in den Verkehr brachte,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">er das Produkt weder f\u00fcr den Verkauf oder eine andere Form des Vertriebs mit wirtschaftlichem Zweck hergestellt noch im Rahmen seiner beruflichen T\u00e4tigkeit hergestellt oder vertrieben hat,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Fehler darauf beruht, da\u00df das Produkt in dem Zeitpunkt, in dem der Hersteller es in den Verkehr brachte, dazu zwingenden Rechtsvorschriften entsprochen hat, oder</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Fehler nach dem Stand der Wissenschaft und Technik in dem Zeitpunkt, in dem der Hersteller das Produkt in den Verkehr brachte, nicht erkannt werden konnte.</LA></DD> </DL> </P><P>(3) Die Ersatzpflicht des Herstellers eines Teilprodukts ist ferner ausgeschlossen, wenn der Fehler durch die Konstruktion des Produkts, in welches das Teilprodukt eingearbeitet wurde, oder durch die Anleitungen des Herstellers des Produkts verursacht worden ist. Satz 1 ist auf den Hersteller eines Grundstoffs entsprechend anzuwenden.</P><P>(4) F\u00fcr den Fehler, den Schaden und den urs\u00e4chlichen Zusammenhang zwischen Fehler und Schaden tr\u00e4gt der Gesch\u00e4digte die Beweislast. Ist streitig, ob die Ersatzpflicht gem\u00e4\u00df Absatz 2 oder 3 ausgeschlossen ist, so tr\u00e4gt der Hersteller die Beweislast.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE000201311",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Produkt",
+        "body": {
+          "content": "<P>Produkt im Sinne dieses Gesetzes ist jede bewegliche Sache, auch wenn sie einen Teil einer anderen beweglichen Sache oder einer unbeweglichen Sache bildet, sowie Elektrizit\u00e4t.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE000300328",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Fehler",
+        "body": {
+          "content": "<P>(1) Ein Produkt hat einen Fehler, wenn es nicht die Sicherheit bietet, die unter Ber\u00fccksichtigung aller Umst\u00e4nde, insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">seiner Darbietung,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Gebrauchs, mit dem billigerweise gerechnet werden kann,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Zeitpunkts, in dem es in den Verkehr gebracht wurde,</LA></DD> </DL>berechtigterweise erwartet werden kann.</P><P>(2) Ein Produkt hat nicht allein deshalb einen Fehler, weil sp\u00e4ter ein verbessertes Produkt in den Verkehr gebracht wurde.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE002003307",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Hersteller",
+        "body": {
+          "content": "<P>(1) Hersteller im Sinne dieses Gesetzes ist, wer das Endprodukt, einen Grundstoff oder ein Teilprodukt hergestellt hat. Als Hersteller gilt auch jeder, der sich durch das Anbringen seines Namens, seiner Marke oder eines anderen unterscheidungskr\u00e4ftigen Kennzeichens als Hersteller ausgibt.</P><P>(2) Als Hersteller gilt ferner, wer ein Produkt zum Zweck des Verkaufs, der Vermietung, des Mietkaufs oder einer anderen Form des Vertriebs mit wirtschaftlichem Zweck im Rahmen seiner gesch\u00e4ftlichen T\u00e4tigkeit in den Geltungsbereich des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum einf\u00fchrt oder verbringt.</P><P>(3) Kann der Hersteller des Produkts nicht festgestellt werden, so gilt jeder Lieferant als dessen Hersteller, es sei denn, da\u00df er dem Gesch\u00e4digten innerhalb eines Monats, nachdem ihm dessen diesbez\u00fcgliche Aufforderung zugegangen ist, den Hersteller oder diejenige Person benennt, die ihm das Produkt geliefert hat. Dies gilt auch f\u00fcr ein eingef\u00fchrtes Produkt, wenn sich bei diesem die in Absatz 2 genannte Person nicht feststellen l\u00e4\u00dft, selbst wenn der Name des Herstellers bekannt ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE000500328",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Mehrere Ersatzpflichtige",
+        "body": {
+          "content": "<P>Sind f\u00fcr denselben Schaden mehrere Hersteller nebeneinander zum Schadensersatz verpflichtet, so haften sie als Gesamtschuldner. Im Verh\u00e4ltnis der Ersatzpflichtigen zueinander h\u00e4ngt, soweit nichts anderes bestimmt ist, die Verpflichtung zum Ersatz sowie der Umfang des zu leistenden Ersatzes von den Umst\u00e4nden, insbesondere davon ab, inwieweit der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist; im \u00fcbrigen gelten die \u00a7\u00a7 421 bis 425 sowie \u00a7 426 Abs. 1 Satz 2 und Abs. 2 des B\u00fcrgerlichen Gesetzbuchs.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE000600328",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Haftungsminderung",
+        "body": {
+          "content": "<P>(1) Hat bei der Entstehung des Schadens ein Verschulden des Gesch\u00e4digten mitgewirkt, so gilt \u00a7 254 des B\u00fcrgerlichen Gesetzbuchs; im Falle der Sachbesch\u00e4digung steht das Verschulden desjenigen, der die tats\u00e4chliche Gewalt \u00fcber die Sache aus\u00fcbt, dem Verschulden des Gesch\u00e4digten gleich.</P><P>(2) Die Haftung des Herstellers wird nicht gemindert, wenn der Schaden durch einen Fehler des Produkts und zugleich durch die Handlung eines Dritten verursacht worden ist. \u00a7 5 Satz 2 gilt entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE000701123",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Umfang der Ersatzpflicht bei T\u00f6tung",
+        "body": {
+          "content": "<P>(1) Im Falle der T\u00f6tung ist Ersatz der Kosten einer versuchten Heilung sowie des Verm\u00f6gensnachteils zu leisten, den der Get\u00f6tete dadurch erlitten hat, da\u00df w\u00e4hrend der Krankheit seine Erwerbsf\u00e4higkeit aufgehoben oder gemindert war oder seine Bed\u00fcrfnisse vermehrt waren. Der Ersatzpflichtige hat au\u00dferdem die Kosten der Beerdigung demjenigen zu ersetzen, der diese Kosten zu tragen hat.</P><P>(2) Stand der Get\u00f6tete zur Zeit der Verletzung zu einem Dritten in einem Verh\u00e4ltnis, aus dem er diesem gegen\u00fcber kraft Gesetzes unterhaltspflichtig war oder unterhaltspflichtig werden konnte, und ist dem Dritten infolge der T\u00f6tung das Recht auf Unterhalt entzogen, so hat der Ersatzpflichtige dem Dritten insoweit Schadensersatz zu leisten, als der Get\u00f6tete w\u00e4hrend der mutma\u00dflichen Dauer seines Lebens zur Gew\u00e4hrung des Unterhalts verpflichtet gewesen w\u00e4re. Die Ersatzpflicht tritt auch ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.</P><P>(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der Verletzung zu dem Get\u00f6teten in einem besonderen pers\u00f6nlichen N\u00e4heverh\u00e4ltnis stand, f\u00fcr das dem Hinterbliebenen zugef\u00fcgte seelische Leid eine angemessene Entsch\u00e4digung in Geld zu leisten. Ein besonderes pers\u00f6nliches N\u00e4heverh\u00e4ltnis wird vermutet, wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des Get\u00f6teten war.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE000801377",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Umfang der Ersatzpflicht bei K\u00f6rperverletzung",
+        "body": {
+          "content": "<P>Im Falle der Verletzung des K\u00f6rpers oder der Gesundheit ist Ersatz der Kosten der Heilung sowie des Verm\u00f6gensnachteils zu leisten, den der Verletzte dadurch erleidet, da\u00df infolge der Verletzung zeitweise oder dauernd seine Erwerbsf\u00e4higkeit aufgehoben oder gemindert ist oder seine Bed\u00fcrfnisse vermehrt sind. Wegen des Schadens, der nicht Verm\u00f6gensschaden ist, kann auch eine billige Entsch\u00e4digung in Geld gefordert werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE000900328",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Schadensersatz durch Geldrente",
+        "body": {
+          "content": "<P>(1) Der Schadensersatz wegen Aufhebung oder Minderung der Erwerbsf\u00e4higkeit und wegen vermehrter Bed\u00fcrfnisse des Verletzten sowie der nach \u00a7 7 Abs. 2 einem Dritten zu gew\u00e4hrende Schadensersatz ist f\u00fcr die Zukunft durch eine Geldrente zu leisten.</P><P>(2) \u00a7 843 Abs. 2 bis 4 des B\u00fcrgerlichen Gesetzbuchs ist entsprechend anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001001377",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Haftungsh\u00f6chstbetrag",
+        "body": {
+          "content": "<P>(1) Sind Personensch\u00e4den durch ein Produkt oder gleiche Produkte mit demselben Fehler verursacht worden, so haftet der Ersatzpflichtige nur bis zu einem H\u00f6chstbetrag von 85 Millionen Euro.</P><P>(2) \u00dcbersteigen die den mehreren Gesch\u00e4digten zu leistenden Entsch\u00e4digungen den in Absatz 1 vorgesehenen H\u00f6chstbetrag, so verringern sich die einzelnen Entsch\u00e4digungen in dem Verh\u00e4ltnis, in dem ihr Gesamtbetrag zu dem H\u00f6chstbetrag steht.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001101377",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Selbstbeteiligung bei Sachbesch\u00e4digung",
+        "body": {
+          "content": "<P>Im Falle der Sachbesch\u00e4digung hat der Gesch\u00e4digte einen Schaden bis zu einer H\u00f6he von 500 Euro selbst zu tragen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001200328",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Verj\u00e4hrung",
+        "body": {
+          "content": "<P>(1) Der Anspruch nach \u00a7 1 verj\u00e4hrt in drei Jahren von dem Zeitpunkt an, in dem der Ersatzberechtigte von dem Schaden, dem Fehler und von der Person des Ersatzpflichtigen Kenntnis erlangt hat oder h\u00e4tte erlangen m\u00fcssen.</P><P>(2) Schweben zwischen dem Ersatzpflichtigen und dem Ersatzberechtigten Verhandlungen \u00fcber den zu leistenden Schadensersatz, so ist die Verj\u00e4hrung gehemmt, bis die Fortsetzung der Verhandlungen verweigert wird.</P><P>(3) Im \u00fcbrigen sind die Vorschriften des B\u00fcrgerlichen Gesetzbuchs \u00fcber die Verj\u00e4hrung anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001300328",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Erl\u00f6schen von Anspr\u00fcchen",
+        "body": {
+          "content": "<P>(1) Der Anspruch nach \u00a7 1 erlischt zehn Jahre nach dem Zeitpunkt, in dem der Hersteller das Produkt, das den Schaden verursacht hat, in den Verkehr gebracht hat. Dies gilt nicht, wenn \u00fcber den Anspruch ein Rechtsstreit oder ein Mahnverfahren anh\u00e4ngig ist.</P><P>(2) Auf den rechtskr\u00e4ftig festgestellten Anspruch oder auf den Anspruch aus einem anderen Vollstreckungstitel ist Absatz 1 Satz 1 nicht anzuwenden. Gleiches gilt f\u00fcr den Anspruch, der Gegenstand eines au\u00dfergerichtlichen Vergleichs ist oder der durch rechtsgesch\u00e4ftliche Erkl\u00e4rung anerkannt wurde.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001400328",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Unabdingbarkeit",
+        "body": {
+          "content": "<P>Die Ersatzpflicht des Herstellers nach diesem Gesetz darf im voraus weder ausgeschlossen noch beschr\u00e4nkt werden. Entgegenstehende Vereinbarungen sind nichtig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001500328",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Arzneimittelhaftung, Haftung nach anderen\nRechtsvorschriften",
+        "body": {
+          "content": "<P>(1) Wird infolge der Anwendung eines zum Gebrauch bei Menschen bestimmten Arzneimittels, das im Geltungsbereich des Arzneimittelgesetzes an den Verbraucher abgegeben wurde und der Pflicht zur Zulassung unterliegt oder durch Rechtsverordnung von der Zulassung befreit worden ist, jemand get\u00f6tet, sein K\u00f6rper oder seine Gesundheit verletzt, so sind die Vorschriften des Produkthaftungsgesetzes nicht anzuwenden.</P><P>(2) Eine Haftung aufgrund anderer Vorschriften bleibt unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001600328",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "\u00dcbergangsvorschrift",
+        "body": {
+          "content": "<P>Dieses Gesetz ist nicht auf Produkte anwendbar, die vor seinem Inkrafttreten in den Verkehr gebracht worden sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001701301",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Erla\u00df von Rechtsverordnungen",
+        "body": {
+          "content": "<P>Das Bundesministerium der Justiz und f\u00fcr Verbraucherschutz wird erm\u00e4chtigt, durch Rechtsverordnung die Betr\u00e4ge der \u00a7\u00a7 10 und 11 zu \u00e4ndern oder das Au\u00dferkrafttreten des \u00a7 10 anzuordnen, wenn und soweit dies zur Umsetzung einer Richtlinie des Rates der Europ\u00e4ischen Gemeinschaften auf der Grundlage der Artikel 16 Abs. 2 und 18 Abs. 2 der Richtlinie des Rates vom 25. Juli 1985 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten \u00fcber die Haftung f\u00fcr fehlerhafte Produkte erforderlich ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001800328",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "Berlin-Klausel",
+        "body": {
+          "content": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die aufgrund dieses Gesetzes erlassen werden, gelten nach Ma\u00dfgabe des \u00a7 14 des Dritten \u00dcberleitungsgesetzes auch im Land Berlin.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR021980989BJNE001900328",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Inkrafttreten",
+        "body": {
+          "content": "<P>Dieses Gesetz tritt am 1. Januar 1990 in Kraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,1338 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR014090971",
+    "abbreviation": "BAf\u00f6G",
+    "extraAbbreviations": [],
+    "firstPublished": "1971-08-26",
+    "sourceTimestamp": "20200731212503",
+    "headingShort": "Bundesausbildungsf\u00f6rderungsgesetz",
+    "headingLong": "Bundesgesetz \u00fcber individuelle F\u00f6rderung der Ausbildung",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1971, 1409"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Neuf",
+        "comment": "Neugefasst durch Bek. v. 7.12.2010 I 1952; 2012 I 197;"
+      },
+      {
+        "category": "Stand",
+        "comment": "zuletzt ge\u00e4ndert durch Art. 2 G v. 25.5.2020 I 1073"
+      },
+      {
+        "category": "Sonst",
+        "comment": "\u00c4nderung der Inhalts\u00fcbersicht durch Art. 51 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausf\u00fchrbar, da dieses G keine amtliche Inhalts\u00fcbersicht hat"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.10.1985 +++)<BR/><BR/></pre>(+++ \u00c4nderungen aufgrund EinigVtr vgl. \u00a7\u00a7 5, 6a, 12, 13, 16, 24, 40, 40a, 42, 48, 59 u. 66a +++)</P><P><BR/> Das G ist in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. XVI Sachgeb. B Abschn. II Eings. EinigVtr v. 31. 8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1132 am 1.1.1991 in Kraft getreten.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR014090971BJNE001201310",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Grundsatz",
+        "body": {
+          "content": "<P>Auf individuelle Ausbildungsf\u00f6rderung besteht f\u00fcr eine der Neigung, Eignung und Leistung entsprechende Ausbildung ein Rechtsanspruch nach Ma\u00dfgabe dieses Gesetzes, wenn dem Auszubildenden die f\u00fcr seinen Lebensunterhalt und seine Ausbildung erforderlichen Mittel anderweitig nicht zur Verf\u00fcgung stehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNG000101310",
+        "type": "heading",
+        "name": "Abschnitt I",
+        "title": "F\u00f6rderungsf\u00e4hige Ausbildung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE001314116",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Ausbildungsst\u00e4tten",
+        "body": {
+          "content": "<P>(1) Ausbildungsf\u00f6rderung wird geleistet f\u00fcr den Besuch von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">weiterf\u00fchrenden allgemeinbildenden Schulen und Berufsfachschulen, einschlie\u00dflich der Klassen aller Formen der beruflichen Grundbildung, ab Klasse 10 sowie von Fach- und Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, wenn der Auszubildende die Voraussetzungen des Absatzes 1a erf\u00fcllt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Berufsfachschulklassen und Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, sofern sie in einem zumindest zweij\u00e4hrigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fach- und Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen, Abendgymnasien und Kollegs,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6heren Fachschulen sowie von Akademien, die Abschl\u00fcsse verleihen, die nicht nach Landesrecht Hochschulabschl\u00fcssen gleichgestellt sind,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hochschulen sowie von Akademien, die Abschl\u00fcsse verleihen, die nach Landesrecht Hochschulabschl\u00fcssen gleichgestellt sind.</LA></DD></DL>Ma\u00dfgebend f\u00fcr die Zuordnung sind Art und Inhalt der Ausbildung. Ausbildungsf\u00f6rderung wird geleistet, wenn die Ausbildung an einer \u00f6ffentlichen Einrichtung \u2013 mit Ausnahme nichtstaatlicher Hochschulen \u2013 oder einer genehmigten Ersatzschule durchgef\u00fchrt wird.</P><P>(1a) F\u00fcr den Besuch der in Absatz 1 Nummer 1 bezeichneten Ausbildungsst\u00e4tten wird Ausbildungsf\u00f6rderung nur geleistet, wenn der Auszubildende nicht bei seinen Eltern wohnt und <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">von der Wohnung der Eltern aus eine entsprechende zumutbare Ausbildungsst\u00e4tte nicht erreichbar ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen eigenen Haushalt f\u00fchrt und verheiratet oder in einer Lebenspartnerschaft verbunden ist oder war,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen eigenen Haushalt f\u00fchrt und mit mindestens einem Kind zusammenlebt.</LA></DD></DL>Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass \u00fcber Satz 1 hinaus Ausbildungsf\u00f6rderung f\u00fcr den Besuch der in Absatz 1 Nummer 1 bezeichneten Ausbildungsst\u00e4tten auch in F\u00e4llen geleistet wird, in denen die Verweisung des Auszubildenden auf die Wohnung der Eltern aus schwerwiegenden sozialen Gr\u00fcnden unzumutbar ist.</P><P>(2) F\u00fcr den Besuch von Erg\u00e4nzungsschulen und nichtstaatlichen Hochschulen sowie von nichtstaatlichen Akademien im Sinne des Absatzes 1 Satz 1 Nummer 6 wird Ausbildungsf\u00f6rderung nur geleistet, wenn die zust\u00e4ndige Landesbeh\u00f6rde anerkennt, dass der Besuch der Ausbildungsst\u00e4tte dem Besuch einer in Absatz 1 bezeichneten Ausbildungsst\u00e4tte gleichwertig ist. Die Pr\u00fcfung der Gleichwertigkeit nach Satz 1 erfolgt von Amts wegen im Rahmen des Bewilligungsverfahrens oder auf Antrag der Ausbildungsst\u00e4tte.</P><P>(3) Das Bundesministerium f\u00fcr Bildung und Forschung kann durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass Ausbildungsf\u00f6rderung geleistet wird f\u00fcr den Besuch von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildungsst\u00e4tten, die nicht in den Abs\u00e4tzen 1 und 2 bezeichnet sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildungsst\u00e4tten, an denen Schulversuche durchgef\u00fchrt werden,</LA></DD></DL>wenn er dem Besuch der in den Abs\u00e4tzen 1 und 2 bezeichneten Ausbildungsst\u00e4tten gleichwertig ist.</P><P>(4) Ausbildungsf\u00f6rderung wird auch f\u00fcr die Teilnahme an einem Praktikum geleistet, das in Zusammenhang mit dem Besuch einer der in den Abs\u00e4tzen 1 und 2 bezeichneten oder nach Absatz 3 bestimmten Ausbildungsst\u00e4tten gefordert wird und dessen Inhalt in Ausbildungsbestimmungen geregelt ist. Wird das Praktikum in Zusammenhang mit dem Besuch einer in Absatz 1 Nummer 1 bezeichneten Ausbildungsst\u00e4tte gefordert, wird Ausbildungsf\u00f6rderung nur geleistet, wenn der Auszubildende nicht bei seinen Eltern wohnt.</P><P>(5) Ausbildungsf\u00f6rderung wird nur geleistet, wenn der Ausbildungsabschnitt mindestens ein Schul- oder Studienhalbjahr dauert und die Ausbildung die Arbeitskraft des Auszubildenden im Allgemeinen voll in Anspruch nimmt. Ausbildungsabschnitt im Sinne dieses Gesetzes ist die Zeit, die an Ausbildungsst\u00e4tten einer Ausbildungsst\u00e4ttenart einschlie\u00dflich der im Zusammenhang hiermit geforderten Praktika bis zu einem Abschluss oder Abbruch verbracht wird. Ein Masterstudiengang nach \u00a7 7 Absatz 1a gilt im Verh\u00e4ltnis zu dem Studiengang, auf den er aufbaut, in jedem Fall als eigener Ausbildungsabschnitt.</P><P>(6) Ausbildungsf\u00f6rderung wird nicht geleistet, wenn der Auszubildende <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterhaltsgeld, Arbeitslosengeld bei beruflicher Weiterbildung nach dem Dritten Buch Sozialgesetzbuch oder Arbeitslosengeld II bei beruflicher Weiterbildung nach dem Zweiten Buch Sozialgesetzbuch erh\u00e4lt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen von den Begabtenf\u00f6rderungswerken erh\u00e4lt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Besch\u00e4ftigter im \u00f6ffentlichen Dienst Anw\u00e4rterbez\u00fcge oder \u00e4hnliche Leistungen aus \u00f6ffentlichen Mitteln erh\u00e4lt oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Gefangener Anspruch auf Ausbildungsbeihilfe nach den \u00a7\u00a7 44, 176 Absatz 4 des Strafvollzugsgesetzes hat.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE001402310",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Fernunterricht",
+        "body": {
+          "content": "<P>(1) Ausbildungsf\u00f6rderung wird f\u00fcr die Teilnahme an Fernunterrichtslehrg\u00e4ngen geleistet, soweit sie unter denselben Zugangsvoraussetzungen auf denselben Abschluss vorbereiten wie die in \u00a7 2 Absatz 1 bezeichneten oder nach \u00a7 2 Absatz 3 bestimmten Ausbildungsst\u00e4tten.</P><P>(2) Ausbildungsf\u00f6rderung wird nur f\u00fcr die Teilnahme an Lehrg\u00e4ngen geleistet, die nach \u00a7 12 des Fernunterrichtsschutzgesetzes zugelassen sind oder, ohne unter die Bestimmungen des Fernunterrichtsschutzgesetzes zu fallen, von einem \u00f6ffentlich-rechtlichen Tr\u00e4ger veranstaltet werden.</P><P>(3) Ausbildungsf\u00f6rderung wird nur geleistet, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende in den sechs Monaten vor Beginn des Bewilligungszeitraumes erfolgreich an dem Lehrgang teilgenommen hat und er die Vorbereitung auf den Ausbildungsabschluss in l\u00e4ngstens zw\u00f6lf Monaten beenden kann,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Teilnahme an dem Lehrgang die Arbeitskraft des Auszubildenden voll in Anspruch nimmt und diese Zeit zumindest drei aufeinanderfolgende Kalendermonate dauert.</LA></DD></DL>Das ist durch eine Bescheinigung des Fernlehrinstituts nachzuweisen.</P><P>(4) Die zust\u00e4ndige Landesbeh\u00f6rde entscheidet, den Auszubildenden welcher Ausbildungsst\u00e4ttenart die Teilnehmer an dem jeweiligen Fernunterrichtslehrgang gleichzustellen sind. Auszubildende, die an Lehrg\u00e4ngen teilnehmen, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den Hauptschulabschluss vorbereiten, werden nach Vollendung des 17. Lebensjahres den Sch\u00fclern von Abendhauptschulen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den Realschulabschluss vorbereiten, werden nach Vollendung des 18. Lebensjahres den Sch\u00fclern von Abendrealschulen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf die Fachhochschulreife vorbereiten, werden nach Vollendung des 19. Lebensjahres den Sch\u00fclern von Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf die allgemeine oder eine fachgebundene Hochschulreife vorbereiten, werden nach Vollendung des 21. Lebensjahres den Sch\u00fclern von Abendgymnasien</LA></DD></DL>gleichgestellt.</P><P>(5) \u00a7 2 Absatz 4 und 6 ist entsprechend anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE001502310",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Ausbildung im Inland",
+        "body": {
+          "content": "<P>Ausbildungsf\u00f6rderung wird vorbehaltlich der \u00a7\u00a7 5 und 6 f\u00fcr die Ausbildung im Inland geleistet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE001617116",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Ausbildung im Ausland",
+        "body": {
+          "content": "<P>(1) Der st\u00e4ndige Wohnsitz im Sinne dieses Gesetzes ist an dem Ort begr\u00fcndet, der nicht nur vor\u00fcbergehend Mittelpunkt der Lebensbeziehungen ist, ohne dass es auf den Willen zur st\u00e4ndigen Niederlassung ankommt; wer sich lediglich zum Zwecke der Ausbildung an einem Ort aufh\u00e4lt, hat dort nicht seinen st\u00e4ndigen Wohnsitz begr\u00fcndet.</P><P>(2) Auszubildenden, die ihren st\u00e4ndigen Wohnsitz im Inland haben, wird Ausbildungsf\u00f6rderung geleistet f\u00fcr den Besuch einer im Ausland gelegenen Ausbildungsst\u00e4tte, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">er der Ausbildung nach dem Ausbildungsstand f\u00f6rderlich ist und au\u00dfer bei Schulen mit gymnasialer Oberstufe und bei Fachoberschulen zumindest ein Teil dieser Ausbildung auf die vorgeschriebene oder \u00fcbliche Ausbildungszeit angerechnet werden kann oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Rahmen der grenz\u00fcberschreitenden Zusammenarbeit einer deutschen und mindestens einer ausl\u00e4ndischen Ausbildungsst\u00e4tte die aufeinander aufbauenden Lehrveranstaltungen einer einheitlichen Ausbildung abwechselnd von den beteiligten deutschen und ausl\u00e4ndischen Ausbildungsst\u00e4tten angeboten werden oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ausbildung an einer Ausbildungsst\u00e4tte in einem Mitgliedstaat der Europ\u00e4ischen Union oder in der Schweiz aufgenommen oder fortgesetzt wird.</LA></DD></DL>Die Ausbildung muss mindestens sechs Monate oder ein Semester dauern; findet sie im Rahmen einer mit der besuchten Ausbildungsst\u00e4tte vereinbarten Kooperation statt, muss sie mindestens zw\u00f6lf Wochen dauern. Satz 1 ist auf die in \u00a7 8 Absatz 1 Nummer 1 bis 5 bezeichneten Auszubildenden auch dann anzuwenden, wenn sie ihren st\u00e4ndigen Wohnsitz nicht im Inland haben, aber nach den besonderen Umst\u00e4nden des Einzelfalls ihre hinreichende Verbundenheit zum Inland anderweitig nachweisen. Satz 1 Nummer 3 gilt f\u00fcr die in \u00a7 8 Absatz 1 Nummer 6 und 7, Absatz 2 und 3 bezeichneten Auszubildenden nur, wenn sie die Zugangsvoraussetzungen f\u00fcr die gef\u00f6rderte Ausbildung im Inland erworben haben oder eine Aufenthaltserlaubnis nach \u00a7 25 Absatz 1 und 2 des Aufenthaltsgesetzes besitzen.</P><P>(3) (weggefallen)</P><P>(4) Absatz 2 Nummer 1 und 2 gilt nur f\u00fcr den Besuch von Ausbildungsst\u00e4tten, der dem Besuch von folgenden im Inland gelegenen Ausbildungsst\u00e4tten nach \u00a7 2 gleichwertig ist: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schulen mit gymnasialer Oberstufe ab Klasse 11,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schulen mit gymnasialer Oberstufe ab Klasse 10, soweit die Hochschulzugangsberechtigung nach 12 Schuljahren erworben werden kann,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Berufsfachschulen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fach- und Fachoberschulklassen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6heren Fachschulen, Akademien oder Hochschulen;</LA></DD></DL>Absatz 2 Nummer 3 gilt nur f\u00fcr den Besuch von Ausbildungsst\u00e4tten, der dem Besuch der Ausbildungsst\u00e4tten in den Nummern 3 bis 5 gleichwertig ist, wobei die Fachoberschulklassen ausgenommen sind. Die Pr\u00fcfung der Gleichwertigkeit erfolgt von Amts wegen im Rahmen des Bewilligungsverfahrens.</P><P>(5) Wird im Zusammenhang mit dem Besuch einer im Inland gelegenen Berufsfachschule, einer Fachschulklasse, einer H\u00f6heren Fachschule, Akademie oder Hochschule oder mit dem nach Absatz 2 Satz 1 Nummer 3 gef\u00f6rderten Besuch einer in einem Mitgliedstaat der Europ\u00e4ischen Union gelegenen vergleichbaren Ausbildungsst\u00e4tte ein Praktikum gefordert, so wird f\u00fcr die Teilnahme an einem Praktikum im Ausland Ausbildungsf\u00f6rderung nur geleistet, wenn die Ausbildungsst\u00e4tte oder die zust\u00e4ndige Pr\u00fcfungsstelle anerkennt, das diese fachpraktische Ausbildung den Anforderungen der Pr\u00fcfungsordnung an die Praktikantenstelle gen\u00fcgt. Das Praktikum im Ausland muss der Ausbildung nach dem Ausbildungsstand f\u00f6rderlich sein und mindestens zw\u00f6lf Wochen dauern.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE001707116",
+        "type": "article",
+        "name": "\u00a7 5a",
+        "title": "Unber\u00fccksichtigte Ausbildungszeiten",
+        "body": {
+          "content": "<P>Bei der Leistung von Ausbildungsf\u00f6rderung f\u00fcr eine Ausbildung im Inland bleibt die Zeit einer Ausbildung, die der Auszubildende im Ausland durchgef\u00fchrt hat, l\u00e4ngstens jedoch bis zu einem Jahr, unber\u00fccksichtigt. Wenn w\u00e4hrend einer Ausbildung, die im Inland begonnen wurde und nach \u00a7 5 Absatz 2 Nummer 1 im Ausland fortgesetzt wird, die F\u00f6rderungsh\u00f6chstdauer erreicht w\u00fcrde, verl\u00e4ngert sich diese um die im Ausland verbrachte Ausbildungszeit, h\u00f6chstens jedoch um ein Jahr. Insgesamt bleibt nach den S\u00e4tzen 1 und 2 h\u00f6chstens ein Jahr unber\u00fccksichtigt; dies gilt auch bei mehrfachem Wechsel zwischen In- und Ausland. Die S\u00e4tze 1 und 2 gelten nicht, wenn der Auslandsaufenthalt in Ausbildungsbestimmungen als ein notwendig im Ausland durchzuf\u00fchrender Teil der Ausbildung vorgeschrieben ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE001802116",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "F\u00f6rderung der Deutschen im Ausland",
+        "body": {
+          "content": "<P>Deutschen im Sinne des Grundgesetzes, die ihren st\u00e4ndigen Wohnsitz in einem ausl\u00e4ndischen Staat haben und dort oder von dort aus in einem Nachbarstaat eine Ausbildungsst\u00e4tte besuchen, ohne dass ein Anspruch nach \u00a7 5 besteht, kann Ausbildungsf\u00f6rderung geleistet werden, wenn die besonderen Umst\u00e4nde des Einzelfalles dies rechtfertigen. Art und Dauer der Leistungen sowie die Anrechnung des Einkommens und Verm\u00f6gens richten sich nach den besonderen Verh\u00e4ltnissen im Aufenthaltsland. \u00a7 9 Absatz 1 und 2 sowie \u00a7 48 sind entsprechend, die \u00a7\u00a7 36 bis 38 sind nicht anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE001917116",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Erstausbildung, weitere Ausbildung",
+        "body": {
+          "content": "<P>(1) Ausbildungsf\u00f6rderung wird f\u00fcr die weiterf\u00fchrende allgemeinbildende und zumindest f\u00fcr drei Schul- oder Studienjahre berufsbildender Ausbildung im Sinne der \u00a7\u00a7 2 und 3 bis zu einem daran anschlie\u00dfenden berufsqualifizierenden Abschluss geleistet, l\u00e4ngstens bis zum Erwerb eines Hochschulabschlusses oder eines damit gleichgestellten Abschlusses. Berufsqualifizierend ist ein Ausbildungsabschluss auch dann, wenn er im Ausland erworben wurde und dort zur Berufsaus\u00fcbung bef\u00e4higt. Satz 2 ist nicht anzuwenden, wenn der Auszubildende eine im Inland begonnene Ausbildung fortsetzt, nachdem er im Zusammenhang mit einer nach \u00a7 5 Absatz 2 Nummer 1 und 2 dem Grunde nach f\u00f6rderungsf\u00e4higen Ausbildung einen berufsqualifizierenden Abschluss erworben hat.</P><P>(1a) F\u00fcr einen Master- oder Magisterstudiengang oder f\u00fcr einen postgradualen Diplomstudiengang sowie jeweils f\u00fcr vergleichbare Studieng\u00e4nge in Mitgliedstaaten der Europ\u00e4ischen Union und der Schweiz wird Ausbildungsf\u00f6rderung geleistet, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">er auf einem Bachelor- oder Bakkalaureusabschluss aufbaut oder im Rahmen einer Ausbildung nach \u00a7 5 Absatz 2 Nummer 1 oder 3 erfolgt und auf einem noch nicht abgeschlossenen einstufigen Inlandsstudium aufbaut, das von der aufnehmenden Hochschule oder der aufnehmenden Akademie im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6 als einem Bachelorabschluss entsprechend anerkannt wird, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende bislang ausschlie\u00dflich einen Bachelor- oder Bakkalaureusstudiengang abgeschlossen oder im Sinne der Nummer 1 eine Anerkennung des bisherigen Studiums als einem solchen Abschluss entsprechend erreicht hat.</LA></DD></DL>F\u00fcr nach Satz 1 f\u00f6rderungsf\u00e4hige Ausbildungen findet Absatz 3 Satz 1 Nummer 1 keine Anwendung. Auszubildenden, die von der Ausbildungsst\u00e4tte auf Grund vorl\u00e4ufiger Zulassung f\u00fcr einen nach Satz 1 f\u00f6rderungsf\u00e4higen Studiengang eingeschrieben worden sind, wird Ausbildungsf\u00f6rderung unter dem Vorbehalt der R\u00fcckforderung bis zu einer endg\u00fcltigen Entscheidung \u00fcber die Zulassung geleistet, l\u00e4ngstens jedoch f\u00fcr zw\u00f6lf Monate.</P><P>(1b) F\u00fcr einen Studiengang, der ganz oder teilweise mit einer staatlichen Pr\u00fcfung abschlie\u00dft (Staatsexamensstudiengang), wird Ausbildungsf\u00f6rderung auch geleistet, nachdem Auszubildende einen Bachelor- oder Bakkalaureusstudiengang abgeschlossen haben. Voraussetzung der Leistung ist, dass der Studiengang durch Studien- oder Pr\u00fcfungsordnung in der Weise vollst\u00e4ndig in den Staatsexamensstudiengang integriert ist, dass innerhalb der Regelstudienzeit des Bachelor- oder Bakkalaureusstudiengangs auch s\u00e4mtliche Ausbildungs- und Pr\u00fcfungsleistungen zu erbringen sind, die f\u00fcr den Staatsexamensstudiengang in der Studien- oder Pr\u00fcfungsordnung f\u00fcr denselben Zeitraum vorgesehen sind.</P><P>(2) F\u00fcr eine einzige weitere Ausbildung wird Ausbildungsf\u00f6rderung l\u00e4ngstens bis zu einem berufsqualifizierenden Abschluss geleistet, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn sie eine Hochschulausbildung oder eine dieser nach Landesrecht gleichgestellte Ausbildung insoweit erg\u00e4nzt, als dies f\u00fcr die Aufnahme des angestrebten Berufs rechtlich erforderlich ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn im Zusammenhang mit der vorhergehenden Ausbildung der Zugang zu ihr er\u00f6ffnet worden ist, sie in sich selbst\u00e4ndig ist und in derselben Richtung fachlich weiterf\u00fchrt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Auszubildende <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Fachoberschulklasse, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, eine Abendhauptschule, eine Berufsaufbauschule, eine Abendrealschule, ein Abendgymnasium oder ein Kolleg besucht oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zugangsvoraussetzungen f\u00fcr die zu f\u00f6rdernde weitere Ausbildung an einer in Buchstabe a genannten Ausbildungsst\u00e4tte, durch eine Nichtsch\u00fclerpr\u00fcfung oder durch eine Zugangspr\u00fcfung zu einer Hochschule oder zu einer Akademie im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6 erworben hat oder</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Auszubildende als erste berufsbildende eine zumindest dreij\u00e4hrige Ausbildung an einer Berufsfachschule oder in einer Fachschulklasse, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, abgeschlossen hat.</LA></DD></DL>Im \u00dcbrigen wird Ausbildungsf\u00f6rderung f\u00fcr eine einzige weitere Ausbildung nur geleistet, wenn die besonderen Umst\u00e4nde des Einzelfalles, insbesondere das angestrebte Ausbildungsziel, dies erfordern.</P><P>(3) Hat der Auszubildende <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus wichtigem Grund oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus unabweisbarem Grund</LA></DD></DL>die Ausbildung abgebrochen oder die Fachrichtung gewechselt, so wird Ausbildungsf\u00f6rderung f\u00fcr eine andere Ausbildung geleistet; bei Auszubildenden an H\u00f6heren Fachschulen, Akademien und Hochschulen gilt Nummer 1 nur bis zum Beginn des vierten Fachsemesters. Ein Auszubildender bricht die Ausbildung ab, wenn er den Besuch von Ausbildungsst\u00e4tten einer Ausbildungsst\u00e4ttenart einschlie\u00dflich der im Zusammenhang hiermit geforderten Praktika endg\u00fcltig aufgibt. Ein Auszubildender wechselt die Fachrichtung, wenn er einen anderen berufsqualifizierenden Abschluss oder ein anderes bestimmtes Ausbildungsziel eines rechtlich geregelten Ausbildungsganges an einer Ausbildungsst\u00e4tte derselben Ausbildungsst\u00e4ttenart anstrebt. Beim erstmaligen Fachrichtungswechsel oder Abbruch der Ausbildung wird in der Regel vermutet, dass die Voraussetzungen nach Nummer 1 erf\u00fcllt sind; bei Auszubildenden an H\u00f6heren Fachschulen, Akademien und Hochschulen gilt dies nur, wenn der Wechsel oder Abbruch bis zum Beginn des dritten Fachsemesters erfolgt. Bei der Bestimmung des nach den S\u00e4tzen 1 und 4 ma\u00dfgeblichen Fachsemesters wird die Zahl der Semester abgezogen, die nach Entscheidung der Ausbildungsst\u00e4tte aus der urspr\u00fcnglich betriebenen Fachrichtung auf den neuen Studiengang angerechnet werden.</P><P>(4) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG000201310",
+        "type": "heading",
+        "name": "Abschnitt II",
+        "title": "Pers\u00f6nliche Voraussetzungen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE009502116",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Staatsangeh\u00f6rigkeit",
+        "body": {
+          "content": "<P>(1) Ausbildungsf\u00f6rderung wird geleistet <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Deutschen im Sinne des Grundgesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unionsb\u00fcrgern, die ein Recht auf Daueraufenthalt im Sinne des Freiz\u00fcgigkeitsgesetzes/EU besitzen sowie anderen Ausl\u00e4ndern, die eine Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt \u2013 EU nach dem Aufenthaltsgesetz besitzen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unionsb\u00fcrgern, die nach \u00a7 2 Absatz 2 des Freiz\u00fcgigkeitsgesetzes/EU als Arbeitnehmer oder Selbst\u00e4ndige unionsrechtlich freiz\u00fcgigkeitsberechtigt sind, sowie deren Ehegatten, Lebenspartnern und Kindern, die unter den Voraussetzungen des \u00a7 3 Absatz 1 und 4 des Freiz\u00fcgigkeitsgesetzes/EU unionsrechtlich freiz\u00fcgigkeitsberechtigt sind oder denen diese Rechte als Kinder nur deshalb nicht zustehen, weil sie 21 Jahre oder \u00e4lter sind und von ihren Eltern oder deren Ehegatten oder Lebenspartnern keinen Unterhalt erhalten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unionsb\u00fcrgern, die vor dem Beginn der Ausbildung im Inland in einem Besch\u00e4ftigungsverh\u00e4ltnis gestanden haben, dessen Gegenstand mit dem der Ausbildung in inhaltlichem Zusammenhang steht,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Staatsangeh\u00f6rigen eines anderen Vertragsstaates des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum unter den Voraussetzungen der Nummern 2 bis 4,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausl\u00e4ndern, die ihren gew\u00f6hnlichen Aufenthalt im Inland haben und die au\u00dferhalb des Bundesgebiets als Fl\u00fcchtlinge im Sinne des Abkommens \u00fcber die Rechtsstellung der Fl\u00fcchtlinge vom 28. Juli 1951 (BGBl. 1953 II S. 559) anerkannt und im Gebiet der Bundesrepublik Deutschland nicht nur vor\u00fcbergehend zum Aufenthalt berechtigt sind,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">heimatlosen Ausl\u00e4ndern im Sinne des Gesetzes \u00fcber die Rechtsstellung heimatloser Ausl\u00e4nder im Bundesgebiet in der im Bundesgesetzblatt Teil III, Gliederungsnummer 243-1, ver\u00f6ffentlichten bereinigten Fassung, zuletzt ge\u00e4ndert durch Artikel 7 des Gesetzes vom 30. Juli 2004 (BGBl. I S. 1950).</LA></DD></DL></P><P>(2) Anderen Ausl\u00e4ndern wird Ausbildungsf\u00f6rderung geleistet, wenn sie ihren st\u00e4ndigen Wohnsitz im Inland haben und <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Aufenthaltserlaubnis nach den \u00a7\u00a7 22, 23 Absatz 1, 2 oder 4, den \u00a7\u00a7 23a, 25 Absatz 1 oder 2, den \u00a7\u00a7 25a, 25b, 28, 37, 38 Absatz 1 Nummer 2, \u00a7 104a oder als Ehegatte oder Lebenspartner oder Kind eines Ausl\u00e4nders mit Niederlassungserlaubnis eine Aufenthaltserlaubnis nach \u00a7 30 oder den \u00a7\u00a7 32 bis 34 des Aufenthaltsgesetzes besitzen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Aufenthaltserlaubnis nach \u00a7 25 Absatz 3, Absatz 4 Satz 2 oder Absatz 5, \u00a7 31 des Aufenthaltsgesetzes oder als Ehegatte oder Lebenspartner oder Kind eines Ausl\u00e4nders mit Aufenthaltserlaubnis eine Aufenthaltserlaubnis nach \u00a7 30, den \u00a7\u00a7 32 bis 34 oder nach \u00a7 36a des Aufenthaltsgesetzes besitzen und sich seit mindestens 15 Monaten in Deutschland ununterbrochen rechtm\u00e4\u00dfig, gestattet oder geduldet aufhalten.</LA></DD></DL></P><P>(2a) Geduldeten Ausl\u00e4ndern (\u00a7 60a des Aufenthaltsgesetzes), die ihren st\u00e4ndigen Wohnsitz im Inland haben, wird Ausbildungsf\u00f6rderung geleistet, wenn sie sich seit mindestens 15 Monaten ununterbrochen rechtm\u00e4\u00dfig, gestattet oder geduldet im Bundesgebiet aufhalten.</P><P>(3) Im \u00dcbrigen wird Ausl\u00e4ndern Ausbildungsf\u00f6rderung geleistet, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie selbst sich vor Beginn des f\u00f6rderungsf\u00e4higen Teils des Ausbildungsabschnitts insgesamt f\u00fcnf Jahre im Inland aufgehalten haben und rechtm\u00e4\u00dfig erwerbst\u00e4tig gewesen sind oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zumindest ein Elternteil w\u00e4hrend der letzten sechs Jahre vor Beginn des f\u00f6rderungsf\u00e4higen Teils des Ausbildungsabschnitts sich insgesamt drei Jahre im Inland aufgehalten hat und rechtm\u00e4\u00dfig erwerbst\u00e4tig gewesen ist, im \u00dcbrigen von dem Zeitpunkt an, in dem im weiteren Verlauf des Ausbildungsabschnitts diese Voraussetzungen vorgelegen haben. Die Voraussetzungen gelten auch f\u00fcr einen einzigen weiteren Ausbildungsabschnitt als erf\u00fcllt, wenn der Auszubildende in dem vorhergehenden Ausbildungsabschnitt die Zugangsvoraussetzungen erworben hat und danach unverz\u00fcglich den Ausbildungsabschnitt beginnt. Von dem Erfordernis der Erwerbst\u00e4tigkeit des Elternteils w\u00e4hrend der letzten sechs Jahre kann abgesehen werden, wenn sie aus einem von ihm nicht zu vertretenden Grunde nicht ausge\u00fcbt worden ist und er im Inland mindestens sechs Monate erwerbst\u00e4tig gewesen ist.</LA></DD></DL></P><P>(4) Auszubildende, die nach Absatz 1 oder 2 als Ehegatten oder Lebenspartner pers\u00f6nlich f\u00f6rderungsberechtigt sind, verlieren den Anspruch auf Ausbildungsf\u00f6rderung nicht dadurch, dass sie dauernd getrennt leben oder die Ehe oder Lebenspartnerschaft aufgel\u00f6st worden ist, wenn sie sich weiterhin rechtm\u00e4\u00dfig in Deutschland aufhalten.</P><P>(5) Rechts- und Verwaltungsvorschriften, nach denen anderen Ausl\u00e4ndern Ausbildungsf\u00f6rderung zu leisten ist, bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000201310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE002101310",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Eignung",
+        "body": {
+          "content": "<P>(1) Die Ausbildung wird gef\u00f6rdert, wenn die Leistungen des Auszubildenden erwarten lassen, dass er das angestrebte Ausbildungsziel erreicht.</P><P>(2) Dies wird in der Regel angenommen, solange der Auszubildende die Ausbildungsst\u00e4tte besucht oder an dem Praktikum teilnimmt und bei dem Besuch einer H\u00f6heren Fachschule, Akademie oder Hochschule die den jeweiligen Ausbildungs- und Pr\u00fcfungsordnungen entsprechenden Studienfortschritte erkennen l\u00e4sst. Hier\u00fcber sind die nach \u00a7 48 erforderlichen Nachweise zu erbringen.</P><P>(3) Bei der Teilnahme an Fernunterrichtslehrg\u00e4ngen wird dies angenommen, wenn der Auszubildende die Bescheinigung nach \u00a7 3 Absatz 3 beigebracht hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000201310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE002206116",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Alter",
+        "body": {
+          "content": "<P>(1) (weggefallen)</P><P>(2) (weggefallen)</P><P>(3) Ausbildungsf\u00f6rderung wird nicht geleistet, wenn der Auszubildende bei Beginn des Ausbildungsabschnitts, f\u00fcr den er Ausbildungsf\u00f6rderung beantragt, das 30. Lebensjahr, bei Studieng\u00e4ngen nach \u00a7 7 Absatz 1a das 35. Lebensjahr vollendet hat. Satz 1 gilt nicht, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende die Zugangsvoraussetzungen f\u00fcr die zu f\u00f6rdernde Ausbildung an einer in \u00a7 7 Absatz 2 Satz 1 Nummer 4 Buchstabe a genannten Ausbildungsst\u00e4tte, durch eine Nichtsch\u00fclerpr\u00fcfung oder durch eine Zugangspr\u00fcfung zu einer Hochschule oder zu einer Akademie im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6 erworben hat,</LA></DD><DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende ohne Hochschulzugangsberechtigung auf Grund seiner beruflichen Qualifikation an einer Hochschule oder an einer Akademie im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6 eingeschrieben worden ist,</LA></DD><DT>1b.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende eine weitere Ausbildung nach \u00a7 7 Absatz 2 Nummer 2 oder 3 aufnimmt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auszubildende aus pers\u00f6nlichen oder famili\u00e4ren Gr\u00fcnden gehindert waren, den Ausbildungsabschnitt rechtzeitig zu beginnen; dies ist insbesondere der Fall, wenn sie bei Erreichen der Altersgrenzen bis zur Aufnahme der Ausbildung ein eigenes Kind unter 14 Jahren ohne Unterbrechung erziehen und w\u00e4hrend dieser Zeit bis zu h\u00f6chstens 30 Wochenstunden im Monatsdurchschnitt erwerbst\u00e4tig sind; Alleinerziehende d\u00fcrfen auch mehr als 30 Wochenstunden erwerbst\u00e4tig sein, um dadurch Unterst\u00fctzung durch Leistungen der Grundsicherung zu vermeiden, oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende infolge einer einschneidenden Ver\u00e4nderung seiner pers\u00f6nlichen Verh\u00e4ltnisse bed\u00fcrftig geworden ist und noch keine Ausbildung, die nach diesem Gesetz gef\u00f6rdert werden kann, berufsqualifizierend abgeschlossen hat.</LA></DD></DL>Satz 2 Nummer 1, 1b, 3 und 4 gilt nur, wenn der Auszubildende die Ausbildung unverz\u00fcglich nach Erreichen der Zugangsvoraussetzungen, dem Wegfall der Hinderungsgr\u00fcnde oder dem Eintritt einer Bed\u00fcrftigkeit infolge einschneidender Ver\u00e4nderungen seiner pers\u00f6nlichen Verh\u00e4ltnisse aufnimmt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000201310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG000301310",
+        "type": "heading",
+        "name": "Abschnitt III",
+        "title": "Leistungen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE002312116",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Umfang der Ausbildungsf\u00f6rderung",
+        "body": {
+          "content": "<P>(1) Ausbildungsf\u00f6rderung wird f\u00fcr den Lebensunterhalt und die Ausbildung geleistet (Bedarf).</P><P>(2) Auf den Bedarf sind nach Ma\u00dfgabe der folgenden Vorschriften Einkommen und Verm\u00f6gen des Auszubildenden sowie Einkommen seines Ehegatten oder Lebenspartners und seiner Eltern in dieser Reihenfolge anzurechnen; die Anrechnung erfolgt zun\u00e4chst auf den nach \u00a7 17 Absatz 2 Satz 1 als Zuschuss und Darlehen, dann auf den nach \u00a7 17 Absatz 3 als Darlehen und anschlie\u00dfend auf den nach \u00a7 17 Absatz 1 als Zuschuss zu leistenden Teil des Bedarfs. Als Ehegatte oder Lebenspartner im Sinne dieses Gesetzes gilt der nicht dauernd Getrenntlebende, sofern dieses Gesetz nichts anderes bestimmt.</P><P>(2a) Einkommen der Eltern bleibt au\u00dfer Betracht, wenn ihr Aufenthaltsort nicht bekannt ist oder sie rechtlich oder tats\u00e4chlich gehindert sind, im Inland Unterhalt zu leisten.</P><P>(3) Einkommen der Eltern bleibt ferner au\u00dfer Betracht, wenn der Auszubildende <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Abendgymnasium oder Kolleg besucht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Beginn des Ausbildungsabschnitts das 30. Lebensjahr vollendet hat,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Beginn des Ausbildungsabschnitts nach Vollendung des 18. Lebensjahres f\u00fcnf Jahre erwerbst\u00e4tig war oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Beginn des Ausbildungsabschnitts nach Abschluss einer vorhergehenden, zumindest dreij\u00e4hrigen berufsqualifizierenden Ausbildung drei Jahre oder im Falle einer k\u00fcrzeren Ausbildung entsprechend l\u00e4nger erwerbst\u00e4tig war.</LA></DD></DL>Satz 1 Nummer 3 und 4 gilt nur, wenn der Auszubildende in den Jahren seiner Erwerbst\u00e4tigkeit in der Lage war, sich aus deren Ertrag selbst zu unterhalten.</P><P>(4) Ist Einkommen des Ehegatten oder Lebenspartners, der Eltern oder eines Elternteils au\u00dfer auf den Bedarf des Antragstellers auch auf den anderer Auszubildender anzurechnen, die in einer Ausbildung stehen, die nach diesem Gesetz oder nach \u00a7 56 des Dritten Buches Sozialgesetzbuch gef\u00f6rdert werden kann, so wird es zu gleichen Teilen angerechnet. Dabei sind auch die Kinder des Einkommensbeziehers zu ber\u00fccksichtigen, die Ausbildungsf\u00f6rderung ohne Anrechnung des Einkommens der Eltern erhalten k\u00f6nnen und nicht ein Abendgymnasium oder Kolleg besuchen oder bei Beginn der Ausbildung das 30. Lebensjahr vollendet haben. Nicht zu ber\u00fccksichtigen sind Auszubildende, die eine Universit\u00e4t der Bundeswehr oder Verwaltungsfachhochschule besuchen, sofern diese als Besch\u00e4ftigte im \u00f6ffentlichen Dienst Anw\u00e4rterbez\u00fcge oder \u00e4hnliche Leistungen aus \u00f6ffentlichen Mitteln erhalten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE002418116",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Bedarf f\u00fcr Sch\u00fcler",
+        "body": {
+          "content": "<P>(1) Als monatlicher Bedarf gelten f\u00fcr Sch\u00fcler <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">von Berufsfachschulen und Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, 247 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">von Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen und von Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, 448 Euro.</LA></DD></DL></P><P>(2) Als monatlicher Bedarf gelten, wenn der Auszubildende nicht bei seinen Eltern wohnt, f\u00fcr Sch\u00fcler <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">von weiterf\u00fchrenden allgemeinbildenden Schulen und Berufsfachschulen sowie von Fach- und Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung nicht voraussetzt, 585 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">von Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen und von Fachoberschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, 681 Euro.</LA></DD></DL></P><P>(3) (weggefallen)</P><P>(3a) Ein Auszubildender wohnt auch dann bei seinen Eltern, wenn der von ihm bewohnte Raum im Eigentum der Eltern steht.</P><P>(4) Bei einer Ausbildung im Ausland wird f\u00fcr die Hinreise zum Ausbildungsort sowie f\u00fcr eine R\u00fcckreise ein Reisekostenzuschlag geleistet. Der Reisekostenzuschlag betr\u00e4gt jeweils 250 Euro bei einer Reise innerhalb Europas, sonst jeweils 500 Euro. In besonderen H\u00e4rtef\u00e4llen k\u00f6nnen die notwendigen Aufwendungen f\u00fcr eine weitere Hin- und R\u00fcckreise geleistet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE002620116",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Bedarf f\u00fcr Studierende",
+        "body": {
+          "content": "<P>(1) Als monatlicher Bedarf gelten f\u00fcr Auszubildende in <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, Abendgymnasien und Kollegs 398 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6heren Fachschulen, Akademien und Hochschulen 427 Euro.</LA></DD></DL></P><P>(2) Die Bedarfe nach Absatz 1 erh\u00f6hen sich f\u00fcr die Unterkunft, wenn der Auszubildende <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei seinen Eltern wohnt, um monatlich 56 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht bei seinen Eltern wohnt, um monatlich 325 Euro.</LA></DD></DL></P><P>(3) (weggefallen)</P><P>(3a) Ein Auszubildender wohnt auch dann bei seinen Eltern, wenn der von ihm bewohnte Raum im Eigentum der Eltern steht.</P><P>(4) Bei einer Ausbildung im Ausland nach \u00a7 5 Absatz 2 wird, soweit die Lebens- und Ausbildungsverh\u00e4ltnisse im Ausbildungsland dies erfordern, bei dem Bedarf ein Zu- oder Abschlag vorgenommen, dessen H\u00f6he die Bundesregierung durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE008811116",
+        "type": "article",
+        "name": "\u00a7 13a",
+        "title": "Kranken- und Pflegeversicherungszuschlag",
+        "body": {
+          "content": "<P>(1) F\u00fcr Auszubildende, die in der gesetzlichen Krankenversicherung nach \u00a7 5 Absatz 1 Nummer 9 oder 10 des F\u00fcnften Buches Sozialgesetzbuch versichert sind, erh\u00f6ht sich der Bedarf um 84 Euro monatlich f\u00fcr ihren Krankenversicherungsbeitrag. F\u00fcr ihren Versicherungsbeitrag als Pflichtmitglied in der sozialen Pflegeversicherung nach \u00a7 20 Absatz 1 Nummer 9 oder 10 des Elften Buches Sozialgesetzbuch erh\u00f6ht sich der Bedarf um weitere 25 Euro monatlich. F\u00fcr Auszubildende, die als freiwilliges Mitglied in der gesetzlichen Krankenversicherung beitragspflichtig versichert sind und deren Kranken- und Pflegeversicherungsbeitr\u00e4ge nach \u00a7 240 Absatz 4 Satz 2 des F\u00fcnften Buches Sozialgesetzbuch und \u00a7 57 Absatz 4 des Elften Buches Sozialgesetzbuch berechnet werden, gelten die S\u00e4tze 1 und 2 entsprechend.</P><P>(2) F\u00fcr Auszubildende, die \u2013 au\u00dfer in den F\u00e4llen des Absatzes 1 Satz 3 \u2013 als freiwilliges Mitglied oder nach \u00a7 5 Absatz 1 Nummer 13 des F\u00fcnften Buches Sozialgesetzbuch in der gesetzlichen Krankenversicherung beitragspflichtig versichert sind, erh\u00f6ht sich der Bedarf um die nachgewiesenen Krankenversicherungsbeitr\u00e4ge, h\u00f6chstens aber um 155 Euro. F\u00fcr ihren Versicherungsbeitrag als Pflichtmitglied in der sozialen Pflegeversicherung nach \u00a7 20 Absatz 1 Nummer 12 oder Absatz 3 des Elften Buches Sozialgesetzbuch \u2013 au\u00dfer in den F\u00e4llen des Absatzes 1 Satz 3 \u2013 erh\u00f6ht sich der Bedarf um die nachgewiesenen Pflegeversicherungsbeitr\u00e4ge, h\u00f6chstens aber um weitere 34 Euro monatlich.</P><P>(3) F\u00fcr Auszubildende, die ausschlie\u00dflich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">beitragspflichtig bei einem privaten Krankenversicherungsunternehmen versichert sind, das die in \u00a7 257 Absatz 2a Satz 1 des F\u00fcnften Buches Sozialgesetzbuch genannten Voraussetzungen erf\u00fcllt, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus dieser Versicherung Leistungen beanspruchen k\u00f6nnen, die der Art nach den Leistungen des F\u00fcnften Buches Sozialgesetzbuch mit Ausnahme des Kranken- und Mutterschaftsgeldes entsprechen,</LA></DD></DL>erh\u00f6ht sich der Bedarf um 84 Euro monatlich. Sind die in Satz 1 Nummer 2 genannten Leistungen auf einen bestimmten Anteil der erstattungsf\u00e4higen Kosten begrenzt, erh\u00f6ht sich der Bedarf stattdessen um die nachgewiesenen Krankenversicherungsbeitr\u00e4ge, h\u00f6chstens aber um den in Satz 1 genannten Betrag. F\u00fcr Auszubildende, die nach \u00a7 23 des Elften Buches Sozialgesetzbuch beitragspflichtig bei einem privaten Versicherungsunternehmen versichert sind, das die in \u00a7 61 Absatz 5 des Elften Buches Sozialgesetzbuch genannten Voraussetzungen erf\u00fcllt, erh\u00f6ht sich der Bedarf um weitere 25 Euro monatlich. Abweichend von den S\u00e4tzen 1 bis 3 gilt f\u00fcr Auszubildende, die die Altersgrenze des \u00a7 5 Absatz 1 Nummer 9 oder Nummer 10 des F\u00fcnften Buches Sozialgesetzbuch \u00fcberschreiten, Absatz 2 entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE002702310",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Bedarf f\u00fcr Praktikanten",
+        "body": {
+          "content": "<P>Als monatlicher Bedarf f\u00fcr Praktikanten gelten die Betr\u00e4ge, die f\u00fcr Sch\u00fcler und Studenten der Ausbildungsst\u00e4tten geleistet werden, mit deren Besuch das Praktikum im Zusammenhang steht. \u00a7 13 Absatz 4 ist entsprechend anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE002807116",
+        "type": "article",
+        "name": "\u00a7 14a",
+        "title": "Zusatzleistungen in H\u00e4rtef\u00e4llen",
+        "body": {
+          "content": "<P>Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass bei einer Ausbildung im Inland Ausbildungsf\u00f6rderung \u00fcber die Betr\u00e4ge nach \u00a7 12 Absatz 1 und 2, \u00a7 13 Absatz 1 und 2 sowie \u00a7 13a hinaus geleistet wird zur Deckung besonderer Aufwendungen des Auszubildenden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr seine Ausbildung, wenn sie hiermit in unmittelbarem Zusammenhang stehen und soweit dies zur Erreichung des Ausbildungszieles notwendig ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr seine Unterkunft, soweit dies zur Vermeidung unbilliger H\u00e4rten erforderlich ist.</LA></DD></DL>In der Rechtsverordnung k\u00f6nnen insbesondere Regelungen getroffen werden \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausbildungsg\u00e4nge, f\u00fcr die ein zus\u00e4tzlicher Bedarf gew\u00e4hrt wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Arten der Aufwendungen, die allgemein als bedarfserh\u00f6hend ber\u00fccksichtigt werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Arten der Lern- und Arbeitsmittel, deren Anschaffungskosten als zus\u00e4tzlicher Bedarf anzuerkennen sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verteilung des zus\u00e4tzlichen Bedarfs auf den Ausbildungsabschnitt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he oder die H\u00f6chstbetr\u00e4ge des zus\u00e4tzlichen Bedarfs und die H\u00f6he einer Selbstbeteiligung.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE009305116",
+        "type": "article",
+        "name": "\u00a7 14b",
+        "title": "Zusatzleistung f\u00fcr Auszubildende mit Kind (Kinderbetreuungszuschlag)",
+        "body": {
+          "content": "<P>(1) F\u00fcr Auszubildende, die mit mindestens einem eigenen Kind, das das 14. Lebensjahr noch nicht vollendet hat, in einem Haushalt leben, erh\u00f6ht sich der Bedarf um monatlich 150 Euro f\u00fcr jedes dieser Kinder. Der Zuschlag wird f\u00fcr denselben Zeitraum nur einem Elternteil gew\u00e4hrt. Sind beide Elternteile nach diesem Gesetz dem Grunde nach f\u00f6rderungsberechtigt und leben in einem gemeinsamen Haushalt, bestimmen sie untereinander den Berechtigten.</P><P>(2) Der Zuschlag nach Absatz 1 bleibt als Einkommen bei Sozialleistungen unber\u00fccksichtigt. F\u00fcr die Ermittlung eines Kostenbeitrags nach \u00a7 90 des Achten Buches Sozialgesetzbuch gilt dies jedoch nur, soweit der Kostenbeitrag f\u00fcr eine Kindertagesbetreuung an Wochentagen w\u00e4hrend der regul\u00e4ren Betreuungszeiten erhoben wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE002914116",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "F\u00f6rderungsdauer",
+        "body": {
+          "content": "<P>(1) Ausbildungsf\u00f6rderung wird vom Beginn des Monats an geleistet, in dem die Ausbildung aufgenommen wird, fr\u00fchestens jedoch vom Beginn des Antragsmonats an.</P><P>(2) Ausbildungsf\u00f6rderung wird f\u00fcr die Dauer der Ausbildung \u2013 einschlie\u00dflich der unterrichts- und vorlesungsfreien Zeit \u2013 geleistet, bei Studieng\u00e4ngen an Hochschulen und an Akademien im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6 jedoch grunds\u00e4tzlich nur bis zum Ende der F\u00f6rderungsh\u00f6chstdauer nach \u00a7 15a. F\u00fcr die Teilnahme an Einrichtungen des Fernunterrichts wird Ausbildungsf\u00f6rderung h\u00f6chstens f\u00fcr 12 Kalendermonate geleistet.</P><P>(2a) Ausbildungsf\u00f6rderung wird auch geleistet, solange die Auszubildenden infolge von Erkrankung oder Schwangerschaft gehindert sind, die Ausbildung durchzuf\u00fchren, nicht jedoch \u00fcber das Ende des dritten Kalendermonats hinaus.</P><P>(3) \u00dcber die F\u00f6rderungsh\u00f6chstdauer hinaus wird f\u00fcr eine angemessene Zeit Ausbildungsf\u00f6rderung geleistet, wenn sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus schwerwiegenden Gr\u00fcnden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge der in h\u00e4uslicher Umgebung erfolgenden Pflege eines oder einer pflegebed\u00fcrftigen nahen Angeh\u00f6rigen im Sinne des \u00a7 7 Absatz 3 des Pflegezeitgesetzes, der oder die nach den \u00a7\u00a7 14 und 15 des Elften Buches Sozialgesetzbuch \u2013 Soziale Pflegeversicherung \u2013 mindestens in Pflegegrad 3 eingeordnet ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge einer Mitwirkung in gesetzlich oder satzungsm\u00e4\u00dfig vorgesehenen Gremien und Organen <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Hochschulen und der Akademien im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Selbstverwaltung der Studierenden an Ausbildungsst\u00e4tten im Sinne des Buchstabens a,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Studentenwerke und</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">der L\u00e4nder,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge des erstmaligen Nichtbestehens der Abschlusspr\u00fcfung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge einer Behinderung, einer Schwangerschaft oder der Pflege und Erziehung eines Kindes bis zu 14 Jahren</LA></DD></DL>\u00fcberschritten worden ist.</P><P>(3a) Auszubildenden an Hochschulen und an Akademien im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6, die sich in einem in sich selbst\u00e4ndigen Studiengang befinden, wird als Hilfe zum Studienabschluss f\u00fcr h\u00f6chstens zw\u00f6lf Monate Ausbildungsf\u00f6rderung auch nach dem Ende der F\u00f6rderungsh\u00f6chstdauer oder der F\u00f6rderungsdauer nach Absatz 3 Nummer 1, 3 oder 5 geleistet, wenn die Auszubildenden sp\u00e4testens innerhalb von vier Semestern nach diesem Zeitpunkt zur Abschlusspr\u00fcfung zugelassen worden sind und die Pr\u00fcfungsstelle bescheinigt, dass sie die Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss abschlie\u00dfen k\u00f6nnen. Ist eine Abschlusspr\u00fcfung nicht vorgesehen, gilt Satz 1 unter der Voraussetzung, dass die Auszubildenden eine Best\u00e4tigung der Ausbildungsst\u00e4tte dar\u00fcber vorlegen, dass sie die Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss abschlie\u00dfen k\u00f6nnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 15 Abs. 1 Halbsatz 2: Zur Anwendung vgl. BAf\u00f6G\u00c4ndG 13 Art. 2 Nr. 1 +++)</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE009006310",
+        "type": "article",
+        "name": "\u00a7 15a",
+        "title": "F\u00f6rderungsh\u00f6chstdauer",
+        "body": {
+          "content": "<P>(1) Die F\u00f6rderungsh\u00f6chstdauer entspricht der Regelstudienzeit nach \u00a7 10 Absatz 2 des Hochschulrahmengesetzes oder einer vergleichbaren Festsetzung.</P><P>(2) Auf die F\u00f6rderungsh\u00f6chstdauer sind anzurechnen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zeiten, die der Auszubildende vor F\u00f6rderungsbeginn in der zu f\u00f6rdernden Ausbildung verbracht hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zeiten, die durch die zust\u00e4ndige Stelle auf Grund einer vorangegangenen Ausbildung oder berufspraktischen T\u00e4tigkeit oder eines vorangegangenen Praktikums f\u00fcr die zu f\u00f6rdernde Ausbildung anerkannt werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in F\u00e4llen der F\u00f6rderung eines nach dem 31. Dezember 2007 aufgenommenen Masterstudiengangs nach \u00a7 5 Absatz 2 Nummer 1 und 3 Zeiten, die der Auszubildende in einem gem\u00e4\u00df \u00a7 7 Absatz 1a Nummer 1 als einem Bachelorabschluss entsprechend anerkannten einstufigen Studiengang \u00fcber das achte Fachsemester hinaus verbracht hat.</LA></DD></DL>Zeiten, in denen der Auszubildende eine Teilzeitausbildung durchgef\u00fchrt hat, sind in Vollzeitausbildungszeiten umzurechnen. Legt der Auszubildende eine Anerkennungsentscheidung im Sinne des Satzes 1 Nummer 2 nicht vor, setzt das Amt f\u00fcr Ausbildungsf\u00f6rderung die anzurechnenden Zeiten unter Ber\u00fccksichtigung der jeweiligen Studien- und Pr\u00fcfungsordnungen sowie der Umst\u00e4nde des Einzelfalles fest. Weicht eine sp\u00e4tere Anerkennungsentscheidung der zust\u00e4ndigen Stelle von der Festsetzung nach Satz 3 ab, so ist sie zu ber\u00fccksichtigen, wenn der Auszubildende nachweist, dass er den Antrag auf Anerkennung zu dem f\u00fcr ihn fr\u00fchestm\u00f6glichen Zeitpunkt gestellt hat.</P><P>(3) Setzt ein Studiengang Sprachkenntnisse \u00fcber die Sprachen Deutsch, Englisch, Franz\u00f6sisch oder Latein hinaus voraus und werden diese Kenntnisse von dem Auszubildenden w\u00e4hrend des Besuchs der Hochschule erworben, verl\u00e4ngert sich die F\u00f6rderungsh\u00f6chstdauer f\u00fcr jede Sprache um ein Semester. Satz 1 gilt f\u00fcr Auszubildende, die die Hochschulzugangsberechtigung vor dem 1. Oktober 2001 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet erworben haben, mit der Ma\u00dfgabe, dass auch der Erwerb erforderlicher Lateinkenntnisse w\u00e4hrend des Besuchs der Hochschule zu einer Verl\u00e4ngerung der F\u00f6rderungsh\u00f6chstdauer f\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003006116",
+        "type": "article",
+        "name": "\u00a7 15b",
+        "title": "Aufnahme und Beendigung der Ausbildung",
+        "body": {
+          "content": "<P>(1) Die Ausbildung gilt im Sinne dieses Gesetzes als mit dem Anfang des Monats aufgenommen, in dem Unterricht oder Vorlesungen tats\u00e4chlich begonnen werden.</P><P>(2) Liegt zwischen dem Ende eines Ausbildungsabschnitts und dem Beginn eines anderen nur ein Monat, so gilt die Ausbildung abweichend von Absatz 1 als bereits zu Beginn dieses Monats aufgenommen. Der Kalendermonat ist in den ersten Bewilligungszeitraum des sp\u00e4teren Ausbildungsabschnitts einzubeziehen.</P><P>(2a) Besucht ein Auszubildender zwischen dem Ende einer Ausbildung im Ausland und dem fr\u00fchestm\u00f6glichen Beginn der anschlie\u00dfenden Ausbildung im Inland f\u00fcr l\u00e4ngstens vier Monate keine Ausbildungsst\u00e4tte, so wird ihm l\u00e4ngstens f\u00fcr die Dauer der beiden Monate vor Beginn der anschlie\u00dfenden Ausbildung Ausbildungsf\u00f6rderung geleistet. Die beiden Kalendermonate sind in den folgenden Bewilligungszeitraum einzubeziehen.</P><P>(3) Die Ausbildung endet mit dem Ablauf des Monats, in dem die Abschlusspr\u00fcfung des Ausbildungsabschnitts bestanden wurde, oder, wenn eine solche nicht vorgesehen ist, mit dem Ablauf des Monats, in dem der Ausbildungsabschnitt tats\u00e4chlich planm\u00e4\u00dfig geendet hat. Abweichend von Satz 1 ist, sofern ein Pr\u00fcfungs- oder Abgangszeugnis erteilt wird, das Datum dieses Zeugnisses ma\u00dfgebend. Eine Hochschulausbildung ist abweichend von den S\u00e4tzen 1 und 2 mit Ablauf des Monats beendet, in dem das Gesamtergebnis des erfolgreich abgeschlossenen Ausbildungsabschnitts bekannt gegeben wird, sp\u00e4testens jedoch mit Ablauf des zweiten Monats nach dem Monat, in dem der letzte Pr\u00fcfungsteil abgelegt wurde.</P><P>(4) Die Ausbildung ist ferner beendet, wenn der Auszubildende die Ausbildung abbricht (\u00a7 7 Absatz 3 Satz 2) und sie nicht an einer Ausbildungsst\u00e4tte einer anderen Ausbildungsst\u00e4ttenart weiterf\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003110116",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "F\u00f6rderungsdauer im Ausland",
+        "body": {
+          "content": "<P>(1) F\u00fcr eine Ausbildung im Ausland nach \u00a7 5 Absatz 2 Nummer 1 oder Absatz 5 wird Ausbildungsf\u00f6rderung l\u00e4ngstens f\u00fcr die Dauer eines Jahres geleistet. Innerhalb eines Ausbildungsabschnitts gilt Satz 1 nur f\u00fcr einen einzigen zusammenh\u00e4ngenden Zeitraum, soweit nicht der Besuch von Ausbildungsst\u00e4tten in mehreren L\u00e4ndern f\u00fcr die Ausbildung von besonderer Bedeutung ist.</P><P>(2) Dar\u00fcber hinaus kann w\u00e4hrend drei weiterer Semester Ausbildungsf\u00f6rderung geleistet werden f\u00fcr den Besuch einer Ausbildungsst\u00e4tte, die den im Inland gelegenen Hochschulen gleichwertig ist, wenn er f\u00fcr die Ausbildung von besonderer Bedeutung ist.</P><P>(3) In den F\u00e4llen des \u00a7 5 Absatz 2 Nummer 2 und 3 wird Ausbildungsf\u00f6rderung ohne die zeitliche Begrenzung der Abs\u00e4tze 1 und 2 geleistet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003211116",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "F\u00f6rderungsarten",
+        "body": {
+          "content": "<P>(1) Ausbildungsf\u00f6rderung wird vorbehaltlich der Abs\u00e4tze 2 und 3 als Zuschuss geleistet.</P><P>(2) Bei dem Besuch von H\u00f6heren Fachschulen, Akademien und Hochschulen sowie bei der Teilnahme an einem Praktikum, das im Zusammenhang mit dem Besuch dieser Ausbildungsst\u00e4tten steht, wird der monatliche F\u00f6rderungsbetrag vorbehaltlich des Absatzes 3 zur H\u00e4lfte als Darlehen geleistet. Satz 1 gilt nicht <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Zuschlag zum Bedarf nach \u00a7 13 Absatz 4 f\u00fcr nachweisbar notwendige Studiengeb\u00fchren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Ausbildungsf\u00f6rderung, die nach \u00a7 15 Absatz 3 Nummer 5 \u00fcber die F\u00f6rderungsh\u00f6chstdauer hinaus geleistet wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Kinderbetreuungszuschlag nach \u00a7 14b.</LA></DD></DL></P><P>(3) Bei dem Besuch von H\u00f6heren Fachschulen, Akademien und Hochschulen sowie bei der Teilnahme an einem Praktikum, das im Zusammenhang mit dem Besuch dieser Ausbildungsst\u00e4tten steht, erh\u00e4lt der Auszubildende Ausbildungsf\u00f6rderung ausschlie\u00dflich als Darlehen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr eine andere Ausbildung nach \u00a7 7 Absatz 3, soweit die Semesterzahl der hierf\u00fcr ma\u00dfgeblichen F\u00f6rderungsh\u00f6chstdauer, die um die Fachsemester der vorangegangenen, nicht abgeschlossenen Ausbildung zu k\u00fcrzen ist, \u00fcberschritten wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00dcberschreiten der F\u00f6rderungsh\u00f6chstdauer in den F\u00e4llen des \u00a7 15 Absatz 3a.</LA></DD></DL>Nummer 2 gilt nicht, wenn der Auszubildende erstmalig aus wichtigem Grund oder aus unabweisbarem Grund die Ausbildung abgebrochen oder die Fachrichtung gewechselt hat. Satz 1 gilt nicht f\u00fcr den Kinderbetreuungszuschlag nach \u00a7 14b und die Ausbildungsf\u00f6rderung, die nach \u00a7 15 Absatz 3 Nummer 5 \u00fcber die F\u00f6rderungsh\u00f6chstdauer hinaus geleistet wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003314116",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "Darlehensbedingungen",
+        "body": {
+          "content": "<P>(1) F\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 17 Absatz 2 Satz 1 geleistete Darlehen gelten die Abs\u00e4tze 2 bis 14 und die \u00a7\u00a7 18a und 18b,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 17 Absatz 3 Satz 1 geleistete Darlehen gelten die Abs\u00e4tze 2 bis 12, 14 und \u00a7 18a.</LA></DD></DL></P><P>(2) Die Darlehen sind nicht zu verzinsen. Wenn Darlehensnehmende einen Zahlungstermin um mehr als 45 Tage \u00fcberschritten haben, ist abweichend von Satz 1 jeweils der gesamte bis zu diesem Zeitpunkt noch nicht getilgte Betrag, h\u00f6chstens jedoch der nach Ma\u00dfgabe des Absatzes 13 Satz 1 zu tilgende R\u00fcckzahlungsbetrag \u2013 vorbehaltlich des Gleichbleibens der Rechtslage \u2013 mit 6 vom Hundert f\u00fcr das Jahr zu verzinsen. F\u00fcr nach \u00a7 17 Absatz 3 Satz 1 geleistete Darlehen gilt die Pflicht zur Verzinsung f\u00fcr den gesamten noch zu tilgenden R\u00fcckzahlungsbetrag. Kosten f\u00fcr die Geltendmachung der Darlehensforderung sind durch die Verzinsung nicht abgegolten.</P><P>(3) Die Darlehen sind \u2013 vorbehaltlich des Gleichbleibens der Rechtslage \u2013 in gleichbleibenden monatlichen Raten von mindestens 130 Euro innerhalb von 20 Jahren zur\u00fcckzuzahlen. F\u00fcr die R\u00fcckzahlung gelten als ein Darlehen jeweils alle nach \u00a7 17 Absatz 2 Satz 1 und alle nach \u00a7 17 Absatz 3 Satz 1 geleisteten Darlehen. Von der Verpflichtung zur R\u00fcckzahlung sind Darlehensnehmende auf Antrag freizustellen, solange sie Leistungen nach diesem Gesetz erhalten.</P><P>(4) F\u00fcr die Tilgung des nach \u00a7 17 Absatz 2 Satz 1 geleisteten Darlehens ist die erste Rate <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Ausbildung an einer Hochschule oder an einer Akademie im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6 f\u00fcnf Jahre nach dem Ende der F\u00f6rderungsh\u00f6chstdauer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Ausbildung an einer H\u00f6heren Fachschule oder an einer Akademie im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 5 f\u00fcnf Jahre nach dem Ende der in der Ausbildungs- und Pr\u00fcfungsordnung vorgesehenen Ausbildungszeit</LA></DD></DL>zu zahlen. Ma\u00dfgeblich ist jeweils der zuletzt mit Darlehen gef\u00f6rderte Ausbildungs- oder Studiengang. Wurden Darlehensbetr\u00e4ge nach \u00a7 17 Absatz 2 Satz 1 in mehreren Ausbildungsabschnitten geleistet, ist jeweils das Ende derjenigen F\u00f6rderungsh\u00f6chstdauer oder vorgesehenen Ausbildungszeit ma\u00dfgeblich, die f\u00fcr den ersten Ausbildungsabschnitt zuletzt gegolten hat.</P><P>(5) Wurden ausschlie\u00dflich nach \u00a7 17 Absatz 3 Satz 1 Darlehen geleistet, so ist die erste Rate drei Jahre nach dem Ende der F\u00f6rderungsh\u00f6chstdauer oder der vorgesehenen Ausbildungszeit zu zahlen.</P><P>(6) Wurden sowohl nach \u00a7 17 Absatz 2 Satz 1 als auch nach \u00a7 17 Absatz 3 Satz 1 Darlehen geleistet, ist zun\u00e4chst das nach \u00a7 17 Absatz 2 Satz 1 geleistete Darlehen zur\u00fcckzuzahlen. Die erste Rate des nach \u00a7 17 Absatz 3 Satz 1 geleisteten Darlehens ist in diesem Fall in dem Monat zu leisten, der auf die F\u00e4lligkeit der letzten Rate des nach \u00a7 17 Absatz 2 Satz 1 geleisteten Darlehens folgt.</P><P>(7) Nach Aufforderung durch das Bundesverwaltungsamt sind die Raten f\u00fcr jeweils drei aufeinanderfolgende Monate in einer Summe zu entrichten.</P><P>(8) Die Zinsen nach Absatz 2 sind sofort f\u00e4llig.</P><P>(9) Nach dem Ende der F\u00f6rderungsh\u00f6chstdauer erteilt das Bundesverwaltungsamt den Darlehensnehmenden \u2013 unbeschadet der F\u00e4lligkeit nach den Abs\u00e4tzen 4 bis 6 \u2013 jeweils einen Bescheid, in dem die H\u00f6he der Darlehensschuld und die F\u00f6rderungsh\u00f6chstdauer festgestellt werden. Nach Eintritt der Unanfechtbarkeit des Bescheides sind diese Feststellungen nicht mehr zu \u00fcberpr\u00fcfen; insbesondere gelten die Vorschriften des \u00a7 44 des Zehnten Buches Sozialgesetzbuch nicht. Ist f\u00fcr ein Kalenderjahr ein Betrag geleistet worden, auf das sich die Feststellung der H\u00f6he der Darlehensschuld nach Satz 1 nicht erstreckt, so wird diese insoweit durch einen erg\u00e4nzenden Bescheid festgestellt; Satz 2 gilt entsprechend.</P><P>(10) Die nach \u00a7 17 Absatz 2 Satz 1 oder Absatz 3 Satz 1 geleisteten Darlehen k\u00f6nnen jeweils ganz oder teilweise vorzeitig zur\u00fcckgezahlt werden. Auf Antrag ist ein Nachlass auf die verbleibende Darlehensschuld zu gew\u00e4hren.</P><P>(11) Mit dem Tod der Darlehensnehmenden erlischt die verbliebene Darlehensschuld einschlie\u00dflich etwaiger Kosten und Zinsen.</P><P>(12) Darlehensnehmenden, die w\u00e4hrend des R\u00fcckzahlungszeitraums nach Absatz 3 Satz 1 ihren Zahlungs- und Mitwirkungspflichten jeweils rechtzeitig und vollst\u00e4ndig nachgekommen sind, ist die verbleibende Darlehensschuld zu erlassen. Sind die Voraussetzungen des Satzes 1 nicht erf\u00fcllt, ist dies durch Bescheid festzustellen. Auf Antrag kann zur Vermeidung einer unbilligen H\u00e4rte die verbleibende Darlehensschuld auch dann erlassen werden, wenn im R\u00fcckzahlungsverfahren in nur geringf\u00fcgigem Umfang gegen die Zahlungs- und Mitwirkungspflichten versto\u00dfen wurde. Der Antrag nach Satz 3 ist binnen eines Monats nach Bekanntgabe eines ablehnenden Bescheids nach Satz 2 zu stellen.</P><P>(13) Bereits vor Ablauf der nach Absatz 3 je nach H\u00f6he der Darlehensschuld planm\u00e4\u00dfigen R\u00fcckzahlungsdauer ist Darlehensnehmenden, die Tilgungsleistungen in 77 monatlichen Raten in jeweils der nach Absatz 3 geschuldeten H\u00f6he erbracht haben, die noch verbleibende Darlehensschuld zu erlassen. F\u00fcr Zeitr\u00e4ume, in denen eine Freistellung nach \u00a7 18a Absatz 1 mit verminderter Ratenzahlung gew\u00e4hrt wurde, gen\u00fcgen f\u00fcr einen Erlass nach Satz 1 Tilgungsleistungen jeweils in H\u00f6he der vom Bundesverwaltungsamt zugleich festgesetzten verminderten R\u00fcckzahlungsraten; Absatz 10 bleibt unber\u00fchrt.</P><P>(14) Das Bundesministerium f\u00fcr Bildung und Forschung kann durch Rechtsverordnung ohne Zustimmung des Bundesrates f\u00fcr die Aufgaben gem\u00e4\u00df \u00a7 39 Absatz 2 das N\u00e4here bestimmen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Beginn und das Ende der Verzinsung sowie den Verzicht auf Zinsen aus besonderen Gr\u00fcnden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren zur Verwaltung und Einziehung der Darlehen \u2013 einschlie\u00dflich der erforderlichen Nachweise oder der Zul\u00e4ssigkeit des Glaubhaftmachens mittels der Versicherung an Eides statt sowie der Ma\u00dfnahmen zur Sicherung der R\u00fcckzahlungsanspr\u00fcche \u2013 sowie zur R\u00fcckleitung der eingezogenen Betr\u00e4ge an Bund und L\u00e4nder und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erhebung von Kostenpauschalen f\u00fcr die Ermittlung der jeweiligen Anschrift der Darlehensnehmenden und f\u00fcr das Mahnverfahren.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003426116",
+        "type": "article",
+        "name": "\u00a7 18a",
+        "title": "Einkommensabh\u00e4ngige R\u00fcckzahlung",
+        "body": {
+          "content": "<P>(1) Auf Antrag sind Darlehensnehmende w\u00e4hrend der R\u00fcckzahlungsfrist des \u00a7 18 Absatz 3 Satz 1 bis sp\u00e4testens zu deren Ablauf von der Verpflichtung zur R\u00fcckzahlung freizustellen, soweit ihr Einkommen monatlich jeweils den Betrag von 1\u00a0260 Euro nicht um mindestens 42 Euro \u00fcbersteigt. Der in Satz 1 bezeichnete Betrag erh\u00f6ht sich f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner um 630 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">jedes Kind der Darlehensnehmenden um 570 Euro,</LA></DD></DL>wenn sie nicht in einer Ausbildung stehen, die nach diesem Gesetz oder nach \u00a7 56 des Dritten Buches Sozialgesetzbuch gef\u00f6rdert werden kann. Die Betr\u00e4ge nach Satz 2 mindern sich um das Einkommen der Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner und Kinder. Als Kinder gelten insoweit au\u00dfer eigenen Kindern der Darlehensnehmenden die in \u00a7 25 Absatz 5 Nummer 1 bis 3 bezeichneten Personen. \u00a7 47 Absatz 4 und 5 gilt entsprechend.</P><P>(2) Auf besonderen Antrag erh\u00f6ht sich der in Absatz 1 Satz 1 bezeichnete Betrag <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei behinderten Menschen um den Betrag der behinderungsbedingten Aufwendungen entsprechend \u00a7 33b des Einkommensteuergesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Alleinstehenden um den Betrag der notwendigen Aufwendungen f\u00fcr die Dienstleistungen zur Betreuung eines zum Haushalt geh\u00f6renden Kindes, das das 16. Lebensjahr noch nicht vollendet hat, bis zur H\u00f6he von monatlich 175 Euro f\u00fcr das erste und je 85 Euro f\u00fcr jedes weitere Kind.</LA></DD></DL></P><P>(3) Auf den Antrag nach Absatz 1 Satz 1 erfolgt die Freistellung vom Beginn des Antragsmonats an in der Regel f\u00fcr ein Jahr, r\u00fcckwirkend erfolgt sie f\u00fcr l\u00e4ngstens vier Monate vor dem Antragsmonat (Freistellungszeitraum). Das im Antragsmonat erzielte Einkommen gilt vorbehaltlich des Absatzes 4 als monatliches Einkommen f\u00fcr alle Monate des Freistellungszeitraums. Die Darlehensnehmenden haben das Vorliegen der Freistellungsvoraussetzungen nachzuweisen, soweit nicht durch Rechtsverordnung auf Grund des \u00a7 18 Absatz 14 Nummer 2 etwas Abweichendes geregelt ist. Soweit eine Glaubhaftmachung mittels der Versicherung an Eides statt zugelassen ist, ist das Bundesverwaltungsamt f\u00fcr die Abnahme derselben zust\u00e4ndig.</P><P>(4) \u00c4ndert sich ein f\u00fcr die Freistellung ma\u00dfgeblicher Umstand nach der Antragstellung, so wird der Bescheid vom Beginn des Monats an ge\u00e4ndert, in dem die \u00c4nderung eingetreten ist. Nicht als \u00c4nderung im Sinne des Satzes 1 gelten Regelanpassungen gesetzlicher Renten und Versorgungsbez\u00fcge.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003520116",
+        "type": "article",
+        "name": "\u00a7 18b",
+        "title": "Teilerlass des Darlehens",
+        "body": {
+          "content": "<P>(1) (weggefallen)</P><P>(2) Auszubildenden, die die Abschlusspr\u00fcfung bis zum 31. Dezember 2012 bestanden haben und nach ihrem Ergebnis zu den ersten 30 vom Hundert aller Pr\u00fcfungsabsolventen geh\u00f6ren, die diese Pr\u00fcfung in demselben Kalenderjahr abgeschlossen haben, wird auf Antrag der f\u00fcr diesen Ausbildungsabschnitt geleistete Darlehensbetrag teilweise erlassen. Der Erlass betr\u00e4gt von dem nach dem 31. Dezember 1983 f\u00fcr diesen Ausbildungsabschnitt geleisteten Darlehensbetrag <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">25 vom Hundert, wenn innerhalb der F\u00f6rderungsh\u00f6chstdauer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">20 vom Hundert, wenn innerhalb von sechs Monaten nach dem Ende der F\u00f6rderungsh\u00f6chstdauer,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">15 vom Hundert, wenn innerhalb von zw\u00f6lf Monaten nach dem Ende der F\u00f6rderungsh\u00f6chstdauer</LA></DD></DL>die Abschlusspr\u00fcfung bestanden wurde. Der Antrag ist innerhalb eines Monats nach Bekanntgabe des Bescheids nach \u00a7 18 Absatz 9 zu stellen. Abweichend von Satz 1 erhalten Auszubildende, die zu den ersten 30 vom Hundert der Gef\u00f6rderten geh\u00f6ren, unter den dort genannten Voraussetzungen den Erlass <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">in Ausbildungs- und Studieng\u00e4ngen, in denen als Gesamtergebnis der Abschlusspr\u00fcfung nur das Bestehen festgestellt wird, nach den in dieser Pr\u00fcfung erbrachten Leistungen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">in Ausbildungs- und Studieng\u00e4ngen ohne Abschlusspr\u00fcfung nach den am Ende der planm\u00e4\u00dfig abgeschlossenen Ausbildung ausgewiesenen Leistungen; dabei ist eine differenzierte Bewertung \u00fcber die Zuordnung zu den ersten 30 vom Hundert der Gef\u00f6rderten hinaus nicht erforderlich.</LA></DD></DL>Auszubildende, die ihre Ausbildung an einer im Ausland gelegenen Ausbildungsst\u00e4tte bestanden haben, erhalten den Teilerlass nicht. Abweichend von Satz 5 wird den Auszubildenden, die eine nach \u00a7 5 Absatz 1 oder 3 in der bis zum 31. Dezember 2007 geltenden Fassung des Gesetzes oder eine nach \u00a7 6 f\u00f6rderungsf\u00e4hige Ausbildung vor dem 1. April 2001 aufgenommen haben, die Abschlusspr\u00fcfung an einer im Ausland gelegenen Ausbildungsst\u00e4tte bestanden haben und zu den ersten 30 vom Hundert der Gef\u00f6rderten geh\u00f6ren, der Teilerlass nach Satz 1 gew\u00e4hrt, wenn der Besuch der im Ausland gelegenen Ausbildungsst\u00e4tte dem einer im Inland gelegenen H\u00f6heren Fachschule, Akademie oder Hochschule gleichwertig ist. Die Funktion der Pr\u00fcfungsstelle nimmt in diesen F\u00e4llen das nach \u00a7 45 zust\u00e4ndige Amt f\u00fcr Ausbildungsf\u00f6rderung wahr.</P><P>(2a) F\u00fcr Auszubildende an Akademien gilt Absatz 2 mit der Ma\u00dfgabe, dass der Teilerlass unabh\u00e4ngig vom Zeitpunkt des Bestehens der Abschlusspr\u00fcfung 20 vom Hundert betr\u00e4gt.</P><P>(3) Beendet der Auszubildende bis zum 31. Dezember 2012 die Ausbildung vier Monate vor dem Ende der F\u00f6rderungsh\u00f6chstdauer mit dem Bestehen der Abschlusspr\u00fcfung oder, wenn eine solche nicht vorgesehen ist, nach den Ausbildungsvorschriften planm\u00e4\u00dfig, so werden auf seinen Antrag 2\u00a0560 Euro des Darlehens erlassen. Betr\u00e4gt der in Satz 1 genannte Zeitraum nur zwei Monate, werden 1\u00a0025 Euro erlassen. Der Antrag ist innerhalb eines Monats nach Bekanntgabe des Bescheides nach \u00a7 18 Absatz 9 zu stellen.</P><P>(4) Ist f\u00fcr eine Ausbildung eine Mindestausbildungszeit im Sinne von Absatz 5 festgelegt und liegen zwischen deren Ende und dem Ende der F\u00f6rderungsh\u00f6chstdauer weniger als vier Monate, wird auf Antrag der Erlass nach Absatz 3 Satz 1 auch gew\u00e4hrt, wenn die Ausbildung mit Ablauf der Mindestausbildungszeit beendet wurde. Der Erlass nach Absatz 3 Satz 2 wird auf Antrag auch gew\u00e4hrt, wenn die Mindestausbildungszeit um h\u00f6chstens zwei Monate \u00fcberschritten wurde. Der Antrag ist innerhalb eines Monats nach Bekanntgabe des Bescheides nach \u00a7 18 Absatz 9 zu stellen. Ist der Bescheid vor dem 21. Juni 2011 nicht bestandskr\u00e4ftig oder rechtskr\u00e4ftig geworden, aber vor dem 13. Dezember 2011 bekannt gegeben worden, ist der Antrag bis zum 13. Januar 2012 zu stellen.</P><P>(5) Mindestausbildungszeit ist die durch Rechtsvorschrift festgelegte Zeit, vor deren Ablauf die Ausbildung nicht durch Abschlusspr\u00fcfung oder sonst planm\u00e4\u00dfig beendet werden kann. Bei Ausbildungen, f\u00fcr die eine Mindeststudienzeit im Sinne von Satz 3 bestimmt ist und zugleich eine Abschlusspr\u00fcfung vorgeschrieben ist, die insgesamt oder hinsichtlich bestimmter Pr\u00fcfungsteile erst nach der Mindeststudienzeit begonnen werden darf, gilt die Mindeststudienzeit zuz\u00fcglich der Pr\u00fcfungszeit im Sinne von Satz 4 als Mindestausbildungszeit. Mindeststudienzeit ist die durch Rechtsvorschrift festgelegte Mindestzeit f\u00fcr die reinen Ausbildungsleistungen, einschlie\u00dflich geforderter Praktika, ohne Abschlusspr\u00fcfung. Pr\u00fcfungszeit ist die Zeit, die ab dem fr\u00fchestm\u00f6glichen Beginn der Pr\u00fcfung oder der bestimmten Pr\u00fcfungsteile bis zum letzten Pr\u00fcfungsteil regelm\u00e4\u00dfig erforderlich ist; wenn die Pr\u00fcfungszeit nicht durch Rechtsvorschrift festgelegt ist, wird vermutet, dass sie drei Monate betr\u00e4gt.</P><P>(5a) Absatz 4 ist nicht anzuwenden, wenn \u00fcber die Gew\u00e4hrung eines Teilerlasses nach Absatz 3 vor dem 21. Juni 2011 bestandskr\u00e4ftig oder rechtskr\u00e4ftig entschieden worden ist.</P><P>(6) Das Bundesministerium f\u00fcr Bildung und Forschung bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates das N\u00e4here \u00fcber das Verfahren, insbesondere \u00fcber die Mitwirkung der Pr\u00fcfungsstellen. Diese sind zur Auskunft und Mitwirkung verpflichtet, soweit dies f\u00fcr die Durchf\u00fchrung dieses Gesetzes erforderlich ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7 18b Abs. 3 Satz 1: Nach Ma\u00dfgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 21.6.2011 I 1726 - 1 BvR 2035/07 -</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE009113116",
+        "type": "article",
+        "name": "\u00a7 18c",
+        "title": "Bankdarlehen",
+        "body": {
+          "content": "<P>(1) Bankdarlehen der Kreditanstalt f\u00fcr Wiederaufbau f\u00fcr F\u00f6rderungsleistungen im Sinne des \u00a7 17 Absatz 3 Satz 1 in der am 31. Juli 2019 geltenden Fassung sind nach Ma\u00dfgabe der Abs\u00e4tze 1a bis 11 zur\u00fcckzuzahlen.</P><P>(1a) Auszubildende und die Kreditanstalt f\u00fcr Wiederaufbau k\u00f6nnen von den Abs\u00e4tzen 2 bis 11 abweichende Darlehensbedingungen vereinbaren.</P><P>(2) Das Bankdarlehen nach Absatz 1 ist von der Auszahlung an zu verzinsen. Bis zum Beginn der R\u00fcckzahlung werden die Zinsen gestundet. Die Darlehensschuld erh\u00f6ht sich jeweils zum 31. M\u00e4rz und 30. September um die gestundeten Zinsen.</P><P>(3) Als Zinssatz f\u00fcr den jeweiligen Darlehensgesamtbetrag gelten \u2013 vorbehaltlich des Gleichbleibens der Rechtslage \u2013 ab 1. April und 1. Oktober jeweils f\u00fcr ein halbes Jahr die Euro Interbank Offered Rate-S\u00e4tze f\u00fcr die Beschaffung von Sechsmonatsgeld von ersten Adressen in den Teilnehmerstaaten der Europ\u00e4ischen W\u00e4hrungsunion (EURIBOR) mit einer Laufzeit von sechs Monaten zuz\u00fcglich eines Aufschlags von 1 vom Hundert. Falls die in Satz 1 genannten Termine nicht auf einen Tag fallen, an dem ein EURIBOR-Satz ermittelt wird, so gilt der n\u00e4chste festgelegte EURIBOR-Satz.</P><P>(4) Vom Beginn der R\u00fcckzahlung an ist auf Antrag des Darlehensnehmers ein Festzins f\u00fcr die (Rest-)Laufzeit, l\u00e4ngstens jedoch f\u00fcr zehn Jahre zu vereinbaren. Der Antrag kann jeweils zum 1. April und 1. Oktober gestellt werden und muss einen Monat im Voraus bei der Kreditanstalt f\u00fcr Wiederaufbau eingegangen sein. Es gilt \u2013 vorbehaltlich des Gleichbleibens der Rechtslage \u2013 der Zinssatz f\u00fcr Bankschuldverschreibungen mit entsprechender Laufzeit, zuz\u00fcglich eines Aufschlags von eins vom Hundert.</P><P>(5) \u00a7 18 Absatz 3 Satz 3 und Absatz 11 ist entsprechend anzuwenden. F\u00fcr die R\u00fcckzahlung gelten alle nach \u00a7 17 Absatz 3 Satz 1 in der am 31. Juli 2019 geltenden Fassung geleisteten Darlehen als ein Darlehen.</P><P>(6) Das Bankdarlehen ist einschlie\u00dflich der Zinsen \u2013 vorbehaltlich des Gleichbleibens der Rechtslage \u2013 in m\u00f6glichst gleichbleibenden monatlichen Raten von mindestens 130 Euro innerhalb von 20 Jahren zur\u00fcckzuzahlen. Die erste Rate ist 18 Monate nach dem Ende des Monats, f\u00fcr den der Auszubildende zuletzt mit Bankdarlehen gef\u00f6rdert worden ist, zu zahlen.</P><P>(7) Hat jemand ein in Absatz 1 bezeichnetes Darlehen und ein in \u00a7 18 Absatz 1 Nummer 1 bezeichnetes Darlehen erhalten, ist deren R\u00fcckzahlung so aufeinander abzustimmen, dass ein in Absatz 1 bezeichnetes Darlehen vor einem in \u00a7 18 Absatz 1 Nummer 1 bezeichneten Darlehen und beide Darlehen einschlie\u00dflich der Zinsen in m\u00f6glichst gleichbleibenden monatlichen Raten von \u2013 vorbehaltlich des Gleichbleibens der Rechtslage \u2013 mindestens 130 Euro innerhalb von 22 Jahren zur\u00fcckzuzahlen sind. Die erste Rate des in \u00a7 18 Absatz 1 Nummer 1 bezeichneten Darlehens ist in dem Monat zu leisten, der auf die F\u00e4lligkeit der letzten Rate des in Absatz 1 bezeichneten Darlehens folgt. Wird das in Absatz 1 bezeichnete Darlehen vor diesem Zeitpunkt getilgt, ist die erste Rate des in \u00a7 18 Absatz 1 Nummer 1 bezeichneten Darlehens am Ende des Monats zu leisten, der auf den Monat der Tilgung folgt. \u00a7 18 Absatz 4 bleibt unber\u00fchrt.</P><P>(8) Vor Beginn der R\u00fcckzahlung teilt die Kreditanstalt f\u00fcr Wiederaufbau dem Darlehensnehmer \u2013 unbeschadet der F\u00e4lligkeit nach Absatz 6 \u2013 die H\u00f6he der Darlehensschuld und der gestundeten Zinsen, die f\u00fcr ihn geltende Zinsregelung, die H\u00f6he der monatlichen Zahlungsbetr\u00e4ge sowie den R\u00fcckzahlungszeitraum mit. Nach Aufforderung durch die Kreditanstalt f\u00fcr Wiederaufbau sind die Raten f\u00fcr jeweils drei aufeinanderfolgende Monate in einer Summe zu entrichten.</P><P>(9) Das Darlehen kann jederzeit ganz oder teilweise zur\u00fcckgezahlt werden.</P><P>(10) Auf Verlangen der Kreditanstalt f\u00fcr Wiederaufbau ist ihr die Darlehens- und Zinsschuld eines Darlehensnehmers zu zahlen, von dem eine termingerechte Zahlung nicht zu erwarten ist. Dies ist insbesondere der Fall, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Darlehensnehmer f\u00e4llige R\u00fcckzahlungsraten f\u00fcr sechs aufeinanderfolgende Monate nicht geleistet hat oder f\u00fcr diesen Zeitraum mit einem Betrag in H\u00f6he des vierfachen der monatlichen R\u00fcckzahlungsrate im R\u00fcckstand ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Darlehensvertrag von der Kreditanstalt f\u00fcr Wiederaufbau entsprechend den gesetzlichen Bestimmungen wirksam gek\u00fcndigt worden ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die R\u00fcckzahlung des Darlehens infolge der Erwerbs- oder Arbeitsunf\u00e4higkeit oder einer Erkrankung des Darlehensnehmers von mehr als einem Jahr Dauer nachhaltig erschwert oder unm\u00f6glich geworden ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Darlehensnehmer zahlungsunf\u00e4hig geworden ist oder seit mindestens einem Jahr Hilfe zum Lebensunterhalt nach dem Zw\u00f6lften Buch Sozialgesetzbuch oder Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch erh\u00e4lt oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Aufenthalt des Darlehensnehmers seit mehr als sechs Monaten nicht ermittelt werden konnte.</LA></DD></DL>Mit der Zahlung nach Satz 1 geht der Anspruch aus dem Darlehensvertrag auf den Bund \u00fcber.</P><P>(11) Das Bundesministerium f\u00fcr Bildung und Forschung bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates das N\u00e4here \u00fcber die Anpassung der H\u00f6he der Aufschl\u00e4ge nach den Abs\u00e4tzen 3 und 4 an die tats\u00e4chlichen Kosten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE009204116",
+        "type": "article",
+        "name": "\u00a7 18d",
+        "title": "Kreditanstalt f\u00fcr Wiederaufbau",
+        "body": {
+          "content": "<P>(1) Die nach \u00a7 18c Absatz 10 auf den Bund \u00fcbergegangenen Darlehensbetr\u00e4ge werden von der Kreditanstalt f\u00fcr Wiederaufbau verwaltet und eingezogen.</P><P>(2) Der Kreditanstalt f\u00fcr Wiederaufbau werden erstattet: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Darlehensbetr\u00e4ge, die in entsprechender Anwendung von \u00a7 18 Absatz 11 erl\u00f6schen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Darlehens- und Zinsbetr\u00e4ge nach \u00a7 18c Absatz 10 Satz 1.</LA></DD></DL></P><P>(3) Verwaltungskosten werden der Kreditanstalt f\u00fcr Wiederaufbau nur f\u00fcr die Verwaltung der nach \u00a7 18c Absatz 10 auf den Bund \u00fcbergegangenen Darlehensbetr\u00e4ge erstattet, soweit die Kosten nicht von den Darlehensnehmern getragen werden.</P><P>(4) Die Kreditanstalt f\u00fcr Wiederaufbau \u00fcbermittelt den L\u00e4ndern nach Ablauf eines Kalenderjahres eine Aufstellung sowohl \u00fcber die H\u00f6he der nach Absatz 1 f\u00fcr den Bund eingezogenen Betr\u00e4ge und Zinsen aus den Darlehen, deren Erstattung nach Absatz 2 sie bis zum 31. Dezember 2014 verlangt hat, als auch \u00fcber deren Aufteilung nach Ma\u00dfgabe des \u00a7 56 Absatz 2a. Sie zahlt zum Ende des jeweiligen Kalenderjahres jedem Land einen Abschlag in H\u00f6he des ihm voraussichtlich zustehenden Betrages, bis zum 30. Juni des folgenden Jahres den Restbetrag.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003603310",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Aufrechnung",
+        "body": {
+          "content": "<P>Mit einem Anspruch auf Erstattung von Ausbildungsf\u00f6rderung (\u00a7 50 des Zehnten Buches Sozialgesetzbuch und \u00a7 20) kann gegen den Anspruch auf Ausbildungsf\u00f6rderung f\u00fcr abgelaufene Monate abweichend von \u00a7 51 des Ersten Buches Sozialgesetzbuch in voller H\u00f6he aufgerechnet werden. Ist der Anspruch auf Ausbildungsf\u00f6rderung von einem Auszubildenden an einen Tr\u00e4ger der Sozialhilfe zum Ausgleich seiner Aufwendungen abgetreten worden, kann das Amt f\u00fcr Ausbildungsf\u00f6rderung gegen\u00fcber dem Tr\u00e4ger der Sozialhilfe mit einem Anspruch auf Erstattung von Ausbildungsf\u00f6rderung nicht aufrechnen. Die S\u00e4tze 1 und 2 gelten nicht f\u00fcr Bankdarlehen nach \u00a7 18c.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003703310",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "R\u00fcckzahlungspflicht",
+        "body": {
+          "content": "<P>(1) Haben die Voraussetzungen f\u00fcr die Leistung von Ausbildungsf\u00f6rderung an keinem Tage des Kalendermonats vorgelegen, f\u00fcr den sie gezahlt worden ist, so ist \u2013 au\u00dfer in den F\u00e4llen der \u00a7\u00a7 44 bis 50 des Zehnten Buches Sozialgesetzbuch \u2013 insoweit der Bewilligungsbescheid aufzuheben und der F\u00f6rderungsbetrag zu erstatten, als <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende Einkommen im Sinne des \u00a7 21 erzielt hat, das bei der Bewilligung der Ausbildungsf\u00f6rderung nicht ber\u00fccksichtigt worden ist; Regelanpassungen gesetzlicher Renten und Versorgungsbez\u00fcge bleiben hierbei au\u00dfer Betracht,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildungsf\u00f6rderung unter dem Vorbehalt der R\u00fcckforderung geleistet worden ist.</LA></DD></DL>Die Regelung \u00fcber die Erstattungspflicht gilt nicht f\u00fcr Bankdarlehen nach \u00a7 18c.</P><P>(2) Der F\u00f6rderungsbetrag ist f\u00fcr den Kalendermonat oder den Teil eines Kalendermonats zur\u00fcckzuzahlen, in dem der Auszubildende die Ausbildung aus einem von ihm zu vertretenden Grund unterbrochen hat. Die Regelung \u00fcber die Erstattungspflicht gilt nicht f\u00fcr Bankdarlehen nach \u00a7 18c.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000301310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG000401310",
+        "type": "heading",
+        "name": "Abschnitt IV",
+        "title": "Einkommensanrechnung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE003828116",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Einkommensbegriff",
+        "body": {
+          "content": "<P>(1) Als Einkommen gilt \u2013 vorbehaltlich des Satzes 3, der Abs\u00e4tze 2a, 3 und 4 \u2013 die Summe der positiven Eink\u00fcnfte im Sinne des \u00a7 2 Absatz 1 und 2 des Einkommensteuergesetzes. Ein Ausgleich mit Verlusten aus anderen Einkunftsarten und mit Verlusten des zusammenveranlagten Ehegatten oder Lebenspartners ist nicht zul\u00e4ssig. Abgezogen werden k\u00f6nnen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Altersentlastungsbetrag (\u00a7 24a des Einkommensteuergesetzes),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr den Berechnungszeitraum zu leistende Einkommensteuer, Kirchensteuer und Gewerbesteuer,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr den Berechnungszeitraum zu leistenden Pflichtbeitr\u00e4ge zur Sozialversicherung und zur Bundesagentur f\u00fcr Arbeit sowie die geleisteten freiwilligen Aufwendungen zur Sozialversicherung und f\u00fcr eine private Kranken-, Pflege-, Unfall- oder Lebensversicherung in angemessenem Umfang und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">gef\u00f6rderte Altersvorsorgebeitr\u00e4ge nach \u00a7 82 des Einkommensteuergesetzes, soweit sie den Mindesteigenbeitrag nach \u00a7 86 des Einkommensteuergesetzes nicht \u00fcberschreiten.</LA></DD></DL>Leibrenten, einschlie\u00dflich Unfallrenten, und Versorgungsrenten gelten in vollem Umfang als Einnahmen aus nichtselbst\u00e4ndiger Arbeit.</P><P>(2) Zur Abgeltung der Abz\u00fcge nach Absatz 1 Nummer 4 wird von der \u2013 um die Betr\u00e4ge nach Absatz 1 Nummer 1 und Absatz 4 Nummer 4 geminderten \u2013 Summe der positiven Eink\u00fcnfte ein Betrag in H\u00f6he folgender Vomhunderts\u00e4tze dieses Gesamtbetrages abgesetzt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr rentenversicherungspflichtige Arbeitnehmer und f\u00fcr Auszubildende 21,3 vom Hundert, h\u00f6chstens jedoch ein Betrag von j\u00e4hrlich 14\u00a0600 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr nichtrentenversicherungspflichtige Arbeitnehmer und f\u00fcr Personen im Ruhestandsalter, die einen Anspruch auf Alterssicherung aus einer renten- oder nichtrentenversicherungspflichtigen Besch\u00e4ftigung oder T\u00e4tigkeit haben, 15,5 vom Hundert, h\u00f6chstens jedoch ein Betrag von j\u00e4hrlich 8\u00a0500 Euro,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Nichtarbeitnehmer und auf Antrag von der Versicherungspflicht befreite oder wegen geringf\u00fcgiger Besch\u00e4ftigung versicherungsfreie Arbeitnehmer 37,7 vom Hundert, h\u00f6chstens jedoch ein Betrag von j\u00e4hrlich 25\u00a0500 Euro,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Personen im Ruhestandsalter, soweit sie nicht erwerbst\u00e4tig sind, und f\u00fcr sonstige Nichterwerbst\u00e4tige 15,5 vom Hundert, h\u00f6chstens jedoch ein Betrag von j\u00e4hrlich 8\u00a0500 Euro.</LA></DD></DL>Jeder Einkommensbezieher ist nur einer der in den Nummern 1 bis 4 bezeichneten Gruppen zuzuordnen; dies gilt auch, wenn er die Voraussetzungen nur f\u00fcr einen Teil des Berechnungszeitraums erf\u00fcllt. Einer Gruppe kann nur zugeordnet werden, wer nicht unter eine in den jeweils vorhergehenden Nummern bezeichnete Gruppe f\u00e4llt.</P><P>(2a) Als Einkommen gelten auch nur ausl\u00e4ndischem Steuerrecht unterliegende Eink\u00fcnfte eines Einkommensbeziehers, der seinen st\u00e4ndigen Wohnsitz im Ausland hat. Von dem Bruttobetrag sind in entsprechender Anwendung des Einkommensteuergesetzes Betr\u00e4ge entsprechend der jeweiligen Einkunftsart, gegebenenfalls mindestens Betr\u00e4ge in H\u00f6he der Pauschbetr\u00e4ge f\u00fcr Werbungskosten nach \u00a7 9a des Einkommensteuergesetzes, abzuziehen. Die so ermittelte Summe der positiven Eink\u00fcnfte vermindert sich um die gezahlten Steuern und den nach Absatz 2 entsprechend zu bestimmenden Pauschbetrag f\u00fcr die soziale Sicherung.</P><P>(3) Als Einkommen gelten ferner in H\u00f6he der tats\u00e4chlich geleisteten Betr\u00e4ge <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waisenrenten und Waisengelder, die der Antragsteller bezieht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildungsbeihilfen und gleichartige Leistungen, die nicht nach diesem Gesetz gew\u00e4hrt werden; wenn sie begabungs- und leistungsabh\u00e4ngig nach von dem Geber allgemeing\u00fcltig erlassenen Richtlinien ohne weitere Konkretisierung des Verwendungszwecks vergeben werden, gilt dies jedoch nur, soweit sie im Berechnungszeitraum einen Gesamtbetrag \u00fcbersteigen, der einem Monatsdurchschnitt von 300 Euro entspricht; Absatz 4 Nummer 4 bleibt unber\u00fchrt;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, mit Ausnahme der Unterhaltsleistungen der Eltern des Auszubildenden und seines Ehegatten oder Lebenspartners, soweit sie das Bundesministerium f\u00fcr Bildung und Forschung in einer Rechtsverordnung ohne Zustimmung des Bundesrates bezeichnet hat.</LA></DD></DL>Die Erziehungsbeihilfe, die ein Besch\u00e4digter f\u00fcr ein Kind erh\u00e4lt (\u00a7 27 des Bundesversorgungsgesetzes), gilt als Einkommen des Kindes.</P><P>(4) Nicht als Einkommen gelten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundrenten und Schwerstbesch\u00e4digtenzulage nach dem Bundesversorgungsgesetz und nach den Gesetzen, die das Bundesversorgungsgesetz f\u00fcr anwendbar erkl\u00e4ren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein der Grundrente und der Schwerstbesch\u00e4digtenzulage nach dem Bundesversorgungsgesetz entsprechender Betrag, wenn diese Leistungen nach \u00a7 65 des Bundesversorgungsgesetzes ruhen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten, die den Opfern nationalsozialistischer Verfolgung wegen einer durch die Verfolgung erlittenen Gesundheitssch\u00e4digung geleistet werden, bis zur H\u00f6he des Betrages, der in der Kriegsopferversorgung bei gleicher Minderung der Erwerbsf\u00e4higkeit als Grundrente und Schwerstbesch\u00e4digtenzulage geleistet w\u00fcrde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einnahmen, deren Zweckbestimmung einer Anrechnung auf den Bedarf entgegensteht; dies gilt insbesondere f\u00fcr Einnahmen, die f\u00fcr einen anderen Zweck als f\u00fcr die Deckung des Bedarfs im Sinne dieses Gesetzes bestimmt sind,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">zus\u00e4tzliche Einnahmen aus einer T\u00e4tigkeit der Antragstellenden in systemrelevanten Branchen und Berufen, soweit die T\u00e4tigkeit zur Bek\u00e4mpfung der COVID-19-Pandemie und deren sozialen Folgen seit dem 1. M\u00e4rz 2020 aufgenommen oder in ihrem arbeitszeitlichen Umfang aufgestockt wurde, f\u00fcr die Dauer dieser T\u00e4tigkeit oder Arbeitszeitaufstockung.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000401310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE003904310",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "Berechnungszeitraum f\u00fcr das Einkommen des Auszubildenden",
+        "body": {
+          "content": "<P>(1) F\u00fcr die Anrechnung des Einkommens des Auszubildenden sind die Einkommensverh\u00e4ltnisse im Bewilligungszeitraum ma\u00dfgebend. Sind bei ihrer Ermittlung Pauschbetr\u00e4ge f\u00fcr Werbungskosten nach \u00a7 9a des Einkommensteuergesetzes zu ber\u00fccksichtigen, so ist der Betrag abzuziehen, der sich ergibt, wenn ein Zw\u00f6lftel des Jahrespauschbetrages mit der Zahl der Kalendermonate des Bewilligungszeitraumes vervielfacht wird.</P><P>(2) Auf den Bedarf jedes Kalendermonats des Bewilligungszeitraums wird der Betrag angerechnet, der sich ergibt, wenn das Gesamteinkommen durch die Zahl der Kalendermonate des Bewilligungszeitraums geteilt wird.</P><P>(3) Die Abs\u00e4tze 1 und 2 gelten entsprechend f\u00fcr die Ber\u00fccksichtigung des Einkommens <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Kinder nach \u00a7 23 Absatz 2,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Kinder, der in \u00a7 25 Absatz 5 Nummer 1 bis 3 bezeichneten Personen und der sonstigen Unterhaltsberechtigten nach \u00a7 25 Absatz 3.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000401310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE004026116",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "Freibetr\u00e4ge vom Einkommen des Auszubildenden",
+        "body": {
+          "content": "<P>(1) Vom Einkommen des Auszubildenden bleiben monatlich anrechnungsfrei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Auszubildenden selbst 290 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Ehegatten oder Lebenspartner des Auszubildenden 630 Euro,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr jedes Kind des Auszubildenden 570 Euro.</LA></DD></DL>Satz 1 Nummer 2 und 3 findet keine Anwendung auf Ehegatten oder Lebenspartner und Kinder, die in einer Ausbildung stehen, die nach diesem Gesetz oder nach \u00a7 56 des Dritten Buches Sozialgesetzbuch gef\u00f6rdert werden kann.</P><P>(2) Die Freibetr\u00e4ge nach Absatz 1 Nummer 2 und 3 mindern sich um Einnahmen des Auszubildenden sowie Einkommen des Ehegatten oder Lebenspartners und des Kindes, die dazu bestimmt sind oder \u00fcblicher- oder zumutbarerweise dazu verwendet werden, den Unterhaltsbedarf des Ehegatten oder Lebenspartners und der Kinder des Auszubildenden zu decken.</P><P>(3) Die Verg\u00fctung aus einem Ausbildungsverh\u00e4ltnis wird abweichend von den Abs\u00e4tzen 1 und 2 voll angerechnet.</P><P>(4) Abweichend von Absatz 1 werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">von der Waisenrente und dem Waisengeld der Auszubildenden, deren Bedarf sich nach \u00a7 12 Absatz 1 Nummer 1 bemisst, monatlich 200 Euro, anderer Auszubildender 145 Euro monatlich nicht angerechnet,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildungsbeihilfen und gleichartige Leistungen aus \u00f6ffentlichen Mitteln oder von F\u00f6rderungseinrichtungen, die hierf\u00fcr \u00f6ffentliche Mittel erhalten, sowie F\u00f6rderungsleistungen ausl\u00e4ndischer Staaten voll auf den Bedarf angerechnet; zu diesem Zweck werden Ausbildungsbeihilfen und gleichartige Leistungen, die zugleich aus \u00f6ffentlichen und privaten Mitteln finanziert und dem Empf\u00e4nger insgesamt als eine Leistung zugewendet werden, als einheitlich aus \u00f6ffentlichen Mitteln erbracht behandelt. Voll angerechnet wird auch Einkommen, das aus \u00f6ffentlichen Mitteln zum Zweck der Ausbildung bezogen wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterhaltsleistungen des geschiedenen oder dauernd getrennt lebenden Ehegatten voll auf den Bedarf angerechnet; dasselbe gilt f\u00fcr Unterhaltsleistungen des Lebenspartners nach Aufhebung der Lebenspartnerschaft oder des dauernd getrennt lebenden Lebenspartners.</LA></DD></DL></P><P>(5) Zur Vermeidung unbilliger H\u00e4rten kann auf besonderen Antrag, der vor dem Ende des Bewilligungszeitraums zu stellen ist, abweichend von den Abs\u00e4tzen 1 und 4 ein weiterer Teil des Einkommens des Auszubildenden anrechnungsfrei gestellt werden, soweit er zur Deckung besonderer Kosten der Ausbildung erforderlich ist, die nicht durch den Bedarfssatz gedeckt sind, h\u00f6chstens jedoch bis zu einem Betrag von 285 Euro monatlich.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000401310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE004110310",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": "Berechnungszeitraum f\u00fcr das Einkommen der Eltern und des Ehegatten oder Lebenspartners",
+        "body": {
+          "content": "<P>(1) F\u00fcr die Anrechnung des Einkommens der Eltern und des Ehegatten oder Lebenspartners des Auszubildenden sind die Einkommensverh\u00e4ltnisse im vorletzten Kalenderjahr vor Beginn des Bewilligungszeitraums ma\u00dfgebend.</P><P>(2) Ist der Einkommensbezieher f\u00fcr diesen Zeitraum zur Einkommensteuer zu veranlagen, liegt jedoch der Steuerbescheid dem Amt f\u00fcr Ausbildungsf\u00f6rderung noch nicht vor, so wird unter Ber\u00fccksichtigung der glaubhaft gemachten Einkommensverh\u00e4ltnisse \u00fcber den Antrag entschieden. Ausbildungsf\u00f6rderung wird insoweit \u2013 au\u00dfer in den F\u00e4llen des \u00a7 18c \u2013 unter dem Vorbehalt der R\u00fcckforderung geleistet. Sobald der Steuerbescheid dem Amt f\u00fcr Ausbildungsf\u00f6rderung vorliegt, wird \u00fcber den Antrag abschlie\u00dfend entschieden.</P><P>(3) Ist das Einkommen im Bewilligungszeitraum voraussichtlich wesentlich niedriger als in dem nach Absatz 1 ma\u00dfgeblichen Zeitraum, so ist auf besonderen Antrag des Auszubildenden bei der Anrechnung von den Einkommensverh\u00e4ltnissen im Bewilligungszeitraum auszugehen; nach dessen Ende gestellte Antr\u00e4ge werden nicht ber\u00fccksichtigt. Der Auszubildende hat das Vorliegen der Voraussetzungen des Satzes 1 glaubhaft zu machen. Ausbildungsf\u00f6rderung wird insoweit \u2013 au\u00dfer in den F\u00e4llen des \u00a7 18c \u2013 unter dem Vorbehalt der R\u00fcckforderung geleistet. Sobald sich das Einkommen in dem Bewilligungszeitraum endg\u00fcltig feststellen l\u00e4sst, wird \u00fcber den Antrag abschlie\u00dfend entschieden.</P><P>(4) Auf den Bedarf f\u00fcr jeden Kalendermonat des Bewilligungszeitraums ist ein Zw\u00f6lftel des im Berechnungszeitraum erzielten Jahreseinkommens anzurechnen. Abweichend von Satz 1 ist in den F\u00e4llen des Absatzes 3 der Betrag anzurechnen, der sich ergibt, wenn die Summe der Monatseinkommen des Bewilligungszeitraums durch die Zahl der Kalendermonate des Bewilligungszeitraums geteilt wird; als Monatseinkommen gilt ein Zw\u00f6lftel des jeweiligen Kalenderjahreseinkommens.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000401310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE004228116",
+        "type": "article",
+        "name": "\u00a7 25",
+        "title": "Freibetr\u00e4ge vom Einkommen der Eltern und des Ehegatten oder Lebenspartners",
+        "body": {
+          "content": "<P>(1) Es bleiben monatlich anrechnungsfrei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">vom Einkommen der miteinander verheirateten oder in einer Lebenspartnerschaft verbundenen Eltern, wenn sie nicht dauernd getrennt leben, 1\u00a0890 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">vom Einkommen jedes Elternteils in sonstigen F\u00e4llen sowie vom Einkommen des Ehegatten oder Lebenspartners des Auszubildenden je 1\u00a0260 Euro.</LA></DD></DL></P><P>(2) (weggefallen)</P><P>(3) Die Freibetr\u00e4ge des Absatzes 1 erh\u00f6hen sich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den nicht in Eltern-Kind-Beziehung zum Auszubildenden stehenden Ehegatten oder Lebenspartner des Einkommensbeziehers um 630 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Kinder des Einkommensbeziehers sowie f\u00fcr weitere dem Einkommensbezieher gegen\u00fcber nach dem b\u00fcrgerlichen Recht Unterhaltsberechtigte um je 570 Euro,</LA></DD></DL>wenn sie nicht in einer Ausbildung stehen, die nach diesem Gesetz oder nach \u00a7 56 des Dritten Buches Sozialgesetzbuch gef\u00f6rdert werden kann. Die Freibetr\u00e4ge nach Satz 1 mindern sich um das Einkommen des Ehegatten oder Lebenspartners, des Kindes oder des sonstigen Unterhaltsberechtigten.</P><P>(4) Das die Freibetr\u00e4ge nach den Abs\u00e4tzen 1, 3 und 6 \u00fcbersteigende Einkommen der Eltern und des Ehegatten oder Lebenspartners bleibt anrechnungsfrei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu 50 vom Hundert und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu 5 vom Hundert f\u00fcr jedes Kind, f\u00fcr das ein Freibetrag nach Absatz 3 gew\u00e4hrt wird.</LA></DD></DL></P><P>(5) Als Kinder des Einkommensbeziehers gelten au\u00dfer seinen eigenen Kindern <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegekinder (Personen, mit denen er durch ein familien\u00e4hnliches, auf l\u00e4ngere Dauer berechnetes Band verbunden ist, sofern er sie in seinen Haushalt aufgenommen hat und das Obhuts- und Pflegeverh\u00e4ltnis zu den Eltern nicht mehr besteht),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in seinen Haushalt aufgenommene Kinder seines Ehegatten oder Lebenspartners,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in seinen Haushalt aufgenommene Enkel.</LA></DD></DL></P><P>(6) Zur Vermeidung unbilliger H\u00e4rten kann auf besonderen Antrag, der vor dem Ende des Bewilligungszeitraums zu stellen ist, abweichend von den vorstehenden Vorschriften ein weiterer Teil des Einkommens anrechnungsfrei bleiben. Hierunter fallen insbesondere au\u00dfergew\u00f6hnliche Belastungen nach den \u00a7\u00a7 33 bis 33b des Einkommensteuergesetzes sowie Aufwendungen f\u00fcr behinderte Personen, denen der Einkommensbezieher nach dem b\u00fcrgerlichen Recht unterhaltspflichtig ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000401310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG000501310",
+        "type": "heading",
+        "name": "Abschnitt V",
+        "title": "Verm\u00f6gensanrechnung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE004504310",
+        "type": "article",
+        "name": "\u00a7 26",
+        "title": "Umfang der Verm\u00f6gensanrechnung",
+        "body": {
+          "content": "<P>Verm\u00f6gen des Auszubildenden wird nach Ma\u00dfgabe der \u00a7\u00a7 27 bis 30 angerechnet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000501310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE004603116",
+        "type": "article",
+        "name": "\u00a7 27",
+        "title": "Verm\u00f6gensbegriff",
+        "body": {
+          "content": "<P>(1) Als Verm\u00f6gen gelten alle <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">beweglichen und unbeweglichen Sachen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Forderungen und sonstige Rechte.</LA></DD></DL>Ausgenommen sind Gegenst\u00e4nde, soweit der Auszubildende sie aus rechtlichen Gr\u00fcnden nicht verwerten kann.</P><P>(2) Nicht als Verm\u00f6gen gelten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rechte auf Versorgungsbez\u00fcge, auf Renten und andere wiederkehrende Leistungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcbergangsbeihilfen nach den \u00a7\u00a7 12 und 13 des Soldatenversorgungsgesetzes in der Fassung der Bekanntmachung vom 21. April 1983 (BGBl. I S. 457) sowie die Wiedereingliederungsbeihilfe nach \u00a7 4 Absatz 1 Nummer 2 des Entwicklungshelfer-Gesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nie\u00dfbrauchsrechte,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Haushaltsgegenst\u00e4nde.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000501310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE004709310",
+        "type": "article",
+        "name": "\u00a7 28",
+        "title": "Wertbestimmung des Verm\u00f6gens",
+        "body": {
+          "content": "<P>(1) Der Wert eines Gegenstandes ist zu bestimmen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Wertpapieren auf die H\u00f6he des Kurswertes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei sonstigen Gegenst\u00e4nden auf die H\u00f6he des Zeitwertes.</LA></DD></DL></P><P>(2) Ma\u00dfgebend ist der Wert im Zeitpunkt der Antragstellung.</P><P>(3) Von dem nach den Abs\u00e4tzen 1 und 2 ermittelten Betrag sind die im Zeitpunkt der Antragstellung bestehenden Schulden und Lasten abzuziehen. Dies gilt nicht f\u00fcr das nach diesem Gesetz erhaltene Darlehen.</P><P>(4) Ver\u00e4nderungen zwischen Antragstellung und Ende des Bewilligungszeitraums bleiben unber\u00fccksichtigt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000501310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE004807116",
+        "type": "article",
+        "name": "\u00a7 29",
+        "title": "Freibetr\u00e4ge vom Verm\u00f6gen",
+        "body": {
+          "content": "<P>(1) Von dem Verm\u00f6gen bleiben anrechnungsfrei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Auszubildenden selbst 8\u00a0200 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Ehegatten oder Lebenspartner des Auszubildenden 2\u00a0300 Euro,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr jedes Kind des Auszubildenden 2\u00a0300 Euro.</LA></DD></DL>Ma\u00dfgebend sind die Verh\u00e4ltnisse im Zeitpunkt der Antragstellung.</P><P>(2) (weggefallen)</P><P>(3) Zur Vermeidung unbilliger H\u00e4rten kann ein weiterer Teil des Verm\u00f6gens anrechnungsfrei bleiben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000501310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE004901310",
+        "type": "article",
+        "name": "\u00a7 30",
+        "title": "Monatlicher Anrechnungsbetrag",
+        "body": {
+          "content": "<P>Auf den monatlichen Bedarf des Auszubildenden ist der Betrag anzurechnen, der sich ergibt, wenn der Betrag des anzurechnenden Verm\u00f6gens durch die Zahl der Kalendermonate des Bewilligungszeitraums geteilt wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000501310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE005001310",
+        "type": "article",
+        "name": "(XXXX) \u00a7\u00a7 31 bis 34",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000501310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG000601310",
+        "type": "heading",
+        "name": "Abschnitt VI",
+        "title": "",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE005104116",
+        "type": "article",
+        "name": "\u00a7 35",
+        "title": "Anpassung der Bedarfss\u00e4tze und Freibetr\u00e4ge",
+        "body": {
+          "content": "<P>Die Bedarfss\u00e4tze, Freibetr\u00e4ge sowie die Vomhunderts\u00e4tze und H\u00f6chstbetr\u00e4ge nach \u00a7 21 Absatz 2 sind alle zwei Jahre zu \u00fcberpr\u00fcfen und durch Gesetz gegebenenfalls neu festzusetzen. Dabei ist der Entwicklung der Einkommensverh\u00e4ltnisse und der Verm\u00f6gensbildung, den Ver\u00e4nderungen der Lebenshaltungskosten sowie der finanzwirtschaftlichen Entwicklung Rechnung zu tragen. Die Bundesregierung hat hier\u00fcber dem Deutschen Bundestag und dem Bundesrat zu berichten. Die im Jahr 2019 anstehende Berichterstattung erfolgt im Jahr 2021.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000601310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG000702310",
+        "type": "heading",
+        "name": "Abschnitt VII",
+        "title": "Vorausleistung und Anspruchs\u00fcbergang",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE005211116",
+        "type": "article",
+        "name": "\u00a7 36",
+        "title": "Vorausleistung von Ausbildungsf\u00f6rderung",
+        "body": {
+          "content": "<P>(1) Macht der Auszubildende glaubhaft, dass seine Eltern den nach den Vorschriften dieses Gesetzes angerechneten Unterhaltsbetrag nicht leisten, und ist die Ausbildung \u2013 auch unter Ber\u00fccksichtigung des Einkommens des Ehegatten oder Lebenspartners im Bewilligungszeitraum \u2013 gef\u00e4hrdet, so wird auf Antrag nach Anh\u00f6rung der Eltern Ausbildungsf\u00f6rderung ohne Anrechnung dieses Betrages geleistet; nach Ende des Bewilligungszeitraums gestellte Antr\u00e4ge werden nicht ber\u00fccksichtigt.</P><P>(2) Absatz 1 ist entsprechend anzuwenden, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende glaubhaft macht, dass seine Eltern den Bedarf nach den \u00a7\u00a7 12 bis 14b nicht leisten, und die Eltern entgegen \u00a7 47 Absatz 4 die f\u00fcr die Anrechnung ihres Einkommens erforderlichen Ausk\u00fcnfte nicht erteilen oder Urkunden nicht vorlegen und darum ihr Einkommen nicht angerechnet werden kann, und wenn</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bu\u00dfgeldfestsetzung oder Einleitung des Verwaltungszwangsverfahrens nicht innerhalb zweier Monate zur Erteilung der erforderlichen Ausk\u00fcnfte gef\u00fchrt haben oder rechtlich unzul\u00e4ssig sind, insbesondere weil die Eltern ihren st\u00e4ndigen Wohnsitz im Ausland haben.</LA></DD></DL></P><P>(3) Ausbildungsf\u00f6rderung wird nicht vorausgeleistet, soweit die Eltern bereit sind, Unterhalt entsprechend einer gem\u00e4\u00df \u00a7 1612 Absatz 2 des B\u00fcrgerlichen Gesetzbuches getroffenen Bestimmung zu leisten.</P><P>(4) Von der Anh\u00f6rung der Eltern kann aus wichtigem Grund oder, wenn der Auszubildende in demselben Ausbildungsabschnitt f\u00fcr den vorhergehenden Bewilligungszeitraum Leistungen nach Absatz 1 oder 2 erhalten hat, abgesehen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000702310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE005305310",
+        "type": "article",
+        "name": "\u00a7 37",
+        "title": "\u00dcbergang von Unterhaltsanspr\u00fcchen",
+        "body": {
+          "content": "<P>(1) Hat der Auszubildende f\u00fcr die Zeit, f\u00fcr die ihm Ausbildungsf\u00f6rderung gezahlt wird, nach b\u00fcrgerlichem Recht einen Unterhaltsanspruch gegen seine Eltern, so geht dieser zusammen mit dem unterhaltsrechtlichen Auskunftsanspruch mit der Zahlung bis zur H\u00f6he der geleisteten Aufwendungen auf das Land \u00fcber, jedoch nur soweit auf den Bedarf des Auszubildenden das Einkommen der Eltern nach diesem Gesetz anzurechnen ist. Die Zahlungen, welche die Eltern auf Grund der Mitteilung \u00fcber den Anspruchs\u00fcbergang erbringen, werden entsprechend \u00a7 11 Absatz 2 angerechnet. Die S\u00e4tze 1 und 2 gelten nicht, soweit der Auszubildende Ausbildungsf\u00f6rderung als Bankdarlehen nach \u00a7 18c erhalten hat.</P><P>(2) (weggefallen)</P><P>(3) (weggefallen)</P><P>(4) F\u00fcr die Vergangenheit k\u00f6nnen die Eltern des Auszubildenden nur von dem Zeitpunkt an in Anspruch genommen werden, in dem <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen des b\u00fcrgerlichen Rechts vorgelegen haben oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie bei dem Antrag auf Ausbildungsf\u00f6rderung mitgewirkt haben oder von ihm Kenntnis erhalten haben und dar\u00fcber belehrt worden sind, unter welchen Voraussetzungen dieses Gesetz eine Inanspruchnahme von Eltern erm\u00f6glicht.</LA></DD></DL></P><P>(5) (weggefallen)</P><P>(6) Der Anspruch ist von der F\u00e4lligkeit an mit 6 vom Hundert zu verzinsen. Zinsen werden jedoch erst vom Beginn des Monats an erhoben, der auf die Mitteilung des Amtes f\u00fcr Ausbildungsf\u00f6rderung \u00fcber den erfolgten Anspruchs\u00fcbergang folgt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000702310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE005401310",
+        "type": "article",
+        "name": "\u00a7 38",
+        "title": "\u00dcbergang von anderen Anspr\u00fcchen",
+        "body": {
+          "content": "<P>Hat der Auszubildende f\u00fcr die Zeit, f\u00fcr die ihm Ausbildungsf\u00f6rderung gezahlt wird, gegen eine \u00f6ffentlich-rechtliche Stelle, die nicht Leistungstr\u00e4ger ist, Anspruch auf Leistung, die auf den Bedarf anzurechnen ist oder eine Leistung nach diesem Gesetz ausschlie\u00dft, geht dieser mit der Zahlung in H\u00f6he der geleisteten Aufwendungen auf das Land \u00fcber. Die \u00a7\u00a7 104 und 115 des Zehnten Buches Sozialgesetzbuch bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000702310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG000801310",
+        "type": "heading",
+        "name": "Abschnitt VIII",
+        "title": "Organisation",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE005507310",
+        "type": "article",
+        "name": "\u00a7 39",
+        "title": "Auftragsverwaltung",
+        "body": {
+          "content": "<P>(1) Dieses Gesetz wird vorbehaltlich des Absatzes 2 im Auftrag des Bundes von den L\u00e4ndern ausgef\u00fchrt.</P><P>(2) Die nach \u00a7 18 Absatz 1 geleisteten Darlehen werden durch das Bundesverwaltungsamt verwaltet und eingezogen. Die zust\u00e4ndige Bundeskasse nimmt die Aufgaben der Kasse beim Einzug der Darlehen und deren Anmahnung f\u00fcr das Bundesverwaltungsamt wahr.</P><P>(3) Jedes Land bestimmt die zust\u00e4ndigen Beh\u00f6rden f\u00fcr die Entscheidungen nach \u00a7 2 Absatz 2 und \u00a7 3 Absatz 4 hinsichtlich der Ausbildungsst\u00e4tten und Fernlehrinstitute, die ihren Sitz in diesem Land haben.</P><P>(4) Die Bundesregierung kann durch Allgemeine Verwaltungsvorschrift mit Zustimmung des Bundesrates eine einheitliche maschinelle Berechnung, R\u00fcckrechnung und Abrechnung der Leistungen nach diesem Gesetz in Form einer algorithmischen Darstellung materiellrechtlicher Regelungen (Programmablaufplan) regeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000801310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE005610116",
+        "type": "article",
+        "name": "\u00a7 40",
+        "title": "\u00c4mter f\u00fcr Ausbildungsf\u00f6rderung",
+        "body": {
+          "content": "<P>(1) Die L\u00e4nder errichten f\u00fcr jeden Kreis und jede kreisfreie Stadt ein Amt f\u00fcr Ausbildungsf\u00f6rderung. Die L\u00e4nder k\u00f6nnen f\u00fcr mehrere Kreise oder kreisfreie St\u00e4dte ein gemeinsames Amt f\u00fcr Ausbildungsf\u00f6rderung errichten. Im Land Berlin k\u00f6nnen mehrere \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung errichtet werden. In den L\u00e4ndern Berlin, Bremen und Hamburg kann davon abgesehen werden, \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung zu errichten.</P><P>(2) F\u00fcr Auszubildende, die eine im Inland gelegene Hochschule besuchen, richten die L\u00e4nder abweichend von Absatz 1 \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung bei staatlichen Hochschulen oder bei Studentenwerken ein; diesen kann auch die Zust\u00e4ndigkeit f\u00fcr andere Auszubildende \u00fcbertragen werden, die Ausbildungsf\u00f6rderung wie Studierende an Hochschulen erhalten. Die L\u00e4nder k\u00f6nnen bestimmen, dass ein bei einer staatlichen Hochschule errichtetes Amt f\u00fcr Ausbildungsf\u00f6rderung ein Studentenwerk zur Durchf\u00fchrung seiner Aufgaben heranzieht. Ein Studentenwerk kann Amt f\u00fcr Ausbildungsf\u00f6rderung nur sein, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">es eine Anstalt oder Stiftung des \u00f6ffentlichen Rechts ist und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Bediensteter die Bef\u00e4higung zu einem Richteramt nach dem Deutschen Richtergesetz oder f\u00fcr den h\u00f6heren allgemeinen Verwaltungsdienst hat.</LA></DD></DL></P><P>(3) F\u00fcr Auszubildende, die eine im Ausland gelegene Ausbildungsst\u00e4tte besuchen, k\u00f6nnen die L\u00e4nder abweichend von Absatz 1 \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung bei staatlichen Hochschulen, Studentenwerken oder Landes\u00e4mtern f\u00fcr Ausbildungsf\u00f6rderung einrichten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000801310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE005703310",
+        "type": "article",
+        "name": "\u00a7 40a",
+        "title": "Landes\u00e4mter f\u00fcr Ausbildungsf\u00f6rderung",
+        "body": {
+          "content": "<P>Die L\u00e4nder k\u00f6nnen Landes\u00e4mter f\u00fcr Ausbildungsf\u00f6rderung errichten. Mehrere L\u00e4nder k\u00f6nnen ein gemeinsames Landesamt f\u00fcr Ausbildungsf\u00f6rderung errichten. Im Falle der Errichtung eines Landesamtes f\u00fcr Ausbildungsf\u00f6rderung nach Satz 1 findet \u00a7 40 Absatz 2 Satz 3 Nummer 2 keine Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000801310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE005806116",
+        "type": "article",
+        "name": "\u00a7 41",
+        "title": "Aufgaben der \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung",
+        "body": {
+          "content": "<P>(1) Das Amt f\u00fcr Ausbildungsf\u00f6rderung nimmt die zur Durchf\u00fchrung dieses Gesetzes erforderlichen Aufgaben wahr, soweit sie nicht anderen Stellen \u00fcbertragen sind. Bei der Bearbeitung der Antr\u00e4ge k\u00f6nnen zentrale Verwaltungsstellen herangezogen werden.</P><P>(2) Es trifft die zur Entscheidung \u00fcber den Antrag erforderlichen Feststellungen, entscheidet \u00fcber den Antrag und erl\u00e4sst den Bescheid hier\u00fcber.</P><P>(3) Das Amt f\u00fcr Ausbildungsf\u00f6rderung hat die Auszubildenden und ihre Eltern \u00fcber die individuelle F\u00f6rderung der Ausbildung nach bundes- und landesrechtlichen Vorschriften zu beraten.</P><P>(4) Die \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung d\u00fcrfen Personen, die Leistungen nach diesem Gesetz beziehen, auch regelm\u00e4\u00dfig im Wege des automatisierten Datenabgleichs daraufhin \u00fcberpr\u00fcfen, ob und welche Daten nach \u00a7 45d Absatz 1 des Einkommensteuergesetzes dem Bundeszentralamt f\u00fcr Steuern \u00fcbermittelt worden sind. Die \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung d\u00fcrfen zu diesem Zweck Namen, Vornamen, Geburtsdatum und Anschrift der Personen, die Leistungen nach diesem Gesetz beziehen, sowie die Amts- und F\u00f6rderungsnummer an das Bundeszentralamt f\u00fcr Steuern \u00fcbermitteln. Die \u00dcbermittlung kann auch \u00fcber eine von der zust\u00e4ndigen Landesbeh\u00f6rde bestimmte zentrale Landesstelle erfolgen. Das Bundeszentralamt f\u00fcr Steuern hat die ihm \u00fcberlassenen Daten und Datentr\u00e4ger nach Durchf\u00fchrung des Abgleichs unverz\u00fcglich zur\u00fcckzugeben, zu l\u00f6schen oder zu vernichten. Die \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung d\u00fcrfen die ihnen \u00fcbermittelten Daten nur zur \u00dcberpr\u00fcfung nach Satz 1 nutzen. Die \u00fcbermittelten Daten der Personen, bei denen die \u00dcberpr\u00fcfung zu keinen abweichenden Feststellungen f\u00fchrt, sind unverz\u00fcglich zu l\u00f6schen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000801310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE005905310",
+        "type": "article",
+        "name": "\u00a7 42",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000801310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006004310",
+        "type": "article",
+        "name": "\u00a7 43",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000801310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006105116",
+        "type": "article",
+        "name": "\u00a7 44",
+        "title": "Beirat f\u00fcr Ausbildungsf\u00f6rderung",
+        "body": {
+          "content": "<P>(1) Das Bundesministerium f\u00fcr Bildung und Forschung kann durch Rechtsverordnung ohne Zustimmung des Bundesrates einen Beirat f\u00fcr Ausbildungsf\u00f6rderung bilden, der es bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Durchf\u00fchrung des Gesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der weiteren Ausgestaltung der gesetzlichen Regelung der individuellen Ausbildungsf\u00f6rderung und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Ber\u00fccksichtigung neuer Ausbildungsformen</LA></DD></DL>ber\u00e4t.</P><P>(2) In den Beirat sind Vertreter der an der Ausf\u00fchrung des Gesetzes beteiligten Landes- und Gemeindebeh\u00f6rden, des Deutschen Studentenwerkes e. V., der Bundesagentur f\u00fcr Arbeit, der Lehrk\u00f6rper der Ausbildungsst\u00e4tten, der Auszubildenden, der Elternschaft, der Rechts-, Wirtschafts- oder Sozialwissenschaften, der Arbeitgeber sowie der Arbeitnehmer zu berufen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000801310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG000901310",
+        "type": "heading",
+        "name": "Abschnitt IX",
+        "title": "Verfahren",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE006211116",
+        "type": "article",
+        "name": "\u00a7 45",
+        "title": "\u00d6rtliche Zust\u00e4ndigkeit",
+        "body": {
+          "content": "<P>(1) F\u00fcr die Entscheidung \u00fcber die Ausbildungsf\u00f6rderung ist das Amt f\u00fcr Ausbildungsf\u00f6rderung zust\u00e4ndig, in dessen Bezirk die Eltern des Auszubildenden oder, wenn nur noch ein Elternteil lebt, dieser den st\u00e4ndigen Wohnsitz haben. Das Amt f\u00fcr Ausbildungsf\u00f6rderung, in dessen Bezirk der Auszubildende seinen st\u00e4ndigen Wohnsitz hat, ist zust\u00e4ndig, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende verheiratet oder in einer Lebenspartnerschaft verbunden ist oder war,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">seine Eltern nicht mehr leben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem \u00fcberlebenden Elternteil die elterliche Sorge nicht zusteht oder bei Erreichen der Vollj\u00e4hrigkeit des Auszubildenden nicht zustand,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht beide Elternteile ihren st\u00e4ndigen Wohnsitz in dem Bezirk desselben Amtes f\u00fcr Ausbildungsf\u00f6rderung haben,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">kein Elternteil einen Wohnsitz im Inland hat,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende eine Fachschulklasse besucht, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Auszubildende Ausbildungsf\u00f6rderung f\u00fcr die Teilnahme an Fernunterrichtslehrg\u00e4ngen erh\u00e4lt (\u00a7 3).</LA></DD></DL>Hat in den F\u00e4llen des Satzes 2 der Auszubildende im Inland keinen st\u00e4ndigen Wohnsitz, so ist das Amt f\u00fcr Ausbildungsf\u00f6rderung zust\u00e4ndig, in dessen Bezirk die Ausbildungsst\u00e4tte liegt.</P><P>(2) Abweichend von Absatz 1 ist f\u00fcr die Auszubildenden an <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abendgymnasien und Kollegs,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6heren Fachschulen und Akademien</LA></DD></DL>das Amt f\u00fcr Ausbildungsf\u00f6rderung zust\u00e4ndig, in dessen Bezirk die Ausbildungsst\u00e4tte gelegen ist, die der Auszubildende besucht.</P><P>(3) Abweichend von den Abs\u00e4tzen 1 und 2 ist das bei einer staatlichen Hochschule errichtete Amt f\u00fcr Ausbildungsf\u00f6rderung f\u00fcr die an dieser Hochschule immatrikulierten Auszubildenden zust\u00e4ndig; diese Zust\u00e4ndigkeit gilt auch f\u00fcr Auszubildende, die im Zusammenhang mit dem Hochschulbesuch ein Vor- oder Nachpraktikum ableisten. Die L\u00e4nder k\u00f6nnen bestimmen, dass das an einer staatlichen Hochschule errichtete Amt f\u00fcr Ausbildungsf\u00f6rderung auch zust\u00e4ndig ist f\u00fcr Auszubildende, die an anderen Hochschulen immatrikuliert sind, und andere Auszubildende, die Ausbildungsf\u00f6rderung wie Studierende an Hochschulen erhalten. Ist das Amt f\u00fcr Ausbildungsf\u00f6rderung bei einem Studentenwerk errichtet, so wird dessen \u00f6rtliche Zust\u00e4ndigkeit durch das Land bestimmt.</P><P>(4) F\u00fcr die Entscheidung \u00fcber Ausbildungsf\u00f6rderung f\u00fcr eine Ausbildung im Ausland nach \u00a7 5 Absatz 2 und 5 sowie \u00a7 6 ist ausschlie\u00dflich das durch das zust\u00e4ndige Land bestimmte Amt f\u00fcr Ausbildungsf\u00f6rderung \u00f6rtlich zust\u00e4ndig. Das Bundesministerium f\u00fcr Bildung und Forschung bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates, welches Land das f\u00fcr alle Auszubildenden, die die in einem anderen Staat gelegenen Ausbildungsst\u00e4tten besuchen, \u00f6rtlich zust\u00e4ndige Amt bestimmt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006302310",
+        "type": "article",
+        "name": "\u00a7 45a",
+        "title": "Wechsel in der Zust\u00e4ndigkeit",
+        "body": {
+          "content": "<P>(1) Wird ein anderes Amt f\u00fcr Ausbildungsf\u00f6rderung zust\u00e4ndig, so tritt dieses Amt f\u00fcr s\u00e4mtliche Verwaltungshandlungen einschlie\u00dflich des Vorverfahrens an die Stelle des bisher zust\u00e4ndigen Amtes. \u00a7 2 Absatz 2 des Zehnten Buches Sozialgesetzbuch bleibt unber\u00fchrt.</P><P>(2) Hat die \u00f6rtliche Zust\u00e4ndigkeit gewechselt, muss das bisher zust\u00e4ndige Amt die Leistungen noch solange erbringen, bis sie von dem nunmehr zust\u00e4ndigen Amt fortgesetzt werden.</P><P>(3) Sobald ein Amt zust\u00e4ndig ist, das in einem anderen Land liegt, gehen die Anspr\u00fcche nach \u00a7 50 Absatz 1 des Zehnten Buches Sozialgesetzbuch und \u00a7 20 auf dieses Land \u00fcber.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006411116",
+        "type": "article",
+        "name": "\u00a7 46",
+        "title": "Antrag",
+        "body": {
+          "content": "<P>(1) \u00dcber die Leistung von Ausbildungsf\u00f6rderung sowie \u00fcber die H\u00f6he der Darlehenssumme nach \u00a7 18c wird auf schriftlichen Antrag entschieden. Die L\u00e4nder sind verpflichtet, bis zum 1. August 2016 eine elektronische Antragstellung zu erm\u00f6glichen, die den Vorgaben des \u00a7 36a Absatz 2 Satz 4 Nummer 1 oder 2 des Ersten Buches Sozialgesetzbuch entspricht. Der Auszubildende kann die H\u00f6he des Darlehens nach \u00a7 18c begrenzen; die Erkl\u00e4rung ist f\u00fcr den Bewilligungszeitraum unwiderruflich.</P><P>(2) Der Antrag ist an das \u00f6rtlich zust\u00e4ndige Amt f\u00fcr Ausbildungsf\u00f6rderung zu richten.</P><P>(3) Die zur Feststellung des Anspruchs erforderlichen Tatsachen sind auf den Formbl\u00e4ttern anzugeben, die die Bundesregierung durch Allgemeine Verwaltungsvorschrift mit Zustimmung des Bundesrates bestimmt hat.</P><P>(4) (weggefallen)</P><P>(5) Auf Antrag hat das Amt f\u00fcr Ausbildungsf\u00f6rderung dem Grunde nach vorab zu entscheiden, ob die F\u00f6rderungsvoraussetzungen f\u00fcr eine nach Fachrichtung und Ausbildungsst\u00e4tte bestimmt bezeichnete <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildung im Ausland nach \u00a7 5 Absatz 2 und 5,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildung nach \u00a7 7 Absatz 1a,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">weitere Ausbildung nach \u00a7 7 Absatz 2,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">andere Ausbildung nach \u00a7 7 Absatz 3,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildung nach \u00dcberschreiten der Altersgrenze nach \u00a7 10 Absatz 3</LA></DD></DL>vorliegen. Die Entscheidung nach den Nummern 2 bis 5 ist f\u00fcr den ganzen Ausbildungsabschnitt zu treffen. Das Amt ist an die Entscheidung nicht mehr gebunden, wenn der Auszubildende die Ausbildung nicht binnen eines Jahres nach Antragstellung beginnt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006506310",
+        "type": "article",
+        "name": "\u00a7 47",
+        "title": "Auskunftspflichten",
+        "body": {
+          "content": "<P>(1) Ausbildungsst\u00e4tten, Fernlehrinstitute und Pr\u00fcfungsstellen sind verpflichtet, die nach \u00a7 3 Absatz 3, \u00a7 15 Absatz 3a sowie den \u00a7\u00a7 48 und 49 erforderlichen Bescheinigungen, Best\u00e4tigungen und gutachterlichen Stellungnahmen abzugeben. Das jeweils nach Landesrecht zust\u00e4ndige hauptamtliche Mitglied des Lehrk\u00f6rpers der Ausbildungsst\u00e4tte stellt die Eignungsbescheinigung nach \u00a7 48 Absatz 1 Nummer 2 aus und legt f\u00fcr den Nachweis nach \u00a7 48 Absatz 1 Nummer 3 die zum jeweils ma\u00dfgeblichen Zeitpunkt \u00fcbliche Zahl an ECTS-Leistungspunkten fest.</P><P>(2) Ausbildungsst\u00e4tten und Fernlehrinstitute sowie deren Tr\u00e4ger sind verpflichtet, den zust\u00e4ndigen Beh\u00f6rden auf Verlangen alle Ausk\u00fcnfte zu erteilen und Urkunden vorzulegen sowie die Besichtigung der Ausbildungsst\u00e4tte zu gestatten, soweit die Durchf\u00fchrung dieses Gesetzes, insbesondere des \u00a7 2 Absatz 2 und des \u00a7 3 Absatz 2 es erfordert.</P><P>(3) Ist dem Auszubildenden von einer der in \u00a7 2 Absatz 1 Nummer 1 bis 4 bezeichneten oder diesen nach \u00a7 2 Absatz 3 als gleichwertig bestimmten Ausbildungsst\u00e4tten f\u00fcr Zwecke dieses Gesetzes bescheinigt worden, dass er sie besucht, so unterrichtet die Ausbildungsst\u00e4tte das Amt f\u00fcr Ausbildungsf\u00f6rderung unverz\u00fcglich, wenn der Auszubildende die Ausbildung abbricht.</P><P>(4) \u00a7 60 des Ersten Buches Sozialgesetzbuch gilt auch f\u00fcr die Eltern und den Ehegatten oder Lebenspartner, auch den dauernd getrennt lebenden, des Auszubildenden.</P><P>(5) Soweit dies zur Durchf\u00fchrung des Gesetzes erforderlich ist, hat <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der jeweilige Arbeitgeber auf Verlangen dem Auszubildenden, seinen Eltern und seinem Ehegatten oder Lebenspartner sowie dem Amt f\u00fcr Ausbildungsf\u00f6rderung eine Bescheinigung \u00fcber den Arbeitslohn und den als Lohnsteuerabzugsmerkmal mitgeteilten Freibetrag auszustellen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die jeweilige Zusatzversorgungseinrichtung des \u00f6ffentlichen Dienstes oder \u00f6ffentlich-rechtliche Zusatzversorgungseinrichtung dem Amt f\u00fcr Ausbildungsf\u00f6rderung Ausk\u00fcnfte \u00fcber die von ihr geleistete Alters- und Hinterbliebenenversorgung des Auszubildenden, seiner Eltern und seines Ehegatten oder Lebenspartners zu erteilen.</LA></DD></DL></P><P>(6) Das Amt f\u00fcr Ausbildungsf\u00f6rderung kann den in den Abs\u00e4tzen 2, 4 und 5 bezeichneten Institutionen und Personen eine angemessene Frist zur Erteilung von Ausk\u00fcnften und Vorlage von Urkunden setzen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006605116",
+        "type": "article",
+        "name": "\u00a7 47a",
+        "title": "Ersatzpflicht des Ehegatten oder Lebenspartners und der Eltern",
+        "body": {
+          "content": "<P>Haben der Ehegatte oder Lebenspartner oder die Eltern des Auszubildenden die Leistung von Ausbildungsf\u00f6rderung an den Auszubildenden dadurch herbeigef\u00fchrt, dass sie vors\u00e4tzlich oder fahrl\u00e4ssig falsche oder unvollst\u00e4ndige Angaben gemacht oder eine Anzeige nach \u00a7 60 Absatz 1 Nummer 2 des Ersten Buches Sozialgesetzbuch unterlassen haben, so haben sie den Betrag, der nach \u00a7 17 f\u00fcr den Auszubildenden als F\u00f6rderungsbetrag zu Unrecht geleistet worden ist, dem Land zu ersetzen. Der Betrag ist vom Zeitpunkt der zu Unrecht erfolgten Leistung an mit 6 vom Hundert f\u00fcr das Jahr zu verzinsen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006711116",
+        "type": "article",
+        "name": "\u00a7 48",
+        "title": "Mitwirkung von Ausbildungsst\u00e4tten",
+        "body": {
+          "content": "<P>(1) Vom f\u00fcnften Fachsemester an wird Ausbildungsf\u00f6rderung f\u00fcr den Besuch einer H\u00f6heren Fachschule, Akademie oder einer Hochschule nur von dem Zeitpunkt an geleistet, in dem der Auszubildende vorgelegt hat <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Zeugnis \u00fcber eine bestandene Zwischenpr\u00fcfung, die nach den Ausbildungsbestimmungen erst vom Ende des dritten Fachsemesters an abgeschlossen werden kann und vor dem Ende des vierten Fachsemesters abgeschlossen worden ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach Beginn des vierten Fachsemesters ausgestellte Bescheinigung der Ausbildungsst\u00e4tte dar\u00fcber, dass er die bei geordnetem Verlauf seiner Ausbildung bis zum Ende des jeweils erreichten Fachsemesters \u00fcblichen Leistungen erbracht hat, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen nach Beginn des vierten Fachsemesters ausgestellten Nachweis \u00fcber die bis dahin erworbene Anzahl von Leistungspunkten nach dem Europ\u00e4ischen System zur Anrechnung von Studienleistungen (ECTS), wenn die bei geordnetem Verlauf der Ausbildung bis zum Ende des jeweils erreichten Fachsemesters \u00fcbliche Zahl an ECTS-Leistungspunkten nicht unterschritten wird.</LA></DD></DL>Die Nachweise gelten als zum Ende des vorhergehenden Semesters vorgelegt, wenn sie innerhalb der ersten vier Monate des folgenden Semesters vorgelegt werden und sich aus ihnen ergibt, dass die darin ausgewiesenen Leistungen bereits in dem vorhergehenden Semester erbracht worden sind.</P><P>(2) Liegen Tatsachen vor, die voraussichtlich eine sp\u00e4tere \u00dcberschreitung der F\u00f6rderungsh\u00f6chstdauer nach \u00a7 15 Absatz 3 oder eine Verl\u00e4ngerung der F\u00f6rderungsh\u00f6chstdauer nach \u00a7 15a Absatz 3 rechtfertigen, kann das Amt f\u00fcr Ausbildungsf\u00f6rderung die Vorlage der Bescheinigung zu einem entsprechend sp\u00e4teren Zeitpunkt zulassen.</P><P>(3) W\u00e4hrend des Besuchs einer H\u00f6heren Fachschule, Akademie und Hochschule kann das Amt f\u00fcr Ausbildungsf\u00f6rderung bei begr\u00fcndeten Zweifeln an der Eignung (\u00a7 9) des Auszubildenden f\u00fcr die gew\u00e4hlte Ausbildung eine gutachtliche Stellungnahme der Ausbildungsst\u00e4tte einholen, die der Auszubildende besucht.</P><P>(4) In den F\u00e4llen des \u00a7 5 Absatz 2 Nummer 2 und 3 sind die Abs\u00e4tze 1 und 2 entsprechend anzuwenden.</P><P>(5) In den F\u00e4llen des \u00a7 7 Absatz 2 Satz 2 und Absatz 3 kann das Amt f\u00fcr Ausbildungsf\u00f6rderung eine gutachtliche Stellungnahme der Ausbildungsst\u00e4tte einholen.</P><P>(6) Das Amt f\u00fcr Ausbildungsf\u00f6rderung kann von der gutachtlichen Stellungnahme nur aus wichtigem Grund abweichen, der dem Auszubildenden schriftlich oder elektronisch mitzuteilen ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006806310",
+        "type": "article",
+        "name": "\u00a7 49",
+        "title": "Feststellung der Voraussetzungen der F\u00f6rderung im Ausland",
+        "body": {
+          "content": "<P>(1) Der Auszubildende hat auf Verlangen des Amtes f\u00fcr Ausbildungsf\u00f6rderung eine gutachtliche Stellungnahme der Ausbildungsst\u00e4tte, die er bisher besucht hat, dar\u00fcber beizubringen, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die fachlichen Voraussetzungen f\u00fcr eine Ausbildung im Ausland vorliegen (\u00a7 5 Absatz 2 Nummer 1),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Besuch einer im Ausland gelegenen Hochschule w\u00e4hrend drei weiterer Semester f\u00fcr die Ausbildung von besonderer Bedeutung ist (\u00a7 16 Absatz 2).</LA></DD></DL></P><P>(1a) Der Auszubildende hat eine Bescheinigung der Ausbildungsst\u00e4tte, die er besuchen will oder besucht hat, oder der zust\u00e4ndigen Pr\u00fcfungsstelle dar\u00fcber beizubringen, dass das von ihm beabsichtigte Auslandspraktikum den Erfordernissen des \u00a7 5 Absatz 5 entspricht.</P><P>(2) \u00a7 48 Absatz 6 ist anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE006909116",
+        "type": "article",
+        "name": "\u00a7 50",
+        "title": "Bescheid",
+        "body": {
+          "content": "<P>(1) Die Entscheidung ist dem Antragsteller schriftlich oder elektronisch mitzuteilen (Bescheid). Unter dem Vorbehalt der R\u00fcckforderung kann ein Bescheid nur ergehen, soweit dies in diesem Gesetz vorgesehen ist. Ist in einem Bescheid dem Grunde nach \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ausbildung nach \u00a7 7 Absatz 1a,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine weitere Ausbildung nach \u00a7 7 Absatz 2,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine andere Ausbildung nach \u00a7 7 Absatz 3 oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ausbildung nach \u00dcberschreiten der Altersgrenze nach \u00a7 10 Absatz 3</LA></DD></DL>entschieden worden, so gilt diese Entscheidung f\u00fcr den ganzen Ausbildungsabschnitt.</P><P>(2) In dem Bescheid sind anzugeben <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he und Zusammensetzung des Bedarfs,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he des Einkommens des Auszubildenden, seines Ehegatten oder Lebenspartners und seiner Eltern sowie des Verm\u00f6gens des Auszubildenden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he der bei der Ermittlung des Einkommens ber\u00fccksichtigten Steuern und Abz\u00fcge zur Abgeltung der Aufwendungen f\u00fcr die soziale Sicherung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he der gew\u00e4hrten Freibetr\u00e4ge und des nach \u00a7 11 Absatz 4 auf den Bedarf anderer Auszubildender angerechneten Einkommens des Ehegatten oder Lebenspartners und der Eltern,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he der auf den Bedarf angerechneten Betr\u00e4ge von Einkommen und Verm\u00f6gen des Auszubildenden sowie vom Einkommen seines Ehegatten oder Lebenspartners und seiner Eltern.</LA></DD></DL>Satz 1 gilt nicht, wenn der Antrag auf Ausbildungsf\u00f6rderung dem Grunde nach abgelehnt wird. Auf Verlangen eines Elternteils oder des Ehegatten oder Lebenspartners, f\u00fcr das Gr\u00fcnde anzugeben sind, entfallen die Angaben \u00fcber das Einkommen dieser Personen mit Ausnahme des Betrages des angerechneten Einkommens; dies gilt nicht, soweit der Auszubildende im Zusammenhang mit der Geltendmachung seines Anspruchs auf Leistungen nach diesem Gesetz ein besonderes berechtigtes Interesse an der Kenntnis hat. Besucht der Auszubildende eine Hochschule oder eine Akademie im Sinne des \u00a7 2 Absatz 1 Satz 1 Nummer 6, so ist in jedem Bescheid das Ende der F\u00f6rderungsh\u00f6chstdauer anzugeben.</P><P>(3) \u00dcber die Ausbildungsf\u00f6rderung wird in der Regel f\u00fcr ein Jahr (Bewilligungszeitraum) entschieden.</P><P>(4) Endet ein Bewilligungszeitraum und ist ein neuer Bescheid nicht ergangen, so wird innerhalb desselben Ausbildungsabschnitts Ausbildungsf\u00f6rderung nach Ma\u00dfgabe des fr\u00fcheren Bewilligungsbescheids unter dem Vorbehalt der R\u00fcckforderung geleistet. Dies gilt nur, wenn der neue Antrag im Wesentlichen vollst\u00e4ndig zwei Kalendermonate vor Ablauf des Bewilligungszeitraums gestellt war und ihm die erforderlichen Nachweise beigef\u00fcgt wurden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE007011116",
+        "type": "article",
+        "name": "\u00a7 51",
+        "title": "Zahlweise",
+        "body": {
+          "content": "<P>(1) Der F\u00f6rderungsbetrag ist unbar monatlich im Voraus zu zahlen. Die Auszahlung der Bankdarlehen nach \u00a7 18c erfolgt durch die Kreditanstalt f\u00fcr Wiederaufbau.</P><P>(2) K\u00f6nnen bei der erstmaligen Antragstellung in einem Ausbildungsabschnitt oder nach einer Unterbrechung der Ausbildung die zur Entscheidung \u00fcber den Antrag erforderlichen Feststellungen nicht binnen sechs Kalenderwochen getroffen oder Zahlungen nicht binnen zehn Kalenderwochen geleistet werden, so wird f\u00fcr vier Monate Ausbildungsf\u00f6rderung bis zur H\u00f6he von monatlich vier F\u00fcnfteln des f\u00fcr die zu f\u00f6rdernde Ausbildung nach \u00a7 12 Absatz 1 und 2, \u00a7 13 Absatz 1 und 2 sowie nach den \u00a7\u00a7 13a und 14b voraussichtlich zustehenden Bedarfs unter dem Vorbehalt der R\u00fcckforderung geleistet.</P><P>(3) Monatliche F\u00f6rderungsbetr\u00e4ge, die nicht volle Euro ergeben, sind bei Restbetr\u00e4gen bis zu 0,49 Euro abzurunden und von 0,50 Euro an aufzurunden.</P><P>(4) Nicht geleistet werden monatliche F\u00f6rderungsbetr\u00e4ge unter 10 Euro.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE007101310",
+        "type": "article",
+        "name": "\u00a7 52",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE007207116",
+        "type": "article",
+        "name": "\u00a7 53",
+        "title": "\u00c4nderung des Bescheides",
+        "body": {
+          "content": "<P>\u00c4ndert sich ein f\u00fcr die Leistung der Ausbildungsf\u00f6rderung ma\u00dfgeblicher Umstand, so wird der Bescheid ge\u00e4ndert <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zugunsten des Auszubildenden vom Beginn des Monats an, in dem die \u00c4nderung eingetreten ist, r\u00fcckwirkend jedoch h\u00f6chstens f\u00fcr die drei Monate vor dem Monat, in dem sie dem Amt mitgeteilt wurde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zuungunsten des Auszubildenden vom Beginn des Monats an, der auf den Eintritt der \u00c4nderung folgt.</LA></DD></DL>Nicht als \u00c4nderung im Sinne des Satzes 1 gelten Regelanpassungen gesetzlicher Renten und Versorgungsbez\u00fcge. \u00a7 48 des Zehnten Buches Sozialgesetzbuch findet keine Anwendung; Erstattungen richten sich nach \u00a7 50 des Zehnten Buches Sozialgesetzbuch. Abweichend von Satz 1 wird der Bescheid vom Beginn des Bewilligungszeitraums an ge\u00e4ndert, wenn in den F\u00e4llen des \u00a7 22 Absatz 1 und des \u00a7 24 Absatz 3 eine \u00c4nderung des Einkommens oder in den F\u00e4llen des \u00a7 25 Absatz 6 eine \u00c4nderung des Freibetrages eingetreten ist. In den F\u00e4llen des \u00a7 22 Absatz 3 gilt Satz 1 mit der Ma\u00dfgabe, dass das Einkommen ab dem Zeitpunkt, ab dem der Bescheid zu \u00e4ndern ist, durch die Zahl der verbleibenden Kalendermonate des Bewilligungszeitraums geteilt und auf diese angerechnet wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE007301310",
+        "type": "article",
+        "name": "\u00a7 54",
+        "title": "Rechtsweg",
+        "body": {
+          "content": "<P>F\u00fcr \u00f6ffentlich-rechtliche Streitigkeiten aus diesem Gesetz ist der Verwaltungsrechtsweg gegeben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE007404116",
+        "type": "article",
+        "name": "\u00a7 55",
+        "title": "Statistik",
+        "body": {
+          "content": "<P>(1) \u00dcber die Ausbildungsf\u00f6rderung nach diesem Gesetz wird eine Bundesstatistik durchgef\u00fchrt.</P><P>(2) Die Statistik erfasst j\u00e4hrlich f\u00fcr das vorausgegangene Kalenderjahr f\u00fcr jeden gef\u00f6rderten Auszubildenden folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">von dem Auszubildenden: Geschlecht, Geburtsjahr, Staatsangeh\u00f6rigkeit, Familienstand, Unterhaltsberechtigtenverh\u00e4ltnis der Kinder, Wohnung w\u00e4hrend der Ausbildung, Art eines berufsqualifizierenden Ausbildungsabschlusses, Ausbildungsst\u00e4tte nach Art und rechtlicher Stellung, Klasse bzw. (Fach-)Semester, Monat und Jahr des Endes der F\u00f6rderungsh\u00f6chstdauer, H\u00f6he und Zusammensetzung des Einkommens nach \u00a7 21 und den Freibetrag nach \u00a7 23 Absatz 1 Satz 2 sowie, wenn eine Verm\u00f6gensanrechnung erfolgt, die H\u00f6he des Verm\u00f6gens nach \u00a7 27 und des H\u00e4rtefreibetrags nach \u00a7 29 Absatz 3,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">von dem Ehegatten oder Lebenspartner des Auszubildenden: Berufst\u00e4tigkeit oder Art der Ausbildung, H\u00f6he und Zusammensetzung des Einkommens nach \u00a7 21 und des H\u00e4rtefreibetrags nach \u00a7 25 Absatz 6, Unterhaltsberechtigtenverh\u00e4ltnis der Kinder und der weiteren nach dem b\u00fcrgerlichen Recht Unterhaltsberechtigten, f\u00fcr die ein Freibetrag nach diesem Gesetz gew\u00e4hrt wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">von den Eltern des Auszubildenden: Familienstand, Bestehen einer Ehe oder Lebenspartnerschaft zwischen den Eltern, Berufst\u00e4tigkeit, H\u00f6he und Zusammensetzung des Einkommens nach \u00a7 21 und des H\u00e4rtefreibetrags nach \u00a7 25 Absatz 6, Unterhaltsberechtigtenverh\u00e4ltnis und Art der Ausbildung der weiteren unterhaltsberechtigten Kinder sowie der nach dem b\u00fcrgerlichen Recht Unterhaltsberechtigten, f\u00fcr die ein Freibetrag nach diesem Gesetz gew\u00e4hrt wird,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6he und Zusammensetzung des monatlichen Gesamtbedarfs des Auszubildenden, Kennzeichnung, ob das Einkommen der Eltern bei der Berechnung des Bedarfs au\u00dfer Betracht zu bleiben hatte, auf den Bedarf anzurechnende Betr\u00e4ge vom Einkommen und Verm\u00f6gen des Auszubildenden sowie vom Einkommen seines Ehegatten oder Lebenspartners und seiner Eltern, von den Eltern tats\u00e4chlich geleistete Unterhaltsbetr\u00e4ge, Monat und Jahr des Beginns und Endes des Bewilligungszeitraums, Monat des Zust\u00e4ndigkeitswechsels im Berichtszeitraum sowie Art und H\u00f6he des F\u00f6rderungsbetrags, gegliedert nach Monaten.</LA></DD></DL></P><P>(3) Hilfsmerkmale sind Name und Anschrift der \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung.</P><P>(4) F\u00fcr die Durchf\u00fchrung der Statistik besteht Auskunftspflicht. Auskunftspflichtig sind die \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG000901310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG001001310",
+        "type": "heading",
+        "name": "Abschnitt X",
+        "title": "",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE007508116",
+        "type": "article",
+        "name": "\u00a7 56",
+        "title": "Aufbringung der Mittel",
+        "body": {
+          "content": "<P>(1) Die f\u00fcr die Ausf\u00fchrung dieses Gesetzes erforderlichen Mittel, einschlie\u00dflich der Erstattungsbetr\u00e4ge an die Kreditanstalt f\u00fcr Wiederaufbau nach \u00a7 18d Absatz 2, tr\u00e4gt der Bund. Die Mittel f\u00fcr die Darlehen nach \u00a7 17 Absatz 2 und 3 Satz 1 k\u00f6nnen von der Kreditanstalt f\u00fcr Wiederaufbau bereitgestellt werden. In diesen F\u00e4llen tr\u00e4gt der Bund die der Kreditanstalt f\u00fcr Wiederaufbau entstehenden Aufwendungen f\u00fcr die Bereitstellung der Mittel und das Ausfallrisiko.</P><P>(2) Das Bundesverwaltungsamt hat von den ab dem Jahr 2015 eingezogenen Betr\u00e4gen und Zinsen aus Darlehen nach \u00a7 17 Absatz 2 Satz 1 insgesamt 2,058 Milliarden Euro an die L\u00e4nder abzuf\u00fchren. Dies hat in j\u00e4hrlichen Raten in H\u00f6he des Betrages zu erfolgen, der f\u00fcr die Kalenderjahre 2012 bis 2014 nach der vor dem 1. Januar 2015 g\u00fcltigen Fassung dieses Absatzes im Jahresdurchschnitt an die L\u00e4nder weitergeleitet worden ist, h\u00f6chstens jedoch in H\u00f6he von jeweils 35 vom Hundert der in einem Kalenderjahr vom Bundesverwaltungsamt insgesamt eingezogenen Betr\u00e4ge und Zinsen. Bleibt in einem Kalenderjahr wegen der vorgesehenen Begrenzung nach Satz 2 ein Differenzbetrag bis zum ma\u00dfgeblichen Durchschnittsbetrag der Kalenderjahre 2012 bis 2014 offen, ist die Differenz im jeweils n\u00e4chsten Kalenderjahr zus\u00e4tzlich an die L\u00e4nder abzuf\u00fchren; f\u00fcr den Betrag, der daneben f\u00fcr dieses jeweils n\u00e4chste Kalenderjahr abzuf\u00fchren ist, bleibt Satz 2 unber\u00fchrt. Das Bundesverwaltungsamt hat den so ermittelten j\u00e4hrlich abzuf\u00fchrenden Gesamtbetrag jeweils in dem Verh\u00e4ltnis an die L\u00e4nder abzuf\u00fchren, in dem die in den Jahren 2012 bis 2014 an das Bundesverwaltungsamt gemeldeten Darlehensleistungen der einzelnen L\u00e4nder zueinander stehen.</P><P>(2a) Die Kreditanstalt f\u00fcr Wiederaufbau hat 35 vom Hundert der von ihr nach \u00a7 18d Absatz 1 f\u00fcr den Bund eingezogenen Betr\u00e4ge und Zinsen aus Darlehen, die ihr bis zum 31. Dezember 2014 erstattet wurden, in dem Verh\u00e4ltnis an die L\u00e4nder abzuf\u00fchren, in dem die auf Bewilligungsbescheide der \u00c4mter aus den Jahren 2012 bis 2014 gezahlten Darlehensbetr\u00e4ge zueinander stehen.</P><P>(3) Das Land f\u00fchrt die auf Grund des \u00a7 50 des Zehnten Buches Sozialgesetzbuch sowie der \u00a7\u00a7 20, 37, 38 und 47a eingezogenen Betr\u00e4ge an den Bund ab.</P><P>(4) Im Falle einer vor dem Jahr 2015 geleisteten F\u00f6rderung nach \u00a7 5 Absatz 2 bis 5 erstattet das Land, in dem der Auszubildende seinen st\u00e4ndigen Wohnsitz hat, dem nach der Rechtsverordnung auf Grund des \u00a7 45 Absatz 4 Satz 2 zust\u00e4ndigen Land 35 vom Hundert der Ausgaben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001001310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNG001101310",
+        "type": "heading",
+        "name": "Abschnitt XI",
+        "title": "Bu\u00dfgeldvorschriften, \u00dcbergangs- und Schlussvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR014090971BJNE007601310",
+        "type": "article",
+        "name": "\u00a7 57",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE007705116",
+        "type": "article",
+        "name": "\u00a7 58",
+        "title": "Ordnungswidrigkeiten",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 60 Absatz 1 des Ersten Buches Sozialgesetzbuch, jeweils auch in Verbindung mit \u00a7 47 Absatz 4, eine Angabe oder eine \u00c4nderungsmitteilung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht oder eine Beweisurkunde nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig vorlegt;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 47 Absatz 2 oder 5 Nummer 1 eine Auskunft nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig erteilt oder eine Urkunde nicht oder nicht rechtzeitig vorlegt oder nicht oder nicht rechtzeitig ausstellt;</LA></DD><DT>2a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 47 Absatz 3 das Amt f\u00fcr Ausbildungsf\u00f6rderung nicht oder nicht rechtzeitig unterrichtet oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Rechtsverordnung nach \u00a7 18 Absatz 14 Nummer 2 zuwiderhandelt, soweit sie f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist.</LA></DD></DL></P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu 2\u00a0500 Euro geahndet werden.</P><P>(3) Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Absatz 1 Nummer 1 des Gesetzes \u00fcber Ordnungswidrigkeiten ist in den F\u00e4llen des Absatzes 1 Nummer 1, 2 und 2a das Amt f\u00fcr Ausbildungsf\u00f6rderung, in den F\u00e4llen des Absatzes 1 Nummer 3 das Bundesverwaltungsamt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE008702310",
+        "type": "article",
+        "name": "\u00a7 59",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE008906116",
+        "type": "article",
+        "name": "\u00a7 60",
+        "title": "Opfer politischer Verfolgung durch SED-Unrecht",
+        "body": {
+          "content": "<P>Verfolgten nach \u00a7 1 des Beruflichen Rehabilitierungsgesetzes oder verfolgten Sch\u00fclern nach \u00a7 3 des Beruflichen Rehabilitierungsgesetzes wird f\u00fcr Ausbildungsabschnitte, die vor dem 1. Januar 2003 beginnen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausbildungsf\u00f6rderung ohne Anwendung der Altersgrenze des \u00a7 10 Absatz 3 Satz 1 geleistet, sofern sie eine Bescheinigung nach \u00a7 17 oder \u00a7 18 des Beruflichen Rehabilitierungsgesetzes erhalten haben; \u00a7 10 Absatz 3 Satz 2 Nummer 3 bleibt unber\u00fchrt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Antrag der nach dem 31. Dezember 1990 nach \u00a7 17 Absatz 2 geleistete Darlehensbetrag erlassen, sofern in der Bescheinigung nach \u00a7 17 des Beruflichen Rehabilitierungsgesetzes eine Verfolgungszeit oder verfolgungsbedingte Unterbrechung der Ausbildung vor dem 3. Oktober 1990 von insgesamt mehr als drei Jahren festgestellt wird; der Antrag ist innerhalb eines Monats nach Bekanntgabe des Bescheides nach \u00a7 18 Absatz 9 zu stellen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Antrag der nach dem 31. Juli 1996 nach \u00a7 17 Absatz 3 in der am 31. Juli 2019 geltenden Fassung geleistete Darlehensbetrag unter den Voraussetzungen der Nummer 2 erlassen; der Antrag ist innerhalb eines Monats nach Erhalt der Mitteilung nach \u00a7 18c Absatz 8 an die Kreditanstalt f\u00fcr Wiederaufbau zu richten.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE007803310",
+        "type": "article",
+        "name": "(XXXX) \u00a7\u00a7 61 und 62",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE007904310",
+        "type": "article",
+        "name": "\u00a7 63",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE008002310",
+        "type": "article",
+        "name": "\u00a7 64",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE008107310",
+        "type": "article",
+        "name": "\u00a7 65",
+        "title": "Weitergeltende Vorschriften",
+        "body": {
+          "content": "<P>(1) Die Vorschriften \u00fcber die Leistung individueller F\u00f6rderung der Ausbildung nach <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Bundesversorgungsgesetz,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Gesetzen, die das Bundesversorgungsgesetz f\u00fcr anwendbar erkl\u00e4ren,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Bundesentsch\u00e4digungsgesetz sowie</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem H\u00e4ftlingshilfegesetz in der Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 838), zuletzt ge\u00e4ndert durch Artikel 4 des Gesetzes vom 17. Dezember 1999 (BGBl. I S. 2662)</LA></DD></DL>werden durch dieses Gesetz nicht ber\u00fchrt.</P><P>(2) Die in Absatz 1 bezeichneten Vorschriften haben Vorrang vor diesem Gesetz.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE008202310",
+        "type": "article",
+        "name": "\u00a7 66",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE008316116",
+        "type": "article",
+        "name": "\u00a7 66a",
+        "title": "\u00dcbergangs- und Anwendungsvorschrift",
+        "body": {
+          "content": "<P>(1) F\u00fcr Auszubildende, denen bis zum 31. Juli 2016 nach zuvor bereits erworbenem Hochschulabschluss die Leistung von Ausbildungsf\u00f6rderung nach \u00a7 7 Absatz 1 bewilligt wurde, ist diese Vorschrift bis zum Ende des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden. F\u00fcr Auszubildende, deren Bewilligungszeitraum vor dem 1. August 2016 begonnen hat, ist \u00a7 45 Absatz 1 Satz 2 Nummer 6 bis zum Ende des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden.</P><P>(2) Die \u00a7\u00a7 2, 7, 10, 11, 12, 13, 13a, 14b, 15, 17 Absatz 3, die \u00a7\u00a7 18c, 21, 23, 25, 41, 47a, 50, 56 und 60 Nummer 3 in der durch Artikel 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1048) ge\u00e4nderten Fassung sind erst ab dem 1. August 2019 anzuwenden, soweit nachstehend nichts anderes bestimmt ist.</P><P>(3) \u00a7 17 Absatz 2, die \u00a7\u00a7 18, 18a, 18b, 18d, 58 und 60 Nummer 2 in der durch Artikel 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1048) ge\u00e4nderten Fassung sind erst ab dem 1. September 2019 anzuwenden, soweit nachstehend nichts anderes bestimmt ist.</P><P>(4) F\u00fcr Bewilligungszeitr\u00e4ume, die vor dem 1. August 2019 begonnen haben, sind die \u00a7\u00a7 11, 12, 13, 13a, 14b, 17 Absatz 3, die \u00a7\u00a7 18c, 21, 23, 25, 41, 47a, 50, 56 und 60 Nummer 3 in der bis zum 31. Juli 2019 anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2019 sind die \u00a7\u00a7 12, 13, 13a, 14b, 21, 23 und 25 in der ab dem 1. August 2019 anzuwendenden Fassung auch f\u00fcr Bewilligungszeitr\u00e4ume anzuwenden, die vor dem 1. August 2019 begonnen haben. Bei der R\u00fcckzahlung der Darlehen ist f\u00fcr die Einkommensfreistellung nach \u00a7 18a die Regelung des \u00a7 21 in der ab dem 1. August 2019 geltenden Fassung abweichend von Satz 1 bereits ab dem 1. September 2019 anzuwenden.</P><P>(5) F\u00fcr Auszubildende, denen f\u00fcr einen vor dem 1. August 2019 begonnenen Ausbildungsabschnitt F\u00f6rderung geleistet wurde f\u00fcr den Besuch einer staatlichen Akademie, welche Abschl\u00fcsse verleiht, die nach Landesrecht Hochschulabschl\u00fcssen gleichgestellt sind, sind bis zum Ende dieses Ausbildungsabschnitts \u00a7 15 Absatz 2 Satz 1 und \u00a7 50 Absatz 2 Satz 4 in der am 31. Juli 2019 geltenden Fassung weiter anzuwenden. \u00a7 18 Absatz 4 Satz 1 in der ab dem 1. September 2019 geltenden Fassung gilt f\u00fcr sie mit der Ma\u00dfgabe, dass ausschlie\u00dflich die Nummer 2 anzuwenden ist.</P><P>(6) F\u00fcr Darlehensnehmende, denen vor dem 1. September 2019 F\u00f6rderung nach \u00a7 17 Absatz 2 Satz 1 in der am 31. August 2019 anzuwendenden Fassung geleistet wurde, sind diese Regelung, \u00a7 18 mit Ausnahme des Absatzes 3 Satz 1 und des Absatzes 5c sowie \u00a7 18a Absatz 5, die \u00a7\u00a7 18b, 58 Absatz 1 Nummer 3 und \u00a7 60 Nummer 2 in der am 31. August 2019 geltenden Fassung weiter anzuwenden; dies gilt auch, soweit die F\u00f6rderungsleistungen jeweils auch noch \u00fcber den 31. August 2019 hinaus erbracht werden.</P><P>(7) Darlehensnehmende, denen F\u00f6rderung mit Darlehen nach \u00a7 17 in einer vor dem 1. September 2019 geltenden Fassung geleistet wurde, mit Ausnahme von Bankdarlehen nach \u00a7 18c, k\u00f6nnen binnen einer Frist von sechs Monaten nach diesem Datum jeweils durch schriftliche oder elektronische Erkl\u00e4rung gegen\u00fcber dem Bundesverwaltungsamt verlangen, dass f\u00fcr die R\u00fcckzahlung des gesamten Darlehens \u00a7 18 Absatz 12 und \u00a7 18a in der am 1. September 2019 anzuwendenden Fassung anzuwenden sind. F\u00fcr Darlehensnehmende, die den dort genannten R\u00fcckzahlungszeitraum von 20 Jahren \u00fcberschritten haben, gilt Satz 1 mit der Ma\u00dfgabe, dass f\u00fcr den Erlass nach \u00a7 18 Absatz 12 Satz 1 in der ab dem 1. September 2019 anzuwendenden Fassung die Voraussetzungen f\u00fcr den gesamten Zeitraum vor \u00c4u\u00dferung des Verlangens vorgelegen haben m\u00fcssen.</P><P>(8) Abweichend von \u00a7 18 Absatz 3 Satz 1 und \u00a7 18c Absatz 6 und 7 betr\u00e4gt die Rate bis zum 31. M\u00e4rz 2020\u00a0105 Euro.</P><P>(8a) \u00a7 21 Absatz 4 Nummer 5 ist ab dem ersten Tag des Monats nicht mehr anzuwenden, der auf den Monat folgt, in dem die Aufhebung der vom Deutschen Bundestag festgestellten epidemischen Lage von nationaler Tragweite infolge der COVID-19-Pandemie nach \u00a7 5 Absatz 1 Satz 3 des Infektionsschutzgesetzes bekannt gemacht wird. Der nach Satz 1 ma\u00dfgebliche Tag ist vom Bundesministerium f\u00fcr Bildung und Forschung im Bundesgesetzblatt bekannt zu machen.</P><P>(9) F\u00fcr Bewilligungszeitr\u00e4ume, die vor dem 1. August 2020 begonnen haben, sind die \u00a7\u00a7 12, 13, 14b Absatz 1 Satz 1, die \u00a7\u00a7 23, 25 und 29 in der bis zum 31. Juli 2020 anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2020 sind die in Satz 1 genannten Regelungen in der ab dem 1. August 2020 anzuwendenden Fassung auch f\u00fcr Bewilligungszeitr\u00e4ume anzuwenden, die vor dem 1. August 2020 begonnen haben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE009402310",
+        "type": "article",
+        "name": "\u00a7 67",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      },
+      {
+        "id": "BJNR014090971BJNE008504310",
+        "type": "article",
+        "name": "\u00a7 68",
+        "title": "Inkrafttreten",
+        "body": {
+          "content": "<P>(Inkrafttreten)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014090971BJNG001101310"
+        }
+      }
+    ]
+  }
+}

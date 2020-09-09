@@ -1,0 +1,245 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR002610981",
+    "abbreviation": "HeizkostenV",
+    "extraAbbreviations": [],
+    "firstPublished": "1981-02-23",
+    "sourceTimestamp": "20130405124644",
+    "headingShort": "Verordnung \u00fcber Heizkostenabrechnung",
+    "headingLong": "Verordnung \u00fcber die verbrauchsabh\u00e4ngige Abrechnung der Heiz- und Warmwasserkosten",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1981, 261 (296)"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Neuf",
+        "comment": "Neugefasst durch Bek. v. 5.10.2009 I 3250"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.5.1984 +++)<BR/>(+++ Ma\u00dfgaben aufgrund des EinigVtr vgl. HeizkostenV Anhang EV +++)<BR/>(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR/>     Umsetzung der<BR/>       EGRL 32/2006 (CELEX Nr: 306L0032) vgl. V v. 2.12.2008 I 2375<BR/>                                           u. Bek. v. 5.10.2009 I 3250 +++)  <BR/><BR/></pre>Diese Verordnung wurde aufgrund des \u00a7 2 Abs. 2 u. 3 sowie der \u00a7\u00a7 3a u. 5 des Energieeinsparungsgesetzes vom 22.7.1976 I 1873 von den Bundesministern f\u00fcr Wirtschaft u. f\u00fcr Raumordnung, Bauwesen und St\u00e4dtebau erlassen.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR002610981BJNE000103308",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "body": {
+          "content": "<P>(1) Diese Verordnung gilt f\u00fcr die Verteilung der Kosten <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>des Betriebs zentraler Heizungsanlagen und zentraler Warmwasserversorgungsanlagen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der eigenst\u00e4ndig gewerblichen Lieferung von W\u00e4rme und Warmwasser, auch aus Anlagen nach Nummer 1, (W\u00e4rmelieferung, Warmwasserlieferung)</LA></DD></DL>durch den Geb\u00e4udeeigent\u00fcmer auf die Nutzer der mit W\u00e4rme oder Warmwasser versorgten R\u00e4ume.</P><P>(2) Dem Geb\u00e4udeeigent\u00fcmer stehen gleich <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der zur Nutzungs\u00fcberlassung in eigenem Namen und f\u00fcr eigene Rechnung Berechtigte,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>derjenige, dem der Betrieb von Anlagen im Sinne des \u00a7 1 Absatz 1 Nummer 1 in der Weise \u00fcbertragen worden ist, dass er daf\u00fcr ein Entgelt vom Nutzer zu fordern berechtigt ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>beim Wohnungseigentum die Gemeinschaft der Wohnungseigent\u00fcmer im Verh\u00e4ltnis zum Wohnungseigent\u00fcmer, bei Vermietung einer oder mehrerer Eigentumswohnungen der Wohnungseigent\u00fcmer im Verh\u00e4ltnis zum Mieter.</LA></DD></DL></P><P>(3) Diese Verordnung gilt auch f\u00fcr die Verteilung der Kosten der W\u00e4rmelieferung und Warmwasserlieferung auf die Nutzer der mit W\u00e4rme oder Warmwasser versorgten R\u00e4ume, soweit der Lieferer unmittelbar mit den Nutzern abrechnet und dabei nicht den f\u00fcr den einzelnen Nutzer gemessenen Verbrauch, sondern die Anteile der Nutzer am Gesamtverbrauch zu Grunde legt; in diesen F\u00e4llen gelten die Rechte und Pflichten des Geb\u00e4udeeigent\u00fcmers aus dieser Verordnung f\u00fcr den Lieferer.</P><P>(4) Diese Verordnung gilt auch f\u00fcr Mietverh\u00e4ltnisse \u00fcber preisgebundenen Wohnraum, soweit f\u00fcr diesen nichts anderes bestimmt ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE000202308",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Vorrang vor rechtsgesch\u00e4ftlichen Bestimmungen",
+        "body": {
+          "content": "<P>Au\u00dfer bei Geb\u00e4uden mit nicht mehr als zwei Wohnungen, von denen eine der Vermieter selbst bewohnt, gehen die Vorschriften dieser Verordnung rechtsgesch\u00e4ftlichen Bestimmungen vor.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE000303308",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Anwendung auf das Wohnungseigentum",
+        "body": {
+          "content": "<P>Die Vorschriften dieser Verordnung sind auf Wohnungseigentum anzuwenden unabh\u00e4ngig davon, ob durch Vereinbarung oder Beschluss der Wohnungseigent\u00fcmer abweichende Bestimmungen \u00fcber die Verteilung der Kosten der Versorgung mit W\u00e4rme und Warmwasser getroffen worden sind. Auf die Anbringung und Auswahl der Ausstattung nach den \u00a7\u00a7 4 und 5 sowie auf die Verteilung der Kosten und die sonstigen Entscheidungen des Geb\u00e4udeeigent\u00fcmers nach den \u00a7\u00a7 6 bis 9b und 11 sind die Regelungen entsprechend anzuwenden, die f\u00fcr die Verwaltung des gemeinschaftlichen Eigentums im Wohnungseigentumsgesetz enthalten oder durch Vereinbarung der Wohnungseigent\u00fcmer getroffen worden sind. Die Kosten f\u00fcr die Anbringung der Ausstattung sind entsprechend den dort vorgesehenen Regelungen \u00fcber die Tragung der Verwaltungskosten zu verteilen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE000403308",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Pflicht zur Verbrauchserfassung",
+        "body": {
+          "content": "<P>(1) Der Geb\u00e4udeeigent\u00fcmer hat den anteiligen Verbrauch der Nutzer an W\u00e4rme und Warmwasser zu erfassen.</P><P>(2) Er hat dazu die R\u00e4ume mit Ausstattungen zur Verbrauchserfassung zu versehen; die Nutzer haben dies zu dulden. Will der Geb\u00e4udeeigent\u00fcmer die Ausstattung zur Verbrauchserfassung mieten oder durch eine andere Art der Gebrauchs\u00fcberlassung beschaffen, so hat er dies den Nutzern vorher unter Angabe der dadurch entstehenden Kosten mitzuteilen; die Ma\u00dfnahme ist unzul\u00e4ssig, wenn die Mehrheit der Nutzer innerhalb eines Monats nach Zugang der Mitteilung widerspricht. Die Wahl der Ausstattung bleibt im Rahmen des \u00a7 5 dem Geb\u00e4udeeigent\u00fcmer \u00fcberlassen.</P><P>(3) Gemeinschaftlich genutzte R\u00e4ume sind von der Pflicht zur Verbrauchserfassung ausgenommen. Dies gilt nicht f\u00fcr Gemeinschaftsr\u00e4ume mit nutzungsbedingt hohem W\u00e4rme- oder Warmwasserverbrauch, wie Schwimmb\u00e4der oder Saunen.</P><P>(4) Der Nutzer ist berechtigt, vom Geb\u00e4udeeigent\u00fcmer die Erf\u00fcllung dieser Verpflichtungen zu verlangen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE000503308",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Ausstattung zur Verbrauchserfassung",
+        "body": {
+          "content": "<P>(1) Zur Erfassung des anteiligen W\u00e4rmeverbrauchs sind W\u00e4rmez\u00e4hler oder Heizkostenverteiler, zur Erfassung des anteiligen Warmwasserverbrauchs Warmwasserz\u00e4hler oder andere geeignete Ausstattungen zu verwenden. Soweit nicht eichrechtliche Bestimmungen zur Anwendung kommen, d\u00fcrfen nur solche Ausstattungen zur Verbrauchserfassung verwendet werden, hinsichtlich derer sachverst\u00e4ndige Stellen best\u00e4tigt haben, dass sie den anerkannten Regeln der Technik entsprechen oder dass ihre Eignung auf andere Weise nachgewiesen wurde. Als sachverst\u00e4ndige Stellen gelten nur solche Stellen, deren Eignung die nach Landesrecht zust\u00e4ndige Beh\u00f6rde im Benehmen mit der Physikalisch-Technischen Bundesanstalt best\u00e4tigt hat. Die Ausstattungen m\u00fcssen f\u00fcr das jeweilige Heizsystem geeignet sein und so angebracht werden, dass ihre technisch einwandfreie Funktion gew\u00e4hrleistet ist.</P><P>(2) Wird der Verbrauch der von einer Anlage im Sinne des \u00a7 1 Absatz 1 versorgten Nutzer nicht mit gleichen Ausstattungen erfasst, so sind zun\u00e4chst durch Vorerfassung vom Gesamtverbrauch die Anteile der Gruppen von Nutzern zu erfassen, deren Verbrauch mit gleichen Ausstattungen erfasst wird. Der Geb\u00e4udeeigent\u00fcmer kann auch bei unterschiedlichen Nutzungs- oder Geb\u00e4udearten oder aus anderen sachgerechten Gr\u00fcnden eine Vorerfassung nach Nutzergruppen durchf\u00fchren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE000604308",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Pflicht zur verbrauchsabh\u00e4ngigen Kostenverteilung",
+        "body": {
+          "content": "<P>(1) Der Geb\u00e4udeeigent\u00fcmer hat die Kosten der Versorgung mit W\u00e4rme und Warmwasser auf der Grundlage der Verbrauchserfassung nach Ma\u00dfgabe der \u00a7\u00a7 7 bis 9 auf die einzelnen Nutzer zu verteilen. Das Ergebnis der Ablesung soll dem Nutzer in der Regel innerhalb eines Monats mitgeteilt werden. Eine gesonderte Mitteilung ist nicht erforderlich, wenn das Ableseergebnis \u00fcber einen l\u00e4ngeren Zeitraum in den R\u00e4umen des Nutzers gespeichert ist und von diesem selbst abgerufen werden kann. Einer gesonderten Mitteilung des Warmwasserverbrauchs bedarf es auch dann nicht, wenn in der Nutzeinheit ein Warmwasserz\u00e4hler eingebaut ist.</P><P>(2) In den F\u00e4llen des \u00a7 5 Absatz 2 sind die Kosten zun\u00e4chst mindestens zu 50 vom Hundert nach dem Verh\u00e4ltnis der erfassten Anteile am Gesamtverbrauch auf die Nutzergruppen aufzuteilen. Werden die Kosten nicht vollst\u00e4ndig nach dem Verh\u00e4ltnis der erfassten Anteile am Gesamtverbrauch aufgeteilt, sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die \u00fcbrigen Kosten der Versorgung mit W\u00e4rme nach der Wohn- oder Nutzfl\u00e4che oder nach dem umbauten Raum auf die einzelnen Nutzergruppen zu verteilen; es kann auch die Wohn- oder Nutzfl\u00e4che oder der umbaute Raum der beheizten R\u00e4ume zu Grunde gelegt werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die \u00fcbrigen Kosten der Versorgung mit Warmwasser nach der Wohn- oder Nutzfl\u00e4che auf die einzelnen Nutzergruppen zu verteilen.</LA></DD></DL>Die Kostenanteile der Nutzergruppen sind dann nach Absatz 1 auf die einzelnen Nutzer zu verteilen.</P><P>(3) In den F\u00e4llen des \u00a7 4 Absatz 3 Satz 2 sind die Kosten nach dem Verh\u00e4ltnis der erfassten Anteile am Gesamtverbrauch auf die Gemeinschaftsr\u00e4ume und die \u00fcbrigen R\u00e4ume aufzuteilen. Die Verteilung der auf die Gemeinschaftsr\u00e4ume entfallenden anteiligen Kosten richtet sich nach rechtsgesch\u00e4ftlichen Bestimmungen.</P><P>(4) Die Wahl der Abrechnungsma\u00dfst\u00e4be nach Absatz 2 sowie nach \u00a7 7 Absatz 1 Satz 1, \u00a7\u00a7 8 und 9 bleibt dem Geb\u00e4udeeigent\u00fcmer \u00fcberlassen. Er kann diese f\u00fcr k\u00fcnftige Abrechnungszeitr\u00e4ume durch Erkl\u00e4rung gegen\u00fcber den Nutzern \u00e4ndern <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei der Einf\u00fchrung einer Vorerfassung nach Nutzergruppen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>nach Durchf\u00fchrung von baulichen Ma\u00dfnahmen, die nachhaltig Einsparungen von Heizenergie bewirken oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>aus anderen sachgerechten Gr\u00fcnden nach deren erstmaliger Bestimmung.</LA></DD></DL>Die Festlegung und die \u00c4nderung der Abrechnungsma\u00dfst\u00e4be sind nur mit Wirkung zum Beginn eines Abrechnungszeitraumes zul\u00e4ssig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE000704308",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Verteilung der Kosten der Versorgung mit W\u00e4rme",
+        "body": {
+          "content": "<P>(1) Von den Kosten des Betriebs der zentralen Heizungsanlage sind mindestens 50 vom Hundert, h\u00f6chstens 70 vom Hundert nach dem erfassten W\u00e4rmeverbrauch der Nutzer zu verteilen. In Geb\u00e4uden, die das Anforderungsniveau der W\u00e4rmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) nicht erf\u00fcllen, die mit einer \u00d6l- oder Gasheizung versorgt werden und in denen die freiliegenden Leitungen der W\u00e4rmeverteilung \u00fcberwiegend ged\u00e4mmt sind, sind von den Kosten des Betriebs der zentralen Heizungsanlage 70 vom Hundert nach dem erfassten W\u00e4rmeverbrauch der Nutzer zu verteilen. In Geb\u00e4uden, in denen die freiliegenden Leitungen der W\u00e4rmeverteilung \u00fcberwiegend unged\u00e4mmt sind und deswegen ein wesentlicher Anteil des W\u00e4rmeverbrauchs nicht erfasst wird, kann der W\u00e4rmeverbrauch der Nutzer nach anerkannten Regeln der Technik bestimmt werden. Der so bestimmte Verbrauch der einzelnen Nutzer wird als erfasster W\u00e4rmeverbrauch nach Satz 1 ber\u00fccksichtigt. Die \u00fcbrigen Kosten sind nach der Wohn- oder Nutzfl\u00e4che oder nach dem umbauten Raum zu verteilen; es kann auch die Wohn- oder Nutzfl\u00e4che oder der umbaute Raum der beheizten R\u00e4ume zu Grunde gelegt werden.</P><P>(2) Zu den Kosten des Betriebs der zentralen Heizungsanlage einschlie\u00dflich der Abgasanlage geh\u00f6ren die Kosten der verbrauchten Brennstoffe und ihrer Lieferung, die Kosten des Betriebsstromes, die Kosten der Bedienung, \u00dcberwachung und Pflege der Anlage, der regelm\u00e4\u00dfigen Pr\u00fcfung ihrer Betriebsbereitschaft und Betriebssicherheit einschlie\u00dflich der Einstellung durch eine Fachkraft, der Reinigung der Anlage und des Betriebsraumes, die Kosten der Messungen nach dem Bundes-Immissionsschutzgesetz, die Kosten der Anmietung oder anderer Arten der Gebrauchs\u00fcberlassung einer Ausstattung zur Verbrauchserfassung sowie die Kosten der Verwendung einer Ausstattung zur Verbrauchserfassung einschlie\u00dflich der Kosten der Eichung sowie der Kosten der Berechnung, Aufteilung und Verbrauchsanalyse. Die Verbrauchsanalyse sollte insbesondere die Entwicklung der Kosten f\u00fcr die Heizw\u00e4rme- und Warmwasserversorgung der vergangenen drei Jahre wiedergeben.</P><P>(3) F\u00fcr die Verteilung der Kosten der W\u00e4rmelieferung gilt Absatz 1 entsprechend.</P><P>(4) Zu den Kosten der W\u00e4rmelieferung geh\u00f6ren das Entgelt f\u00fcr die W\u00e4rmelieferung und die Kosten des Betriebs der zugeh\u00f6rigen Hausanlagen entsprechend Absatz 2.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE000803308",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Verteilung der Kosten der Versorgung mit Warmwasser",
+        "body": {
+          "content": "<P>(1) Von den Kosten des Betriebs der zentralen Warmwasserversorgungsanlage sind mindestens 50 vom Hundert, h\u00f6chstens 70 vom Hundert nach dem erfassten Warmwasserverbrauch, die \u00fcbrigen Kosten nach der Wohn- oder Nutzfl\u00e4che zu verteilen.</P><P>(2) Zu den Kosten des Betriebs der zentralen Warmwasserversorgungsanlage geh\u00f6ren die Kosten der Wasserversorgung, soweit sie nicht gesondert abgerechnet werden, und die Kosten der Wassererw\u00e4rmung entsprechend \u00a7 7 Absatz 2. Zu den Kosten der Wasserversorgung geh\u00f6ren die Kosten des Wasserverbrauchs, die Grundgeb\u00fchren und die Z\u00e4hlermiete, die Kosten der Verwendung von Zwischenz\u00e4hlern, die Kosten des Betriebs einer hauseigenen Wasserversorgungsanlage und einer Wasseraufbereitungsanlage einschlie\u00dflich der Aufbereitungsstoffe.</P><P>(3) F\u00fcr die Verteilung der Kosten der Warmwasserlieferung gilt Absatz 1 entsprechend.</P><P>(4) Zu den Kosten der Warmwasserlieferung geh\u00f6ren das Entgelt f\u00fcr die Lieferung des Warmwassers und die Kosten des Betriebs der zugeh\u00f6rigen Hausanlagen entsprechend \u00a7 7 Absatz 2.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE000904308",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Verteilung der Kosten der Versorgung mit W\u00e4rme und Warmwasser bei verbundenen Anlagen",
+        "body": {
+          "content": "<P>(1) Ist die zentrale Anlage zur Versorgung mit W\u00e4rme mit der zentralen Warmwasserversorgungsanlage verbunden, so sind die einheitlich entstandenen Kosten des Betriebs aufzuteilen. Die Anteile an den einheitlich entstandenen Kosten sind bei Anlagen mit Heizkesseln nach den Anteilen am Brennstoffverbrauch oder am Energieverbrauch, bei eigenst\u00e4ndiger gewerblicher W\u00e4rmelieferung nach den Anteilen am W\u00e4rmeverbrauch zu bestimmen. Kosten, die nicht einheitlich entstanden sind, sind dem Anteil an den einheitlich entstandenen Kosten hinzuzurechnen. Der Anteil der zentralen Anlage zur Versorgung mit W\u00e4rme ergibt sich aus dem gesamten Verbrauch nach Abzug des Verbrauchs der zentralen Warmwasserversorgungsanlage. Bei Anlagen, die weder durch Heizkessel noch durch eigenst\u00e4ndige gewerbliche W\u00e4rmelieferung mit W\u00e4rme versorgt werden, k\u00f6nnen anerkannte Regeln der Technik zur Aufteilung der Kosten verwendet werden. Der Anteil der zentralen Warmwasserversorgungsanlage am W\u00e4rmeverbrauch ist nach Absatz 2, der Anteil am Brennstoffverbrauch nach Absatz 3 zu ermitteln.</P><P>(2) Die auf die zentrale Warmwasserversorgungsanlage entfallende W\u00e4rmemenge (Q) ist ab dem 31. Dezember 2013 mit einem W\u00e4rmez\u00e4hler zu messen. Kann die W\u00e4rmemenge nur mit einem unzumutbar hohen Aufwand gemessen werden, kann sie nach der Gleichung <BR/><BR/><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"8*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"2.8*\"/><colspec colname=\"col3\" colnum=\"3\" colwidth=\"8*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"right\" colname=\"col1\" colsep=\"0\" morerows=\"1\" valign=\"middle\">Q\u00a0=\u00a02,5\u00a0\u00b7\u00a0</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\" colsep=\"0\" rowsep=\"1\">kWh</entry><entry VJ=\"1\" align=\"left\" colname=\"col3\" colsep=\"0\" morerows=\"1\" valign=\"middle\">\u00a0\u00b7\u00a0V\u00a0\u00b7\u00a0(t<SUB>w</SUB>\u00a0\u2013\u00a010\u00a0\u00b0C)</entry></row><row><entry VJ=\"1\" align=\"center\" colname=\"col2\" colsep=\"0\">m<SUP>3</SUP>\u00a0\u00b7\u00a0K</entry></row></tbody></tgroup></table>bestimmt werden. Dabei sind zu Grunde zu legen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das gemessene Volumen des verbrauchten Warmwassers (V) in Kubikmetern (m<SUP>3</SUP>);</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die gemessene oder gesch\u00e4tzte mittlere Temperatur des Warmwassers (t<SUB>w</SUB>) in Grad Celsius (\u00b0C).</LA></DD></DL>Wenn in Ausnahmef\u00e4llen weder die W\u00e4rmemenge noch das Volumen des verbrauchten Warmwassers gemessen werden k\u00f6nnen, kann die auf die zentrale Warmwasserversorgungsanlage entfallende W\u00e4rmemenge nach folgender Gleichung bestimmt werden <BR/><BR/><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"8*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"4*\"/><colspec colname=\"col3\" colnum=\"3\" colwidth=\"8*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"right\" colname=\"col1\" colsep=\"0\" morerows=\"1\" valign=\"middle\">Q\u00a0=\u00a032\u00a0\u00b7\u00a0</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\" colsep=\"0\" rowsep=\"1\">kWh</entry><entry VJ=\"1\" align=\"left\" colname=\"col3\" colsep=\"0\" morerows=\"1\" valign=\"middle\">\u00a0\u00b7\u00a0A<SUB>Wohn</SUB></entry></row><row><entry VJ=\"1\" colname=\"col2\" colsep=\"0\">m<SUP>2</SUP> A<SUB>Wohn</SUB></entry></row></tbody></tgroup></table>Dabei ist die durch die zentrale Anlage mit Warmwasser versorgte Wohn- oder Nutzfl\u00e4che (A<SUB>Wohn</SUB>) zu Grunde zu legen. Die nach den Gleichungen in Satz 2 oder 4 bestimmte W\u00e4rmemenge (Q) ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei brennwertbezogener Abrechnung von Erdgas <NB>mit 1,11</NB> zu multiplizieren und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei eigenst\u00e4ndiger gewerblicher W\u00e4rmelieferung durch 1,15 zu dividieren.</LA></DD></DL></P><P>(3) Bei Anlagen mit Heizkesseln ist der Brennstoffverbrauch der zentralen Warmwasserversorgungsanlage (B) in Litern, Kubikmetern, Kilogramm oder Sch\u00fcttraummetern nach der Gleichung <BR/><BR/><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"8*\"/><colspec align=\"justify\" colname=\"col2\" colnum=\"2\" colwidth=\"4*\"/><colspec colname=\"col3\" colnum=\"3\" colwidth=\"8*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"right\" colname=\"col1\" colsep=\"0\" morerows=\"1\" valign=\"middle\">B =</entry><entry VJ=\"1\" colname=\"col2\" colsep=\"0\" rowsep=\"0\"><U>Q</U></entry><entry VJ=\"1\" align=\"left\" colname=\"col3\" colsep=\"0\" morerows=\"1\" valign=\"middle\">\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col2\" colsep=\"0\">H<SUB>i</SUB></entry></row></tbody></tgroup></table>zu bestimmen. Dabei sind zu Grunde zu legen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die auf die zentrale Warmwasserversorgungsanlage entfallende W\u00e4rmemenge (Q) nach Absatz 2 in kWh;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Heizwert des verbrauchten Brennstoffes (H<SUB>i</SUB>) in Kilowattstunden (kWh) je Liter (l), Kubikmeter (m<SUP>3</SUP>), Kilogramm (kg) oder Sch\u00fcttraummeter (SRm). Als H<SUB>i</SUB>-Werte k\u00f6nnen verwendet werden f\u00fcr <table frame=\"none\" pgwide=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colwidth=\"6*\"/><colspec align=\"right\" colname=\"col2\" colwidth=\"2*\"/><colspec colname=\"col3\" colwidth=\"5*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">Leichtes Heiz\u00f6l EL</entry><entry VJ=\"1\" colname=\"col2\">10\u00a0\u00a0</entry><entry VJ=\"1\" colname=\"col3\">kWh/l</entry></row><row><entry VJ=\"1\" colname=\"col1\">Schweres Heiz\u00f6l</entry><entry VJ=\"1\" colname=\"col2\">10,9</entry><entry VJ=\"1\" colname=\"col3\">kWh/l</entry></row><row><entry VJ=\"1\" colname=\"col1\">Erdgas H</entry><entry VJ=\"1\" colname=\"col2\">10\u00a0\u00a0</entry><entry VJ=\"1\" colname=\"col3\">kWh/m<SUP>3</SUP></entry></row><row><entry VJ=\"1\" colname=\"col1\">Erdgas L</entry><entry VJ=\"1\" colname=\"col2\">9\u00a0\u00a0</entry><entry VJ=\"1\" colname=\"col3\">kWh/m<SUP>3</SUP></entry></row><row><entry VJ=\"1\" colname=\"col1\">Fl\u00fcssiggas</entry><entry VJ=\"1\" colname=\"col2\">13\u00a0\u00a0</entry><entry VJ=\"1\" colname=\"col3\">kWh/kg</entry></row><row><entry VJ=\"1\" colname=\"col1\">Koks</entry><entry VJ=\"1\" colname=\"col2\">8\u00a0\u00a0</entry><entry VJ=\"1\" colname=\"col3\">kWh/kg</entry></row><row><entry VJ=\"1\" colname=\"col1\">Braunkohle</entry><entry VJ=\"1\" colname=\"col2\">5,5</entry><entry VJ=\"1\" colname=\"col3\">kWh/kg</entry></row><row><entry VJ=\"1\" colname=\"col1\">Steinkohle</entry><entry VJ=\"1\" colname=\"col2\">8\u00a0\u00a0</entry><entry VJ=\"1\" colname=\"col3\">kWh/kg</entry></row><row><entry VJ=\"1\" colname=\"col1\">Holz (lufttrocken)</entry><entry VJ=\"1\" colname=\"col2\">4,1</entry><entry VJ=\"1\" colname=\"col3\">kWh/kg</entry></row><row><entry VJ=\"1\" colname=\"col1\">Holzpellets</entry><entry VJ=\"1\" colname=\"col2\">5\u00a0\u00a0</entry><entry VJ=\"1\" colname=\"col3\">kWh/kg</entry></row><row><entry VJ=\"1\" colname=\"col1\">Holzhackschnitzel</entry><entry VJ=\"1\" colname=\"col2\">650\u00a0\u00a0</entry><entry VJ=\"1\" colname=\"col3\">kWh/SRm.</entry></row></tbody></tgroup></table></LA></DD></DL>Enthalten die Abrechnungsunterlagen des Energieversorgungsunternehmens oder Brennstofflieferanten H<SUB>i</SUB>-Werte, so sind diese zu verwenden. Soweit die Abrechnung \u00fcber kWh-Werte erfolgt, ist eine Umrechnung in Brennstoffverbrauch nicht erforderlich.</P><P>(4) Der Anteil an den Kosten der Versorgung mit W\u00e4rme ist nach \u00a7 7 Absatz 1, der Anteil an den Kosten der Versorgung mit Warmwasser nach \u00a7 8 Absatz 1 zu verteilen, soweit diese Verordnung nichts anderes bestimmt oder zul\u00e4sst.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE001603308",
+        "type": "article",
+        "name": "\u00a7 9a",
+        "title": "Kostenverteilung in Sonderf\u00e4llen",
+        "body": {
+          "content": "<P>(1) Kann der anteilige W\u00e4rme- oder Warmwasserverbrauch von Nutzern f\u00fcr einen Abrechnungszeitraum wegen Ger\u00e4teausfalls oder aus anderen zwingenden Gr\u00fcnden nicht ordnungsgem\u00e4\u00df erfasst werden, ist er vom Geb\u00e4udeeigent\u00fcmer auf der Grundlage des Verbrauchs der betroffenen R\u00e4ume in vergleichbaren Zeitr\u00e4umen oder des Verbrauchs vergleichbarer anderer R\u00e4ume im jeweiligen Abrechnungszeitraum oder des Durchschnittsverbrauchs des Geb\u00e4udes oder der Nutzergruppe zu ermitteln. Der so ermittelte anteilige Verbrauch ist bei der Kostenverteilung anstelle des erfassten Verbrauchs zu Grunde zu legen.</P><P>(2) \u00dcberschreitet die von der Verbrauchsermittlung nach Absatz 1 betroffene Wohn- oder Nutzfl\u00e4che oder der umbaute Raum 25 vom Hundert der f\u00fcr die Kostenverteilung ma\u00dfgeblichen gesamten Wohn- oder Nutzfl\u00e4che oder des ma\u00dfgeblichen gesamten umbauten Raumes, sind die Kosten ausschlie\u00dflich nach den nach \u00a7 7 Absatz 1 Satz 5 und \u00a7 8 Absatz 1 f\u00fcr die Verteilung der \u00fcbrigen Kosten zu Grunde zu legenden Ma\u00dfst\u00e4ben zu verteilen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE001702308",
+        "type": "article",
+        "name": "\u00a7 9b",
+        "title": "Kostenaufteilung bei Nutzerwechsel",
+        "body": {
+          "content": "<P>(1) Bei Nutzerwechsel innerhalb eines Abrechnungszeitraumes hat der Geb\u00e4udeeigent\u00fcmer eine Ablesung der Ausstattung zur Verbrauchserfassung der vom Wechsel betroffenen R\u00e4ume (Zwischenablesung) vorzunehmen.</P><P>(2) Die nach dem erfassten Verbrauch zu verteilenden Kosten sind auf der Grundlage der Zwischenablesung, die \u00fcbrigen Kosten des W\u00e4rmeverbrauchs auf der Grundlage der sich aus anerkannten Regeln der Technik ergebenden Gradtagszahlen oder zeitanteilig und die \u00fcbrigen Kosten des Warmwasserverbrauchs zeitanteilig auf Vor- und Nachnutzer aufzuteilen.</P><P>(3) Ist eine Zwischenablesung nicht m\u00f6glich oder l\u00e4sst sie wegen des Zeitpunktes des Nutzerwechsels aus technischen Gr\u00fcnden keine hinreichend genaue Ermittlung der Verbrauchsanteile zu, sind die gesamten Kosten nach den nach Absatz 2 f\u00fcr die \u00fcbrigen Kosten geltenden Ma\u00dfst\u00e4ben aufzuteilen.</P><P>(4) Von den Abs\u00e4tzen 1 bis 3 abweichende rechtsgesch\u00e4ftliche Bestimmungen bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE001002308",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "\u00dcberschreitung der H\u00f6chsts\u00e4tze",
+        "body": {
+          "content": "<P>Rechtsgesch\u00e4ftliche Bestimmungen, die h\u00f6here als die in \u00a7 7 Absatz 1 und \u00a7 8 Absatz 1 genannten H\u00f6chsts\u00e4tze von 70 vom Hundert vorsehen, bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE001104308",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Ausnahmen",
+        "body": {
+          "content": "<P>(1) Soweit sich die \u00a7\u00a7 3 bis 7 auf die Versorgung mit W\u00e4rme beziehen, sind sie nicht anzuwenden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>auf R\u00e4ume, <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>in Geb\u00e4uden, die einen Heizw\u00e4rmebedarf von weniger als 15 kWh/(m<SUP>2</SUP>\u00a0\u00b7\u00a0a) aufweisen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>bei denen das Anbringen der Ausstattung zur Verbrauchserfassung, die Erfassung des W\u00e4rmeverbrauchs oder die Verteilung der Kosten des W\u00e4rmeverbrauchs nicht oder nur mit unverh\u00e4ltnism\u00e4\u00dfig hohen Kosten m\u00f6glich ist; unverh\u00e4ltnism\u00e4\u00dfig hohe Kosten liegen vor, wenn diese nicht durch die Einsparungen, die in der Regel innerhalb von zehn Jahren erzielt werden k\u00f6nnen, erwirtschaftet werden k\u00f6nnen; oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>die vor dem 1. Juli 1981 bezugsfertig geworden sind und in denen der Nutzer den W\u00e4rmeverbrauch nicht beeinflussen kann;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA><DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>auf Alters- und Pflegeheime, Studenten- und Lehrlingsheime,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>auf vergleichbare Geb\u00e4ude oder Geb\u00e4udeteile, deren Nutzung Personengruppen vorbehalten ist, mit denen wegen ihrer besonderen pers\u00f6nlichen Verh\u00e4ltnisse regelm\u00e4\u00dfig keine \u00fcblichen Mietvertr\u00e4ge abgeschlossen werden;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>auf R\u00e4ume in Geb\u00e4uden, die \u00fcberwiegend versorgt werden <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>mit W\u00e4rme aus Anlagen zur R\u00fcckgewinnung von W\u00e4rme oder aus W\u00e4rmepumpen- oder Solaranlagen oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>mit W\u00e4rme aus Anlagen der Kraft-W\u00e4rme-Kopplung oder aus Anlagen zur Verwertung von Abw\u00e4rme, sofern der W\u00e4rmeverbrauch des Geb\u00e4udes nicht erfasst wird;</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>auf die Kosten des Betriebs der zugeh\u00f6rigen Hausanlagen, soweit diese Kosten in den F\u00e4llen des \u00a7 1 Absatz 3 nicht in den Kosten der W\u00e4rmelieferung enthalten sind, sondern vom Geb\u00e4udeeigent\u00fcmer gesondert abgerechnet werden;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>in sonstigen Einzelf\u00e4llen, in denen die nach Landesrecht zust\u00e4ndige Stelle wegen besonderer Umst\u00e4nde von den Anforderungen dieser Verordnung befreit hat, um einen unangemessenen Aufwand oder sonstige unbillige H\u00e4rten zu vermeiden.</LA></DD></DL></P><P>(2) Soweit sich die \u00a7\u00a7 3 bis 6 und \u00a7 8 auf die Versorgung mit Warmwasser beziehen, gilt Absatz 1 entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE001204308",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "K\u00fcrzungsrecht, \u00dcbergangsregelung",
+        "body": {
+          "content": "<P>(1) Soweit die Kosten der Versorgung mit W\u00e4rme oder Warmwasser entgegen den Vorschriften dieser Verordnung nicht verbrauchsabh\u00e4ngig abgerechnet werden, hat der Nutzer das Recht, bei der nicht verbrauchsabh\u00e4ngigen Abrechnung der Kosten den auf ihn entfallenden Anteil um 15 vom Hundert zu k\u00fcrzen. Dies gilt nicht beim Wohnungseigentum im Verh\u00e4ltnis des einzelnen Wohnungseigent\u00fcmers zur Gemeinschaft der Wohnungseigent\u00fcmer; insoweit verbleibt es bei den allgemeinen Vorschriften.</P><P>(2) Die Anforderungen des \u00a7 5 Absatz 1 Satz 2 gelten bis zum 31. Dezember 2013 als erf\u00fcllt <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr die am 1. Januar 1987 f\u00fcr die Erfassung des anteiligen Warmwasserverbrauchs vorhandenen Warmwasserkostenverteiler und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr die am 1. Juli 1981 bereits vorhandenen sonstigen Ausstattungen zur Verbrauchserfassung.</LA></DD></DL></P><P>(3) Bei preisgebundenen Wohnungen im Sinne der Neubaumietenverordnung 1970 gilt Absatz 2 mit der Ma\u00dfgabe, dass an die Stelle des Datums \"1. Juli 1981\" das Datum \"1. August 1984\" tritt.</P><P>(4) \u00a7 1 Absatz 3, \u00a7 4 Absatz 3 Satz 2 und \u00a7 6 Absatz 3 gelten f\u00fcr Abrechnungszeitr\u00e4ume, die nach dem 30. September 1989 beginnen; rechtsgesch\u00e4ftliche Bestimmungen \u00fcber eine fr\u00fchere Anwendung dieser Vorschriften bleiben unber\u00fchrt.</P><P>(5) Wird in den F\u00e4llen des \u00a7 1 Absatz 3 der W\u00e4rmeverbrauch der einzelnen Nutzer am 30. September 1989 mit Einrichtungen zur Messung der Wassermenge ermittelt, gilt die Anforderung des \u00a7 5 Absatz 1 Satz 1 als erf\u00fcllt.</P><P>(6) Auf Abrechnungszeitr\u00e4ume, die vor dem 1. Januar 2009 begonnen haben, ist diese Verordnung in der bis zum 31. Dezember 2008 geltenden Fassung weiter anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE001402308",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "(Berlin-Klausel)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE001502308",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "(Inkrafttreten)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR002610981BJNE888800309",
+        "type": "article",
+        "name": "Anhang EV",
+        "title": "Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III<BR/>(BGBl. II 1990, 889, 1007)<BR/>- Ma\u00dfgaben f\u00fcr das beigetretene Gebiet (Art. 3 EinigVtr) -",
+        "body": {
+          "content": "<P><noindex>Abschnitt III <BR/>Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Ma\u00dfgaben in Kraft: <BR/>... <BR/>Verordnung \u00fcber Heizkostenabrechnung in der Fassung der Bekanntmachung vom 20. Januar 1989 (BGBl. I S. 115) <BR/>mit folgenden Ma\u00dfgaben: <DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><I>Die Verordnung tritt zum 1. Januar 1991 in Kraft. Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den bisherigen Regeln verfahren werden.</I></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\"><I>R\u00e4ume, die vor dem 1. Januar 1991 bezugsfertig geworden sind und in denen die nach der Verordnung erforderliche Ausstattung zur Verbrauchserfassung noch nicht vorhanden ist, sind bis sp\u00e4testens zum 31. Dezember 1995 auszustatten. Der Geb\u00e4udeeigent\u00fcmer ist berechtigt, die Ausstattung bereits vor dem 31. Dezember 1995 anzubringen.</I></LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Soweit und solange die nach Landesrecht zust\u00e4ndigen Beh\u00f6rden des in Artikel 3 des Vertrages genannten Gebietes noch nicht die Eignung sachverst\u00e4ndiger Stellen gem\u00e4\u00df \u00a7 5 Abs. 1 Satz 2 und 3 der Verordnung best\u00e4tigt haben, k\u00f6nnen Ausstattungen zur Verbrauchserfassung verwendet werden f\u00fcr die eine sachverst\u00e4ndige Stelle aus dem Gebiet, in dem die Verordnung schon vor dem Beitritt gegolten hat, die Best\u00e4tigung im Sinne von \u00a7 5 Abs. 1 Satz 2 erteilt hat.</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\"><I>Als Heizwerte der verbrauchten Brennstoffe (Hu) nach \u00a7 9 Abs. 2 Ziff. 3 k\u00f6nnen auch verwendet werden:</I></LA></DD></DL></LA></DD></DL><BR/><pre xml:space=\"preserve\">        Braunkohlenbrikett              5,5 kWh/kg<BR/>        Braunkohlenhochtemperaturkoks   8,0 kWh/kg</pre><DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\"><I>Die Vorschriften dieser Verordnung \u00fcber die Kostenverteilung gelten erstmalig f\u00fcr den Abrechnungszeitraum, der nach dem Anbringen der Ausstattung beginnt.</I></LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 11 Abs. 1 Nr. 1 Buchstabe b) ist mit der Ma\u00dfgabe anzuwenden, da\u00df an die Stelle des Datums \"1. Juli 1981\" das Datum \"1. Januar 1991\" tritt.</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\"><I>\u00a7 12 Abs. 2 ist mit der Ma\u00dfgabe anzuwenden, da\u00df an die Stelle der Daten \"1. Januar 1987\" und \"1. Juli 1981\" jeweils das Datum \"1. Januar 1991\" tritt.</I></LA></DD></DL></LA></DD></DL></noindex></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      }
+    ]
+  }
+}

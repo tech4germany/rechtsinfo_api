@@ -1,0 +1,650 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR004290962",
+    "abbreviation": "BauNVO",
+    "extraAbbreviations": [],
+    "firstPublished": "1962-06-26",
+    "sourceTimestamp": "20180416214507",
+    "headingShort": "Baunutzungsverordnung",
+    "headingLong": "Verordnung \u00fcber die bauliche Nutzung der Grundst\u00fccke",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1962, 429"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Neuf",
+        "comment": "Neugefasst durch Bek. v. 21.11.2017 I 3786"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.10.1977 +++) <BR/>(+++ \u00c4nderungen aufgrund EinigVtr vgl. \u00a7 26a +++)</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR004290962BJNE000606116",
+        "type": "article",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "body": {
+          "content": "<Ident Class=\"S2\">Erster Abschnitt</Ident><Title Align=\"auto\" Class=\"S2\">Art der baulichen Nutzung</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"11*\"/><colspec colname=\"col2\" colwidth=\"89*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Vorschriften f\u00fcr Baufl\u00e4chen und Baugebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\">Kleinsiedlungsgebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\">Reine Wohngebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Wohngebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04a</entry><entry VJ=\"1\" colname=\"col2\">Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\">Dorfgebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\">Mischgebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06a</entry><entry VJ=\"1\" colname=\"col2\">Urbane Gebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">Kerngebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a08</entry><entry VJ=\"1\" colname=\"col2\">Gewerbegebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\">Industriegebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\">Sondergebiete, die der Erholung dienen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\">Sonstige Sondergebiete</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\">Stellpl\u00e4tze und Garagen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\">Geb\u00e4ude und R\u00e4ume f\u00fcr freie Berufe</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13a</entry><entry VJ=\"1\" colname=\"col2\">Ferienwohnungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\">Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-W\u00e4rme-Kopplungsanlagen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Voraussetzungen f\u00fcr die Zul\u00e4ssigkeit baulicher und sonstiger Anlagen</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Zweiter Abschnitt</Ident><Title Align=\"auto\" Class=\"S2\">Ma\u00df der baulichen Nutzung</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"11*\"/><colspec colname=\"col2\" colwidth=\"89*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Bestimmung des Ma\u00dfes der baulichen Nutzung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17</entry><entry VJ=\"1\" colname=\"col2\">Obergrenzen f\u00fcr die Bestimmung des Ma\u00dfes der baulichen Nutzung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 18</entry><entry VJ=\"1\" colname=\"col2\">H\u00f6he baulicher Anlagen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 19</entry><entry VJ=\"1\" colname=\"col2\">Grundfl\u00e4chenzahl, zul\u00e4ssige Grundfl\u00e4che</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 20</entry><entry VJ=\"1\" colname=\"col2\">Vollgeschosse, Geschossfl\u00e4chenzahl, Geschossfl\u00e4che</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 21</entry><entry VJ=\"1\" colname=\"col2\">Baumassenzahl, Baumasse</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 21a</entry><entry VJ=\"1\" colname=\"col2\">Stellpl\u00e4tze, Garagen und Gemeinschaftsanlagen</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Dritter Abschnitt</Ident><Title Align=\"auto\" Class=\"S2\">Bauweise, \u00fcberbaubare Grundst\u00fccksfl\u00e4che</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"11*\"/><colspec colname=\"col2\" colwidth=\"89*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 22</entry><entry VJ=\"1\" colname=\"col2\">Bauweise</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23</entry><entry VJ=\"1\" colname=\"col2\">\u00dcberbaubare Grundst\u00fccksfl\u00e4che</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Vierter Abschnitt</Ident><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"11*\"/><colspec colname=\"col2\" colwidth=\"89*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 24</entry><entry VJ=\"1\" colname=\"col2\">(weggefallen)</entry></row></tbody></tgroup></table><Ident Class=\"S2\">F\u00fcnfter Abschnitt</Ident><Title Align=\"auto\" Class=\"S2\">\u00dcberleitungs- und Schlussvorschriften</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"11*\"/><colspec colname=\"col2\" colwidth=\"89*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25</entry><entry VJ=\"1\" colname=\"col2\">Fortf\u00fchrung eingeleiteter Verfahren</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25a</entry><entry VJ=\"1\" colname=\"col2\">\u00dcberleitungsvorschriften aus Anlass der zweiten \u00c4nderungsverordnung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25b</entry><entry VJ=\"1\" colname=\"col2\">\u00dcberleitungsvorschrift aus Anlass der dritten \u00c4nderungsverordnung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25c</entry><entry VJ=\"1\" colname=\"col2\">\u00dcberleitungsvorschrift aus Anlass der vierten \u00c4nderungsverordnung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25d</entry><entry VJ=\"1\" colname=\"col2\">\u00dcberleitungsvorschrift aus Anlass des Gesetzes zur St\u00e4rkung der Innenentwicklung in den St\u00e4dten und Gemeinden und weiteren Fortentwicklung des St\u00e4dtebaurechts</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 26</entry><entry VJ=\"1\" colname=\"col2\">(Berlin-Klausel)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 26a</entry><entry VJ=\"1\" colname=\"col2\">\u00dcberleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 27</entry><entry VJ=\"1\" colname=\"col2\">(Inkrafttreten)</entry></row></tbody></tgroup></table>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR004290962BJNG000102116",
+        "type": "heading",
+        "name": "Erster Abschnitt",
+        "title": "Art der baulichen Nutzung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR004290962BJNE000705116",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Allgemeine Vorschriften f\u00fcr Baufl\u00e4chen und Baugebiete",
+        "body": {
+          "content": "<P>(1) Im Fl\u00e4chennutzungsplan k\u00f6nnen die f\u00fcr die Bebauung vorgesehenen Fl\u00e4chen nach der allgemeinen Art ihrer baulichen Nutzung (Baufl\u00e4chen) dargestellt werden als <table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"3*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"40*\"/><colspec colname=\"col3\" colnum=\"3\" colwidth=\"23.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">1.</entry><entry VJ=\"1\" colname=\"col2\">Wohnbaufl\u00e4chen</entry><entry VJ=\"1\" colname=\"col3\">(W)</entry></row><row><entry VJ=\"1\" colname=\"col1\">2.</entry><entry VJ=\"1\" colname=\"col2\">gemischte Baufl\u00e4chen</entry><entry VJ=\"1\" colname=\"col3\">(M)</entry></row><row><entry VJ=\"1\" colname=\"col1\">3.</entry><entry VJ=\"1\" colname=\"col2\">gewerbliche Baufl\u00e4chen</entry><entry VJ=\"1\" colname=\"col3\">(G)</entry></row><row><entry VJ=\"1\" colname=\"col1\">4.</entry><entry VJ=\"1\" colname=\"col2\">Sonderbaufl\u00e4chen</entry><entry VJ=\"1\" colname=\"col3\">(S).</entry></row></tbody></tgroup></table></P><P>(2) Die f\u00fcr die Bebauung vorgesehenen Fl\u00e4chen k\u00f6nnen nach der besonderen Art ihrer baulichen Nutzung (Baugebiete) dargestellt werden als <table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"4.5*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"38.5*\"/><colspec colname=\"col3\" colnum=\"3\" colwidth=\"23.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a01.</entry><entry VJ=\"1\" colname=\"col2\">Kleinsiedlungsgebiete</entry><entry VJ=\"1\" colname=\"col3\">(WS)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a02.</entry><entry VJ=\"1\" colname=\"col2\">reine Wohngebiete</entry><entry VJ=\"1\" colname=\"col3\">(WR)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a03.</entry><entry VJ=\"1\" colname=\"col2\">allgemeine Wohngebiete</entry><entry VJ=\"1\" colname=\"col3\">(WA)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a04.</entry><entry VJ=\"1\" colname=\"col2\">besondere Wohngebiete</entry><entry VJ=\"1\" colname=\"col3\">(WB)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a05.</entry><entry VJ=\"1\" colname=\"col2\">Dorfgebiete</entry><entry VJ=\"1\" colname=\"col3\">(MD)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a06.</entry><entry VJ=\"1\" colname=\"col2\">Mischgebiete</entry><entry VJ=\"1\" colname=\"col3\">(MI)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a07.</entry><entry VJ=\"1\" colname=\"col2\">urbane Gebiete</entry><entry VJ=\"1\" colname=\"col3\">(MU)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a08.</entry><entry VJ=\"1\" colname=\"col2\">Kerngebiete</entry><entry VJ=\"1\" colname=\"col3\">(MK)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a09.</entry><entry VJ=\"1\" colname=\"col2\">Gewerbegebiete</entry><entry VJ=\"1\" colname=\"col3\">(GE)</entry></row><row><entry VJ=\"1\" colname=\"col1\">10.</entry><entry VJ=\"1\" colname=\"col2\">Industriegebiete</entry><entry VJ=\"1\" colname=\"col3\">(GI)</entry></row><row><entry VJ=\"1\" colname=\"col1\">11.</entry><entry VJ=\"1\" colname=\"col2\">Sondergebiete</entry><entry VJ=\"1\" colname=\"col3\">(SO).</entry></row></tbody></tgroup></table></P><P>(3) Im Bebauungsplan k\u00f6nnen die in Absatz 2 bezeichneten Baugebiete festgesetzt werden. Durch die Festsetzung werden die Vorschriften der \u00a7\u00a7 2 bis 14 Bestandteil des Bebauungsplans, soweit nicht auf Grund der Abs\u00e4tze 4 bis 10 etwas anderes bestimmt wird. Bei Festsetzung von Sondergebieten finden die Vorschriften \u00fcber besondere Festsetzungen nach den Abs\u00e4tzen 4 bis 10 keine Anwendung; besondere Festsetzungen \u00fcber die Art der Nutzung k\u00f6nnen nach den \u00a7\u00a7 10 und 11 getroffen werden.</P><P>(4) F\u00fcr die in den \u00a7\u00a7 4 bis 9 bezeichneten Baugebiete k\u00f6nnen im Bebauungsplan f\u00fcr das jeweilige Baugebiet Festsetzungen getroffen werden, die das Baugebiet <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach der Art der zul\u00e4ssigen Nutzung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach der Art der Betriebe und Anlagen und deren besonderen Bed\u00fcrfnissen und Eigenschaften</LA></DD></DL>gliedern. Die Festsetzungen nach Satz 1 k\u00f6nnen auch f\u00fcr mehrere Gewerbegebiete einer Gemeinde im Verh\u00e4ltnis zueinander getroffen werden; dies gilt auch f\u00fcr Industriegebiete. Absatz 5 bleibt unber\u00fchrt.</P><P>(5) Im Bebauungsplan kann festgesetzt werden, dass bestimmte Arten von Nutzungen, die nach den \u00a7\u00a7 2 bis 9 sowie 13 und 13a allgemein zul\u00e4ssig sind, nicht zul\u00e4ssig sind oder nur ausnahmsweise zugelassen werden k\u00f6nnen, sofern die allgemeine Zweckbestimmung des Baugebiets gewahrt bleibt.</P><P>(6) Im Bebauungsplan kann festgesetzt werden, dass alle oder einzelne Ausnahmen, die in den Baugebieten nach den \u00a7\u00a7 2 bis 9 vorgesehen sind, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht Bestandteil des Bebauungsplans werden oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in dem Baugebiet allgemein zul\u00e4ssig sind, sofern die allgemeine Zweckbestimmung des Baugebiets gewahrt bleibt.</LA></DD></DL></P><P>(7) In Bebauungspl\u00e4nen f\u00fcr Baugebiete nach den \u00a7\u00a7 4 bis 9 kann, wenn besondere st\u00e4dtebauliche Gr\u00fcnde dies rechtfertigen (\u00a7 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass in bestimmten Geschossen, Ebenen oder sonstigen Teilen baulicher Anlagen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nur einzelne oder mehrere der in dem Baugebiet allgemein zul\u00e4ssigen Nutzungen zul\u00e4ssig sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einzelne oder mehrere der in dem Baugebiet allgemein zul\u00e4ssigen Nutzungen unzul\u00e4ssig sind oder als Ausnahme zugelassen werden k\u00f6nnen oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">alle oder einzelne Ausnahmen, die in den Baugebieten nach den \u00a7\u00a7 4 bis 9 vorgesehen sind, nicht zul\u00e4ssig oder, sofern die allgemeine Zweckbestimmung des Baugebiets gewahrt bleibt, allgemein zul\u00e4ssig sind.</LA></DD></DL></P><P>(8) Die Festsetzungen nach den Abs\u00e4tzen 4 bis 7 k\u00f6nnen sich auch auf Teile des Baugebiets beschr\u00e4nken.</P><P>(9) Wenn besondere st\u00e4dtebauliche Gr\u00fcnde dies rechtfertigen, kann im Bebauungsplan bei Anwendung der Abs\u00e4tze 5 bis 8 festgesetzt werden, dass nur bestimmte Arten der in den Baugebieten allgemein oder ausnahmsweise zul\u00e4ssigen baulichen oder sonstigen Anlagen zul\u00e4ssig oder nicht zul\u00e4ssig sind oder nur ausnahmsweise zugelassen werden k\u00f6nnen.</P><P>(10) W\u00e4ren bei Festsetzung eines Baugebiets nach den \u00a7\u00a7 2 bis 9 in \u00fcberwiegend bebauten Gebieten bestimmte vorhandene bauliche und sonstige Anlagen unzul\u00e4ssig, kann im Bebauungsplan festgesetzt werden, dass Erweiterungen, \u00c4nderungen, Nutzungs\u00e4nderungen und Erneuerungen dieser Anlagen allgemein zul\u00e4ssig sind oder ausnahmsweise zugelassen werden k\u00f6nnen. Im Bebauungsplan k\u00f6nnen n\u00e4here Bestimmungen \u00fcber die Zul\u00e4ssigkeit getroffen werden. Die allgemeine Zweckbestimmung des Baugebiets muss in seinen \u00fcbrigen Teilen gewahrt bleiben. Die S\u00e4tze 1 bis 3 gelten auch f\u00fcr die \u00c4nderung und Erg\u00e4nzung von Bebauungspl\u00e4nen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE000803116",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Kleinsiedlungsgebiete",
+        "body": {
+          "content": "<P>(1) Kleinsiedlungsgebiete dienen vorwiegend der Unterbringung von Kleinsiedlungen einschlie\u00dflich Wohngeb\u00e4uden mit entsprechenden Nutzg\u00e4rten und landwirtschaftlichen Nebenerwerbsstellen.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Kleinsiedlungen einschlie\u00dflich Wohngeb\u00e4ude mit entsprechenden Nutzg\u00e4rten, landwirtschaftliche Nebenerwerbsstellen und Gartenbaubetriebe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die der Versorgung des Gebiets dienenden L\u00e4den, Schank- und Speisewirtschaften sowie nicht st\u00f6renden Handwerksbetriebe.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>sonstige Wohngeb\u00e4ude mit nicht mehr als zwei Wohnungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Tankstellen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>nicht st\u00f6rende Gewerbebetriebe.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE000904116",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Reine Wohngebiete",
+        "body": {
+          "content": "<P>(1) Reine Wohngebiete dienen dem Wohnen.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wohngeb\u00e4ude,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Anlagen zur Kinderbetreuung, die den Bed\u00fcrfnissen der Bewohner des Gebiets dienen.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>L\u00e4den und nicht st\u00f6rende Handwerksbetriebe, die zur Deckung des t\u00e4glichen Bedarfs f\u00fcr die Bewohner des Gebiets dienen, sowie kleine Betriebe des Beherbergungsgewerbes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sonstige Anlagen f\u00fcr soziale Zwecke sowie den Bed\u00fcrfnissen der Bewohner des Gebiets dienende Anlagen f\u00fcr kirchliche, kulturelle, gesundheitliche und sportliche Zwecke.</LA></DD></DL></P><P>(4) Zu den nach Absatz 2 sowie den \u00a7\u00a7 2, 4 bis 7 zul\u00e4ssigen Wohngeb\u00e4uden geh\u00f6ren auch solche, die ganz oder teilweise der Betreuung und Pflege ihrer Bewohner dienen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001003116",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Allgemeine Wohngebiete",
+        "body": {
+          "content": "<P>(1) Allgemeine Wohngebiete dienen vorwiegend dem Wohnen.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wohngeb\u00e4ude,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die der Versorgung des Gebiets dienenden L\u00e4den, Schank- und Speisewirtschaften sowie nicht st\u00f6renden Handwerksbetriebe,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Betriebe des Beherbergungsgewerbes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sonstige nicht st\u00f6rende Gewerbebetriebe,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr Verwaltungen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Gartenbaubetriebe,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Tankstellen.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001103116",
+        "type": "article",
+        "name": "\u00a7 4a",
+        "title": "Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)",
+        "body": {
+          "content": "<P>(1) Besondere Wohngebiete sind \u00fcberwiegend bebaute Gebiete, die aufgrund ausge\u00fcbter Wohnnutzung und vorhandener sonstiger in Absatz 2 genannter Anlagen eine besondere Eigenart aufweisen und in denen unter Ber\u00fccksichtigung dieser Eigenart die Wohnnutzung erhalten und fortentwickelt werden soll. Besondere Wohngebiete dienen vorwiegend dem Wohnen; sie dienen auch der Unterbringung von Gewerbebetrieben und sonstigen Anlagen im Sinne der Abs\u00e4tze 2 und 3, soweit diese Betriebe und Anlagen nach der besonderen Eigenart des Gebiets mit der Wohnnutzung vereinbar sind.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wohngeb\u00e4ude,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>L\u00e4den, Betriebe des Beherbergungsgewerbes, Schank- und Speisewirtschaften,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sonstige Gewerbebetriebe,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Gesch\u00e4fts- und B\u00fcrogeb\u00e4ude,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr zentrale Einrichtungen der Verwaltung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Vergn\u00fcgungsst\u00e4tten, soweit sie nicht wegen ihrer Zweckbestimmung oder ihres Umfangs nur in Kerngebieten allgemein zul\u00e4ssig sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Tankstellen.</LA></DD></DL></P><P>(4) F\u00fcr besondere Wohngebiete oder Teile solcher Gebiete kann, wenn besondere st\u00e4dtebauliche Gr\u00fcnde dies rechtfertigen (\u00a7 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>oberhalb eines im Bebauungsplan bestimmten Geschosses nur Wohnungen zul\u00e4ssig sind oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in Geb\u00e4uden ein im Bebauungsplan bestimmter Anteil der zul\u00e4ssigen Geschossfl\u00e4che oder eine bestimmte Gr\u00f6\u00dfe der Geschossfl\u00e4che f\u00fcr Wohnungen zu verwenden ist.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001203116",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Dorfgebiete",
+        "body": {
+          "content": "<P>(1) Dorfgebiete dienen der Unterbringung der Wirtschaftsstellen land- und forstwirtschaftlicher Betriebe, dem Wohnen und der Unterbringung von nicht wesentlich st\u00f6renden Gewerbebetrieben sowie der Versorgung der Bewohner des Gebiets dienenden Handwerksbetrieben. Auf die Belange der land- und forstwirtschaftlichen Betriebe einschlie\u00dflich ihrer Entwicklungsm\u00f6glichkeiten ist vorrangig R\u00fccksicht zu nehmen.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wirtschaftsstellen land- und forstwirtschaftlicher Betriebe und die dazugeh\u00f6rigen Wohnungen und Wohngeb\u00e4ude,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Kleinsiedlungen einschlie\u00dflich Wohngeb\u00e4ude mit entsprechenden Nutzg\u00e4rten und landwirtschaftliche Nebenerwerbsstellen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sonstige Wohngeb\u00e4ude,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Betriebe zur Be- und Verarbeitung und Sammlung land- und forstwirtschaftlicher Erzeugnisse,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Einzelhandelsbetriebe, Schank- und Speisewirtschaften sowie Betriebe des Beherbergungsgewerbes,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>sonstige Gewerbebetriebe,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr \u00f6rtliche Verwaltungen sowie f\u00fcr kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Gartenbaubetriebe,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Tankstellen.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen Vergn\u00fcgungsst\u00e4tten im Sinne des \u00a7 4a Absatz 3 Nummer 2 zugelassen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001303116",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Mischgebiete",
+        "body": {
+          "content": "<P>(1) Mischgebiete dienen dem Wohnen und der Unterbringung von Gewerbebetrieben, die das Wohnen nicht wesentlich st\u00f6ren.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wohngeb\u00e4ude,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Gesch\u00e4fts- und B\u00fcrogeb\u00e4ude,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Einzelhandelsbetriebe, Schank- und Speisewirtschaften sowie Betriebe des Beherbergungsgewerbes,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>sonstige Gewerbebetriebe,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr Verwaltungen sowie f\u00fcr kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Gartenbaubetriebe,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Tankstellen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Vergn\u00fcgungsst\u00e4tten im Sinne des \u00a7 4a Absatz 3 Nummer 2 in den Teilen des Gebiets, die \u00fcberwiegend durch gewerbliche Nutzungen gepr\u00e4gt sind.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen Vergn\u00fcgungsst\u00e4tten im Sinne des \u00a7 4a Absatz 3 Nummer 2 au\u00dferhalb der in Absatz 2 Nummer 8 bezeichneten Teile des Gebiets zugelassen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE004101116",
+        "type": "article",
+        "name": "\u00a7 6a",
+        "title": "Urbane Gebiete",
+        "body": {
+          "content": "<P>(1) Urbane Gebiete dienen dem Wohnen sowie der Unterbringung von Gewerbebetrieben und sozialen, kulturellen und anderen Einrichtungen, die die Wohnnutzung nicht wesentlich st\u00f6ren. Die Nutzungsmischung muss nicht gleichgewichtig sein.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wohngeb\u00e4ude,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Gesch\u00e4fts- und B\u00fcrogeb\u00e4ude,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Einzelhandelsbetriebe, Schank- und Speisewirtschaften sowie Betriebe des Beherbergungsgewerbes,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>sonstige Gewerbebetriebe,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr Verwaltungen sowie f\u00fcr kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Vergn\u00fcgungsst\u00e4tten, soweit sie nicht wegen ihrer Zweckbestimmung oder ihres Umfangs nur in Kerngebieten allgemein zul\u00e4ssig sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Tankstellen.</LA></DD></DL></P><P>(4) F\u00fcr urbane Gebiete oder Teile solcher Gebiete kann festgesetzt werden, dass in Geb\u00e4uden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>im Erdgeschoss an der Stra\u00dfenseite eine Wohnnutzung nicht oder nur ausnahmsweise zul\u00e4ssig ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>oberhalb eines im Bebauungsplan bestimmten Geschosses nur Wohnungen zul\u00e4ssig sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>ein im Bebauungsplan bestimmter Anteil der zul\u00e4ssigen Geschossfl\u00e4che oder eine im Bebauungsplan bestimmte Gr\u00f6\u00dfe der Geschossfl\u00e4che f\u00fcr Wohnungen zu verwenden ist, oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>ein im Bebauungsplan bestimmter Anteil der zul\u00e4ssigen Geschossfl\u00e4che oder eine im Bebauungsplan bestimmte Gr\u00f6\u00dfe der Geschossfl\u00e4che f\u00fcr gewerbliche Nutzungen zu verwenden ist.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001403116",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Kerngebiete",
+        "body": {
+          "content": "<P>(1) Kerngebiete dienen vorwiegend der Unterbringung von Handelsbetrieben sowie der zentralen Einrichtungen der Wirtschaft, der Verwaltung und der Kultur.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Gesch\u00e4fts-\u00a0, B\u00fcro- und Verwaltungsgeb\u00e4ude,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Einzelhandelsbetriebe, Schank- und Speisewirtschaften, Betriebe des Beherbergungsgewerbes und Vergn\u00fcgungsst\u00e4tten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sonstige nicht wesentlich st\u00f6rende Gewerbebetriebe,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Tankstellen im Zusammenhang mit Parkh\u00e4usern und Gro\u00dfgaragen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Wohnungen f\u00fcr Aufsichts- und Bereitschaftspersonen sowie f\u00fcr Betriebsinhaber und Betriebsleiter,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>sonstige Wohnungen nach Ma\u00dfgabe von Festsetzungen des Bebauungsplans.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Tankstellen, die nicht unter Absatz 2 Nummer 5 fallen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Wohnungen, die nicht unter Absatz 2 Nummer 6 und 7 fallen.</LA></DD></DL></P><P>(4) F\u00fcr Teile eines Kerngebiets kann, wenn besondere st\u00e4dtebauliche Gr\u00fcnde dies rechtfertigen (\u00a7 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>oberhalb eines im Bebauungsplan bestimmten Geschosses nur Wohnungen zul\u00e4ssig sind oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in Geb\u00e4uden ein im Bebauungsplan bestimmter Anteil der zul\u00e4ssigen Geschossfl\u00e4che oder eine bestimmte Gr\u00f6\u00dfe der Geschossfl\u00e4che f\u00fcr Wohnungen zu verwenden ist.</LA></DD></DL>Dies gilt auch, wenn durch solche Festsetzungen dieser Teil des Kerngebiets nicht vorwiegend der Unterbringung von Handelsbetrieben sowie der zentralen Einrichtungen der Wirtschaft, der Verwaltung und der Kultur dient.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001503116",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Gewerbegebiete",
+        "body": {
+          "content": "<P>(1) Gewerbegebiete dienen vorwiegend der Unterbringung von nicht erheblich bel\u00e4stigenden Gewerbebetrieben.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Gewerbebetriebe aller Art, Lagerh\u00e4user, Lagerpl\u00e4tze und \u00f6ffentliche Betriebe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Gesch\u00e4fts-\u00a0, B\u00fcro- und Verwaltungsgeb\u00e4ude,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Tankstellen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr sportliche Zwecke.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wohnungen f\u00fcr Aufsichts- und Bereitschaftspersonen sowie f\u00fcr Betriebsinhaber und Betriebsleiter, die dem Gewerbebetrieb zugeordnet und ihm gegen\u00fcber in Grundfl\u00e4che und Baumasse untergeordnet sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr kirchliche, kulturelle, soziale und gesundheitliche Zwecke,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Vergn\u00fcgungsst\u00e4tten.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001603116",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Industriegebiete",
+        "body": {
+          "content": "<P>(1) Industriegebiete dienen ausschlie\u00dflich der Unterbringung von Gewerbebetrieben, und zwar vorwiegend solcher Betriebe, die in anderen Baugebieten unzul\u00e4ssig sind.</P><P>(2) Zul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Gewerbebetriebe aller Art, Lagerh\u00e4user, Lagerpl\u00e4tze und \u00f6ffentliche Betriebe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Tankstellen.</LA></DD></DL></P><P>(3) Ausnahmsweise k\u00f6nnen zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wohnungen f\u00fcr Aufsichts- und Bereitschaftspersonen sowie f\u00fcr Betriebsinhaber und Betriebsleiter, die dem Gewerbebetrieb zugeordnet und ihm gegen\u00fcber in Grundfl\u00e4che und Baumasse untergeordnet sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Anlagen f\u00fcr kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001702116",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Sondergebiete, die der Erholung dienen",
+        "body": {
+          "content": "<P>(1) Als Sondergebiete, die der Erholung dienen, kommen insbesondere in Betracht<BR/>Wochenendhausgebiete,<BR/>Ferienhausgebiete,<BR/>Campingplatzgebiete.</P><P>(2) F\u00fcr Sondergebiete, die der Erholung dienen, sind die Zweckbestimmung und die Art der Nutzung darzustellen und festzusetzen. Im Bebauungsplan kann festgesetzt werden, dass bestimmte, der Eigenart des Gebiets entsprechende Anlagen und Einrichtungen zur Versorgung des Gebiets und f\u00fcr sportliche Zwecke allgemein zul\u00e4ssig sind oder ausnahmsweise zugelassen werden k\u00f6nnen.</P><P>(3) In Wochenendhausgebieten sind Wochenendh\u00e4user als Einzelh\u00e4user zul\u00e4ssig. Im Bebauungsplan kann festgesetzt werden, dass Wochenendh\u00e4user nur als Hausgruppen zul\u00e4ssig sind oder ausnahmsweise als Hausgruppen zugelassen werden k\u00f6nnen. Die zul\u00e4ssige Grundfl\u00e4che der Wochenendh\u00e4user ist im Bebauungsplan, begrenzt nach der besonderen Eigenart des Gebiets, unter Ber\u00fccksichtigung der landschaftlichen Gegebenheiten festzusetzen.</P><P>(4) In Ferienhausgebieten sind Ferienh\u00e4user zul\u00e4ssig, die aufgrund ihrer Lage, Gr\u00f6\u00dfe, Ausstattung, Erschlie\u00dfung und Versorgung f\u00fcr den Erholungsaufenthalt geeignet und dazu bestimmt sind, \u00fcberwiegend und auf Dauer einem wechselnden Personenkreis zur Erholung zu dienen. Im Bebauungsplan kann die Grundfl\u00e4che der Ferienh\u00e4user, begrenzt nach der besonderen Eigenart des Gebiets, unter Ber\u00fccksichtigung der landschaftlichen Gegebenheiten festgesetzt werden.</P><P>(5) In Campingplatzgebieten sind Campingpl\u00e4tze und Zeltpl\u00e4tze zul\u00e4ssig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001805116",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Sonstige Sondergebiete",
+        "body": {
+          "content": "<P>(1) Als sonstige Sondergebiete sind solche Gebiete darzustellen und festzusetzen, die sich von den Baugebieten nach den \u00a7\u00a7 2 bis 10 wesentlich unterscheiden.</P><P>(2) F\u00fcr sonstige Sondergebiete sind die Zweckbestimmung und die Art der Nutzung darzustellen und festzusetzen. Als sonstige Sondergebiete kommen insbesondere in Betracht<BR/>Gebiete f\u00fcr den Fremdenverkehr, wie Kurgebiete und Gebiete f\u00fcr die Fremdenbeherbergung, auch mit einer Mischung von Fremdenbeherbergung oder Ferienwohnen einerseits sowie Dauerwohnen andererseits,<BR/>Ladengebiete,<BR/>Gebiete f\u00fcr Einkaufszentren und gro\u00dffl\u00e4chige Handelsbetriebe,<BR/>Gebiete f\u00fcr Messen, Ausstellungen und Kongresse,<BR/>Hochschulgebiete,<BR/>Klinikgebiete,<BR/>Hafengebiete,<BR/>Gebiete f\u00fcr Anlagen, die der Erforschung, Entwicklung oder Nutzung erneuerbarer Energien, wie Wind- und Sonnenenergie, dienen.</P><P>(3) <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einkaufszentren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">gro\u00dffl\u00e4chige Einzelhandelsbetriebe, die sich nach Art, Lage oder Umfang auf die Verwirklichung der Ziele der Raumordnung und Landesplanung oder auf die st\u00e4dtebauliche Entwicklung und Ordnung nicht nur unwesentlich auswirken k\u00f6nnen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige gro\u00dffl\u00e4chige Handelsbetriebe, die im Hinblick auf den Verkauf an letzte Verbraucher und auf die Auswirkungen den in Nummer 2 bezeichneten Einzelhandelsbetrieben vergleichbar sind,</LA></DD></DL>sind au\u00dfer in Kerngebieten nur in f\u00fcr sie festgesetzten Sondergebieten zul\u00e4ssig. Auswirkungen im Sinne des Satzes 1 Nummer 2 und 3 sind insbesondere sch\u00e4dliche Umwelteinwirkungen im Sinne des \u00a7 3 des Bundes-Immissionsschutzgesetzes sowie Auswirkungen auf die infrastrukturelle Ausstattung, auf den Verkehr, auf die Versorgung der Bev\u00f6lkerung im Einzugsbereich der in Satz 1 bezeichneten Betriebe, auf die Entwicklung zentraler Versorgungsbereiche in der Gemeinde oder in anderen Gemeinden, auf das Orts- und Landschaftsbild und auf den Naturhaushalt. Auswirkungen im Sinne des Satzes 2 sind bei Betrieben nach Satz 1 Nummer 2 und 3 in der Regel anzunehmen, wenn die Geschossfl\u00e4che 1\u00a0200 m<SUP>2</SUP> \u00fcberschreitet. Die Regel des Satzes 3 gilt nicht, wenn Anhaltspunkte daf\u00fcr bestehen, dass Auswirkungen bereits bei weniger als 1\u00a0200 m<SUP>2</SUP> Geschossfl\u00e4che vorliegen oder bei mehr als 1\u00a0200 m<SUP>2</SUP> Geschossfl\u00e4che nicht vorliegen; dabei sind in Bezug auf die in Satz 2 bezeichneten Auswirkungen insbesondere die Gliederung und Gr\u00f6\u00dfe der Gemeinde und ihrer Ortsteile, die Sicherung der verbrauchernahen Versorgung der Bev\u00f6lkerung und das Warenangebot des Betriebs zu ber\u00fccksichtigen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE001903116",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Stellpl\u00e4tze und Garagen",
+        "body": {
+          "content": "<P>(1) Stellpl\u00e4tze und Garagen sind in allen Baugebieten zul\u00e4ssig, soweit sich aus den Abs\u00e4tzen 2 bis 6 nichts anderes ergibt.</P><P>(2) In Kleinsiedlungsgebieten, reinen Wohngebieten und allgemeinen Wohngebieten sowie Sondergebieten, die der Erholung dienen, sind Stellpl\u00e4tze und Garagen nur f\u00fcr den durch die zugelassene Nutzung verursachten Bedarf zul\u00e4ssig.</P><P>(3) Unzul\u00e4ssig sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Stellpl\u00e4tze und Garagen f\u00fcr Lastkraftwagen und Kraftomnibusse sowie f\u00fcr Anh\u00e4nger dieser Kraftfahrzeuge in reinen Wohngebieten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Stellpl\u00e4tze und Garagen f\u00fcr Kraftfahrzeuge mit einem Eigengewicht \u00fcber 3,5 Tonnen sowie f\u00fcr Anh\u00e4nger dieser Kraftfahrzeuge in Kleinsiedlungsgebieten und allgemeinen Wohngebieten.</LA></DD></DL></P><P>(4) Im Bebauungsplan kann, wenn besondere st\u00e4dtebauliche Gr\u00fcnde dies rechtfertigen (\u00a7 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass in bestimmten Geschossen nur Stellpl\u00e4tze oder Garagen und zugeh\u00f6rige Nebeneinrichtungen (Garagengeschosse) zul\u00e4ssig sind. Eine Festsetzung nach Satz 1 kann auch f\u00fcr Geschosse unterhalb der Gel\u00e4ndeoberfl\u00e4che getroffen werden. Bei Festsetzungen nach den S\u00e4tzen 1 und 2 sind Stellpl\u00e4tze und Garagen auf dem Grundst\u00fcck nur in den festgesetzten Geschossen zul\u00e4ssig, soweit der Bebauungsplan nichts anderes bestimmt.</P><P>(5) Im Bebauungsplan kann, wenn besondere st\u00e4dtebauliche Gr\u00fcnde dies rechtfertigen (\u00a7 9 Absatz 3 des Baugesetzbuchs), festgesetzt werden, dass in Teilen von Geschossen nur Stellpl\u00e4tze und Garagen zul\u00e4ssig sind. Absatz 4 Satz 2 und 3 gilt entsprechend.</P><P>(6) Im Bebauungsplan kann festgesetzt werden, dass in Baugebieten oder bestimmten Teilen von Baugebieten Stellpl\u00e4tze und Garagen unzul\u00e4ssig oder nur in beschr\u00e4nktem Umfang zul\u00e4ssig sind, soweit landesrechtliche Vorschriften nicht entgegenstehen.</P><P>(7) Die landesrechtlichen Vorschriften \u00fcber die Abl\u00f6sung der Verpflichtung zur Herstellung von Stellpl\u00e4tzen und Garagen sowie die Verpflichtung zur Herstellung von Stellpl\u00e4tzen und Garagen au\u00dferhalb der im Bebauungsplan festgesetzten Bereiche bleiben bei Festsetzungen nach den Abs\u00e4tzen 4 bis 6 unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002002116",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Geb\u00e4ude und R\u00e4ume f\u00fcr freie Berufe",
+        "body": {
+          "content": "<P>F\u00fcr die Berufsaus\u00fcbung freiberuflich T\u00e4tiger und solcher Gewerbetreibender, die ihren Beruf in \u00e4hnlicher Art aus\u00fcben, sind in den Baugebieten nach den \u00a7\u00a7 2 bis 4 R\u00e4ume, in den Baugebieten nach den \u00a7\u00a7 4a bis 9 auch Geb\u00e4ude zul\u00e4ssig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE004201116",
+        "type": "article",
+        "name": "\u00a7 13a",
+        "title": "Ferienwohnungen",
+        "body": {
+          "content": "<P>R\u00e4ume oder Geb\u00e4ude, die einem st\u00e4ndig wechselnden Kreis von G\u00e4sten gegen Entgelt vor\u00fcbergehend zur Unterkunft zur Verf\u00fcgung gestellt werden und die zur Begr\u00fcndung einer eigenen H\u00e4uslichkeit geeignet und bestimmt sind (Ferienwohnungen), geh\u00f6ren unbeschadet des \u00a7 10 in der Regel zu den nicht st\u00f6renden Gewerbebetrieben nach \u00a7 2 Absatz 3 Nummer 4 und \u00a7 4 Absatz 3 Nummer 2 oder zu den Gewerbebetrieben nach \u00a7 4a Absatz 2 Nummer 3, \u00a7 5 Absatz 2 Nummer 6, \u00a7 6 Absatz 2 Nummer 4, \u00a7 6a Absatz 2 Nummer 4 und \u00a7 7 Absatz 2 Nummer 3. Abweichend von Satz 1 k\u00f6nnen R\u00e4ume nach Satz 1 in den \u00fcbrigen F\u00e4llen insbesondere bei einer baulich untergeordneten Bedeutung gegen\u00fcber der in dem Geb\u00e4ude vorherrschenden Hauptnutzung zu den Betrieben des Beherbergungsgewerbes nach \u00a7 4 Absatz 3 Nummer 1, \u00a7 4a Absatz 2 Nummer 2, \u00a7 5 Absatz 2 Nummer 5, \u00a7 6 Absatz 2 Nummer 3, \u00a7 6a Absatz 2 Nummer 3 und \u00a7 7 Absatz 2 Nummer 2 oder zu den kleinen Betrieben des Beherbergungsgewerbes nach \u00a7 3 Absatz 3 Nummer 1 geh\u00f6ren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002104116",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-W\u00e4rme-Kopplungsanlagen",
+        "body": {
+          "content": "<P>(1) Au\u00dfer den in den \u00a7\u00a7 2 bis 13 genannten Anlagen sind auch untergeordnete Nebenanlagen und Einrichtungen zul\u00e4ssig, die dem Nutzungszweck der in dem Baugebiet gelegenen Grundst\u00fccke oder des Baugebiets selbst dienen und die seiner Eigenart nicht widersprechen. Soweit nicht bereits in den Baugebieten nach dieser Verordnung Einrichtungen und Anlagen f\u00fcr die Tierhaltung, einschlie\u00dflich der Kleintiererhaltungszucht, zul\u00e4ssig sind, geh\u00f6ren zu den untergeordneten Nebenanlagen und Einrichtungen im Sinne des Satzes 1 auch solche f\u00fcr die Kleintierhaltung. Im Bebauungsplan kann die Zul\u00e4ssigkeit der Nebenanlagen und Einrichtungen eingeschr\u00e4nkt oder ausgeschlossen werden.</P><P>(2) Die der Versorgung der Baugebiete mit Elektrizit\u00e4t, Gas, W\u00e4rme und Wasser sowie zur Ableitung von Abwasser dienenden Nebenanlagen k\u00f6nnen in den Baugebieten als Ausnahme zugelassen werden, auch soweit f\u00fcr sie im Bebauungsplan keine besonderen Fl\u00e4chen festgesetzt sind. Dies gilt auch f\u00fcr fernmeldetechnische Nebenanlagen sowie f\u00fcr Anlagen f\u00fcr erneuerbare Energien, soweit nicht Absatz 1 Satz 1 Anwendung findet.</P><P>(3) Soweit baulich untergeordnete Anlagen zur Nutzung solarer Strahlungsenergie in, an oder auf Dach- und Au\u00dfenwandfl\u00e4chen oder Kraft-W\u00e4rme-Kopplungsanlagen innerhalb von Geb\u00e4uden nicht bereits nach den \u00a7\u00a7 2 bis 13 zul\u00e4ssig sind, gelten sie auch dann als Anlagen im Sinne des Absatzes 1 Satz 1, wenn die erzeugte Energie vollst\u00e4ndig oder \u00fcberwiegend in das \u00f6ffentliche Netz eingespeist wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002203116",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Allgemeine Voraussetzungen f\u00fcr die Zul\u00e4ssigkeit baulicher und sonstiger Anlagen",
+        "body": {
+          "content": "<P>(1) Die in den \u00a7\u00a7 2 bis 14 aufgef\u00fchrten baulichen und sonstigen Anlagen sind im Einzelfall unzul\u00e4ssig, wenn sie nach Anzahl, Lage, Umfang oder Zweckbestimmung der Eigenart des Baugebiets widersprechen. Sie sind auch unzul\u00e4ssig, wenn von ihnen Bel\u00e4stigungen oder St\u00f6rungen ausgehen k\u00f6nnen, die nach der Eigenart des Baugebiets im Baugebiet selbst oder in dessen Umgebung unzumutbar sind, oder wenn sie solchen Bel\u00e4stigungen oder St\u00f6rungen ausgesetzt werden.</P><P>(2) Die Anwendung des Absatzes 1 hat nach den st\u00e4dtebaulichen Zielen und Grunds\u00e4tzen des \u00a7 1 Absatz 5 des Baugesetzbuchs zu erfolgen.</P><P>(3) Die Zul\u00e4ssigkeit der Anlagen in den Baugebieten ist nicht allein nach den verfahrensrechtlichen Einordnungen des Bundes-Immissionsschutzgesetzes und der auf seiner Grundlage erlassenen Verordnungen zu beurteilen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000102116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNG000202116",
+        "type": "heading",
+        "name": "Zweiter Abschnitt",
+        "title": "Ma\u00df der baulichen Nutzung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR004290962BJNE002303116",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Bestimmung des Ma\u00dfes der baulichen Nutzung",
+        "body": {
+          "content": "<P>(1) Wird im Fl\u00e4chennutzungsplan das allgemeine Ma\u00df der baulichen Nutzung dargestellt, gen\u00fcgt die Angabe der Geschossfl\u00e4chenzahl, der Baumassenzahl oder der H\u00f6he baulicher Anlagen.</P><P>(2) Im Bebauungsplan kann das Ma\u00df der baulichen Nutzung bestimmt werden durch Festsetzung <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Grundfl\u00e4chenzahl oder der Gr\u00f6\u00dfe der Grundfl\u00e4chen der baulichen Anlagen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Geschossfl\u00e4chenzahl oder der Gr\u00f6\u00dfe der Geschossfl\u00e4che, der Baumassenzahl oder der Baumasse,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Zahl der Vollgeschosse,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der H\u00f6he baulicher Anlagen.</LA></DD></DL></P><P>(3) Bei Festsetzung des Ma\u00dfes der baulichen Nutzung im Bebauungsplan ist festzusetzen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>stets die Grundfl\u00e4chenzahl oder die Gr\u00f6\u00dfe der Grundfl\u00e4chen der baulichen Anlagen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Zahl der Vollgeschosse oder die H\u00f6he baulicher Anlagen, wenn ohne ihre Festsetzung \u00f6ffentliche Belange, insbesondere das Orts- und Landschaftsbild, beeintr\u00e4chtigt werden k\u00f6nnen.</LA></DD></DL></P><P>(4) Bei Festsetzung des H\u00f6chstma\u00dfes f\u00fcr die Geschossfl\u00e4chenzahl oder die Gr\u00f6\u00dfe der Geschossfl\u00e4che, f\u00fcr die Zahl der Vollgeschosse und die H\u00f6he baulicher Anlagen im Bebauungsplan kann zugleich ein Mindestma\u00df festgesetzt werden. Die Zahl der Vollgeschosse und die H\u00f6he baulicher Anlagen k\u00f6nnen auch als zwingend festgesetzt werden.</P><P>(5) Im Bebauungsplan kann das Ma\u00df der baulichen Nutzung f\u00fcr Teile des Baugebiets, f\u00fcr einzelne Grundst\u00fccke oder Grundst\u00fccksteile und f\u00fcr Teile baulicher Anlagen unterschiedlich festgesetzt werden; die Festsetzungen k\u00f6nnen oberhalb und unterhalb der Gel\u00e4ndeoberfl\u00e4che getroffen werden.</P><P>(6) Im Bebauungsplan k\u00f6nnen nach Art und Umfang bestimmte Ausnahmen von dem festgesetzten Ma\u00df der baulichen Nutzung vorgesehen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000202116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002405116",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Obergrenzen f\u00fcr die Bestimmung des Ma\u00dfes der baulichen Nutzung",
+        "body": {
+          "content": "<P>(1) Bei der Bestimmung des Ma\u00dfes der baulichen Nutzung nach \u00a7 16 d\u00fcrfen, auch wenn eine Geschossfl\u00e4chenzahl oder eine Baumassenzahl nicht dargestellt oder festgesetzt wird, folgende Obergrenzen nicht \u00fcberschritten werden: <BR/><BR/><table colsep=\"0\" frame=\"all\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"5\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"3.5*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"28*\"/><colspec align=\"center\" colname=\"col3\" colnum=\"3\" colwidth=\"10.00*\"/><colspec align=\"center\" colname=\"col4\" colnum=\"4\" colwidth=\"10.00*\"/><colspec align=\"center\" colname=\"col5\" colnum=\"5\" colwidth=\"10.00*\"/><thead valign=\"bottom\"><row rowsep=\"1\" valign=\"middle\"><entry VJ=\"1\" align=\"center\" colname=\"col1\" nameend=\"col2\" namest=\"col1\">1</entry><entry VJ=\"1\" colname=\"col3\">2</entry><entry VJ=\"1\" colname=\"col4\">3</entry><entry VJ=\"1\" colname=\"col5\">4</entry></row><row rowsep=\"1\" valign=\"middle\"><entry VJ=\"1\" align=\"center\" colname=\"col1\" nameend=\"col2\" namest=\"col1\">Baugebiet</entry><entry VJ=\"1\" colname=\"col3\">Grund-<BR/> fl\u00e4chen-<BR/> zahl<BR/> (GRZ)</entry><entry VJ=\"1\" colname=\"col4\">Geschoss-<BR/> fl\u00e4chen-<BR/> zahl<BR/> (GFZ)</entry><entry VJ=\"1\" colname=\"col5\">Bau-<BR/> massen-<BR/> zahl<BR/> (BMZ)</entry></row></thead><tbody valign=\"top\"><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">in</entry><entry VJ=\"1\" colname=\"col2\">Kleinsiedlungsgebieten (WS)</entry><entry VJ=\"1\" colname=\"col3\"><BR/> 0,2</entry><entry VJ=\"1\" colname=\"col4\"><BR/> 0,4</entry><entry VJ=\"1\" colname=\"col5\"><BR/> \u2013</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">in</entry><entry VJ=\"1\" colname=\"col2\">reinen Wohngebieten (WR)<BR/>allgem. Wohngebieten (WA)<BR/>Ferienhausgebieten</entry><entry VJ=\"1\" colname=\"col3\"><BR/><BR/><BR/><BR/>0,4</entry><entry VJ=\"1\" colname=\"col4\"><BR/><BR/><BR/><BR/>1,2</entry><entry VJ=\"1\" colname=\"col5\"><BR/><BR/><BR/><BR/>\u2013</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">in</entry><entry VJ=\"1\" colname=\"col2\">besonderen<BR/> Wohngebieten (WB)</entry><entry VJ=\"1\" colname=\"col3\"><BR/> 0,6</entry><entry VJ=\"1\" colname=\"col4\"><BR/> 1,6</entry><entry VJ=\"1\" colname=\"col5\"><BR/> \u2013</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">in</entry><entry VJ=\"1\" colname=\"col2\">Dorfgebieten (MD)<BR/>Mischgebieten (MI)</entry><entry VJ=\"1\" colname=\"col3\"><BR/>0,6</entry><entry VJ=\"1\" colname=\"col4\"><BR/>1,2</entry><entry VJ=\"1\" colname=\"col5\"><BR/>\u2013</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">in</entry><entry VJ=\"1\" colname=\"col2\">urbanen Gebieten (MU)</entry><entry VJ=\"1\" colname=\"col3\">0,8</entry><entry VJ=\"1\" colname=\"col4\">3,0</entry><entry VJ=\"1\" colname=\"col5\">\u2013</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">in</entry><entry VJ=\"1\" colname=\"col2\">Kerngebieten (MK)</entry><entry VJ=\"1\" colname=\"col3\">1,0</entry><entry VJ=\"1\" colname=\"col4\">3,0</entry><entry VJ=\"1\" colname=\"col5\">\u2013</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">in</entry><entry VJ=\"1\" colname=\"col2\">Gewerbegebieten (GE)<BR/>Industriegebieten (GI)<BR/>sonstigen<BR/> Sondergebieten</entry><entry VJ=\"1\" colname=\"col3\"><BR/><BR/><BR/>0,8</entry><entry VJ=\"1\" colname=\"col4\"><BR/><BR/><BR/>2,4</entry><entry VJ=\"1\" colname=\"col5\"><BR/><BR/><BR/>10,0</entry></row><row><entry VJ=\"1\" colname=\"col1\">in</entry><entry VJ=\"1\" colname=\"col2\">Wochenendhausgebieten</entry><entry VJ=\"1\" colname=\"col3\"><BR/> 0,2</entry><entry VJ=\"1\" colname=\"col4\"><BR/> 0,2</entry><entry VJ=\"1\" colname=\"col5\"><BR/> \u2013</entry></row></tbody></tgroup></table></P><P>(2) Die Obergrenzen des Absatzes 1 k\u00f6nnen aus st\u00e4dtebaulichen Gr\u00fcnden \u00fcberschritten werden, wenn die \u00dcberschreitung durch Umst\u00e4nde ausgeglichen ist oder durch Ma\u00dfnahmen ausgeglichen wird, durch die sichergestellt ist, dass die allgemeinen Anforderungen an gesunde Wohn- und Arbeitsverh\u00e4ltnisse nicht beeintr\u00e4chtigt werden und nachteilige Auswirkungen auf die Umwelt vermieden werden. Dies gilt nicht f\u00fcr Wochenendhausgebiete und Ferienhausgebiete.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000202116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002503116",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "H\u00f6he baulicher Anlagen",
+        "body": {
+          "content": "<P>(1) Bei Festsetzung der H\u00f6he baulicher Anlagen sind die erforderlichen Bezugspunkte zu bestimmen.</P><P>(2) Ist die H\u00f6he baulicher Anlagen als zwingend festgesetzt (\u00a7 16 Absatz 4 Satz 2), k\u00f6nnen geringf\u00fcgige Abweichungen zugelassen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000202116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002603116",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Grundfl\u00e4chenzahl, zul\u00e4ssige Grundfl\u00e4che",
+        "body": {
+          "content": "<P>(1) Die Grundfl\u00e4chenzahl gibt an, wieviel Quadratmeter Grundfl\u00e4che je Quadratmeter Grundst\u00fccksfl\u00e4che im Sinne des Absatzes 3 zul\u00e4ssig sind.</P><P>(2) Zul\u00e4ssige Grundfl\u00e4che ist der nach Absatz 1 errechnete Anteil des Baugrundst\u00fccks, der von baulichen Anlagen \u00fcberdeckt werden darf.</P><P>(3) F\u00fcr die Ermittlung der zul\u00e4ssigen Grundfl\u00e4che ist die Fl\u00e4che des Baugrundst\u00fccks ma\u00dfgebend, die im Bauland und hinter der im Bebauungsplan festgesetzten Stra\u00dfenbegrenzungslinie liegt. Ist eine Stra\u00dfenbegrenzungslinie nicht festgesetzt, so ist die Fl\u00e4che des Baugrundst\u00fccks ma\u00dfgebend, die hinter der tats\u00e4chlichen Stra\u00dfengrenze liegt oder die im Bebauungsplan als ma\u00dfgebend f\u00fcr die Ermittlung der zul\u00e4ssigen Grundfl\u00e4che festgesetzt ist.</P><P>(4) Bei der Ermittlung der Grundfl\u00e4che sind die Grundfl\u00e4chen von <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Garagen und Stellpl\u00e4tzen mit ihren Zufahrten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Nebenanlagen im Sinne des \u00a7 14,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>baulichen Anlagen unterhalb der Gel\u00e4ndeoberfl\u00e4che, durch die das Baugrundst\u00fcck lediglich unterbaut wird,</LA></DD></DL>mitzurechnen. Die zul\u00e4ssige Grundfl\u00e4che darf durch die Grundfl\u00e4chen der in Satz 1 bezeichneten Anlagen bis zu 50 vom Hundert \u00fcberschritten werden, h\u00f6chstens jedoch bis zu einer Grundfl\u00e4chenzahl von 0,8; weitere \u00dcberschreitungen in geringf\u00fcgigem Ausma\u00df k\u00f6nnen zugelassen werden. Im Bebauungsplan k\u00f6nnen von Satz 2 abweichende Bestimmungen getroffen werden. Soweit der Bebauungsplan nichts anderes festsetzt, kann im Einzelfall von der Einhaltung der sich aus Satz 2 ergebenden Grenzen abgesehen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei \u00dcberschreitungen mit geringf\u00fcgigen Auswirkungen auf die nat\u00fcrlichen Funktionen des Bodens oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>wenn die Einhaltung der Grenzen zu einer wesentlichen Erschwerung der zweckentsprechenden Grundst\u00fccksnutzung f\u00fchren w\u00fcrde.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000202116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002703116",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Vollgeschosse, Geschossfl\u00e4chenzahl, Geschossfl\u00e4che",
+        "body": {
+          "content": "<P>(1) Als Vollgeschosse gelten Geschosse, die nach landesrechtlichen Vorschriften Vollgeschosse sind oder auf ihre Zahl angerechnet werden.</P><P>(2) Die Geschossfl\u00e4chenzahl gibt an, wieviel Quadratmeter Geschossfl\u00e4che je Quadratmeter Grundst\u00fccksfl\u00e4che im Sinne des \u00a7 19 Absatz 3 zul\u00e4ssig sind.</P><P>(3) Die Geschossfl\u00e4che ist nach den Au\u00dfenma\u00dfen der Geb\u00e4ude in allen Vollgeschossen zu ermitteln. Im Bebauungsplan kann festgesetzt werden, dass die Fl\u00e4chen von Aufenthaltsr\u00e4umen in anderen Geschossen einschlie\u00dflich der zu ihnen geh\u00f6renden Treppenr\u00e4ume und einschlie\u00dflich ihrer Umfassungsw\u00e4nde ganz oder teilweise mitzurechnen oder ausnahmsweise nicht mitzurechnen sind.</P><P>(4) Bei der Ermittlung der Geschossfl\u00e4che bleiben Nebenanlagen im Sinne des \u00a7 14, Balkone, Loggien, Terrassen sowie bauliche Anlagen, soweit sie nach Landesrecht in den Abstandsfl\u00e4chen (seitlicher Grenzabstand und sonstige Abstandsfl\u00e4chen) zul\u00e4ssig sind oder zugelassen werden k\u00f6nnen, unber\u00fccksichtigt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000202116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002803116",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Baumassenzahl, Baumasse",
+        "body": {
+          "content": "<P>(1) Die Baumassenzahl gibt an, wieviel Kubikmeter Baumasse je Quadratmeter Grundst\u00fccksfl\u00e4che im Sinne des \u00a7 19 Absatz 3 zul\u00e4ssig sind.</P><P>(2) Die Baumasse ist nach den Au\u00dfenma\u00dfen der Geb\u00e4ude vom Fu\u00dfboden des untersten Vollgeschosses bis zur Decke des obersten Vollgeschosses zu ermitteln. Die Baumassen von Aufenthaltsr\u00e4umen in anderen Geschossen einschlie\u00dflich der zu ihnen geh\u00f6renden Treppenr\u00e4ume und einschlie\u00dflich ihrer Umfassungsw\u00e4nde und Decken sind mitzurechnen. Bei baulichen Anlagen, bei denen eine Berechnung der Baumasse nach Satz 1 nicht m\u00f6glich ist, ist die tats\u00e4chliche Baumasse zu ermitteln.</P><P>(3) Bauliche Anlagen und Geb\u00e4udeteile im Sinne des \u00a7 20 Absatz 4 bleiben bei der Ermittlung der Baumasse unber\u00fccksichtigt.</P><P>(4) Ist im Bebauungsplan die H\u00f6he baulicher Anlagen oder die Baumassenzahl nicht festgesetzt, darf bei Geb\u00e4uden, die Geschosse von mehr als 3,50 m H\u00f6he haben, eine Baumassenzahl, die das Dreieinhalbfache der zul\u00e4ssigen Geschossfl\u00e4chenzahl betr\u00e4gt, nicht \u00fcberschritten werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000202116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE002903116",
+        "type": "article",
+        "name": "\u00a7 21a",
+        "title": "Stellpl\u00e4tze, Garagen und Gemeinschaftsanlagen",
+        "body": {
+          "content": "<P>(1) Garagengeschosse oder ihre Baumasse sind in sonst anders genutzten Geb\u00e4uden auf die Zahl der zul\u00e4ssigen Vollgeschosse oder auf die zul\u00e4ssige Baumasse nicht anzurechnen, wenn der Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.</P><P>(2) Der Grundst\u00fccksfl\u00e4che im Sinne des \u00a7 19 Absatz 3 sind Fl\u00e4chenanteile an au\u00dferhalb des Baugrundst\u00fccks festgesetzten Gemeinschaftsanlagen im Sinne des \u00a7 9 Absatz 1 Nummer 22 des Baugesetzbuchs hinzuzurechnen, wenn der Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.</P><P>(3) Soweit \u00a7 19 Absatz 4 nicht entgegensteht, ist eine \u00dcberschreitung der zul\u00e4ssigen Grundfl\u00e4che durch \u00fcberdachte Stellpl\u00e4tze und Garagen bis zu 0,1 der Fl\u00e4che des Baugrundst\u00fccks zul\u00e4ssig; eine weitergehende \u00dcberschreitung kann ausnahmsweise zugelassen werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>in Kerngebieten, Gewerbegebieten und Industriegebieten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in anderen Baugebieten, soweit solche Anlagen nach \u00a7 9 Absatz 1 Nummer 4 des Baugesetzbuchs im Bebauungsplan festgesetzt sind.</LA></DD></DL></P><P>(4) Bei der Ermittlung der Geschossfl\u00e4che oder der Baumasse bleiben unber\u00fccksichtigt die Fl\u00e4chen oder Baumassen von <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Garagengeschossen, die nach Absatz 1 nicht angerechnet werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Stellpl\u00e4tzen und Garagen, deren Grundfl\u00e4chen die zul\u00e4ssige Grundfl\u00e4che unter den Voraussetzungen des Absatzes 3 \u00fcberschreiten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Stellpl\u00e4tzen und Garagen in Vollgeschossen, wenn der Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.</LA></DD></DL></P><P>(5) Die zul\u00e4ssige Geschossfl\u00e4che oder die zul\u00e4ssige Baumasse ist um die Fl\u00e4chen oder Baumassen notwendiger Garagen, die unter der Gel\u00e4ndeoberfl\u00e4che hergestellt werden, insoweit zu erh\u00f6hen, als der Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000202116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNG000302116",
+        "type": "heading",
+        "name": "Dritter Abschnitt",
+        "title": "Bauweise, \u00fcberbaubare Grundst\u00fccksfl\u00e4che",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR004290962BJNE003003116",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "Bauweise",
+        "body": {
+          "content": "<P>(1) Im Bebauungsplan kann die Bauweise als offene oder geschlossene Bauweise festgesetzt werden.</P><P>(2) In der offenen Bauweise werden die Geb\u00e4ude mit seitlichem Grenzabstand als Einzelh\u00e4user, Doppelh\u00e4user oder Hausgruppen errichtet. Die L\u00e4nge der in Satz 1 bezeichneten Hausformen darf h\u00f6chstens 50 m betragen. Im Bebauungsplan k\u00f6nnen Fl\u00e4chen festgesetzt werden, auf denen nur Einzelh\u00e4user, nur Doppelh\u00e4user, nur Hausgruppen oder nur zwei dieser Hausformen zul\u00e4ssig sind.</P><P>(3) In der geschlossenen Bauweise werden die Geb\u00e4ude ohne seitlichen Grenzabstand errichtet, es sei denn, dass die vorhandene Bebauung eine Abweichung erfordert.</P><P>(4) Im Bebauungsplan kann eine von Absatz 1 abweichende Bauweise festgesetzt werden. Dabei kann auch festgesetzt werden, inwieweit an die vorderen, r\u00fcckw\u00e4rtigen und seitlichen Grundst\u00fccksgrenzen herangebaut werden darf oder muss.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000302116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE003103116",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "\u00dcberbaubare Grundst\u00fccksfl\u00e4che",
+        "body": {
+          "content": "<P>(1) Die \u00fcberbaubaren Grundst\u00fccksfl\u00e4chen k\u00f6nnen durch die Festsetzung von Baulinien, Baugrenzen oder Bebauungstiefen bestimmt werden. \u00a7 16 Absatz 5 ist entsprechend anzuwenden.</P><P>(2) Ist eine Baulinie festgesetzt, so muss auf dieser Linie gebaut werden. Ein Vor- oder Zur\u00fccktreten von Geb\u00e4udeteilen in geringf\u00fcgigem Ausma\u00df kann zugelassen werden. Im Bebauungsplan k\u00f6nnen weitere nach Art und Umfang bestimmte Ausnahmen vorgesehen werden.</P><P>(3) Ist eine Baugrenze festgesetzt, so d\u00fcrfen Geb\u00e4ude und Geb\u00e4udeteile diese nicht \u00fcberschreiten. Ein Vortreten von Geb\u00e4udeteilen in geringf\u00fcgigem Ausma\u00df kann zugelassen werden. Absatz 2 Satz 3 gilt entsprechend.</P><P>(4) Ist eine Bebauungstiefe festgesetzt, so gilt Absatz 3 entsprechend. Die Bebauungstiefe ist von der tats\u00e4chlichen Stra\u00dfengrenze ab zu ermitteln, sofern im Bebauungsplan nichts anderes festgesetzt ist.</P><P>(5) Wenn im Bebauungsplan nichts anderes festgesetzt ist, k\u00f6nnen auf den nicht \u00fcberbaubaren Grundst\u00fccksfl\u00e4chen Nebenanlagen im Sinne des \u00a7 14 zugelassen werden. Das Gleiche gilt f\u00fcr bauliche Anlagen, soweit sie nach Landesrecht in den Abstandsfl\u00e4chen zul\u00e4ssig sind oder zugelassen werden k\u00f6nnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000302116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNG000402116",
+        "type": "heading",
+        "name": "Vierter Abschnitt",
+        "title": "",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR004290962BJNE003203116",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000402116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNG000502116",
+        "type": "heading",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "\u00dcberleitungs- und Schlussvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR004290962BJNE003302116",
+        "type": "article",
+        "name": "\u00a7 25",
+        "title": "Fortf\u00fchrung eingeleiteter Verfahren<FnR ID=\"f800128_01_BJNR004290962BJNE003302116\"/>",
+        "body": {
+          "content": "<P>F\u00fcr Bauleitpl\u00e4ne, deren Aufstellung oder \u00c4nderung bereits eingeleitet ist, sind die dieser Verordnung entsprechenden bisherigen Vorschriften weiterhin anzuwenden, wenn die Pl\u00e4ne bei dem Inkrafttreten dieser Verordnung bereits ausgelegt sind.</P>",
+          "footnotes": "<Footnote FnZ=\"*\" Group=\"manuell\" ID=\"f800128_01_BJNR004290962BJNE003302116\" Pos=\"normal\">Diese Vorschrift betrifft die Fortf\u00fchrung eingeleiteter Verfahren bei Inkrafttreten der Baunutzungsverordnung (1. August 1962) in der urspr\u00fcnglichen Fassung vom 26. Juni 1962 (BGBl. I S. 429). F\u00fcr die Fortf\u00fchrung eingeleiteter Verfahren bei Inkrafttreten der \u00c4nderungsverordnung (1. Januar 1969) bestimmt Artikel 2 der Verordnung zur \u00c4nderung der Baunutzungsverordnung vom 26. November 1968 (BGBl. I S. 1233):<BR/>\u00a0\u201eF\u00fcr Bauleitpl\u00e4ne, deren Aufstellung oder \u00c4nderung bereits eingeleitet ist, gilt die Verordnung in der bisherigen Fassung, wenn die Pl\u00e4ne bei Inkrafttreten dieser Verordnung bereits nach \u00a7 2 Absatz 6 des Bundesbaugesetzes ausgelegt sind.\u201c</Footnote>"
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000502116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE003402116",
+        "type": "article",
+        "name": "\u00a7 25a",
+        "title": "\u00dcberleitungsvorschriften aus Anla\u00df der zweiten \u00c4nderungsverordnung",
+        "body": {
+          "content": "<P>(1) F\u00fcr Bauleitpl\u00e4ne, deren Aufstellung oder \u00c4nderung bereits eingeleitet ist, gilt diese Verordnung in ihrer bis zum Inkrafttreten der Zweiten Verordnung zur \u00c4nderung dieser Verordnung vom 15. September 1977 (BGBl. I S. 1757) g\u00fcltigen Fassung, wenn die Pl\u00e4ne bei Inkrafttreten der zweiten \u00c4nderungsverordnung nach \u00a7 2a Absatz 6 des Bundesbaugesetzes oder \u00a7 2 Absatz 6 des Bundesbaugesetzes in der bis zum 1. Januar 1977 geltenden Fassung ausgelegt sind.</P><P>(2) Von der Geltung der Vorschriften der zweiten \u00c4nderungsverordnung \u00fcber gesonderte Festsetzungen f\u00fcr \u00fcbereinanderliegende Geschosse und Ebenen sowie sonstige Teile baulicher Anlagen sind solche Bebauungspl\u00e4ne ausgenommen, auf die \u00a7 9 Absatz 3 des Bundesbaugesetzes in der ab 1. Januar 1977 geltenden Fassung nach Ma\u00dfgabe des Artikels 3 \u00a7 1 Absatz 3 des Gesetzes zur \u00c4nderung des Bundesbaugesetzes vom 18. August 1976 (BGBl. I S. 2221) keine Anwendung findet. Auf diese Bebauungspl\u00e4ne finden die Vorschriften dieser Verordnung \u00fcber gesonderte Festsetzungen f\u00fcr \u00fcbereinanderliegende Geschosse und Ebenen und sonstige Teile baulicher Anlagen in der bis zum Inkrafttreten der zweiten \u00c4nderungsverordnung g\u00fcltigen Fassung weiterhin Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000502116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE003702116",
+        "type": "article",
+        "name": "\u00a7 25b",
+        "title": "\u00dcberleitungsvorschrift aus Anlass der dritten \u00c4nderungsverordnung",
+        "body": {
+          "content": "<P>(1) Ist der Entwurf eines Bebauungsplans vor dem Inkrafttreten der dritten \u00c4nderungsverordnung nach \u00a7 2a Absatz 6 des Bundesbaugesetzes \u00f6ffentlich ausgelegt worden, ist auf ihn \u00a7 11 Absatz 3 Satz 3 in der bis zum Inkrafttreten der dritten \u00c4nderungsverordnung geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bebauungsplans erneut einzuleiten, bleibt unber\u00fchrt.</P><P>(2) Auf Bebauungspl\u00e4ne, auf die \u00a7 11 Absatz 3 in der Fassung der Bekanntmachung vom 15. September 1977 Anwendung findet, ist \u00a7 11 Absatz 3 Satz 4 entsprechend anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000502116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE003803116",
+        "type": "article",
+        "name": "\u00a7 25c",
+        "title": "\u00dcberleitungsvorschrift aus Anlass der vierten \u00c4nderungsverordnung",
+        "body": {
+          "content": "<P>Ist der Entwurf eines Bauleitplans vor dem 27. Januar 1990 nach \u00a7 3 Absatz 2 des Baugesetzbuchs \u00f6ffentlich ausgelegt worden, ist auf ihn diese Verordnung in der bis zum 26. Januar 1990 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000502116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE004001116",
+        "type": "article",
+        "name": "\u00a7 25d",
+        "title": "\u00dcberleitungsvorschrift aus Anlass des Gesetzes zur St\u00e4rkung der Innenentwicklung in den St\u00e4dten und Gemeinden und weiteren Fortentwicklung des St\u00e4dtebaurechts",
+        "body": {
+          "content": "<P>Ist der Entwurf eines Bauleitplans vor dem 20. September 2013 nach \u00a7 3 Absatz 2 des Baugesetzbuchs \u00f6ffentlich ausgelegt worden, ist auf ihn diese Verordnung in der bis zum 20. September 2013 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000502116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE003503116",
+        "type": "article",
+        "name": "\u00a7 26",
+        "title": "(Berlin-Klausel)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000502116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE003902116",
+        "type": "article",
+        "name": "\u00a7 26a",
+        "title": "\u00dcberleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands",
+        "body": {
+          "content": "<P>Soweit in dieser Verordnung auf Vorschriften verwiesen wird, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet keine Anwendung finden, sind die entsprechenden Vorschriften der Deutschen Demokratischen Republik anzuwenden. Bestehen solche Vorschriften nicht oder w\u00fcrde ihre Anwendung dem Sinn der Verweisung widersprechen, gelten die Vorschriften, auf die verwiesen wird, entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000502116"
+        }
+      },
+      {
+        "id": "BJNR004290962BJNE003602116",
+        "type": "article",
+        "name": "\u00a7 27",
+        "title": "(Inkrafttreten)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR004290962BJNG000502116"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR001750954",
+    "abbreviation": "WiStrG 1954",
+    "extraAbbreviations": [],
+    "firstPublished": "1954-07-09",
+    "sourceTimestamp": "20200103213013",
+    "headingShort": "Wirtschaftsstrafgesetz 1954",
+    "headingLong": "Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1954, 175"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Neuf",
+        "comment": "Neugefasst durch Bek. v. 3.6.1975 I 1313;"
+      },
+      {
+        "category": "Stand",
+        "comment": "zuletzt ge\u00e4ndert durch Art. 3 G v. 18.12.2018 I 2648"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "\u00c4nderung durch Art. 2 G v. 21.12.2019 I 2911 (Nr. 52) ist ber\u00fccksichtigt"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1975 +++)<BR/><BR/></pre></P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR001750954BJNG000100322",
+        "type": "heading",
+        "name": "Erster Abschnitt",
+        "title": "Ahndung von Zuwiderhandlungen\nim Bereich des Wirtschaftsrechts",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR001750954BJNE000400322",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Strafbare Verst\u00f6\u00dfe gegen Sicherstellungsvorschriften",
+        "body": {
+          "content": "<P>(1) Wer eine Zuwiderhandlung nach <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 18 des Wirtschaftssicherstellungsgesetzes,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 26 des Verkehrssicherstellungsgesetzes,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 22 des Ern\u00e4hrungssicherstellungsgesetzes,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 28 des Wassersicherstellungsgesetzes</LA></DD> </DL>begeht, wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren oder mit Geldstrafe bestraft.</P><P>(2) Der Versuch ist strafbar.</P><P>(3) In besonders schweren F\u00e4llen ist die Strafe Freiheitsstrafe nicht unter sechs Monaten. Ein besonders schwerer Fall liegt in der Regel vor, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch die Handlung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Versorgung, sei es auch nur auf einem bestimmten Gebiet in einem \u00f6rtlichen Bereich, schwer gef\u00e4hrdet wird oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Leben oder die Freiheit eines anderen gef\u00e4hrdet wird oder eine Ma\u00dfnahme nicht rechtzeitig getroffen werden kann, die erforderlich ist, um eine gegenw\u00e4rtige Gefahr f\u00fcr das Leben oder die Freiheit eines anderen abzuwenden, oder</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der T\u00e4ter<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Begehung der Tat eine einflu\u00dfreiche Stellung im Wirtschaftsleben oder in der Wirtschaftsverwaltung zur Erzielung von bedeutenden Verm\u00f6gensvorteilen gr\u00f6blich mi\u00dfbraucht,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine au\u00dfergew\u00f6hnliche Mangellage bei der Versorgung mit Sachen oder Leistungen des lebenswichtigen Bedarfs zur Erzielung von bedeutenden Verm\u00f6gensvorteilen gewissenlos ausnutzt oder</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">gewerbsm\u00e4\u00dfig zur Erzielung von hohen Gewinnen handelt.</LA></DD> </DL> </LA></DD> </DL></P><P>(4) Handelt der T\u00e4ter fahrl\u00e4ssig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7 1: Gilt nicht in Berlin gem. \u00a7 21a bis zum 14.12.2010</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000100322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE000501377",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Ordnungswidrige Verst\u00f6\u00dfe gegen Sicherstellungsvorschriften",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig eine der in \u00a7 1 Abs. 1 bezeichneten Handlungen begeht, wenn die Tat ihrem Umfang und ihrer Auswirkung nach, namentlich nach Art und Menge der Sachen oder Leistungen, auf die sie sich bezieht, nicht geeignet ist, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Versorgung, sei es auch nur auf einem bestimmten Gebiet in einem \u00f6rtlichen Bereich, merkbar zu st\u00f6ren und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verwirklichung der sonstigen Ziele, denen die in \u00a7 1 Abs. 1 bezeichneten Rechtsvorschriften im allgemeinen oder im Einzelfall zu dienen bestimmt sind, merkbar zu beeintr\u00e4chtigen.</LA></DD> </DL> </P><P>(2) Absatz 1 ist nicht anzuwenden, wenn der T\u00e4ter die Tat beharrlich wiederholt.</P><P>(3) Die Ordnungswidrigkeit und der Versuch einer Ordnungswidrigkeit k\u00f6nnen mit einer Geldbu\u00dfe bis zu f\u00fcnfundzwanzigtausend Euro geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000100322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE000602377",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Verst\u00f6\u00dfe gegen die Preisregelung",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer in anderen als den in den \u00a7\u00a7 1, 2 bezeichneten F\u00e4llen vors\u00e4tzlich oder fahrl\u00e4ssig einer Rechtsvorschrift \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Preise, Preisspannen, Zuschl\u00e4ge oder Abschl\u00e4ge,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Preisangaben,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahlungs- oder Lieferungsbedingungen oder</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">andere der Preisbildung oder dem Preisschutz dienende Ma\u00dfnahmen</LA></DD> </DL>oder einer auf Grund einer solchen Rechtsvorschrift ergangenen vollziehbaren Verf\u00fcgung zuwiderhandelt, soweit die Rechtsvorschrift f\u00fcr einen bestimmten Tatbestand auf diese Vorschrift verweist. Die Verweisung ist nicht erforderlich, soweit \u00a7 16 dies bestimmt.</P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu f\u00fcnfundzwanzigtausend Euro geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000100322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE000701377",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Preis\u00fcberh\u00f6hung in einem Beruf oder Gewerbe",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder leichtfertig in befugter oder unbefugter Bet\u00e4tigung in einem Beruf oder Gewerbe f\u00fcr Gegenst\u00e4nde oder Leistungen des lebenswichtigen Bedarfs Entgelte fordert, verspricht, vereinbart, annimmt oder gew\u00e4hrt, die infolge einer Beschr\u00e4nkung des Wettbewerbs oder infolge der Ausnutzung einer wirtschaftlichen Machtstellung oder einer Mangellage unangemessen hoch sind.</P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu f\u00fcnfundzwanzigtausend Euro geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000100322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE000805360",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Mietpreis\u00fcberh\u00f6hung",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder leichtfertig f\u00fcr die Vermietung von R\u00e4umen zum Wohnen oder damit verbundene Nebenleistungen unangemessen hohe Entgelte fordert, sich versprechen l\u00e4sst oder annimmt.</P><P>(2) Unangemessen hoch sind Entgelte, die infolge der Ausnutzung eines geringen Angebots an vergleichbaren R\u00e4umen die \u00fcblichen Entgelte um mehr als 20 vom Hundert \u00fcbersteigen, die in der Gemeinde oder in vergleichbaren Gemeinden f\u00fcr die Vermietung von R\u00e4umen vergleichbarer Art, Gr\u00f6\u00dfe, Ausstattung, Beschaffenheit und Lage oder damit verbundene Nebenleistungen in den letzten sechs Jahren vereinbart oder, von Erh\u00f6hungen der Betriebskosten abgesehen, ge\u00e4ndert worden sind. Nicht unangemessen hoch sind Entgelte, die zur Deckung der laufenden Aufwendungen des Vermieters erforderlich sind, sofern sie unter Zugrundelegung der nach Satz 1 ma\u00dfgeblichen Entgelte nicht in einem auff\u00e4lligen Missverh\u00e4ltnis zu der Leistung des Vermieters stehen.</P><P>(3) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu f\u00fcnfzigtausend Euro geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000100322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE000902360",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Durchf\u00fchrung einer baulichen Ver\u00e4nderung in missbr\u00e4uchlicher Weise",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer in der Absicht, einen Mieter von Wohnraum hierdurch zur K\u00fcndigung oder zur Mitwirkung an der Aufhebung des Mietverh\u00e4ltnisses zu veranlassen, eine bauliche Ver\u00e4nderung in einer Weise durchf\u00fchrt oder durchf\u00fchren l\u00e4sst, die geeignet ist, zu erheblichen, objektiv nicht notwendigen Belastungen des Mieters zu f\u00fchren.</P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu hunderttausend Euro geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000100322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNG000200322",
+        "type": "heading",
+        "name": "Zweiter Abschnitt",
+        "title": "Erg\u00e4nzende Vorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR001750954BJNE001000322",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Einziehung",
+        "body": {
+          "content": "<P>Ist eine Zuwiderhandlung im Sinne der \u00a7\u00a7 1 bis 4 begangen worden, so k\u00f6nnen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gegenst\u00e4nde, auf die sich die Tat bezieht, und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gegenst\u00e4nde, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind,</LA></DD> </DL>eingezogen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000200322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE001103123",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Abf\u00fchrung des Mehrerl\u00f6ses",
+        "body": {
+          "content": "<P>(1) Hat der T\u00e4ter durch eine Zuwiderhandlung im Sinne der \u00a7\u00a7 1 bis 6 einen h\u00f6heren als den zul\u00e4ssigen Preis erzielt, so ist anzuordnen, da\u00df er den Unterschiedsbetrag zwischen dem zul\u00e4ssigen und dem erzielten Preis (Mehrerl\u00f6s) an das Land abf\u00fchrt, soweit er ihn nicht auf Grund einer rechtlichen Verpflichtung zur\u00fcckerstattet hat. Die Abf\u00fchrung kann auch angeordnet werden, wenn eine rechtswidrige Tat nach den \u00a7\u00a7 1 bis 6 vorliegt, der T\u00e4ter jedoch nicht schuldhaft gehandelt hat oder die Tat aus anderen Gr\u00fcnden nicht geahndet werden kann.</P><P>(2) W\u00e4re die Abf\u00fchrung des Mehrerl\u00f6ses eine unbillige H\u00e4rte, so kann die Anordnung auf einen angemessenen Betrag beschr\u00e4nkt werden oder ganz unterbleiben. Sie kann auch unterbleiben, wenn der Mehrerl\u00f6s gering ist.</P><P>(3) Die H\u00f6he des Mehrerl\u00f6ses kann gesch\u00e4tzt werden. Der abzuf\u00fchrende Betrag ist zahlenm\u00e4\u00dfig zu bestimmen.</P><P>(4) Die Abf\u00fchrung des Mehrerl\u00f6ses tritt an die Stelle der Einziehung von Tatertr\u00e4gen (\u00a7\u00a7 73 bis 73e und 75 des Strafgesetzbuches, \u00a7 29a des Gesetzes \u00fcber Ordnungswidrigkeiten). Bei Zuwiderhandlungen im Sinne des \u00a7 1 gelten die Vorschriften des Strafgesetzbuches \u00fcber die Verj\u00e4hrung der Einziehung von Tatertr\u00e4gen entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000200322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE001200322",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "R\u00fcckerstattung des Mehrerl\u00f6ses",
+        "body": {
+          "content": "<P>(1) Statt der Abf\u00fchrung kann auf Antrag des Gesch\u00e4digten die R\u00fcckerstattung des Mehrerl\u00f6ses an ihn angeordnet werden, wenn sein R\u00fcckforderungsanspruch gegen den T\u00e4ter begr\u00fcndet erscheint.</P><P>(2) Legt der T\u00e4ter oder der Gesch\u00e4digte, nachdem die Abf\u00fchrung des Mehrerl\u00f6ses angeordnet ist, eine rechtskr\u00e4ftige Entscheidung vor, in welcher der R\u00fcckforderungsanspruch gegen den T\u00e4ter festgestellt ist, so ordnet die Vollstreckungsbeh\u00f6rde an, da\u00df die Anordnung der Abf\u00fchrung des Mehrerl\u00f6ses insoweit nicht mehr vollstreckt oder der Gesch\u00e4digte aus dem bereits abgef\u00fchrten Mehrerl\u00f6s befriedigt wird.</P><P>(3) Die Vorschriften der Strafproze\u00dfordnung \u00fcber die Entsch\u00e4digung des Verletzten (\u00a7\u00a7 403 bis 406c) sind mit Ausnahme des \u00a7 405 Satz 1, \u00a7 406a Abs. 3 und \u00a7 406c Abs. 2 entsprechend anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000200322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE001300322",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Selbst\u00e4ndige Abf\u00fchrung des Mehrerl\u00f6ses",
+        "body": {
+          "content": "<P>(1) Kann ein Straf- oder Bu\u00dfgeldverfahren nicht durchgef\u00fchrt werden, so kann die Abf\u00fchrung oder R\u00fcckerstattung des Mehrerl\u00f6ses selbst\u00e4ndig angeordnet werden, wenn im \u00fcbrigen die Voraussetzungen des \u00a7 8 oder \u00a7 9 vorliegen.</P><P>(2) Ist eine rechtswidrige Tat nach diesem Gesetz in einem Betrieb begangen worden, so kann die Abf\u00fchrung des Mehrerl\u00f6ses gegen den Inhaber oder Leiter des Betriebes und, falls der Inhaber eine juristische Person oder eine Personengesellschaft des Handelsrechts ist, auch gegen diese selbst\u00e4ndig angeordnet werden, wenn ihnen der Mehrerl\u00f6s zugeflossen ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000200322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE001401123",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Verfahren",
+        "body": {
+          "content": "<P>(1) Im Strafverfahren ist die Abf\u00fchrung des Mehrerl\u00f6ses im Urteil auszusprechen. F\u00fcr das selbst\u00e4ndige Verfahren gelten \u00a7 435 Absatz 1, 2 und 3 Satz 1 und \u00a7 436 Absatz 1 und 2 in Verbindung mit \u00a7 434 Absatz 2 oder 3 der Strafproze\u00dfordnung entsprechend.</P><P>(2) Im Bu\u00dfgeldverfahren ist die Abf\u00fchrung des Mehrerl\u00f6ses im Bu\u00dfgeldbescheid auszusprechen. Im selbst\u00e4ndigen Verfahren steht der von der Verwaltungsbeh\u00f6rde zu erlassende Bescheid einem Bu\u00dfgeldbescheid gleich.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000200322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE001500322",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": null,
+        "body": {
+          "content": "<P>(weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000200322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE001600322",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Besondere Vorschriften f\u00fcr das Strafverfahren",
+        "body": {
+          "content": "<P>(1) Soweit f\u00fcr Straftaten nach \u00a7 1 das Amtsgericht sachlich zust\u00e4ndig ist, ist \u00f6rtlich zust\u00e4ndig das Amtsgericht, in dessen Bezirk das Landgericht seinen Sitz hat. Die Landesregierung kann durch Rechtsverordnung die \u00f6rtliche Zust\u00e4ndigkeit des Amtsgerichts abweichend regeln, soweit dies mit R\u00fccksicht auf die Wirtschafts- oder Verkehrsverh\u00e4ltnisse, den Aufbau der Verwaltungsbeh\u00f6rden oder andere \u00f6rtliche Bed\u00fcrfnisse zweckm\u00e4\u00dfig erscheint. Die Landesregierung kann diese Erm\u00e4chtigung auf die Landesjustizverwaltung \u00fcbertragen.</P><P>(2) Im Strafverfahren wegen einer Zuwiderhandlung im Sinne des \u00a7 1 gelten die \u00a7\u00a7 49, 63 Abs. 1 bis 3 Satz 1 und \u00a7 76 Abs. 1, 4 des Gesetzes \u00fcber Ordnungswidrigkeiten \u00fcber die Beteiligung der Verwaltungsbeh\u00f6rde im Verfahren der Staatsanwaltschaft und im gerichtlichen Verfahren entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7 13: Gilt nicht in Berlin gem. \u00a7 21a bis zum 14.12.2010</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000200322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE001700322",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": null,
+        "body": {
+          "content": "<P>(weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000200322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNG000300322",
+        "type": "heading",
+        "name": "Dritter Abschnitt",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR001750954BJNE001800322",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": null,
+        "body": {
+          "content": "<P>(weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE001901140",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Verweisungen",
+        "body": {
+          "content": "<P>Verweisen Vorschriften der in \u00a7 3 Abs. 1 Satz 1 bezeichneten Art auf die Straf- und Bu\u00dfgeldvorschriften dieses Gesetzes in der vor dem 1. Januar 1975 geltenden Fassung, auf die Straf- und Bu\u00dfgeldvorschriften des Wirtschaftsstrafgesetzes in der fr\u00fcher geltenden Fassung, auf dessen \u00a7 18 oder auf eine nach \u00a7 102 des genannten Gesetzes au\u00dfer Kraft getretene Vorschrift, so gelten solche Verweisungen als ausdr\u00fcckliche Verweisungen im Sinne des \u00a7 3 Abs. 1 Satz 1. Das gleiche gilt, wenn in Vorschriften der in \u00a7 3 Abs. 1 Satz 1 bezeichneten Art auf die Straf- und Bu\u00dfgeldvorschriften des Getreidegesetzes, des Milch- und Fettgesetzes sowie des Zuckergesetzes in der vor dem 1. Januar 1975 geltenden Fassung verwiesen wird. Soweit eine Verweisung nach \u00a7 104 Abs. 3 des Wirtschaftsstrafgesetzes in der fr\u00fcher geltenden Fassung nicht erforderlich war, bestimmt sich die Ahndung der Zuwiderhandlungen nach \u00a7 3 Abs. 1 Satz 1, ohne da\u00df es einer Verweisung bedarf.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE002000322",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": null,
+        "body": {
+          "content": "<P>(weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE002100322",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": null,
+        "body": {
+          "content": "<P>(weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE002200322",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": null,
+        "body": {
+          "content": "<P>(weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE002301360",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE002400322",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Begriffsbestimmung",
+        "body": {
+          "content": "<P>Wirtschaftsstrafgesetz in der fr\u00fcher geltenden Fassung im Sinne der \u00a7\u00a7 15 bis 18 ist das Wirtschaftsstrafgesetz vom 26. Juli 1949 (Gesetzblatt der Verwaltung des Vereinigten Wirtschaftsgebietes S. 193) mit seinen weiteren Fassungen, die durch die Erstreckungsverordnung vom 24. Januar 1950 (Bundesgesetzbl. S. 24), das Gesetz zur Erstreckung und zur Verl\u00e4ngerung der Geltungsdauer des Wirtschaftsstrafgesetzes vom 29. M\u00e4rz 1950 (Bundesgesetzbl. S. 78), das Gesetz zur Verl\u00e4ngerung des Wirtschaftsstrafgesetzes vom 30. M\u00e4rz 1951 (Bundesgesetzbl. I S. 223), das Gesetz zur \u00c4nderung und Verl\u00e4ngerung des Wirtschaftsstrafgesetzes vom 25. M\u00e4rz 1952 (Bundesgesetzbl. I S. 188) und das Gesetz zur Verl\u00e4ngerung des Wirtschaftsstrafgesetzes vom 17. Dezember 1952 (Bundesgesetzbl. I S. 805) bestimmt sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE002302360",
+        "type": "article",
+        "name": "(XXXX) \u00a7\u00a7 21a und 22",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      },
+      {
+        "id": "BJNR001750954BJNE002700322",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "Inkrafttreten",
+        "body": {
+          "content": "<P>Dieses Gesetz tritt am Tage nach seiner Verk\u00fcndung in Kraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750954BJNG000300322"
+        }
+      }
+    ]
+  }
+}

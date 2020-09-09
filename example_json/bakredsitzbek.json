@@ -1,0 +1,38 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR169710000",
+    "abbreviation": "BAKredSitzBek",
+    "extraAbbreviations": [],
+    "firstPublished": "2000-11-10",
+    "sourceTimestamp": "20131008093806",
+    "headingShort": null,
+    "headingLong": "Bekanntmachung \u00fcber den Dienstsitz des Bundesaufsichtsamtes\nf\u00fcr das Kreditwesen",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "2000, 1697"
+      }
+    ],
+    "statusInfo": null,
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 14.12.2000 +++)</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR169710000BJNE000100305",
+        "type": "article",
+        "name": "(XXXX)",
+        "title": null,
+        "body": {
+          "content": "<P>Das Bundesministerium der Finanzen gibt gem\u00e4\u00df \u00a7 9 Nr. 3 des Berlin/Bonn-Gesetzes vom 26. April 1994 (BGBl. I S. 918), der durch Artikel 1 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) ge\u00e4ndert worden ist, in Verbindung mit der Bekanntmachung des Bundeskanzlers \u00fcber die Sitzentscheidung der Bundesregierung vom 22. Juli 1999 (BGBl. I S. 1725) bekannt: <BR/>Das Bundesaufsichtsamt f\u00fcr das Kreditwesen wird mit Wirkung vom 11. Dezember 2000 seinen Sitz von Berlin nach Bonn verlegen. Damit wird die im Gesetz \u00fcber das Kreditwesen in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2776), zuletzt ge\u00e4ndert durch Artikel 3 des Gesetzes vom 8. Dezember 1999 (BGBl. I S. 2384), getroffene Sitzentscheidung vollzogen.<BR/>Nach dem Umzug gelten folgende Postanschrift, Telefon- und Fax-Nummern: <BR/><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"20*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"50*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">Bundesaufsichtsamt</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">f\u00fcr das Kreditwesen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">Graurheindorfer Stra\u00dfe 108</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">53117 Bonn</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Telefon:</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">0228/207-0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Fax:</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">0228/207-1550.</entry></row></tbody></tgroup></table></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      }
+    ]
+  }
+}

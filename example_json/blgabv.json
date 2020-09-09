@@ -1,0 +1,175 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR010880989",
+    "abbreviation": "ABV",
+    "extraAbbreviations": [
+      "BLGABV"
+    ],
+    "firstPublished": "1989-06-12",
+    "sourceTimestamp": "20161111221503",
+    "headingShort": "Anforderungsbeh\u00f6rden- und Bedarfstr\u00e4gerverordnung",
+    "headingLong": "Verordnung \u00fcber Anforderungsbeh\u00f6rden und Bedarfstr\u00e4ger nach dem\nBundesleistungsgesetz",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1989, 1088"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 9 V v. 2.6.2016 I 1257"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.7.1989 +++)<BR/><BR/></pre></P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR010880989BJNE000100326",
+        "type": "article",
+        "name": "Eingangsformel",
+        "title": null,
+        "body": {
+          "content": "<P>Auf Grund des \u00a7 5 Abs. 1, des \u00a7 7 Abs. 2 sowie der \u00a7\u00a7 79 und 80 des Bundesleistungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 54-1, ver\u00f6ffentlichten bereinigten Fassung verordnet die Bundesregierung:</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE000200326",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Allgemeine Anforderungsbeh\u00f6rden",
+        "body": {
+          "content": "<P>Anforderungsbeh\u00f6rden gem\u00e4\u00df \u00a7 5 Abs. 1 und \u00a7 79 Satz 1 des Bundesleistungsgesetzes sind, soweit in \u00a7 2 nichts anderes bestimmt ist, die Beh\u00f6rden der allgemeinen Verwaltung auf der Kreisstufe.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE000306116",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Besondere Anforderungsbeh\u00f6rden",
+        "body": {
+          "content": "<P>(1) Anforderungsbeh\u00f6rden sind f\u00fcr die Inanspruchnahme von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Seeschiffen - mit Ausnahme der Seefischereifahrzeuge - nebst Zubeh\u00f6r<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die Generaldirektion Wasserstra\u00dfen und Schifffahrt;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Seefischereifahrzeugen nebst Zubeh\u00f6r<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die staatlichen Fischerei\u00e4mter;</LA></DD></DL></LA><LA Size=\"normal\">soweit es sich um Fahrzeuge der Gro\u00dfen Hochseefischerei handelt,<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Fischerei zust\u00e4ndigen obersten Landesbeh\u00f6rden;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Binnenschiffen, f\u00fcr die eine technische Zulassung zum Verkehr auf Bundeswasserstra\u00dfen erforderlich ist, nebst Zubeh\u00f6r, ausgenommen Schiffe, die ausschlie\u00dflich im Hafenbetrieb verwendet werden,<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die Generaldirektion Wasserstra\u00dfen und Schifffahrt;</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Luftfahrzeugen nebst Zubeh\u00f6r<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">mit einer H\u00f6chstmasse bis zu 5,7 t<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Luftfahrt zust\u00e4ndigen obersten Landesbeh\u00f6rden,</LA><LA Size=\"normal\">in Baden-W\u00fcrttemberg, Bayern, Hessen, Niedersachsen und Rheinland-Pfalz</LA><LA Size=\"normal\">die f\u00fcr die Luftfahrt zust\u00e4ndigen h\u00f6heren Verkehrsbeh\u00f6rden;</LA></DD></DL></LA><LA Size=\"normal\">mit einer H\u00f6chstmasse \u00fcber 5,7 t<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">das Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur;</LA></DD></DL></LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kraftfahrzeugen und ihren Anh\u00e4ngern nebst Zubeh\u00f6r<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die unteren Verkehrsbeh\u00f6rden der L\u00e4nder;</LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Stra\u00dfenbahnen und Oberleitungsbussen nebst Zubeh\u00f6r<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die h\u00f6heren oder, wo solche nicht bestehen, die obersten Verkehrsbeh\u00f6rden der L\u00e4nder;</LA></DD></DL></LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">privaten Eisenbahnwagen nebst Zubeh\u00f6r auf Bahnen des \u00f6ffentlichen Verkehrs<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">das Eisenbahn-Bundesamt;</LA></DD></DL></LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohnraum<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die Gemeindebeh\u00f6rden.</LA></DD></DL></LA></DD></DL>Bei Schiffen und Luftfahrzeugen im Ausland sind auch die diplomatischen und konsularischen Vertretungen der Bundesrepublik Deutschland als Anforderungsbeh\u00f6rden zust\u00e4ndig. Das v\u00f6lkerrechtliche Erfordernis einer Zustimmung der Regierung des Gastlandes zur Wahrnehmung dieser Befugnis bleibt unber\u00fchrt.</P><P>(2) F\u00fcr Anforderungen nach \u00a7 2 Abs. 1 Nr. 7 des Bundesleistungsgesetzes sind zust\u00e4ndig bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen des Stra\u00dfenbaus<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die h\u00f6heren oder, wo solche nicht bestehen, die obersten Stra\u00dfenbaubeh\u00f6rden der L\u00e4nder,</LA><LA Size=\"normal\">in Nordrhein-Westfalen die Landschaftsverb\u00e4nde;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen in Bundeswasserstra\u00dfen, mit Ausnahme der Teile der Bundeswasserstra\u00dfe Elbe, die vom Land Hamburg verwaltet werden,<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die Generaldirektion Wasserstra\u00dfen und Schifffahrt;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstigen Wasserbauanlagen<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die h\u00f6heren oder, wo solche nicht bestehen, die obersten Wasserbeh\u00f6rden der L\u00e4nder;</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bundeseigenen H\u00e4fen<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die Generaldirektion Wasserstra\u00dfen und Schifffahrt;</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstigen H\u00e4fen<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die Hafenaufsichtsbeh\u00f6rden der L\u00e4nder, in</LA><LA Size=\"normal\">Baden-W\u00fcrttemberg, Hessen und Niedersachsen die Hafenbeh\u00f6rden,</LA><LA Size=\"normal\">Bayern und Nordrhein-Westfalen</LA><LA Size=\"normal\">die Beh\u00f6rden der allgemeinen Verwaltung auf der Kreisstufe,</LA><LA Size=\"normal\">Rheinland-Pfalz</LA><LA Size=\"normal\">die h\u00f6heren Verkehrsbeh\u00f6rden;</LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Flugh\u00e4fen<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Luftfahrt zust\u00e4ndigen obersten Landesbeh\u00f6rden;</LA></DD></DL></LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Flugpl\u00e4tzen (ausgenommen Nr. 6)<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Luftfahrt zust\u00e4ndigen obersten Landesbeh\u00f6rden,</LA><LA Size=\"normal\">in Baden-W\u00fcrttemberg, Bayern, Niedersachsen und Rheinland-Pfalz</LA><LA Size=\"normal\">die f\u00fcr die Luftfahrt zust\u00e4ndigen h\u00f6heren Verkehrsbeh\u00f6rden.</LA></DD></DL></LA></DD></DL>Soweit die Anforderungen Einbauten betreffen, die Unterbrechenseinrichtungen f\u00fcr milit\u00e4rische Zwecke dienen, sind bei den Nummern 2, 4 und 5 die h\u00f6heren Verwaltungsbeh\u00f6rden zust\u00e4ndig.</P><P>(3) Die Zust\u00e4ndigkeit der in Absatz 1 genannten Beh\u00f6rden erstreckt sich auch auf die Anforderung von Leistungen nach \u00a7 2 Abs. 1 Nr. 9 und 10 des Bundesleistungsgesetzes, die mit den in Absatz 1 genannten Verkehrsmitteln zu erbringen sind.</P><P>(4) Die Zust\u00e4ndigkeit der in Absatz 2 genannten Beh\u00f6rden erstreckt sich auch auf die Anforderung von Anlagen und Einrichtungen einschlie\u00dflich Umschlagsanlagen, soweit sie dem Verkehr dienen, sowie auf Leistungen, die hiermit zu erbringen sind. Das gleiche gilt f\u00fcr die in Absatz 1 Nr. 5 und 6 genannten Beh\u00f6rden.</P><P>(5) Anforderungsbeh\u00f6rde f\u00fcr die Inanspruchnahme von Funkanlagen einschlie\u00dflich der zu ihrem Betrieb erforderlichen Einrichtungen sowie der in \u00a7 2 Abs. 2 des Bundesleistungsgesetzes bezeichneten technischen Anlagen und Einrichtungen der Rundfunkanstalten ist das Bundesamt f\u00fcr Post und Telekommunikation:</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE000400326",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "\u00d6rtliche Zust\u00e4ndigkeit",
+        "body": {
+          "content": "<P>(1) \u00d6rtlich zust\u00e4ndig ist die Anforderungsbeh\u00f6rde, in deren Bezirk sich der Gegenstand der Anforderung oder der Gegenstand befindet, auf den sich die Leistung bezieht, oder in deren Bezirk die Leistung zu erbringen ist. Kann die Leistung in der gewerblichen Niederlassung eines Leistungspflichtigen erbracht werden, so ist auch die Anforderungsbeh\u00f6rde \u00f6rtlich zust\u00e4ndig, in deren Bezirk sich die Niederlassung befindet.</P><P>(2) Betrifft die Anforderung Kraftfahrzeuge und ihre Anh\u00e4nger, die im Geltungsbereich dieser Verordnung zugelassen sind, so ist die Anforderungsbeh\u00f6rde \u00f6rtlich zust\u00e4ndig, in deren Bezirk die Kartei \u00fcber die Zulassung des Fahrzeugs gef\u00fchrt wird. In besonders dringenden F\u00e4llen oder wenn die nach Satz 1 zust\u00e4ndige Beh\u00f6rde aus tats\u00e4chlichen Gr\u00fcnden verhindert ist, ihre Befugnisse als Anforderungsbeh\u00f6rde auszu\u00fcben, oder bei Anforderung von Kraftfahrzeugen und ihren Anh\u00e4ngern, die nicht im Geltungsbereich dieser Verordnung zugelassen sind, ist auch die Anforderungsbeh\u00f6rde zust\u00e4ndig, in deren Bezirk sich das Fahrzeug im Zeitpunkt der Anforderung befindet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE000501116",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "\u00d6rtliche Zust\u00e4ndigkeit bei Schiffen",
+        "body": {
+          "content": "<P>Betrifft die Anforderung Schiffe, so ist die Anforderungsbeh\u00f6rde \u00f6rtlich zust\u00e4ndig, in deren Bezirk sich der Heimathafen oder Heimatort des Schiffes befindet. Hat ein Schiff keinen Heimathafen oder Heimatort im Geltungsbereich dieser Verordnung, so ist die Anforderungsbeh\u00f6rde \u00f6rtlich zust\u00e4ndig, in deren Bezirk sich das Schiff befindet. \u00a7 3 Abs. 2 Satz 2 gilt sinngem\u00e4\u00df.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE000600326",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Ersatzzust\u00e4ndigkeit",
+        "body": {
+          "content": "<P>Solange Anforderungsbeh\u00f6rden aus tats\u00e4chlichen Gr\u00fcnden nicht in der Lage sind, ihre Befugnisse auszu\u00fcben, k\u00f6nnen diese von den \u00fcbergeordneten Beh\u00f6rden desselben Verwaltungszweiges wahrgenommen werden. Die Befugnisse der Anforderungsbeh\u00f6rden k\u00f6nnen unter den in Satz 1 genannten Voraussetzungen von den unmittelbar nachgeordneten Beh\u00f6rden desselben Verwaltungszweiges wahrgenommen werden, wenn dies zur Abwendung einer drohenden Gefahr notwendig ist und die \u00fcbergeordneten Beh\u00f6rden nicht rechtzeitig handeln k\u00f6nnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE000700326",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Bedarfstr\u00e4ger",
+        "body": {
+          "content": "<P>Bedarfstr\u00e4ger gem\u00e4\u00df \u00a7 7 Abs. 2 des Bundesleistungsgesetzes sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bund, auch soweit es sich um den Bedarf der verb\u00fcndeten Streitkr\u00e4fte und der internationalen milit\u00e4rischen Hauptquartiere im Geltungsbereich des Bundesleistungsgesetzes handelt,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die L\u00e4nder,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gemeinden und Gemeindeverb\u00e4nde,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Tr\u00e4ger der Sozialhilfe,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zweckverb\u00e4nde, die der \u00f6ffentlichen Versorgung mit Elektrizit\u00e4t, Gas, Wasser oder der Abwasserbeseitigung dienen oder Krankenh\u00e4user unterhalten.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE000800326",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Bedarfstr\u00e4ger f\u00fcr Man\u00f6ver oder andere \u00dcbungen",
+        "body": {
+          "content": "<P>Bedarfstr\u00e4ger f\u00fcr Man\u00f6ver oder andere \u00dcbungen von Truppen oder Verb\u00e4nden und Einheiten des Zivilschutzes (\u00a7 66 Abs. 1, \u00a7 80 des Bundesleistungsgesetzes) sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bund, auch soweit es sich um Man\u00f6ver (\u00dcbungen) der verb\u00fcndeten Streitkr\u00e4fte handelt,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die L\u00e4nder,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gemeinden und Gemeindeverb\u00e4nde.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE000900326",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Zust\u00e4ndigkeit in Stadtstaaten",
+        "body": {
+          "content": "<P>(1) Im Land Bremen sind zust\u00e4ndige Anforderungsbeh\u00f6rden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Stadtgemeinde Bremen<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">der Senat;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Stadtgemeinde Bremerhaven<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">der Magistrat.</LA></DD> </DL> </LA></DD> </DL></P><P>(2) Im Land Hamburg sind zust\u00e4ndig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen der \u00a7\u00a7 1 und 2 Abs. 1 Nr. 8<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die Bezirks\u00e4mter;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Schiffe, die nicht die Voraussetzungen des \u00a7 2 Abs. 1 Nr. 3 erf\u00fcllen,<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Verkehrssicherstellung zust\u00e4ndige Fachbeh\u00f6rde;</LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Anlagen in Bundeswasserstra\u00dfen, soweit diese vom Land Hamburg verwaltet werden,<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die bei Gew\u00e4ssern I. Ordnung f\u00fcr die Ausf\u00fchrung von Wasserbauanlagen zust\u00e4ndige Fachbeh\u00f6rde;</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 2<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">Abs. 1 Nr. 2<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Fischerei,</LA></DD> </DL></LA><LA Size=\"normal\">Abs. 1 Nr. 4 und Abs. 2 Satz 1 Nr. 6 und 7<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Luftfahrt,</LA></DD> </DL></LA><LA Size=\"normal\">Abs. 1 Nr. 5 und 6<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Verkehrssicherstellung,</LA></DD> </DL></LA><LA Size=\"normal\">Abs. 2 Satz 1 Nr. 1<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr den Stra\u00dfenbau,</LA></DD> </DL></LA><LA Size=\"normal\">Abs. 2 Satz 1 Nr. 3 und Abs. 2 Satz 2 in Verbindung mit Satz 1 Nr. 2<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die bei Gew\u00e4ssern I. Ordnung f\u00fcr die Ausf\u00fchrung von Wasserbauanlagen,</LA></DD> </DL></LA><LA Size=\"normal\">Abs. 2 Satz 1 Nr. 5 und Abs. 2 Satz 2 in Verbindung mit Satz 1 Nr. 4 und 5<DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Hafenaufsicht</LA></DD> </DL></LA></DD>      </DL></LA></DD> </DL>zust\u00e4ndige Fachbeh\u00f6rde.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE001000326",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Inkrafttreten",
+        "body": {
+          "content": "<P>(1) Diese Verordnung tritt am ersten Tage des auf die Verk\u00fcndung folgenden Kalendermonats in Kraft.</P><P>(2)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR010880989BJNE001100326",
+        "type": "article",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "body": {
+          "content": "<P>Der Bundesrat hat zugestimmt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      }
+    ]
+  }
+}

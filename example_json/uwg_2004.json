@@ -1,0 +1,420 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR141400004",
+    "abbreviation": "UWG",
+    "extraAbbreviations": [
+      "UWG 2004"
+    ],
+    "firstPublished": "2004-07-03",
+    "sourceTimestamp": "20190425212014",
+    "headingShort": null,
+    "headingLong": "Gesetz gegen den unlauteren Wettbewerb",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "2004, 1414"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Neuf",
+        "comment": "Neugefasst durch Bek. v. 3.3.2010 I 254;"
+      },
+      {
+        "category": "Stand",
+        "comment": "zuletzt ge\u00e4ndert durch Art. 5 G v. 18.4.2019 I 466"
+      }
+    ],
+    "notes": {
+      "body": {
+        "content": "<P><noindex>Dieses Gesetz dient der Umsetzung der Richtlinie 2005/29/EG des Europ\u00e4ischen Parlaments und des Rates vom 11. Mai 2005 \u00fcber unlautere Gesch\u00e4ftspraktiken von Unternehmen gegen\u00fcber Verbrauchern im Binnenmarkt und zur \u00c4nderung der Richtlinie 84/450/EWG des Rates, der Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europ\u00e4ischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des Europ\u00e4ischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S. 22; berichtigt im ABl. L 253 vom 25.9.2009, S. 18) sowie der Richtlinie 2006/114/EG des Europ\u00e4ischen Parlaments und des Rates vom 12. Dezember 2006 \u00fcber irref\u00fchrende und vergleichende Werbung (kodifizierte Fassung) (ABl. L 376 vom 27.12.2006, S. 21). Es dient ferner der Umsetzung von Artikel 13 der Richtlinie 2002/58/EG des Europ\u00e4ischen Parlaments und des Rates vom 12. Juli 2002 \u00fcber die Verarbeitung personenbezogener Daten und den Schutz der Privatsph\u00e4re in der elektronischen Kommunikation (ABl. L 201 vom 31.7.2002, S. 37), der zuletzt durch Artikel 2 Nummer 7 der Richtlinie 2009/136/EG (ABl. L 337 vom 18.12.2009, S. 11) ge\u00e4ndert worden ist.</noindex></P><P><noindex>Die Verpflichtungen aus der Richtlinie 98/34/EG des Europ\u00e4ischen Parlaments und des Rates vom 22. Juni 1998 \u00fcber ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften f\u00fcr die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S. 81) ge\u00e4ndert worden ist, sind beachtet worden.</noindex></P>",
+        "footnotes": null
+      },
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 8.7.2004 +++)<BR/>(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR/>     Umsetzung der<BR/>       EGRL  55/97   (CELEX Nr: 397L0055)<BR/>       EGRL  58/2002 (CELEX Nr: 302L0058)<BR/>     Beachtung der<BR/>       EGRL  34/98   (CELEX Nr: 398L0034) <BR/>     Umsetzung der<BR/>       EGRL  29/2005 (CELEX Nr: 305L0029) vgl. G v. 22.12.2008 I 2949<BR/>       EGRL 114/2006 (CELEX Nr: 306L0114) vgl. Bek. v. 3.3.2010 I 254 +++)</pre></P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR141400004BJNG000101140",
+        "type": "heading",
+        "name": "Kapitel 1",
+        "title": "Allgemeine Bestimmungen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR141400004BJNE000102140",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Zweck des Gesetzes",
+        "body": {
+          "content": "<P>Dieses Gesetz dient dem Schutz der Mitbewerber, der Verbraucherinnen und Verbraucher sowie der sonstigen Marktteilnehmer vor unlauteren gesch\u00e4ftlichen Handlungen. Es sch\u00fctzt zugleich das Interesse der Allgemeinheit an einem unverf\u00e4lschten Wettbewerb.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE000203123",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Definitionen",
+        "body": {
+          "content": "<P>(1) Im Sinne dieses Gesetzes bedeutet <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u201egesch\u00e4ftliche Handlung\u201c jedes Verhalten einer Person zugunsten des eigenen oder eines fremden Unternehmens vor, bei oder nach einem Gesch\u00e4ftsabschluss, das mit der F\u00f6rderung des Absatzes oder des Bezugs von Waren oder Dienstleistungen oder mit dem Abschluss oder der Durchf\u00fchrung eines Vertrags \u00fcber Waren oder Dienstleistungen objektiv zusammenh\u00e4ngt; als Waren gelten auch Grundst\u00fccke, als Dienstleistungen auch Rechte und Verpflichtungen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u201eMarktteilnehmer\u201c neben Mitbewerbern und Verbrauchern alle Personen, die als Anbieter oder Nachfrager von Waren oder Dienstleistungen t\u00e4tig sind;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>\u201eMitbewerber\u201c jeder Unternehmer, der mit einem oder mehreren Unternehmern als Anbieter oder Nachfrager von Waren oder Dienstleistungen in einem konkreten Wettbewerbsverh\u00e4ltnis steht;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>\u201eNachricht\u201c jede Information, die zwischen einer endlichen Zahl von Beteiligten \u00fcber einen \u00f6ffentlich zug\u00e4nglichen elektronischen Kommunikationsdienst ausgetauscht oder weitergeleitet wird; dies schlie\u00dft nicht Informationen ein, die als Teil eines Rundfunkdienstes \u00fcber ein elektronisches Kommunikationsnetz an die \u00d6ffentlichkeit weitergeleitet werden, soweit die Informationen nicht mit dem identifizierbaren Teilnehmer oder Nutzer, der sie erh\u00e4lt, in Verbindung gebracht werden k\u00f6nnen;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>\u201eVerhaltenskodex\u201c Vereinbarungen oder Vorschriften \u00fcber das Verhalten von Unternehmern, zu welchem diese sich in Bezug auf Wirtschaftszweige oder einzelne gesch\u00e4ftliche Handlungen verpflichtet haben, ohne dass sich solche Verpflichtungen aus Gesetzes- oder Verwaltungsvorschriften ergeben;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>\u201eUnternehmer\u201c jede nat\u00fcrliche oder juristische Person, die gesch\u00e4ftliche Handlungen im Rahmen ihrer gewerblichen, handwerklichen oder beruflichen T\u00e4tigkeit vornimmt, und jede Person, die im Namen oder Auftrag einer solchen Person handelt;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>\u201eunternehmerische Sorgfalt\u201c der Standard an Fachkenntnissen und Sorgfalt, von dem billigerweise angenommen werden kann, dass ein Unternehmer ihn in seinem T\u00e4tigkeitsbereich gegen\u00fcber Verbrauchern nach Treu und Glauben unter Ber\u00fccksichtigung der anst\u00e4ndigen Marktgepflogenheiten einh\u00e4lt;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>\u201ewesentliche Beeinflussung des wirtschaftlichen Verhaltens des Verbrauchers\u201c die Vornahme einer gesch\u00e4ftlichen Handlung, um die F\u00e4higkeit des Verbrauchers, eine informierte Entscheidung zu treffen, sp\u00fcrbar zu beeintr\u00e4chtigen und damit den Verbraucher zu einer gesch\u00e4ftlichen Entscheidung zu veranlassen, die er andernfalls nicht getroffen h\u00e4tte;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>\u201egesch\u00e4ftliche Entscheidung\u201c jede Entscheidung eines Verbrauchers oder sonstigen Marktteilnehmers dar\u00fcber, ob, wie und unter welchen Bedingungen er ein Gesch\u00e4ft abschlie\u00dfen, eine Zahlung leisten, eine Ware oder Dienstleistung behalten oder abgeben oder ein vertragliches Recht im Zusammenhang mit einer Ware oder Dienstleistung aus\u00fcben will, unabh\u00e4ngig davon, ob der Verbraucher oder sonstige Marktteilnehmer sich entschlie\u00dft, t\u00e4tig zu werden.</LA></DD></DL></P><P>(2) F\u00fcr den Verbraucherbegriff gilt \u00a7 13 des B\u00fcrgerlichen Gesetzbuchs entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE000303123",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Verbot unlauterer gesch\u00e4ftlicher Handlungen",
+        "body": {
+          "content": "<P>(1) Unlautere gesch\u00e4ftliche Handlungen sind unzul\u00e4ssig.</P><P>(2) Gesch\u00e4ftliche Handlungen, die sich an Verbraucher richten oder diese erreichen, sind unlauter, wenn sie nicht der unternehmerischen Sorgfalt entsprechen und dazu geeignet sind, das wirtschaftliche Verhalten des Verbrauchers wesentlich zu beeinflussen.</P><P>(3) Die im Anhang dieses Gesetzes aufgef\u00fchrten gesch\u00e4ftlichen Handlungen gegen\u00fcber Verbrauchern sind stets unzul\u00e4ssig.</P><P>(4) Bei der Beurteilung von gesch\u00e4ftlichen Handlungen gegen\u00fcber Verbrauchern ist auf den durchschnittlichen Verbraucher oder, wenn sich die gesch\u00e4ftliche Handlung an eine bestimmte Gruppe von Verbrauchern wendet, auf ein durchschnittliches Mitglied dieser Gruppe abzustellen. Gesch\u00e4ftliche Handlungen, die f\u00fcr den Unternehmer vorhersehbar das wirtschaftliche Verhalten nur einer eindeutig identifizierbaren Gruppe von Verbrauchern wesentlich beeinflussen, die auf Grund von geistigen oder k\u00f6rperlichen Beeintr\u00e4chtigungen, Alter oder Leichtgl\u00e4ubigkeit im Hinblick auf diese gesch\u00e4ftlichen Handlungen oder die diesen zugrunde liegenden Waren oder Dienstleistungen besonders schutzbed\u00fcrftig sind, sind aus der Sicht eines durchschnittlichen Mitglieds dieser Gruppe zu beurteilen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE002500123",
+        "type": "article",
+        "name": "\u00a7 3a",
+        "title": "Rechtsbruch",
+        "body": {
+          "content": "<P>Unlauter handelt, wer einer gesetzlichen Vorschrift zuwiderhandelt, die auch dazu bestimmt ist, im Interesse der Marktteilnehmer das Marktverhalten zu regeln, und der Versto\u00df geeignet ist, die Interessen von Verbrauchern, sonstigen Marktteilnehmern oder Mitbewerbern sp\u00fcrbar zu beeintr\u00e4chtigen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE000403123",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Mitbewerberschutz",
+        "body": {
+          "content": "<P>Unlauter handelt, wer <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Kennzeichen, Waren, Dienstleistungen, T\u00e4tigkeiten oder pers\u00f6nlichen oder gesch\u00e4ftlichen Verh\u00e4ltnisse eines Mitbewerbers herabsetzt oder verunglimpft;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u00fcber die Waren, Dienstleistungen oder das Unternehmen eines Mitbewerbers oder \u00fcber den Unternehmer oder ein Mitglied der Unternehmensleitung Tatsachen behauptet oder verbreitet, die geeignet sind, den Betrieb des Unternehmens oder den Kredit des Unternehmers zu sch\u00e4digen, sofern die Tatsachen nicht erweislich wahr sind; handelt es sich um vertrauliche Mitteilungen und hat der Mitteilende oder der Empf\u00e4nger der Mitteilung an ihr ein berechtigtes Interesse, so ist die Handlung nur dann unlauter, wenn die Tatsachen der Wahrheit zuwider behauptet oder verbreitet wurden;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Waren oder Dienstleistungen anbietet, die eine Nachahmung der Waren oder Dienstleistungen eines Mitbewerbers sind, wenn er <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>eine vermeidbare T\u00e4uschung der Abnehmer \u00fcber die betriebliche Herkunft herbeif\u00fchrt,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die Wertsch\u00e4tzung der nachgeahmten Ware oder Dienstleistung unangemessen ausnutzt oder beeintr\u00e4chtigt oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>die f\u00fcr die Nachahmung erforderlichen Kenntnisse oder Unterlagen unredlich erlangt hat;</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Mitbewerber gezielt behindert.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE002600123",
+        "type": "article",
+        "name": "\u00a7 4a",
+        "title": "Aggressive gesch\u00e4ftliche Handlungen",
+        "body": {
+          "content": "<P>(1) Unlauter handelt, wer eine aggressive gesch\u00e4ftliche Handlung vornimmt, die geeignet ist, den Verbraucher oder sonstigen Marktteilnehmer zu einer gesch\u00e4ftlichen Entscheidung zu veranlassen, die dieser andernfalls nicht getroffen h\u00e4tte. Eine gesch\u00e4ftliche Handlung ist aggressiv, wenn sie im konkreten Fall unter Ber\u00fccksichtigung aller Umst\u00e4nde geeignet ist, die Entscheidungsfreiheit des Verbrauchers oder sonstigen Marktteilnehmers erheblich zu beeintr\u00e4chtigen durch <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Bel\u00e4stigung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>N\u00f6tigung einschlie\u00dflich der Anwendung k\u00f6rperlicher Gewalt oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>unzul\u00e4ssige Beeinflussung.</LA></DD></DL>Eine unzul\u00e4ssige Beeinflussung liegt vor, wenn der Unternehmer eine Machtposition gegen\u00fcber dem Verbraucher oder sonstigen Marktteilnehmer zur Aus\u00fcbung von Druck, auch ohne Anwendung oder Androhung von k\u00f6rperlicher Gewalt, in einer Weise ausnutzt, die die F\u00e4higkeit des Verbrauchers oder sonstigen Marktteilnehmers zu einer informierten Entscheidung wesentlich einschr\u00e4nkt.</P><P>(2) Bei der Feststellung, ob eine gesch\u00e4ftliche Handlung aggressiv im Sinne des Absatzes 1 Satz 2 ist, ist abzustellen auf <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Zeitpunkt, Ort, Art oder Dauer der Handlung;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Verwendung drohender oder beleidigender Formulierungen oder Verhaltensweisen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die bewusste Ausnutzung von konkreten Ungl\u00fcckssituationen oder Umst\u00e4nden von solcher Schwere, dass sie das Urteilsverm\u00f6gen des Verbrauchers oder sonstigen Marktteilnehmers beeintr\u00e4chtigen, um dessen Entscheidung zu beeinflussen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>belastende oder unverh\u00e4ltnism\u00e4\u00dfige Hindernisse nichtvertraglicher Art, mit denen der Unternehmer den Verbraucher oder sonstigen Marktteilnehmer an der Aus\u00fcbung seiner vertraglichen Rechte zu hindern versucht, wozu auch das Recht geh\u00f6rt, den Vertrag zu k\u00fcndigen oder zu einer anderen Ware oder Dienstleistung oder einem anderen Unternehmer zu wechseln;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Drohungen mit rechtlich unzul\u00e4ssigen Handlungen.</LA></DD></DL>Zu den Umst\u00e4nden, die nach Nummer 3 zu ber\u00fccksichtigen sind, z\u00e4hlen insbesondere geistige und k\u00f6rperliche Beeintr\u00e4chtigungen, das Alter, die gesch\u00e4ftliche Unerfahrenheit, die Leichtgl\u00e4ubigkeit, die Angst und die Zwangslage von Verbrauchern.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE000503123",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Irref\u00fchrende gesch\u00e4ftliche Handlungen",
+        "body": {
+          "content": "<P>(1) Unlauter handelt, wer eine irref\u00fchrende gesch\u00e4ftliche Handlung vornimmt, die geeignet ist, den Verbraucher oder sonstigen Marktteilnehmer zu einer gesch\u00e4ftlichen Entscheidung zu veranlassen, die er andernfalls nicht getroffen h\u00e4tte. Eine gesch\u00e4ftliche Handlung ist irref\u00fchrend, wenn sie unwahre Angaben enth\u00e4lt oder sonstige zur T\u00e4uschung geeignete Angaben \u00fcber folgende Umst\u00e4nde enth\u00e4lt: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die wesentlichen Merkmale der Ware oder Dienstleistung wie Verf\u00fcgbarkeit, Art, Ausf\u00fchrung, Vorteile, Risiken, Zusammensetzung, Zubeh\u00f6r, Verfahren oder Zeitpunkt der Herstellung, Lieferung oder Erbringung, Zwecktauglichkeit, Verwendungsm\u00f6glichkeit, Menge, Beschaffenheit, Kundendienst und Beschwerdeverfahren, geographische oder betriebliche Herkunft, von der Verwendung zu erwartende Ergebnisse oder die Ergebnisse oder wesentlichen Bestandteile von Tests der Waren oder Dienstleistungen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den Anlass des Verkaufs wie das Vorhandensein eines besonderen Preisvorteils, den Preis oder die Art und Weise, in der er berechnet wird, oder die Bedingungen, unter denen die Ware geliefert oder die Dienstleistung erbracht wird;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Person, Eigenschaften oder Rechte des Unternehmers wie Identit\u00e4t, Verm\u00f6gen einschlie\u00dflich der Rechte des geistigen Eigentums, den Umfang von Verpflichtungen, Bef\u00e4higung, Status, Zulassung, Mitgliedschaften oder Beziehungen, Auszeichnungen oder Ehrungen, Beweggr\u00fcnde f\u00fcr die gesch\u00e4ftliche Handlung oder die Art des Vertriebs;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Aussagen oder Symbole, die im Zusammenhang mit direktem oder indirektem Sponsoring stehen oder sich auf eine Zulassung des Unternehmers oder der Waren oder Dienstleistungen beziehen;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Notwendigkeit einer Leistung, eines Ersatzteils, eines Austauschs oder einer Reparatur;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Einhaltung eines Verhaltenskodexes, auf den sich der Unternehmer verbindlich verpflichtet hat, wenn er auf diese Bindung hinweist, oder</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Rechte des Verbrauchers, insbesondere solche auf Grund von Garantieversprechen oder Gew\u00e4hrleistungsrechte bei Leistungsst\u00f6rungen.</LA></DD></DL></P><P>(2) Eine gesch\u00e4ftliche Handlung ist auch irref\u00fchrend, wenn sie im Zusammenhang mit der Vermarktung von Waren oder Dienstleistungen einschlie\u00dflich vergleichender Werbung eine Verwechslungsgefahr mit einer anderen Ware oder Dienstleistung oder mit der Marke oder einem anderen Kennzeichen eines Mitbewerbers hervorruft.</P><P>(3) Angaben im Sinne von Absatz 1 Satz 2 sind auch Angaben im Rahmen vergleichender Werbung sowie bildliche Darstellungen und sonstige Veranstaltungen, die darauf zielen und geeignet sind, solche Angaben zu ersetzen.</P><P>(4) Es wird vermutet, dass es irref\u00fchrend ist, mit der Herabsetzung eines Preises zu werben, sofern der Preis nur f\u00fcr eine unangemessen kurze Zeit gefordert worden ist. Ist streitig, ob und in welchem Zeitraum der Preis gefordert worden ist, so trifft die Beweislast denjenigen, der mit der Preisherabsetzung geworben hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE002303123",
+        "type": "article",
+        "name": "\u00a7 5a",
+        "title": "Irref\u00fchrung durch Unterlassen",
+        "body": {
+          "content": "<P>(1) Bei der Beurteilung, ob das Verschweigen einer Tatsache irref\u00fchrend ist, sind insbesondere deren Bedeutung f\u00fcr die gesch\u00e4ftliche Entscheidung nach der Verkehrsauffassung sowie die Eignung des Verschweigens zur Beeinflussung der Entscheidung zu ber\u00fccksichtigen.</P><P>(2) Unlauter handelt, wer im konkreten Fall unter Ber\u00fccksichtigung aller Umst\u00e4nde dem Verbraucher eine wesentliche Information vorenth\u00e4lt, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die der Verbraucher je nach den Umst\u00e4nden ben\u00f6tigt, um eine informierte gesch\u00e4ftliche Entscheidung zu treffen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>deren Vorenthalten geeignet ist, den Verbraucher zu einer gesch\u00e4ftlichen Entscheidung zu veranlassen, die er andernfalls nicht getroffen h\u00e4tte.</LA></DD></DL>Als Vorenthalten gilt auch <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Verheimlichen wesentlicher Informationen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Bereitstellung wesentlicher Informationen in unklarer, unverst\u00e4ndlicher oder zweideutiger Weise,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die nicht rechtzeitige Bereitstellung wesentlicher Informationen.</LA></DD></DL></P><P>(3) Werden Waren oder Dienstleistungen unter Hinweis auf deren Merkmale und Preis in einer dem verwendeten Kommunikationsmittel angemessenen Weise so angeboten, dass ein durchschnittlicher Verbraucher das Gesch\u00e4ft abschlie\u00dfen kann, gelten folgende Informationen als wesentlich im Sinne des Absatzes 2, sofern sie sich nicht unmittelbar aus den Umst\u00e4nden ergeben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>alle wesentlichen Merkmale der Ware oder Dienstleistung in dem dieser und dem verwendeten Kommunikationsmittel angemessenen Umfang;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Identit\u00e4t und Anschrift des Unternehmers, gegebenenfalls die Identit\u00e4t und Anschrift des Unternehmers, f\u00fcr den er handelt;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Gesamtpreis oder in F\u00e4llen, in denen ein solcher Preis auf Grund der Beschaffenheit der Ware oder Dienstleistung nicht im Voraus berechnet werden kann, die Art der Preisberechnung sowie gegebenenfalls alle zus\u00e4tzlichen Fracht-, Liefer- und Zustellkosten oder in F\u00e4llen, in denen diese Kosten nicht im Voraus berechnet werden k\u00f6nnen, die Tatsache, dass solche zus\u00e4tzlichen Kosten anfallen k\u00f6nnen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Zahlungs-, Liefer- und Leistungsbedingungen sowie Verfahren zum Umgang mit Beschwerden, soweit sie von Erfordernissen der unternehmerischen Sorgfalt abweichen, und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>das Bestehen eines Rechts zum R\u00fccktritt oder Widerruf.</LA></DD></DL></P><P>(4) Als wesentlich im Sinne des Absatzes 2 gelten auch Informationen, die dem Verbraucher auf Grund unionsrechtlicher Verordnungen oder nach Rechtsvorschriften zur Umsetzung unionsrechtlicher Richtlinien f\u00fcr kommerzielle Kommunikation einschlie\u00dflich Werbung und Marketing nicht vorenthalten werden d\u00fcrfen.</P><P>(5) Bei der Beurteilung, ob Informationen vorenthalten wurden, sind zu ber\u00fccksichtigen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>r\u00e4umliche oder zeitliche Beschr\u00e4nkungen durch das f\u00fcr die gesch\u00e4ftliche Handlung gew\u00e4hlte Kommunikationsmittel sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>alle Ma\u00dfnahmen des Unternehmers, um dem Verbraucher die Informationen auf andere Weise als durch das Kommunikationsmittel nach Nummer 1 zur Verf\u00fcgung zu stellen.</LA></DD></DL></P><P>(6) Unlauter handelt auch, wer den kommerziellen Zweck einer gesch\u00e4ftlichen Handlung nicht kenntlich macht, sofern sich dieser nicht unmittelbar aus den Umst\u00e4nden ergibt, und das Nichtkenntlichmachen geeignet ist, den Verbraucher zu einer gesch\u00e4ftlichen Entscheidung zu veranlassen, die er andernfalls nicht getroffen h\u00e4tte.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE000602140",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Vergleichende Werbung",
+        "body": {
+          "content": "<P>(1) Vergleichende Werbung ist jede Werbung, die unmittelbar oder mittelbar einen Mitbewerber oder die von einem Mitbewerber angebotenen Waren oder Dienstleistungen erkennbar macht.</P><P>(2) Unlauter handelt, wer vergleichend wirbt, wenn der Vergleich <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>sich nicht auf Waren oder Dienstleistungen f\u00fcr den gleichen Bedarf oder dieselbe Zweckbestimmung bezieht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>nicht objektiv auf eine oder mehrere wesentliche, relevante, nachpr\u00fcfbare und typische Eigenschaften oder den Preis dieser Waren oder Dienstleistungen bezogen ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>im gesch\u00e4ftlichen Verkehr zu einer Gefahr von Verwechslungen zwischen dem Werbenden und einem Mitbewerber oder zwischen den von diesen angebotenen Waren oder Dienstleistungen oder den von ihnen verwendeten Kennzeichen f\u00fchrt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>den Ruf des von einem Mitbewerber verwendeten Kennzeichens in unlauterer Weise ausnutzt oder beeintr\u00e4chtigt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Waren, Dienstleistungen, T\u00e4tigkeiten oder pers\u00f6nlichen oder gesch\u00e4ftlichen Verh\u00e4ltnisse eines Mitbewerbers herabsetzt oder verunglimpft oder</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>eine Ware oder Dienstleistung als Imitation oder Nachahmung einer unter einem gesch\u00fctzten Kennzeichen vertriebenen Ware oder Dienstleistung darstellt.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE000704360",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Unzumutbare Bel\u00e4stigungen",
+        "body": {
+          "content": "<P>(1) Eine gesch\u00e4ftliche Handlung, durch die ein Marktteilnehmer in unzumutbarer Weise bel\u00e4stigt wird, ist unzul\u00e4ssig. Dies gilt insbesondere f\u00fcr Werbung, obwohl erkennbar ist, dass der angesprochene Marktteilnehmer diese Werbung nicht w\u00fcnscht.</P><P>(2) Eine unzumutbare Bel\u00e4stigung ist stets anzunehmen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei Werbung unter Verwendung eines in den Nummern 2 und 3 nicht aufgef\u00fchrten, f\u00fcr den Fernabsatz geeigneten Mittels der kommerziellen Kommunikation, durch die ein Verbraucher hartn\u00e4ckig angesprochen wird, obwohl er dies erkennbar nicht w\u00fcnscht;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei Werbung mit einem Telefonanruf gegen\u00fcber einem Verbraucher ohne dessen vorherige ausdr\u00fcckliche Einwilligung oder gegen\u00fcber einem sonstigen Marktteilnehmer ohne dessen zumindest mutma\u00dfliche Einwilligung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>bei Werbung unter Verwendung einer automatischen Anrufmaschine, eines Faxger\u00e4tes oder elektronischer Post, ohne dass eine vorherige ausdr\u00fcckliche Einwilligung des Adressaten vorliegt, oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>bei Werbung mit einer Nachricht, <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>bei der die Identit\u00e4t des Absenders, in dessen Auftrag die Nachricht \u00fcbermittelt wird, verschleiert oder verheimlicht wird oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>bei der gegen \u00a7 6 Absatz 1 des Telemediengesetzes versto\u00dfen wird oder in der der Empf\u00e4nger aufgefordert wird, eine Website aufzurufen, die gegen diese Vorschrift verst\u00f6\u00dft, oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>bei der keine g\u00fcltige Adresse vorhanden ist, an die der Empf\u00e4nger eine Aufforderung zur Einstellung solcher Nachrichten richten kann, ohne dass hierf\u00fcr andere als die \u00dcbermittlungskosten nach den Basistarifen entstehen.</LA></DD></DL></LA></DD></DL></P><P>(3) Abweichend von Absatz 2 Nummer 3 ist eine unzumutbare Bel\u00e4stigung bei einer Werbung unter Verwendung elektronischer Post nicht anzunehmen, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>ein Unternehmer im Zusammenhang mit dem Verkauf einer Ware oder Dienstleistung von dem Kunden dessen elektronische Postadresse erhalten hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Unternehmer die Adresse zur Direktwerbung f\u00fcr eigene \u00e4hnliche Waren oder Dienstleistungen verwendet,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Kunde der Verwendung nicht widersprochen hat und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der Kunde bei Erhebung der Adresse und bei jeder Verwendung klar und deutlich darauf hingewiesen wird, dass er der Verwendung jederzeit widersprechen kann, ohne dass hierf\u00fcr andere als die \u00dcbermittlungskosten nach den Basistarifen entstehen.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000101140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNG000201140",
+        "type": "heading",
+        "name": "Kapitel 2",
+        "title": "Rechtsfolgen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR141400004BJNE000807123",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Beseitigung und Unterlassung",
+        "body": {
+          "content": "<P>(1) Wer eine nach \u00a7 3 oder \u00a7 7 unzul\u00e4ssige gesch\u00e4ftliche Handlung vornimmt, kann auf Beseitigung und bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch auf Unterlassung besteht bereits dann, wenn eine derartige Zuwiderhandlung gegen \u00a7 3 oder \u00a7 7 droht.</P><P>(2) Werden die Zuwiderhandlungen in einem Unternehmen von einem Mitarbeiter oder Beauftragten begangen, so sind der Unterlassungsanspruch und der Beseitigungsanspruch auch gegen den Inhaber des Unternehmens begr\u00fcndet.</P><P>(3) Die Anspr\u00fcche aus Absatz 1 stehen zu: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">jedem Mitbewerber;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">rechtsf\u00e4higen Verb\u00e4nden zur F\u00f6rderung gewerblicher oder selbst\u00e4ndiger beruflicher Interessen, soweit ihnen eine erhebliche Zahl von Unternehmern angeh\u00f6rt, die Waren oder Dienstleistungen gleicher oder verwandter Art auf demselben Markt vertreiben, wenn sie insbesondere nach ihrer personellen, sachlichen und finanziellen Ausstattung imstande sind, ihre satzungsm\u00e4\u00dfigen Aufgaben der Verfolgung gewerblicher oder selbst\u00e4ndiger beruflicher Interessen tats\u00e4chlich wahrzunehmen und soweit die Zuwiderhandlung die Interessen ihrer Mitglieder ber\u00fchrt;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>qualifizierten Einrichtungen, die nachweisen, dass sie in der Liste der qualifizierten Einrichtungen nach \u00a7 4 des Unterlassungsklagengesetzes oder in dem Verzeichnis der Europ\u00e4ischen Kommission nach Artikel 4 Absatz 3 der Richtlinie 2009/22/EG des Europ\u00e4ischen Parlaments und des Rates vom 23. April 2009 \u00fcber Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30) eingetragen sind;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Industrie- und Handelskammern oder den Handwerkskammern.</LA></DD></DL></P><P>(4) Die Geltendmachung der in Absatz 1 bezeichneten Anspr\u00fcche ist unzul\u00e4ssig, wenn sie unter Ber\u00fccksichtigung der gesamten Umst\u00e4nde missbr\u00e4uchlich ist, insbesondere wenn sie vorwiegend dazu dient, gegen den Zuwiderhandelnden einen Anspruch auf Ersatz von Aufwendungen oder Kosten der Rechtsverfolgung entstehen zu lassen. In diesen F\u00e4llen kann der Anspruchsgegner Ersatz der f\u00fcr seine Rechtsverteidigung erforderlichen Aufwendungen verlangen. Weiter gehende Ersatzanspr\u00fcche bleiben unber\u00fchrt.</P><P>(5) \u00a7 13 des Unterlassungsklagengesetzes ist entsprechend anzuwenden; in \u00a7 13 Absatz 1 und 3 Satz 2 des Unterlassungsklagengesetzes treten an die Stelle der dort aufgef\u00fchrten Anspr\u00fcche nach dem Unterlassungsklagengesetz die Anspr\u00fcche nach dieser Vorschrift. Im \u00dcbrigen findet das Unterlassungsklagengesetz keine Anwendung, es sei denn, es liegt ein Fall des \u00a7 4a des Unterlassungsklagengesetzes vor.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000201140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE000902140",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Schadensersatz",
+        "body": {
+          "content": "<P>Wer vors\u00e4tzlich oder fahrl\u00e4ssig eine nach \u00a7 3 oder \u00a7 7 unzul\u00e4ssige gesch\u00e4ftliche Handlung vornimmt, ist den Mitbewerbern zum Ersatz des daraus entstehenden Schadens verpflichtet. Gegen verantwortliche Personen von periodischen Druckschriften kann der Anspruch auf Schadensersatz nur bei einer vors\u00e4tzlichen Zuwiderhandlung geltend gemacht werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000201140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE001003140",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Gewinnabsch\u00f6pfung",
+        "body": {
+          "content": "<P>(1) Wer vors\u00e4tzlich eine nach \u00a7 3 oder \u00a7 7 unzul\u00e4ssige gesch\u00e4ftliche Handlung vornimmt und hierdurch zu Lasten einer Vielzahl von Abnehmern einen Gewinn erzielt, kann von den gem\u00e4\u00df \u00a7 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten auf Herausgabe dieses Gewinns an den Bundeshaushalt in Anspruch genommen werden.</P><P>(2) Auf den Gewinn sind die Leistungen anzurechnen, die der Schuldner auf Grund der Zuwiderhandlung an Dritte oder an den Staat erbracht hat. Soweit der Schuldner solche Leistungen erst nach Erf\u00fcllung des Anspruchs nach Absatz 1 erbracht hat, erstattet die zust\u00e4ndige Stelle des Bundes dem Schuldner den abgef\u00fchrten Gewinn in H\u00f6he der nachgewiesenen Zahlungen zur\u00fcck.</P><P>(3) Beanspruchen mehrere Gl\u00e4ubiger den Gewinn, so gelten die \u00a7\u00a7 428 bis 430 des B\u00fcrgerlichen Gesetzbuchs entsprechend.</P><P>(4) Die Gl\u00e4ubiger haben der zust\u00e4ndigen Stelle des Bundes \u00fcber die Geltendmachung von Anspr\u00fcchen nach Absatz 1 Auskunft zu erteilen. Sie k\u00f6nnen von der zust\u00e4ndigen Stelle des Bundes Erstattung der f\u00fcr die Geltendmachung des Anspruchs erforderlichen Aufwendungen verlangen, soweit sie vom Schuldner keinen Ausgleich erlangen k\u00f6nnen. Der Erstattungsanspruch ist auf die H\u00f6he des an den Bundeshaushalt abgef\u00fchrten Gewinns beschr\u00e4nkt.</P><P>(5) Zust\u00e4ndige Stelle im Sinn der Abs\u00e4tze 2 und 4 ist das Bundesamt f\u00fcr Justiz.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000201140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE001101140",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Verj\u00e4hrung",
+        "body": {
+          "content": "<P>(1) Die Anspr\u00fcche aus den \u00a7\u00a7 8, 9 und 12 Absatz 1 Satz 2 verj\u00e4hren in sechs Monaten.</P><P>(2) Die Verj\u00e4hrungsfrist beginnt, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Anspruch entstanden ist und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Gl\u00e4ubiger von den den Anspruch begr\u00fcndenden Umst\u00e4nden und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrl\u00e4ssigkeit erlangen m\u00fcsste.</LA></DD></DL></P><P>(3) Schadensersatzanspr\u00fcche verj\u00e4hren ohne R\u00fccksicht auf die Kenntnis oder grob fahrl\u00e4ssige Unkenntnis in zehn Jahren von ihrer Entstehung, sp\u00e4testens in 30 Jahren von der den Schaden ausl\u00f6senden Handlung an.</P><P>(4) Andere Anspr\u00fcche verj\u00e4hren ohne R\u00fccksicht auf die Kenntnis oder grob fahrl\u00e4ssige Unkenntnis in drei Jahren von der Entstehung an.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000201140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNG000301140",
+        "type": "heading",
+        "name": "Kapitel 3",
+        "title": "Verfahrensvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR141400004BJNE001202360",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Anspruchsdurchsetzung, Ver\u00f6ffentlichungsbefugnis, Streitwertminderung",
+        "body": {
+          "content": "<P>(1) Die zur Geltendmachung eines Unterlassungsanspruchs Berechtigten sollen den Schuldner vor der Einleitung eines gerichtlichen Verfahrens abmahnen und ihm Gelegenheit geben, den Streit durch Abgabe einer mit einer angemessenen Vertragsstrafe bewehrten Unterlassungsverpflichtung beizulegen. Soweit die Abmahnung berechtigt ist, kann der Ersatz der erforderlichen Aufwendungen verlangt werden.</P><P>(2) Zur Sicherung der in diesem Gesetz bezeichneten Anspr\u00fcche auf Unterlassung k\u00f6nnen einstweilige Verf\u00fcgungen auch ohne die Darlegung und Glaubhaftmachung der in den \u00a7\u00a7 935 und 940 der Zivilprozessordnung bezeichneten Voraussetzungen erlassen werden.</P><P>(3) Ist auf Grund dieses Gesetzes Klage auf Unterlassung erhoben worden, so kann das Gericht der obsiegenden Partei die Befugnis zusprechen, das Urteil auf Kosten der unterliegenden Partei \u00f6ffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse dartut. Art und Umfang der Bekanntmachung werden im Urteil bestimmt. Die Befugnis erlischt, wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der Rechtskraft Gebrauch gemacht worden ist. Der Ausspruch nach Satz 1 ist nicht vorl\u00e4ufig vollstreckbar.</P><P>(4) Macht eine Partei in Rechtsstreitigkeiten, in denen durch Klage ein Anspruch aus einem der in diesem Gesetz geregelten Rechtsverh\u00e4ltnisse geltend gemacht wird, glaubhaft, dass die Belastung mit den Prozesskosten nach dem vollen Streitwert ihre wirtschaftliche Lage erheblich gef\u00e4hrden w\u00fcrde, so kann das Gericht auf ihren Antrag anordnen, dass die Verpflichtung dieser Partei zur Zahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage angepassten Teil des Streitwerts bemisst. Die Anordnung hat zur Folge, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die beg\u00fcnstigte Partei die Geb\u00fchren ihres Rechtsanwalts ebenfalls nur nach diesem Teil des Streitwerts zu entrichten hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die beg\u00fcnstigte Partei, soweit ihr Kosten des Rechtsstreits auferlegt werden oder soweit sie diese \u00fcbernimmt, die von dem Gegner entrichteten Gerichtsgeb\u00fchren und die Geb\u00fchren seines Rechtsanwalts nur nach dem Teil des Streitwerts zu erstatten hat und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Rechtsanwalt der beg\u00fcnstigten Partei, soweit die au\u00dfergerichtlichen Kosten dem Gegner auferlegt oder von ihm \u00fcbernommen werden, seine Geb\u00fchren von dem Gegner nach dem f\u00fcr diesen geltenden Streitwert beitreiben kann.</LA></DD></DL></P><P>(5) Der Antrag nach Absatz 4 kann vor der Gesch\u00e4ftsstelle des Gerichts zur Niederschrift erkl\u00e4rt werden. Er ist vor der Verhandlung zur Hauptsache anzubringen. Danach ist er nur zul\u00e4ssig, wenn der angenommene oder festgesetzte Streitwert sp\u00e4ter durch das Gericht heraufgesetzt wird. Vor der Entscheidung \u00fcber den Antrag ist der Gegner zu h\u00f6ren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000301140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE001301140",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Sachliche Zust\u00e4ndigkeit",
+        "body": {
+          "content": "<P>(1) F\u00fcr alle b\u00fcrgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, sind die Landgerichte ausschlie\u00dflich zust\u00e4ndig. Es gilt \u00a7 95 Absatz 1 Nummer 5 des Gerichtsverfassungsgesetzes.</P><P>(2) Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung f\u00fcr die Bezirke mehrerer Landgerichte eines von ihnen als Gericht f\u00fcr Wettbewerbsstreitsachen zu bestimmen, wenn dies der Rechtspflege in Wettbewerbsstreitsachen, insbesondere der Sicherung einer einheitlichen Rechtsprechung, dienlich ist. Die Landesregierungen k\u00f6nnen die Erm\u00e4chtigung auf die Landesjustizverwaltungen \u00fcbertragen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000301140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE001401140",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "\u00d6rtliche Zust\u00e4ndigkeit",
+        "body": {
+          "content": "<P>(1) F\u00fcr Klagen auf Grund dieses Gesetzes ist das Gericht zust\u00e4ndig, in dessen Bezirk der Beklagte seine gewerbliche oder selbst\u00e4ndige berufliche Niederlassung oder in Ermangelung einer solchen seinen Wohnsitz hat. Hat der Beklagte auch keinen Wohnsitz, so ist sein inl\u00e4ndischer Aufenthaltsort ma\u00dfgeblich.</P><P>(2) F\u00fcr Klagen auf Grund dieses Gesetzes ist au\u00dferdem nur das Gericht zust\u00e4ndig, in dessen Bezirk die Handlung begangen ist. Satz 1 gilt f\u00fcr Klagen, die von den nach \u00a7 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten erhoben werden, nur dann, wenn der Beklagte im Inland weder eine gewerbliche oder selbst\u00e4ndige berufliche Niederlassung noch einen Wohnsitz hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000301140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE001502140",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Einigungsstellen",
+        "body": {
+          "content": "<P>(1) Die Landesregierungen errichten bei Industrie- und Handelskammern Einigungsstellen zur Beilegung von b\u00fcrgerlichen Rechtsstreitigkeiten, in denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird (Einigungsstellen).</P><P>(2) Die Einigungsstellen sind mit einer vorsitzenden Person, die die Bef\u00e4higung zum Richteramt nach dem Deutschen Richtergesetz hat, und beisitzenden Personen zu besetzen. Als beisitzende Personen werden im Falle einer Anrufung durch eine nach \u00a7 8 Absatz 3 Nummer 3 zur Geltendmachung eines Unterlassungsanspruchs berechtigte qualifizierte Einrichtung Unternehmer und Verbraucher in gleicher Anzahl t\u00e4tig, sonst mindestens zwei sachverst\u00e4ndige Unternehmer. Die vorsitzende Person soll auf dem Gebiet des Wettbewerbsrechts erfahren sein. Die beisitzenden Personen werden von der vorsitzenden Person f\u00fcr den jeweiligen Streitfall aus einer allj\u00e4hrlich f\u00fcr das Kalenderjahr aufzustellenden Liste berufen. Die Berufung soll im Einvernehmen mit den Parteien erfolgen. F\u00fcr die Ausschlie\u00dfung und Ablehnung von Mitgliedern der Einigungsstelle sind die \u00a7\u00a7 41 bis 43 und \u00a7 44 Absatz 2 bis 4 der Zivilprozessordnung entsprechend anzuwenden. \u00dcber das Ablehnungsgesuch entscheidet das f\u00fcr den Sitz der Einigungsstelle zust\u00e4ndige Landgericht (Kammer f\u00fcr Handelssachen oder, falls es an einer solchen fehlt, Zivilkammer).</P><P>(3) Die Einigungsstellen k\u00f6nnen bei b\u00fcrgerlichen Rechtsstreitigkeiten, in denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, angerufen werden, wenn der Gegner zustimmt. Soweit die Wettbewerbshandlungen Verbraucher betreffen, k\u00f6nnen die Einigungsstellen von jeder Partei zu einer Aussprache mit dem Gegner \u00fcber den Streitfall angerufen werden; einer Zustimmung des Gegners bedarf es nicht.</P><P>(4) F\u00fcr die Zust\u00e4ndigkeit der Einigungsstellen ist \u00a7 14 entsprechend anzuwenden.</P><P>(5) Die der Einigungsstelle vorsitzende Person kann das pers\u00f6nliche Erscheinen der Parteien anordnen. Gegen eine unentschuldigt ausbleibende Partei kann die Einigungsstelle ein Ordnungsgeld festsetzen. Gegen die Anordnung des pers\u00f6nlichen Erscheinens und gegen die Festsetzung des Ordnungsgeldes findet die sofortige Beschwerde nach den Vorschriften der Zivilprozessordnung an das f\u00fcr den Sitz der Einigungsstelle zust\u00e4ndige Landgericht (Kammer f\u00fcr Handelssachen oder, falls es an einer solchen fehlt, Zivilkammer) statt.</P><P>(6) Die Einigungsstelle hat einen g\u00fctlichen Ausgleich anzustreben. Sie kann den Parteien einen schriftlichen, mit Gr\u00fcnden versehenen Einigungsvorschlag machen. Der Einigungsvorschlag und seine Begr\u00fcndung d\u00fcrfen nur mit Zustimmung der Parteien ver\u00f6ffentlicht werden.</P><P>(7) Kommt ein Vergleich zustande, so muss er in einem besonderen Schriftst\u00fcck niedergelegt und unter Angabe des Tages seines Zustandekommens von den Mitgliedern der Einigungsstelle, welche in der Verhandlung mitgewirkt haben, sowie von den Parteien unterschrieben werden. Aus einem vor der Einigungsstelle geschlossenen Vergleich findet die Zwangsvollstreckung statt; \u00a7 797a der Zivilprozessordnung ist entsprechend anzuwenden.</P><P>(8) Die Einigungsstelle kann, wenn sie den geltend gemachten Anspruch von vornherein f\u00fcr unbegr\u00fcndet oder sich selbst f\u00fcr unzust\u00e4ndig erachtet, die Einleitung von Einigungsverhandlungen ablehnen.</P><P>(9) Durch die Anrufung der Einigungsstelle wird die Verj\u00e4hrung in gleicher Weise wie durch Klageerhebung gehemmt. Kommt ein Vergleich nicht zustande, so ist der Zeitpunkt, zu dem das Verfahren beendet ist, von der Einigungsstelle festzustellen. Die vorsitzende Person hat dies den Parteien mitzuteilen.</P><P>(10) Ist ein Rechtsstreit der in Absatz 3 Satz 2 bezeichneten Art ohne vorherige Anrufung der Einigungsstelle anh\u00e4ngig gemacht worden, so kann das Gericht auf Antrag den Parteien unter Anberaumung eines neuen Termins aufgeben, vor diesem Termin die Einigungsstelle zur Herbeif\u00fchrung eines g\u00fctlichen Ausgleichs anzurufen. In dem Verfahren \u00fcber den Antrag auf Erlass einer einstweiligen Verf\u00fcgung ist diese Anordnung nur zul\u00e4ssig, wenn der Gegner zustimmt. Absatz 8 ist nicht anzuwenden. Ist ein Verfahren vor der Einigungsstelle anh\u00e4ngig, so ist eine erst nach Anrufung der Einigungsstelle erhobene Klage des Antragsgegners auf Feststellung, dass der geltend gemachte Anspruch nicht bestehe, nicht zul\u00e4ssig.</P><P>(11) Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung die zur Durchf\u00fchrung der vorstehenden Bestimmungen und zur Regelung des Verfahrens vor den Einigungsstellen erforderlichen Vorschriften zu erlassen, insbesondere \u00fcber die Aufsicht \u00fcber die Einigungsstellen, \u00fcber ihre Besetzung unter angemessener Beteiligung der nicht den Industrie- und Handelskammern angeh\u00f6renden Unternehmern (\u00a7 2 Absatz 2 bis 6 des Gesetzes zur vorl\u00e4ufigen Regelung des Rechts der Industrie- und Handelskammern in der im Bundesgesetzblatt Teil III, Gliederungsnummer 701-1, ver\u00f6ffentlichten bereinigten Fassung) und \u00fcber die Vollstreckung von Ordnungsgeldern sowie Bestimmungen \u00fcber die Erhebung von Auslagen durch die Einigungsstelle zu treffen. Bei der Besetzung der Einigungsstellen sind die Vorschl\u00e4ge der f\u00fcr ein Bundesland errichteten, mit \u00f6ffentlichen Mitteln gef\u00f6rderten Verbraucherzentralen zur Bestimmung der in Absatz 2 Satz 2 genannten Verbraucher zu ber\u00fccksichtigen.</P><P>(12) Abweichend von Absatz 2 Satz 1 kann in den L\u00e4ndern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Th\u00fcringen die Einigungsstelle auch mit einem Rechtskundigen als Vorsitzendem besetzt werden, der die Bef\u00e4higung zum Berufsrichter nach dem Recht der Deutschen Demokratischen Republik erworben hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000301140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNG000402140",
+        "type": "heading",
+        "name": "Kapitel 4",
+        "title": "Straf- und Bu\u00dfgeldvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR141400004BJNE001601140",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Strafbare Werbung",
+        "body": {
+          "content": "<P>(1) Wer in der Absicht, den Anschein eines besonders g\u00fcnstigen Angebots hervorzurufen, in \u00f6ffentlichen Bekanntmachungen oder in Mitteilungen, die f\u00fcr einen gr\u00f6\u00dferen Kreis von Personen bestimmt sind, durch unwahre Angaben irref\u00fchrend wirbt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.</P><P>(2) Wer es im gesch\u00e4ftlichen Verkehr unternimmt, Verbraucher zur Abnahme von Waren, Dienstleistungen oder Rechten durch das Versprechen zu veranlassen, sie w\u00fcrden entweder vom Veranstalter selbst oder von einem Dritten besondere Vorteile erlangen, wenn sie andere zum Abschluss gleichartiger Gesch\u00e4fte veranlassen, die ihrerseits nach der Art dieser Werbung derartige Vorteile f\u00fcr eine entsprechende Werbung weiterer Abnehmer erlangen sollen, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000402140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE001702360",
+        "type": "article",
+        "name": "(XXXX) \u00a7\u00a7 17 bis 19",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000402140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE002003360",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Bu\u00dfgeldvorschriften",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig entgegen \u00a7 7 Absatz 1 <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>in Verbindung mit \u00a7 7 Absatz 2 Nummer 2 mit einem Telefonanruf oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in Verbindung mit \u00a7 7 Absatz 2 Nummer 3 unter Verwendung einer automatischen Anrufmaschine</LA></DD></DL>gegen\u00fcber einem Verbraucher ohne dessen vorherige ausdr\u00fcckliche Einwilligung wirbt.</P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu dreihunderttausend Euro geahndet werden.</P><P>(3) Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Absatz 1 Nummer 1 des Gesetzes \u00fcber Ordnungswidrigkeiten ist die Bundesnetzagentur f\u00fcr Elektrizit\u00e4t, Gas, Telekommunikation, Post und Eisenbahnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000402140"
+        }
+      },
+      {
+        "id": "BJNR141400004BJNE002403123",
+        "type": "article",
+        "name": "Anhang",
+        "title": "(zu \u00a7 3 Absatz 3)",
+        "body": {
+          "content": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2010, 262 - 263)</kommentar></noindex></P><P>Unzul\u00e4ssige gesch\u00e4ftliche Handlungen im Sinne des \u00a7 3 Absatz 3 sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe eines Unternehmers, zu den Unterzeichnern eines Verhaltenskodexes zu geh\u00f6ren;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verwendung von G\u00fctezeichen, Qualit\u00e4tskennzeichen oder \u00c4hnlichem ohne die erforderliche Genehmigung;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe, ein Verhaltenskodex sei von einer \u00f6ffentlichen oder anderen Stelle gebilligt;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe, ein Unternehmer, eine von ihm vorgenommene gesch\u00e4ftliche Handlung oder eine Ware oder Dienstleistung sei von einer \u00f6ffentlichen oder privaten Stelle best\u00e4tigt, gebilligt oder genehmigt worden, oder die unwahre Angabe, den Bedingungen f\u00fcr die Best\u00e4tigung, Billigung oder Genehmigung werde entsprochen;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waren- oder Dienstleistungsangebote im Sinne des \u00a7 5a Absatz 3 zu einem bestimmten Preis, wenn der Unternehmer nicht dar\u00fcber aufkl\u00e4rt, dass er hinreichende Gr\u00fcnde f\u00fcr die Annahme hat, er werde nicht in der Lage sein, diese oder gleichartige Waren oder Dienstleistungen f\u00fcr einen angemessenen Zeitraum in angemessener Menge zum genannten Preis bereitzustellen oder bereitstellen zu lassen (Lockangebote). Ist die Bevorratung k\u00fcrzer als zwei Tage, obliegt es dem Unternehmer, die Angemessenheit nachzuweisen;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waren- oder Dienstleistungsangebote im Sinne des \u00a7 5a Absatz 3 zu einem bestimmten Preis, wenn der Unternehmer sodann in der Absicht, stattdessen eine andere Ware oder Dienstleistung abzusetzen, eine fehlerhafte Ausf\u00fchrung der Ware oder Dienstleistung vorf\u00fchrt oder sich weigert zu zeigen, was er beworben hat, oder sich weigert, Bestellungen daf\u00fcr anzunehmen oder die beworbene Leistung innerhalb einer vertretbaren Zeit zu erbringen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe, bestimmte Waren oder Dienstleistungen seien allgemein oder zu bestimmten Bedingungen nur f\u00fcr einen sehr begrenzten Zeitraum verf\u00fcgbar, um den Verbraucher zu einer sofortigen gesch\u00e4ftlichen Entscheidung zu veranlassen, ohne dass dieser Zeit und Gelegenheit hat, sich auf Grund von Informationen zu entscheiden;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kundendienstleistungen in einer anderen Sprache als derjenigen, in der die Verhandlungen vor dem Abschluss des Gesch\u00e4fts gef\u00fchrt worden sind, wenn die urspr\u00fcnglich verwendete Sprache nicht Amtssprache des Mitgliedstaats ist, in dem der Unternehmer niedergelassen ist; dies gilt nicht, soweit Verbraucher vor dem Abschluss des Gesch\u00e4fts dar\u00fcber aufgekl\u00e4rt werden, dass diese Leistungen in einer anderen als der urspr\u00fcnglich verwendeten Sprache erbracht werden;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, eine Ware oder Dienstleistung sei verkehrsf\u00e4hig;</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, gesetzlich bestehende Rechte stellten eine Besonderheit des Angebots dar;</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">der vom Unternehmer finanzierte Einsatz redaktioneller Inhalte zu Zwecken der Verkaufsf\u00f6rderung, ohne dass sich dieser Zusammenhang aus dem Inhalt oder aus der Art der optischen oder akustischen Darstellung eindeutig ergibt (als Information getarnte Werbung);</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">unwahre Angaben \u00fcber Art und Ausma\u00df einer Gefahr f\u00fcr die pers\u00f6nliche Sicherheit des Verbrauchers oder seiner Familie f\u00fcr den Fall, dass er die angebotene Ware nicht erwirbt oder die angebotene Dienstleistung nicht in Anspruch nimmt;</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">Werbung f\u00fcr eine Ware oder Dienstleistung, die der Ware oder Dienstleistung eines bestimmten Herstellers \u00e4hnlich ist, wenn dies in der Absicht geschieht, \u00fcber die betriebliche Herkunft der beworbenen Ware oder Dienstleistung zu t\u00e4uschen;</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einf\u00fchrung, der Betrieb oder die F\u00f6rderung eines Systems zur Verkaufsf\u00f6rderung, bei dem vom Verbraucher ein finanzieller Beitrag f\u00fcr die M\u00f6glichkeit verlangt wird, allein oder haupts\u00e4chlich durch die Einf\u00fchrung weiterer Teilnehmer in das System eine Verg\u00fctung zu erlangen (Schneeball- oder Pyramidensystem);</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe, der Unternehmer werde demn\u00e4chst sein Gesch\u00e4ft aufgeben oder seine Gesch\u00e4ftsr\u00e4ume verlegen;</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe, durch eine bestimmte Ware oder Dienstleistung lie\u00dfen sich die Gewinnchancen bei einem Gl\u00fccksspiel erh\u00f6hen;</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, der Verbraucher habe bereits einen Preis gewonnen oder werde ihn gewinnen oder werde durch eine bestimmte Handlung einen Preis gewinnen oder einen sonstigen Vorteil erlangen, wenn es einen solchen Preis oder Vorteil tats\u00e4chlich nicht gibt, oder wenn jedenfalls die M\u00f6glichkeit, einen Preis oder sonstigen Vorteil zu erlangen, von der Zahlung eines Geldbetrags oder der \u00dcbernahme von Kosten abh\u00e4ngig gemacht wird;</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe, eine Ware oder Dienstleistung k\u00f6nne Krankheiten, Funktionsst\u00f6rungen oder Missbildungen heilen;</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine unwahre Angabe \u00fcber die Marktbedingungen oder Bezugsquellen, um den Verbraucher dazu zu bewegen, eine Ware oder Dienstleistung zu weniger g\u00fcnstigen Bedingungen als den allgemeinen Marktbedingungen abzunehmen oder in Anspruch zu nehmen;</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Angebot eines Wettbewerbs oder Preisausschreibens, wenn weder die in Aussicht gestellten Preise noch ein angemessenes \u00c4quivalent vergeben werden;</LA></DD><DT>21.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Angebot einer Ware oder Dienstleistung als \u201egratis\u201c, \u201eumsonst\u201c, \u201ekostenfrei\u201c oder dergleichen, wenn hierf\u00fcr gleichwohl Kosten zu tragen sind; dies gilt nicht f\u00fcr Kosten, die im Zusammenhang mit dem Eingehen auf das Waren- oder Dienstleistungsangebot oder f\u00fcr die Abholung oder Lieferung der Ware oder die Inanspruchnahme der Dienstleistung unvermeidbar sind;</LA></DD><DT>22.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcbermittlung von Werbematerial unter Beif\u00fcgung einer Zahlungsaufforderung, wenn damit der unzutreffende Eindruck vermittelt wird, die beworbene Ware oder Dienstleistung sei bereits bestellt;</LA></DD><DT>23.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, der Unternehmer sei Verbraucher oder nicht f\u00fcr Zwecke seines Gesch\u00e4fts, Handels, Gewerbes oder Berufs t\u00e4tig;</LA></DD><DT>24.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, es sei im Zusammenhang mit Waren oder Dienstleistungen in einem anderen Mitgliedstaat der Europ\u00e4ischen Union als dem des Warenverkaufs oder der Dienstleistung ein Kundendienst verf\u00fcgbar;</LA></DD><DT>25.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Erwecken des Eindrucks, der Verbraucher k\u00f6nne bestimmte R\u00e4umlichkeiten nicht ohne vorherigen Vertragsabschluss verlassen;</LA></DD><DT>26.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei pers\u00f6nlichem Aufsuchen in der Wohnung die Nichtbeachtung einer Aufforderung des Besuchten, diese zu verlassen oder nicht zu ihr zur\u00fcckzukehren, es sein denn, der Besuch ist zur rechtm\u00e4\u00dfigen Durchsetzung einer vertraglichen Verpflichtung gerechtfertigt;</LA></DD><DT>27.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ma\u00dfnahmen, durch die der Verbraucher von der Durchsetzung seiner vertraglichen Rechte aus einem Versicherungsverh\u00e4ltnis dadurch abgehalten werden soll, dass von ihm bei der Geltendmachung seines Anspruchs die Vorlage von Unterlagen verlangt wird, die zum Nachweis dieses Anspruchs nicht erforderlich sind, oder dass Schreiben zur Geltendmachung eines solchen Anspruchs systematisch nicht beantwortet werden;</LA></DD><DT>28.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in eine Werbung einbezogene unmittelbare Aufforderung an Kinder, selbst die beworbene Ware zu erwerben oder die beworbene Dienstleistung in Anspruch zu nehmen oder ihre Eltern oder andere Erwachsene dazu zu veranlassen;</LA></DD><DT>29.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufforderung zur Bezahlung nicht bestellter, aber gelieferter Waren oder erbrachter Dienstleistungen oder eine Aufforderung zur R\u00fccksendung oder Aufbewahrung nicht bestellter Sachen und</LA></DD><DT>30.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ausdr\u00fcckliche Angabe, dass der Arbeitsplatz oder Lebensunterhalt des Unternehmers gef\u00e4hrdet sei, wenn der Verbraucher die Ware oder Dienstleistung nicht abnehme.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR141400004BJNG000402140"
+        }
+      }
+    ]
+  }
+}

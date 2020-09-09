@@ -1,0 +1,1431 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR030150975",
+    "abbreviation": "SGB 1",
+    "extraAbbreviations": [],
+    "firstPublished": "1975-12-11",
+    "sourceTimestamp": "20200703213015",
+    "headingShort": null,
+    "headingLong": "Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des Gesetzes vom 11. Dezember 1975, BGBl. I S. 3015)",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1975, 3015"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 28 G v. 12.12.2019 I 2652"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "\u00c4nderung durch Art. 2 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+      },
+      {
+        "category": "Sonst",
+        "comment": "Mittelbare \u00c4nderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausf\u00fchrbar, da das ge\u00e4nderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren \u00c4nderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1982 +++)<BR/>(+++ Zur Anwendung d. \u00a7 65 vgl. \u00a7 8 BEEG F. v. 18.12.2014 +++)<BR/>(+++ Zur Anwendung d. \u00a7\u00a7 60, 62 und 65 bis 67 vgl. \u00a7 42f SGB 8 +++)<BR/>(+++ Zur Anwendung d. \u00a7 44 vgl. \u00a7 286g SGB 6 +++)<BR/>(+++ Ma\u00dfgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109<BR/>Nr. 3 Buchst. d DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)<BR/><BR/></pre>Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. II \u00a7 23 Abs. 1 G v. 11.12.1975 I 3015 (SGBAT) am 1.1.1976 in Kraft getreten.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR030150975BJNE010902119",
+        "type": "article",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "body": {
+          "content": "<P><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"0.135593*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"1.864407*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">Erster Abschnitt</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">Aufgaben des Sozialgesetzbuches und soziale Rechte</entry></row><row><entry VJ=\"1\">\u00a7 1</entry><entry VJ=\"1\">Aufgaben des Sozialgesetzbuches</entry></row><row><entry VJ=\"1\">\u00a7 2</entry><entry VJ=\"1\">Soziale Rechte</entry></row><row><entry VJ=\"1\">\u00a7 3</entry><entry VJ=\"1\">Bildungs- und Arbeitsf\u00f6rderung</entry></row><row><entry VJ=\"1\">\u00a7 4</entry><entry VJ=\"1\">Sozialversicherung</entry></row><row><entry VJ=\"1\">\u00a7 5</entry><entry VJ=\"1\">Soziale Entsch\u00e4digung bei Gesundheitssch\u00e4den</entry></row><row><entry VJ=\"1\">\u00a7 6</entry><entry VJ=\"1\">Minderung des Familienaufwands</entry></row><row><entry VJ=\"1\">\u00a7 7</entry><entry VJ=\"1\">Zuschuss f\u00fcr eine angemessene Wohnung</entry></row><row><entry VJ=\"1\">\u00a7 8</entry><entry VJ=\"1\">Kinder- und Jugendhilfe</entry></row><row><entry VJ=\"1\">\u00a7 9</entry><entry VJ=\"1\">Sozialhilfe</entry></row><row><entry VJ=\"1\">\u00a7 10</entry><entry VJ=\"1\">Teilhabe behinderter Menschen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">Zweiter Abschnitt</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">Einweisungsvorschriften</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Erster Titel</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Allgemeines \u00fcber Sozialleistungen und Leistungstr\u00e4ger</entry></row><row><entry VJ=\"1\">\u00a7 11</entry><entry VJ=\"1\">Leistungsarten</entry></row><row><entry VJ=\"1\">\u00a7 12</entry><entry VJ=\"1\">Leistungstr\u00e4ger</entry></row><row><entry VJ=\"1\">\u00a7 13</entry><entry VJ=\"1\">Aufkl\u00e4rung</entry></row><row><entry VJ=\"1\">\u00a7 14</entry><entry VJ=\"1\">Beratung</entry></row><row><entry VJ=\"1\">\u00a7 15</entry><entry VJ=\"1\">Auskunft</entry></row><row><entry VJ=\"1\">\u00a7 16</entry><entry VJ=\"1\">Antragstellung</entry></row><row><entry VJ=\"1\">\u00a7 17</entry><entry VJ=\"1\">Ausf\u00fchrung der Sozialleistungen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Zweiter Titel</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Einzelne Sozialleistungen und zust\u00e4ndige Leistungstr\u00e4ger</entry></row><row><entry VJ=\"1\">\u00a7 18</entry><entry VJ=\"1\">Leistungen der Ausbildungsf\u00f6rderung</entry></row><row><entry VJ=\"1\">\u00a7 19</entry><entry VJ=\"1\">Leistungen der Arbeitsf\u00f6rderung</entry></row><row><entry VJ=\"1\">\u00a7 19a</entry><entry VJ=\"1\">Leistungen der Grundsicherung f\u00fcr Arbeitsuchende</entry></row><row><entry VJ=\"1\">\u00a7 19b</entry><entry VJ=\"1\">Leistungen bei gleitendem \u00dcbergang \u00e4lterer Arbeitnehmer in den Ruhestand</entry></row><row><entry VJ=\"1\">\u00a7 20</entry><entry VJ=\"1\">(aufgehoben)</entry></row><row><entry VJ=\"1\">\u00a7 21</entry><entry VJ=\"1\">Leistungen der gesetzlichen Krankenversicherung</entry></row><row><entry VJ=\"1\">\u00a7 21a</entry><entry VJ=\"1\">Leistungen der sozialen Pflegeversicherung</entry></row><row><entry VJ=\"1\">\u00a7 21b</entry><entry VJ=\"1\">Leistungen bei Schwangerschaftsabbr\u00fcchen</entry></row><row><entry VJ=\"1\">\u00a7 22</entry><entry VJ=\"1\">Leistungen der gesetzlichen Unfallversicherung</entry></row><row><entry VJ=\"1\">\u00a7 23</entry><entry VJ=\"1\">Leistungen der gesetzlichen Rentenversicherung einschlie\u00dflich der Alterssicherung der Landwirte</entry></row><row><entry VJ=\"1\">\u00a7 24</entry><entry VJ=\"1\">Versorgungsleistungen bei Gesundheitssch\u00e4den</entry></row><row><entry VJ=\"1\">\u00a7 25</entry><entry VJ=\"1\">Kindergeld, Kinderzuschlag, Leistungen f\u00fcr Bildung und Teilhabe, Elterngeld und Betreuungsgeld</entry></row><row><entry VJ=\"1\">\u00a7 26</entry><entry VJ=\"1\">Wohngeld</entry></row><row><entry VJ=\"1\">\u00a7 27</entry><entry VJ=\"1\">Leistungen der Kinder- und Jugendhilfe</entry></row><row><entry VJ=\"1\">\u00a7 28</entry><entry VJ=\"1\">Leistungen der Sozialhilfe</entry></row><row><entry VJ=\"1\">\u00a7 28a</entry><entry VJ=\"1\">Leistungen der Eingliederungshilfe</entry></row><row><entry VJ=\"1\">\u00a7 29</entry><entry VJ=\"1\">Leistungen zur Rehabilitation und Teilhabe behinderter Menschen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">Dritter Abschnitt</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">Gemeinsame Vorschriften f\u00fcr alle Sozialleistungsbereiche dieses Gesetzbuches</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Erster Titel</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Allgemeine Grunds\u00e4tze</entry></row><row><entry VJ=\"1\">\u00a7 30</entry><entry VJ=\"1\">Geltungsbereich</entry></row><row><entry VJ=\"1\">\u00a7 31</entry><entry VJ=\"1\">Vorbehalt des Gesetzes</entry></row><row><entry VJ=\"1\">\u00a7 32</entry><entry VJ=\"1\">Verbot nachteiliger Vereinbarungen</entry></row><row><entry VJ=\"1\">\u00a7 33</entry><entry VJ=\"1\">Ausgestaltung von Rechten und Pflichten</entry></row><row><entry VJ=\"1\">\u00a7 33a</entry><entry VJ=\"1\">Altersabh\u00e4ngige Rechte und Pflichten</entry></row><row><entry VJ=\"1\">\u00a7 33b</entry><entry VJ=\"1\">Lebenspartnerschaften</entry></row><row><entry VJ=\"1\">\u00a7 33c</entry><entry VJ=\"1\">Benachteiligungsverbot</entry></row><row><entry VJ=\"1\">\u00a7 34</entry><entry VJ=\"1\">Begrenzung von Rechten und Pflichten</entry></row><row><entry VJ=\"1\">\u00a7 35</entry><entry VJ=\"1\">Sozialgeheimnis</entry></row><row><entry VJ=\"1\">\u00a7 36</entry><entry VJ=\"1\">Handlungsf\u00e4higkeit</entry></row><row><entry VJ=\"1\">\u00a7 36a</entry><entry VJ=\"1\">Elektronische Kommunikation</entry></row><row><entry VJ=\"1\">\u00a7 37</entry><entry VJ=\"1\">Vorbehalt abweichender Regelungen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Zweiter Titel</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Grunds\u00e4tze des Leistungsrechts</entry></row><row><entry VJ=\"1\">\u00a7 38</entry><entry VJ=\"1\">Rechtsanspruch</entry></row><row><entry VJ=\"1\">\u00a7 39</entry><entry VJ=\"1\">Ermessensleistungen</entry></row><row><entry VJ=\"1\">\u00a7 40</entry><entry VJ=\"1\">Entstehen der Anspr\u00fcche</entry></row><row><entry VJ=\"1\">\u00a7 41</entry><entry VJ=\"1\">F\u00e4lligkeit</entry></row><row><entry VJ=\"1\">\u00a7 42</entry><entry VJ=\"1\">Vorsch\u00fcsse</entry></row><row><entry VJ=\"1\">\u00a7 43</entry><entry VJ=\"1\">Vorl\u00e4ufige Leistungen</entry></row><row><entry VJ=\"1\">\u00a7 44</entry><entry VJ=\"1\">Verzinsung</entry></row><row><entry VJ=\"1\">\u00a7 45</entry><entry VJ=\"1\">Verj\u00e4hrung</entry></row><row><entry VJ=\"1\">\u00a7 46</entry><entry VJ=\"1\">Verzicht</entry></row><row><entry VJ=\"1\">\u00a7 47</entry><entry VJ=\"1\">Auszahlung von Geldleistungen</entry></row><row><entry VJ=\"1\">\u00a7 48</entry><entry VJ=\"1\">Auszahlung bei Verletzung der Unterhaltspflicht</entry></row><row><entry VJ=\"1\">\u00a7 49</entry><entry VJ=\"1\">Auszahlung bei Unterbringung</entry></row><row><entry VJ=\"1\">\u00a7 50</entry><entry VJ=\"1\">\u00dcberleitung bei Unterbringung</entry></row><row><entry VJ=\"1\">\u00a7 51</entry><entry VJ=\"1\">Aufrechnung</entry></row><row><entry VJ=\"1\">\u00a7 52</entry><entry VJ=\"1\">Verrechnung</entry></row><row><entry VJ=\"1\">\u00a7 53</entry><entry VJ=\"1\">\u00dcbertragung und Verpf\u00e4ndung</entry></row><row><entry VJ=\"1\">\u00a7 54</entry><entry VJ=\"1\">Pf\u00e4ndung</entry></row><row><entry VJ=\"1\">\u00a7 55</entry><entry VJ=\"1\">(weggefallen)</entry></row><row><entry VJ=\"1\">\u00a7 56</entry><entry VJ=\"1\">Sonderrechtsnachfolge</entry></row><row><entry VJ=\"1\">\u00a7 57</entry><entry VJ=\"1\">Verzicht und Haftung des Sonderrechtsnachfolgers</entry></row><row><entry VJ=\"1\">\u00a7 58</entry><entry VJ=\"1\">Vererbung</entry></row><row><entry VJ=\"1\">\u00a7 59</entry><entry VJ=\"1\">Ausschluss der Rechtsnachfolge</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Dritter Titel</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Mitwirkung des Leistungsberechtigten</entry></row><row><entry VJ=\"1\">\u00a7 60</entry><entry VJ=\"1\">Angabe von Tatsachen</entry></row><row><entry VJ=\"1\">\u00a7 61</entry><entry VJ=\"1\">Pers\u00f6nliches Erscheinen</entry></row><row><entry VJ=\"1\">\u00a7 62</entry><entry VJ=\"1\">Untersuchungen</entry></row><row><entry VJ=\"1\">\u00a7 63</entry><entry VJ=\"1\">Heilbehandlung</entry></row><row><entry VJ=\"1\">\u00a7 64</entry><entry VJ=\"1\">Leistungen zur Teilhabe am Arbeitsleben</entry></row><row><entry VJ=\"1\">\u00a7 65</entry><entry VJ=\"1\">Grenzen der Mitwirkung</entry></row><row><entry VJ=\"1\">\u00a7 65a</entry><entry VJ=\"1\">Aufwendungsersatz</entry></row><row><entry VJ=\"1\">\u00a7 66</entry><entry VJ=\"1\">Folgen fehlender Mitwirkung</entry></row><row><entry VJ=\"1\">\u00a7 67</entry><entry VJ=\"1\">Nachholung der Mitwirkung</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">Vierter Abschnitt</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00dcbergangs- und Schlussvorschriften</entry></row><row><entry VJ=\"1\">\u00a7 68</entry><entry VJ=\"1\">Besondere Teile dieses Gesetzbuches</entry></row><row><entry VJ=\"1\">\u00a7 69</entry><entry VJ=\"1\">Stadtstaaten-Klausel</entry></row><row><entry VJ=\"1\">\u00a7 70</entry><entry VJ=\"1\">\u00dcberleitungsvorschrift zum Verj\u00e4hrungsrecht</entry></row><row><entry VJ=\"1\">\u00a7 71</entry><entry VJ=\"1\">\u00dcberleitungsvorschrift zur \u00dcbertragung, Verpf\u00e4ndung und Pf\u00e4ndung</entry></row></tbody></tgroup></table></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR030150975BJNG000300314",
+        "type": "heading",
+        "name": "Erster Abschnitt",
+        "title": "Aufgaben des Sozialgesetzbuchs\nund soziale Rechte",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR030150975BJNE001700314",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Aufgaben des Sozialgesetzbuchs",
+        "body": {
+          "content": "<P>(1) Das Recht des Sozialgesetzbuchs soll zur Verwirklichung sozialer Gerechtigkeit und sozialer Sicherheit Sozialleistungen einschlie\u00dflich sozialer und erzieherischer Hilfen gestalten. Es soll dazu beitragen, <DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">ein menschenw\u00fcrdiges Dasein zu sichern,</LA><LA Size=\"normal\">gleiche Voraussetzungen f\u00fcr die freie Entfaltung der Pers\u00f6nlichkeit, insbesondere auch f\u00fcr junge Menschen, zu schaffen,</LA><LA Size=\"normal\">die Familie zu sch\u00fctzen und zu f\u00f6rdern,</LA><LA Size=\"normal\">den Erwerb des Lebensunterhalts durch eine frei gew\u00e4hlte T\u00e4tigkeit zu erm\u00f6glichen und</LA><LA Size=\"normal\">besondere Belastungen des Lebens, auch durch Hilfe zur Selbsthilfe, abzuwenden oder auszugleichen.</LA></DD>     </DL> </P><P>(2) Das Recht des Sozialgesetzbuchs soll auch dazu beitragen, da\u00df die zur Erf\u00fcllung der in Absatz 1 genannten Aufgaben erforderlichen sozialen Dienste und Einrichtungen rechtzeitig und ausreichend zur Verf\u00fcgung stehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE001800314",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Soziale Rechte",
+        "body": {
+          "content": "<P>(1) Der Erf\u00fcllung der in \u00a7 1 genannten Aufgaben dienen die nachfolgenden sozialen Rechte. Aus ihnen k\u00f6nnen Anspr\u00fcche nur insoweit geltend gemacht oder hergeleitet werden, als deren Voraussetzungen und Inhalt durch die Vorschriften der besonderen Teile dieses Gesetzbuchs im einzelnen bestimmt sind.</P><P>(2) Die nachfolgenden sozialen Rechte sind bei der Auslegung der Vorschriften dieses Gesetzbuchs und bei der Aus\u00fcbung von Ermessen zu beachten; dabei ist sicherzustellen, da\u00df die sozialen Rechte m\u00f6glichst weitgehend verwirklicht werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE001901308",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Bildungs- und Arbeitsf\u00f6rderung",
+        "body": {
+          "content": "<P>(1) Wer an einer Ausbildung teilnimmt, die seiner Neigung, Eignung und Leistung entspricht, hat ein Recht auf individuelle F\u00f6rderung seiner Ausbildung, wenn ihm die hierf\u00fcr erforderlichen Mittel nicht anderweitig zur Verf\u00fcgung stehen.</P><P>(2) Wer am Arbeitsleben teilnimmt oder teilnehmen will, hat ein Recht auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beratung bei der Wahl des Bildungswegs und des Berufs,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">individuelle F\u00f6rderung seiner beruflichen Weiterbildung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfe zur Erlangung und Erhaltung eines angemessenen Arbeitsplatzes und</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">wirtschaftliche Sicherung bei Arbeitslosigkeit und bei Zahlungsunf\u00e4higkeit des Arbeitgebers.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002002308",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Sozialversicherung",
+        "body": {
+          "content": "<P>(1) Jeder hat im Rahmen dieses Gesetzbuchs ein Recht auf Zugang zur Sozialversicherung.</P><P>(2) Wer in der Sozialversicherung versichert ist, hat im Rahmen der gesetzlichen Kranken-, Pflege-, Unfall- und Rentenversicherung einschlie\u00dflich der Alterssicherung der Landwirte ein Recht auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die notwendigen Ma\u00dfnahmen zum Schutz, zur Erhaltung, zur Besserung und zur Wiederherstellung der Gesundheit und der Leistungsf\u00e4higkeit und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wirtschaftliche Sicherung bei Krankheit, Mutterschaft, Minderung der Erwerbsf\u00e4higkeit und Alter.</LA></DD> </DL>Ein Recht auf wirtschaftliche Sicherung haben auch die Hinterbliebenen eines Versicherten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002100314",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Soziale Entsch\u00e4digung bei Gesundheitssch\u00e4den",
+        "body": {
+          "content": "<P>Wer einen Gesundheitsschaden erleidet, f\u00fcr dessen Folgen die staatliche Gemeinschaft in Abgeltung eines besonderen Opfers oder aus anderen Gr\u00fcnden nach versorgungsrechtlichen Grunds\u00e4tzen einsteht, hat ein Recht auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die notwendigen Ma\u00dfnahmen zur Erhaltung, zur Besserung und zur Wiederherstellung der Gesundheit und der Leistungsf\u00e4higkeit und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">angemessene wirtschaftliche Versorgung.</LA></DD> </DL>Ein Recht auf angemessene wirtschaftliche Versorgung haben auch die Hinterbliebenen eines Besch\u00e4digten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002200314",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Minderung des Familienaufwands",
+        "body": {
+          "content": "<P>Wer Kindern Unterhalt zu leisten hat oder leistet, hat ein Recht auf Minderung der dadurch entstehenden wirtschaftlichen Belastungen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002300314",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Zuschu\u00df f\u00fcr eine angemessene Wohnung",
+        "body": {
+          "content": "<P>Wer f\u00fcr eine angemessene Wohnung Aufwendungen erbringen mu\u00df, die ihm nicht zugemutet werden k\u00f6nnen, hat ein Recht auf Zuschu\u00df zur Miete oder zu vergleichbaren Aufwendungen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002401308",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Kinder- und Jugendhilfe",
+        "body": {
+          "content": "<P>Junge Menschen und Personensorgeberechtigte haben im Rahmen dieses Gesetzbuchs ein Recht, Leistungen der \u00f6ffentlichen Jugendhilfe in Anspruch zu nehmen. Sie sollen die Entwicklung junger Menschen f\u00f6rdern und die Erziehung in der Familie unterst\u00fctzen und erg\u00e4nzen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002501308",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Sozialhilfe",
+        "body": {
+          "content": "<P>Wer nicht in der Lage ist, aus eigenen Kr\u00e4ften seinen Lebensunterhalt zu bestreiten oder in besonderen Lebenslagen sich selbst zu helfen, und auch von anderer Seite keine ausreichende Hilfe erh\u00e4lt, hat ein Recht auf pers\u00f6nliche und wirtschaftliche Hilfe, die seinem besonderen Bedarf entspricht, ihn zur Selbsthilfe bef\u00e4higt, die Teilnahme am Leben in der Gemeinschaft erm\u00f6glicht und die F\u00fchrung eines menschenw\u00fcrdigen Lebens sichert. Hierbei m\u00fcssen Leistungsberechtigte nach ihren Kr\u00e4ften mitwirken.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002602308",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Teilhabe behinderter Menschen",
+        "body": {
+          "content": "<P>Menschen, die k\u00f6rperlich, geistig oder seelisch behindert sind oder denen eine solche Behinderung droht, haben unabh\u00e4ngig von der Ursache der Behinderung zur F\u00f6rderung ihrer Selbstbestimmung und gleichberechtigten Teilhabe ein Recht auf Hilfe, die notwendig ist, um <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Behinderung abzuwenden, zu beseitigen, zu mindern, ihre Verschlimmerung zu verh\u00fcten oder ihre Folgen zu mildern,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einschr\u00e4nkungen der Erwerbsf\u00e4higkeit oder Pflegebed\u00fcrftigkeit zu vermeiden, zu \u00fcberwinden, zu mindern oder eine Verschlimmerung zu verh\u00fcten sowie den vorzeitigen Bezug von Sozialleistungen zu vermeiden oder laufende Sozialleistungen zu mindern,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihnen einen ihren Neigungen und F\u00e4higkeiten entsprechenden Platz im Arbeitsleben zu sichern,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Entwicklung zu f\u00f6rdern und ihre Teilhabe am Leben in der Gesellschaft und eine m\u00f6glichst selbst\u00e4ndige und selbstbestimmte Lebensf\u00fchrung zu erm\u00f6glichen oder zu erleichtern sowie</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Benachteiligungen auf Grund der Behinderung entgegenzuwirken.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000300314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNG000400314",
+        "type": "heading",
+        "name": "Zweiter Abschnitt",
+        "title": "Einweisungsvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR030150975BJNG000500314",
+        "type": "heading",
+        "name": "Erster Titel",
+        "title": "Allgemeines \u00fcber\nSozialleistungen und Leistungstr\u00e4ger",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000400314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002700314",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Leistungsarten",
+        "body": {
+          "content": "<P>Gegenstand der sozialen Rechte sind die in diesem Gesetzbuch vorgesehenen Dienst-, Sach- und Geldleistungen (Sozialleistungen). Die pers\u00f6nliche und erzieherische Hilfe geh\u00f6rt zu den Dienstleistungen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000500314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002800314",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Leistungstr\u00e4ger",
+        "body": {
+          "content": "<P>Zust\u00e4ndig f\u00fcr die Sozialleistungen sind die in den \u00a7\u00a7 18 bis 29 genannten K\u00f6rperschaften, Anstalten und Beh\u00f6rden (Leistungstr\u00e4ger). Die Abgrenzung ihrer Zust\u00e4ndigkeit ergibt sich aus den besonderen Teilen dieses Gesetzbuchs.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000500314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE002900314",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Aufkl\u00e4rung",
+        "body": {
+          "content": "<P>Die Leistungstr\u00e4ger, ihre Verb\u00e4nde und die sonstigen in diesem Gesetzbuch genannten \u00f6ffentlich-rechtlichen Vereinigungen sind verpflichtet, im Rahmen ihrer Zust\u00e4ndigkeit die Bev\u00f6lkerung \u00fcber die Rechte und Pflichten nach diesem Gesetzbuch aufzukl\u00e4ren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000500314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003000314",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Beratung",
+        "body": {
+          "content": "<P>Jeder hat Anspruch auf Beratung \u00fcber seine Rechte und Pflichten nach diesem Gesetzbuch. Zust\u00e4ndig f\u00fcr die Beratung sind die Leistungstr\u00e4ger, denen gegen\u00fcber die Rechte geltend zu machen oder die Pflichten zu erf\u00fcllen sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000500314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003103360",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Auskunft",
+        "body": {
+          "content": "<P>(1) Die nach Landesrecht zust\u00e4ndigen Stellen, die Tr\u00e4ger der gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung sind verpflichtet, \u00fcber alle sozialen Angelegenheiten nach diesem Gesetzbuch Ausk\u00fcnfte zu erteilen.</P><P>(2) Die Auskunftspflicht erstreckt sich auf die Benennung der f\u00fcr die Sozialleistungen zust\u00e4ndigen Leistungstr\u00e4ger sowie auf alle Sach- und Rechtsfragen, die f\u00fcr die Auskunftsuchenden von Bedeutung sein k\u00f6nnen und zu deren Beantwortung die Auskunftsstelle imstande ist.</P><P>(3) Die Auskunftsstellen sind verpflichtet, untereinander und mit den anderen Leistungstr\u00e4gern mit dem Ziel zusammenzuarbeiten, eine m\u00f6glichst umfassende Auskunftserteilung durch eine Stelle sicherzustellen.</P><P>(4) Die Tr\u00e4ger der gesetzlichen Rentenversicherung sollen \u00fcber M\u00f6glichkeiten zum Aufbau einer staatlich gef\u00f6rderten zus\u00e4tzlichen Altersvorsorge produkt- und anbieterneutral Ausk\u00fcnfte erteilen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000500314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003200314",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Antragstellung",
+        "body": {
+          "content": "<P>(1) Antr\u00e4ge auf Sozialleistungen sind beim zust\u00e4ndigen Leistungstr\u00e4ger zu stellen. Sie werden auch von allen anderen Leistungstr\u00e4gern, von allen Gemeinden und bei Personen, die sich im Ausland aufhalten, auch von den amtlichen Vertretungen der Bundesrepublik Deutschland im Ausland entgegengenommen.</P><P>(2) Antr\u00e4ge, die bei einem unzust\u00e4ndigen Leistungstr\u00e4ger, bei einer f\u00fcr die Sozialleistung nicht zust\u00e4ndigen Gemeinde oder bei einer amtlichen Vertretung der Bundesrepublik Deutschland im Ausland gestellt werden, sind unverz\u00fcglich an den zust\u00e4ndigen Leistungstr\u00e4ger weiterzuleiten. Ist die Sozialleistung von einem Antrag abh\u00e4ngig, gilt der Antrag als zu dem Zeitpunkt gestellt, in dem er bei einer der in Satz 1 genannten Stellen eingegangen ist.</P><P>(3) Die Leistungstr\u00e4ger sind verpflichtet, darauf hinzuwirken, da\u00df unverz\u00fcglich klare und sachdienliche Antr\u00e4ge gestellt und unvollst\u00e4ndige Angaben erg\u00e4nzt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000500314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003307119",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Ausf\u00fchrung der Sozialleistungen",
+        "body": {
+          "content": "<P>(1) Die Leistungstr\u00e4ger sind verpflichtet, darauf hinzuwirken, da\u00df <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">jeder Berechtigte die ihm zustehenden Sozialleistungen in zeitgem\u00e4\u00dfer Weise, umfassend und z\u00fcgig erh\u00e4lt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zur Ausf\u00fchrung von Sozialleistungen erforderlichen sozialen Dienste und Einrichtungen rechtzeitig und ausreichend zur Verf\u00fcgung stehen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Zugang zu den Sozialleistungen m\u00f6glichst einfach gestaltet wird, insbesondere durch Verwendung allgemein verst\u00e4ndlicher Antragsvordrucke und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Verwaltungs- und Dienstgeb\u00e4ude frei von Zugangs- und Kommunikationsbarrieren sind und Sozialleistungen in barrierefreien R\u00e4umen und Anlagen ausgef\u00fchrt werden.</LA></DD></DL></P><P>(2) Menschen mit H\u00f6rbehinderungen und Menschen mit Sprachbehinderungen haben das Recht, bei der Ausf\u00fchrung von Sozialleistungen, insbesondere auch bei \u00e4rztlichen Untersuchungen und Behandlungen, in Deutscher Geb\u00e4rdensprache, mit lautsprachbegleitenden Geb\u00e4rden oder \u00fcber andere geeignete Kommunikationshilfen zu kommunizieren. Die f\u00fcr die Sozialleistung zust\u00e4ndigen Leistungstr\u00e4ger sind verpflichtet, die durch die Verwendung der Kommunikationshilfen entstehenden Kosten zu tragen. \u00a7 5 der Kommunikationshilfenverordnung in der jeweils geltenden Fassung gilt entsprechend.</P><P>(2a) \u00a7 11 des Behindertengleichstellungsgesetzes gilt in seiner jeweils geltenden Fassung bei der Ausf\u00fchrung von Sozialleistungen entsprechend.</P><P>(3) In der Zusammenarbeit mit gemeinn\u00fctzigen und freien Einrichtungen und Organisationen wirken die Leistungstr\u00e4ger darauf hin, da\u00df sich ihre T\u00e4tigkeit und die der genannten Einrichtungen und Organisationen zum Wohl der Leistungsempf\u00e4nger wirksam erg\u00e4nzen. Sie haben dabei deren Selbst\u00e4ndigkeit in Zielsetzung und Durchf\u00fchrung ihrer Aufgaben zu achten. Die Nachpr\u00fcfung zweckentsprechender Verwendung bei der Inanspruchnahme \u00f6ffentlicher Mittel bleibt unber\u00fchrt. Im \u00fcbrigen ergibt sich ihr Verh\u00e4ltnis zueinander aus den besonderen Teilen dieses Gesetzbuchs; \u00a7 97 Abs. 1 Satz 1 bis 4 und Abs. 2 des Zehnten Buches findet keine Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000500314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNG000600314",
+        "type": "heading",
+        "name": "Zweiter Titel",
+        "title": "Einzelne Sozialleistungen\nund zust\u00e4ndige Leistungstr\u00e4ger",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000400314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003401306",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "Leistungen der Ausbildungsf\u00f6rderung",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der Ausbildungsf\u00f6rderung k\u00f6nnen Zusch\u00fcsse und Darlehen f\u00fcr den Lebensunterhalt und die Ausbildung in Anspruch genommen werden.</P><P>(2) Zust\u00e4ndig sind die \u00c4mter und die Landes\u00e4mter f\u00fcr Ausbildungsf\u00f6rderung nach Ma\u00dfgabe der \u00a7\u00a7 39, 40, 40a und 45 des Bundesausbildungsf\u00f6rderungsgesetzes.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003514140",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Leistungen der Arbeitsf\u00f6rderung",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der Arbeitsf\u00f6rderung k\u00f6nnen in Anspruch genommen werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Berufsberatung und Arbeitsmarktberatung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Ausbildungsvermittlung und Arbeitsvermittlung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Leistungen <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>zur Aktivierung und beruflichen Eingliederung,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>zur Berufswahl und Berufsausbildung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>zur beruflichen Weiterbildung,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>zur Aufnahme einer Erwerbst\u00e4tigkeit,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>zum Verbleib in Besch\u00e4ftigung,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>der Teilhabe behinderter Menschen am Arbeitsleben,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Arbeitslosengeld, Teilarbeitslosengeld, Arbeitslosengeld bei Weiterbildung und Insolvenzgeld.</LA></DD></DL></P><P>(2) Zust\u00e4ndig sind die Agenturen f\u00fcr Arbeit und die sonstigen Dienststellen der Bundesagentur f\u00fcr Arbeit.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE010601308",
+        "type": "article",
+        "name": "\u00a7 19a",
+        "title": "Leistungen der Grundsicherung f\u00fcr Arbeitsuchende",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der Grundsicherung f\u00fcr Arbeitsuchende k\u00f6nnen in Anspruch genommen werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Eingliederung in Arbeit,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Sicherung des Lebensunterhalts.</LA></DD> </DL> </P><P>(2) Zust\u00e4ndig sind die Agenturen f\u00fcr Arbeit und die sonstigen Dienststellen der Bundesagentur f\u00fcr Arbeit, sowie die kreisfreien St\u00e4dte und Kreise, soweit durch Landesrecht nicht andere Tr\u00e4ger bestimmt sind. In den F\u00e4llen des \u00a7 6a des Zweiten Buches ist abweichend von Satz 1 der zugelassene kommunale Tr\u00e4ger zust\u00e4ndig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE009502308",
+        "type": "article",
+        "name": "\u00a7 19b",
+        "title": "Leistungen bei gleitendem \u00dcbergang \u00e4lterer Arbeitnehmer in den Ruhestand",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der F\u00f6rderung eines gleitenden \u00dcbergangs \u00e4lterer Arbeitnehmer in den Ruhestand k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erstattung der Beitr\u00e4ge zur H\u00f6herversicherung in der gesetzlichen Rentenversicherung und der nicht auf das Arbeitsentgelt entfallenden Beitr\u00e4ge zur gesetzlichen Rentenversicherung f\u00fcr \u00e4ltere Arbeitnehmer, die ihre Arbeitszeit verk\u00fcrzt haben.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erstattung der Aufstockungsbetr\u00e4ge zum Arbeitsentgelt f\u00fcr die Altersteilzeitarbeit.</LA></DD> </DL> </P><P>(2) Zust\u00e4ndig sind die Agenturen f\u00fcr Arbeit und die sonstigen Dienststellen der Bundesagentur f\u00fcr Arbeit.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003603308",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": null,
+        "body": {
+          "content": "<P>(weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003707308",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Leistungen der gesetzlichen Krankenversicherung",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der gesetzlichen Krankenversicherung k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur F\u00f6rderung der Gesundheit, zur Verh\u00fctung und zur Fr\u00fcherkennung von Krankheiten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Krankheit Krankenbehandlung, insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00e4rztliche und zahn\u00e4rztliche Behandlung,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">h\u00e4usliche Krankenpflege und Haushaltshilfe,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Krankenhausbehandlung,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">medizinische und erg\u00e4nzende Leistungen zur Rehabilitation,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Betriebshilfe f\u00fcr Landwirte,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Krankengeld,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Schwangerschaft und Mutterschaft \u00e4rztliche Betreuung, Hebammenhilfe, station\u00e4re Entbindung, h\u00e4usliche Pflege, Haushaltshilfe, Betriebshilfe f\u00fcr Landwirte, Mutterschaftsgeld,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfe zur Familienplanung und Leistungen bei durch Krankheit erforderlicher Sterilisation und bei nicht rechtswidrigem Schwangerschaftsabbruch.</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD></DL></P><P>(2) Zust\u00e4ndig sind die Orts-, Betriebs- und Innungskrankenkassen, die Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Ersatzkassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE009600308",
+        "type": "article",
+        "name": "\u00a7 21a",
+        "title": "Leistungen der sozialen Pflegeversicherung",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der sozialen Pflegeversicherung k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen bei h\u00e4uslicher Pflege:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegesachleistung,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegegeld f\u00fcr selbst beschaffte Pflegehilfen,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">h\u00e4usliche Pflege bei Verhinderung der Pflegeperson,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegehilfsmittel und technische Hilfen,</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">teilstation\u00e4re Pflege und Kurzzeitpflege,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen f\u00fcr Pflegepersonen, insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">soziale Sicherung und</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegekurse,</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">vollstation\u00e4re Pflege.</LA></DD> </DL> </P><P>(2) Zust\u00e4ndig sind die bei den Krankenkassen errichteten Pflegekassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE009704308",
+        "type": "article",
+        "name": "\u00a7 21b",
+        "title": "Leistungen bei Schwangerschaftsabbr\u00fcchen",
+        "body": {
+          "content": "<P>(1) Nach dem F\u00fcnften Abschnitt des Schwangerschaftskonfliktgesetzes k\u00f6nnen bei einem nicht rechtswidrigen oder unter den Voraussetzungen des \u00a7 218a Abs. 1 des Strafgesetzbuches vorgenommenen Abbruch einer Schwangerschaft Leistungen in Anspruch genommen werden.</P><P>(2) Zust\u00e4ndig sind die Orts-, Betriebs- und Innungskrankenkassen, die Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Krankenkasse, die Deutsche Rentenversicherung Knappschaft-Bahn-See und die Ersatzkassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003808377",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "Leistungen der gesetzlichen Unfallversicherung",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der gesetzlichen Unfallversicherung k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ma\u00dfnahmen zur Verh\u00fctung von Arbeitsunf\u00e4llen, Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren und zur Ersten Hilfe sowie Ma\u00dfnahmen zur Fr\u00fcherkennung von Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben und andere Leistungen zur Erhaltung, Besserung und Wiederherstellung der Erwerbsf\u00e4higkeit sowie zur Erleichterung der Verletzungsfolgen einschlie\u00dflich wirtschaftlicher Hilfen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten wegen Minderung der Erwerbsf\u00e4higkeit,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten an Hinterbliebene, Sterbegeld und Beihilfen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rentenabfindungen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Haushaltshilfe,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betriebshilfe f\u00fcr Landwirte.</LA></DD></DL></P><P>(2) Zust\u00e4ndig sind die gewerblichen Berufsgenossenschaften, die Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Berufsgenossenschaft, die Gemeindeunfallversicherungsverb\u00e4nde, die Feuerwehr-Unfallkassen, die Unfallkassen der L\u00e4nder und Gemeinden, die gemeinsamen Unfallkassen f\u00fcr den Landes- und kommunalen Bereich und die Unfallversicherung Bund und Bahn.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE003916119",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "Leistungen der gesetzlichen Rentenversicherung einschlie\u00dflich der Alterssicherung der Landwirte",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der gesetzlichen Rentenversicherung einschlie\u00dflich der Alterssicherung der Landwirte k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der gesetzlichen Rentenversicherung:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Pr\u00e4vention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Nachsorge sowie sonstige Leistungen zur Teilhabe einschlie\u00dflich wirtschaftlicher Hilfen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten wegen Alters, Renten wegen verminderter Erwerbsf\u00e4higkeit und Knappschaftsausgleichsleistung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten wegen Todes,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Witwen- und Witwerrentenabfindungen sowie Beitragserstattungen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zusch\u00fcsse zu den Aufwendungen f\u00fcr die Krankenversicherung,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen f\u00fcr Kindererziehung,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Alterssicherung der Landwirte:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Pr\u00e4vention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Nachsorge sowie erg\u00e4nzende und sonstige Leistungen zur Teilhabe einschlie\u00dflich Betriebs- oder Haushaltshilfe,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten wegen Erwerbsminderung und Alters,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten wegen Todes,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beitragszusch\u00fcsse,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft.</LA></DD></DL></LA></DD></DL></P><P>(2) Zust\u00e4ndig sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der allgemeinen Rentenversicherung die Regionaltr\u00e4ger, die Deutsche Rentenversicherung Bund und die Deutsche Rentenversicherung Knappschaft-Bahn-See,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der knappschaftlichen Rentenversicherung die Deutsche Rentenversicherung Knappschaft-Bahn-See,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Alterssicherung der Landwirte die Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Alterskasse.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004005377",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": "Versorgungsleistungen bei Gesundheitssch\u00e4den",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der sozialen Entsch\u00e4digung bei Gesundheitssch\u00e4den k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Heil- und Krankenbehandlung sowie andere Leistungen zur Erhaltung, Besserung und Wiederherstellung der Leistungsf\u00e4higkeit einschlie\u00dflich wirtschaftlicher Hilfen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">besondere Hilfen im Einzelfall einschlie\u00dflich Leistungen zur Teilhabe am Arbeitsleben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten wegen anerkannten Sch\u00e4digungsfolgen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten an Hinterbliebene, Bestattungsgeld und Sterbegeld,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kapitalabfindung, insbesondere zur Wohnraumbeschaffung.</LA></DD></DL></P><P>(2) Zust\u00e4ndig sind die Versorgungs\u00e4mter, die Landesversorgungs\u00e4mter und die orthop\u00e4dischen Versorgungsstellen. F\u00fcr die besonderen Hilfen im Einzelfall sind die Kreise und kreisfreien St\u00e4dte sowie die Hauptf\u00fcrsorgestellen zust\u00e4ndig. Bei der Durchf\u00fchrung der Heil- und Krankenbehandlung wirken die Tr\u00e4ger der gesetzlichen Krankenversicherung mit. F\u00fcr die Leistungen nach den \u00a7\u00a7 80, 81a bis 83a des Soldatenversorgungsgesetzes ist die Bundeswehrverwaltung zust\u00e4ndig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004108360",
+        "type": "article",
+        "name": "\u00a7 25",
+        "title": "Kindergeld, Kinderzuschlag, Leistungen f\u00fcr Bildung und Teilhabe, Elterngeld und Betreuungsgeld",
+        "body": {
+          "content": "<P>(1) Nach dem Bundeskindergeldgesetz kann nur dann Kindergeld in Anspruch genommen werden, wenn nicht der Familienleistungsausgleich nach \u00a7 31 des Einkommensteuergesetzes zur Anwendung kommt. Nach dem Bundeskindergeldgesetz k\u00f6nnen auch der Kinderzuschlag und Leistungen f\u00fcr Bildung und Teilhabe in Anspruch genommen werden.</P><P>(2) Nach dem Recht des Bundeselterngeld- und Elternzeitgesetzes kann Elterngeld und Betreuungsgeld in Anspruch genommen werden.</P><P>(3) F\u00fcr die Ausf\u00fchrung des Absatzes 1 sind die nach \u00a7 7 des Bundeskindergeldgesetzes bestimmten Stellen und f\u00fcr die Ausf\u00fchrung des Absatzes 2 die nach \u00a7 12 des Bundeselterngeld- und Elternzeitgesetzes bestimmten Stellen zust\u00e4ndig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004201306",
+        "type": "article",
+        "name": "\u00a7 26",
+        "title": "Wohngeld",
+        "body": {
+          "content": "<P>(1) Nach dem Wohngeldrecht kann als Zuschu\u00df zur Miete oder als Zuschu\u00df zu den Aufwendungen f\u00fcr den eigengenutzten Wohnraum Wohngeld in Anspruch genommen werden.</P><P>(2) Zust\u00e4ndig sind die durch Landesrecht bestimmten Beh\u00f6rden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004303308",
+        "type": "article",
+        "name": "\u00a7 27",
+        "title": "Leistungen der Kinder- und Jugendhilfe",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der Kinder- und Jugendhilfe k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote der Jugendarbeit, der Jugendsozialarbeit und des erzieherischen Jugendschutzes,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote zur F\u00f6rderung der Erziehung in der Familie,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote zur F\u00f6rderung von Kindern in Tageseinrichtungen und in Tagespflege,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfe zur Erziehung, Eingliederungshilfe f\u00fcr seelisch behinderte Kinder und Jugendliche sowie Hilfe f\u00fcr junge Vollj\u00e4hrige.</LA></DD> </DL> </P><P>(2) Zust\u00e4ndig sind die Kreise und die kreisfreien St\u00e4dte, nach Ma\u00dfgabe des Landesrechts auch kreisangeh\u00f6rige Gemeinden; sie arbeiten mit der freien Jugendhilfe zusammen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004407119",
+        "type": "article",
+        "name": "\u00a7 28",
+        "title": "Leistungen der Sozialhilfe",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der Sozialhilfe k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfe zum Lebensunterhalt,</LA></DD><DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundsicherung im Alter und bei Erwerbsminderung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfen zur Gesundheit,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfe zur Pflege,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfe zur \u00dcberwindung besonderer sozialer Schwierigkeiten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfe in anderen Lebenslagen</LA></DD></DL>sowie die jeweils gebotene Beratung und Unterst\u00fctzung.</P><P>(2) Zust\u00e4ndig sind die Kreise und kreisfreien St\u00e4dte, die \u00fcber\u00f6rtlichen Tr\u00e4ger der Sozialhilfe und f\u00fcr besondere Aufgaben die Gesundheits\u00e4mter; sie arbeiten mit den Tr\u00e4gern der freien Wohlfahrtspflege zusammen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE010303119",
+        "type": "article",
+        "name": "\u00a7 28a",
+        "title": "Leistungen der Eingliederungshilfe",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der Eingliederungshilfe k\u00f6nnen in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur medizinischen Rehabilitation,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Teilhabe am Arbeitsleben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Teilhabe an Bildung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Sozialen Teilhabe.</LA></DD></DL></P><P>(2) Zust\u00e4ndig sind die durch Landesrecht bestimmten Beh\u00f6rden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004507119",
+        "type": "article",
+        "name": "\u00a7 29",
+        "title": "Leistungen zur Rehabilitation und Teilhabe behinderter Menschen",
+        "body": {
+          "content": "<P>(1) Nach dem Recht der Rehabilitation und Teilhabe behinderter Menschen k\u00f6nnen in Anspruch genommen werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur medizinischen Rehabilitation, insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Fr\u00fchf\u00f6rderung behinderter und von Behinderung bedrohter Kinder,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00e4rztliche und zahn\u00e4rztliche Behandlung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Arznei- und Verbandmittel sowie Heilmittel einschlie\u00dflich physikalischer, Sprach- und Besch\u00e4ftigungstherapie,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">K\u00f6rperersatzst\u00fccke, orthop\u00e4dische und andere Hilfsmittel,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Belastungserprobung und Arbeitstherapie,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Teilhabe am Arbeitsleben, insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfen zum Erhalten oder Erlangen eines Arbeitsplatzes,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Berufsvorbereitung, berufliche Anpassung, Ausbildung und Weiterbildung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Hilfen zur F\u00f6rderung der Teilhabe am Arbeitsleben,</LA></DD></DL></LA></DD><DT>2a.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Teilhabe an Bildung, insbesondere <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfen zur Schulbildung, insbesondere im Rahmen der allgemeinen Schulpflicht und zum Besuch weiterf\u00fchrender Schulen einschlie\u00dflich der Vorbereitung hierzu,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfen zur schulischen Berufsausbildung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfen zur Hochschulbildung,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfen zur schulischen beruflichen Weiterbildung,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Sozialen Teilhabe, insbesondere <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen f\u00fcr Wohnraum,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Assistenzleistungen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">heilp\u00e4dagogische Leistungen,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Betreuung in einer Pflegefamilie,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und F\u00e4higkeiten,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur F\u00f6rderung der Verst\u00e4ndigung,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Mobilit\u00e4t,</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfsmittel,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">unterhaltssichernde und andere erg\u00e4nzende Leistungen, insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Krankengeld, Versorgungskrankengeld, Verletztengeld, \u00dcbergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beitr\u00e4ge zur gesetzlichen Kranken-, Unfall-, Renten- und Pflegeversicherung sowie zur Bundesagentur f\u00fcr Arbeit,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Reisekosten,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Haushalts- oder Betriebshilfe und Kinderbetreuungskosten,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Rehabilitationssport und Funktionstraining,</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">besondere Leistungen und sonstige Hilfen zur Teilhabe schwerbehinderter Menschen am Leben in der Gesellschaft, insbesondere am Arbeitsleben.</LA></DD></DL></P><P>(2) Zust\u00e4ndig sind die in den \u00a7\u00a7 19 bis 24, 27 und 28 genannten Leistungstr\u00e4ger und die Integrations\u00e4mter.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000600314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNG000700314",
+        "type": "heading",
+        "name": "Dritter Abschnitt",
+        "title": "Gemeinsame Vorschriften\nf\u00fcr alle Sozialleistungsbereiche dieses Gesetzbuchs",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR030150975BJNG000800314",
+        "type": "heading",
+        "name": "Erster Titel",
+        "title": "Allgemeine Grunds\u00e4tze",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000700314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004601306",
+        "type": "article",
+        "name": "\u00a7 30",
+        "title": "Geltungsbereich",
+        "body": {
+          "content": "<P>(1) Die Vorschriften dieses Gesetzbuchs gelten f\u00fcr alle Personen, die ihren Wohnsitz oder gew\u00f6hnlichen Aufenthalt in seinem Geltungsbereich haben.</P><P>(2) Regelungen des \u00fcber- und zwischenstaatlichen Rechts bleiben unber\u00fchrt.</P><P>(3) Einen Wohnsitz hat jemand dort, wo er eine Wohnung unter Umst\u00e4nden innehat, die darauf schlie\u00dfen lassen, da\u00df er die Wohnung beibehalten und benutzen wird. Den gew\u00f6hnlichen Aufenthalt hat jemand dort, wo er sich unter Umst\u00e4nden aufh\u00e4lt, die erkennen lassen, da\u00df er an diesem Ort oder in diesem Gebiet nicht nur vor\u00fcbergehend verweilt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004700314",
+        "type": "article",
+        "name": "\u00a7 31",
+        "title": "Vorbehalt des Gesetzes",
+        "body": {
+          "content": "<P>Rechte und Pflichten in den Sozialleistungsbereichen dieses Gesetzbuchs d\u00fcrfen nur begr\u00fcndet, festgestellt, ge\u00e4ndert oder aufgehoben werden, soweit ein Gesetz es vorschreibt oder zul\u00e4\u00dft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004800314",
+        "type": "article",
+        "name": "\u00a7 32",
+        "title": "Verbot nachteiliger Vereinbarungen",
+        "body": {
+          "content": "<P>Privatrechtliche Vereinbarungen, die zum Nachteil des Sozialleistungsberechtigten von Vorschriften dieses Gesetzbuchs abweichen, sind nichtig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE004900314",
+        "type": "article",
+        "name": "\u00a7 33",
+        "title": "Ausgestaltung von Rechten und Pflichten",
+        "body": {
+          "content": "<P>Ist der Inhalt von Rechten oder Pflichten nach Art oder Umfang nicht im einzelnen bestimmt, sind bei ihrer Ausgestaltung die pers\u00f6nlichen Verh\u00e4ltnisse des Berechtigten oder Verpflichteten, sein Bedarf und seine Leistungsf\u00e4higkeit sowie die \u00f6rtlichen Verh\u00e4ltnisse zu ber\u00fccksichtigen, soweit Rechtsvorschriften nicht entgegenstehen. Dabei soll den W\u00fcnschen des Berechtigten oder Verpflichteten entsprochen werden, soweit sie angemessen sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE009800308",
+        "type": "article",
+        "name": "\u00a7 33a",
+        "title": "Altersabh\u00e4ngige Rechte und Pflichten",
+        "body": {
+          "content": "<P>(1) Sind Rechte oder Pflichten davon abh\u00e4ngig, da\u00df eine bestimmte Altersgrenze erreicht oder nicht \u00fcberschritten ist, ist das Geburtsdatum ma\u00dfgebend, das sich aus der ersten Angabe des Berechtigten oder Verpflichteten oder seiner Angeh\u00f6rigen gegen\u00fcber einem Sozialleistungstr\u00e4ger oder, soweit es sich um eine Angabe im Rahmen des Dritten oder Sechsten Abschnitts des Vierten Buches handelt, gegen\u00fcber dem Arbeitgeber ergibt.</P><P>(2) Von einem nach Absatz 1 ma\u00dfgebenden Geburtsdatum darf nur abgewichen werden, wenn der zust\u00e4ndige Leistungstr\u00e4ger feststellt, da\u00df <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Schreibfehler vorliegt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich aus einer Urkunde, deren Original vor dem Zeitpunkt der Angabe nach Absatz 1 ausgestellt worden ist, ein anderes Geburtsdatum ergibt.</LA></DD></DL></P><P>(3) Die Abs\u00e4tze 1 und 2 gelten f\u00fcr Geburtsdaten, die Bestandteil der Versicherungsnummer oder eines anderen in den Sozialleistungsbereichen dieses Gesetzbuchs verwendeten Kennzeichens sind, entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE010200301",
+        "type": "article",
+        "name": "\u00a7 33b",
+        "title": "Lebenspartnerschaften",
+        "body": {
+          "content": "<P>Lebenspartnerschaften im Sinne dieses Gesetzbuches sind Lebenspartnerschaften nach dem Lebenspartnerschaftsgesetz.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE010800308",
+        "type": "article",
+        "name": "\u00a7 33c",
+        "title": "Benachteiligungsverbot",
+        "body": {
+          "content": "<P>Bei der Inanspruchnahme sozialer Rechte darf niemand aus Gr\u00fcnden der Rasse, wegen der ethnischen Herkunft oder einer Behinderung benachteiligt werden. Anspr\u00fcche k\u00f6nnen nur insoweit geltend gemacht oder hergeleitet werden, als deren Voraussetzungen und Inhalt durch die Vorschriften der besonderen Teile dieses Gesetzbuchs im Einzelnen bestimmt sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005002308",
+        "type": "article",
+        "name": "\u00a7 34",
+        "title": "Begrenzung von Rechten und Pflichten",
+        "body": {
+          "content": "<P>(1) Soweit Rechte und Pflichten nach diesem Gesetzbuch ein familienrechtliches Rechtsverh\u00e4ltnis voraussetzen, reicht ein Rechtsverh\u00e4ltnis, das gem\u00e4\u00df Internationalem Privatrecht dem Recht eines anderen Staats unterliegt und nach diesem Recht besteht, nur aus, wenn es dem Rechtsverh\u00e4ltnis im Geltungsbereich dieses Gesetzbuchs entspricht.</P><P>(2) Anspr\u00fcche mehrerer Ehegatten auf Witwenrente oder Witwerrente werden anteilig und endg\u00fcltig aufgeteilt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005119126",
+        "type": "article",
+        "name": "\u00a7 35",
+        "title": "Sozialgeheimnis",
+        "body": {
+          "content": "<P>(1) Jeder hat Anspruch darauf, dass die ihn betreffenden Sozialdaten (\u00a7 67 Absatz 2 Zehntes Buch) von den Leistungstr\u00e4gern nicht unbefugt verarbeitet werden (Sozialgeheimnis). Die Wahrung des Sozialgeheimnisses umfasst die Verpflichtung, auch innerhalb des Leistungstr\u00e4gers sicherzustellen, dass die Sozialdaten nur Befugten zug\u00e4nglich sind oder nur an diese weitergegeben werden. Sozialdaten der Besch\u00e4ftigten und ihrer Angeh\u00f6rigen d\u00fcrfen Personen, die Personalentscheidungen treffen oder daran mitwirken k\u00f6nnen, weder zug\u00e4nglich sein noch von Zugriffsberechtigten weitergegeben werden. Der Anspruch richtet sich auch gegen die Verb\u00e4nde der Leistungstr\u00e4ger, die Arbeitsgemeinschaften der Leistungstr\u00e4ger und ihrer Verb\u00e4nde, die Datenstelle der Rentenversicherung, die in diesem Gesetzbuch genannten \u00f6ffentlich-rechtlichen Vereinigungen, Integrationsfachdienste, die K\u00fcnstlersozialkasse, die Deutsche Post AG, soweit sie mit der Berechnung oder Auszahlung von Sozialleistungen betraut ist, die Beh\u00f6rden der Zollverwaltung, soweit sie Aufgaben nach \u00a7 2 des Schwarzarbeitsbek\u00e4mpfungsgesetzes und \u00a7 66 des Zehnten Buches durchf\u00fchren, die Versicherungs\u00e4mter und Gemeindebeh\u00f6rden sowie die anerkannten Adoptionsvermittlungsstellen (\u00a7 2 Absatz 2 des Adoptionsvermittlungsgesetzes), soweit sie Aufgaben nach diesem Gesetzbuch wahrnehmen, und die Stellen, die Aufgaben nach \u00a7 67c Absatz 3 des Zehnten Buches wahrnehmen. Die Besch\u00e4ftigten haben auch nach Beendigung ihrer T\u00e4tigkeit bei den genannten Stellen das Sozialgeheimnis zu wahren.</P><P>(2) Die Vorschriften des Zweiten Kapitels des Zehnten Buches und der \u00fcbrigen B\u00fccher des Sozialgesetzbuches regeln die Verarbeitung von Sozialdaten abschlie\u00dfend, soweit nicht die Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung unmittelbar gilt. F\u00fcr die Verarbeitungen von Sozialdaten im Rahmen von nicht in den Anwendungsbereich der Verordnung (EU) 2016/679 fallenden T\u00e4tigkeiten finden die Verordnung (EU) 2016/679 und dieses Gesetz entsprechende Anwendung, soweit nicht in diesem oder einem anderen Gesetz Abweichendes geregelt ist.</P><P>(2a) Die Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten oder von Berufs- oder besonderen Amtsgeheimnissen, die nicht auf gesetzlichen Vorschriften beruhen, bleibt unber\u00fchrt.</P><P>(3) Soweit eine \u00dcbermittlung von Sozialdaten nicht zul\u00e4ssig ist, besteht keine Auskunftspflicht, keine Zeugnispflicht und keine Pflicht zur Vorlegung oder Auslieferung von Schriftst\u00fccken, nicht automatisierten Dateisystemen und automatisiert verarbeiteten Sozialdaten.</P><P>(4) Betriebs- und Gesch\u00e4ftsgeheimnisse stehen Sozialdaten gleich.</P><P>(5) Sozialdaten Verstorbener d\u00fcrfen nach Ma\u00dfgabe des Zweiten Kapitels des Zehnten Buches verarbeitet werden. Sie d\u00fcrfen au\u00dferdem verarbeitet werden, wenn schutzw\u00fcrdige Interessen des Verstorbenen oder seiner Angeh\u00f6rigen dadurch nicht beeintr\u00e4chtigt werden k\u00f6nnen.</P><P>(6) Die Abs\u00e4tze 1 bis 5 finden neben den in Absatz 1 genannten Stellen auch Anwendung auf solche Verantwortliche oder deren Auftragsverarbeiter, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sozialdaten im Inland verarbeiten, sofern die Verarbeitung nicht im Rahmen einer Niederlassung in einem anderen Mitgliedstaat der Europ\u00e4ischen Union oder in einem anderen Vertragsstaat des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum erfolgt, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sozialdaten im Rahmen der T\u00e4tigkeiten einer inl\u00e4ndischen Niederlassung verarbeiten.</LA></DD></DL>Sofern die Abs\u00e4tze 1 bis 5 nicht gem\u00e4\u00df Satz 1 anzuwenden sind, gelten f\u00fcr den Verantwortlichen oder dessen Auftragsverarbeiter nur die \u00a7\u00a7 81 bis 81c des Zehnten Buches.</P><P>(7) Bei der Verarbeitung zu Zwecken gem\u00e4\u00df Artikel 2 der Verordnung (EU) 2016/679 stehen die Vertragsstaaten des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum und die Schweiz den Mitgliedstaaten der Europ\u00e4ischen Union gleich. Andere Staaten gelten insoweit als Drittstaaten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005200314",
+        "type": "article",
+        "name": "\u00a7 36",
+        "title": "Handlungsf\u00e4higkeit",
+        "body": {
+          "content": "<P>(1) Wer das f\u00fcnfzehnte Lebensjahr vollendet hat, kann Antr\u00e4ge auf Sozialleistungen stellen und verfolgen sowie Sozialleistungen entgegennehmen. Der Leistungstr\u00e4ger soll den gesetzlichen Vertreter \u00fcber die Antragstellung und die erbrachten Sozialleistungen unterrichten.</P><P>(2) Die Handlungsf\u00e4higkeit nach Absatz 1 Satz 1 kann vom gesetzlichen Vertreter durch schriftliche Erkl\u00e4rung gegen\u00fcber dem Leistungstr\u00e4ger eingeschr\u00e4nkt werden. Die R\u00fccknahme von Antr\u00e4gen, der Verzicht auf Sozialleistungen und die Entgegennahme von Darlehen bed\u00fcrfen der Zustimmung des gesetzlichen Vertreters.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE010506124",
+        "type": "article",
+        "name": "\u00a7 36a",
+        "title": "Elektronische Kommunikation",
+        "body": {
+          "content": "<P>(1) Die \u00dcbermittlung elektronischer Dokumente ist zul\u00e4ssig, soweit der Empf\u00e4nger hierf\u00fcr einen Zugang er\u00f6ffnet.</P><P>(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form gen\u00fcgt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Die Signierung mit einem Pseudonym, das die Identifizierung der Person des Signaturschl\u00fcsselinhabers nicht unmittelbar durch die Beh\u00f6rde erm\u00f6glicht, ist nicht zul\u00e4ssig. Die Schriftform kann auch ersetzt werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch unmittelbare Abgabe der Erkl\u00e4rung in einem elektronischen Formular, das von der Beh\u00f6rde in einem Eingabeger\u00e4t oder \u00fcber \u00f6ffentlich zug\u00e4ngliche Netze zur Verf\u00fcgung gestellt wird;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Antr\u00e4gen und Anzeigen durch Versendung eines elektronischen Dokuments an die Beh\u00f6rde mit der Versandart nach \u00a7 5 Absatz 5 des De-Mail-Gesetzes;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Beh\u00f6rden durch Versendung einer De-Mail-Nachricht nach \u00a7 5 Absatz 5 des De-Mail-Gesetzes, bei der die Best\u00e4tigung des akkreditierten Diensteanbieters die erlassende Beh\u00f6rde als Nutzer des De-Mail-Kontos erkennen l\u00e4sst;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch sonstige sichere Verfahren, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, welche den Daten\u00fcbermittler (Absender der Daten) authentifizieren und die Integrit\u00e4t des elektronisch \u00fcbermittelten Datensatzes sowie die Barrierefreiheit gew\u00e4hrleisten; der IT-Planungsrat gibt Empfehlungen zu geeigneten Verfahren ab.</LA></DD></DL>In den F\u00e4llen des Satzes 4 Nummer 1 muss bei einer Eingabe \u00fcber \u00f6ffentlich zug\u00e4ngliche Netze ein elektronischer Identit\u00e4tsnachweis nach \u00a7 18 des Personalausweisgesetzes, nach \u00a7 12 des eID-Karte-Gesetzes oder nach \u00a7 78 Absatz 5 des Aufenthaltsgesetzes erfolgen; in der Kommunikation zwischen dem Versicherten und seiner Krankenkasse kann die Identit\u00e4t auch mit der elektronischen Gesundheitskarte nach \u00a7 291 Absatz 2a des F\u00fcnften Buches elektronisch nachgewiesen werden.</P><P>(2a) Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer f\u00fcr die elektronische Versendung an die Beh\u00f6rde bestimmten Fassung des Formulars entf\u00e4llt das Unterschriftsfeld.</P><P>(3) Ist ein der Beh\u00f6rde \u00fcbermitteltes elektronisches Dokument f\u00fcr sie zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter Angabe der f\u00fcr sie geltenden technischen Rahmenbedingungen unverz\u00fcglich mit. Macht ein Empf\u00e4nger geltend, er k\u00f6nne das von der Beh\u00f6rde \u00fcbermittelte elektronische Dokument nicht bearbeiten, \u00fcbermittelt sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftst\u00fcck.</P><P>(4) Die Tr\u00e4ger der Sozialversicherung einschlie\u00dflich der Bundesagentur f\u00fcr Arbeit, ihre Verb\u00e4nde und Arbeitsgemeinschaften verwenden unter Beachtung der Grunds\u00e4tze der Wirtschaftlichkeit und Sparsamkeit im jeweiligen Sozialleistungsbereich Vertrauensdienste, die eine gemeinsame und bundeseinheitliche Kommunikation und \u00dcbermittlung der Daten und die \u00dcberpr\u00fcfbarkeit der qualifizierten elektronischen Signatur auf Dauer sicherstellen. Diese Tr\u00e4ger sollen \u00fcber ihren jeweiligen Bereich hinaus Vertrauensdienste im Sinne des Satzes 1 verwenden. Die S\u00e4tze 1 und 2 gelten entsprechend f\u00fcr die Leistungserbringer nach dem F\u00fcnften und dem Elften Buch und die von ihnen gebildeten Organisationen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ Hinweis: Die \u00c4nderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausf\u00fchrbar, da Art. 5 d. G v. 21.6.2019  I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)</P>",
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005305308",
+        "type": "article",
+        "name": "\u00a7 37",
+        "title": "Vorbehalt abweichender Regelungen",
+        "body": {
+          "content": "<P>Das Erste und Zehnte Buch gelten f\u00fcr alle Sozialleistungsbereiche dieses Gesetzbuchs, soweit sich aus den \u00fcbrigen B\u00fcchern nichts Abweichendes ergibt; \u00a7 68 bleibt unber\u00fchrt. Der Vorbehalt gilt nicht f\u00fcr die \u00a7\u00a7 1 bis 17 und 31 bis 36. Das Zweite Kapitel des Zehnten Buches geht dessen Erstem Kapitel vor, soweit sich die Ermittlung des Sachverhaltes auf Sozialdaten erstreckt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000800314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNG000900314",
+        "type": "heading",
+        "name": "Zweiter Titel",
+        "title": "Grunds\u00e4tze des\nLeistungsrechts",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000700314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005400314",
+        "type": "article",
+        "name": "\u00a7 38",
+        "title": "Rechtsanspruch",
+        "body": {
+          "content": "<P>Auf Sozialleistungen besteht ein Anspruch, soweit nicht nach den besonderen Teilen dieses Gesetzbuchs die Leistungstr\u00e4ger erm\u00e4chtigt sind, bei der Entscheidung \u00fcber die Leistung nach ihrem Ermessen zu handeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005500314",
+        "type": "article",
+        "name": "\u00a7 39",
+        "title": "Ermessensleistungen",
+        "body": {
+          "content": "<P>(1) Sind die Leistungstr\u00e4ger erm\u00e4chtigt, bei der Entscheidung \u00fcber Sozialleistungen nach ihrem Ermessen zu handeln, haben sie ihr Ermessen entsprechend dem Zweck der Erm\u00e4chtigung auszu\u00fcben und die gesetzlichen Grenzen des Ermessens einzuhalten. Auf pflichtgem\u00e4\u00dfe Aus\u00fcbung des Ermessens besteht ein Anspruch.</P><P>(2) F\u00fcr Ermessensleistungen gelten die Vorschriften \u00fcber Sozialleistungen, auf die ein Anspruch besteht, entsprechend, soweit sich aus den Vorschriften dieses Gesetzbuchs nichts Abweichendes ergibt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005600314",
+        "type": "article",
+        "name": "\u00a7 40",
+        "title": "Entstehen der Anspr\u00fcche",
+        "body": {
+          "content": "<P>(1) Anspr\u00fcche auf Sozialleistungen entstehen, sobald ihre im Gesetz oder auf Grund eines Gesetzes bestimmten Voraussetzungen vorliegen.</P><P>(2) Bei Ermessensleistungen ist der Zeitpunkt ma\u00dfgebend, in dem die Entscheidung \u00fcber die Leistung bekanntgegeben wird, es sei denn, da\u00df in der Entscheidung ein anderer Zeitpunkt bestimmt ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005700314",
+        "type": "article",
+        "name": "\u00a7 41",
+        "title": "F\u00e4lligkeit",
+        "body": {
+          "content": "<P>Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden Anspr\u00fcche auf Sozialleistungen mit ihrem Entstehen f\u00e4llig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005802308",
+        "type": "article",
+        "name": "\u00a7 42",
+        "title": "Vorsch\u00fcsse",
+        "body": {
+          "content": "<P>(1) Besteht ein Anspruch auf Geldleistungen dem Grunde nach und ist zur Feststellung seiner H\u00f6he voraussichtlich l\u00e4ngere Zeit erforderlich, kann der zust\u00e4ndige Leistungstr\u00e4ger Vorsch\u00fcsse zahlen, deren H\u00f6he er nach pflichtgem\u00e4\u00dfem Ermessen bestimmt. Er hat Vorsch\u00fcsse nach Satz 1 zu zahlen, wenn der Berechtigte es beantragt; die Vorschu\u00dfzahlung beginnt sp\u00e4testens nach Ablauf eines Kalendermonats nach Eingang des Antrags.</P><P>(2) Die Vorsch\u00fcsse sind auf die zustehende Leistung anzurechnen. Soweit sie diese \u00fcbersteigen, sind sie vom Empf\u00e4nger zu erstatten. \u00a7 50 Abs. 4 des Zehnten Buches gilt entsprechend.</P><P>(3) F\u00fcr die Stundung, Niederschlagung und den Erla\u00df des Erstattungsanspruchs gilt \u00a7 76 Abs. 2 des Vierten Buches entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE005901306",
+        "type": "article",
+        "name": "\u00a7 43",
+        "title": "Vorl\u00e4ufige Leistungen",
+        "body": {
+          "content": "<P>(1) Besteht ein Anspruch auf Sozialleistungen und ist zwischen mehreren Leistungstr\u00e4gern streitig, wer zur Leistung verpflichtet ist, kann der unter ihnen zuerst angegangene Leistungstr\u00e4ger vorl\u00e4ufig Leistungen erbringen, deren Umfang er nach pflichtgem\u00e4\u00dfen Ermessen bestimmt. Er hat Leistungen nach Satz 1 zu erbringen, wenn der Berechtigte es beantragt; die vorl\u00e4ufigen Leistungen beginnen sp\u00e4testens nach Ablauf eines Kalendermonats nach Eingang des Antrags.</P><P>(2) F\u00fcr die Leistungen nach Absatz 1 gilt \u00a7 42 Abs. 2 und 3 entsprechend. Ein Erstattungsanspruch gegen den Empf\u00e4nger steht nur dem zur Leistung verpflichteten Leistungstr\u00e4ger zu.</P><P>(3) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006001308",
+        "type": "article",
+        "name": "\u00a7 44",
+        "title": "Verzinsung",
+        "body": {
+          "content": "<P>(1) Anspr\u00fcche auf Geldleistungen sind nach Ablauf eines Kalendermonats nach dem Eintritt ihrer F\u00e4lligkeit bis zum Ablauf des Kalendermonats vor der Zahlung mit vier vom Hundert zu verzinsen.</P><P>(2) Die Verzinsung beginnt fr\u00fchestens nach Ablauf von sechs Kalendermonaten nach Eingang des vollst\u00e4ndigen Leistungsantrags beim zust\u00e4ndigen Leistungstr\u00e4ger, beim Fehlen eines Antrags nach Ablauf eines Kalendermonats nach der Bekanntgabe der Entscheidung \u00fcber die Leistung.</P><P>(3) Verzinst werden volle Euro-Betr\u00e4ge. Dabei ist der Kalendermonat mit drei\u00dfig Tagen zugrunde zu legen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006102308",
+        "type": "article",
+        "name": "\u00a7 45",
+        "title": "Verj\u00e4hrung",
+        "body": {
+          "content": "<P>(1) Anspr\u00fcche auf Sozialleistungen verj\u00e4hren in vier Jahren nach Ablauf des Kalenderjahrs, in dem sie entstanden sind.</P><P>(2) F\u00fcr die Hemmung, die Ablaufhemmung, den Neubeginn und die Wirkung der Verj\u00e4hrung gelten die Vorschriften des B\u00fcrgerlichen Gesetzbuchs sinngem\u00e4\u00df.</P><P>(3) Die Verj\u00e4hrung wird auch durch schriftlichen Antrag auf die Sozialleistung oder durch Erhebung eines Widerspruchs gehemmt. Die Hemmung endet sechs Monate nach Bekanntgabe der Entscheidung \u00fcber den Antrag oder den Widerspruch.</P><P>(4) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006200314",
+        "type": "article",
+        "name": "\u00a7 46",
+        "title": "Verzicht",
+        "body": {
+          "content": "<P>(1) Auf Anspr\u00fcche auf Sozialleistungen kann durch schriftliche Erkl\u00e4rung gegen\u00fcber dem Leistungstr\u00e4ger verzichtet werden; der Verzicht kann jederzeit mit Wirkung f\u00fcr die Zukunft widerrufen werden.</P><P>(2) Der Verzicht ist unwirksam, soweit durch ihn andere Personen oder Leistungstr\u00e4ger belastet oder Rechtsvorschriften umgangen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006301377",
+        "type": "article",
+        "name": "\u00a7 47",
+        "title": "Auszahlung von Geldleistungen",
+        "body": {
+          "content": "<P>(1) Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, sollen Geldleistungen kostenfrei auf ein Konto des Empf\u00e4ngers bei einem Geldinstitut, f\u00fcr das die Verordnung (EU) Nr. 260/2012 des Europ\u00e4ischen Parlaments und des Rates vom 14. M\u00e4rz 2012 zur Festlegung der technischen Vorschriften und der Gesch\u00e4ftsanforderungen f\u00fcr \u00dcberweisungen und Lastschriften in Euro und zur \u00c4nderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt, \u00fcberwiesen oder, wenn der Empf\u00e4nger es verlangt, kostenfrei an seinen Wohnsitz innerhalb des Geltungsbereiches dieser Verordnung \u00fcbermittelt werden.</P><P>(2) Bei Zahlungen au\u00dferhalb des Geltungsbereiches der in Absatz 1 genannten Verordnung tr\u00e4gt der Leistungstr\u00e4ger die Kosten bis zu dem von ihm mit der Zahlung beauftragten Geldinstitut.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006404119",
+        "type": "article",
+        "name": "\u00a7 48",
+        "title": "Auszahlung bei Verletzung der Unterhaltspflicht",
+        "body": {
+          "content": "<P>(1) Laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, k\u00f6nnen in angemessener H\u00f6he an den Ehegatten, den Lebenspartner oder die Kinder des Leistungsberechtigten ausgezahlt werden, wenn er ihnen gegen\u00fcber seiner gesetzlichen Unterhaltspflicht nicht nachkommt. Kindergeld, Kinderzuschl\u00e4ge und vergleichbare Rentenbestandteile (Geldleistungen f\u00fcr Kinder) k\u00f6nnen an Kinder, die bei der Festsetzung der Geldleistungen ber\u00fccksichtigt werden, bis zur H\u00f6he des Betrages, der sich bei entsprechender Anwendung des \u00a7 54 Abs. 5 Satz 2 ergibt, ausgezahlt werden. F\u00fcr das Kindergeld gilt dies auch dann, wenn der Kindergeldberechtigte mangels Leistungsf\u00e4higkeit nicht unterhaltspflichtig ist oder nur Unterhalt in H\u00f6he eines Betrages zu leisten braucht, der geringer ist als das f\u00fcr die Auszahlung in Betracht kommende Kindergeld. Die Auszahlung kann auch an die Person oder Stelle erfolgen, die dem Ehegatten, dem Lebenspartner oder den Kindern Unterhalt gew\u00e4hrt.</P><P>(2) Absatz 1 Satz 1, 2 und 4 gilt entsprechend, wenn unter Ber\u00fccksichtigung von Kindern, denen gegen\u00fcber der Leistungsberechtigte nicht kraft Gesetzes unterhaltspflichtig ist, Geldleistungen erbracht werden und der Leistungsberechtigte diese Kinder nicht unterh\u00e4lt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006502308",
+        "type": "article",
+        "name": "\u00a7 49",
+        "title": "Auszahlung bei Unterbringung",
+        "body": {
+          "content": "<P>(1) Ist ein Leistungsberechtigter auf Grund richterlicher Anordnung l\u00e4nger als einen Kalendermonat in einer Anstalt oder Einrichtung untergebracht, sind laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, an die Unterhaltsberechtigten auszuzahlen, soweit der Leistungsberechtigte kraft Gesetzes unterhaltspflichtig ist und er oder die Unterhaltsberechtigten es beantragen.</P><P>(2) Absatz 1 gilt entsprechend, wenn f\u00fcr Kinder, denen gegen\u00fcber der Leistungsberechtigte nicht kraft Gesetzes unterhaltspflichtig ist, Geldleistungen erbracht werden.</P><P>(3) \u00a7 48 Abs. 1 Satz 4 bleibt unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006601314",
+        "type": "article",
+        "name": "\u00a7 50",
+        "title": "\u00dcberleitung bei Unterbringung",
+        "body": {
+          "content": "<P>(1) Ist der Leistungsberechtigte untergebracht (\u00a7 49 Abs. 1), kann die Stelle, der die Kosten der Unterbringung zur Last fallen, seine Anspr\u00fcche auf laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, durch schriftliche Anzeige an den zust\u00e4ndigen Leistungstr\u00e4ger auf sich \u00fcberleiten.</P><P>(2) Die Anzeige bewirkt den Anspruchs\u00fcbergang nur insoweit, als die Leistung nicht an Unterhaltsberechtigte oder die in \u00a7 49 Abs. 2 genannten Kinder zu zahlen ist, der Leistungsberechtigte die Kosten der Unterbringung zu erstatten hat und die Leistung auf den f\u00fcr die Erstattung ma\u00dfgebenden Zeitraum entf\u00e4llt.</P><P>(3) Die Abs\u00e4tze 1 und 2 gelten entsprechend, wenn f\u00fcr ein Kind (\u00a7 56 Abs. 1 Satz 1 Nr. 2, Abs. 2), das untergebracht ist (\u00a7 49 Abs. 1), ein Anspruch auf eine laufende Geldleistung besteht.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006705308",
+        "type": "article",
+        "name": "\u00a7 51",
+        "title": "Aufrechnung",
+        "body": {
+          "content": "<P>(1) Gegen Anspr\u00fcche auf Geldleistungen kann der zust\u00e4ndige Leistungstr\u00e4ger mit Anspr\u00fcchen gegen den Berechtigten aufrechnen, soweit die Anspr\u00fcche auf Geldleistungen nach \u00a7 54 Abs. 2 und 4 pf\u00e4ndbar sind.</P><P>(2) Mit Anspr\u00fcchen auf Erstattung zu Unrecht erbrachter Sozialleistungen und mit Beitragsanspr\u00fcchen nach diesem Gesetzbuch kann der zust\u00e4ndige Leistungstr\u00e4ger gegen Anspr\u00fcche auf laufende Geldleistungen bis zu deren H\u00e4lfte aufrechnen, wenn der Leistungsberechtigte nicht nachweist, dass er dadurch hilfebed\u00fcrftig im Sinne der Vorschriften des Zw\u00f6lften Buches \u00fcber die Hilfe zum Lebensunterhalt oder der Grundsicherung f\u00fcr Arbeitsuchende nach dem Zweiten Buch wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006800314",
+        "type": "article",
+        "name": "\u00a7 52",
+        "title": "Verrechnung",
+        "body": {
+          "content": "<P>Der f\u00fcr eine Geldleistung zust\u00e4ndige Leistungstr\u00e4ger kann mit Erm\u00e4chtigung eines anderen Leistungstr\u00e4gers dessen Anspr\u00fcche gegen den Berechtigten mit der ihm obliegenden Geldleistung verrechnen, soweit nach \u00a7 51 die Aufrechnung zul\u00e4ssig ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE006902308",
+        "type": "article",
+        "name": "\u00a7 53",
+        "title": "\u00dcbertragung und Verpf\u00e4ndung",
+        "body": {
+          "content": "<P>(1) Anspr\u00fcche auf Dienst- und Sachleistungen k\u00f6nnen weder \u00fcbertragen noch verpf\u00e4ndet werden.</P><P>(2) Anspr\u00fcche auf Geldleistungen k\u00f6nnen \u00fcbertragen und verpf\u00e4ndet werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Erf\u00fcllung oder zur Sicherung von Anspr\u00fcchen auf R\u00fcckzahlung von Darlehen und auf Erstattung von Aufwendungen, die im Vorgriff auf f\u00e4llig gewordene Sozialleistungen zu einer angemessenen Lebensf\u00fchrung gegeben oder gemacht worden sind oder,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der zust\u00e4ndige Leistungstr\u00e4ger feststellt, da\u00df die \u00dcbertragung oder Verpf\u00e4ndung im wohlverstandenen Interesse des Berechtigten liegt.</LA></DD> </DL> </P><P>(3) Anspr\u00fcche auf laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, k\u00f6nnen in anderen F\u00e4llen \u00fcbertragen und verpf\u00e4ndet werden, soweit sie den f\u00fcr Arbeitseinkommen geltenden unpf\u00e4ndbaren Betrag \u00fcbersteigen.</P><P>(4) Der Leistungstr\u00e4ger ist zur Auszahlung an den neuen Gl\u00e4ubiger nicht vor Ablauf des Monats verpflichtet, der dem Monat folgt, in dem er von der \u00dcbertragung oder Verpf\u00e4ndung Kenntnis erlangt hat.</P><P>(5) Eine \u00dcbertragung oder Verpf\u00e4ndung von Anspr\u00fcchen auf Geldleistungen steht einer Aufrechnung oder Verrechnung auch dann nicht entgegen, wenn der Leistungstr\u00e4ger beim Erwerb des Anspruchs von der \u00dcbertragung oder Verpf\u00e4ndung Kenntnis hatte.</P><P>(6) Soweit bei einer \u00dcbertragung oder Verpf\u00e4ndung Geldleistungen zu Unrecht erbracht worden sind, sind sowohl der Leistungsberechtigte als auch der neue Gl\u00e4ubiger als Gesamtschuldner dem Leistungstr\u00e4ger zur Erstattung des entsprechenden Betrages verpflichtet. Der Leistungstr\u00e4ger hat den Erstattungsanspruch durch Verwaltungsakt geltend zu machen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007011360",
+        "type": "article",
+        "name": "\u00a7 54",
+        "title": "Pf\u00e4ndung",
+        "body": {
+          "content": "<P>(1) Anspr\u00fcche auf Dienst- und Sachleistungen k\u00f6nnen nicht gepf\u00e4ndet werden.</P><P>(2) Anspr\u00fcche auf einmalige Geldleistungen k\u00f6nnen nur gepf\u00e4ndet werden, soweit nach den Umst\u00e4nden des Falles, insbesondere nach den Einkommens- und Verm\u00f6gensverh\u00e4ltnissen des Leistungsberechtigten, der Art des beizutreibenden Anspruchs sowie der H\u00f6he und der Zweckbestimmung der Geldleistung, die Pf\u00e4ndung der Billigkeit entspricht.</P><P>(3) Unpf\u00e4ndbar sind Anspr\u00fcche auf <DL Font=\"normal\" Indent=\"5.5\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Elterngeld und Betreuungsgeld bis zur H\u00f6he der nach \u00a7 10 des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreien Betr\u00e4ge sowie dem Erziehungsgeld vergleichbare Leistungen der L\u00e4nder,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mutterschaftsgeld nach \u00a7 19 Absatz 1 des Mutterschutzgesetzes, soweit das Mutterschaftsgeld nicht aus einer Teilzeitbesch\u00e4ftigung w\u00e4hrend der Elternzeit herr\u00fchrt, bis zur H\u00f6he des Elterngeldes nach \u00a7 2 des Bundeselterngeld- und Elternzeitgesetzes, soweit es die anrechnungsfreien Betr\u00e4ge nach \u00a7 10 des Bundeselterngeld- und Elternzeitgesetzes nicht \u00fcbersteigt,</LA></DD><DT>2a.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohngeld, soweit nicht die Pf\u00e4ndung wegen Anspr\u00fcchen erfolgt, die Gegenstand der \u00a7\u00a7 9 und 10 des Wohngeldgesetzes sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geldleistungen, die daf\u00fcr bestimmt sind, den durch einen K\u00f6rper- oder Gesundheitsschaden bedingten Mehraufwand auszugleichen.</LA></DD></DL></P><P>(4) Im \u00fcbrigen k\u00f6nnen Anspr\u00fcche auf laufende Geldleistungen wie Arbeitseinkommen gepf\u00e4ndet werden.</P><P>(5) Ein Anspruch des Leistungsberechtigten auf Geldleistungen f\u00fcr Kinder (\u00a7 48 Abs. 1 Satz 2) kann nur wegen gesetzlicher Unterhaltsanspr\u00fcche eines Kindes, das bei der Festsetzung der Geldleistungen ber\u00fccksichtigt wird, gepf\u00e4ndet werden. F\u00fcr die H\u00f6he des pf\u00e4ndbaren Betrages bei Kindergeld gilt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geh\u00f6rt das unterhaltsberechtigte Kind zum Kreis der Kinder, f\u00fcr die dem Leistungsberechtigten Kindergeld gezahlt wird, so ist eine Pf\u00e4ndung bis zu dem Betrag m\u00f6glich, der bei gleichm\u00e4\u00dfiger Verteilung des Kindergeldes auf jedes dieser Kinder entf\u00e4llt. Ist das Kindergeld durch die Ber\u00fccksichtigung eines weiteren Kindes erh\u00f6ht, f\u00fcr das einer dritten Person Kindergeld oder dieser oder dem Leistungsberechtigten eine andere Geldleistung f\u00fcr Kinder zusteht, so bleibt der Erh\u00f6hungsbetrag bei der Bestimmung des pf\u00e4ndbaren Betrages des Kindergeldes nach Satz 1 au\u00dfer Betracht.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Der Erh\u00f6hungsbetrag (Nummer 1 Satz 2) ist zugunsten jedes bei der Festsetzung des Kindergeldes ber\u00fccksichtigten unterhaltsberechtigten Kindes zu dem Anteil pf\u00e4ndbar, der sich bei gleichm\u00e4\u00dfiger Verteilung auf alle Kinder, die bei der Festsetzung des Kindergeldes zugunsten des Leistungsberechtigten ber\u00fccksichtigt werden, ergibt.</LA></DD></DL></P><P>(6) In den F\u00e4llen der Abs\u00e4tze 2, 4 und 5 gilt \u00a7 53 Abs. 6 entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007102308",
+        "type": "article",
+        "name": "\u00a7 55",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007204308",
+        "type": "article",
+        "name": "\u00a7 56",
+        "title": "Sonderrechtsnachfolge",
+        "body": {
+          "content": "<P>(1) F\u00e4llige Anspr\u00fcche auf laufende Geldleistungen stehen beim Tod des Berechtigten nacheinander <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Ehegatten,</LA></DD> <DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Lebenspartner,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Kindern,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Eltern,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Haushaltsf\u00fchrer</LA></DD> </DL>zu, wenn diese mit dem Berechtigten zur Zeit seines Todes in einem gemeinsamen Haushalt gelebt haben oder von ihm wesentlich unterhalten worden sind. Mehreren Personen einer Gruppe stehen die Anspr\u00fcche zu gleichen Teilen zu.</P><P>(2) Als Kinder im Sinne des Absatzes 1 Satz 1 Nr. 2 gelten auch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Stiefkinder und Enkel, die in den Haushalt des Berechtigten aufgenommen sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegekinder (Personen, die mit dem Berechtigten durch ein auf l\u00e4ngere Dauer angelegtes Pflegeverh\u00e4ltnis mit h\u00e4uslicher Gemeinschaft wie Kinder mit Eltern verbunden sind),</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschwister des Berechtigten, die in seinen Haushalt aufgenommen worden sind.</LA></DD> </DL> </P><P>(3) Als Eltern im Sinne des Absatzes 1 Satz 1 Nr. 3 gelten auch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Verwandte der geraden aufsteigenden Linie,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Stiefeltern,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegeeltern (Personen, die den Berechtigten als Pflegekind aufgenommen haben).</LA></DD> </DL> </P><P>(4) Haushaltsf\u00fchrer im Sinne des Absatzes 1 Satz 1 Nr. 4 ist derjenige Verwandte oder Verschw\u00e4gerte, der an Stelle des verstorbenen oder geschiedenen oder an der F\u00fchrung des Haushalts aus gesundheitlichen Gr\u00fcnden dauernd gehinderten Ehegatten oder Lebenspartners den Haushalt des Berechtigten mindestens ein Jahr lang vor dessen Tod gef\u00fchrt hat und von diesem \u00fcberwiegend unterhalten worden ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007300314",
+        "type": "article",
+        "name": "\u00a7 57",
+        "title": "Verzicht und Haftung des Sonderrechtsnachfolgers",
+        "body": {
+          "content": "<P>(1) Der nach \u00a7 56 Berechtigte kann auf die Sonderrechtsnachfolge innerhalb von sechs Wochen nach ihrer Kenntnis durch schriftliche Erkl\u00e4rung gegen\u00fcber dem Leistungstr\u00e4ger verzichten. Verzichtet er innerhalb dieser Frist, gelten die Anspr\u00fcche als auf ihn nicht \u00fcbergegangen. Sie stehen den Personen zu, die ohne den Verzichtenden nach \u00a7 56 berechtigt w\u00e4ren.</P><P>(2) Soweit Anspr\u00fcche auf den Sonderrechtsnachfolger \u00fcbergegangen sind, haftet er f\u00fcr die nach diesem Gesetzbuch bestehenden Verbindlichkeiten des Verstorbenen gegen\u00fcber dem f\u00fcr die Anspr\u00fcche zust\u00e4ndigen Leistungstr\u00e4ger. Insoweit entf\u00e4llt eine Haftung des Erben. Eine Aufrechnung und Verrechnung nach den \u00a7\u00a7 51 und 52 ist ohne die dort genannten Beschr\u00e4nkungen der H\u00f6he zul\u00e4ssig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007400314",
+        "type": "article",
+        "name": "\u00a7 58",
+        "title": "Vererbung",
+        "body": {
+          "content": "<P>Soweit f\u00e4llige Anspr\u00fcche auf Geldleistungen nicht nach den \u00a7\u00a7 56 und 57 einem Sonderrechtsnachfolger zustehen, werden sie nach den Vorschriften des B\u00fcrgerlichen Gesetzbuchs vererbt. Der Fiskus als gesetzlicher Erbe kann die Anspr\u00fcche nicht geltend machen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007500314",
+        "type": "article",
+        "name": "\u00a7 59",
+        "title": "Ausschlu\u00df der Rechtsnachfolge",
+        "body": {
+          "content": "<P>Anspr\u00fcche auf Dienst- und Sachleistungen erl\u00f6schen mit dem Tod des Berechtigten. Anspr\u00fcche auf Geldleistungen erl\u00f6schen nur, wenn sie im Zeitpunkt des Todes des Berechtigten weder festgestellt sind noch ein Verwaltungsverfahren \u00fcber sie anh\u00e4ngig ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000900314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNG001000314",
+        "type": "heading",
+        "name": "Dritter Titel",
+        "title": "Mitwirkung des\nLeistungsberechtigten",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG000700314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007602308",
+        "type": "article",
+        "name": "\u00a7 60",
+        "title": "Angabe von Tatsachen",
+        "body": {
+          "content": "<P>(1) Wer Sozialleistungen beantragt oder erh\u00e4lt, hat <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Tatsachen anzugeben, die f\u00fcr die Leistung erheblich sind, und auf Verlangen des zust\u00e4ndigen Leistungstr\u00e4gers der Erteilung der erforderlichen Ausk\u00fcnfte durch Dritte zuzustimmen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen in den Verh\u00e4ltnissen, die f\u00fcr die Leistung erheblich sind oder \u00fcber die im Zusammenhang mit der Leistung Erkl\u00e4rungen abgegeben worden sind, unverz\u00fcglich mitzuteilen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beweismittel zu bezeichnen und auf Verlangen des zust\u00e4ndigen Leistungstr\u00e4gers Beweisurkunden vorzulegen oder ihrer Vorlage zuzustimmen.</LA></DD> </DL>Satz 1 gilt entsprechend f\u00fcr denjenigen, der Leistungen zu erstatten hat.</P><P>(2) Soweit f\u00fcr die in Absatz 1 Satz 1 Nr. 1 und 2 genannten Angaben Vordrucke vorgesehen sind, sollen diese benutzt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 60: Zur Anwendung vgl. \u00a7 42f Abs. 2 SGB 8 +++)</P>",
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007700314",
+        "type": "article",
+        "name": "\u00a7 61",
+        "title": "Pers\u00f6nliches Erscheinen",
+        "body": {
+          "content": "<P>Wer Sozialleistungen beantragt oder erh\u00e4lt, soll auf Verlangen des zust\u00e4ndigen Leistungstr\u00e4gers zur m\u00fcndlichen Er\u00f6rterung des Antrags oder zur Vornahme anderer f\u00fcr die Entscheidung \u00fcber die Leistung notwendiger Ma\u00dfnahmen pers\u00f6nlich erscheinen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007800314",
+        "type": "article",
+        "name": "\u00a7 62",
+        "title": "Untersuchungen",
+        "body": {
+          "content": "<P>Wer Sozialleistungen beantragt oder erh\u00e4lt, soll sich auf Verlangen des zust\u00e4ndigen Leistungstr\u00e4gers \u00e4rztlichen und psychologischen Untersuchungsma\u00dfnahmen unterziehen, soweit diese f\u00fcr die Entscheidung \u00fcber die Leistung erforderlich sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 62: Zur Anwendung vgl. \u00a7 42f Abs. 2 SGB 8 +++)</P>",
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE007900314",
+        "type": "article",
+        "name": "\u00a7 63",
+        "title": "Heilbehandlung",
+        "body": {
+          "content": "<P>Wer wegen Krankheit oder Behinderung Sozialleistungen beantragt oder erh\u00e4lt, soll sich auf Verlangen des zust\u00e4ndigen Leistungstr\u00e4gers einer Heilbehandlung unterziehen, wenn zu erwarten ist, da\u00df sie eine Besserung seines Gesundheitszustands herbeif\u00fchren oder eine Verschlechterung verhindern wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE008002308",
+        "type": "article",
+        "name": "\u00a7 64",
+        "title": "Leistungen zur Teilhabe am Arbeitsleben",
+        "body": {
+          "content": "<P>Wer wegen Minderung der Erwerbsf\u00e4higkeit, anerkannten Sch\u00e4digungsfolgen oder wegen Arbeitslosigkeit Sozialleistungen beantragt oder erh\u00e4lt, soll auf Verlangen des zust\u00e4ndigen Leistungstr\u00e4gers an Leistungen zur Teilhabe am Arbeitsleben teilnehmen, wenn bei angemessener Ber\u00fccksichtigung seiner beruflichen Neigung und seiner Leistungsf\u00e4higkeit zu erwarten ist, da\u00df sie seine Erwerbs- oder Vermittlungsf\u00e4higkeit auf Dauer f\u00f6rdern oder erhalten werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE008102304",
+        "type": "article",
+        "name": "\u00a7 65",
+        "title": "Grenzen der Mitwirkung",
+        "body": {
+          "content": "<P>(1) Die Mitwirkungspflichten nach den \u00a7\u00a7 60 bis 64 bestehen nicht, soweit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Erf\u00fcllung nicht in einem angemessenen Verh\u00e4ltnis zu der in Anspruch genommenen Sozialleistung oder ihrer Erstattung steht oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Erf\u00fcllung dem Betroffenen aus einem wichtigen Grund nicht zugemutet werden kann oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Leistungstr\u00e4ger sich durch einen geringeren Aufwand als der Antragsteller oder Leistungsberechtigte die erforderlichen Kenntnisse selbst beschaffen kann.</LA></DD></DL></P><P>(2) Behandlungen und Untersuchungen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei denen im Einzelfall ein Schaden f\u00fcr Leben oder Gesundheit nicht mit hoher Wahrscheinlichkeit ausgeschlossen werden kann,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die mit erheblichen Schmerzen verbunden sind oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die einen erheblichen Eingriff in die k\u00f6rperliche Unversehrtheit bedeuten,</LA></DD></DL>k\u00f6nnen abgelehnt werden.</P><P>(3) Angaben, die dem Antragsteller, dem Leistungsberechtigten oder ihnen nahestehende Personen (\u00a7 383 Abs. 1 Nr. 1 bis 3 der Zivilproze\u00dfordnung) die Gefahr zuziehen w\u00fcrde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden, k\u00f6nnen verweigert werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 65: Zur Anwendung vgl. \u00a7 42f Abs. SGB 8 +++) (+++ \u00a7 65 Abs. 1 u. 3: Zur Anwendung vgl. \u00a7 8 Abs. 1a BEEG F. v. 18.12.2014 +++)</P>",
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE008200314",
+        "type": "article",
+        "name": "\u00a7 65a",
+        "title": "Aufwendungsersatz",
+        "body": {
+          "content": "<P>(1) Wer einem Verlangen des zust\u00e4ndigen Leistungstr\u00e4gers nach den \u00a7\u00a7 61 oder 62 nachkommt, kann auf Antrag Ersatz seiner notwendigen Auslagen und seines Verdienstausfalls in angemessenem Umfang erhalten. Bei einem Verlangen des zust\u00e4ndigen Leistungstr\u00e4gers nach \u00a7 61 sollen Aufwendungen nur in H\u00e4rtef\u00e4llen ersetzt werden.</P><P>(2) Absatz 1 gilt auch, wenn der zust\u00e4ndige Leistungstr\u00e4ger ein pers\u00f6nliches Erscheinen oder eine Untersuchung nachtr\u00e4glich als notwendig anerkennt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE008302308",
+        "type": "article",
+        "name": "\u00a7 66",
+        "title": "Folgen fehlender Mitwirkung",
+        "body": {
+          "content": "<P>(1) Kommt derjenige, der eine Sozialleistung beantragt oder erh\u00e4lt, seinen Mitwirkungspflichten nach den \u00a7\u00a7 60 bis 62, 65 nicht nach und wird hierdurch die Aufkl\u00e4rung des Sachverhalts erheblich erschwert, kann der Leistungstr\u00e4ger ohne weitere Ermittlungen die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen, soweit die Voraussetzungen der Leistung nicht nachgewiesen sind. Dies gilt entsprechend, wenn der Antragsteller oder Leistungsberechtigte in anderer Weise absichtlich die Aufkl\u00e4rung des Sachverhalts erheblich erschwert.</P><P>(2) Kommt derjenige, der eine Sozialleistung wegen Pflegebed\u00fcrftigkeit, wegen Arbeitsunf\u00e4higkeit, wegen Gef\u00e4hrdung oder Minderung der Erwerbsf\u00e4higkeit, anerkannten Sch\u00e4digungsfolgen oder wegen Arbeitslosigkeit beantragt oder erh\u00e4lt, seinen Mitwirkungspflichten nach den \u00a7\u00a7 62 bis 65 nicht nach und ist unter W\u00fcrdigung aller Umst\u00e4nde mit Wahrscheinlichkeit anzunehmen, da\u00df deshalb die F\u00e4higkeit zur selbst\u00e4ndigen Lebensf\u00fchrung, die Arbeits-, Erwerbs- oder Vermittlungsf\u00e4higkeit beeintr\u00e4chtigt oder nicht verbessert wird, kann der Leistungstr\u00e4ger die Leistung bis zur Nachholung der Mitwirkung ganz oder teilweise versagen oder entziehen.</P><P>(3) Sozialleistungen d\u00fcrfen wegen fehlender Mitwirkung nur versagt oder entzogen werden, nachdem der Leistungsberechtigte auf diese Folge schriftlich hingewiesen worden ist und seiner Mitwirkungspflicht nicht innerhalb einer ihm gesetzten angemessenen Frist nachgekommen ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 66: Zur Anwendung vgl. \u00a7 42f Abs. 2 SGB 8 +++)</P>",
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE008400314",
+        "type": "article",
+        "name": "\u00a7 67",
+        "title": "Nachholung der Mitwirkung",
+        "body": {
+          "content": "<P>Wird die Mitwirkung nachgeholt und liegen die Leistungsvoraussetzungen vor, kann der Leistungstr\u00e4ger Sozialleistungen, die er nach \u00a7 66 versagt oder entzogen hat, nachtr\u00e4glich ganz oder teilweise erbringen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 67: Zur Anwendung vgl. \u00a7 42f Abs. 2 SGB 8 +++)</P>",
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001000314"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNG001100308",
+        "type": "heading",
+        "name": "Vierter Abschnitt",
+        "title": "\u00dcbergangs- und Schlussvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR030150975BJNE010010377",
+        "type": "article",
+        "name": "\u00a7 68",
+        "title": "Besondere Teile dieses Gesetzbuches",
+        "body": {
+          "content": "<P>Bis zu ihrer Einordnung in dieses Gesetzbuch gelten die nachfolgenden Gesetze mit den zu ihrer Erg\u00e4nzung und \u00c4nderung erlassenen Gesetzen als dessen besondere Teile: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesausbildungsf\u00f6rderungsgesetz,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(aufgehoben)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Reichsversicherungsordnung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Gesetz \u00fcber die Alterssicherung der Landwirte,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Zweite Gesetz \u00fcber die Krankenversicherung der Landwirte,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesversorgungsgesetz, auch soweit andere Gesetze, insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7\u00a7 80 bis 83a des Soldatenversorgungsgesetzes,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 59 Abs. 1 des Bundesgrenzschutzgesetzes,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 47 des Zivildienstgesetzes,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 60 des Infektionsschutzgesetzes,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7\u00a7 4 und 5 des H\u00e4ftlingshilfegesetzes,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 1 des Opferentsch\u00e4digungsgesetzes,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7\u00a7 21 und 22 des Strafrechtlichen Rehabilitierungsgesetzes,</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7\u00a7 3 und 4 des Verwaltungsrechtlichen Rehabilitierungsgesetzes,</LA></DD></DL></LA><LA Size=\"normal\">die entsprechende Anwendung der Leistungsvorschriften des Bundesversorgungsgesetzes vorsehen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Gesetz \u00fcber das Verwaltungsverfahren der Kriegsopferversorgung,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundeskindergeldgesetz,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Wohngeldgesetz,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Adoptionsvermittlungsgesetz,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">(aufgehoben)</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Unterhaltsvorschussgesetz,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Erste, Zweite und Dritte Abschnitt des Bundeselterngeld- und Elternzeitgesetzes,</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Altersteilzeitgesetz,</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">der F\u00fcnfte Abschnitt des Schwangerschaftskonfliktgesetzes.</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><!--leerzeile --></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001100308"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE010100308",
+        "type": "article",
+        "name": "\u00a7 69",
+        "title": "Stadtstaaten-Klausel",
+        "body": {
+          "content": "<P>Die Senate der L\u00e4nder Berlin, Bremen und Hamburg werden erm\u00e4chtigt, die Vorschriften dieses Buches \u00fcber die Zust\u00e4ndigkeit von Beh\u00f6rden dem besonderen Verwaltungsaufbau ihrer L\u00e4nder anzupassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001100308"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE010400308",
+        "type": "article",
+        "name": "\u00a7 70",
+        "title": "\u00dcberleitungsvorschrift zum Verj\u00e4hrungsrecht",
+        "body": {
+          "content": "<P>Artikel 229 \u00a7 6 Abs. 1 und 2 des Einf\u00fchrungsgesetzes zum B\u00fcrgerlichen Gesetzbuche gilt entsprechend bei der Anwendung des \u00a7 45 Abs. 2 und 3 in der seit dem 1. Januar 2002 geltenden Fassung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001100308"
+        }
+      },
+      {
+        "id": "BJNR030150975BJNE010700308",
+        "type": "article",
+        "name": "\u00a7 71",
+        "title": "\u00dcberleitungsvorschrift zur \u00dcbertragung, Verpf\u00e4ndung und Pf\u00e4ndung",
+        "body": {
+          "content": "<P>\u00a7 53 Abs. 6 und \u00a7 54 Abs. 6 sind nur auf Geldleistungen anzuwenden, soweit diese nach dem 30. M\u00e4rz 2005 ganz oder teilweise zu Unrecht erbracht werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030150975BJNG001100308"
+        }
+      }
+    ]
+  }
+}

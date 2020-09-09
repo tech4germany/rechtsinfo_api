@@ -1,0 +1,320 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR507500943",
+    "abbreviation": "A/KAE",
+    "extraAbbreviations": [
+      "KAEAAnO"
+    ],
+    "firstPublished": "1943-02-27",
+    "sourceTimestamp": "20130405133058",
+    "headingShort": null,
+    "headingLong": "Ausf\u00fchrungsanordnung zur Konzessionsabgabenanordnung",
+    "publicationInfo": [
+      {
+        "periodical": "RAnz",
+        "reference": "1943, Nr 75"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Aufh",
+        "comment": "AnO f\u00fcr Strom u. Gas aufgeh. durch \u00a7 9 Satz 2 V v. 9.1.1992 I 12 mWv 1.1.1992"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR507500943BJNE000100326",
+        "type": "article",
+        "name": "Eingangsformel",
+        "title": null,
+        "body": {
+          "content": "<P>Auf Grund des \u00a7 2 des Gesetzes zur Durchf\u00fchrung des Vierjahresplans - Bestellung eines Reichskommissars f\u00fcr die Preisbildung - vom 29. Oktober 1936 (Reichsgesetzbl. I S. 927) wird zur Ausf\u00fchrung der Anordnung \u00fcber die Zul\u00e4ssigkeit von Konzessionsabgaben der Unternehmen und Betriebe zur Versorgung mit Elektrizit\u00e4t, Gas und Wasser an Gemeinden und Gemeindeverb\u00e4nde (Konzessionsabgabenanordnung/Energie-KAE) vom 4. M\u00e4rz 1941 (Reichsanzeiger Nr. 57 vom 8. M\u00e4rz 1941) mit Zustimmung des Beauftragten f\u00fcr den Vierjahresplan angeordnet:</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE000200326",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Konzessionsabgaben im Sinne der Konzessionsabgabenanordnung sind alle Entgelte, die ein Versorgungsunternehmen an eine Gemeinde, einen Gemeindeverband oder einen Zweckverband f\u00fcr die Gestattung der Benutzung der Verkehrsr\u00e4ume zur Verlegung von Versorgungsleitungen oder den Verzicht auf eine anderweite Regelung der Versorgung im Gebiet der Gemeinde, des Gemeindeverbands oder des Zweckverbands entrichtet, die Empf\u00e4nger der Abgabe sind. Das Recht der Gemeinden am Wegeeigentum bleibt unber\u00fchrt.</P><P>(2) Den Gemeindeverb\u00e4nden stehen die <I>Reichsgaue als Selbstverwaltungsk\u00f6rperschaften</I> und die L\u00e4nder, den Zweckverb\u00e4nden die Zusammenschl\u00fcsse des \u00f6ffentlichen und privaten Rechts gleich, an denen ausschlie\u00dflich L\u00e4nder, <I>Reichsgaue,</I> Gemeindeverb\u00e4nde, Gemeinden, Zweckverb\u00e4nde oder sonstige Zusammenschl\u00fcsse von K\u00f6rperschaften oder Vereinigungen der genannten Art beteiligt sind. Ausgenommen sind die Zweckverb\u00e4nde und Zusammenschl\u00fcsse, die Energieversorgungsunternehmen im Sinne des \u00a7 2 des Energiewirtschaftsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl. I S. 1451) sind oder andere mit Wasser versorgen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE000300326",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Abgrenzungsentsch\u00e4digungen fallen nicht unter den Begriff der Konzessionsabgaben. Sie d\u00fcrfen aber nicht erh\u00f6ht, in Konzessionsabgaben umgewandelt oder neu eingef\u00fchrt werden, es sei denn, da\u00df <I>der Generalinspektor f\u00fcr Wasser und Energie</I> einer Neueinf\u00fchrung zustimmt.</P><P>(2) Diese Entgelte d\u00fcrfen 1,5 vom Hundert der Roheinnahmen aus Gro\u00dfabnehmerlieferungen nicht \u00fcberschreiten (\u00a7 2 Abs. 1 Buchstabe a KAE). Diese Regelung gilt sowohl im Verh\u00e4ltnis zwischen Gemeinde und Versorgungsunternehmen als auch f\u00fcr Versorgungsunternehmen untereinander.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE000400326",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE000500326",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": null,
+        "body": {
+          "content": "<P>(1) F\u00fcr Gemeinden, die durch die Volksz\u00e4hlung vom 17. Mai 1939 nicht erfa\u00dft worden sind, wird die Einwohnerzahl nach der Zahl der Personen bemessen, f\u00fcr die im letzten vor dem 1. April 1941 begonnenen Zuteilungszeitraum Brotkarten ausgegeben worden sind, zuz\u00fcglich der am 1. April 1941 ortsanwesenden kasernierten oder in Anstalten und dergleichen verpflegten Personen sowie der Selbstversorger.</P><P>(2)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE000600326",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Als Wasserlieferungen, die nicht zu den allgemeinen Bedingungen und allgemeinen Tarifpreisen abgegeben werden (\u00a7 2 Abs. 3 KAE), sind anzusehen <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Lieferungen, die ausdr\u00fccklich als Lieferungen nach Sondervertr\u00e4gen oder zu Gro\u00dfabnehmerpreisen bezeichnet sind,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Lieferungen, die nicht zu \u00f6ffentlich bekanntgemachten Preisen erfolgen,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Lieferungen an Einzelabnehmer, die in Gemeinden von</LA></DD>  </DL><BR/><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"40*\"/>\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"30*\"/>\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><I>3.001</I> bis 25.000 Einwohnern</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">6.000 Kubikmeter,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">25.001 bis 100.000 Einwohnern</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">15.000 Kubikmeter</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> <DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">und in Gemeinden mit mehr als 100.000 Einwohnern 60.000 Kubikmeter im Jahr \u00fcbersteigen ohne R\u00fccksicht darauf, ob die Preise f\u00fcr diese Lieferungen \u00f6ffentlich bekanntgemacht sind oder nicht.</LA></DD> </DL> </P><P>(2) F\u00fcr Wasserlieferungen wird der Durchschnittspreis je Kubikmeter, der nicht mit einer Konzessionsabgabe belastet werden darf (\u00a7 2 Abs. 1 Buchstabe a KAE), auf Antrag eines Vertragsteils durch den <I>Reichskommissar f\u00fcr die Preisbildung</I> festgesetzt, es sei denn, da\u00df sich die Parteien dar\u00fcber einigen, welche Lieferungen abgabenfrei bleiben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7 5 Abs. 1 Buchst. c Kursivdruck: Sachlich \u00fcberholt durch G v. 24.12.1956 I 1076</P>",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE000700326",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE000800326",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE000900326",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": null,
+        "body": {
+          "content": "<P>Nach dem 1. April 1941 werden Gewinnaussch\u00fcttungen von Versorgungsunternehmen an Gemeinden, Gemeindeverb\u00e4nde oder Zweckverb\u00e4nde als solche nur anerkannt, wenn sie nach Anteilen am Gesellschafts- oder Stammkapital oder nach Anteilen am Reingewinn bemessen werden. Gewinnaussch\u00fcttungen nach anderen Verteilungsschl\u00fcsseln gelten als sonstige Leistungen im Sinne des \u00a7 6 KAE.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001000326",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001100326",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": null,
+        "body": {
+          "content": "<P>Als sonstige Leistungen im Sinne des \u00a7 6 KAE sind nicht anzusehen <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufwendungen, die den Versorgungsunternehmen aus einer etwaigen Folgepflicht der Versorgungsleitungen (Aufwendungen, die dadurch notwendig werden, da\u00df der Stra\u00dfenk\u00f6rper, in dem Leitungen verlegt sind oder der von Leitungen \u00fcberspannt oder gekreuzt wird, aus Verkehrsinteressen oder sonstigen Gr\u00fcnden ver\u00e4ndert wird) erwachsen;</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">monatliche oder viertelj\u00e4hrliche Abschlagszahlungen in H\u00f6he eines Zw\u00f6lftels oder eines Viertels der f\u00fcr das Vorjahr gezahlten Konzessionsabgaben oder gleichgestellten Leistungen, soweit sie vorbehaltlich eines am Jahresschlu\u00df zu bewirkenden Ausgleichs gezahlt werden.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001200326",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": null,
+        "body": {
+          "content": "<P>Der Eigenverbrauch der Gemeinden, Gemeindeverb\u00e4nde und Zweckverb\u00e4nde ist f\u00fcr alle r\u00e4umlich getrennt liegenden Abnahmestellen gesondert abzurechnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001300326",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Als verbilligte Sachleistungen gelten nicht unentgeltliche oder verbilligte Wasserlieferungen f\u00fcr Feuerl\u00f6sch-, Feuerl\u00f6sch\u00fcbungszwecke, f\u00fcr Zwecke der Stra\u00dfenreinigung und f\u00fcr \u00f6ffentliche Zier- und Stra\u00dfenbrunnen (auch Wasserk\u00fcnste) nach der am 1. April 1941 geltenden \u00dcbung sowie die verbilligte oder kostenlose Errichtung und Unterhaltung von Anlagen f\u00fcr L\u00f6schwasserversorgung und Feuerschutz durch ein Wasserwerk.</P><P>(2) Als Verbilligung einer Sachleistung gilt ferner nicht ein Preisnachla\u00df f\u00fcr den Eigenverbrauch der Gemeinden, Gemeindeverb\u00e4nde und Zweckverb\u00e4nde, wenn er <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Hunderts\u00e4tzen des Rechnungsbetrags bemessen wird und 10 vom Hundert des Rechnungsbetrags nicht \u00fcbersteigt,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr alle Abnahmestellen einer Gemeinde, deren Verbrauch nach allgemeinen Tarifen abgerechnet wird, gleich hoch ist und</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">von dem nach allgemeinen Tarifpreisen ermittelten Rechnungsbetrag sichtbar in Abzug gebracht wird.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001400326",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": null,
+        "body": {
+          "content": "<P>Als verbilligte Sachleistungen gelten auch Heimfallverpflichtungen. \u00dcber das Verfahren ihrer Abl\u00f6sung im Einzelfall entscheidet der <I>Reichskommissar f\u00fcr die Preisbildung.</I></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001500326",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": null,
+        "body": {
+          "content": "<P>Vom 1. April 1943 ab ist der Elektrizit\u00e4ts-, Gas- und Wasserverbrauch von Kirchen, mildt\u00e4tigen Anstalten und \u00e4hnlichen Stellen, denen in Konzessionsvertr\u00e4gen oder mit R\u00fccksicht auf die Gew\u00e4hrung verbilligter Sachleistungen an entsprechende gemeindliche Stellen Preisnachl\u00e4sse einger\u00e4umt worden sind, zu den Preisen abzurechnen, die anderen Abnehmern mit gleichen Abnahmeverh\u00e4ltnissen \u00fcblicherweise berechnet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001600326",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001700326",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": null,
+        "body": {
+          "content": "<P>Pacht- oder Kaufvertr\u00e4ge \u00fcber gemeindliche Versorgungsunternehmen, die nach dem 1. April 1943 abgeschlossen werden, m\u00fcssen eindeutig erkennen lassen, welcher Betrag als Pachtzins, als Abschreibung, als Verzinsung oder Tilgung auf das Restkaufgeld oder als Konzessionsabgabe vereinbart wird. Pachtzinsen d\u00fcrfen nur nach dem Wert oder Gewinn des verpachteten Unternehmens, Zinsen auf das Restkaufgeld nur nach Hunderts\u00e4tzen des Restkaufgelds bemessen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001800326",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE001900326",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ist die Umrechnung von verbilligten Sachleistungen, Gewinnaussch\u00fcttungen gem\u00e4\u00df \u00a7 8 dieser Anordnung oder eine Auseinanderrechnung nach \u00a7 7 KAE mit besonderen Schwierigkeiten verbunden, k\u00f6nnen die Vertragsparteien die Hinausschiebung der Um- oder Auseinanderrechnung und die Fortgew\u00e4hr der bisherigen Leistungen l\u00e4ngstens bis zum Schlu\u00df des Rechnungsjahrs, in dem der Krieg beendet wird, vereinbaren.</P><P>(2) Stra\u00dfenbeleuchtungskosten werden bis zur <I>reichseinheitlichen</I> Neuregelung der Verg\u00fctung von Leistungen der Versorgungsunternehmen zur Beleuchtung der \u00f6ffentlichen Verkehrsr\u00e4ume nach den geltenden Vereinbarungen f\u00fcr die Zeit der Verdunklungsma\u00dfnahmen nach der Anordnung \u00fcber die Einwirkung der Verdunklungsma\u00dfnahmen auf die Entgelte f\u00fcr Stra\u00dfenbeleuchtung vom 17. Juli 1940 (Reichsanzeiger Nr. 167 vom 19. Juli 1940) und den zu ihrer Erg\u00e4nzung und Ausf\u00fchrung erlassenen Vorschriften abgerechnet. Die Vorschriften der Konzessionsabgabenanordnung finden insoweit keine Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE002000326",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE002100326",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE002200326",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": null,
+        "body": {
+          "content": "<P>Durchf\u00fchrungsbestimmungen zur Konzessionsabgabenanordnung und zu dieser Anordnung werden im Bundesanzeiger verk\u00fcndet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE002300326",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die Vorschriften der \u00a7\u00a7 14 und 16 treten mit der Verk\u00fcndung, die \u00fcbrigen Vorschriften dieser Anordnung mit Wirkung vom 8. M\u00e4rz 1941 in Kraft.</P><P>(2)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR507500943BJNE002400326",
+        "type": "article",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "body": {
+          "content": "<P><SP>Der Reichskommissar f\u00fcr die Preisbildung</SP></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      }
+    ]
+  }
+}

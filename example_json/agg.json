@@ -1,0 +1,658 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR189710006",
+    "abbreviation": "AGG",
+    "extraAbbreviations": [],
+    "firstPublished": "2006-08-14",
+    "sourceTimestamp": "20141120220509",
+    "headingShort": null,
+    "headingLong": "Allgemeines Gleichbehandlungsgesetz",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "2006, 1897"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 8 G v. 3.4.2013 I 610"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 18.8.2006 +++)<BR/><BR/></pre>Das G wurde als Artikel 1 des G v. 14.8.2006 I 1897 vom Bundestag beschlossen. Es ist gem. Art. 4 Satz 1 dieses G am 18.8.2006 in Kraft getreten.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR189710006BJNG000100000",
+        "type": "heading",
+        "name": "Abschnitt 1",
+        "title": "Allgemeiner Teil",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR189710006BJNE000100000",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Ziel des Gesetzes",
+        "body": {
+          "content": "<P>Ziel des Gesetzes ist, Benachteiligungen aus Gr\u00fcnden der Rasse oder wegen der ethnischen Herkunft, des Geschlechts, der Religion oder Weltanschauung, einer Behinderung, des Alters oder der sexuellen Identit\u00e4t zu verhindern oder zu beseitigen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE000200000",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Anwendungsbereich",
+        "body": {
+          "content": "<P>(1) Benachteiligungen aus einem in \u00a7 1 genannten Grund sind nach Ma\u00dfgabe dieses Gesetzes unzul\u00e4ssig in Bezug auf: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bedingungen, einschlie\u00dflich Auswahlkriterien und Einstellungsbedingungen, f\u00fcr den Zugang zu unselbstst\u00e4ndiger und selbstst\u00e4ndiger Erwerbst\u00e4tigkeit, unabh\u00e4ngig von T\u00e4tigkeitsfeld und beruflicher Position, sowie f\u00fcr den beruflichen Aufstieg,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Besch\u00e4ftigungs- und Arbeitsbedingungen einschlie\u00dflich Arbeitsentgelt und Entlassungsbedingungen, insbesondere in individual- und kollektivrechtlichen Vereinbarungen und Ma\u00dfnahmen bei der Durchf\u00fchrung und Beendigung eines Besch\u00e4ftigungsverh\u00e4ltnisses sowie beim beruflichen Aufstieg,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Zugang zu allen Formen und allen Ebenen der Berufsberatung, der Berufsbildung einschlie\u00dflich der Berufsausbildung, der beruflichen Weiterbildung und der Umschulung sowie der praktischen Berufserfahrung,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Mitgliedschaft und Mitwirkung in einer Besch\u00e4ftigten- oder Arbeitgebervereinigung oder einer Vereinigung, deren Mitglieder einer bestimmten Berufsgruppe angeh\u00f6ren, einschlie\u00dflich der Inanspruchnahme der Leistungen solcher Vereinigungen,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Sozialschutz, einschlie\u00dflich der sozialen Sicherheit und der Gesundheitsdienste,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die sozialen Verg\u00fcnstigungen,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bildung,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Zugang zu und die Versorgung mit G\u00fctern und Dienstleistungen, die der \u00d6ffentlichkeit zur Verf\u00fcgung stehen, einschlie\u00dflich von Wohnraum.</LA></DD> </DL> </P><P>(2) F\u00fcr Leistungen nach dem Sozialgesetzbuch gelten \u00a7 33c des Ersten Buches Sozialgesetzbuch und \u00a7 19a des Vierten Buches Sozialgesetzbuch. F\u00fcr die betriebliche Altersvorsorge gilt das Betriebsrentengesetz.</P><P>(3) Die Geltung sonstiger Benachteiligungsverbote oder Gebote der Gleichbehandlung wird durch dieses Gesetz nicht ber\u00fchrt. Dies gilt auch f\u00fcr \u00f6ffentlich-rechtliche Vorschriften, die dem Schutz bestimmter Personengruppen dienen.</P><P>(4) F\u00fcr K\u00fcndigungen gelten ausschlie\u00dflich die Bestimmungen zum allgemeinen und besonderen K\u00fcndigungsschutz.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE000300000",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Begriffsbestimmungen",
+        "body": {
+          "content": "<P>(1) Eine unmittelbare Benachteiligung liegt vor, wenn eine Person wegen eines in \u00a7 1 genannten Grundes eine weniger g\u00fcnstige Behandlung erf\u00e4hrt, als eine andere Person in einer vergleichbaren Situation erf\u00e4hrt, erfahren hat oder erfahren w\u00fcrde. Eine unmittelbare Benachteiligung wegen des Geschlechts liegt in Bezug auf \u00a7 2 Abs. 1 Nr. 1 bis 4 auch im Falle einer ung\u00fcnstigeren Behandlung einer Frau wegen Schwangerschaft oder Mutterschaft vor.</P><P>(2) Eine mittelbare Benachteiligung liegt vor, wenn dem Anschein nach neutrale Vorschriften, Kriterien oder Verfahren Personen wegen eines in \u00a7 1 genannten Grundes gegen\u00fcber anderen Personen in besonderer Weise benachteiligen k\u00f6nnen, es sei denn, die betreffenden Vorschriften, Kriterien oder Verfahren sind durch ein rechtm\u00e4\u00dfiges Ziel sachlich gerechtfertigt und die Mittel sind zur Erreichung dieses Ziels angemessen und erforderlich.</P><P>(3) Eine Bel\u00e4stigung ist eine Benachteiligung, wenn unerw\u00fcnschte Verhaltensweisen, die mit einem in \u00a7 1 genannten Grund in Zusammenhang stehen, bezwecken oder bewirken, dass die W\u00fcrde der betreffenden Person verletzt und ein von Einsch\u00fcchterungen, Anfeindungen, Erniedrigungen, Entw\u00fcrdigungen oder Beleidigungen gekennzeichnetes Umfeld geschaffen wird.</P><P>(4) Eine sexuelle Bel\u00e4stigung ist eine Benachteiligung in Bezug auf \u00a7 2 Abs. 1 Nr. 1 bis 4, wenn ein unerw\u00fcnschtes, sexuell bestimmtes Verhalten, wozu auch unerw\u00fcnschte sexuelle Handlungen und Aufforderungen zu diesen, sexuell bestimmte k\u00f6rperliche Ber\u00fchrungen, Bemerkungen sexuellen Inhalts sowie unerw\u00fcnschtes Zeigen und sichtbares Anbringen von pornographischen Darstellungen geh\u00f6ren, bezweckt oder bewirkt, dass die W\u00fcrde der betreffenden Person verletzt wird, insbesondere wenn ein von Einsch\u00fcchterungen, Anfeindungen, Erniedrigungen, Entw\u00fcrdigungen oder Beleidigungen gekennzeichnetes Umfeld geschaffen wird.</P><P>(5) Die Anweisung zur Benachteiligung einer Person aus einem in \u00a7 1 genannten Grund gilt als Benachteiligung. Eine solche Anweisung liegt in Bezug auf \u00a7 2 Abs. 1 Nr. 1 bis 4 insbesondere vor, wenn jemand eine Person zu einem Verhalten bestimmt, das einen Besch\u00e4ftigten oder eine Besch\u00e4ftigte wegen eines in \u00a7 1 genannten Grundes benachteiligt oder benachteiligen kann.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE000400000",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Unterschiedliche Behandlung wegen mehrerer Gr\u00fcnde",
+        "body": {
+          "content": "<P>Erfolgt eine unterschiedliche Behandlung wegen mehrerer der in \u00a7 1 genannten Gr\u00fcnde, so kann diese unterschiedliche Behandlung nach den \u00a7\u00a7 8 bis 10 und 20 nur gerechtfertigt werden, wenn sich die Rechtfertigung auf alle diese Gr\u00fcnde erstreckt, derentwegen die unterschiedliche Behandlung erfolgt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE000500000",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Positive Ma\u00dfnahmen",
+        "body": {
+          "content": "<P>Ungeachtet der in den \u00a7\u00a7 8 bis 10 sowie in \u00a7 20 benannten Gr\u00fcnde ist eine unterschiedliche Behandlung auch zul\u00e4ssig, wenn durch geeignete und angemessene Ma\u00dfnahmen bestehende Nachteile wegen eines in \u00a7 1 genannten Grundes verhindert oder ausgeglichen werden sollen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG000200000",
+        "type": "heading",
+        "name": "Abschnitt 2",
+        "title": "Schutz der Besch\u00e4ftigten vor Benachteiligung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR189710006BJNG000300000",
+        "type": "heading",
+        "name": "Unterabschnitt 1",
+        "title": "Verbot der Benachteiligung",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE000600000",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Pers\u00f6nlicher Anwendungsbereich",
+        "body": {
+          "content": "<P>(1) Besch\u00e4ftigte im Sinne dieses Gesetzes sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Arbeitnehmerinnen und Arbeitnehmer,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu ihrer Berufsbildung Besch\u00e4ftigten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, die wegen ihrer wirtschaftlichen Unselbstst\u00e4ndigkeit als arbeitnehmer\u00e4hnliche Personen anzusehen sind; zu diesen geh\u00f6ren auch die in Heimarbeit Besch\u00e4ftigten und die ihnen Gleichgestellten.</LA></DD> </DL>Als Besch\u00e4ftigte gelten auch die Bewerberinnen und Bewerber f\u00fcr ein Besch\u00e4ftigungsverh\u00e4ltnis sowie die Personen, deren Besch\u00e4ftigungsverh\u00e4ltnis beendet ist.</P><P>(2) Arbeitgeber (Arbeitgeber und Arbeitgeberinnen) im Sinne dieses Abschnitts sind nat\u00fcrliche und juristische Personen sowie rechtsf\u00e4hige Personengesellschaften, die Personen nach Absatz 1 besch\u00e4ftigen. Werden Besch\u00e4ftigte einem Dritten zur Arbeitsleistung \u00fcberlassen, so gilt auch dieser als Arbeitgeber im Sinne dieses Abschnitts. F\u00fcr die in Heimarbeit Besch\u00e4ftigten und die ihnen Gleichgestellten tritt an die Stelle des Arbeitgebers der Auftraggeber oder Zwischenmeister.</P><P>(3) Soweit es die Bedingungen f\u00fcr den Zugang zur Erwerbst\u00e4tigkeit sowie den beruflichen Aufstieg betrifft, gelten die Vorschriften dieses Abschnitts f\u00fcr Selbstst\u00e4ndige und Organmitglieder, insbesondere Gesch\u00e4ftsf\u00fchrer oder Gesch\u00e4ftsf\u00fchrerinnen und Vorst\u00e4nde, entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE000700000",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Benachteiligungsverbot",
+        "body": {
+          "content": "<P>(1) Besch\u00e4ftigte d\u00fcrfen nicht wegen eines in \u00a7 1 genannten Grundes benachteiligt werden; dies gilt auch, wenn die Person, die die Benachteiligung begeht, das Vorliegen eines in \u00a7 1 genannten Grundes bei der Benachteiligung nur annimmt.</P><P>(2) Bestimmungen in Vereinbarungen, die gegen das Benachteiligungsverbot des Absatzes 1 versto\u00dfen, sind unwirksam.</P><P>(3) Eine Benachteiligung nach Absatz 1 durch Arbeitgeber oder Besch\u00e4ftigte ist eine Verletzung vertraglicher Pflichten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE000800000",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Zul\u00e4ssige unterschiedliche Behandlung wegen beruflicher Anforderungen",
+        "body": {
+          "content": "<P>(1) Eine unterschiedliche Behandlung wegen eines in \u00a7 1 genannten Grundes ist zul\u00e4ssig, wenn dieser Grund wegen der Art der auszu\u00fcbenden T\u00e4tigkeit oder der Bedingungen ihrer Aus\u00fcbung eine wesentliche und entscheidende berufliche Anforderung darstellt, sofern der Zweck rechtm\u00e4\u00dfig und die Anforderung angemessen ist.</P><P>(2) Die Vereinbarung einer geringeren Verg\u00fctung f\u00fcr gleiche oder gleichwertige Arbeit wegen eines in \u00a7 1 genannten Grundes wird nicht dadurch gerechtfertigt, dass wegen eines in \u00a7 1 genannten Grundes besondere Schutzvorschriften gelten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE000900000",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Zul\u00e4ssige unterschiedliche Behandlung wegen der Religion oder\nWeltanschauung",
+        "body": {
+          "content": "<P>(1) Ungeachtet des \u00a7 8 ist eine unterschiedliche Behandlung wegen der Religion oder der Weltanschauung bei der Besch\u00e4ftigung durch Religionsgemeinschaften, die ihnen zugeordneten Einrichtungen ohne R\u00fccksicht auf ihre Rechtsform oder durch Vereinigungen, die sich die gemeinschaftliche Pflege einer Religion oder Weltanschauung zur Aufgabe machen, auch zul\u00e4ssig, wenn eine bestimmte Religion oder Weltanschauung unter Beachtung des Selbstverst\u00e4ndnisses der jeweiligen Religionsgemeinschaft oder Vereinigung im Hinblick auf ihr Selbstbestimmungsrecht oder nach der Art der T\u00e4tigkeit eine gerechtfertigte berufliche Anforderung darstellt.</P><P>(2) Das Verbot unterschiedlicher Behandlung wegen der Religion oder der Weltanschauung ber\u00fchrt nicht das Recht der in Absatz 1 genannten Religionsgemeinschaften, der ihnen zugeordneten Einrichtungen ohne R\u00fccksicht auf ihre Rechtsform oder der Vereinigungen, die sich die gemeinschaftliche Pflege einer Religion oder Weltanschauung zur Aufgabe machen, von ihren Besch\u00e4ftigten ein loyales und aufrichtiges Verhalten im Sinne ihres jeweiligen Selbstverst\u00e4ndnisses verlangen zu k\u00f6nnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001001377",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Zul\u00e4ssige unterschiedliche Behandlung wegen des Alters",
+        "body": {
+          "content": "<P>Ungeachtet des \u00a7 8 ist eine unterschiedliche Behandlung wegen des Alters auch zul\u00e4ssig, wenn sie objektiv und angemessen und durch ein legitimes Ziel gerechtfertigt ist. Die Mittel zur Erreichung dieses Ziels m\u00fcssen angemessen und erforderlich sein. Derartige unterschiedliche Behandlungen k\u00f6nnen insbesondere Folgendes einschlie\u00dfen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festlegung besonderer Bedingungen f\u00fcr den Zugang zur Besch\u00e4ftigung und zur beruflichen Bildung sowie besonderer Besch\u00e4ftigungs- und Arbeitsbedingungen, einschlie\u00dflich der Bedingungen f\u00fcr Entlohnung und Beendigung des Besch\u00e4ftigungsverh\u00e4ltnisses, um die berufliche Eingliederung von Jugendlichen, \u00e4lteren Besch\u00e4ftigten und Personen mit F\u00fcrsorgepflichten zu f\u00f6rdern oder ihren Schutz sicherzustellen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festlegung von Mindestanforderungen an das Alter, die Berufserfahrung oder das Dienstalter f\u00fcr den Zugang zur Besch\u00e4ftigung oder f\u00fcr bestimmte mit der Besch\u00e4ftigung verbundene Vorteile,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festsetzung eines H\u00f6chstalters f\u00fcr die Einstellung auf Grund der spezifischen Ausbildungsanforderungen eines bestimmten Arbeitsplatzes oder auf Grund der Notwendigkeit einer angemessenen Besch\u00e4ftigungszeit vor dem Eintritt in den Ruhestand,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festsetzung von Altersgrenzen bei den betrieblichen Systemen der sozialen Sicherheit als Voraussetzung f\u00fcr die Mitgliedschaft oder den Bezug von Altersrente oder von Leistungen bei Invalidit\u00e4t einschlie\u00dflich der Festsetzung unterschiedlicher Altersgrenzen im Rahmen dieser Systeme f\u00fcr bestimmte Besch\u00e4ftigte oder Gruppen von Besch\u00e4ftigten und die Verwendung von Alterskriterien im Rahmen dieser Systeme f\u00fcr versicherungsmathematische Berechnungen,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Vereinbarung, die die Beendigung des Besch\u00e4ftigungsverh\u00e4ltnisses ohne K\u00fcndigung zu einem Zeitpunkt vorsieht, zu dem der oder die Besch\u00e4ftigte eine Rente wegen Alters beantragen kann; \u00a7 41 des Sechsten Buches Sozialgesetzbuch bleibt unber\u00fchrt,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Differenzierungen von Leistungen in Sozialpl\u00e4nen im Sinne des Betriebsverfassungsgesetzes, wenn die Parteien eine nach Alter oder Betriebszugeh\u00f6rigkeit gestaffelte Abfindungsregelung geschaffen haben, in der die wesentlich vom Alter abh\u00e4ngenden Chancen auf dem Arbeitsmarkt durch eine verh\u00e4ltnism\u00e4\u00dfig starke Betonung des Lebensalters erkennbar ber\u00fccksichtigt worden sind, oder Besch\u00e4ftigte von den Leistungen des Sozialplans ausgeschlossen haben, die wirtschaftlich abgesichert sind, weil sie, gegebenenfalls nach Bezug von Arbeitslosengeld, rentenberechtigt sind.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG000400000",
+        "type": "heading",
+        "name": "Unterabschnitt 2",
+        "title": "Organisationspflichten des\nArbeitgebers",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001100000",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Ausschreibung",
+        "body": {
+          "content": "<P>Ein Arbeitsplatz darf nicht unter Versto\u00df gegen \u00a7 7 Abs. 1 ausgeschrieben werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001200000",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Ma\u00dfnahmen und Pflichten des Arbeitgebers",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber ist verpflichtet, die erforderlichen Ma\u00dfnahmen zum Schutz vor Benachteiligungen wegen eines in \u00a7 1 genannten Grundes zu treffen. Dieser Schutz umfasst auch vorbeugende Ma\u00dfnahmen.</P><P>(2) Der Arbeitgeber soll in geeigneter Art und Weise, insbesondere im Rahmen der beruflichen Aus- und Fortbildung, auf die Unzul\u00e4ssigkeit solcher Benachteiligungen hinweisen und darauf hinwirken, dass diese unterbleiben. Hat der Arbeitgeber seine Besch\u00e4ftigten in geeigneter Weise zum Zwecke der Verhinderung von Benachteiligung geschult, gilt dies als Erf\u00fcllung seiner Pflichten nach Absatz 1.</P><P>(3) Versto\u00dfen Besch\u00e4ftigte gegen das Benachteiligungsverbot des \u00a7 7 Abs. 1, so hat der Arbeitgeber die im Einzelfall geeigneten, erforderlichen und angemessenen Ma\u00dfnahmen zur Unterbindung der Benachteiligung wie Abmahnung, Umsetzung, Versetzung oder K\u00fcndigung zu ergreifen.</P><P>(4) Werden Besch\u00e4ftigte bei der Aus\u00fcbung ihrer T\u00e4tigkeit durch Dritte nach \u00a7 7 Abs. 1 benachteiligt, so hat der Arbeitgeber die im Einzelfall geeigneten, erforderlichen und angemessenen Ma\u00dfnahmen zum Schutz der Besch\u00e4ftigten zu ergreifen.</P><P>(5) Dieses Gesetz und \u00a7 61b des Arbeitsgerichtsgesetzes sowie Informationen \u00fcber die f\u00fcr die Behandlung von Beschwerden nach \u00a7 13 zust\u00e4ndigen Stellen sind im Betrieb oder in der Dienststelle bekannt zu machen. Die Bekanntmachung kann durch Aushang oder Auslegung an geeigneter Stelle oder den Einsatz der im Betrieb oder der Dienststelle \u00fcblichen Informations- und Kommunikationstechnik erfolgen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG000500000",
+        "type": "heading",
+        "name": "Unterabschnitt 3",
+        "title": "Rechte der Besch\u00e4ftigten",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001300000",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Beschwerderecht",
+        "body": {
+          "content": "<P>(1) Die Besch\u00e4ftigten haben das Recht, sich bei den zust\u00e4ndigen Stellen des Betriebs, des Unternehmens oder der Dienststelle zu beschweren, wenn sie sich im Zusammenhang mit ihrem Besch\u00e4ftigungsverh\u00e4ltnis vom Arbeitgeber, von Vorgesetzten, anderen Besch\u00e4ftigten oder Dritten wegen eines in \u00a7 1 genannten Grundes benachteiligt f\u00fchlen. Die Beschwerde ist zu pr\u00fcfen und das Ergebnis der oder dem beschwerdef\u00fchrenden Besch\u00e4ftigten mitzuteilen.</P><P>(2) Die Rechte der Arbeitnehmervertretungen bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001400000",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Leistungsverweigerungsrecht",
+        "body": {
+          "content": "<P>Ergreift der Arbeitgeber keine oder offensichtlich ungeeignete Ma\u00dfnahmen zur Unterbindung einer Bel\u00e4stigung oder sexuellen Bel\u00e4stigung am Arbeitsplatz, sind die betroffenen Besch\u00e4ftigten berechtigt, ihre T\u00e4tigkeit ohne Verlust des Arbeitsentgelts einzustellen, soweit dies zu ihrem Schutz erforderlich ist. \u00a7 273 des B\u00fcrgerlichen Gesetzbuchs bleibt unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001500000",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Entsch\u00e4digung und Schadensersatz",
+        "body": {
+          "content": "<P>(1) Bei einem Versto\u00df gegen das Benachteiligungsverbot ist der Arbeitgeber verpflichtet, den hierdurch entstandenen Schaden zu ersetzen. Dies gilt nicht, wenn der Arbeitgeber die Pflichtverletzung nicht zu vertreten hat.</P><P>(2) Wegen eines Schadens, der nicht Verm\u00f6gensschaden ist, kann der oder die Besch\u00e4ftigte eine angemessene Entsch\u00e4digung in Geld verlangen. Die Entsch\u00e4digung darf bei einer Nichteinstellung drei Monatsgeh\u00e4lter nicht \u00fcbersteigen, wenn der oder die Besch\u00e4ftigte auch bei benachteiligungsfreier Auswahl nicht eingestellt worden w\u00e4re.</P><P>(3) Der Arbeitgeber ist bei der Anwendung kollektivrechtlicher Vereinbarungen nur dann zur Entsch\u00e4digung verpflichtet, wenn er vors\u00e4tzlich oder grob fahrl\u00e4ssig handelt.</P><P>(4) Ein Anspruch nach Absatz 1 oder 2 muss innerhalb einer Frist von zwei Monaten schriftlich geltend gemacht werden, es sei denn, die Tarifvertragsparteien haben etwas anderes vereinbart. Die Frist beginnt im Falle einer Bewerbung oder eines beruflichen Aufstiegs mit dem Zugang der Ablehnung und in den sonstigen F\u00e4llen einer Benachteiligung zu dem Zeitpunkt, in dem der oder die Besch\u00e4ftigte von der Benachteiligung Kenntnis erlangt.</P><P>(5) Im \u00dcbrigen bleiben Anspr\u00fcche gegen den Arbeitgeber, die sich aus anderen Rechtsvorschriften ergeben, unber\u00fchrt.</P><P>(6) Ein Versto\u00df des Arbeitgebers gegen das Benachteiligungsverbot des \u00a7 7 Abs. 1 begr\u00fcndet keinen Anspruch auf Begr\u00fcndung eines Besch\u00e4ftigungsverh\u00e4ltnisses, Berufsausbildungsverh\u00e4ltnisses oder einen beruflichen Aufstieg, es sei denn, ein solcher ergibt sich aus einem anderen Rechtsgrund.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001600000",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Ma\u00dfregelungsverbot",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber darf Besch\u00e4ftigte nicht wegen der Inanspruchnahme von Rechten nach diesem Abschnitt oder wegen der Weigerung, eine gegen diesen Abschnitt versto\u00dfende Anweisung auszuf\u00fchren, benachteiligen. Gleiches gilt f\u00fcr Personen, die den Besch\u00e4ftigten hierbei unterst\u00fctzen oder als Zeuginnen oder Zeugen aussagen.</P><P>(2) Die Zur\u00fcckweisung oder Duldung benachteiligender Verhaltensweisen durch betroffene Besch\u00e4ftigte darf nicht als Grundlage f\u00fcr eine Entscheidung herangezogen werden, die diese Besch\u00e4ftigten ber\u00fchrt. Absatz 1 Satz 2 gilt entsprechend.</P><P>(3) \u00a7 22 gilt entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG000600000",
+        "type": "heading",
+        "name": "Unterabschnitt 4",
+        "title": "Erg\u00e4nzende Vorschriften",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001700000",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Soziale Verantwortung der Beteiligten",
+        "body": {
+          "content": "<P>(1) Tarifvertragsparteien, Arbeitgeber, Besch\u00e4ftigte und deren Vertretungen sind aufgefordert, im Rahmen ihrer Aufgaben und Handlungsm\u00f6glichkeiten an der Verwirklichung des in \u00a7 1 genannten Ziels mitzuwirken.</P><P>(2) In Betrieben, in denen die Voraussetzungen des \u00a7 1 Abs. 1 Satz 1 des Betriebsverfassungsgesetzes vorliegen, k\u00f6nnen bei einem groben Versto\u00df des Arbeitgebers gegen Vorschriften aus diesem Abschnitt der Betriebsrat oder eine im Betrieb vertretene Gewerkschaft unter der Voraussetzung des \u00a7 23 Abs. 3 Satz 1 des Betriebsverfassungsgesetzes die dort genannten Rechte gerichtlich geltend machen; \u00a7 23 Abs. 3 Satz 2 bis 5 des Betriebsverfassungsgesetzes gilt entsprechend. Mit dem Antrag d\u00fcrfen nicht Anspr\u00fcche des Benachteiligten geltend gemacht werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE001800000",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "Mitgliedschaft in Vereinigungen",
+        "body": {
+          "content": "<P>(1) Die Vorschriften dieses Abschnitts gelten entsprechend f\u00fcr die Mitgliedschaft oder die Mitwirkung in einer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tarifvertragspartei,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vereinigung, deren Mitglieder einer bestimmten Berufsgruppe angeh\u00f6ren oder die eine \u00fcberragende Machtstellung im wirtschaftlichen oder sozialen Bereich innehat, wenn ein grundlegendes Interesse am Erwerb der Mitgliedschaft besteht,</LA></DD> </DL>sowie deren jeweiligen Zusammenschl\u00fcssen.</P><P>(2) Wenn die Ablehnung einen Versto\u00df gegen das Benachteiligungsverbot des \u00a7 7 Abs. 1 darstellt, besteht ein Anspruch auf Mitgliedschaft oder Mitwirkung in den in Absatz 1 genannten Vereinigungen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG000700000",
+        "type": "heading",
+        "name": "Abschnitt 3",
+        "title": "Schutz vor Benachteiligung im Zivilrechtsverkehr",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR189710006BJNE001900000",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Zivilrechtliches Benachteiligungsverbot",
+        "body": {
+          "content": "<P>(1) Eine Benachteiligung aus Gr\u00fcnden der Rasse oder wegen der ethnischen Herkunft, wegen des Geschlechts, der Religion, einer Behinderung, des Alters oder der sexuellen Identit\u00e4t bei der Begr\u00fcndung, Durchf\u00fchrung und Beendigung zivilrechtlicher Schuldverh\u00e4ltnisse, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">typischerweise ohne Ansehen der Person zu vergleichbaren Bedingungen in einer Vielzahl von F\u00e4llen zustande kommen (Massengesch\u00e4fte) oder bei denen das Ansehen der Person nach der Art des Schuldverh\u00e4ltnisses eine nachrangige Bedeutung hat und die zu vergleichbaren Bedingungen in einer Vielzahl von F\u00e4llen zustande kommen oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine privatrechtliche Versicherung zum Gegenstand haben,</LA></DD> </DL>ist unzul\u00e4ssig.</P><P>(2) Eine Benachteiligung aus Gr\u00fcnden der Rasse oder wegen der ethnischen Herkunft ist dar\u00fcber hinaus auch bei der Begr\u00fcndung, Durchf\u00fchrung und Beendigung sonstiger zivilrechtlicher Schuldverh\u00e4ltnisse im Sinne des \u00a7 2 Abs. 1 Nr. 5 bis 8 unzul\u00e4ssig.</P><P>(3) Bei der Vermietung von Wohnraum ist eine unterschiedliche Behandlung im Hinblick auf die Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen und ausgewogener Siedlungsstrukturen sowie ausgeglichener wirtschaftlicher, sozialer und kultureller Verh\u00e4ltnisse zul\u00e4ssig.</P><P>(4) Die Vorschriften dieses Abschnitts finden keine Anwendung auf familien- und erbrechtliche Schuldverh\u00e4ltnisse.</P><P>(5) Die Vorschriften dieses Abschnitts finden keine Anwendung auf zivilrechtliche Schuldverh\u00e4ltnisse, bei denen ein besonderes N\u00e4he- oder Vertrauensverh\u00e4ltnis der Parteien oder ihrer Angeh\u00f6rigen begr\u00fcndet wird. Bei Mietverh\u00e4ltnissen kann dies insbesondere der Fall sein, wenn die Parteien oder ihre Angeh\u00f6rigen Wohnraum auf demselben Grundst\u00fcck nutzen. Die Vermietung von Wohnraum zum nicht nur vor\u00fcbergehenden Gebrauch ist in der Regel kein Gesch\u00e4ft im Sinne des Absatzes 1 Nr. 1, wenn der Vermieter insgesamt nicht mehr als 50 Wohnungen vermietet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000700000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE002002377",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Zul\u00e4ssige unterschiedliche Behandlung",
+        "body": {
+          "content": "<P>(1) Eine Verletzung des Benachteiligungsverbots ist nicht gegeben, wenn f\u00fcr eine unterschiedliche Behandlung wegen der Religion, einer Behinderung, des Alters, der sexuellen Identit\u00e4t oder des Geschlechts ein sachlicher Grund vorliegt. Das kann insbesondere der Fall sein, wenn die unterschiedliche Behandlung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vermeidung von Gefahren, der Verh\u00fctung von Sch\u00e4den oder anderen Zwecken vergleichbarer Art dient,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Bed\u00fcrfnis nach Schutz der Intimsph\u00e4re oder der pers\u00f6nlichen Sicherheit Rechnung tr\u00e4gt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">besondere Vorteile gew\u00e4hrt und ein Interesse an der Durchsetzung der Gleichbehandlung fehlt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">an die Religion eines Menschen ankn\u00fcpft und im Hinblick auf die Aus\u00fcbung der Religionsfreiheit oder auf das Selbstbestimmungsrecht der Religionsgemeinschaften, der ihnen zugeordneten Einrichtungen ohne R\u00fccksicht auf ihre Rechtsform sowie der Vereinigungen, die sich die gemeinschaftliche Pflege einer Religion zur Aufgabe machen, unter Beachtung des jeweiligen Selbstverst\u00e4ndnisses gerechtfertigt ist.</LA></DD></DL></P><P>(2) Kosten im Zusammenhang mit Schwangerschaft und Mutterschaft d\u00fcrfen auf keinen Fall zu unterschiedlichen Pr\u00e4mien oder Leistungen f\u00fchren. Eine unterschiedliche Behandlung wegen der Religion, einer Behinderung, des Alters oder der sexuellen Identit\u00e4t ist im Falle des \u00a7 19 Abs. 1 Nr. 2 nur zul\u00e4ssig, wenn diese auf anerkannten Prinzipien risikoad\u00e4quater Kalkulation beruht, insbesondere auf einer versicherungsmathematisch ermittelten Risikobewertung unter Heranziehung statistischer Erhebungen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000700000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE002100000",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Anspr\u00fcche",
+        "body": {
+          "content": "<P>(1) Der Benachteiligte kann bei einem Versto\u00df gegen das Benachteiligungsverbot unbeschadet weiterer Anspr\u00fcche die Beseitigung der Beeintr\u00e4chtigung verlangen. Sind weitere Beeintr\u00e4chtigungen zu besorgen, so kann er auf Unterlassung klagen.</P><P>(2) Bei einer Verletzung des Benachteiligungsverbots ist der Benachteiligende verpflichtet, den hierdurch entstandenen Schaden zu ersetzen. Dies gilt nicht, wenn der Benachteiligende die Pflichtverletzung nicht zu vertreten hat. Wegen eines Schadens, der nicht Verm\u00f6gensschaden ist, kann der Benachteiligte eine angemessene Entsch\u00e4digung in Geld verlangen.</P><P>(3) Anspr\u00fcche aus unerlaubter Handlung bleiben unber\u00fchrt.</P><P>(4) Auf eine Vereinbarung, die von dem Benachteiligungsverbot abweicht, kann sich der Benachteiligende nicht berufen.</P><P>(5) Ein Anspruch nach den Abs\u00e4tzen 1 und 2 muss innerhalb einer Frist von zwei Monaten geltend gemacht werden. Nach Ablauf der Frist kann der Anspruch nur geltend gemacht werden, wenn der Benachteiligte ohne Verschulden an der Einhaltung der Frist verhindert war.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000700000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG000800000",
+        "type": "heading",
+        "name": "Abschnitt 4",
+        "title": "Rechtsschutz",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR189710006BJNE002200000",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "Beweislast",
+        "body": {
+          "content": "<P>Wenn im Streitfall die eine Partei Indizien beweist, die eine Benachteiligung wegen eines in \u00a7 1 genannten Grundes vermuten lassen, tr\u00e4gt die andere Partei die Beweislast daf\u00fcr, dass kein Versto\u00df gegen die Bestimmungen zum Schutz vor Benachteiligung vorgelegen hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000800000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE002301377",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "Unterst\u00fctzung durch Antidiskriminierungsverb\u00e4nde",
+        "body": {
+          "content": "<P>(1) Antidiskriminierungsverb\u00e4nde sind Personenzusammenschl\u00fcsse, die nicht gewerbsm\u00e4\u00dfig und nicht nur vor\u00fcbergehend entsprechend ihrer Satzung die besonderen Interessen von benachteiligten Personen oder Personengruppen nach Ma\u00dfgabe von \u00a7 1 wahrnehmen. Die Befugnisse nach den Abs\u00e4tzen 2 bis 4 stehen ihnen zu, wenn sie mindestens 75 Mitglieder haben oder einen Zusammenschluss aus mindestens sieben Verb\u00e4nden bilden.</P><P>(2) Antidiskriminierungsverb\u00e4nde sind befugt, im Rahmen ihres Satzungszwecks in gerichtlichen Verfahren als Beist\u00e4nde Benachteiligter in der Verhandlung aufzutreten. Im \u00dcbrigen bleiben die Vorschriften der Verfahrensordnungen, insbesondere diejenigen, nach denen Beist\u00e4nden weiterer Vortrag untersagt werden kann, unber\u00fchrt.</P><P>(3) Antidiskriminierungsverb\u00e4nden ist im Rahmen ihres Satzungszwecks die Besorgung von Rechtsangelegenheiten Benachteiligter gestattet.</P><P>(4) Besondere Klagerechte und Vertretungsbefugnisse von Verb\u00e4nden zu Gunsten von behinderten Menschen bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000800000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG000900000",
+        "type": "heading",
+        "name": "Abschnitt 5",
+        "title": "Sonderregelungen f\u00fcr \u00f6ffentlich-rechtliche\nDienstverh\u00e4ltnisse",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR189710006BJNE002400000",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": "Sonderregelung f\u00fcr \u00f6ffentlich-rechtliche Dienstverh\u00e4ltnisse",
+        "body": {
+          "content": "<P>Die Vorschriften dieses Gesetzes gelten unter Ber\u00fccksichtigung ihrer besonderen Rechtsstellung entsprechend f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beamtinnen und Beamte des Bundes, der L\u00e4nder, der Gemeinden, der Gemeindeverb\u00e4nde sowie der sonstigen der Aufsicht des Bundes oder eines Landes unterstehenden K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Richterinnen und Richter des Bundes und der L\u00e4nder,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zivildienstleistende sowie anerkannte Kriegsdienstverweigerer, soweit ihre Heranziehung zum Zivildienst betroffen ist.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG001000000",
+        "type": "heading",
+        "name": "Abschnitt 6",
+        "title": "Antidiskriminierungsstelle",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR189710006BJNE002500000",
+        "type": "article",
+        "name": "\u00a7 25",
+        "title": "Antidiskriminierungsstelle des Bundes",
+        "body": {
+          "content": "<P>(1) Beim Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend wird unbeschadet der Zust\u00e4ndigkeit der Beauftragten des Deutschen Bundestages oder der Bundesregierung die Stelle des Bundes zum Schutz vor Benachteiligungen wegen eines in \u00a7 1 genannten Grundes (Antidiskriminierungsstelle des Bundes) errichtet.</P><P>(2) Der Antidiskriminierungsstelle des Bundes ist die f\u00fcr die Erf\u00fcllung ihrer Aufgaben notwendige Personal- und Sachausstattung zur Verf\u00fcgung zu stellen. Sie ist im Einzelplan des Bundesministeriums f\u00fcr Familie, Senioren, Frauen und Jugend in einem eigenen Kapitel auszuweisen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001000000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE002601140",
+        "type": "article",
+        "name": "\u00a7 26",
+        "title": "Rechtsstellung der Leitung der Antidiskriminierungsstelle des Bundes",
+        "body": {
+          "content": "<P>(1) Die Bundesministerin oder der Bundesminister f\u00fcr Familie, Senioren, Frauen und Jugend ernennt auf Vorschlag der Bundesregierung eine Person zur Leitung der Antidiskriminierungsstelle des Bundes. Sie steht nach Ma\u00dfgabe dieses Gesetzes in einem \u00f6ffentlich-rechtlichen Amtsverh\u00e4ltnis zum Bund. Sie ist in Aus\u00fcbung ihres Amtes unabh\u00e4ngig und nur dem Gesetz unterworfen.</P><P>(2) Das Amtsverh\u00e4ltnis beginnt mit der Aush\u00e4ndigung der Urkunde \u00fcber die Ernennung durch die Bundesministerin oder den Bundesminister f\u00fcr Familie, Senioren, Frauen und Jugend.</P><P>(3) Das Amtsverh\u00e4ltnis endet au\u00dfer durch Tod <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit dem Zusammentreten eines neuen Bundestages,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Ablauf der Amtszeit mit Erreichen der Altersgrenze nach \u00a7 51 Abs. 1 und 2 des Bundesbeamtengesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit der Entlassung.</LA></DD></DL>Die Bundesministerin oder der Bundesminister f\u00fcr Familie, Senioren, Frauen und Jugend entl\u00e4sst die Leiterin oder den Leiter der Antidiskriminierungsstelle des Bundes auf deren Verlangen oder wenn Gr\u00fcnde vorliegen, die bei einer Richterin oder einem Richter auf Lebenszeit die Entlassung aus dem Dienst rechtfertigen. Im Falle der Beendigung des Amtsverh\u00e4ltnisses erh\u00e4lt die Leiterin oder der Leiter der Antidiskriminierungsstelle des Bundes eine von der Bundesministerin oder dem Bundesminister f\u00fcr Familie, Senioren, Frauen und Jugend vollzogene Urkunde. Die Entlassung wird mit der Aush\u00e4ndigung der Urkunde wirksam.</P><P>(4) Das Rechtsverh\u00e4ltnis der Leitung der Antidiskriminierungsstelle des Bundes gegen\u00fcber dem Bund wird durch Vertrag mit dem Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend geregelt. Der Vertrag bedarf der Zustimmung der Bundesregierung.</P><P>(5) Wird eine Bundesbeamtin oder ein Bundesbeamter zur Leitung der Antidiskriminierungsstelle des Bundes bestellt, scheidet er oder sie mit Beginn des Amtsverh\u00e4ltnisses aus dem bisherigen Amt aus. F\u00fcr die Dauer des Amtsverh\u00e4ltnisses ruhen die aus dem Beamtenverh\u00e4ltnis begr\u00fcndeten Rechte und Pflichten mit Ausnahme der Pflicht zur Amtsverschwiegenheit und des Verbots der Annahme von Belohnungen oder Geschenken. Bei unfallverletzten Beamtinnen oder Beamten bleiben die gesetzlichen Anspr\u00fcche auf das Heilverfahren und einen Unfallausgleich unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001000000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE002700000",
+        "type": "article",
+        "name": "\u00a7 27",
+        "title": "Aufgaben",
+        "body": {
+          "content": "<P>(1) Wer der Ansicht ist, wegen eines in \u00a7 1 genannten Grundes benachteiligt worden zu sein, kann sich an die Antidiskriminierungsstelle des Bundes wenden.</P><P>(2) Die Antidiskriminierungsstelle des Bundes unterst\u00fctzt auf unabh\u00e4ngige Weise Personen, die sich nach Absatz 1 an sie wenden, bei der Durchsetzung ihrer Rechte zum Schutz vor Benachteiligungen. Hierbei kann sie insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber Anspr\u00fcche und die M\u00f6glichkeiten des rechtlichen Vorgehens im Rahmen gesetzlicher Regelungen zum Schutz vor Benachteiligungen informieren,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beratung durch andere Stellen vermitteln,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine g\u00fctliche Beilegung zwischen den Beteiligten anstreben.</LA></DD> </DL>Soweit Beauftragte des Deutschen Bundestages oder der Bundesregierung zust\u00e4ndig sind, leitet die Antidiskriminierungsstelle des Bundes die Anliegen der in Absatz 1 genannten Personen mit deren Einverst\u00e4ndnis unverz\u00fcglich an diese weiter.</P><P>(3) Die Antidiskriminierungsstelle des Bundes nimmt auf unabh\u00e4ngige Weise folgende Aufgaben wahr, soweit nicht die Zust\u00e4ndigkeit der Beauftragten der Bundesregierung oder des Deutschen Bundestages ber\u00fchrt ist: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00d6ffentlichkeitsarbeit,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ma\u00dfnahmen zur Verhinderung von Benachteiligungen aus den in \u00a7 1 genannten Gr\u00fcnden,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Durchf\u00fchrung wissenschaftlicher Untersuchungen zu diesen Benachteiligungen.</LA></DD> </DL> </P><P>(4) Die Antidiskriminierungsstelle des Bundes und die in ihrem Zust\u00e4ndigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages legen gemeinsam dem Deutschen Bundestag alle vier Jahre Berichte \u00fcber Benachteiligungen aus den in \u00a7 1 genannten Gr\u00fcnden vor und geben Empfehlungen zur Beseitigung und Vermeidung dieser Benachteiligungen. Sie k\u00f6nnen gemeinsam wissenschaftliche Untersuchungen zu Benachteiligungen durchf\u00fchren.</P><P>(5) Die Antidiskriminierungsstelle des Bundes und die in ihrem Zust\u00e4ndigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages sollen bei Benachteiligungen aus mehreren der in \u00a7 1 genannten Gr\u00fcnde zusammenarbeiten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001000000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE002800000",
+        "type": "article",
+        "name": "\u00a7 28",
+        "title": "Befugnisse",
+        "body": {
+          "content": "<P>(1) Die Antidiskriminierungsstelle des Bundes kann in F\u00e4llen des \u00a7 27 Abs. 2 Satz 2 Nr. 3 Beteiligte um Stellungnahmen ersuchen, soweit die Person, die sich nach \u00a7 27 Abs. 1 an sie gewandt hat, hierzu ihr Einverst\u00e4ndnis erkl\u00e4rt.</P><P>(2) Alle Bundesbeh\u00f6rden und sonstigen \u00f6ffentlichen Stellen im Bereich des Bundes sind verpflichtet, die Antidiskriminierungsstelle des Bundes bei der Erf\u00fcllung ihrer Aufgaben zu unterst\u00fctzen, insbesondere die erforderlichen Ausk\u00fcnfte zu erteilen. Die Bestimmungen zum Schutz personenbezogener Daten bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001000000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE002900000",
+        "type": "article",
+        "name": "\u00a7 29",
+        "title": "Zusammenarbeit mit Nichtregierungsorganisationen und anderen\nEinrichtungen",
+        "body": {
+          "content": "<P>Die Antidiskriminierungsstelle des Bundes soll bei ihrer T\u00e4tigkeit Nichtregierungsorganisationen sowie Einrichtungen, die auf europ\u00e4ischer, Bundes-, Landes- oder regionaler Ebene zum Schutz vor Benachteiligungen wegen eines in \u00a7 1 genannten Grundes t\u00e4tig sind, in geeigneter Form einbeziehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001000000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE003000000",
+        "type": "article",
+        "name": "\u00a7 30",
+        "title": "Beirat",
+        "body": {
+          "content": "<P>(1) Zur F\u00f6rderung des Dialogs mit gesellschaftlichen Gruppen und Organisationen, die sich den Schutz vor Benachteiligungen wegen eines in \u00a7 1 genannten Grundes zum Ziel gesetzt haben, wird der Antidiskriminierungsstelle des Bundes ein Beirat beigeordnet. Der Beirat ber\u00e4t die Antidiskriminierungsstelle des Bundes bei der Vorlage von Berichten und Empfehlungen an den Deutschen Bundestag nach \u00a7 27 Abs. 4 und kann hierzu sowie zu wissenschaftlichen Untersuchungen nach \u00a7 27 Abs. 3 Nr. 3 eigene Vorschl\u00e4ge unterbreiten.</P><P>(2) Das Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend beruft im Einvernehmen mit der Leitung der Antidiskriminierungsstelle des Bundes sowie den entsprechend zust\u00e4ndigen Beauftragten der Bundesregierung oder des Deutschen Bundestages die Mitglieder dieses Beirats und f\u00fcr jedes Mitglied eine Stellvertretung. In den Beirat sollen Vertreterinnen und Vertreter gesellschaftlicher Gruppen und Organisationen sowie Expertinnen und Experten in Benachteiligungsfragen berufen werden. Die Gesamtzahl der Mitglieder des Beirats soll 16 Personen nicht \u00fcberschreiten. Der Beirat soll zu gleichen Teilen mit Frauen und M\u00e4nnern besetzt sein.</P><P>(3) Der Beirat gibt sich eine Gesch\u00e4ftsordnung, die der Zustimmung des Bundesministeriums f\u00fcr Familie, Senioren, Frauen und Jugend bedarf.</P><P>(4) Die Mitglieder des Beirats \u00fcben die T\u00e4tigkeit nach diesem Gesetz ehrenamtlich aus. Sie haben Anspruch auf Aufwandsentsch\u00e4digung sowie Reisekostenverg\u00fctung, Tagegelder und \u00dcbernachtungsgelder. N\u00e4heres regelt die Gesch\u00e4ftsordnung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001000000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNG001100000",
+        "type": "heading",
+        "name": "Abschnitt 7",
+        "title": "Schlussvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR189710006BJNE003100000",
+        "type": "article",
+        "name": "\u00a7 31",
+        "title": "Unabdingbarkeit",
+        "body": {
+          "content": "<P>Von den Vorschriften dieses Gesetzes kann nicht zu Ungunsten der gesch\u00fctzten Personen abgewichen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001100000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE003200000",
+        "type": "article",
+        "name": "\u00a7 32",
+        "title": "Schlussbestimmung",
+        "body": {
+          "content": "<P>Soweit in diesem Gesetz nicht Abweichendes bestimmt ist, gelten die allgemeinen Bestimmungen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001100000"
+        }
+      },
+      {
+        "id": "BJNR189710006BJNE003301377",
+        "type": "article",
+        "name": "\u00a7 33",
+        "title": "\u00dcbergangsbestimmungen",
+        "body": {
+          "content": "<P>(1) Bei Benachteiligungen nach den \u00a7\u00a7 611a, 611b und 612 Abs. 3 des B\u00fcrgerlichen Gesetzbuchs oder sexuellen Bel\u00e4stigungen nach dem Besch\u00e4ftigtenschutzgesetz ist das vor dem 18. August 2006 ma\u00dfgebliche Recht anzuwenden.</P><P>(2) Bei Benachteiligungen aus Gr\u00fcnden der Rasse oder wegen der ethnischen Herkunft sind die \u00a7\u00a7 19 bis 21 nicht auf Schuldverh\u00e4ltnisse anzuwenden, die vor dem 18. August 2006 begr\u00fcndet worden sind. Satz 1 gilt nicht f\u00fcr sp\u00e4tere \u00c4nderungen von Dauerschuldverh\u00e4ltnissen.</P><P>(3) Bei Benachteiligungen wegen des Geschlechts, der Religion, einer Behinderung, des Alters oder der sexuellen Identit\u00e4t sind die \u00a7\u00a7 19 bis 21 nicht auf Schuldverh\u00e4ltnisse anzuwenden, die vor dem 1. Dezember 2006 begr\u00fcndet worden sind. Satz 1 gilt nicht f\u00fcr sp\u00e4tere \u00c4nderungen von Dauerschuldverh\u00e4ltnissen.</P><P>(4) Auf Schuldverh\u00e4ltnisse, die eine privatrechtliche Versicherung zum Gegenstand haben, ist \u00a7 19 Abs. 1 nicht anzuwenden, wenn diese vor dem 22. Dezember 2007 begr\u00fcndet worden sind. Satz 1 gilt nicht f\u00fcr sp\u00e4tere \u00c4nderungen solcher Schuldverh\u00e4ltnisse.</P><P>(5) Bei Versicherungsverh\u00e4ltnissen, die vor dem 21. Dezember 2012 begr\u00fcndet werden, ist eine unterschiedliche Behandlung wegen des Geschlechts im Falle des \u00a7 19 Absatz 1 Nummer 2 bei den Pr\u00e4mien oder Leistungen nur zul\u00e4ssig, wenn dessen Ber\u00fccksichtigung bei einer auf relevanten und genauen versicherungsmathematischen und statistischen Daten beruhenden Risikobewertung ein bestimmender Faktor ist. Kosten im Zusammenhang mit Schwangerschaft und Mutterschaft d\u00fcrfen auf keinen Fall zu unterschiedlichen Pr\u00e4mien oder Leistungen f\u00fchren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR189710006BJNG001100000"
+        }
+      }
+    ]
+  }
+}

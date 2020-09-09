@@ -1,0 +1,1205 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR005970933",
+    "abbreviation": "ScheckG",
+    "extraAbbreviations": [],
+    "firstPublished": "1933-08-14",
+    "sourceTimestamp": "20180125214003",
+    "headingShort": null,
+    "headingLong": "Scheckgesetz",
+    "publicationInfo": [
+      {
+        "periodical": "RGBl I",
+        "reference": "1933, 597"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 200 V v. 31.8.2015 I 1474"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab:1.1.1964 +++)<BR/><BR/></pre>Wegen des Inkrafttretens vgl. V v. 28.11.1933 4132-2-1</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR005970933BJNE001300306",
+        "type": "article",
+        "name": "Eingangsformel",
+        "title": null,
+        "body": {
+          "content": "<P>Die Reichsregierung hat zur Durchf\u00fchrung der Abkommen zur Vereinheitlichung des Scheckrechts (Reichsgesetzbl. 1933 II S. 537) das folgende Gesetz beschlossen, das hiermit verk\u00fcndet wird:</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNG000100306",
+        "type": "heading",
+        "name": "Erster Abschnitt",
+        "title": "Ausstellung und Form des Schecks",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE001400306",
+        "type": "article",
+        "name": "Art 1",
+        "title": null,
+        "body": {
+          "content": "<P>Der Scheck enth\u00e4lt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung als Scheck im Texte der Urkunde, und zwar in der Sprache, in der sie ausgestellt ist;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unbedingte Anweisung, eine bestimmte Geldsumme zu zahlen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Namen dessen, der zahlen soll (Bezogener);</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe des Zahlungsorts;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe des Tages und des Ortes der Ausstellung;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterschrift des Ausstellers.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE001500306",
+        "type": "article",
+        "name": "Art 2",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Eine Urkunde, in der einer der im vorstehenden Artikel bezeichneten Bestandteile fehlt, gilt nicht als Scheck, vorbehaltlich der in den folgenden Abs\u00e4tzen bezeichneten F\u00e4lle.</P><P>(2) Mangels einer besonderen Angabe gilt der bei dem Namen des Bezogenen angegebene Ort als Zahlungsort. Sind mehrere Orte bei dem Namen des Bezogenen angegeben, so ist der Scheck an dem an erster Stelle angegebenen Ort zahlbar.</P><P>(3) Fehlt eine solche und jede andere Angabe, so ist der Scheck an dem Orte zahlbar, an dem der Bezogene seine Hauptniederlassung hat.</P><P>(4) Ein Scheck ohne Angabe des Ausstellungsorts gilt als ausgestellt an dem Orte, der bei dem Namen des Ausstellers angegeben ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE001600306",
+        "type": "article",
+        "name": "Art 3",
+        "title": null,
+        "body": {
+          "content": "<P>Der Scheck darf nur auf einen Bankier gezogen werden, bei dem der Aussteller ein Guthaben hat, und gem\u00e4\u00df einer ausdr\u00fccklichen oder stillschweigenden Vereinbarung, wonach der Aussteller das Recht hat, \u00fcber dieses Guthaben mittels Schecks zu verf\u00fcgen. Die G\u00fcltigkeit der Urkunde als Scheck wird jedoch durch die Nichtbeachtung dieser Vorschriften nicht ber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE001700306",
+        "type": "article",
+        "name": "Art 4",
+        "title": null,
+        "body": {
+          "content": "<P>Der Scheck kann nicht angenommen werden. Ein auf den Scheck gesetzter Annahmevermerk gilt als nicht geschrieben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE001800306",
+        "type": "article",
+        "name": "Art 5",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Scheck kann zahlbar gestellt werden: <DL Font=\"normal\" Type=\"arabic\"><DT/><DD Font=\"normal\"><LA Size=\"normal\">an eine bestimmte Person, mit oder ohne den ausdr\u00fccklichen Vermerk \"an Order\";</LA><LA Size=\"normal\">an eine bestimmte Person, mit dem Vermerk \"nicht an Order\" oder mit einem gleichbedeutenden Vermerk;</LA><LA Size=\"normal\">an den Inhaber.</LA></DD>   </DL> </P><P>(2) Ist im Scheck eine bestimmte Person mit dem Zusatz \"oder \u00dcberbringer\" oder mit einem gleichbedeutenden Vermerk als Zahlungsempf\u00e4nger bezeichnet, so gilt der Scheck als auf den Inhaber gestellt.</P><P>(3) Ein Scheck ohne Angabe des Nehmers gilt als zahlbar an den Inhaber.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE001900306",
+        "type": "article",
+        "name": "Art 6",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Scheck kann an die eigene Order des Ausstellers lauten.</P><P>(2) Der Scheck kann f\u00fcr Rechnung eines Dritten gezogen werden.</P><P>(3) Der Scheck kann nicht auf den Aussteller selbst gezogen werden, es sei denn, da\u00df es sich um einen Scheck handelt, der von einer Niederlassung auf eine andere Niederlassung des Ausstellers gezogen wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002000306",
+        "type": "article",
+        "name": "Art 7",
+        "title": null,
+        "body": {
+          "content": "<P>Ein in den Scheck aufgenommener Zinsvermerk gilt als nicht geschrieben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002100306",
+        "type": "article",
+        "name": "Art 8",
+        "title": null,
+        "body": {
+          "content": "<P>Der Scheck kann bei einem Dritten, am Wohnort des Bezogenen oder an einem anderen Orte, zahlbar gestellt werden, sofern der Dritte Bankier ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002200306",
+        "type": "article",
+        "name": "Art 9",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ist die Schecksumme in Buchstaben und in Ziffern angegeben, so gilt bei Abweichungen die in Buchstaben angegebene Summe.</P><P>(2) Ist die Schecksumme mehrmals in Buchstaben oder mehrmals in Ziffern angegeben, so gilt bei Abweichungen die geringste Summe.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002300306",
+        "type": "article",
+        "name": "Art 10",
+        "title": null,
+        "body": {
+          "content": "<P>Tr\u00e4gt ein Scheck Unterschriften von Personen, die eine Scheckverbindlichkeit nicht eingehen k\u00f6nnen, gef\u00e4lschte Unterschriften, Unterschriften erdichteter Personen oder Unterschriften, die aus irgendeinem anderen Grunde f\u00fcr die Personen, die unterschrieben haben oder mit deren Namen unterschrieben worden ist, keine Verbindlichkeit begr\u00fcnden, so hat dies auf die G\u00fcltigkeit der \u00fcbrigen Unterschriften keinen Einflu\u00df.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002400306",
+        "type": "article",
+        "name": "Art 11",
+        "title": null,
+        "body": {
+          "content": "<P>Wer auf einen Scheck seine Unterschrift als Vertreter eines anderen setzt, ohne hierzu erm\u00e4chtigt zu sein, haftet selbst scheckm\u00e4\u00dfig und hat, wenn er den Scheck einl\u00f6st, dieselben Rechte, die der angeblich Vertretene haben w\u00fcrde. Das gleiche gilt von einem Vertreter, der seine Vertretungsbefugnis \u00fcberschritten hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002500306",
+        "type": "article",
+        "name": "Art 12",
+        "title": null,
+        "body": {
+          "content": "<P>Der Aussteller haftet f\u00fcr die Zahlung des Schecks. Jeder Vermerk, durch den er diese Haftung ausschlie\u00dft, gilt als nicht geschrieben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002600306",
+        "type": "article",
+        "name": "Art 13",
+        "title": null,
+        "body": {
+          "content": "<P>Wenn ein Scheck, der bei der Begebung unvollst\u00e4ndig war, den getroffenen Vereinbarungen zuwider ausgef\u00fcllt worden ist, so kann die Nichteinhaltung dieser Vereinbarungen dem Inhaber nicht entgegengesetzt werden, es sei denn, da\u00df er den Scheck in b\u00f6sem Glauben erworben hat oder ihm beim Erwerb eine grobe Fahrl\u00e4ssigkeit zur Last f\u00e4llt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG000200306",
+        "type": "heading",
+        "name": "Zweiter Abschnitt",
+        "title": "\u00dcbertragung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE002700306",
+        "type": "article",
+        "name": "Art 14",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der auf eine bestimmte Person zahlbar gestellte Scheck mit oder ohne den ausdr\u00fccklichen Vermerk \"an Order\" kann durch Indossament \u00fcbertragen werden.</P><P>(2) Der auf eine bestimmte Person zahlbar gestellte Scheck mit dem Vermerk \"nicht an Order\" oder mit einem gleichbedeutenden Vermerk kann nur in der Form und mit den Wirkungen einer gew\u00f6hnlichen Abtretung \u00fcbertragen werden.</P><P>(3) Das Indossament kann auch auf den Aussteller oder jeden anderen Scheckverpflichteten lauten. Diese Personen k\u00f6nnen den Scheck weiter indossieren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002800306",
+        "type": "article",
+        "name": "Art 15",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Indossament mu\u00df unbedingt sein. Bedingungen, von denen es abh\u00e4ngig gemacht wird, gelten als nicht geschrieben.</P><P>(2) Ein Teilindossament ist nichtig.</P><P>(3) Ebenso ist ein Indossament des Bezogenen nichtig.</P><P>(4) Ein Indossament an den Inhaber gilt als Blankoindossament.</P><P>(5) Das Indossament an den Bezogenen gilt nur als Quittung, es sei denn, da\u00df der Bezogene mehrere Niederlassungen hat und das Indossament auf eine andere Niederlassung lautet als diejenige, auf die der Scheck gezogen worden ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE002900306",
+        "type": "article",
+        "name": "Art 16",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Indossament mu\u00df auf den Scheck oder ein mit dem Scheck verbundenes Blatt (Anhang) gesetzt werden. Es mu\u00df von dem Indossanten unterschrieben werden.</P><P>(2) Das Indossament braucht den Indossatar nicht zu bezeichnen und kann selbst in der blo\u00dfen Unterschrift des Indossanten bestehen (Blankoindossament). In diesem letzteren Falle mu\u00df das Indossament, um g\u00fcltig zu sein, auf die R\u00fcckseite des Schecks oder auf den Anhang gesetzt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003000306",
+        "type": "article",
+        "name": "Art 17",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Indossament \u00fcbertr\u00e4gt alle Rechte aus dem Scheck.</P><P>(2) Ist es ein Blankoindossament, so kann der Inhaber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Indossament mit seinem Namen oder mit dem Namen eines anderen ausf\u00fcllen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Scheck durch ein Blankoindossament oder an eine bestimmte Person weiter indossieren;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Scheck weitergegeben, ohne das Blankoindossament auszuf\u00fcllen und ohne ihn zu indossieren.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003100306",
+        "type": "article",
+        "name": "Art 18",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Indossant haftet mangels eines entgegenstehenden Vermerks f\u00fcr die Zahlung.</P><P>(2) Er kann untersagen, da\u00df der Scheck weiter indossiert wird; in diesem Falle haftet er denen nicht, an die der Scheck weiter indossiert wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003200306",
+        "type": "article",
+        "name": "Art 19",
+        "title": null,
+        "body": {
+          "content": "<P>Wer einen durch Indossament \u00fcbertragbaren Scheck in H\u00e4nden hat, gilt als rechtm\u00e4\u00dfiger Inhaber, sofern er sein Recht durch eine ununterbrochene Reihe von Indossamenten nachweist, und zwar auch dann, wenn das letzte ein Blankoindossament ist. Ausgestrichene Indossamente gelten hierbei als nicht geschrieben. Folgt auf ein Blankoindossament ein weiteres Indossament, so wird angenommen, da\u00df der Aussteller dieses Indossaments den Scheck durch das Blankoindossament erworben hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003300306",
+        "type": "article",
+        "name": "Art 20",
+        "title": null,
+        "body": {
+          "content": "<P>Ein Indossament auf einem Inhaberscheck macht den Indossanten nach den Vorschriften \u00fcber den R\u00fcckgriff haftbar, ohne aber die Urkunde in einen Orderscheck umzuwandeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003400306",
+        "type": "article",
+        "name": "Art 21",
+        "title": null,
+        "body": {
+          "content": "<P>Ist der Scheck einem fr\u00fcheren Inhaber irgendwie abhanden gekommen, so ist der Inhaber, in dessen H\u00e4nde der Scheck gelangt ist - sei es, da\u00df es sich um einen Inhaberscheck handelt, sei es, da\u00df es sich um einen durch Indossament \u00fcbertragbaren Scheck handelt und der Inhaber sein Recht gem\u00e4\u00df Artikel 19 nachweist -, zur Herausgabe des Schecks nur verpflichtet, wenn er ihn in b\u00f6sem Glauben erworben hat oder ihm beim Erwerb eine grobe Fahrl\u00e4ssigkeit zur Last f\u00e4llt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003500306",
+        "type": "article",
+        "name": "Art 22",
+        "title": null,
+        "body": {
+          "content": "<P>Wer aus dem Scheck in Anspruch genommen wird, kann dem Inhaber keine Einwendungen entgegensetzen, die sich auf seine unmittelbaren Beziehungen zu dem Aussteller oder zu einem fr\u00fcheren Inhaber gr\u00fcnden, es sei denn, da\u00df der Inhaber beim Erwerb des Schecks bewu\u00dft zum Nachteil des Schuldners gehandelt hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003600306",
+        "type": "article",
+        "name": "Art 23",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Enth\u00e4lt das Indossament den Vermerk \"Wert zur Einziehung\", \"zum Inkasso\", \"in Prokura\" oder einen anderen nur eine Bevollm\u00e4chtigung ausdr\u00fcckenden Vermerk, so kann der Inhaber alle Rechte aus dem Scheck geltend machen; aber er kann ihn nur durch ein weiteres Vollmachtsindossament \u00fcbertragen.</P><P>(2) Die Scheckverpflichteten k\u00f6nnen in diesem Falle dem Inhaber nur solche Einwendungen entgegensetzen, die ihnen gegen den Indossanten zustehen.</P><P>(3) Die in dem Vollmachtsindossament enthaltene Vollmacht erlischt weder mit dem Tode noch mit dem Eintritt der Handlungsunf\u00e4higkeit des Vollmachtgebers.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003700306",
+        "type": "article",
+        "name": "Art 24",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ein Indossament, das nach Erhebung des Protests oder nach Vornahme einer gleichbedeutenden Feststellung oder nach Ablauf der Vorlegungsfrist auf den Scheck gesetzt wird, hat nur die Wirkungen einer gew\u00f6hnlichen Abtretung.</P><P>(2) Bis zum Beweis des Gegenteils wird vermutet, da\u00df ein nicht datiertes Indossament vor Erhebung des Protests oder vor der Vornahme einer gleichbedeutenden Feststellung oder vor Ablauf der Vorlegungsfrist auf den Scheck gesetzt worden ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG000300306",
+        "type": "heading",
+        "name": "Dritter Abschnitt",
+        "title": "Scheckb\u00fcrgschaft",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE003800306",
+        "type": "article",
+        "name": "Art 25",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die Zahlung der Schecksumme kann ganz oder teilweise durch Scheckb\u00fcrgschaft gesichert werden.</P><P>(2) Diese Sicherheit kann von einem Dritten, mit Ausnahme des Bezogenen, oder auch von einer Person geleistet werden, deren Unterschrift sich schon auf dem Scheck befindet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000300306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE003900306",
+        "type": "article",
+        "name": "Art 26",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die B\u00fcrgschaftserkl\u00e4rung wird auf den Scheck oder auf einen Anhang gesetzt.</P><P>(2) Sie wird durch die Worte \"als B\u00fcrge\" oder einen gleichbedeutenden Vermerk ausgedr\u00fcckt; sie ist von dem Scheckb\u00fcrgen zu unterschreiben.</P><P>(3) Die blo\u00dfe Unterschrift auf der Vorderseite des Schecks gilt als B\u00fcrgschaftserkl\u00e4rung, soweit es sich nicht um die Unterschrift des Ausstellers handelt.</P><P>(4) In der Erkl\u00e4rung ist anzugeben, f\u00fcr wen die B\u00fcrgschaft geleistet wird; mangels einer solchen Angabe gilt sie f\u00fcr den Aussteller.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000300306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004000306",
+        "type": "article",
+        "name": "Art 27",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Scheckb\u00fcrge haftet in der gleichen Weise wie derjenige, f\u00fcr den er sich verb\u00fcrgt hat.</P><P>(2) Seine Verpflichtungserkl\u00e4rung ist auch g\u00fcltig, wenn die Verbindlichkeit, f\u00fcr die er sich verb\u00fcrgt hat, aus einem anderen Grunde als wegen eines Formfehlers nichtig ist.</P><P>(3) Der Scheckb\u00fcrge, der den Scheck bezahlt, erwirbt die Rechte aus dem Scheck gegen denjenigen, f\u00fcr den er sich verb\u00fcrgt hat, und gegen alle, die diesem scheckm\u00e4\u00dfig haften.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000300306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG000400306",
+        "type": "heading",
+        "name": "Vierter Abschnitt",
+        "title": "Vorlegung und Zahlung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE004100306",
+        "type": "article",
+        "name": "Art 28",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Scheck ist bei Sicht zahlbar. Jede gegenteilige Angabe gilt als nicht geschrieben.</P><P>(2) Ein Scheck, der vor Eintritt des auf ihm angegebenen Ausstellungstags zur Zahlung vorgelegt wird, ist am Tag der Vorlegung zahlbar.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004201304",
+        "type": "article",
+        "name": "Art 29",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ein Scheck, der in dem Lande der Ausstellung zahlbar ist, mu\u00df binnen acht Tagen zur Zahlung vorgelegt werden.</P><P>(2) Ein Scheck, der in einem anderen Land als dem der Ausstellung zahlbar ist, mu\u00df binnen zwanzig Tagen vorgelegt werden, wenn Ausstellungsort und Zahlungsort sich in demselben Erdteil befinden, und binnen siebzig Tagen, wenn Ausstellungsort und Zahlungsort sich in verschiedenen Erdteilen befinden.</P><P>(3) Hierbei gelten die in einem Lande Europas ausgestellten und in einem an das Mittelmeer grenzenden Lande zahlbaren Schecks ebenso wie die in einem an das Mittelmeer grenzenden Lande ausgestellten und in einem Lande Europas zahlbaren Schecks als Schecks, die in demselben Erdteil ausgestellt und zahlbar sind.</P><P>(4) Die vorstehend erw\u00e4hnten Fristen beginnen an dem Tag zu laufen, der in dem Scheck als Ausstellungstag angegeben ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004300306",
+        "type": "article",
+        "name": "Art 30",
+        "title": null,
+        "body": {
+          "content": "<P>Ist ein Scheck auf einen Ort gezogen, dessen Kalender von dem des Ausstellungsortes abweicht, so wird der Tag der Ausstellung in den nach dem Kalender des Zahlungsortes entsprechenden Tag umgerechnet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004402301",
+        "type": "article",
+        "name": "Art 31",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die Einlieferung in eine Abrechnungsstelle steht der Vorlegung zur Zahlung gleich.</P><P>(2) Das Bundesministerium der Justiz und f\u00fcr Verbraucherschutz bestimmt, welche Einrichtungen als Abrechnungsstellen anzusehen sind und unter welchen Voraussetzungen die Einlieferung erfolgen kann.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004500306",
+        "type": "article",
+        "name": "Art 32",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ein Widerruf des Schecks ist erst nach Ablauf der Vorlegungsfrist wirksam.</P><P>(2) Wenn der Scheck nicht widerrufen ist, kann der Bezogene auch nach Ablauf der Vorlegungsfrist Zahlung leisten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004600306",
+        "type": "article",
+        "name": "Art 33",
+        "title": null,
+        "body": {
+          "content": "<P>Auf die Wirksamkeit des Schecks ist es ohne Einflu\u00df, wenn der Aussteller nach der Begebung des Schecks stirbt oder handlungsunf\u00e4hig wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004700306",
+        "type": "article",
+        "name": "Art 34",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Bezogene kann vom Inhaber gegen Zahlung die Aush\u00e4ndigung des quittierten Schecks verlangen.</P><P>(2) Der Inhaber darf eine Teilzahlung nicht zur\u00fcckweisen.</P><P>(3) Im Falle der Teilzahlung kann der Bezogene verlangen, da\u00df sie auf dem Scheck vermerkt und ihm eine Quittung erteilt wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004800306",
+        "type": "article",
+        "name": "Art 35",
+        "title": null,
+        "body": {
+          "content": "<P>Der Bezogene, der einen durch Indossament \u00fcbertragbaren Scheck einl\u00f6st, ist verpflichtet, die Ordnungsm\u00e4\u00dfigkeit der Reihe der Indossamente, aber nicht die Unterschriften der Indossanten zu pr\u00fcfen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE004900306",
+        "type": "article",
+        "name": "Art 36",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Lautet der Scheck auf eine W\u00e4hrung, die am Zahlungsorte nicht gilt, so kann die Schecksumme in der Landesw\u00e4hrung nach dem Werte gezahlt werden, den sie am Tage der Vorlegung besitzt. Wenn die Zahlung bei Vorlegung nicht erfolgt ist, so kann der Inhaber w\u00e4hlen, ob die Schecksumme nach dem Kurs des Vorlegungstages oder nach dem Kurs des Zahlungstages in die Landesw\u00e4hrung umgerechnet werden soll.</P><P>(2) Der Wert der fremden W\u00e4hrung bestimmt sich nach den Handelsgebr\u00e4uchen des Zahlungsorts. Der Aussteller kann jedoch im Scheck f\u00fcr die zu zahlende Summe einen Umrechnungskurs bestimmen.</P><P>(3) Die Vorschriften der beiden ersten Abs\u00e4tze finden keine Anwendung, wenn der Aussteller die Zahlung in einer bestimmten W\u00e4hrung vorgeschrieben hat (Effektivvermerk).</P><P>(4) Lautet der Scheck auf eine Geldsorte, die im Land der Ausstellung dieselbe Bezeichnung, aber einen anderen Wert hat als in dem der Zahlung, so wird vermutet, da\u00df die Geldsorte des Zahlungsorts gemeint ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000400306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG000500306",
+        "type": "heading",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Gekreuzter Scheck und Verrechnungsscheck",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE005000301",
+        "type": "article",
+        "name": "Art 37",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000500306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE005100301",
+        "type": "article",
+        "name": "Art 38",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000500306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE008000377",
+        "type": "article",
+        "name": "Art 38a",
+        "title": null,
+        "body": {
+          "content": "<P>Im Ausland ausgestellte gekreuzte Schecks werden im Inland als Verrechnungsschecks behandelt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000500306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE005200306",
+        "type": "article",
+        "name": "Art 39",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Aussteller sowie jeder Inhaber eines Schecks kann durch den quer \u00fcber die Vorderseite gesetzten Vermerk \"nur zur Verrechnung\" oder durch einen gleichbedeutenden Vermerk untersagen, da\u00df der Scheck bar bezahlt wird.</P><P>(2) Der Bezogene darf in diesem Falle den Scheck nur im Wege der Gutschrift einl\u00f6sen (Verrechnung, \u00dcberweisung, Ausgleichung). Die Gutschrift gilt als Zahlung.</P><P>(3) Die Streichung des Vermerks \"nur zur Verrechnung\" gilt als nicht erfolgt.</P><P>(4) Der Bezogene, der den vorstehenden Vorschriften zuwiderhandelt, haftet f\u00fcr den entstandenen Schaden, jedoch nur bis zur H\u00f6he der Schecksumme.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000500306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG000600306",
+        "type": "heading",
+        "name": "Sechster Abschnitt",
+        "title": "R\u00fcckgriff mangels Zahlung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE005300306",
+        "type": "article",
+        "name": "Art 40",
+        "title": null,
+        "body": {
+          "content": "<P>Der Inhaber kann gegen die Indossanten, den Aussteller und die anderen Scheckverpflichteten R\u00fcckgriff nehmen, wenn der rechtzeitig vorgelegte Scheck nicht eingel\u00f6st und die Verweigerung der Zahlung festgestellt worden ist: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch eine \u00f6ffentliche Urkunde (Protest) oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch eine schriftliche, datierte Erkl\u00e4rung des Bezogenen auf dem Scheck, die den Tag der Vorlegung angibt, oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch eine datierte Erkl\u00e4rung einer Abrechnungsstelle, da\u00df der Scheck rechtzeitig eingeliefert und nicht bezahlt worden ist.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE005400306",
+        "type": "article",
+        "name": "Art 41",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Protest oder die gleichbedeutende Feststellung mu\u00df vor Ablauf der Vorlegungsfrist vorgenommen werden.</P><P>(2) Ist die Vorlegung am letzten Tage der Frist erfolgt, so kann der Protest oder die gleichbedeutende Feststellung auch noch an dem folgenden Werktage vorgenommen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE005500306",
+        "type": "article",
+        "name": "Art 42",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Inhaber mu\u00df seinen unmittelbaren Vormann und den Aussteller von dem Unterbleiben der Zahlung innerhalb der vier Werktage benachrichtigen, die auf den Tag der Protesterhebung oder der Vornahme der gleichbedeutenden Feststellung oder, im Falle des Vermerks \"ohne Kosten\", auf den Tag der Vorlegung folgen. Jeder Indossant mu\u00df innerhalb zweier Werktage nach Empfang der Nachricht seinem unmittelbaren Vormanne von der Nachricht, die er erhalten hat, Kenntnis geben und ihm die Namen und Adressen derjenigen mitteilen, die vorher Nachricht gegeben haben, und so weiter in der Reihenfolge bis zum Aussteller. Die Fristen laufen vom Empfang der vorhergehenden Nachricht.</P><P>(2) Wird nach Ma\u00dfgabe des vorhergehenden Absatzes einer Person, deren Unterschrift sich auf dem Scheck befindet, Nachricht gegeben, so mu\u00df die gleiche Nachricht in derselben Frist ihrem Scheckb\u00fcrgen gegeben werden.</P><P>(3) Hat ein Indossant seine Adresse nicht oder in unleserlicher Form angegeben, so gen\u00fcgt es, da\u00df sein unmittelbarer Vormann benachrichtigt wird.</P><P>(4) Die Nachricht kann in jeder Form gegeben werden, auch durch die blo\u00dfe R\u00fccksendung des Schecks.</P><P>(5) Der zur Benachrichtigung Verpflichtete hat zu beweisen, da\u00df er in der vorgeschriebenen Frist benachrichtigt hat. Die Frist gilt als eingehalten, wenn ein Schreiben, das die Benachrichtigung enth\u00e4lt, innerhalb der Frist zur Post gegeben worden ist.</P><P>(6) Wer die rechtzeitige Benachrichtigung vers\u00e4umt, verliert nicht den R\u00fcckgriff; er haftet f\u00fcr den etwa durch seine Nachl\u00e4ssigkeit entstandenen Schaden, jedoch nur bis zur H\u00f6he der Schecksumme.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE005600306",
+        "type": "article",
+        "name": "Art 43",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Aussteller sowie jeder Indossant oder Scheckb\u00fcrge kann durch den Vermerk \"ohne Kosten\", \"ohne Protest\" oder einen gleichbedeutenden auf den Scheck gesetzten und unterzeichneten Vermerk den Inhaber von der Verpflichtung befreien, zum Zwecke der Aus\u00fcbung des R\u00fcckgriffs Protest erheben oder eine gleichbedeutende Feststellung vornehmen zu lassen.</P><P>(2) Der Vermerk befreit den Inhaber nicht von der Verpflichtung, den Scheck rechtzeitig vorzulegen und die erforderlichen Nachrichten zu geben. Der Beweis, da\u00df die Frist nicht eingehalten worden ist, liegt demjenigen ob, der sich dem Inhaber gegen\u00fcber darauf beruft.</P><P>(3) Ist der Vermerk vom Aussteller beigef\u00fcgt, so wirkt er gegen\u00fcber allen Scheckverpflichteten; ist er von einem Indossanten oder einem Scheckb\u00fcrgen beigef\u00fcgt, so wirkt er nur diesen gegen\u00fcber. L\u00e4\u00dft der Inhaber ungeachtet des vom Aussteller beigef\u00fcgten Vermerks Protest erheben oder eine gleichbedeutende Feststellung vornehmen, so fallen ihm die Kosten zur Last. Ist der Vermerk von einem Indossanten oder einem Scheckb\u00fcrgen beigef\u00fcgt, so sind alle Scheckverpflichteten zum Ersatz der Kosten eines dennoch erhobenen Protests oder einer gleichbedeutenden Feststellung verpflichtet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE005700306",
+        "type": "article",
+        "name": "Art 44",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Alle Scheckverpflichteten haften dem Inhaber als Gesamtschuldner.</P><P>(2) Der Inhaber kann jeden einzeln oder mehrere oder alle zusammen in Anspruch nehmen, ohne an die Reihenfolge gebunden zu sein, in der sie sich verpflichtet haben.</P><P>(3) Das gleiche Recht steht jedem Scheckverpflichteten zu, der den Scheck eingel\u00f6st hat.</P><P>(4) Durch die Geltendmachung des Anspruchs gegen einen Scheckverpflichteten verliert der Inhaber nicht seine Rechte gegen die anderen Scheckverpflichteten, auch nicht gegen die Nachm\u00e4nner desjenigen, der zuerst in Anspruch genommen worden ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE005803377",
+        "type": "article",
+        "name": "Art 45",
+        "title": null,
+        "body": {
+          "content": "<P>Der Inhaber kann im Wege des R\u00fcckgriffs verlangen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Schecksumme, soweit der Scheck nicht eingel\u00f6st worden ist;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zinsen zu sechs vom Hundert seit dem Tage der Vorlegung. Bei einem Scheck, der im Inland sowohl ausgestellt als auch zahlbar ist, betr\u00e4gt der Zinssatz zwei vom Hundert \u00fcber dem jeweiligen Basiszinssatz nach \u00a7 247 des B\u00fcrgerlichen Gesetzbuches, mindestens aber sechs vom Hundert;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kosten des Protestes oder der gleichbedeutenden Feststellung und der Nachrichten sowie die anderen Auslagen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Verg\u00fctung, die mangels besonderer Vereinbarung ein Drittel vom Hundert der Hauptsumme des Schecks betr\u00e4gt und diesen Satz keinesfalls \u00fcberschreiten darf.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE005903377",
+        "type": "article",
+        "name": "Art 46",
+        "title": null,
+        "body": {
+          "content": "<P>Wer den Scheck eingel\u00f6st hat, kann von seinen Vorm\u00e4nnern verlangen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den vollen Betrag, den er gezahlt hat;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zinsen dieses Betrags zu sechs vom Hundert seit dem Tage der Einl\u00f6sung. Bei einem Scheck, der im Inland sowohl ausgestellt als auch zahlbar ist, betr\u00e4gt der Zinssatz zwei vom Hundert \u00fcber dem jeweiligen Basiszinssatz nach \u00a7 247 des B\u00fcrgerlichen Gesetzbuches, mindestens aber sechs vom Hundert;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">seine Auslagen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Verg\u00fctung, die nach den Vorschriften des Artikels 45 Nr. 4 berechnet wird.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE006000306",
+        "type": "article",
+        "name": "Art 47",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Jeder Scheckverpflichtete, gegen den R\u00fcckgriff genommen wird oder genommen werden kann, ist berechtigt, zu verlangen, da\u00df ihm gegen Entrichtung der R\u00fcckgriffssumme der Scheck mit dem Protest oder der gleichbedeutenden Feststellung und eine quittierte Rechnung ausgeh\u00e4ndigt werden.</P><P>(2) Jeder Indossant, der den Scheck eingel\u00f6st hat, kann sein Indossament und die Indossamente seiner Nachm\u00e4nner ausstreichen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE006100306",
+        "type": "article",
+        "name": "Art 48",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Steht der rechtzeitigen Vorlegung des Schecks oder der rechtzeitigen Erhebung des Protestes oder der Vornahme einer gleichbedeutenden Feststellung ein un\u00fcberwindliches Hindernis entgegen (gesetzliche Vorschrift eines Staates oder ein anderer Fall h\u00f6herer Gewalt), so werden die f\u00fcr diese Handlungen bestimmten Fristen verl\u00e4ngert.</P><P>(2) Der Inhaber ist verpflichtet, seinen unmittelbaren Vormann von dem Fall der h\u00f6heren Gewalt unverz\u00fcglich zu benachrichtigen und die Benachrichtigung unter Beif\u00fcgung des Tages und Ortes sowie seiner Unterschrift auf dem Scheck oder einem Anhang zu vermerken; im \u00fcbrigen finden die Vorschriften des Artikels 42 Anwendung.</P><P>(3) F\u00e4llt die h\u00f6here Gewalt weg, so mu\u00df der Inhaber den Scheck unverz\u00fcglich zur Zahlung vorlegen und gegebenenfalls Protest erheben oder eine gleichbedeutende Feststellung vornehmen lassen.</P><P>(4) Dauert die h\u00f6here Gewalt l\u00e4nger als f\u00fcnfzehn Tage seit dem Tage, an dem der Inhaber, selbst vor Ablauf der Vorlegungsfrist, seinen Vormann von dem Fall der h\u00f6heren Gewalt benachrichtigt hat, so kann R\u00fcckgriff genommen werden, ohne da\u00df es der Vorlegung oder der Protesterhebung oder einer gleichbedeutenden Feststellung bedarf.</P><P>(5) Tatsachen, die rein pers\u00f6nlich den Inhaber oder denjenigen betreffen, den er mit der Vorlegung des Schecks oder mit der Erhebung des Protestes oder mit der Herbeif\u00fchrung einer gleichbedeutenden Feststellung beauftragt hat, gelten nicht als F\u00e4lle h\u00f6herer Gewalt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000600306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG000700306",
+        "type": "heading",
+        "name": "Siebenter Abschnitt",
+        "title": "Ausfertigung mehrerer St\u00fccke\neines Schecks",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE006200306",
+        "type": "article",
+        "name": "Art 49",
+        "title": null,
+        "body": {
+          "content": "<P>Schecks, die nicht auf den Inhaber gestellt sind und in einem anderen Lande als dem der Ausstellung oder in einem \u00fcberseeischen Gebiet des Landes der Ausstellung zahlbar sind, und umgekehrt, oder in dem \u00fcberseeischen Gebiet eines Landes ausgestellt und zahlbar sind oder in dem \u00fcberseeischen Gebiet eines Landes ausgestellt und in einem anderen \u00fcberseeischen Gebiet desselben Landes zahlbar sind, k\u00f6nnen in mehreren gleichen Ausfertigungen ausgestellt werden. Diese Ausfertigungen m\u00fcssen im Text der Urkunde mit fortlaufenden Nummern versehen sein; andernfalls gilt jede Ausfertigung als besonderer Scheck.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000700306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE006300306",
+        "type": "article",
+        "name": "Art 50",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Wird eine Ausfertigung bezahlt, so erl\u00f6schen die Rechte aus allen Ausfertigungen, auch wenn diese nicht den Vermerk tragen, da\u00df durch die Zahlung auf eine Ausfertigung die anderen ihre G\u00fcltigkeit verlieren.</P><P>(2) Hat ein Indossant die Ausfertigungen an verschiedene Personen \u00fcbertragen, so haften er und seine Nachm\u00e4nner aus allen Ausfertigungen, die ihre Unterschrift tragen und nicht herausgegeben worden sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000700306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG000800306",
+        "type": "heading",
+        "name": "Achter Abschnitt",
+        "title": "\u00c4nderungen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE006400306",
+        "type": "article",
+        "name": "Art 51",
+        "title": null,
+        "body": {
+          "content": "<P>Wird der Text eines Schecks ge\u00e4ndert, so haften diejenigen, die ihre Unterschrift nach der \u00c4nderung auf den Scheck gesetzt haben, entsprechend dem ge\u00e4nderten Text; wer fr\u00fcher unterschrieben hat, haftet nach dem urspr\u00fcnglichen Text.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000800306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG000900306",
+        "type": "heading",
+        "name": "Neunter Abschnitt",
+        "title": "Verj\u00e4hrung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE006500306",
+        "type": "article",
+        "name": "Art 52",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die R\u00fcckgriffsanspr\u00fcche des Inhabers gegen die Indossanten, den Aussteller und die anderen Scheckverpflichteten verj\u00e4hren in sechs Monaten vom Ablauf der Vorlegungsfrist.</P><P>(2) Die R\u00fcckgriffsanspr\u00fcche eines Verpflichteten gegen einen anderen Scheckverpflichteten verj\u00e4hren in sechs Monaten von dem Tage, an dem der Scheck von dem Verpflichteten eingel\u00f6st oder ihm gegen\u00fcber gerichtlich geltend gemacht worden ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000900306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE006601377",
+        "type": "article",
+        "name": "Art 53",
+        "title": null,
+        "body": {
+          "content": "<P>Der Neubeginn der Verj\u00e4hrung und ihre Hemmung nach \u00a7 204 des B\u00fcrgerlichen Gesetzbuchs wirken nur gegen den Scheckverpflichteten, in Ansehung dessen die Tatsache eingetreten ist, welche den Neubeginn oder die Hemmung bewirkt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG000900306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG001000306",
+        "type": "heading",
+        "name": "Zehnter Abschnitt",
+        "title": "Allgemeine Vorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE006700306",
+        "type": "article",
+        "name": "Art 54",
+        "title": null,
+        "body": {
+          "content": "<P>Als Bankiers im Sinne dieses Gesetzes sind anzusehen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">diejenigen Anstalten des \u00f6ffentlichen Rechts, diejenigen unter staatlicher Aufsicht stehenden Anstalten sowie diejenigen in das Genossenschaftsregister eingetragenen Genossenschaften, die sich nach den f\u00fcr ihren Gesch\u00e4ftsbetrieb ma\u00dfgebenden Bestimmungen mit der Annahme von Geld und der Leistung von Zahlungen f\u00fcr fremde Rechnung befassen, ferner die unter amtlicher Aufsicht stehenden Sparkassen, wenn sie die nach Landesrecht f\u00fcr sie geltenden Aufsichtsbestimmungen erf\u00fcllen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in das Handelsregister eingetragenen Firmen, die gewerbsm\u00e4\u00dfig Bankiergesch\u00e4fte betreiben.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001000306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE006801304",
+        "type": "article",
+        "name": "Art 55",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die Vorlegung und der Protest eines Schecks k\u00f6nnen nur an einem Werktag, jedoch nicht an einem Sonnabend, stattfinden.</P><P>(2) F\u00e4llt der letzte Tag einer Frist, innerhalb derer eine auf den Scheck bez\u00fcgliche Handlung, insbesondere die Vorlegung, der Protest oder eine gleichbedeutende Feststellung vorgenommen werden mu\u00df, auf einen gesetzlichen Feiertag oder einen Sonnabend, so wird die Frist bis zum n\u00e4chsten Werktag verl\u00e4ngert. Feiertage, die in den Lauf einer Frist fallen, werden bei der Berechnung der Frist mitgez\u00e4hlt.</P><P>(3) Im \u00fcbrigen finden auf die Vorlegung des Schecks und den Protest die Vorschriften der Artikel 79 bis 87 des Wechselgesetzes entsprechende Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001000306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE006900306",
+        "type": "article",
+        "name": "Art 56",
+        "title": null,
+        "body": {
+          "content": "<P>Bei der Berechnung der in diesem Gesetz vorgesehenen Fristen wird der Tag, an dem sie zu laufen beginnen, nicht mitgez\u00e4hlt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001000306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE007000306",
+        "type": "article",
+        "name": "Art 57",
+        "title": null,
+        "body": {
+          "content": "<P>Weder gesetzliche noch richterliche Respekttage werden anerkannt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001000306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG001100306",
+        "type": "heading",
+        "name": "Elfter Abschnitt",
+        "title": "Erg\u00e4nzende Vorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE007100306",
+        "type": "article",
+        "name": "Art 58",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Aussteller, dessen R\u00fcckgriffsverbindlichkeit durch Unterlassung rechtzeitiger Vorlegung oder Verj\u00e4hrung erloschen ist, bleibt dem Inhaber des Schecks so weit verpflichtet, als er sich mit dessen Schaden bereichern w\u00fcrde.</P><P>(2) Der Anspruch verj\u00e4hrt in einem Jahre seit der Ausstellung des Schecks.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE007200306",
+        "type": "article",
+        "name": "Art 59",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ein abhanden gekommener oder vernichteter Scheck kann im Wege des Aufgebotsverfahrens f\u00fcr kraftlos erkl\u00e4rt werden. Die Aufgebotsfrist mu\u00df mindestens zwei Monate betragen. Nach Einleitung des Aufgebotsverfahrens kann der Berechtigte, falls der Scheck rechtzeitig zur Zahlung vorgelegt, von dem Bezogenen aber nicht eingel\u00f6st worden war, von dem Aussteller Zahlung fordern, wenn er bis zur Kraftloserkl\u00e4rung Sicherheit leistet.</P><P>(2) Eine abhanden gekommene oder vernichtete Protesturkunde kann durch ein Zeugnis \u00fcber die Protesterhebung ersetzt werden, das von der die beglaubigte Abschrift der Urkunde verwahrenden Stelle zu erteilen ist. In dem Zeugnis mu\u00df der Inhalt des Protests und des gem\u00e4\u00df Artikel 55 Abs. 3 in Verbindung mit Artikel 85 Abs. 2 des Wechselgesetzes aufgenommenen Vermerks angegeben sein.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001100306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNG001200306",
+        "type": "heading",
+        "name": "Zw\u00f6lfter Abschnitt",
+        "title": "Geltungsbereich der Gesetze",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005970933BJNE007300306",
+        "type": "article",
+        "name": "Art 60",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die F\u00e4higkeit einer Person, eine Scheckverbindlichkeit einzugehen, bestimmt sich nach dem Recht des Landes, dem sie angeh\u00f6rt. Erkl\u00e4rt dieses Recht das Recht eines anderen Landes f\u00fcr ma\u00dfgebend, so ist das letztere Recht anzuwenden.</P><P>(2) Wer nach dem in vorstehendem Absatz bezeichneten Recht eine Scheckverbindlichkeit nicht eingehen kann, wird gleichwohl g\u00fcltig verpflichtet, wenn die Unterschrift in dem Gebiet eines Landes abgegeben worden ist, nach dessen Recht er scheckf\u00e4hig w\u00e4re. Diese Vorschrift findet keine Anwendung, wenn die Verbindlichkeit von einem Inl\u00e4nder im Ausland \u00fcbernommen worden ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE007400306",
+        "type": "article",
+        "name": "Art 61",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Recht des Landes, in dem der Scheck zahlbar ist, bestimmt die Personen, auf die ein Scheck gezogen werden kann.</P><P>(2) Ist nach diesem Recht der Scheck im Hinblick auf die Person des Bezogenen nichtig, so sind gleichwohl die Verpflichtungen aus Unterschriften g\u00fcltig, die in L\u00e4ndern auf den Scheck gesetzt worden sind, deren Recht die Nichtigkeit aus einem solchen Grunde nicht vorsieht.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE007500306",
+        "type": "article",
+        "name": "Art 62",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die Form einer Scheckerkl\u00e4rung bestimmt sich nach dem Recht des Landes, in dessen Gebiete die Erkl\u00e4rung unterschrieben worden ist. Es gen\u00fcgt jedoch die Beobachtung der Form, die das Recht des Zahlungsorts vorschreibt.</P><P>(2) Wenn eine Scheckerkl\u00e4rung, die nach den Vorschriften des vorstehenden Absatzes ung\u00fcltig ist, dem Recht des Landes entspricht, in dessen Gebiet eine sp\u00e4tere Scheckerkl\u00e4rung unterschrieben worden ist, so wird durch M\u00e4ngel in der Form der ersten Scheckerkl\u00e4rung die G\u00fcltigkeit der sp\u00e4teren Scheckerkl\u00e4rung nicht ber\u00fchrt.</P><P>(3) Eine Scheckerkl\u00e4rung, die ein Inl\u00e4nder im Ausland abgegeben hat, ist im Inland gegen\u00fcber anderen Inl\u00e4ndern g\u00fcltig, wenn die Erkl\u00e4rung den Formerfordernissen des inl\u00e4ndischen Rechts gen\u00fcgt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE007600306",
+        "type": "article",
+        "name": "Art 63",
+        "title": null,
+        "body": {
+          "content": "<P>Die Wirkungen der Scheckerkl\u00e4rungen bestimmen sich nach dem Recht des Landes, in dessen Gebiete die Erkl\u00e4rungen unterschrieben worden sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE007700306",
+        "type": "article",
+        "name": "Art 64",
+        "title": null,
+        "body": {
+          "content": "<P>Die Fristen f\u00fcr die Aus\u00fcbung der R\u00fcckgriffsrechte werden f\u00fcr alle Scheckverpflichteten durch das Recht des Ortes bestimmt, an dem der Scheck ausgestellt worden ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE007800306",
+        "type": "article",
+        "name": "Art 65",
+        "title": null,
+        "body": {
+          "content": "<P>Das Recht des Landes, in dessen Gebiete der Scheck zahlbar ist, bestimmt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob der Scheck notwendigerweise bei Sicht zahlbar ist oder ob er auf eine bestimmte Zeit nach Sicht gezogen werden kann und welches die Wirkungen sind, wenn auf dem Scheck ein sp\u00e4terer als der wirkliche Ausstellungstag angegeben worden ist;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vorlegungsfrist;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob ein Scheck angenommen, zertifiziert, best\u00e4tigt oder mit einem Visum versehen werden kann und welches die Wirkungen dieser Vermerke sind;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob der Inhaber eine Teilzahlung verlangen kann und ob er eine solche annehmen mu\u00df;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob ein Scheck gekreuzt oder mit dem Vermerk \"nur zur Verrechnung\" oder mit einem gleichbedeutenden Vermerk versehen werden kann und welches die Wirkungen der Kreuzung oder des Verrechnungsvermerks oder eines gleichbedeutenden Vermerks sind;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob der Inhaber besondere Rechte auf die Deckung hat und welches der Inhalt dieser Rechte ist;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob der Aussteller den Scheck widerrufen oder gegen die Einl\u00f6sung des Schecks Widerspruch erheben kann;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ma\u00dfnahmen, die im Falle des Verlustes oder des Diebstahls des Schecks zu ergreifen sind;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob ein Protest oder eine gleichbedeutende Feststellung zur Erhaltung des R\u00fcckgriffs gegen die Indossanten, den Aussteller und die anderen Scheckverpflichteten notwendig ist.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001200306"
+        }
+      },
+      {
+        "id": "BJNR005970933BJNE007900306",
+        "type": "article",
+        "name": "Art 66",
+        "title": null,
+        "body": {
+          "content": "<P>Die Form des Protests und die Fristen f\u00fcr die Protesterhebung sowie die Form der \u00fcbrigen Handlungen, die zur Aus\u00fcbung oder Erhaltung der Scheckrechte erforderlich sind, bestimmen sich nach dem Recht des Landes, in dessen Gebiete der Protest zu erheben oder die Handlung vorzunehmen ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005970933BJNG001200306"
+        }
+      }
+    ]
+  }
+}

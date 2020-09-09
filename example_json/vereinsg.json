@@ -1,0 +1,516 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR005930964",
+    "abbreviation": "VereinsG",
+    "extraAbbreviations": [],
+    "firstPublished": "1964-08-05",
+    "sourceTimestamp": "20200704213002",
+    "headingShort": "Vereinsgesetz",
+    "headingLong": "Gesetz zur Regelung des \u00f6ffentlichen Vereinsrechts",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1964, 593"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 1 G v. 10.3.2017 I 419"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "\u00c4nderung durch Art. 149 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1975 +++)<BR/><BR/></pre></P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR005930964BJNE000600326",
+        "type": "article",
+        "name": "Eingangsformel",
+        "title": null,
+        "body": {
+          "content": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005930964BJNG000100326",
+        "type": "heading",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Vorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005930964BJNE000700326",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Vereinsfreiheit",
+        "body": {
+          "content": "<P>(1) Die Bildung von Vereinen ist frei (Vereinsfreiheit).</P><P>(2) Gegen Vereine, die die Vereinsfreiheit mi\u00dfbrauchen, kann zur Wahrung der \u00f6ffentlichen Sicherheit oder Ordnung nur nach Ma\u00dfgabe dieses Gesetzes eingeschritten werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000100326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE000801320",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Begriff des Vereins",
+        "body": {
+          "content": "<P>(1) Verein im Sinne dieses Gesetzes ist ohne R\u00fccksicht auf die Rechtsform jede Vereinigung, zu der sich eine Mehrheit nat\u00fcrlicher oder juristischer Personen f\u00fcr l\u00e4ngere Zeit zu einem gemeinsamen Zweck freiwillig zusammengeschlossen und einer organisierten Willensbildung unterworfen hat.</P><P>(2) Vereine im Sinne dieses Gesetzes sind nicht <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">politische Parteien im Sinne des Artikels 21 des Grundgesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fraktionen des Deutschen Bundestages und der Parlamente der L\u00e4nder.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000100326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNG000200326",
+        "type": "heading",
+        "name": "Zweiter Abschnitt",
+        "title": "Verbot von Vereinen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005930964BJNE000905116",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Verbot",
+        "body": {
+          "content": "<P>(1) Ein Verein darf erst dann als verboten (Artikel 9 Abs. 2 des Grundgesetzes) behandelt werden, wenn durch Verf\u00fcgung der Verbotsbeh\u00f6rde festgestellt ist, da\u00df seine Zwecke oder seine T\u00e4tigkeit den Strafgesetzen zuwiderlaufen oder da\u00df er sich gegen die verfassungsm\u00e4\u00dfige Ordnung oder den Gedanken der V\u00f6lkerverst\u00e4ndigung richtet; in der Verf\u00fcgung ist die Aufl\u00f6sung des Vereins anzuordnen (Verbot). Mit dem Verbot ist in der Regel die Beschlagnahme und die Einziehung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">des Vereinsverm\u00f6gens,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">von Forderungen Dritter, soweit die Einziehung in \u00a7 12 Abs. 1 vorgesehen ist, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">von Sachen Dritter, soweit der Berechtigte durch die \u00dcberlassung der Sachen an den Verein dessen verfassungswidrige Bestrebungen vors\u00e4tzlich gef\u00f6rdert hat oder die Sachen zur F\u00f6rderung dieser Bestrebungen bestimmt sind,</LA></DD></DL>zu verbinden.</P><P>(2) Verbotsbeh\u00f6rde ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die obersten Landesbeh\u00f6rde oder die nach Landesrecht zust\u00e4ndige Beh\u00f6rde f\u00fcr Vereine und Teilvereine, deren erkennbare Organisation und T\u00e4tigkeit sich auf das Gebiet eines Landes beschr\u00e4nken;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesministerium des Innern, f\u00fcr Bau und Heimat f\u00fcr Vereine und Teilvereine, deren Organisation oder T\u00e4tigkeit sich \u00fcber das Gebiet eines Landes hinaus erstreckt.</LA></DD></DL>Die oberste Landesbeh\u00f6rde oder die nach Landesrecht zust\u00e4ndige Beh\u00f6rde entscheidet im Benehmen mit dem Bundesministerium des Innern, f\u00fcr Bau und Heimat, wenn sich das Verbot gegen den Teilverein eines Vereins richtet, f\u00fcr dessen Verbot nach Satz 1 Nr. 2 das Bundesministerium des Innern, f\u00fcr Bau und Heimat zust\u00e4ndig ist. Das Bundesministerium des Innern, f\u00fcr Bau und Heimat entscheidet im Benehmen mit Beh\u00f6rden, die nach Satz 1 Nr. 1 f\u00fcr das Verbot von Teilvereinen zust\u00e4ndig gewesen w\u00e4ren.</P><P>(3) Das Verbot erstreckt sich, wenn es nicht ausdr\u00fccklich beschr\u00e4nkt wird, auf alle Organisationen, die dem Verein derart eingegliedert sind, da\u00df sie nach dem Gesamtbild der tats\u00e4chlichen Verh\u00e4ltnisse als Gliederung dieses Vereins erscheinen (Teilorganisationen). Auf nichtgebietliche Teilorganisationen mit eigener Rechtspers\u00f6nlichkeit erstreckt sich das Verbot nur, wenn sie in der Verbotsverf\u00fcgung ausdr\u00fccklich benannt sind.</P><P>(4) Das Verbot ist schriftlich oder elektronisch mit einer dauerhaft \u00fcberpr\u00fcfbaren Signatur nach \u00a7 37 Abs. 4 des Verwaltungsverfahrensgesetzes abzufassen, zu begr\u00fcnden und dem Verein, im Falle des Absatzes 3 Satz 2 auch den Teilorganisationen, zuzustellen. Der verf\u00fcgende Teil des Verbots ist im Bundesanzeiger und danach im amtlichen Mitteilungsblatt des Landes bekanntzumachen, in dem der Verein oder, sofern sich das Verbot hierauf beschr\u00e4nkt, der Teilverein seinen Sitz hat; Verbote nach \u00a7 15 werden nur im Bundesanzeiger bekanntgemacht. Das Verbot wird mit der Zustellung, sp\u00e4testens mit der Bekanntmachung im Bundesanzeiger, wirksam und vollziehbar; \u00a7 80 der Verwaltungsgerichtsordnung bleibt unber\u00fchrt.</P><P>(5) Die Verbotsbeh\u00f6rde kann das Verbot auch auf Handlungen von Mitgliedern des Vereins st\u00fctzen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Zusammenhang zur T\u00e4tigkeit im Verein oder zu seiner Zielsetzung besteht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Handlungen auf einer organisierten Willensbildung beruhen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den Umst\u00e4nden anzunehmen ist, da\u00df sie vom Verein geduldet werden.</LA></DD></DL></P><P/>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000200326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001002116",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Ermittlungen",
+        "body": {
+          "content": "<P>(1) Die Verbotsbeh\u00f6rde kann f\u00fcr ihre Ermittlungen die Hilfe der f\u00fcr die Wahrung der \u00f6ffentlichen Sicherheit oder Ordnung zust\u00e4ndigen Beh\u00f6rden und Dienststellen in Anspruch nehmen. Ermittlungsersuchen des Bundesministeriums des Innern, f\u00fcr Bau und Heimat sind an die zust\u00e4ndige oberste Landesbeh\u00f6rde zu richten.</P><P>(2) H\u00e4lt die Verbotsbeh\u00f6rde oder eine gem\u00e4\u00df Absatz 1 Satz 1 ersuchte Stelle eine richterliche Vernehmung von Zeugen, eine Beschlagnahme von Beweismitteln oder eine Durchsuchung f\u00fcr erforderlich, so stellt sie ihre Antr\u00e4ge bei dem Verwaltungsgericht, in dessen Bezirk die Handlung vorzunehmen ist. Die richterlichen Anordnungen oder Ma\u00dfnahmen trifft der Vorsitzende oder ein von ihm bestimmtes Mitglied des Gerichts.</P><P>(3) F\u00fcr die richterliche Vernehmung von Zeugen gilt \u00a7 98 der Verwaltungsgerichtsordnung entsprechend.</P><P>(4) F\u00fcr die Beschlagnahme von Gegenst\u00e4nden, die als Beweismittel von Bedeutung sein k\u00f6nnen, gelten die \u00a7\u00a7 94 bis 97, 98 Abs. 4 sowie die \u00a7\u00a7 99 bis 101 der Strafproze\u00dfordnung entsprechend. Bestehen hinreichende Anhaltspunkte daf\u00fcr, da\u00df eine Durchsuchung zur Auffindung solcher Beweismittel f\u00fchren werde, so kann die Durchsuchung der R\u00e4ume des Vereins sowie der R\u00e4ume, der Sachen und der Person eines Mitglieds oder Hintermannes des Vereins angeordnet werden. Bei anderen Personen ist die Durchsuchung nur zur Beschlagnahme bestimmter Beweismittel und nur dann zul\u00e4ssig, wenn Tatsachen darauf schlie\u00dfen lassen, da\u00df sich die gesuchte Sache in ihrem Gewahrsam befindet. Die \u00a7\u00a7 104, 105 Abs. 2 bis 4, \u00a7\u00a7 106 bis 110 der Strafproze\u00dfordnung gelten entsprechend.</P><P>(5) Bei Gefahr im Verzug kann auch die Verbotsbeh\u00f6rde oder eine gem\u00e4\u00df Absatz 1 Satz 1 ersuchte Stelle eine Beschlagnahme, mit Ausnahme der Beschlagnahme nach \u00a7 99 der Strafproze\u00dfordnung, oder eine Durchsuchung anordnen. Die Vorschriften des Absatzes 4 sowie \u00a7 98 Abs. 2 Satz 1 und 2 der Strafproze\u00dfordnung gelten entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000200326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001102308",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Vollzug des Verbots",
+        "body": {
+          "content": "<P>(1) Soweit das Verbot nach diesem Gesetz nicht von der Verbotsbeh\u00f6rde selbst oder den von ihr gem\u00e4\u00df \u00a7 10 Abs. 3 und \u00a7 11 Abs. 3 beauftragten Stellen zu vollziehen ist, wird es von den von der Landesregierung bestimmten Beh\u00f6rden vollzogen.</P><P>(2) Folgt dem Verbot eines Teilvereins, bevor es unanfechtbar geworden ist, ein den Teilverein einschlie\u00dfendes Verbot des Gesamtvereins, so ist von diesem Zeitpunkt an nur noch das Verbot des Gesamtvereins zu vollziehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000200326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001200326",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Anfechtung des Verbotsvollzugs",
+        "body": {
+          "content": "<P>(1) Wird eine Ma\u00dfnahme zum Vollzug des Verbots angefochten und kommt es f\u00fcr die Entscheidung darauf an, ob das Verbot rechtm\u00e4\u00dfig ist, so hat das Verwaltungsgericht, wenn es die Rechtm\u00e4\u00dfigkeit des Verbots bezweifelt, das Verfahren auszusetzen, bis \u00fcber das Verbot unanfechtbar entschieden ist, und dieses Ergebnis seiner Entscheidung zugrunde zu legen.</P><P>(2) Widerspruch und Anfechtungsklage gegen Ma\u00dfnahmen zum Vollzug des Verbots haben keine aufschiebende Wirkung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000200326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001301307",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Unanfechtbarkeit des Verbots, Eintragung in \u00f6ffentliche\nRegister",
+        "body": {
+          "content": "<P>(1) Ist das Verbot unanfechtbar geworden, so ist sein verf\u00fcgender Teil nochmals unter Hinweis auf die Unanfechtbarkeit im Bundesanzeiger und in dem in \u00a7 3 Abs. 4 Satz 2 genannten Mitteilungsblatt zu ver\u00f6ffentlichen.</P><P>(2) Ist der Verein oder eine Teilorganisation in ein \u00f6ffentliches Register eingetragen, so sind auf Anzeige der Verbotsbeh\u00f6rde einzutragen <BR/>die Beschlagnahme des Vereinsverm\u00f6gens und ihre Aufhebung, <BR/>die Bestellung und Abberufung von Verwaltern (\u00a7 10 Abs. 3), <BR/>die Aufl\u00f6sung des Vereins, nachdem das Verbot unanfechtbar geworden ist, und <BR/>das Erl\u00f6schen des Vereins.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000200326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001400326",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Verbot der Bildung von Ersatzorganisationen",
+        "body": {
+          "content": "<P>(1) Es ist verboten, Organisationen zu bilden, die verfassungswidrige Bestrebungen (Artikel 9 Abs. 2 des Grundgesetzes) eines nach \u00a7 3 dieses Gesetzes verbotenen Vereins an dessen Stelle weiterverfolgen (Ersatzorganisationen) oder bestehende Organisationen als Ersatzorganisationen fortzuf\u00fchren.</P><P>(2) Gegen eine Ersatzorganisation, die Verein im Sinne dieses Gesetzes ist, kann zur verwaltungsm\u00e4\u00dfigen Durchf\u00fchrung des in Absatz 1 enthaltenen Verbots nur auf Grund einer besonderen Verf\u00fcgung vorgegangen werden, in der festgestellt wird, da\u00df sie Ersatzorganisation des verbotenen Vereins ist. Die \u00a7\u00a7 3 bis 7 und 10 bis 13 gelten entsprechend. Widerspruch und Anfechtungsklage gegen die Verf\u00fcgung haben keine aufschiebende Wirkung. Die f\u00fcr die Wahrung der \u00f6ffentlichen Sicherheit oder Ordnung zust\u00e4ndigen Beh\u00f6rden und Dienststellen sind bei Gefahr im Verzug zu vorl\u00e4ufigen Ma\u00dfnahmen berechtigt, die au\u00dfer Kraft treten, wenn die Verbotsbeh\u00f6rde nicht binnen zweier Wochen die in Satz 1 bestimmte Verf\u00fcgung trifft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000200326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001502116",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Kennzeichenverbot",
+        "body": {
+          "content": "<P>(1) Kennzeichen des verbotenen Vereins d\u00fcrfen f\u00fcr die Dauer der Vollziehbarkeit des Verbots nicht mehr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00f6ffentlich, in einer Versammlung oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Schriften, Ton- oder Bildtr\u00e4gern, Abbildungen oder Darstellungen, die verbreitet werden oder zur Verbreitung bestimmt sind,</LA></DD></DL>verwendet werden. Ausgenommen ist eine Verwendung von Kennzeichen im Rahmen der staatsb\u00fcrgerlichen Aufkl\u00e4rung, der Abwehr verfassungswidriger Bestrebungen und \u00e4hnlicher Zwecke.</P><P>(2) Kennzeichen im Sinne des Absatzes 1 sind insbesondere Fahnen, Abzeichen, Uniformst\u00fccke, Parolen und Gru\u00dfformen. Den in Satz 1 genannten Kennzeichen stehen solche gleich, die ihnen zum Verwechseln \u00e4hnlich sind.</P><P>(3) Absatz 1 gilt entsprechend f\u00fcr Kennzeichen eines verbotenen Vereins, die in im Wesentlichen gleicher Form von anderen nicht verbotenen Teilorganisationen oder von selbst\u00e4ndigen Vereinen verwendet werden. Ein Kennzeichen eines verbotenen Vereins wird insbesondere dann in im Wesentlichen gleicher Form verwendet, wenn bei \u00e4hnlichem \u00e4u\u00dferem Gesamterscheinungsbild das Kennzeichen des verbotenen Vereins oder Teile desselben mit einer anderen Orts- oder Regionalbezeichnung versehen wird.</P><P>(4) Diese Vorschriften gelten auch f\u00fcr die Verwendung von Kennzeichen einer Ersatzorganisation f\u00fcr die Dauer der Vollziehbarkeit einer Verf\u00fcgung nach \u00a7 8 Abs. 2 Satz 1.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000200326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNG000300326",
+        "type": "heading",
+        "name": "Dritter Abschnitt",
+        "title": "Beschlagnahme und Einziehung des\nVerm\u00f6gens verbotener Vereine",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005930964BJNE001602310",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Verm\u00f6gensbeschlagnahme",
+        "body": {
+          "content": "<P>(1) Die Beschlagnahme (\u00a7 3 Abs. 1 Satz 2) hat die Wirkung eines Ver\u00e4u\u00dferungsverbots. Rechtsgesch\u00e4fte, die gegen das Ver\u00e4u\u00dferungsverbot versto\u00dfen, sind nichtig, es sei denn, da\u00df der andere Teil weder wu\u00dfte noch wissen mu\u00dfte, da\u00df der Gegenstand, auf den sich das Rechtsgesch\u00e4ft bezieht, der Beschlagnahme unterliegt. Die Beschlagnahme erfa\u00dft auch die Gegenst\u00e4nde, die der Verein einem Dritten zu treuen H\u00e4nden \u00fcbertragen hat oder die ein Dritter als Treuh\u00e4nder f\u00fcr den Verein erworben hat. In den F\u00e4llen des Satzes 3 sind die Vorschriften zugunsten derjenigen, welche Rechte von einem Nichtberechtigten herleiten, entsprechend anzuwenden.</P><P>(2) Auf Grund der Beschlagnahme k\u00f6nnen Sachen im Gewahrsam des Vereins und auf Grund besonderer Anordnung Sachen im Gewahrsam Dritter sichergestellt werden. Soweit es der Zweck der Sicherstellung erfordert, d\u00fcrfen auch R\u00e4ume betreten sowie verschlossene T\u00fcren und Beh\u00e4ltnisse ge\u00f6ffnet werden. Die Anwendung unmittelbaren Zwanges ist ohne vorherige Androhung oder Fristsetzung zul\u00e4ssig, wenn sonst die Sicherstellung gef\u00e4hrdet w\u00e4re. Werden von der Beschlagnahme Gegenst\u00e4nde im Sinne des \u00a7 99 der Strafproze\u00dfordnung erfa\u00dft, gelten f\u00fcr die Sicherstellung die \u00a7\u00a7 99, 100 und 101 Abs. 3 bis 8 der Strafproze\u00dfordnung entsprechend. Ma\u00dfnahmen nach Satz 4 und die Durchsuchung von Wohnungen ordnet nur das Verwaltungsgericht an, in dessen Bezirk die Handlungen vorzunehmen sind. Anordnungen nach Satz 5 trifft der Vorsitzende oder ein von ihm bestimmtes Mitglied des Gerichts.</P><P>(3) Die Verbotsbeh\u00f6rde kann f\u00fcr das beschlagnahmte Verm\u00f6gen Verwalter bestellen und abberufen. Die Verwalter unterliegen den Weisungen der Verbotsbeh\u00f6rde.</P><P>(4) Die Vorstandsmitglieder sind verpflichtet, Auskunft \u00fcber den Bestand und Verbleib des Vereinsverm\u00f6gens zu geben. Auf Verlangen der Verbotsbeh\u00f6rde haben sie ein Verzeichnis des Bestandes vorzulegen und zu beeiden. Der Eid ist mit dem in \u00a7 260 Abs. 2 des B\u00fcrgerlichen Gesetzbuchs bezeichneten Inhalt auf Ersuchen der Verbotsbeh\u00f6rde vor dem f\u00fcr den Wohnsitz des Eidespflichtigen zust\u00e4ndigen Amtsgericht zu leisten.</P><P>(5) Die Aufhebung der Beschlagnahme sowie der Aufschub und die Wiederherstellung ihrer Vollziehbarkeit haben keine r\u00fcckwirkende Kraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000300326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001702116",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Verm\u00f6genseinziehung",
+        "body": {
+          "content": "<P>(1) Die Einziehung (\u00a7 3 Abs. 1 Satz 2) wird im Fall des \u00a7 3 Abs. 2 Nr. 1 zugunsten des Landes, im Fall des \u00a7 3 Abs. 2 Nr. 2 zugunsten des Bundes angeordnet. Die Einziehung erfa\u00dft auch die Gegenst\u00e4nde, auf die sich nach \u00a7 10 Abs. 1 Satz 3 die Beschlagnahme erstreckt, mit Ausnahme der vom Verein einem Dritten zur Sicherung \u00fcbertragenen Gegenst\u00e4nde.</P><P>(2) Mit Eintritt der Unanfechtbarkeit des Verbots und der Einziehungsanordnung erwirbt der Einziehungsbeg\u00fcnstigte das Vereinsverm\u00f6gen und die nach Absatz 1 Satz 2 eingezogenen Gegenst\u00e4nde als besondere Verm\u00f6gensmasse. Gegenst\u00e4nde, die einer Teilorganisation in der Rechtsform eines Vereins, einer Gesellschaft oder einer Stiftung geh\u00f6rt haben, bilden eine eigene Verm\u00f6gensmasse. Der Verein und die von der Einziehung betroffenen Teilorganisationen erl\u00f6schen. Ihre Rechtsverh\u00e4ltnisse sind im Einziehungsverfahren abzuwickeln.</P><P>(3) Das Bundesministerium des Innern, f\u00fcr Bau und Heimat als Verbotsbeh\u00f6rde kann mit der Durchf\u00fchrung der Einziehung und mit der Abwicklung (\u00a7 13) das Bundesverwaltungsamt oder eine andere Bundesbeh\u00f6rde beauftragen (Einziehungsbeh\u00f6rde). \u00a7 10 Abs. 3 gilt entsprechend. Die Beauftragung ist im Bundesanzeiger und in dem in \u00a7 3 Abs. 4 Satz 2 genannten Mitteilungsblatt zu ver\u00f6ffentlichen.</P><P>(4) Die Verbotsbeh\u00f6rde kann von der Einziehung absehen, wenn keine Gefahr besteht, da\u00df Verm\u00f6genswerte des Vereins von neuem zur F\u00f6rderung von Handlungen oder Bestrebungen der in Artikel 9 Abs. 2 des Grundgesetzes genannten Art verwendet werden oder da\u00df die Verm\u00f6gensauseinandersetzung dazu mi\u00dfbraucht wird, den organisatorischen Zusammenhalt des Vereins aufrechtzuerhalten, ferner, soweit es sich um Gegenst\u00e4nde von unerheblichem Wert handelt. Die Verbotsbeh\u00f6rde kann die Liquidatoren bestellen. \u00a7 12 Abs. 1 Satz 1 gilt sinngem\u00e4\u00df f\u00fcr den Anspruch auf den Liquidationserl\u00f6s.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000300326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001803308",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Einziehung von Gegenst\u00e4nden Dritter",
+        "body": {
+          "content": "<P>(1) Die Verbotsbeh\u00f6rde oder die Einziehungsbeh\u00f6rde zieht Forderungen Dritter gegen den Verein ein, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie aus Beziehungen entstanden sind, die sich nach Art, Umfang oder Zweck als eine vors\u00e4tzliche F\u00f6rderung der verfassungswidrigen Bestrebungen des Vereins darstellen, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie begr\u00fcndet wurden, um Verm\u00f6genswerte des Vereins dem beh\u00f6rdlichen Zugriff zu entziehen oder den Wert des Vereinsverm\u00f6gens zu mindern.</LA></DD> </DL>Hat der Gl\u00e4ubiger eine solche Forderung durch Abtretung erworben, so kann sie nur eingezogen werden, wenn der Gl\u00e4ubiger die in Satz 1 bezeichneten Tatsachen bei dem Erwerb kannte.</P><P>(2) Sachen Dritter werden eingezogen, wenn der Berechtigte durch die \u00dcberlassung der Sachen an den Verein dessen verfassungswidrige Bestrebungen vors\u00e4tzlich gef\u00f6rdert hat oder die Sachen zur F\u00f6rderung dieser Bestrebungen bestimmt sind.</P><P>(3) Rechte Dritter an den nach \u00a7 11 Abs. 1 oder nach \u00a7 12 Abs. 1 oder 2 eingezogenen Gegenst\u00e4nden bleiben bestehen. Sie werden eingezogen, wenn sie unter den in Absatz 1 bezeichneten Voraussetzungen begr\u00fcndet oder erworben worden sind.</P><P>(4) Die nach den Abs\u00e4tzen 1 bis 3 eingezogenen Gegenst\u00e4nde gehen mit Eintritt der Unanfechtbarkeit des Verbots und der Einziehungsverf\u00fcgung auf den Einziehungsbeg\u00fcnstigten \u00fcber. Nicht vererbliche Rechte erl\u00f6schen.</P><P>(5) Verf\u00fcgungen des Vereins, die in den letzten sechs Monaten vor Erla\u00df des Verbots in der dem anderen Teil bekannten Absicht vorgenommen wurden, Gegenst\u00e4nde des Vereinsverm\u00f6gens beiseite zu schaffen, sind dem Einziehungsbeg\u00fcnstigten gegen\u00fcber unwirksam. Ist zugunsten eines Vereinsmitglieds oder einer Person, die ihm im Sinne des \u00a7 138 Abs. 1 der Insolvenzordnung nahesteht, verf\u00fcgt worden, so wird vermutet, da\u00df diesen die in Satz 1 bezeichnete Absicht bekannt war.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000300326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE001901307",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Abwicklung",
+        "body": {
+          "content": "<P>(1) Die Gl\u00e4ubiger, die ihre Forderungen innerhalb der von der Verbotsbeh\u00f6rde oder Einziehungsbeh\u00f6rde gesetzten Ausschlu\u00dffrist angemeldet haben, sind aus der besonderen Verm\u00f6gensmasse zu befriedigen. Die Befriedigung von Gl\u00e4ubigern, die im Falle des Insolvenzverfahrens Insolvenzgl\u00e4ubiger w\u00e4ren, ist, soweit nicht eine Rechtsverordnung etwas anderes bestimmt, erst zul\u00e4ssig, wenn die Verwertung des eingezogenen Verm\u00f6gens (\u00a7 11 Abs. 1) eine zur Befriedigung aller Gl\u00e4ubiger ausreichende bare Masse ergeben hat. Forderungen, die innerhalb der Ausschlu\u00dffrist nicht angemeldet werden, erl\u00f6schen.</P><P>(2) Zur Vermeidung unbilliger H\u00e4rten kann die Verbotsbeh\u00f6rde oder die Einziehungsbeh\u00f6rde anordnen, da\u00df ein nach \u00a7 11 Abs. 1 Satz 2 eintretender Rechtsverlust unterbleibt, oder von der Einziehung nach \u00a7 12 absehen.</P><P>(3) Reicht das Verm\u00f6gen nicht zur Befriedigung aller Anspr\u00fcche gegen die besondere Verm\u00f6gensmasse aus, so findet auf Antrag der Verbotsbeh\u00f6rde oder der Einziehungsbeh\u00f6rde ein Insolvenzverfahren \u00fcber die besondere Verm\u00f6gensmasse statt. \u00a7 12 bleibt unber\u00fchrt. Die von der Beschlagnahme (\u00a7 3 Abs. 1 Satz 2) ab entstandenen Verwaltungsaufwendungen und die dem Verein nach dem Verbot durch die Inanspruchnahme von Rechtsbehelfen entstandenen Proze\u00dfkosten sowie die Verwaltungsschulden gelten als Masseverbindlichkeiten. Der Insolvenzverwalter wird auf Vorschlag der Verbotsbeh\u00f6rde oder der Einziehungsbeh\u00f6rde vom Insolvenzgericht bestellt und entlassen. Die \u00a7\u00a7 57, 67 bis 73, 101 der Insolvenzordnung sind nicht anzuwenden.</P><P>(4) Das nach Befriedigung der gegen die besondere Verm\u00f6gensmasse gerichteten Anspr\u00fcche verbleibende Verm\u00f6gen und die nach \u00a7 12 eingezogenen Gegenst\u00e4nde sind vom Einziehungsbeg\u00fcnstigten f\u00fcr gemeinn\u00fctzige Zwecke zu verwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000300326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNG000400326",
+        "type": "heading",
+        "name": "Vierter Abschnitt",
+        "title": "Sondervorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005930964BJNE002002320",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Ausl\u00e4ndervereine",
+        "body": {
+          "content": "<P>(1) Vereine, deren Mitglieder oder Leiter s\u00e4mtlich oder \u00fcberwiegend Ausl\u00e4nder sind (Ausl\u00e4ndervereine), k\u00f6nnen \u00fcber die in Artikel 9 Abs. 2 des Grundgesetzes genannten Gr\u00fcnde hinaus unter den Voraussetzungen des Absatzes 2 verboten werden. Vereine, deren Mitglieder oder Leiter s\u00e4mtlich oder \u00fcberwiegend ausl\u00e4ndische Staatsangeh\u00f6rige eines Mitgliedstaates der Europ\u00e4ischen Union sind, gelten nicht als Ausl\u00e4ndervereine. \u00a7 3 Abs. 1 Satz 2 und \u00a7 12 Abs. 1 und 2 sind mit der Ma\u00dfgabe anzuwenden, dass die Beschlagnahme und die Einziehung von Forderungen und Sachen Dritter auch im Falle des Absatzes 2 zul\u00e4ssig sind.</P><P>(2) Ausl\u00e4ndervereine k\u00f6nnen verboten werden, soweit ihr Zweck oder ihre T\u00e4tigkeit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die politische Willensbildung in der Bundesrepublik Deutschland oder das friedliche Zusammenleben von Deutschen und Ausl\u00e4ndern oder von verschiedenen Ausl\u00e4ndergruppen im Bundesgebiet, die \u00f6ffentliche Sicherheit oder Ordnung oder sonstige erhebliche Interessen der Bundesrepublik Deutschland beeintr\u00e4chtigt oder gef\u00e4hrdet,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den v\u00f6lkerrechtlichen Verpflichtungen der Bundesrepublik Deutschland zuwiderl\u00e4uft,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bestrebungen au\u00dferhalb des Bundesgebiets f\u00f6rdert, deren Ziele oder Mittel mit den Grundwerten einer die W\u00fcrde des Menschen achtenden staatlichen Ordnung unvereinbar sind,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gewaltanwendung als Mittel zur Durchsetzung politischer, religi\u00f6ser oder sonstiger Belange unterst\u00fctzt, bef\u00fcrwortet oder hervorrufen soll oder</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vereinigungen innerhalb oder au\u00dferhalb des Bundesgebiets unterst\u00fctzt, die Anschl\u00e4ge gegen Personen oder Sachen veranlassen, bef\u00fcrworten oder androhen.</LA></DD> </DL> </P><P>(3) Anstelle des Vereinsverbots kann die Verbotsbeh\u00f6rde gegen\u00fcber Ausl\u00e4ndervereinen Bet\u00e4tigungsverbote erlassen, die sie auch auf bestimmte Handlungen oder bestimmte Personen beschr\u00e4nken kann. Im \u00fcbrigen bleiben Ausl\u00e4ndervereinen gegen\u00fcber die gesetzlichen Vorschriften zur Wahrung der \u00f6ffentlichen Sicherheit oder Ordnung unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000400326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE002102116",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Ausl\u00e4ndische Vereine",
+        "body": {
+          "content": "<P>(1) F\u00fcr Vereine mit Sitz im Ausland (ausl\u00e4ndische Vereine), deren Organisation oder T\u00e4tigkeit sich auf den r\u00e4umlichen Geltungsbereich dieses Gesetzes erstreckt, gilt \u00a7 14 entsprechend. Zust\u00e4ndig f\u00fcr das Verbot ist das Bundesministerium des Innern, f\u00fcr Bau und Heimat.</P><P>(2) Ausl\u00e4ndische Vereine und die einem ausl\u00e4ndischen Verein eingegliederten Teilvereine, deren Mitglieder und Leiter s\u00e4mtlich oder \u00fcberwiegend Deutsche oder ausl\u00e4ndische Unionsb\u00fcrger sind, k\u00f6nnen nur aus den in Artikel 9 Abs. 2 des Grundgesetzes genannten Gr\u00fcnden verboten oder in ein Verbot einbezogen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000400326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE002202320",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Arbeitnehmer- und Arbeitgebervereinigungen",
+        "body": {
+          "content": "<P>(1) Verbote nach \u00a7 3 Abs. 1 oder Verf\u00fcgungen nach \u00a7 8 Abs. 2 Satz 1 gegen Vereinigungen, die den Schutz des \u00dcbereinkommens Nr. 87 der Internationalen Arbeitsorganisation vom 9. Juli 1948 \u00fcber die Vereinigungsfreiheit und den Schutz des Vereinigungsrechts (Bundesgesetzbl. 1956 II S. 2072) genie\u00dfen, werden erst wirksam, wenn das Gericht ihre Rechtm\u00e4\u00dfigkeit best\u00e4tigt hat. \u00a7 3 Abs. 4 und \u00a7 8 Abs. 2 Satz 3 und 4 sind nicht anzuwenden.</P><P>(2) Die Verbotsbeh\u00f6rde legt den nach \u00a7 48 Abs. 2 und 3, \u00a7 50 Abs. 1 Nr. 2 der Verwaltungsgerichtsordnung zust\u00e4ndigen Gericht ihre schriftlich oder elektronisch mit einer dauerhaft \u00fcberpr\u00fcfbaren Signatur nach \u00a7 37 Abs. 4 des Verwaltungsverfahrensgesetzes abgefa\u00dfte und begr\u00fcndete Entscheidung vor. Das Gericht stellt sie der Vereinigung und ihren darin benannten nichtgebietlichen Teilorganisationen mit eigener Rechtspers\u00f6nlichkeit (\u00a7 3 Abs. 3 Satz 2) zu. Beteiligt am Verfahren sind die Verbotsbeh\u00f6rde, die Vereinigung und ihre in der Entscheidung benannten nichtgebietlichen Teilorganisationen mit eigener Rechtspers\u00f6nlichkeit sowie die nach \u00a7 63 Nr. 3 und 4 der Verwaltungsgerichtsordnung Beteiligten.</P><P>(3) Versagt das Gericht die Best\u00e4tigung, so hebt es in dem Urteil zugleich das Verbot oder die Verf\u00fcgung auf.</P><P>(4) Auf Antrag der Verbotsbeh\u00f6rde kann das Gericht die n\u00f6tigen einstweiligen Anordnungen treffen, insbesondere die Beschlagnahme des Vereinsverm\u00f6gens verf\u00fcgen. Bet\u00e4tigungsverbote und Beschlagnahmeanordnungen hat das Gericht entsprechend \u00a7 3 Abs. 4 Satz 2 bekanntzumachen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000400326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE002301310",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Wirtschaftsvereinigungen",
+        "body": {
+          "content": "<P>Die Vorschriften dieses Gesetzes sind auf Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschr\u00e4nkter Haftung, konzessionierte Wirtschaftsvereine nach \u00a7 22 des B\u00fcrgerlichen Gesetzbuches, Europ\u00e4ische Gesellschaften, Genossenschaften, Europ\u00e4ische Genossenschaften und Versicherungsvereine auf Gegenseitigkeit nur anzuwenden, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn sie sich gegen die verfassungsm\u00e4\u00dfige Ordnung oder gegen den Gedanken der V\u00f6lkerverst\u00e4ndigung richten oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn ihre Zwecke oder ihre T\u00e4tigkeit den in \u00a7 74a Abs. 1 oder \u00a7 120 Abs. 1 und 2 des Gerichtsverfassungsgesetzes genannten Strafgesetzen oder dem \u00a7 130 des Strafgesetzbuches zuwiderlaufen oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn sie von einem Verbot, das aus einem der in Nummer 1 oder 2 genannten Gr\u00fcnde erlassen wurde, nach \u00a7 3 Abs. 3 als Teilorganisation erfa\u00dft werden, oder</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn sie Ersatzorganisation eines Vereins sind, der aus einem der in Nummer 1 oder 2 genannten Gr\u00fcnde verboten wurde.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000400326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE002400326",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "R\u00e4umlicher Geltungsbereich von Vereinsverboten",
+        "body": {
+          "content": "<P>Verbote von Vereinen, die ihren Sitz au\u00dferhalb des r\u00e4umlichen Geltungsbereichs dieses Gesetzes, aber Teilorganisationen innerhalb dieses Bereichs haben, erstrecken sich nur auf die Teilorganisationen innerhalb dieses Bereichs. Hat der Verein im r\u00e4umlichen Geltungsbereich dieses Gesetzes keine Organisation, so richtet sich das Verbot (\u00a7 3 Abs. 1) gegen seine T\u00e4tigkeit in diesem Bereich.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000400326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNG000500326",
+        "type": "heading",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Schlu\u00dfbestimmungen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR005930964BJNE002501307",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Rechtsverordnungen",
+        "body": {
+          "content": "<P>Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bestimmungen \u00fcber den Vollzug des Verbotes, insbesondere die Durchf\u00fchrung der Aufl\u00f6sung eines Vereins, die Durchf\u00fchrung und Aufhebung der Beschlagnahme sowie die Verwaltung des Vereinsverm\u00f6gens w\u00e4hrend der Beschlagnahme erlassen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bestimmungen \u00fcber das Verfahren der Einziehung, die Ausschlu\u00dffrist (\u00a7 13 Abs. 1 Satz 1), die vorzeitige Befriedigung von Gl\u00e4ubigern (\u00a7 13 Abs. 1 Satz 2), die Anwendung des \u00a7 13 Abs. 2 oder die Berichtigung des Grundbuchs treffen und das Insolvenzverfahren \u00fcber die besondere Verm\u00f6gensmasse in Anpassung an die besonderen Gegebenheiten bei der Einziehung n\u00e4her regeln,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">n\u00e4here Vorschriften \u00fcber die Verwendung des eingezogenen Verm\u00f6gens treffen,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausl\u00e4ndervereine und ausl\u00e4ndische Vereine einer Anmelde- und Auskunftspflicht unterwerfen, Vorschriften \u00fcber Inhalt, Form und Verfahren der Anmeldung erlassen und die Auskunftspflicht n\u00e4her regeln.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE002606116",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Zuwiderhandlungen gegen Verbote",
+        "body": {
+          "content": "<P>(1) Wer im r\u00e4umlichen Geltungsbereichs dieses Gesetzes durch eine darin ausge\u00fcbte T\u00e4tigkeit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den organisatorischen Zusammenhalt eines Vereins entgegen einem vollziehbaren Verbot oder entgegen einer vollziehbaren Feststellung, da\u00df er Ersatzorganisation eines verbotenen Vereins ist, aufrechterh\u00e4lt oder sich in einem solchen Verein als Mitglied bet\u00e4tigt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den organisatorischen Zusammenhalt einer Partei oder eines Vereins entgegen einer vollziehbaren Feststellung, da\u00df sie Ersatzorganisation einer verbotenen Partei sind (\u00a7 33 Abs. 3 des Parteiengesetzes), aufrechterh\u00e4lt oder sich in einer solchen Partei oder in einem solchen Verein als Mitglied bet\u00e4tigt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den organisatorischen Zusammenhalt eines Vereines oder einer Partei der in den Nummern 1 und 2 bezeichneten Art oder deren weitere Bet\u00e4tigung unterst\u00fctzt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem vollziehbaren Verbot nach \u00a7 14 Abs. 3 Satz 1 oder \u00a7 18 Satz 2 zuwiderhandelt oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kennzeichen einer der in den Nummern 1 und 2 bezeichneten Vereine oder Parteien oder eines von einem Bet\u00e4tigungsverbot nach \u00a7 15 Abs. 1 in Verbindung mit \u00a7 14 Abs. 3 Satz 1 betroffenen Vereins w\u00e4hrend der Vollziehbarkeit des Verbots oder der Feststellung verbreitet oder \u00f6ffentlich oder in einer Versammlung verwendet,</LA></DD></DL>wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn die Tat nicht in den \u00a7\u00a7 84, 85, 86a oder den \u00a7\u00a7 129 bis 129b des Strafgesetzbuches mit Strafe bedroht ist. In den F\u00e4llen der Nummer 5 gilt \u00a7 9 Absatz 1 Satz 2, Absatz 2 oder 3 entsprechend.</P><P>(2) Das Gericht kann von einer Bestrafung nach Absatz 1 absehen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Beteiligten die Schuld gering oder deren Mitwirkung von untergeordneter Bedeutung ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der T\u00e4ter sich freiwillig und ernsthaft bem\u00fcht, das Fortbestehen der Partei oder des Vereins zu verhindern; erreicht er dieses Ziel oder wird es ohne sein Bem\u00fchen erreicht, so wird der T\u00e4ter nicht bestraft.</LA></DD></DL></P><P>(3) Kennzeichen, auf die sich eine Straftat nach Absatz 1 Nr. 5 bezieht, k\u00f6nnen eingezogen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 20 Abs. 1: IdF d. Art. 6 Nr. 1, d. in Berlin gem. Art. 9 Abs. 2 Nr. 5 keine Anwendung findet, G v. 25.6.1968 I 741 mWv 1.8.1968 u. Satz 1 idF d. Art. 80 Nr. 2 Buchst. a G v. 2.3.1974 I 469 mWv 1.1.1975 +++) <BR/>(+++ \u00a7 20 Abs. 3: IdF d. Art. 6 Nr. 1, d. in Berlin gem. Art. 9 Abs. 2 Nr. 5 keine Anwendung findet, G v. 25.6.1968 I 741 mWv 1.8.1968 +++) <BR/>\u00a7 20 Abs. 1 Nr. 1: Mit GG (100-1) vereinbar, soweit hiernach bestraft wird, wer im r\u00e4umlichen Geltungsbereich des Gesetzes durch eine darin ausge\u00fcbte T\u00e4tigkeit den organisatorischen Zusammenhalt eines Vereins entgegen einem vollziehbaren Verbot aufrechterh\u00e4lt, BVerfGE v. 15.6.1989 (2 BvL 4/87)</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE002700326",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Zuwiderhandlungen gegen Rechtsverordnungen",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig einer Vorschrift einer nach \u00a7 19 Nr. 4 erlassenen Rechtsverordnung zuwiderhandelt, wenn die Rechtsverordnung f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist.</P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu zweitausend Deutsche Mark geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE002800326",
+        "type": "article",
+        "name": "(XXXX) \u00a7\u00a7 22 bis 29",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE003301116",
+        "type": "article",
+        "name": "\u00a7 30",
+        "title": "Aufhebung und Fortgeltung von Rechtsvorschriften",
+        "body": {
+          "content": "<P>(1) (Aufhebungsvorschriften)</P><P>(2) Unber\u00fchrt bleiben <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 39 Abs. 2 des Gesetzes \u00fcber das Bundesverfassungsgericht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00a7\u00a7 43 und 44 des B\u00fcrgerlichen Gesetzbuches,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 62 des Gesetzes betreffend die Gesellschaften mit beschr\u00e4nkter Haftung, \u00a7\u00a7 288 bis 293 des Aktiengesetzes, \u00a7 81 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften, \u00a7 304 des Versicherungsaufsichtsgesetzes und \u00a7 38 Abs. 1 des Gesetzes \u00fcber das Kreditwesen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 13 des Gesetzes \u00fcber die Rechtsstellung heimatloser Ausl\u00e4nder im Bundesgebiet vom 25. April 1951 (Bundesgesetzbl. I S. 269) und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in zwischenstaatlichen Vereinbarungen getroffenen Sonderregelungen \u00fcber Ausl\u00e4ndervereine und ausl\u00e4ndische Vereine.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE003401116",
+        "type": "article",
+        "name": "\u00a7 30a",
+        "title": "Zust\u00e4ndige Stelle zur Ausf\u00fchrung der Verordnung (EU, Euratom) Nr. 1141/2014",
+        "body": {
+          "content": "<P>Zust\u00e4ndige Stelle im Sinne der Artikel 16 Absatz 3, Artikel 23 Absatz 1 und Absatz 5 sowie des Artikels 28 Absatz 1 der Verordnung (EU, Euratom) Nr. 1141/2014 des Europ\u00e4ischen Parlaments und des Rates vom 22. Oktober 2014 \u00fcber das Statut und die Finanzierung europ\u00e4ischer politischer Parteien und europ\u00e4ischer politischer Stiftungen (ABl. L 317 vom 4.11.2014, S. 1, L 131 vom 20.5.2016, S. 91) ist das Bundesministerium des Innern, f\u00fcr Bau und Heimat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE002900326",
+        "type": "article",
+        "name": "\u00a7 31",
+        "title": "\u00dcbergangsregelungen",
+        "body": {
+          "content": "<P>(1) Auf vereinsrechtliche Entscheidungen, die vor Inkrafttreten dieses Gesetzes ergangen sind, sind die bisher geltenden Vorschriften anzuwenden.</P><P>(2) Die \u00a7\u00a7 8, 9 und 20 dieses Gesetzes sowie \u00a7 90b des Strafgesetzbuches in der Fassung des \u00a7 22 Nr. 3 dieses Gesetzes sind auch anzuwenden, wenn ein Verein vor Inkrafttreten dieses Gesetzes verboten worden ist.</P><P>(3) Unanfechtbar verboten im Sinne des \u00a7 90b des Strafgesetzbuches in der Fassung des \u00a7 22 Nr. 3 dieses Gesetzes ist ein Verein auch dann, wenn das Bundesverwaltungsgericht oder das oberste Verwaltungsgericht eines Landes unanfechtbar festgestellt hat, da\u00df er nach Artikel 9 Abs. 2 des Grundgesetzes verboten ist.</P><P>(4) Rechtsh\u00e4ngige Verfahren nach \u00a7 129a Abs. 3 des Strafgesetzbuches in der Fassung des Strafrechts\u00e4nderungsgesetzes vom 30. August 1951 (Bundesgesetzbl. I S. 739) sind mit Inkrafttreten dieses Gesetzes beendet. Gerichtskosten werden nicht erhoben; jede Partei tr\u00e4gt ihre au\u00dfergerichtlichen Kosten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE003000326",
+        "type": "article",
+        "name": "\u00a7 32",
+        "title": "Einschr\u00e4nkung von Grundrechten",
+        "body": {
+          "content": "<P>Die Grundrechte des Brief- und Postgeheimnisses (Artikel 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Ma\u00dfgabe dieses Gesetzes eingeschr\u00e4nkt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      },
+      {
+        "id": "BJNR005930964BJNE003201308",
+        "type": "article",
+        "name": "\u00a7 33",
+        "title": "Inkrafttreten",
+        "body": {
+          "content": "<P>Dieses Gesetz tritt einen Monat nach seiner Verk\u00fcndung in Kraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005930964BJNG000500326"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR167400996",
+    "abbreviation": "AA\u00dcG-\u00c4ndG",
+    "extraAbbreviations": [
+      "AA\u00dcG\u00c4ndG"
+    ],
+    "firstPublished": "1996-11-11",
+    "sourceTimestamp": "20120625150544",
+    "headingShort": "AA\u00dcG-\u00c4nderungsgesetz",
+    "headingLong": "Gesetz zur \u00c4nderung und Erg\u00e4nzung des\nAnspruchs- und Anwartschafts\u00fcberf\u00fchrungsgesetzes",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1996, 1674"
+      }
+    ],
+    "statusInfo": null,
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  1. 1.1997 +++) <BR/>Art. 1 u. 2: \u00c4nderungsvorschriften <BR/>Art. 3: AusglBGG 826-30-7 <BR/>Art. 4 u. 5: \u00c4nderungsvorschriften</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR167400996BJNE000100310",
+        "type": "article",
+        "name": "Eingangsformel",
+        "title": null,
+        "body": {
+          "content": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR167400996BJNE000200310",
+        "type": "article",
+        "name": "(XXXX) Art 1 u. 2",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR167400996BJNE000300310",
+        "type": "article",
+        "name": "Art 3",
+        "title": "Gesetz \u00fcber einen Ausgleich f\u00fcr Dienstbesch\u00e4digungen\nim Beitrittsgebiet",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR167400996BJNE000400310",
+        "type": "article",
+        "name": "(XXXX) Art 4 u. 5",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR167400996BJNE000500310",
+        "type": "article",
+        "name": "Art 6",
+        "title": "\u00dcbergangsvorschriften",
+        "body": {
+          "content": "<P>Bestand am 31. Dezember 1996 Anspruch auf eine Rente, der Pflichtbeitragszeiten zugrunde liegen, f\u00fcr die als Verdienst ein Arbeitsentgelt oder Arbeitseinkommen nach \u00a7 6 Abs. 2 oder 3 des Anspruchs- und Anwartschafts\u00fcberf\u00fchrungsgesetzes in der am 31. Dezember 1996 geltenden Fassung festgestellt worden ist, ist diese Rente neu festzustellen, wenn in diesen Zeiten ein Arbeitsentgelt oder Arbeitseinkommen bezogen wurde, das den jeweiligen Betrag der Anlage 4 des Anspruchs- und Anwartschafts\u00fcberf\u00fchrungsgesetzes nicht erreichte. Der neu festgestellten Rente sind mindestens die bisherigen pers\u00f6nlichen Entgeltpunkte zugrunde zu legen. Der Versorgungstr\u00e4ger teilt dem f\u00fcr die Neufeststellung der Leistungen zust\u00e4ndigen Tr\u00e4ger der Rentenversicherung die Daten mit, die bei der Neufeststellung als Verdienst ber\u00fccksichtigt werden. Der Versorgungstr\u00e4ger hat dem Berechtigten den Inhalt der Mitteilung nach Satz 3 durch Bescheid bekanntzugeben. Die Vorschriften des Dritten Abschnitts des Ersten Kapitels des Zehnten Buches Sozialgesetzbuch sind anzuwenden. Die Rente ist auf Antrag des Berechtigten auch dann neu festzustellen, wenn f\u00fcr sie Zeiten der Zugeh\u00f6rigkeit zu einem Versorgungssystem bei Wiedereinbeziehung in das Versorgungssystem (\u00a7 5 Abs. 2a des Anspruchs- und Anwartschafts\u00fcberf\u00fchrungsgesetzes) zu ber\u00fccksichtigen sind. Die S\u00e4tze 2 bis 5 sind anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR167400996BJNE000600310",
+        "type": "article",
+        "name": "Art 7",
+        "title": "Inkrafttreten",
+        "body": {
+          "content": "<P>(1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1997 in Kraft, soweit in den folgenden Abs\u00e4tzen nicht etwas anderes bestimmt ist.</P><P>(2)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      }
+    ]
+  }
+}

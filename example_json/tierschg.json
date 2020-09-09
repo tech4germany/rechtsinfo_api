@@ -1,0 +1,934 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR012770972",
+    "abbreviation": "TierSchG",
+    "extraAbbreviations": [],
+    "firstPublished": "1972-07-24",
+    "sourceTimestamp": "20200811214006",
+    "headingShort": null,
+    "headingLong": "Tierschutzgesetz",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1972, 1277"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Neuf",
+        "comment": "Neugefasst durch Bek. v. 18.5.2006 I 1206, 1313;"
+      },
+      {
+        "category": "Stand",
+        "comment": "zuletzt ge\u00e4ndert durch Art. 101 G v. 20.11.2019 I 1626"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "\u00c4nderung durch Art. 280 V v. 19.6.2020 I 1328 mWv 27.6.2020 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1987 +++)<BR/>(+++ Ma\u00dfgaben aufgrund des EinigVtr Anlage I Kap. VI Sachgeb. A Abschn. III    <BR/>     Nr. 14 nicht mehr anzuwenden gem. Art. 109 Nr. 2 Buchst. a DBuchst. jj <BR/>     G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)<BR/>(+++ Amtliche Hinweise des Normgebers auf EG-Recht:<BR/>     Umsetzung der<BR/>       EWGRL 628/91 (CELEX Nr: 31991L0628)<BR/>       EWGRL 630/91 (CELEX Nr: 31991L0630)<BR/>       EGRL 119/93  (CELEX Nr: 31993L0119)<BR/>       EWGRL 609/86 (CELEX Nr: 31986L0609)<BR/>       EWGRL 35/93  (CELEX Nr: 31993L0035) vgl. G v. 25.5.1998 I 1094 +++)<BR/><BR/></pre></P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR012770972BJNG000103377",
+        "type": "heading",
+        "name": "Erster Abschnitt",
+        "title": "Grundsatz",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE001303377",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": null,
+        "body": {
+          "content": "<P>Zweck dieses Gesetzes ist es, aus der Verantwortung des Menschen f\u00fcr das Tier als Mitgesch\u00f6pf dessen Leben und Wohlbefinden zu sch\u00fctzen. Niemand darf einem Tier ohne vern\u00fcnftigen Grund Schmerzen, Leiden oder Sch\u00e4den zuf\u00fcgen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000103377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG000203377",
+        "type": "heading",
+        "name": "Zweiter Abschnitt",
+        "title": "Tierhaltung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE001404377",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": null,
+        "body": {
+          "content": "<P>Wer ein Tier h\u00e4lt, betreut oder zu betreuen hat, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">muss das Tier seiner Art und seinen Bed\u00fcrfnissen entsprechend angemessen ern\u00e4hren, pflegen und verhaltensgerecht unterbringen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">darf die M\u00f6glichkeit des Tieres zu artgem\u00e4\u00dfer Bewegung nicht so einschr\u00e4nken, dass ihm Schmerzen oder vermeidbare Leiden oder Sch\u00e4den zugef\u00fcgt werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">muss \u00fcber die f\u00fcr eine angemessene Ern\u00e4hrung, Pflege und verhaltensgerechte Unterbringung des Tieres erforderlichen Kenntnisse und F\u00e4higkeiten verf\u00fcgen.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000203377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE001512360",
+        "type": "article",
+        "name": "\u00a7 2a",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (Bundesministerium) wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, die Anforderungen an die Haltung von Tieren nach \u00a7 2 n\u00e4her zu bestimmen und dabei insbesondere Vorschriften zu erlassen \u00fcber Anforderungen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">hinsichtlich der Bewegungsm\u00f6glichkeit oder der Gemeinschaftsbed\u00fcrfnisse der Tiere,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">an R\u00e4ume, K\u00e4fige, andere Beh\u00e4ltnisse und sonstige Einrichtungen zur Unterbringung von Tieren sowie an die Beschaffenheit von Anbinde-, F\u00fctterungs- und Tr\u00e4nkvorrichtungen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">hinsichtlich der Lichtverh\u00e4ltnisse und des Raumklimas bei der Unterbringung der Tiere,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">an die Pflege einschlie\u00dflich der \u00dcberwachung der Tiere; hierbei kann das Bundesministerium auch vorschreiben, dass Aufzeichnungen \u00fcber die Ergebnisse der \u00dcberwachung zu machen, aufzubewahren und der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen sind,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Kenntnisse und F\u00e4higkeiten von Personen, die Tiere halten, betreuen oder zu betreuen haben und an den Nachweis dieser Kenntnisse und F\u00e4higkeiten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Sicherheitsvorkehrungen im Falle technischer St\u00f6rungen oder im Brandfall.</LA></DD></DL></P><P>(1a) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, Anforderungen an Ziele, Mittel und Methoden bei der Ausbildung, bei der Erziehung oder beim Training von Tieren festzulegen.</P><P>(1b) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, so weit es zum Schutz der Tiere erforderlich ist und sich eine Pflicht zur Kennzeichnung nicht aus \u00a7 11a Absatz 3 ergibt, Vorschriften zur Kennzeichnung von Tieren, insbesondere von Hunden und Katzen, sowie zur Art und Durchf\u00fchrung der Kennzeichnung zu erlassen.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, ihre Bef\u00f6rderung zu regeln. Es kann hierbei insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anforderungen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">hinsichtlich der Transportf\u00e4higkeit von Tieren,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">an Transportmittel f\u00fcr Tiere</LA></DD></DL></LA><LA Size=\"normal\">festlegen,</LA></DD><DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">bestimmte Transportmittel und Versendungsarten f\u00fcr die Bef\u00f6rderung bestimmter Tiere, insbesondere die Versendung als Nachnahme, verbieten oder beschr\u00e4nken,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bestimmte Transportmittel und Versendungsarten f\u00fcr die Bef\u00f6rderung bestimmter Tiere vorschreiben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorschreiben, dass bestimmte Tiere bei der Bef\u00f6rderung von einem Betreuer begleitet werden m\u00fcssen,</LA></DD><DT>3a.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorschreiben, dass Personen, die Tiertransporte durchf\u00fchren oder hierbei mitwirken, bestimmte Kenntnisse und F\u00e4higkeiten haben und diese nachweisen m\u00fcssen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften \u00fcber das Verladen, Entladen, Unterbringen, Ern\u00e4hren und Pflegen der Tiere erlassen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Voraussetzung f\u00fcr die Durchf\u00fchrung von Tiertransporten bestimmte Bescheinigungen, Erkl\u00e4rungen oder Meldungen vorschreiben sowie deren Ausstellung und Aufbewahrung regeln,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorschreiben, dass, wer gewerbsm\u00e4\u00dfig Tiertransporte durchf\u00fchrt, einer Erlaubnis der zust\u00e4ndigen Beh\u00f6rde bedarf oder bei der zust\u00e4ndigen Beh\u00f6rde registriert sein muss, sowie die Voraussetzungen und das Verfahren bei der Erteilung der Erlaubnis und bei der Registrierung regeln,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorschreiben, dass, wer Tiere w\u00e4hrend des Transports in einer Einrichtung oder einem Betrieb ern\u00e4hren, pflegen oder unterbringen will, einer Erlaubnis der zust\u00e4ndigen Beh\u00f6rde bedarf, und die Voraussetzungen und das Verfahren der Erteilung der Erlaubnis regeln, soweit dies zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union erforderlich ist.</LA></DD></DL></P><P>(3) Des Einvernehmens des Bundesministeriums f\u00fcr Bildung und Forschung bed\u00fcrfen Rechtsverordnungen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Absatz 1, soweit sie Anforderungen an die Haltung von Tieren festlegen, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Absatz 2 Satz 1, soweit sie die Bef\u00f6rderung von Tieren regeln, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000203377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE001605360",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": null,
+        "body": {
+          "content": "<P>Es ist verboten, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Tier au\u00dfer in Notf\u00e4llen Leistungen abzuverlangen, denen es wegen seines Zustandes offensichtlich nicht gewachsen ist oder die offensichtlich seine Kr\u00e4fte \u00fcbersteigen,</LA></DD><DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Tier, an dem Eingriffe und Behandlungen vorgenommen worden sind, die einen leistungsmindernden k\u00f6rperlichen Zustand verdecken, Leistungen abzuverlangen, denen es wegen seines k\u00f6rperlichen Zustandes nicht gewachsen ist,</LA></DD><DT>1b.</DT><DD Font=\"normal\"><LA Size=\"normal\">an einem Tier im Training oder bei sportlichen Wettk\u00e4mpfen oder \u00e4hnlichen Veranstaltungen Ma\u00dfnahmen, die mit erheblichen Schmerzen, Leiden oder Sch\u00e4den verbunden sind und die die Leistungsf\u00e4higkeit von Tieren beeinflussen k\u00f6nnen, sowie an einem Tier bei sportlichen Wettk\u00e4mpfen oder \u00e4hnlichen Veranstaltungen Dopingmittel anzuwenden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein gebrechliches, krankes, abgetriebenes oder altes, im Haus, Betrieb oder sonst in Obhut des Menschen gehaltenes Tier, f\u00fcr das ein Weiterleben mit nicht behebbaren Schmerzen oder Leiden verbunden ist, zu einem anderen Zweck als zur unverz\u00fcglichen schmerzlosen T\u00f6tung zu ver\u00e4u\u00dfern oder zu erwerben; dies gilt nicht f\u00fcr die unmittelbare Abgabe eines kranken Tieres an eine Person oder Einrichtung, der eine Genehmigung nach \u00a7 8 Absatz 1 Satz 1 und, wenn es sich um ein Wirbeltier handelt, erforderlichenfalls eine Genehmigung nach Vorschriften, die auf Grund des \u00a7 9 Absatz 3 Nummer 1 und 2 erlassen worden sind, f\u00fcr Versuche an solchen Tieren erteilt worden ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein im Haus, Betrieb oder sonst in Obhut des Menschen gehaltenes Tier auszusetzen oder es zur\u00fcckzulassen, um sich seiner zu entledigen oder sich der Halter- oder Betreuerpflicht zu entziehen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein gez\u00fcchtetes oder aufgezogenes Tier einer wildlebenden Art in der freien Natur auszusetzen oder anzusiedeln, das nicht auf die zum \u00dcberleben in dem vorgesehenen Lebensraum erforderliche artgem\u00e4\u00dfe Nahrungsaufnahme vorbereitet und an das Klima angepasst ist; die Vorschriften des Jagdrechts und des Naturschutzrechts bleiben unber\u00fchrt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Tier auszubilden oder zu trainieren, sofern damit erhebliche Schmerzen, Leiden oder Sch\u00e4den f\u00fcr das Tier verbunden sind,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Tier zu einer Filmaufnahme, Schaustellung, Werbung oder \u00e4hnlichen Veranstaltung heranzuziehen, sofern damit Schmerzen, Leiden oder Sch\u00e4den f\u00fcr das Tier verbunden sind,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Tier an einem anderen lebenden Tier auf Sch\u00e4rfe abzurichten oder zu pr\u00fcfen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Tier auf ein anderes Tier zu hetzen, soweit dies nicht die Grunds\u00e4tze weidgerechter Jagdaus\u00fcbung erfordern,</LA></DD><DT>8a.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Tier zu einem derartig aggressiven Verhalten auszubilden oder abzurichten, dass dieses Verhalten<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei ihm selbst zu Schmerzen, Leiden oder Sch\u00e4den f\u00fchrt oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Rahmen jeglichen artgem\u00e4\u00dfen Kontaktes mit Artgenossen bei ihm selbst oder einem Artgenossen zu Schmerzen oder vermeidbaren Leiden oder Sch\u00e4den f\u00fchrt oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">seine Haltung nur unter Bedingungen zul\u00e4sst, die bei ihm zu Schmerzen oder vermeidbaren Leiden oder Sch\u00e4den f\u00fchren,</LA></DD></DL></LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Tier durch Anwendung von Zwang Futter einzuverleiben, sofern dies nicht aus gesundheitlichen Gr\u00fcnden erforderlich ist,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Tier Futter darzureichen, das dem Tier erhebliche Schmerzen, Leiden oder Sch\u00e4den bereitet,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Ger\u00e4t zu verwenden, das durch direkte Stromeinwirkung das artgem\u00e4\u00dfe Verhalten eines Tieres, insbesondere seine Bewegung, erheblich einschr\u00e4nkt oder es zur Bewegung zwingt und dem Tier dadurch nicht unerhebliche Schmerzen, Leiden oder Sch\u00e4den zuf\u00fcgt, soweit dies nicht nach bundes- oder landesrechtlichen Vorschriften zul\u00e4ssig ist,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Tier als Preis oder Belohnung bei einem Wettbewerb, einer Verlosung, einem Preisausschreiben oder einer \u00e4hnlichen Veranstaltung auszuloben,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Tier f\u00fcr eigene sexuelle Handlungen zu nutzen oder f\u00fcr sexuelle Handlungen Dritter abzurichten oder zur Verf\u00fcgung zu stellen und dadurch zu artwidrigem Verhalten zu zwingen.</LA></DD></DL>Satz 1 Nummer 12 gilt nicht, wenn das Tier auf einer in Satz 1 Nummer 12 bezeichneten Veranstaltung ausgelobt wird, bei der erwartet werden kann, dass die Teilnehmer der Veranstaltung im Falle des Gewinns als k\u00fcnftige Tierhalter die Einhaltung der Anforderungen des \u00a7 2 sicherstellen k\u00f6nnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000203377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG000303377",
+        "type": "heading",
+        "name": "Dritter Abschnitt",
+        "title": "T\u00f6ten von Tieren",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE001707360",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ein Wirbeltier darf nur unter wirksamer Schmerzausschaltung (Bet\u00e4ubung) in einem Zustand der Wahrnehmungs- und Empfindungslosigkeit oder sonst, soweit nach den gegebenen Umst\u00e4nden zumutbar, nur unter Vermeidung von Schmerzen get\u00f6tet werden. Ist die T\u00f6tung eines Wirbeltieres ohne Bet\u00e4ubung im Rahmen weidgerechter Aus\u00fcbung der Jagd oder auf Grund anderer Rechtsvorschriften zul\u00e4ssig oder erfolgt sie im Rahmen zul\u00e4ssiger Sch\u00e4dlingsbek\u00e4mpfungsma\u00dfnahmen, so darf die T\u00f6tung nur vorgenommen werden, wenn hierbei nicht mehr als unvermeidbare Schmerzen entstehen. Ein Wirbeltier t\u00f6ten darf nur, wer die dazu notwendigen Kenntnisse und F\u00e4higkeiten hat.</P><P>(1a) Personen, die berufs- oder gewerbsm\u00e4\u00dfig regelm\u00e4\u00dfig Wirbeltiere zum Zweck des T\u00f6tens bet\u00e4uben oder t\u00f6ten, haben gegen\u00fcber der zust\u00e4ndigen Beh\u00f6rde einen Sachkundenachweis zu erbringen. Wird im Rahmen einer T\u00e4tigkeit nach Satz 1 Gefl\u00fcgel in Anwesenheit einer Aufsichtsperson zum Zweck des T\u00f6tens bet\u00e4ubt oder get\u00f6tet, so hat au\u00dfer der Person, die die Tiere bet\u00e4ubt oder t\u00f6tet, auch die Aufsichtsperson den Sachkundenachweis zu erbringen. Werden im Rahmen einer T\u00e4tigkeit nach Satz 1 Fische in Anwesenheit einer Aufsichtsperson zum Zweck des T\u00f6tens bet\u00e4ubt oder get\u00f6tet, so gen\u00fcgt es, wenn diese den Sachkundenachweis erbringt. Die S\u00e4tze 1 bis 3 gelten nicht f\u00fcr das Bet\u00e4uben zum Zweck des T\u00f6tens und das T\u00f6ten von Wirbeltieren, die zur Verwendung in Tierversuchen bestimmt sind oder deren Organe oder Gewebe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden.</P><P>(2) F\u00fcr das Schlachten eines warmbl\u00fctigen Tieres gilt \u00a7 4a.</P><P>(3) F\u00fcr das T\u00f6ten von Wirbeltieren, ausschlie\u00dflich um ihre Organe oder Gewebe zu wissenschaftlichen Zwecken zu verwenden, gilt \u00a7 7a Absatz 2 Nummer 1 entsprechend. Hunde, Katzen und Primaten d\u00fcrfen zu wissenschaftlichen Zwecken nur get\u00f6tet werden, soweit sie entweder f\u00fcr einen solchen Zweck oder f\u00fcr eine Verwendung in Tierversuchen gez\u00fcchtet worden sind. Abweichend von Satz 2 kann die zust\u00e4ndige Beh\u00f6rde, soweit es mit dem Schutz der Tiere vereinbar ist, das T\u00f6ten von Tieren, die nicht nach Satz 2 gez\u00fcchtet worden sind, genehmigen, soweit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Satz 2 gez\u00fcchtete Tiere mit den Eigenschaften, die f\u00fcr den jeweiligen Zweck erforderlich sind, nicht zur Verf\u00fcgung stehen oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die jeweiligen wissenschaftlichen Zwecke die Verwendung von Tieren erforderlich machen, die nicht nach Satz 2 gez\u00fcchtet worden sind.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000303377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE001805360",
+        "type": "article",
+        "name": "\u00a7 4a",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ein warmbl\u00fctiges Tier darf nur geschlachtet werden, wenn es vor Beginn des Blutentzugs zum Zweck des Schlachtens bet\u00e4ubt worden ist.</P><P>(2) Abweichend von Absatz 1 bedarf es keiner Bet\u00e4ubung, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie bei Notschlachtungen nach den gegebenen Umst\u00e4nden nicht m\u00f6glich ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zust\u00e4ndige Beh\u00f6rde eine Ausnahmegenehmigung f\u00fcr ein Schlachten ohne Bet\u00e4ubung (Sch\u00e4chten) erteilt hat; sie darf die Ausnahmegenehmigung nur insoweit erteilen, als es erforderlich ist, den Bed\u00fcrfnissen von Angeh\u00f6rigen bestimmter Religionsgemeinschaften im Geltungsbereich dieses Gesetzes zu entsprechen, denen zwingende Vorschriften ihrer Religionsgemeinschaft das Sch\u00e4chten vorschreiben oder den Genuss von Fleisch nicht gesch\u00e4chteter Tiere untersagen oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">dies als Ausnahme durch Rechtsverordnung nach \u00a7 4b Nr. 3 bestimmt ist.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000303377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE001910119",
+        "type": "article",
+        "name": "\u00a7 4b",
+        "title": null,
+        "body": {
+          "content": "<P>Das Bundesministerium wird erm\u00e4chtigt, f\u00fcr die Zwecke der \u00a7\u00a7 4 und 4a durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Schlachten von Fischen und anderen kaltbl\u00fctigen Tieren zu regeln,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bestimmte T\u00f6tungsarten und Bet\u00e4ubungsverfahren n\u00e4her zu regeln, vorzuschreiben, zuzulassen oder zu verbieten,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen n\u00e4her zu regeln, unter denen Schlachtungen im Sinne des \u00a7 4a Abs. 2 Nr. 2 vorgenommen werden d\u00fcrfen,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">n\u00e4here Vorschriften \u00fcber Art und Umfang der zum Bet\u00e4uben oder T\u00f6ten von Wirbeltieren erforderlichen Kenntnisse und F\u00e4higkeiten sowie \u00fcber das Verfahren zu deren Nachweis zu erlassen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht gewerbliche T\u00e4tigkeiten zu bestimmen, die den Erwerb des Sachkundenachweises zum T\u00f6ten von Wirbeltieren erfordern,</LA></DD></DL></LA><LA Size=\"normal\">um sicherzustellen, dass den Tieren nicht mehr als unvermeidbare Schmerzen zugef\u00fcgt werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Schlachten von Tieren im Rahmen der Bestimmungen des Europ\u00e4ischen \u00dcbereinkommens vom 10. Mai 1979 \u00fcber den Schutz von Schlachttieren (BGBl. 1983 II S. 770) n\u00e4her zu regeln,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Schlachten von Gefl\u00fcgel Ausnahmen von der Bet\u00e4ubungspflicht zu bestimmen.</LA></DD></DL>Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe b und d bed\u00fcrfen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit sie das Bet\u00e4uben oder T\u00f6ten mittels gef\u00e4hrlicher Stoffe oder Gemische im Sinne des Chemikaliengesetzes oder darauf bezogene Voraussetzungen f\u00fcr den Erwerb eines Sachkundenachweises betreffen, des Einvernehmens der Bundesministerien f\u00fcr Wirtschaft und Energie sowie f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit sie das Bet\u00e4uben oder T\u00f6ten von Tieren, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, oder darauf bezogene Voraussetzungen f\u00fcr den Erwerb eines Sachkundenachweises betreffen, des Einvernehmens des Bundesministeriums f\u00fcr Bildung und Forschung.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000303377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG000403377",
+        "type": "heading",
+        "name": "Vierter Abschnitt",
+        "title": "Eingriffe an Tieren",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE002006360",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": null,
+        "body": {
+          "content": "<P>(1) An einem Wirbeltier darf ohne Bet\u00e4ubung ein mit Schmerzen verbundener Eingriff nicht vorgenommen werden. Die Bet\u00e4ubung warmbl\u00fctiger Wirbeltiere sowie von Amphibien und Reptilien ist von einem Tierarzt vorzunehmen. Dies gilt nicht, soweit die Bet\u00e4ubung ausschlie\u00dflich durch \u00e4u\u00dferliche Anwendung eines Tierarzneimittels erfolgt, das nach arzneimittelrechtlichen Vorschriften zugelassen ist, um eine \u00f6rtliche Schmerzausschaltung zu erreichen, und nach dem Stand von Wissenschaft und Technik zum Zweck der Durchf\u00fchrung des jeweiligen Eingriffs geeignet ist. Dies gilt ferner nicht f\u00fcr einen Eingriff im Sinne des \u00a7 6 Absatz 1 Satz 2 Nummer 2a, soweit die Bet\u00e4ubung ohne Beeintr\u00e4chtigung des Zustandes der Wahrnehmungs- und Empfindungsf\u00e4higkeit, ausgenommen die Schmerzempfindung, durch ein Tierarzneimittel erfolgt, das nach arzneimittelrechtlichen Vorschriften f\u00fcr die Schmerzausschaltung bei diesem Eingriff zugelassen ist. F\u00fcr die Bet\u00e4ubung mit Bet\u00e4ubungspatronen kann die zust\u00e4ndige Beh\u00f6rde Ausnahmen von Satz 2 zulassen, sofern ein berechtigter Grund nachgewiesen wird. Ist nach den Abs\u00e4tzen 2, 3 und 4 Nr. 1 eine Bet\u00e4ubung nicht erforderlich, sind alle M\u00f6glichkeiten auszusch\u00f6pfen, um die Schmerzen oder Leiden der Tiere zu vermindern.</P><P>(2) Eine Bet\u00e4ubung ist nicht erforderlich, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn bei vergleichbaren Eingriffen am Menschen eine Bet\u00e4ubung in der Regel unterbleibt oder der mit dem Eingriff verbundene Schmerz geringf\u00fcgiger ist als die mit einer Bet\u00e4ubung verbundene Beeintr\u00e4chtigung des Befindens des Tieres,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die Bet\u00e4ubung im Einzelfall nach tier\u00e4rztlichem Urteil nicht durchf\u00fchrbar erscheint.</LA></DD></DL></P><P>(3) Eine Bet\u00e4ubung ist ferner nicht erforderlich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Kastrieren von unter vier Wochen alten m\u00e4nnlichen Rindern, Schafen und Ziegen, sofern kein von der normalen anatomischen Beschaffenheit abweichender Befund vorliegt,</LA></DD><DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Enthornen oder das Verhindern des Hornwachstums bei unter sechs Wochen alten Rindern,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das K\u00fcrzen des Schwanzes von unter vier Tage alten Ferkeln sowie von unter acht Tage alten L\u00e4mmern,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das K\u00fcrzen des Schwanzes von unter acht Tage alten L\u00e4mmern mittels elastischer Ringe,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Abschleifen der Eckz\u00e4hne von unter acht Tage alten Ferkeln, sofern dies zum Schutz des Muttertieres oder der Wurfgeschwister unerl\u00e4\u00dflich ist,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Absetzen des krallentragenden letzten Zehengliedes bei Masthahnenk\u00fcken, die als Zuchth\u00e4hne Verwendung finden sollen, w\u00e4hrend des ersten Lebenstages,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kennzeichnung <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">durch implantierten elektronischen Transponder,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">von S\u00e4ugetieren au\u00dfer Schweinen, Schafen, Ziegen und Kaninchen durch Ohr- oder Schenkelt\u00e4towierung innerhalb der ersten zwei Lebenswochen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">von Schweinen, Schafen, Ziegen und Kaninchen durch Ohrt\u00e4towierung,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">von Schweinen durch Schlagstempel und</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">von landwirtschaftlichen Nutztieren durch Ohrmarke oder Fl\u00fcgelmarke.</LA></DD></DL></LA></DD></DL></P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber Absatz 3 hinaus weitere Ma\u00dfnahmen von der Bet\u00e4ubungspflicht auszunehmen, soweit dies mit \u00a7 1 vereinbar ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verfahren und Methoden zur Durchf\u00fchrung von Ma\u00dfnahmen nach Absatz 3 sowie auf Grund einer Rechtsverordnung nach Nummer 1 bestimmter Ma\u00dfnahmen vorzuschreiben, zuzulassen oder zu verbieten, soweit dies zum Schutz der Tiere erforderlich ist.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000403377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE002108360",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Verboten ist das vollst\u00e4ndige oder teilweise Amputieren von K\u00f6rperteilen oder das vollst\u00e4ndige oder teilweise Entnehmen oder Zerst\u00f6ren von Organen oder Geweben eines Wirbeltieres. Das Verbot gilt nicht, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Eingriff im Einzelfall<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach tier\u00e4rztlicher Indikation geboten ist oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei jagdlich zu f\u00fchrenden Hunden f\u00fcr die vorgesehene Nutzung des Tieres unerl\u00e4\u00dflich ist und tier\u00e4rztliche Bedenken nicht entgegenstehen,</LA></DD></DL></LA></DD><DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach artenschutzrechtlichen Vorschriften vorgeschriebene Kennzeichnung vorgenommen wird,</LA></DD><DT>1b.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Kennzeichnung von Pferden durch Schenkelbrand vorgenommen wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Fall des \u00a7 5 Abs. 3 Nr. 1 oder 7 vorliegt,</LA></DD><DT>2a.</DT><DD Font=\"normal\"><LA Size=\"normal\">unter acht Tage alte m\u00e4nnliche Schweine kastriert werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Fall des \u00a7 5 Abs. 3 Nr. 2 bis 6 vorliegt und der Eingriff im Einzelfall f\u00fcr die vorgesehene Nutzung des Tieres zu dessen Schutz oder zum Schutz anderer Tiere unerl\u00e4\u00dflich ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das vollst\u00e4ndige oder teilweise Entnehmen von Organen oder Geweben erforderlich ist, um zu anderen als zu wissenschaftlichen Zwecken die Organe oder Gewebe zu transplantieren, Kulturen anzulegen oder isolierte Organe, Gewebe oder Zellen zu untersuchen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Verhinderung der unkontrollierten Fortpflanzung oder - soweit tier\u00e4rztliche Bedenken nicht entgegenstehen - zur weiteren Nutzung oder Haltung des Tieres eine Unfruchtbarmachung vorgenommen wird.</LA></DD></DL>Eingriffe nach Satz 2 Nummer 1 und 5 sind durch einen Tierarzt vorzunehmen; im Falle eines Eingriffs nach Satz 2 Nummer 2a gilt dies auch, sofern ein von der normalen anatomischen Beschaffenheit abweichender Befund vorliegt. Eingriffe nach <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Satz 2 Nummer 1a, 1b, 2 und 3,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nummer 2a, die nicht durch einen Tierarzt vorzunehmen sind, sowie</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Absatz 3</LA></DD></DL>d\u00fcrfen auch durch eine andere Person vorgenommen werden, die die dazu notwendigen Kenntnisse und F\u00e4higkeiten hat. Im Anschluss an die Kastration eines \u00fcber sieben Tage alten Schweines sind schmerzstillende Arzneimittel einschlie\u00dflich Bet\u00e4ubungsmittel bei dem Tier anzuwenden.</P><P>(1a) F\u00fcr die Eingriffe nach Absatz 1 Satz 2 Nummer 4 gelten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 7 Absatz 1 Satz 2 Nummer 1 und Satz 3, \u00a7 7a Absatz 2 Nummer 1, 4 und 5 und \u00a7 9 Absatz 5 Satz 1, jeweils auch in Verbindung mit \u00a7 9 Absatz 6 Satz 1, sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften in Rechtsverordnungen, die auf Grund des <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 7 Absatz 3 oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 9 Absatz 1, 2 und 3 Nummer 2, Absatz 4 Satz 1 Nummer 3 und Satz 2 und Absatz 5 Satz 2, jeweils auch in Verbindung mit Absatz 6 Satz 2,</LA></DD></DL>erlassen worden sind, soweit dies in einer Rechtsverordnung, die das Bundesministerium mit Zustimmung des Bundesrates erlassen hat, vorgesehen ist,</LA></DD></DL>entsprechend. Derjenige, der einen Eingriff nach Absatz 1 Satz 2 Nummer 4 durchf\u00fchren will, hat den Eingriff sp\u00e4testens zwei Wochen vor Beginn der zust\u00e4ndigen Beh\u00f6rde anzuzeigen. Die Frist braucht nicht eingehalten zu werden, wenn in Notf\u00e4llen eine sofortige Durchf\u00fchrung des Eingriffes erforderlich ist; die Anzeige ist unverz\u00fcglich nachzuholen. Die in Satz 2 genannte Frist kann von der zust\u00e4ndigen Beh\u00f6rde bei Bedarf auf bis zu vier Wochen verl\u00e4ngert werden. In der Anzeige sind anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Zweck des Eingriffs,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art und die Zahl der f\u00fcr den Eingriff vorgesehenen Tiere,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art und die Durchf\u00fchrung des Eingriffs einschlie\u00dflich der Bet\u00e4ubung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ort, Beginn und voraussichtliche Dauer des Vorhabens,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name, Anschrift und Fachkenntnisse des verantwortlichen Leiters des Vorhabens und seines Stellvertreters sowie der durchf\u00fchrenden Person und die f\u00fcr die Nachbehandlung in Frage kommenden Personen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Begr\u00fcndung f\u00fcr den Eingriff.</LA></DD></DL></P><P>(2) Verboten ist, beim Amputieren oder Kastrieren elastische Ringe zu verwenden; dies gilt nicht im Falle des Absatzes 3 Nr. 3 oder des \u00a7 5 Abs. 3 Nr. 4.</P><P>(3) Abweichend von Absatz 1 Satz 1 kann die zust\u00e4ndige Beh\u00f6rde <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das K\u00fcrzen der Schnabelspitzen von Legehennen bei unter zehn Tage alten K\u00fcken,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das K\u00fcrzen der Schnabelspitzen bei Nutzgefl\u00fcgel, das nicht unter Nummer 1 f\u00e4llt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das K\u00fcrzen des bindegewebigen Endst\u00fcckes des Schwanzes von unter drei Monate alten m\u00e4nnlichen K\u00e4lbern mittels elastischer Ringe</LA></DD></DL>erlauben. Die Erlaubnis darf nur erteilt werden, wenn glaubhaft dargelegt wird, dass der Eingriff im Hinblick auf die vorgesehene Nutzung zum Schutz der Tiere unerl\u00e4\u00dflich ist. Die Erlaubnis ist zu befristen und hat im Falle der Nummer 1 Bestimmungen \u00fcber Art, Umfang und Zeitpunkt des Eingriffs und die durchf\u00fchrende Person zu enthalten.</P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die dauerhafte Kennzeichnung von Tieren, an denen nicht offensichtlich erkennbare Eingriffe vorgenommen worden sind, vorzuschreiben, wenn dies zum Schutz der Tiere erforderlich ist.</P><P>(5) Der zust\u00e4ndigen Beh\u00f6rde ist im Falle des Absatzes 1 Satz 2 Nr. 3 auf Verlangen glaubhaft darzulegen, dass der Eingriff f\u00fcr die vorgesehene Nutzung unerl\u00e4sslich ist.</P><P>(6) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates f\u00fcr Eingriffe im Sinne des Absatzes 1 Satz 2 Nummer 2a abweichend von \u00a7 5 Absatz 1 Satz 2 zuzulassen, dass die Bet\u00e4ubung von bestimmten anderen Personen vorgenommen werden darf, soweit es mit dem Schutz der Tiere vereinbar ist. In der Rechtsverordnung nach Satz 1 sind die Anforderungen zu regeln, unter denen diese Personen die Bet\u00e4ubung vornehmen d\u00fcrfen; dabei k\u00f6nnen insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verfahren und Methoden einschlie\u00dflich der Arzneimittel und der Ger\u00e4te zur Durchf\u00fchrung der Bet\u00e4ubung sowie des Eingriffes nach Satz 1 vorgeschrieben oder verboten werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorgesehen werden, dass die Person, die die Bet\u00e4ubung durchf\u00fchrt, die f\u00fcr diese T\u00e4tigkeit erforderliche Zuverl\u00e4ssigkeit und die erforderlichen Kenntnisse und F\u00e4higkeiten zu besitzen und diese nachzuweisen hat, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">n\u00e4here Vorschriften \u00fcber die Art und den Umfang der nach Nummer 2 erforderlichen Kenntnisse und F\u00e4higkeiten erlassen sowie Anforderungen an den Nachweis und die Aufrechterhaltung der erforderlichen Kenntnisse und F\u00e4higkeiten festgelegt und das Verfahren des Nachweises geregelt werden.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000403377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE002205360",
+        "type": "article",
+        "name": "\u00a7 6a",
+        "title": null,
+        "body": {
+          "content": "<P>Die Vorschriften dieses Abschnittes gelten nicht f\u00fcr Tierversuche nach \u00a7 7 Absatz 2 Satz 1, auch in Verbindung mit Satz 2.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000403377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG000503377",
+        "type": "heading",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Tierversuche",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE006300360",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die Vorschriften dieses Abschnitts dienen dem Schutz von Tieren, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden. Dazu sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tierversuche im Hinblick auf <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die den Tieren zuzuf\u00fcgenden Schmerzen, Leiden und Sch\u00e4den,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zahl der verwendeten Tiere,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die artspezifische F\u00e4higkeit der verwendeten Tiere, unter den Versuchseinwirkungen zu leiden,</LA></DD></DL>auf das unerl\u00e4ssliche Ma\u00df zu beschr\u00e4nken und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Tiere, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, so zu halten, zu z\u00fcchten und zu pflegen, dass sie nur in dem Umfang belastet werden, der f\u00fcr die Verwendung zu wissenschaftlichen Zwecken unerl\u00e4sslich ist.</LA></DD></DL>Tierversuche d\u00fcrfen nur von Personen geplant und durchgef\u00fchrt werden, die die daf\u00fcr erforderlichen Kenntnisse und F\u00e4higkeiten haben. \u00a7 1 bleibt unber\u00fchrt.</P><P>(2) Tierversuche im Sinne dieses Gesetzes sind Eingriffe oder Behandlungen zu Versuchszwecken <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Tieren, wenn sie mit Schmerzen, Leiden oder Sch\u00e4den f\u00fcr diese Tiere verbunden sein k\u00f6nnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Tieren, die dazu f\u00fchren k\u00f6nnen, dass Tiere geboren werden oder schl\u00fcpfen, die Schmerzen, Leiden oder Sch\u00e4den erleiden, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">am Erbgut von Tieren, wenn sie mit Schmerzen, Leiden oder Sch\u00e4den f\u00fcr die erbgutver\u00e4nderten Tiere oder deren Tr\u00e4gertiere verbunden sein k\u00f6nnen.</LA></DD></DL>Als Tierversuche gelten auch Eingriffe oder Behandlungen, die nicht Versuchszwecken dienen, und <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zur Herstellung, Gewinnung, Aufbewahrung oder Vermehrung von Stoffen, Produkten oder Organismen vorgenommen werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch die Organe oder Gewebe ganz oder teilweise entnommen werden, um zu wissenschaftlichen Zwecken <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Organe oder Gewebe zu transplantieren,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Kulturen anzulegen oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">isolierte Organe, Gewebe oder Zellen zu untersuchen,</LA></DD></DL>oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu Aus-, Fort- oder Weiterbildungszwecken vorgenommen werden,</LA></DD></DL>soweit eine der in Satz 1 Nummer 1 bis 3 genannten Voraussetzungen vorliegt. Nicht als Tierversuch gilt das T\u00f6ten eines Tieres, soweit dies ausschlie\u00dflich erfolgt, um dessen Organe oder Gewebe zu wissenschaftlichen Zwecken zu verwenden.</P><P>(3) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates die n\u00e4heren Einzelheiten zu den Anforderungen nach Absatz 1 Satz 2 Nummer 2 zu regeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000503377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE002308360",
+        "type": "article",
+        "name": "\u00a7 7a",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Tierversuche d\u00fcrfen nur durchgef\u00fchrt werden, soweit sie zu einem der folgenden Zwecke unerl\u00e4sslich sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundlagenforschung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Forschung mit einem der folgenden Ziele: <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorbeugung, Erkennung oder Behandlung von Krankheiten, Leiden, K\u00f6rpersch\u00e4den oder k\u00f6rperlichen Beschwerden bei Menschen oder Tieren,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Erkennung oder Beeinflussung physiologischer Zust\u00e4nde oder Funktionen bei Menschen oder Tieren,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00f6rderung des Wohlergehens von Tieren oder Verbesserung der Haltungsbedingungen von landwirtschaftlichen Nutztieren,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schutz der Umwelt im Interesse der Gesundheit oder des Wohlbefindens von Menschen oder Tieren,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Entwicklung und Herstellung sowie Pr\u00fcfung der Qualit\u00e4t, Wirksamkeit oder Unbedenklichkeit von Arzneimitteln, Lebensmitteln, Futtermitteln oder anderen Stoffen oder Produkten mit einem der in Nummer 2 Buchstabe a bis c oder Nummer 3 genannten Ziele,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pr\u00fcfung von Stoffen oder Produkten auf ihre Wirksamkeit gegen tierische Sch\u00e4dlinge,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Forschung im Hinblick auf die Erhaltung der Arten,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aus-, Fort- oder Weiterbildung,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">gerichtsmedizinische Untersuchungen.</LA></DD></DL>Tierversuche zur Aus-, Fort- oder Weiterbildung nach Satz 1 Nummer 7 d\u00fcrfen nur durchgef\u00fchrt werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an einer Hochschule, einer anderen wissenschaftlichen Einrichtung oder einem Krankenhaus oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Rahmen einer Aus-, Fort- oder Weiterbildung f\u00fcr Heil- oder Heilhilfsberufe oder naturwissenschaftliche Hilfsberufe.</LA></DD></DL></P><P>(2) Bei der Entscheidung, ob ein Tierversuch unerl\u00e4sslich ist, sowie bei der Durchf\u00fchrung von Tierversuchen sind folgende Grunds\u00e4tze zu beachten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Der jeweilige Stand der wissenschaftlichen Erkenntnisse ist zugrunde zu legen.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Es ist zu pr\u00fcfen, ob der verfolgte Zweck nicht durch andere Methoden oder Verfahren erreicht werden kann.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versuche an Wirbeltieren oder Kopff\u00fc\u00dfern d\u00fcrfen nur durchgef\u00fchrt werden, wenn die zu erwartenden Schmerzen, Leiden oder Sch\u00e4den der Tiere im Hinblick auf den Versuchszweck ethisch vertretbar sind.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schmerzen, Leiden oder Sch\u00e4den d\u00fcrfen den Tieren nur in dem Ma\u00dfe zugef\u00fcgt werden, als es f\u00fcr den verfolgten Zweck unerl\u00e4sslich ist; insbesondere d\u00fcrfen sie nicht aus Gr\u00fcnden der Arbeits-, Zeit- oder Kostenersparnis zugef\u00fcgt werden.</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versuche an Tieren, deren artspezifische F\u00e4higkeit, unter den Versuchseinwirkungen zu leiden, st\u00e4rker entwickelt ist, d\u00fcrfen nur durchgef\u00fchrt werden, soweit Tiere, deren derartige F\u00e4higkeit weniger stark entwickelt ist, f\u00fcr den verfolgten Zweck nicht ausreichen.</LA></DD></DL></P><P>(3) Tierversuche zur Entwicklung oder Erprobung von Waffen, Munition und dazugeh\u00f6rigem Ger\u00e4t sind verboten.</P><P>(4) Tierversuche zur Entwicklung von Tabakerzeugnissen, Waschmitteln und Kosmetika sind grunds\u00e4tzlich verboten. Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen zu bestimmen, soweit es erforderlich ist, um <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">konkrete Gesundheitsgef\u00e4hrdungen abzuwehren, und die notwendigen neuen Erkenntnisse nicht auf andere Weise erlangt werden k\u00f6nnen, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rechtsakte der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union durchzuf\u00fchren.</LA></DD></DL></P><P>(5) Ein Tierversuch gilt als abgeschlossen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">keine weiteren Beobachtungen mehr f\u00fcr den Tierversuch anzustellen sind oder,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit genetisch ver\u00e4nderte, neue Tierlinien verwendet werden, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">an der Nachkommenschaft keine weiteren Beobachtungen mehr anzustellen sind und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht mehr erwartet wird, dass die Nachkommenschaft auf Grund der biotechnischen oder gentechnischen Ver\u00e4nderungen Schmerzen oder Leiden empfindet oder dauerhaft Sch\u00e4den erleidet.</LA></DD></DL></LA></DD></DL></P><P>(6) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften dieses Gesetzes oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund dieses Gesetzes erlassene Rechtsverordnungen zur Durchf\u00fchrung, Genehmigung und Anzeige von Tierversuchen</LA></DD></DL>auf Versuche an Tieren in einem Entwicklungsstadium vor der Geburt oder dem Schlupf zu erstrecken, soweit dies zum Schutz dieser Tiere auf Grund ihrer F\u00e4higkeit, Schmerzen oder Leiden zu empfinden oder Sch\u00e4den zu erleiden, und zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Union erforderlich ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000503377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE002406360",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Wer Versuche an Wirbeltieren oder Kopff\u00fc\u00dfern durchf\u00fchren will, bedarf der Genehmigung des Versuchsvorhabens durch die zust\u00e4ndige Beh\u00f6rde. Die Genehmigung eines Versuchsvorhabens ist zu erteilen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wissenschaftlich begr\u00fcndet dargelegt ist, dass <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen des \u00a7 7a Absatz 1 und 2 Nummer 1 bis 3 vorliegen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">das angestrebte Ergebnis trotz Aussch\u00f6pfens der zug\u00e4nglichen Informationsm\u00f6glichkeiten nicht hinreichend bekannt ist oder die \u00dcberpr\u00fcfung eines hinreichend bekannten Ergebnisses durch einen Doppel- oder Wiederholungsversuch unerl\u00e4sslich ist,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der verantwortliche Leiter des Versuchsvorhabens und sein Stellvertreter die erforderliche fachliche Eignung insbesondere hinsichtlich der \u00dcberwachung der Tierversuche haben und keine Tatsachen vorliegen, aus denen sich Bedenken gegen ihre Zuverl\u00e4ssigkeit ergeben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erforderlichen R\u00e4umlichkeiten, Anlagen und anderen sachlichen Mittel den Anforderungen entsprechen, die in einer auf Grund des \u00a7 9 Absatz 4 Satz 1 Nummer 1 erlassenen Rechtsverordnung festgelegt sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die personellen und organisatorischen Voraussetzungen f\u00fcr die Durchf\u00fchrung der Tierversuche einschlie\u00dflich der T\u00e4tigkeit des Tierschutzbeauftragten gegeben sind,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Haltung der Tiere den Anforderungen des \u00a7 2 und den in einer auf Grund des \u00a7 2a Absatz 1 Nummer 1 bis 4, auch in Verbindung mit \u00a7 11 Absatz 3, oder des \u00a7 2a Absatz 2 Satz 1 erlassenen Rechtsverordnung festgelegten Anforderungen entspricht und ihre medizinische Versorgung sichergestellt ist,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einhaltung der Vorschriften des \u00a7 7 Absatz 1 Satz 2 Nummer 1 und des \u00a7 7a Absatz 2 Nummer 4 und 5 erwartet werden kann,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einhaltung von <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Sachkundeanforderungen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften zur Schmerzlinderung und Bet\u00e4ubung von Tieren,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften zur erneuten Verwendung von Tieren,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Verwendungsverboten und -beschr\u00e4nkungen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften zur Vermeidung von Schmerzen, Leiden und Sch\u00e4den nach Erreichen des Zwecks des Tierversuches,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften zur Verhinderung des Todes eines Tieres unter der Versuchseinwirkung oder zur Vermeidung von Schmerzen und Leiden beim Tod eines Tieres und</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften zu der Vorgehensweise nach Abschluss des Tierversuchs,</LA></DD></DL>die in einer auf Grund des \u00a7 2a Absatz 1 Nummer 5 oder des \u00a7 4b Satz 1 Nummer 1 Buchstabe b, jeweils auch in Verbindung mit \u00a7 11 Absatz 3, oder des \u00a7 9 Absatz 1 bis 3 und 4 Satz 1 Nummer 2 oder 3 oder Satz 2 erlassenen Rechtsverordnung festgelegt sind, erwartet werden kann und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">das F\u00fchren von Aufzeichnungen nach \u00a7 9 Absatz 5 Satz 1 in Verbindung mit den in einer auf Grund des \u00a7 9 Absatz 5 Satz 2 erlassenen Rechtsverordnung festgelegten Anforderungen erwartet werden kann.</LA></DD></DL></P><P>(2) Wird die Genehmigung einer Hochschule oder anderen Einrichtung erteilt, so m\u00fcssen die Personen, die die Tierversuche durchf\u00fchren, bei der Einrichtung besch\u00e4ftigt oder mit Zustimmung des verantwortlichen Leiters zur Benutzung der Einrichtung befugt sein.</P><P>(3) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Form und den Inhalt des Antrags auf Erteilung einer Genehmigung nach Absatz 1 Satz 1 sowie die antragsberechtigten Personen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Genehmigungsverfahren einschlie\u00dflich dessen Dauer,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Inhalt des Genehmigungsbescheids,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren im Falle nachtr\u00e4glicher \u00c4nderungen der der Genehmigung zugrunde liegenden wesentlichen Sachverhalte, einschlie\u00dflich der Pflicht zur Anzeige oder Genehmigung solcher \u00c4nderungen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Befristung von Genehmigungen oder die Verl\u00e4ngerung der Geltungsdauer von Genehmigungen und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Vorbehalt des Widerrufs von Genehmigungen.</LA></DD></DL></P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates vorzusehen, dass Tierversuche einer Einstufung hinsichtlich ihres Schweregrads nach Artikel 15 Absatz 1 der Richtlinie 2010/63/EU des Europ\u00e4ischen Parlaments und des Rates vom 22. September 2010 zum Schutz der f\u00fcr wissenschaftliche Zwecke verwendeten Tiere (ABl. L 276 vom 20.10.2010, S. 33) unterzogen werden, und dabei das Verfahren und den Inhalt der Einstufung sowie die diesbez\u00fcglichen Mitwirkungspflichten des Antragstellers zu regeln, soweit dies zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Union erforderlich ist.</P><P>(5) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates vorzusehen, dass Versuchsvorhaben einer r\u00fcckblickenden Bewertung durch die zust\u00e4ndige Beh\u00f6rde unterzogen werden, und dabei das Verfahren und den Inhalt der Bewertung sowie die diesbez\u00fcglichen Mitwirkungspflichten des Antragstellers zu regeln, soweit dies zur Verbesserung des Schutzes der Tiere in Tierversuchen und zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Union erforderlich ist.</P><P>(6) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates vorzusehen, dass die zust\u00e4ndigen Beh\u00f6rden Zusammenfassungen zu genehmigten Versuchsvorhaben zum Zwecke der Ver\u00f6ffentlichung \u00fcbermitteln, die Angaben \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ziele des Versuchsvorhabens einschlie\u00dflich des zu erwartenden Nutzens,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anzahl, die Art und die zu erwartenden Schmerzen, Leiden und Sch\u00e4den der zu verwendenden Tiere und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erf\u00fcllung der Anforderungen des \u00a7 7 Absatz 1 Satz 2 Nummer 1 und des \u00a7 7a Absatz 2 Nummer 2, 4 und 5</LA></DD></DL>enthalten, und die Form der Zusammenfassungen sowie das Verfahren ihrer Ver\u00f6ffentlichung zu regeln, soweit dies zur Verbesserung des Schutzes der Tiere in Tierversuchen und zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Union erforderlich ist. Es kann dabei vorsehen, dass die Ver\u00f6ffentlichung der Zusammenfassungen durch das Bundesinstitut f\u00fcr Risikobewertung erfolgt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000503377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE002505360",
+        "type": "article",
+        "name": "\u00a7 8a",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Wer ein Versuchsvorhaben, in dem Wirbeltiere oder Kopff\u00fc\u00dfer verwendet werden, durchf\u00fchren will, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das ausschlie\u00dflich Tierversuche zum Gegenstand hat, deren Durchf\u00fchrung ausdr\u00fccklich <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Gesetz oder Rechtsverordnung, durch das Arzneibuch oder durch unmittelbar geltenden Rechtsakt der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union vorgeschrieben ist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einer von der Bundesregierung oder einem Bundesministerium erlassenen allgemeinen Verwaltungsvorschrift vorgesehen ist oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund eines Gesetzes oder einer Rechtsverordnung oder eines unmittelbar anwendbaren Rechtsaktes der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union beh\u00f6rdlich oder gerichtlich angeordnet oder im Einzelfall als Voraussetzung f\u00fcr eine beh\u00f6rdliche Entscheidung gefordert wird,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das ausschlie\u00dflich Tierversuche zum Gegenstand hat, die als Impfungen, Blutentnahmen oder sonstige diagnostische Ma\u00dfnahmen nach bereits erprobten Verfahren an Tieren vorgenommen werden und <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Erkennung von Krankheiten, Leiden, K\u00f6rpersch\u00e4den oder k\u00f6rperlichen Beschwerden bei Menschen oder Tieren oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Pr\u00fcfung von Seren, Blutzubereitungen, Impfstoffen, Antigenen oder Testallergenen im Rahmen von Zulassungsverfahren oder Chargenpr\u00fcfungen</LA></DD></DL>dienen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das ausschlie\u00dflich Tierversuche nach \u00a7 7 Absatz 2 Satz 2 Nummer 1 oder 2 zum Gegenstand hat, die nach bereits erprobten Verfahren <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Herstellung, Gewinnung, Aufbewahrung oder Vermehrung von Stoffen, Produkten oder Organismen oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">zu diagnostischen Zwecken</LA></DD></DL>vorgenommen werden, oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das ausschlie\u00dflich Tierversuche zum Gegenstand hat, die zur Aus-, Fort- oder Weiterbildung nach bereits erprobten Verfahren durchgef\u00fchrt werden,</LA></DD></DL>hat das Versuchsvorhaben der zust\u00e4ndigen Beh\u00f6rde anzuzeigen.</P><P>(2) Absatz 1 gilt nicht f\u00fcr Versuchsvorhaben, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in denen Primaten verwendet werden oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Tierversuche zum Gegenstand haben, die nach Ma\u00dfgabe des Artikels 15 Absatz 1 in Verbindung mit Anhang VIII der Richtlinie <NB>2010/63/EU</NB> als \u201eschwer\u201c einzustufen sind.</LA></DD></DL></P><P>(3) Wer ein Versuchsvorhaben, in dem Zehnfu\u00dfkrebse verwendet werden, durchf\u00fchren will, hat das Versuchsvorhaben der zust\u00e4ndigen Beh\u00f6rde anzuzeigen.</P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates vorzusehen, dass Versuche an anderen wirbellosen Tieren als Kopff\u00fc\u00dfern und Zehnfu\u00dfkrebsen der zust\u00e4ndigen Beh\u00f6rde anzuzeigen sind, soweit diese Tiere \u00fcber eine den Wirbeltieren entsprechende artspezifische F\u00e4higkeit verf\u00fcgen, unter den Versuchseinwirkungen zu leiden, und es zu ihrem Schutz erforderlich ist.</P><P>(5) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Form und den Inhalt der Anzeige nach Absatz 1 oder 3,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren der Anzeige nach Absatz 1 oder 3 einschlie\u00dflich der f\u00fcr die Anzeige geltenden Fristen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Zeitpunkt, ab dem oder bis zu dem die Durchf\u00fchrung angezeigter Versuchsvorhaben nach Absatz 1 oder 3 zul\u00e4ssig ist, und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren im Falle nachtr\u00e4glicher \u00c4nderungen der im Rahmen der Anzeige nach Absatz 1 oder 3 mitgeteilten Sachverhalte.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000503377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE002707119",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates n\u00e4here Vorschriften \u00fcber die Art und den Umfang der nach \u00a7 7 Absatz 1 Satz 3 erforderlichen Kenntnisse und F\u00e4higkeiten der Personen, die Tierversuche planen oder durchf\u00fchren, insbesondere der biologischen, tiermedizinischen, rechtlichen und ethischen Kenntnisse und der F\u00e4higkeiten im Hinblick auf die Durchf\u00fchrung von Tierversuchen, zu erlassen sowie Anforderungen an den Nachweis und die Aufrechterhaltung der erforderlichen Kenntnisse und F\u00e4higkeiten festzulegen; in der Rechtsverordnung kann auch vorgeschrieben werden, dass Aufzeichnungen \u00fcber die Ma\u00dfnahmen, die zum Zwecke der Aufrechterhaltung der Kenntnisse und F\u00e4higkeiten ergriffen werden, zu machen, aufzubewahren und der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen sind.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bet\u00e4uben von Tieren, die in Tierversuchen verwendet werden, einschlie\u00dflich der hierf\u00fcr erforderlichen Kenntnisse und F\u00e4higkeiten, oder die Anwendung schmerzlindernder Mittel oder Verfahren bei diesen Tieren vorzuschreiben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gabe von Mitteln, die das \u00c4u\u00dfern von Schmerzen verhindern oder beeintr\u00e4chtigen, zu verbieten oder zu beschr\u00e4nken.</LA></DD></DL></P><P>(3) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung und, soweit artenschutzrechtliche Belange ber\u00fchrt sind, dem Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Union Versuche <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Primaten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Tieren bestimmter Herkunft,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die besonders belastend sind,</LA></DD></DL>zu verbieten oder zu beschr\u00e4nken, insbesondere von einer Genehmigung oder der Erf\u00fcllung weiterer, \u00fcber \u00a7 8 Absatz 1 Satz 2 Nummer 2 bis 8 hinausgehender Anforderungen abh\u00e4ngig zu machen.</P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung und, soweit artenschutzrechtliche Belange ber\u00fchrt sind, dem Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderungen an <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Durchf\u00fchrung von Tierversuchen bestimmte R\u00e4umlichkeiten, Anlagen und Gegenst\u00e4nde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Fang wildlebender Tiere zum Zwecke ihrer Verwendung in Tierversuchen einschlie\u00dflich der anschlie\u00dfenden Behandlung der Tiere und der hierf\u00fcr erforderlichen Kenntnisse und F\u00e4higkeiten und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erneute Verwendung von Tieren in Tierversuchen</LA></DD></DL>festzulegen. Das Bundesministerium wird ferner erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung und, soweit artenschutzrechtliche Belange ber\u00fchrt sind, dem Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die Behandlung eines in einem Tierversuch verwendeten Tieres nach Abschluss des Tierversuchs zu regeln und dabei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorzusehen, dass das Tier einem Tierarzt vorzustellen ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorzusehen, dass das Tier unter bestimmten Voraussetzungen zu t\u00f6ten ist, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anforderungen an die weitere Haltung und medizinische Versorgung des Tieres festzulegen.</LA></DD></DL></P><P>(5) \u00dcber die Tierversuche sind Aufzeichnungen zu machen. Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here \u00fcber die Art und den Umfang der Aufzeichnungen nach Satz 1 zu regeln; es kann dabei vorschreiben, dass die Aufzeichnungen aufzubewahren und der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen sind.</P><P>(6) Der Leiter des Versuchsvorhabens oder im Falle seiner Verhinderung sein Stellvertreter haben die Einhaltung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vorschriften <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">des \u00a7 7 Absatz 1 Satz 2 Nummer 1, des \u00a7 7a Absatz 2 Nummer 1, 4 und 5 und des \u00a7 9 Absatz 5 Satz 1 sowie</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">des \u00a7 7 Absatz 1 Satz 3 und</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vorschriften der auf Grund der Abs\u00e4tze 1 bis 5 erlassenen Rechtsverordnungen</LA></DD></DL>sicherzustellen. Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here zu der Verpflichtung nach Satz 1 zu regeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000503377"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG000604360",
+        "type": "heading",
+        "name": "Sechster Abschnitt",
+        "title": "Tierschutzbeauftragte",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE002905360",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Einrichtungen und Betriebe, in denen Wirbeltiere oder Kopff\u00fc\u00dfer, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die dazu bestimmt sind, in Tierversuchen verwendet zu werden, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Organe oder Gewebe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden,</LA></DD></DL>gehalten oder verwendet werden, m\u00fcssen \u00fcber Tierschutzbeauftragte sowie, soweit dies in einer Rechtsverordnung, die das Bundesministerium im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung mit Zustimmung des Bundesrates erlassen hat, bestimmt ist, weitere Personen verf\u00fcgen, die verpflichtet sind, in besonderem Ma\u00dfe auf den Schutz der Tiere zu achten. Satz 1 gilt auch f\u00fcr Einrichtungen und Betriebe, in denen die dort genannten Tiere gez\u00fcchtet oder zum Zwecke der Abgabe an Dritte gehalten werden. Einrichtungen und Betriebe, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in denen Wirbeltiere nach \u00a7 4 Absatz 3 zu wissenschaftlichen Zwecken get\u00f6tet werden oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in denen Eingriffe nach \u00a7 6 Absatz 1 Satz 2 Nummer 4 vorgenommen werden,</LA></DD></DL>m\u00fcssen ebenfalls \u00fcber Tierschutzbeauftragte nach Satz 1 verf\u00fcgen.</P><P>(2) Die Tierschutzbeauftragten und die weiteren Personen nehmen ihre Aufgaben insbesondere durch Beratung der Einrichtung oder des Betriebes, f\u00fcr die oder f\u00fcr den sie t\u00e4tig sind, und der dort besch\u00e4ftigten Personen sowie durch die Abgabe von Stellungnahmen wahr. Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here \u00fcber die Tierschutzbeauftragten und weiteren Personen zu regeln und dabei Vorschriften \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren ihrer Bestellung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Sachkunde,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Aufgaben und Verpflichtungen, insbesondere im Hinblick auf die Sicherstellung einer sachkundigen und tiergerechten Haltung, T\u00f6tung und Verwendung der Tiere, und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">innerbetriebliche Ma\u00dfnahmen und Vorkehrungen zur Sicherstellung einer wirksamen Wahrnehmung der in Nummer 3 genannten Aufgaben und Verpflichtungen</LA></DD></DL>zu erlassen. Dabei kann das Bundesministerium <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bestimmen, dass die Tierschutzbeauftragten und weiteren Personen im Rahmen von Beir\u00e4ten zusammenwirken,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das N\u00e4here \u00fcber die Aufgaben und die Zusammensetzung, einschlie\u00dflich der Leitung, der Beir\u00e4te nach Nummer 1 regeln und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorschreiben, dass \u00fcber die T\u00e4tigkeit der Beir\u00e4te nach Nummer 1 Aufzeichnungen zu machen, aufzubewahren und der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen sind.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000604360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG000705360",
+        "type": "heading",
+        "name": "Siebenter Abschnitt",
+        "title": "Zucht, Halten von Tieren, Handel mit Tieren",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE003009124",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere oder Kopff\u00fc\u00dfer, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die dazu bestimmt sind, in Tierversuchen verwendet zu werden, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Organe oder Gewebe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden,</LA></DD></DL>z\u00fcchten oder, auch zum Zwecke der Abgabe dieser Tiere an Dritte, halten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere zu den in \u00a7 6 Absatz 1 Satz 2 Nummer 4 genannten Zwecken z\u00fcchten oder halten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tiere in einem Tierheim oder in einer \u00e4hnlichen Einrichtung halten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tiere in einem Zoologischen Garten oder einer anderen Einrichtung, in der Tiere gehalten und zur Schau gestellt werden, halten,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere, die nicht Nutztiere sind, zum Zwecke der Abgabe gegen Entgelt oder eine sonstige Gegenleistung in das Inland verbringen oder einf\u00fchren oder die Abgabe solcher Tiere, die in das Inland verbracht oder eingef\u00fchrt werden sollen oder worden sind, gegen Entgelt oder eine sonstige Gegenleistung vermitteln,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Dritte Hunde zu Schutzzwecken ausbilden oder hierf\u00fcr Einrichtungen unterhalten,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tierb\u00f6rsen zum Zwecke des Tausches oder Verkaufes von Tieren durch Dritte durchf\u00fchren oder</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">gewerbsm\u00e4\u00dfig, au\u00dfer in den F\u00e4llen der Nummer 1, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere, au\u00dfer landwirtschaftliche Nutztiere und Gehegewild, z\u00fcchten oder halten,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">mit Wirbeltieren handeln,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Reit- oder Fahrbetrieb unterhalten,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Tiere zur Schau stellen oder f\u00fcr solche Zwecke zur Verf\u00fcgung stellen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere als Sch\u00e4dlinge bek\u00e4mpfen oder</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Dritte Hunde ausbilden oder die Ausbildung der Hunde durch den Tierhalter anleiten</LA></DD></DL></LA></DD></DL>will, bedarf der Erlaubnis der zust\u00e4ndigen Beh\u00f6rde. F\u00fcr das Zurschaustellen von Tieren an wechselnden Orten darf die Erlaubnis nach Satz 1 Nummer 4 oder nach Satz 1 Nummer 8 Buchstabe d nur insoweit erteilt werden, als die Tiere nicht einer Art angeh\u00f6ren, deren Zurschaustellen an wechselnden Orten auf Grund einer Rechtsverordnung nach Absatz 4 verboten ist.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates in den F\u00e4llen des Absatzes 1 Satz 1 <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das N\u00e4here zu der Form und dem Inhalt des Antrags auf Erteilung einer Erlaubnis nach Absatz 1 Satz 1,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen und das Verfahren f\u00fcr die Erteilung der Erlaubnis,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Inhalt der Erlaubnis, im Falle des Absatzes 1 Satz 1 Nummer 1 nur, soweit dies zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Union erforderlich ist, sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren im Falle nachtr\u00e4glicher \u00c4nderungen der f\u00fcr die Erlaubniserteilung wesentlichen Sachverhalte, einschlie\u00dflich der Pflicht zur Anzeige solcher \u00c4nderungen,</LA></DD></DL>zu regeln. Rechtsverordnungen nach Satz 1 bed\u00fcrfen, soweit sie das Z\u00fcchten oder Halten von Tieren nach Absatz 1 Satz 1 Nummer 1 oder 2 betreffen, des Einvernehmens des Bundesministeriums f\u00fcr Bildung und Forschung.</P><P>(3) In Rechtsverordnungen nach \u00a7 2a Absatz 1 oder \u00a7 4b k\u00f6nnen, soweit dies zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Union erforderlich ist, \u00fcber die dort genannten Anforderungen hinaus Anforderungen an die Haltung von Tieren nach Absatz 1 Satz 1 Nummer 1 oder an das T\u00f6ten von Tieren nach Absatz 1 Satz 1 Nummer 1 vorgeschrieben werden, insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anforderungen an innerbetriebliche Abl\u00e4ufe zum Zwecke der Vermeidung, Feststellung und Beseitigung von M\u00e4ngeln,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ma\u00dfnahmen zum Zwecke der Gew\u00f6hnung und des Trainings solcher Tiere im Hinblick auf ihre Haltung und Verwendung und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anforderungen an den Erwerb und die Aufrechterhaltung der f\u00fcr die Betreuung und Pflege und das T\u00f6ten erforderlichen Kenntnisse und F\u00e4higkeiten; hierbei kann auch vorgeschrieben werden, dass Aufzeichnungen \u00fcber die Ma\u00dfnahmen, die zum Zwecke des Erwerbs und der Aufrechterhaltung der Kenntnisse und F\u00e4higkeiten ergriffen werden, zu machen, aufzubewahren und der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen sind.</LA></DD></DL></P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Zurschaustellen von Tieren wildlebender Arten an wechselnden Orten zu beschr\u00e4nken oder zu verbieten, soweit die Tiere der jeweiligen Art an wechselnden Orten nur unter erheblichen Schmerzen, Leiden oder Sch\u00e4den gehalten oder zu den wechselnden Orten nur unter erheblichen Schmerzen, Leiden oder Sch\u00e4den bef\u00f6rdert werden k\u00f6nnen. Eine Rechtsverordnung nach Satz 1 <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">darf nur erlassen werden, soweit den in Satz 1 bezeichneten erheblichen Schmerzen, Leiden oder Sch\u00e4den durch andere Regelungen, insbesondere solche mit Anforderungen an die Haltung oder Bef\u00f6rderung der Tiere, nicht wirksam begegnet werden kann,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">muss vorsehen, dass Tiere, die zum Zeitpunkt des Erlasses der Verordnung gehalten werden, von dem Verbot nur dann erfasst werden, wenn keine M\u00f6glichkeiten bestehen, die erheblichen Schmerzen, Leiden oder Sch\u00e4den bei diesen Tieren auf ein vertretbares Ma\u00df zu vermindern.</LA></DD></DL></P><P>(5) Mit der Aus\u00fcbung der T\u00e4tigkeit nach Absatz 1 Satz 1 darf erst nach Erteilung der Erlaubnis begonnen werden. Die zust\u00e4ndige Beh\u00f6rde entscheidet schriftlich oder elektronisch \u00fcber den Antrag auf Erteilung einer Erlaubnis innerhalb einer Frist von vier Monaten ab Eingang des Antrags. Die in Satz 2 genannte Frist kann von der zust\u00e4ndigen Beh\u00f6rde um bis zu zwei Monate verl\u00e4ngert werden, soweit der Umfang und die Schwierigkeit der Pr\u00fcfung des Vorliegens der Voraussetzungen der Erlaubnis dies rechtfertigen. Der Antragsteller ist \u00fcber die Fristverl\u00e4ngerung vor Ablauf der in Satz 2 genannten Frist unter Angabe von Gr\u00fcnden zu unterrichten. Bei der Berechnung der Frist bleiben die Zeiten unber\u00fccksichtigt, w\u00e4hrend derer der Antragsteller trotz schriftlicher oder elektronischer Aufforderung der Beh\u00f6rde den Anforderungen in einer auf Grund des Absatzes 2 Satz 1 Nummer 1 erlassenen Rechtsverordnung nicht nachgekommen ist. Die zust\u00e4ndige Beh\u00f6rde soll demjenigen die Aus\u00fcbung der T\u00e4tigkeit untersagen, der die Erlaubnis nicht hat.</P><P>(6) Wer gewerbsm\u00e4\u00dfig Gehegewild halten will, hat dies vier Wochen vor Aufnahme der T\u00e4tigkeit der zust\u00e4ndigen Beh\u00f6rde anzuzeigen. Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Form und den Inhalt der Anzeige,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen, unter denen die T\u00e4tigkeit nach Satz 1 untersagt werden kann, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren im Falle nachtr\u00e4glicher \u00c4nderungen der angezeigten Sachverhalte</LA></DD></DL>zu regeln.</P><P>(7) Die Aus\u00fcbung der nach Absatz 5 Satz 6 oder auf Grund einer Rechtsverordnung nach Absatz 6 Satz 2 Nummer 2 untersagten T\u00e4tigkeit kann von der zust\u00e4ndigen Beh\u00f6rde auch durch Schlie\u00dfung der Betriebs- oder Gesch\u00e4ftsr\u00e4ume verhindert werden.</P><P>(8) Wer Nutztiere zu Erwerbszwecken h\u00e4lt, hat durch betriebliche Eigenkontrollen sicherzustellen, dass die Anforderungen des \u00a7 2 eingehalten werden. Insbesondere hat er zum Zwecke seiner Beurteilung, dass die Anforderungen des \u00a7 2 erf\u00fcllt sind, geeignete tierbezogene Merkmale (Tierschutzindikatoren) zu erheben und zu bewerten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000705360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE003107119",
+        "type": "article",
+        "name": "\u00a7 11a",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach \u00a7 11 Absatz 1 Satz 1 Nummer 1 erlaubnispflichtige T\u00e4tigkeit aus\u00fcbt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere zu den in \u00a7 6 Absatz 1 Satz 2 Nummer 4 genannten Zwecken z\u00fcchtet oder h\u00e4lt oder mit solchen Wirbeltieren handelt,</LA></DD></DL>hat \u00fcber die Herkunft und den Verbleib sowie im Falle von Hunden, Katzen und Primaten \u00fcber die Haltung und Verwendung der Tiere Aufzeichnungen zu machen. Dies gilt nicht, soweit entsprechende Aufzeichnungspflichten auf Grund jagdrechtlicher oder naturschutzrechtlicher Vorschriften bestehen.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften \u00fcber die Art, die Form und den Umfang der Aufzeichnungen nach Absatz 1 zu erlassen. Es kann dabei bestimmen, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufzeichnungen zu einem bestimmten Zeitpunkt vorzunehmen sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufzeichnungen aufzubewahren und der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufzeichnungen oder deren Inhalt an Dritte weiterzugeben sind und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufzeichnungen auf Grund anderer Rechtsvorschriften als Aufzeichnungen nach Satz 1 gelten.</LA></DD></DL></P><P>(3) Wer Hunde, Katzen oder Primaten, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zur Verwendung zu einem der in \u00a7 6 Absatz 1 Satz 2 Nummer 4 genannten Zwecke bestimmt sind,</LA></DD></DL>z\u00fcchtet, hat diese zum Zwecke der Feststellung der Identit\u00e4t des jeweiligen Tieres zu kennzeichnen. Sonstige Kennzeichnungspflichten bleiben unber\u00fchrt. Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften \u00fcber die Art und Weise und den Zeitpunkt der Kennzeichnung nach Satz 1 zu erlassen und dabei vorzusehen, dass diese unter beh\u00f6rdlicher Aufsicht vorzunehmen ist, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorzuschreiben, dass im Falle des Erwerbs von Hunden, Katzen oder Primaten zu den in Satz 1 Nummer 1 oder 2 genannten Zwecken der Erwerber zur Kennzeichnung nach Satz 1 verpflichtet ist und den Nachweis zu erbringen hat, dass es sich um f\u00fcr die genannten Zwecke gez\u00fcchtete Tiere handelt.</LA></DD></DL></P><P>(4) Andere Wirbeltiere als Pferde, Rinder, Schweine, Schafe, Ziegen, H\u00fchner, Tauben, Puten, Enten, G\u00e4nse und Fische, ausgenommen Zebrab\u00e4rblinge, d\u00fcrfen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Verwendung in Tierversuchen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu dem in \u00a7 4 Absatz 3 genannten Zweck oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu den in \u00a7 6 Absatz 1 Satz 2 Nummer 4 genannten Zwecken</LA></DD></DL>aus Drittl\u00e4ndern nur mit Genehmigung der zust\u00e4ndigen Beh\u00f6rde eingef\u00fchrt werden. Die Genehmigung ist zu erteilen, soweit nachgewiesen wird, dass es sich um Tiere handelt, die zu einem der in Satz 1 Nummer 1 bis 3 genannten Zwecke gez\u00fcchtet worden sind. Andernfalls kann die Genehmigung nur erteilt werden, soweit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Satz 2 gez\u00fcchtete Tiere mit den Eigenschaften, die f\u00fcr den jeweiligen Zweck erforderlich sind, nicht zur Verf\u00fcgung stehen oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der jeweilige Zweck die Verwendung von Tieren erforderlich macht, die nicht nach Satz 2 gez\u00fcchtet worden sind.</LA></DD></DL>Sonstige Einfuhrvorschriften bleiben unber\u00fchrt.</P><P>(5) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung und, soweit artenschutzrechtliche Belange ber\u00fchrt sind, dem Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates bei Tieren, die zur Verwendung in Tierversuchen bestimmt waren oder deren Organe oder Gewebe dazu bestimmt waren, zu wissenschaftlichen Zwecken verwendet zu werden, bei denen diese Bestimmung jedoch entfallen ist, die dauerhafte Unterbringung au\u00dferhalb eines Betriebes oder einer Einrichtung nach \u00a7 10 Absatz 1 Satz 1 oder 2 oder die Freilassung solcher Tiere zu verbieten oder zu beschr\u00e4nken.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000705360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE003207360",
+        "type": "article",
+        "name": "\u00a7 11b",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Es ist verboten, Wirbeltiere zu z\u00fcchten oder durch biotechnische Ma\u00dfnahmen zu ver\u00e4ndern, soweit im Falle der Z\u00fcchtung z\u00fcchterische Erkenntnisse oder im Falle der Ver\u00e4nderung Erkenntnisse, die Ver\u00e4nderungen durch biotechnische Ma\u00dfnahmen betreffen, erwarten lassen, dass als Folge der Zucht oder Ver\u00e4nderung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Nachzucht, den biotechnisch ver\u00e4nderten Tieren selbst oder deren Nachkommen erblich bedingt K\u00f6rperteile oder Organe f\u00fcr den artgem\u00e4\u00dfen Gebrauch fehlen oder untauglich oder umgestaltet sind und hierdurch Schmerzen, Leiden oder Sch\u00e4den auftreten oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei den Nachkommen <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">mit Leiden verbundene erblich bedingte Verhaltensst\u00f6rungen auftreten,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">jeder artgem\u00e4\u00dfe Kontakt mit Artgenossen bei ihnen selbst oder einem Artgenossen zu Schmerzen oder vermeidbaren Leiden oder Sch\u00e4den f\u00fchrt oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Haltung nur unter Schmerzen oder vermeidbaren Leiden m\u00f6glich ist oder zu Sch\u00e4den f\u00fchrt.</LA></DD></DL></LA></DD></DL></P><P>(2) Die zust\u00e4ndige Beh\u00f6rde kann das Unfruchtbarmachen von Wirbeltieren anordnen, soweit z\u00fcchterische Erkenntnisse oder Erkenntnisse, die Ver\u00e4nderungen durch biotechnische Ma\u00dfnahmen betreffen, erwarten lassen, dass deren Nachkommen St\u00f6rungen oder Ver\u00e4nderungen im Sinne des Absatzes 1 zeigen werden.</P><P>(3) Die Abs\u00e4tze 1 und 2 gelten nicht f\u00fcr durch Z\u00fcchtung oder biotechnische Ma\u00dfnahmen ver\u00e4nderte Wirbeltiere, die f\u00fcr wissenschaftliche Zwecke notwendig sind.</P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erblich bedingten Ver\u00e4nderungen und Verhaltensst\u00f6rungen nach Absatz 1 n\u00e4her zu bestimmen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Z\u00fcchten mit Wirbeltieren bestimmter Arten, Rassen und Linien zu verbieten oder zu beschr\u00e4nken, wenn dieses Z\u00fcchten zu Verst\u00f6\u00dfen gegen Absatz 1 f\u00fchren kann.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000705360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE003304377",
+        "type": "article",
+        "name": "\u00a7 11c",
+        "title": null,
+        "body": {
+          "content": "<P>Ohne Einwilligung der Erziehungsberechtigten d\u00fcrfen Wirbeltiere an Kinder oder Jugendliche bis zum vollendeten 16. Lebensjahr nicht abgegeben werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000705360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG000805360",
+        "type": "heading",
+        "name": "Achter Abschnitt",
+        "title": "Verbringungs-, Verkehrs- und Haltungsverbot",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE003410118",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Wirbeltiere, an denen Sch\u00e4den feststellbar sind, von denen anzunehmen ist, dass sie durch tierschutzwidrige Handlungen verursacht worden sind, d\u00fcrfen nicht gehalten oder ausgestellt werden, soweit dies durch Rechtsverordnungen nach Absatz 2 Nr. 4 oder 5 bestimmt ist.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verbringen von Tieren oder Erzeugnissen tierischer Herkunft aus einem Staat, der nicht der Europ\u00e4ischen Union angeh\u00f6rt, in das Inland (Einfuhr) von der Einhaltung von Mindestanforderungen hinsichtlich der Tierhaltung oder des T\u00f6tens von Tieren und von einer entsprechenden Bescheinigung abh\u00e4ngig zu machen sowie deren Inhalt, Form, Ausstellung und Aufbewahrung zu regeln,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einfuhr bestimmter Tiere von einer Genehmigung abh\u00e4ngig zu machen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verbringen bestimmter Tiere aus dem Inland in einen anderen Staat zu verbieten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verbringen von Wirbeltieren in das Inland oder das Halten, insbesondere das Ausstellen von Wirbeltieren im Inland zu verbieten, wenn an den Tieren tierschutzwidrige Amputationen vorgenommen worden sind oder die Tiere erblich bedingte k\u00f6rperliche Defekte, Verhaltensst\u00f6rungen oder Aggressionssteigerungen im Sinne des \u00a7 11b Absatz 1 Nummer 1 oder 2 Buchstabe a aufweisen oder soweit ein Tatbestand nach \u00a7 11b Absatz 1 Nummer 2 Buchstabe b oder c erf\u00fcllt ist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Halten von Wirbeltieren, an denen Sch\u00e4den feststellbar sind, von denen anzunehmen ist, dass sie den Tieren durch tierschutzwidrige Handlungen zugef\u00fcgt worden sind, zu verbieten, wenn das Weiterleben der Tiere nur unter Leiden m\u00f6glich ist,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorzuschreiben, dass Tiere oder Erzeugnisse tierischer Herkunft nur \u00fcber bestimmte Zollstellen mit zugeordneten \u00dcberwachungsstellen eingef\u00fchrt oder ausgef\u00fchrt werden d\u00fcrfen, die das Bundesamt f\u00fcr Verbraucherschutz und Lebensmittelsicherheit im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger bekannt gemacht hat; das Bundesministerium der Finanzen kann die Erteilung des Einvernehmens auf die Generalzolldirektion \u00fcbertragen.</LA></DD></DL>Eine Rechtsverordnung nach Satz 1 Nr. 1 bis 5 kann nicht erlassen werden, soweit Unionsrecht oder v\u00f6lkerrechtliche Verpflichtungen entgegenstehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000805360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG000905360",
+        "type": "heading",
+        "name": "Neunter Abschnnitt",
+        "title": "Sonstige Bestimmungen zum Schutz der Tiere",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE003511119",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Es ist verboten, zum Fangen, Fernhalten oder Verscheuchen von Wirbeltieren Vorrichtungen oder Stoffe anzuwenden, wenn damit die Gefahr vermeidbarer Schmerzen, Leiden oder Sch\u00e4den f\u00fcr Wirbeltiere verbunden ist; dies gilt nicht f\u00fcr die Anwendung von Vorrichtungen oder Stoffen, die auf Grund anderer Rechtsvorschriften zugelassen sind. Vorschriften des Jagdrechts, des Naturschutzrechts, des Pflanzenschutzrechts und des Seuchenrechts bleiben unber\u00fchrt.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutz des Wildes Ma\u00dfnahmen anzuordnen, die das Wild vor vermeidbaren Schmerzen oder Sch\u00e4den durch land- oder forstwirtschaftliche Arbeiten sch\u00fctzen.</P><P>(3) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie und dem Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, das Halten von Tieren wildlebender Arten, den Handel mit solchen Tieren sowie ihre Einfuhr oder ihre Ausfuhr aus dem Inland in einen Staat, der der Europ\u00e4ischen Union nicht angeh\u00f6rt (Ausfuhr), zu verbieten, zu beschr\u00e4nken oder von einer Genehmigung abh\u00e4ngig zu machen. Als Genehmigungsvoraussetzung kann insbesondere gefordert werden, dass der Antragsteller die f\u00fcr die jeweilige T\u00e4tigkeit erforderliche Zuverl\u00e4ssigkeit und die erforderlichen fachlichen Kenntnisse und F\u00e4higkeiten besitzt und nachweist sowie dass eine den Anforderungen des \u00a7 2 entsprechende Ern\u00e4hrung, Pflege und Unterbringung der Tiere sichergestellt ist. In der Rechtsverordnung k\u00f6nnen ferner Anforderungen an den Nachweis der erforderlichen Zuverl\u00e4ssigkeit und der erforderlichen fachlichen Kenntnisse und F\u00e4higkeiten nach Satz 2 festgelegt sowie das Verfahren des Nachweises geregelt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000905360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE005905360",
+        "type": "article",
+        "name": "\u00a7 13a",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Bundesministerium wird erm\u00e4chtigt, zur Verbesserung des Tierschutzes durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderungen an freiwillige Pr\u00fcfverfahren zu bestimmen, mit denen nachgewiesen wird, dass serienm\u00e4\u00dfig hergestellte Aufstallungssysteme und Stalleinrichtungen zum Halten von Nutztieren und beim Schlachten verwendete Bet\u00e4ubungsger\u00e4te und -anlagen \u00fcber die Anforderungen dieses Gesetzes und die Mindestanforderungen der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen hinausgehen. Es hat hierbei insbesondere Kriterien, Verfahren und Umfang der freiwilligen Pr\u00fcfverfahren sowie Anforderungen an die Sachkunde der im Rahmen derartiger Pr\u00fcfverfahren t\u00e4tigen Gutachter festzulegen.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur F\u00f6rderung der tierschutzgerechten Haltung das Inverkehrbringen und das Verwenden serienm\u00e4\u00dfig hergestellter Stalleinrichtungen zum Halten von Nutztieren von einer Zulassung oder Bauartzulassung abh\u00e4ngig zu machen. In der Rechtsverordnung nach Satz 1 k\u00f6nnen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die n\u00e4heren Voraussetzungen f\u00fcr die Zulassung oder Bauartzulassung und deren R\u00fccknahme, Widerruf oder Ruhen, ihre Bekanntmachung sowie das Zulassungsverfahren, insbesondere Art, Inhalt und Umfang der vorzulegenden Unterlagen oder beizubringenden Nachweise,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Befristung der Zulassung oder Bauartzulassung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Folgen einer Aufhebung oder Befristung einer Zulassung oder einer Bauartzulassung im Hinblick auf das weitere Inverkehrbringen oder die weitere Verwendung in Verkehr gebrachter Stalleinrichtungen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kennzeichnung der Stalleinrichtungen und das Beif\u00fcgen von Gebrauchsanleitungen und deren Mindestinhalt zum Zwecke der bestimmungsgem\u00e4\u00dfen und sachgerechten Verwendung der Stalleinrichtungen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anforderungen an die bestimmungsgem\u00e4\u00dfe und sachgerechte Verwendung der Stalleinrichtungen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anerkennung und die Mitwirkung \u00f6ffentlich-rechtlicher oder privatrechtlicher Einrichtungen bei der Erteilung der Zulassung oder der Bauartzulassung einschlie\u00dflich des Verfahrens geregelt werden,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anerkennung serienm\u00e4\u00dfig hergestellter Stalleinrichtungen, die ein der Zulassung oder der Bauartzulassung entsprechendes Verfahren in einem anderen Mitgliedstaat, der T\u00fcrkei oder einem EFTA-Staat, der das EWR-\u00dcbereinkommen unterzeichnet hat, durchlaufen haben,</LA></DD></DL>geregelt werden. Im Fall einer Regelung nach Satz 2 Nr. 7 kann die Anerkennung insbesondere davon abh\u00e4ngig gemacht werden, dass die Eigenschaften der serienm\u00e4\u00dfig hergestellten Stalleinrichtung den Anforderungen einer Rechtsverordnung nach Satz 2 Nr. 1 bis 4 gleichwertig sind.</P><P>(3) Zust\u00e4ndig f\u00fcr die Erteilung der Zulassungen oder Bauartzulassungen ist die Bundesanstalt f\u00fcr Landwirtschaft und Ern\u00e4hrung. In der Rechtsverordnung nach Absatz 2 Satz 1 ist das Verfahren der Zusammenarbeit der nach Satz 1 zust\u00e4ndigen Beh\u00f6rde mit den f\u00fcr die \u00dcberwachung zust\u00e4ndigen Beh\u00f6rden der L\u00e4nder zu regeln.</P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Aufgaben und Befugnisse der nach Absatz 3 zust\u00e4ndigen Beh\u00f6rde auf eine juristische Person des privaten Rechts ganz oder teilweise zu \u00fcbertragen. Die Aufgaben\u00fcbertragung ist nur zul\u00e4ssig, soweit die juristische Person die notwendige Gew\u00e4hr f\u00fcr die Erf\u00fcllung der Aufgaben nach diesem Gesetz bietet. Eine juristische Person bietet die notwendige Gew\u00e4hr, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Personen, die nach Gesetz, Satzung oder Gesellschaftsvertrag die Gesch\u00e4ftsf\u00fchrung und Vertretung der juristischen Person aus\u00fcben, zuverl\u00e4ssig und fachlich geeignet sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie die zur Erf\u00fcllung ihrer Aufgaben notwendige Ausstattung und Organisation hat.</LA></DD></DL>Die fachliche Eignung im Sinne des Satzes 3 Nummer 1 ist insbesondere gegeben, wenn die Personen \u00fcber eine erfolgreich abgeschlossene Berufsausbildung im Bereich der Agrarwissenschaft \u2013 Fachrichtung Tierproduktion, der Veterin\u00e4rmedizin oder der Biologie \u2013 Fachrichtung Zoologie \u2013 verf\u00fcgen. Durch Rechtsverordnung nach Satz 1 kann sich das Bundesministerium die Genehmigung der Satzung oder des Gesellschaftsvertrages und deren \u00c4nderungen vorbehalten.</P><P>(5) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, das Inverkehrbringen und das Verwenden serienm\u00e4\u00dfig hergestellter beim Schlachten verwendeter Bet\u00e4ubungsger\u00e4te oder Bet\u00e4ubungsanlagen davon abh\u00e4ngig zu machen, dass die Ger\u00e4te oder Anlagen zugelassen sind oder einer Bauartzulassung entsprechen, sowie die n\u00e4heren Voraussetzungen f\u00fcr die Erteilung der Zulassung oder Bauartzulassung und das Zulassungsverfahren zu regeln. In der Rechtsverordnung nach Satz 1 k\u00f6nnen insbesondere Art, Inhalt und Umfang der vorzulegenden Unterlagen oder beizubringenden Nachweise n\u00e4her bestimmt werden.</P><P>(6) Die Abs\u00e4tze 1 und 5 gelten nicht f\u00fcr das Inverkehrbringen zum Zwecke des Verbringens in einen anderen Mitgliedstaat oder der Ausfuhr in ein Drittland.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000905360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE006400360",
+        "type": "article",
+        "name": "\u00a7 13b",
+        "title": null,
+        "body": {
+          "content": "<P>Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung zum Schutz freilebender Katzen bestimmte Gebiete festzulegen, in denen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an diesen Katzen festgestellte erhebliche Schmerzen, Leiden oder Sch\u00e4den auf die hohe Anzahl dieser Tiere in dem jeweiligen Gebiet zur\u00fcckzuf\u00fchren sind und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch eine Verminderung der Anzahl dieser Katzen innerhalb des jeweiligen Gebietes deren Schmerzen, Leiden oder Sch\u00e4den verringert werden k\u00f6nnen.</LA></DD></DL>In der Rechtsverordnung sind die Gebiete abzugrenzen und die f\u00fcr die Verminderung der Anzahl der freilebenden Katzen erforderlichen Ma\u00dfnahmen zu treffen. Insbesondere k\u00f6nnen in der Rechtsverordnung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der unkontrollierte freie Auslauf fortpflanzungsf\u00e4higer Katzen in dem jeweiligen Gebiet verboten oder beschr\u00e4nkt sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Kennzeichnung und Registrierung der dort gehaltenen Katzen, die unkontrollierten freien Auslauf haben k\u00f6nnen, vorgeschrieben</LA></DD></DL>werden. Eine Regelung nach Satz 3 Nummer 1 ist nur zul\u00e4ssig, soweit andere Ma\u00dfnahmen, insbesondere solche mit unmittelbarem Bezug auf die freilebenden Katzen, nicht ausreichen. Die Landesregierungen k\u00f6nnen ihre Erm\u00e4chtigung durch Rechtsverordnung auf andere Beh\u00f6rden \u00fcbertragen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG000905360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG001005360",
+        "type": "heading",
+        "name": "Zehnter Abschnitt",
+        "title": "Durchf\u00fchrung des Gesetzes",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE003605377",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der \u00dcberwachung der Einfuhr und Ausfuhr von Tieren mit. Die genannten Beh\u00f6rden k\u00f6nnen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tiere sowie deren Bef\u00f6rderungsmittel, Beh\u00e4lter, Lade- und Verpackungsmittel bei der Einfuhr zur \u00dcberwachung anhalten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Verdacht von Verst\u00f6\u00dfen gegen Verbote und Beschr\u00e4nkungen dieses Gesetzes oder der nach diesem Gesetz erlassenen Rechtsverordnungen, der sich bei der Abfertigung ergibt, den zust\u00e4ndigen Beh\u00f6rden mitteilen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen der Nummer 2 anordnen, dass die Tiere auf Kosten und Gefahr des Verf\u00fcgungsberechtigten der zust\u00e4ndigen Beh\u00f6rde vorgef\u00fchrt werden.</LA></DD></DL></P><P>(2) Das Bundesministerium der Finanzen regelt im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1. Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Ausk\u00fcnften und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in Gesch\u00e4ftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen vorsehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE003706360",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die Durchf\u00fchrung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt, vorbehaltlich des \u00a7 13a Abs. 3, auch in Verbindung mit einer Rechtsverordnung nach dessen Absatz 4, den nach Landesrecht zust\u00e4ndigen Beh\u00f6rden. Die nach Landesrecht zust\u00e4ndigen Beh\u00f6rden berufen jeweils eine oder mehrere Kommissionen zur Unterst\u00fctzung der zust\u00e4ndigen Beh\u00f6rden bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Entscheidung \u00fcber die Genehmigung von Versuchsvorhaben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bewertung angezeigter \u00c4nderungen genehmigter Versuchsvorhaben, soweit dies in einer Rechtsverordnung nach Absatz 4 vorgesehen ist.</LA></DD></DL></P><P>(2) Die zust\u00e4ndigen Beh\u00f6rden sollen im Rahmen der Durchf\u00fchrung dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen den beamteten Tierarzt als Sachverst\u00e4ndigen beteiligen.</P><P>(3) Im Bereich der Bundeswehr obliegt die Durchf\u00fchrung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften den zust\u00e4ndigen Dienststellen der Bundeswehr. Das Bundesministerium der Verteidigung beruft eine Kommission zur Unterst\u00fctzung der zust\u00e4ndigen Dienststellen bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Entscheidung \u00fcber die Genehmigung von Versuchsvorhaben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bewertung angezeigter \u00c4nderungen genehmigter Versuchsvorhaben, soweit dies in einer Rechtsverordnung nach Absatz 4 vorgesehen ist.</LA></DD></DL></P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here zu den Kommissionen nach Absatz 1 Satz 2 und Absatz 3 Satz 2 im Hinblick auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Zusammensetzung, einschlie\u00dflich der Sachkunde der Mitglieder,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren der Berufung der Mitglieder und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abgabe von Stellungnahmen durch die Kommissionen zu Antr\u00e4gen auf Genehmigung von Versuchsvorhaben und angezeigten \u00c4nderungen genehmigter Versuchsvorhaben sowie das diesbez\u00fcgliche Verfahren</LA></DD></DL>zu regeln. Rechtsverordnungen, die das N\u00e4here zu der Kommission nach Absatz 3 Satz 2 regeln, bed\u00fcrfen ferner des Einvernehmens des Bundesministeriums der Verteidigung.</P><P>(5) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates vorzusehen, dass die zust\u00e4ndigen Beh\u00f6rden dem Bundesministerium, dem Bundesamt f\u00fcr Verbraucherschutz und Lebensmittelsicherheit oder dem Bundesinstitut f\u00fcr Risikobewertung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in F\u00e4llen von grunds\u00e4tzlicher Bedeutung oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in F\u00e4llen, in denen dies zur Durchf\u00fchrung des Artikels 43 oder 55 der Richtlinie 2010/63/EU erforderlich ist,</LA></DD></DL>Angaben zu Entscheidungen der zust\u00e4ndigen Beh\u00f6rden \u00fcber die Genehmigung von Versuchsvorhaben oder zu von den zust\u00e4ndigen Beh\u00f6rden genehmigten Versuchsvorhaben \u00fcbermitteln, und dabei das N\u00e4here \u00fcber die Form und den Inhalt sowie das Verfahren der \u00dcbermittlung zu regeln. Personenbezogene Daten d\u00fcrfen nicht \u00fcbermittelt werden. Die Vorschriften zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Gesch\u00e4ftsgeheimnissen bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE003805360",
+        "type": "article",
+        "name": "\u00a7 15a",
+        "title": null,
+        "body": {
+          "content": "<P>Das Bundesinstitut f\u00fcr Risikobewertung nimmt die Aufgaben nach Artikel 49 der Richtlinie 2010/63/EU wahr. Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here \u00fcber die Aufgaben nach Artikel 49 der Richtlinie 2010/63/EU, einschlie\u00dflich der Befugnisse des Bundesinstitutes f\u00fcr Risikobewertung zum Verkehr mit den zust\u00e4ndigen Beh\u00f6rden anderer Mitgliedstaaten und der Europ\u00e4ischen Kommission, soweit dies zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Union erforderlich ist, zu regeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE003912119",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Aufsicht durch die zust\u00e4ndige Beh\u00f6rde unterliegen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nutztierhaltungen einschlie\u00dflich Pferdehaltungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen, in denen Tiere geschlachtet werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen, in denen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Tierversuche durchgef\u00fchrt werden,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere zu den in \u00a7 6 Abs. 1 Satz 2 Nr. 4 genannten Zwecken verwendet werden oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere zu wissenschaftlichen Zwecken get\u00f6tet werden,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen und Betriebe nach \u00a7 11 Abs. 1 Satz 1,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen und Betriebe,<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die gewerbsm\u00e4\u00dfig Tiere transportieren,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">in denen Tiere w\u00e4hrend des Transports ern\u00e4hrt, gepflegt oder untergebracht werden,</LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zirkusbetriebe, die nicht gewerbsm\u00e4\u00dfig betrieben werden,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tierhaltungen, die auf Grund einer nach \u00a7 13 Abs. 3 erlassenen Rechtsverordnung einer Genehmigung bed\u00fcrfen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hersteller, Einf\u00fchrer und Inverkehrbringer von Stalleinrichtungen oder beim Schlachten verwendeter Bet\u00e4ubungsger\u00e4te oder Bet\u00e4ubungsanlagen, soweit diese Personen eine Zulassung oder Bauartzulassung beantragt haben.</LA></DD></DL>Einrichtungen und Betriebe nach Satz 1 Nummer 3 und \u00a7 11 Absatz 1 Satz 1 Nummer 1 und 2 werden regelm\u00e4\u00dfig und in angemessenem Umfang unter besonderer Ber\u00fccksichtigung m\u00f6glicher Risiken besichtigt. In Einrichtungen und Betrieben nach Satz 1 Nummer 3 soll die Besichtigung mindestens alle drei Jahre erfolgen. In Einrichtungen und Betrieben nach Satz 1 Nummer 3 und \u00a7 11 Absatz 1 Satz 1 Nummer 1 und 2, in denen Primaten gez\u00fcchtet, gehalten oder verwendet werden, soll die Besichtigung j\u00e4hrlich erfolgen. Die Aufzeichnungen \u00fcber die Besichtigungen und deren Ergebnisse sind ab dem Zeitpunkt der jeweiligen Aufzeichnung mindestens f\u00fcnf Jahre aufzubewahren.</P><P>(1a) Wer nach \u00a7 11 Absatz 1 Satz 1 Nummer 4 und 8 Buchstabe d und nach Absatz 1 Nummer 6 Tiere an wechselnden Orten zur Schau stellt, hat jeden Ortswechsel sp\u00e4testens beim Verlassen des bisherigen Aufenthaltsortes der zust\u00e4ndigen Beh\u00f6rde des beabsichtigten Aufenthaltsortes nach Ma\u00dfgabe des Satzes 2 anzuzeigen. In der Anzeige sind anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art der betroffenen Tiere,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Name der f\u00fcr die T\u00e4tigkeit verantwortlichen Person,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die R\u00e4ume und Einrichtungen, die f\u00fcr die T\u00e4tigkeit bestimmt sind.</LA></DD></DL></P><P>(2) Nat\u00fcrliche und juristische Personen und nicht rechtsf\u00e4hige Personenvereinigungen haben der zust\u00e4ndigen Beh\u00f6rde auf Verlangen die Ausk\u00fcnfte zu erteilen, die zur Durchf\u00fchrung der der Beh\u00f6rde durch dieses Gesetz \u00fcbertragenen Aufgaben erforderlich sind.</P><P>(3) Personen, die von der zust\u00e4ndigen Beh\u00f6rde beauftragt sind, sowie in ihrer Begleitung befindliche Sachverst\u00e4ndige der Europ\u00e4ischen Kommission und anderer Mitgliedstaaten der Europ\u00e4ischen Union (Mitgliedstaaten) d\u00fcrfen zum Zwecke der Aufsicht \u00fcber die in Absatz 1 bezeichneten Personen und Einrichtungen und im Rahmen des Absatzes 2 <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundst\u00fccke, Gesch\u00e4ftsr\u00e4ume, Wirtschaftsgeb\u00e4ude und Transportmittel des Auskunftspflichtigen w\u00e4hrend der Gesch\u00e4fts- oder Betriebszeit betreten, besichtigen und dort zur Dokumentation Bildaufzeichnungen, mit Ausnahme von Bildaufzeichnungen von Personen, anfertigen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Verh\u00fctung dringender Gefahren f\u00fcr die \u00f6ffentliche Sicherheit und Ordnung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die in Nummer 1 bezeichneten Grundst\u00fccke, R\u00e4ume, Geb\u00e4ude und Transportmittel au\u00dferhalb der dort genannten Zeiten,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohnr\u00e4ume des Auskunftspflichtigen</LA></DD></DL></LA><LA Size=\"normal\">betreten, besichtigen sowie zur Dokumentation Bildaufzeichnungen, mit Ausnahme von Bildaufzeichnungen von Personen, anfertigen; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschr\u00e4nkt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">gesch\u00e4ftliche Unterlagen einsehen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tiere untersuchen und Proben, insbesondere Blut-, Harn-, Kot- und Futterproben, entnehmen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verhaltensbeobachtungen an Tieren auch mittels Bild- oder Tonaufzeichnungen durchf\u00fchren.</LA></DD></DL>Der Auskunftspflichtige hat die mit der \u00dcberwachung beauftragten Personen zu unterst\u00fctzen, ihnen auf Verlangen insbesondere die Grundst\u00fccke, R\u00e4ume, Einrichtungen und Transportmittel zu bezeichnen, R\u00e4ume, Beh\u00e4ltnisse und Transportmittel zu \u00f6ffnen, bei der Besichtigung und Untersuchung der einzelnen Tiere Hilfestellung zu leisten, die Tiere aus den Transportmitteln zu entladen und die gesch\u00e4ftlichen Unterlagen vorzulegen. Die mit der \u00dcberwachung beauftragten Personen sind befugt, Abschriften oder Ablichtungen von Unterlagen nach Satz 1 Nummer 3 oder Ausdrucke oder Kopien von Datentr\u00e4gern, auf denen Unterlagen nach Satz 1 Nummer 3 gespeichert sind, anzufertigen oder zu verlangen. Der Auskunftspflichtige hat auf Verlangen der zust\u00e4ndigen Beh\u00f6rde in Wohnr\u00e4umen gehaltene Tiere vorzuf\u00fchren, wenn der dringende Verdacht besteht, dass die Tiere nicht artgem\u00e4\u00df oder verhaltensgerecht gehalten werden und ihnen dadurch erhebliche Schmerzen, Leiden oder Sch\u00e4den zugef\u00fcgt werden und eine Besichtigung der Tierhaltung in Wohnr\u00e4umen nicht gestattet wird.</P><P>(4) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in \u00a7 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angeh\u00f6rigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz \u00fcber Ordnungswidrigkeiten aussetzen w\u00fcrde.</P><P>(4a) Wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Betreiber einer Schlachteinrichtung oder als Gewerbetreibender im Durchschnitt w\u00f6chentlich mindestens 50 Gro\u00dfvieheinheiten schlachtet oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Arbeitskr\u00e4fte bereitstellt, die Schlachttiere zuf\u00fchren, bet\u00e4uben oder entbluten,</LA></DD></DL>hat der zust\u00e4ndigen Beh\u00f6rde einen weisungsbefugten Verantwortlichen f\u00fcr die Einhaltung der Anforderungen dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu benennen. Wer eine Tierhaltung, eine Einrichtung oder einen Betrieb nach Absatz 1 Nr. 1, 3, 5 oder 6 betreibt oder f\u00fchrt, kann durch die zust\u00e4ndige Beh\u00f6rde im Einzelfall verpflichtet werden, einen weisungsbefugten sachkundigen Verantwortlichen f\u00fcr die Einhaltung der Anforderungen dieses Gesetzes und der darauf beruhenden Verordnungen zu benennen. Dies gilt nicht f\u00fcr Betriebe, die der Erlaubnispflicht nach \u00a7 11 Abs. 1 unterliegen.</P><P>(5) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, die \u00dcberwachung n\u00e4her zu regeln. Es kann dabei insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Durchf\u00fchrung von Untersuchungen einschlie\u00dflich der Probenahme,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ma\u00dfnahmen, die zu ergreifen sind, wenn Tiertransporte diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht entsprechen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzelheiten der Duldungs-, Unterst\u00fctzungs- und Vorlagepflichten und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflichten zur Aufzeichnung und zur Aufbewahrung von Unterlagen</LA></DD></DL>regeln. Rechtsverordnungen nach Satz 2 Nummer 4 bed\u00fcrfen, soweit sich die Regelungen auf Tiere beziehen, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, des Einvernehmens des Bundesministeriums f\u00fcr Bildung und Forschung.</P><P>(6) Personenbezogene Daten d\u00fcrfen nur erhoben oder verwendet werden, soweit die Erhebung oder Verwendung zur Erf\u00fcllung von Aufgaben erforderlich ist, die der verantwortlichen Stelle nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung obliegen. Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Datenerhebung und -verwendung zu regeln. Das Bundesministerium wird ferner erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einrichtung und F\u00fchrung von Registern zu regeln, aus denen die zust\u00e4ndigen Beh\u00f6rden die f\u00fcr die \u00dcberwachung von Betrieben nach \u00a7 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d mit wechselnden Standorten erforderlichen personenbezogenen Daten automatisiert abrufen k\u00f6nnen. In den Registern d\u00fcrfen nur folgende personenbezogene Daten gespeichert werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Daten zur Identifizierung und Erreichbarkeit des Inhabers der Erlaubnis nach \u00a7 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d und der f\u00fcr die T\u00e4tigkeit verantwortlichen Person nach Absatz 1a Satz 2 Nummer 2,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Daten zur Identifizierung und Erreichbarkeit des Betriebes nach Absatz 1 Satz 1 Nummer 4 in Verbindung mit \u00a7 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d und des Inhabers des Betriebes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Inhalt der Erlaubnis nach \u00a7 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d und etwaiger Nebenbestimmungen sowie die Anschrift der erteilenden Beh\u00f6rde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ergebnisse durchgef\u00fchrter Kontrollen und Namen der kontrollierenden Personen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund der Kontrolle erlassene vollziehbare Anordnungen und Ma\u00dfnahmen des Verwaltungszwangs sowie die Angabe, inwieweit diesen nachgekommen worden ist und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unanfechtbare Ablehnung eines Antrags auf Erteilung, die R\u00fccknahme und der Widerruf einer Erlaubnis nach \u00a7 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d.</LA></DD></DL>Im \u00dcbrigen bleiben die Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L\u00a0119 vom 4.5.2016, S.\u00a01; L\u00a0314 vom 22.11.2016, S.\u00a072; L\u00a0127 vom 23.5.2018, S.\u00a02), das Bundesdatenschutzgesetz und die Datenschutzgesetze der L\u00e4nder in der jeweils geltenden Fassung unber\u00fchrt.</P><P>(6a) Die nach Landesrecht f\u00fcr die Lebensmittel\u00fcberwachung, die Tierarzneimittel\u00fcberwachung und die f\u00fcr die Erhebung der Daten nach tierseuchenrechtlichen Vorschriften \u00fcber den Verkehr mit Vieh f\u00fcr die Anzeige und die Registrierung Vieh haltender Betriebe zust\u00e4ndigen Beh\u00f6rden \u00fcbermitteln der f\u00fcr die \u00dcberwachung nach \u00a7 15 Absatz 1 Satz 1 zust\u00e4ndigen Beh\u00f6rde auf Ersuchen die zu deren Aufgabenerf\u00fcllung erforderlichen Daten. Die Daten d\u00fcrfen f\u00fcr die Dauer von drei Jahren aufbewahrt werden. Die Frist beginnt mit Ablauf desjenigen Jahres, in dem die Daten \u00fcbermittelt worden sind. Nach Ablauf der Frist sind die Daten zu l\u00f6schen. Fristen zur Aufbewahrung, die sich aus anderen Rechtsvorschriften ergeben, bleiben unber\u00fchrt.</P><P>(7) Bestehen bei der zust\u00e4ndigen Beh\u00f6rde erhebliche Zweifel, ob bei bestimmungsgem\u00e4\u00dfem Gebrauch serienm\u00e4\u00dfig hergestellte Aufstallungssysteme und Stalleinrichtungen zum Halten landwirtschaftlicher Nutztiere und beim Schlachten verwendete Bet\u00e4ubungsger\u00e4te und -anlagen den Anforderungen dieses Gesetzes sowie der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen entsprechen, kann dem Hersteller oder Anbieter aufgegeben werden, auf seine Kosten eine gutachterliche Stellungnahme einer einvernehmlich zu benennenden unabh\u00e4ngigen Sachverst\u00e4ndigenstelle oder Person beizubringen, soweit er nicht auf den erfolgreichen Abschluss einer freiwilligen Pr\u00fcfung nach Ma\u00dfgabe einer nach \u00a7 13a Abs. 1 erlassenen Rechtsverordnung verweisen kann. Satz 1 gilt nicht, soweit Stalleinrichtungen auf Grund einer Rechtsverordnung nach \u00a7 13a Abs. 2 oder Bet\u00e4ubungsger\u00e4te oder Bet\u00e4ubungsanlagen auf Grund einer Rechtsverordnung nach \u00a7 13a Abs. 5 zugelassen oder bauartzugelassen sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE004006360",
+        "type": "article",
+        "name": "\u00a7 16a",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde trifft die zur Beseitigung festgestellter Verst\u00f6\u00dfe und die zur Verh\u00fctung k\u00fcnftiger Verst\u00f6\u00dfe notwendigen Anordnungen. Sie kann insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Einzelfall die zur Erf\u00fcllung der Anforderungen des \u00a7 2 erforderlichen Ma\u00dfnahmen anordnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Tier, das nach dem Gutachten des beamteten Tierarztes mangels Erf\u00fcllung der Anforderungen des \u00a7 2 erheblich vernachl\u00e4ssigt ist oder schwerwiegende Verhaltensst\u00f6rungen aufzeigt, dem Halter fortnehmen und so lange auf dessen Kosten anderweitig pfleglich unterbringen, bis eine den Anforderungen des \u00a7 2 entsprechende Haltung des Tieres durch den Halter sichergestellt ist; ist eine anderweitige Unterbringung des Tieres nicht m\u00f6glich oder ist nach Fristsetzung durch die zust\u00e4ndige Beh\u00f6rde eine den Anforderungen des \u00a7 2 entsprechende Haltung durch den Halter nicht sicherzustellen, kann die Beh\u00f6rde das Tier ver\u00e4u\u00dfern; die Beh\u00f6rde kann das Tier auf Kosten des Halters unter Vermeidung von Schmerzen t\u00f6ten lassen, wenn die Ver\u00e4u\u00dferung des Tieres aus rechtlichen oder tats\u00e4chlichen Gr\u00fcnden nicht m\u00f6glich ist oder das Tier nach dem Urteil des beamteten Tierarztes nur unter nicht behebbaren erheblichen Schmerzen, Leiden oder Sch\u00e4den weiterleben kann,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">demjenigen, der den Vorschriften des \u00a7 2, einer Anordnung nach Nummer 1 oder einer Rechtsverordnung nach \u00a7 2a wiederholt oder grob zuwidergehandelt und dadurch den von ihm gehaltenen oder betreuten Tieren erhebliche oder l\u00e4nger anhaltende Schmerzen oder Leiden oder erhebliche Sch\u00e4den zugef\u00fcgt hat, das Halten oder Betreuen von Tieren einer bestimmten oder jeder Art untersagen oder es von der Erlangung eines entsprechenden Sachkundenachweises abh\u00e4ngig machen, wenn Tatsachen die Annahme rechtfertigen, dass er weiterhin derartige Zuwiderhandlungen begehen wird; auf Antrag ist ihm das Halten oder Betreuen von Tieren wieder zu gestatten, wenn der Grund f\u00fcr die Annahme weiterer Zuwiderhandlungen entfallen ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einstellung von Tierversuchen anordnen, die ohne die erforderliche Genehmigung oder entgegen einem tierschutzrechtlichen Verbot durchgef\u00fchrt werden.</LA></DD></DL></P><P>(2) Die zust\u00e4ndige Beh\u00f6rde untersagt die Durchf\u00fchrung eines nach \u00a7 8a Absatz 1 oder 3 oder eines auf Grund einer Rechtsverordnung nach \u00a7 8a Absatz 4 anzuzeigenden Versuchsvorhabens oder die Vornahme einer auf Grund einer Rechtsverordnung nach \u00a7 8 Absatz 3 Nummer 4 oder \u00a7 8a Absatz 5 Nummer 4 anzuzeigenden \u00c4nderung eines Versuchsvorhabens, soweit die Einhaltung der f\u00fcr die Durchf\u00fchrung von Tierversuchen geltenden Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht sichergestellt ist und diesem Mangel nicht innerhalb einer von der zust\u00e4ndigen Beh\u00f6rde gesetzten Frist abgeholfen worden ist.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde trifft die erforderlichen Anordnungen um sicherzustellen, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anordnung der Einstellung von Tierversuchen, die Untersagung der Durchf\u00fchrung von Versuchsvorhaben oder der Widerruf oder die R\u00fccknahme der Genehmigung eines Versuchsvorhabens keine nachteiligen Auswirkungen auf das Wohlergehen der Tiere hat, die in den Tierversuchen oder Versuchsvorhaben verwendet werden oder verwendet werden sollen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Untersagung der Aus\u00fcbung einer T\u00e4tigkeit nach \u00a7 11 Absatz 1 Satz 1 Nummer 1 oder die R\u00fccknahme oder der Widerruf einer Erlaubnis nach \u00a7 11 Absatz 1 Satz 1 Nummer 1 keine negativen Auswirkungen auf das Wohlergehen der Tiere hat, die in den der jeweiligen T\u00e4tigkeit dienenden Betrieben oder Einrichtungen gehalten werden.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE004104377",
+        "type": "article",
+        "name": "\u00a7 16b",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Bundesministerium beruft eine Tierschutzkommission zu seiner Unterst\u00fctzung in Fragen des Tierschutzes. Vor dem Erlass von Rechtsverordnungen und allgemeinen Verwaltungsvorschriften nach diesem Gesetz hat das Bundesministerium die Tierschutzkommission anzuh\u00f6ren.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das N\u00e4here \u00fcber Zusammensetzung, Berufung der Mitglieder, Aufgaben und Gesch\u00e4ftsf\u00fchrung der Tierschutzkommission zu regeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE006003360",
+        "type": "article",
+        "name": "\u00a7 16c",
+        "title": null,
+        "body": {
+          "content": "<P>Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Personen, Einrichtungen und Betriebe, die Tierversuche an Wirbeltieren oder Kopff\u00fc\u00dfern durchf\u00fchren oder die Wirbeltiere nach \u00a7 4 Absatz 3 verwenden, sowie Einrichtungen und Betriebe, in denen Wirbeltiere oder Kopff\u00fc\u00dfer f\u00fcr die genannten Zwecke gez\u00fcchtet oder zum Zwecke der Abgabe an Dritte gehalten werden, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu verpflichten, in bestimmten, regelm\u00e4\u00dfigen Zeitabst\u00e4nden der zust\u00e4ndigen Beh\u00f6rde Angaben \u00fcber <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Art, Herkunft und Zahl der verwendeten Tiere und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">den Zweck und die Art der Versuche oder sonstigen Verwendungen einschlie\u00dflich des Schweregrads nach Artikel 15 Absatz 1 der Richtlinie 2010/63/EU</LA></DD></DL>zu melden und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Melde- und \u00dcbermittlungsverfahren zu regeln.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE004204377",
+        "type": "article",
+        "name": "\u00a7 16d",
+        "title": null,
+        "body": {
+          "content": "<P>Das Bundesministerium erl\u00e4sst mit Zustimmung des Bundesrates die allgemeinen Verwaltungsvorschriften, die zur Durchf\u00fchrung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE004305377",
+        "type": "article",
+        "name": "\u00a7 16e",
+        "title": null,
+        "body": {
+          "content": "<P>Die Bundesregierung erstattet dem Deutschen Bundestag alle vier Jahre einen Bericht \u00fcber den Stand der Entwicklung des Tierschutzes.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE005406377",
+        "type": "article",
+        "name": "\u00a7 16f",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die zust\u00e4ndigen Beh\u00f6rden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">erteilen der zust\u00e4ndigen Beh\u00f6rde eines anderen Mitgliedstaates auf begr\u00fcndetes Ersuchen Ausk\u00fcnfte und \u00fcbermitteln die erforderlichen Schriftst\u00fccke, um ihr die \u00dcberwachung der Einhaltung tierschutzrechtlicher Vorschriften zu erm\u00f6glichen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcberpr\u00fcfen die von der ersuchenden Beh\u00f6rde mitgeteilten Sachverhalte und teilen ihr das Ergebnis der Pr\u00fcfung mit.</LA></DD></DL></P><P>(2) Die zust\u00e4ndigen Beh\u00f6rden erteilen der zust\u00e4ndigen Beh\u00f6rde eines anderen Mitgliedstaates unter Beif\u00fcgung der erforderlichen Schriftst\u00fccke Ausk\u00fcnfte, die f\u00fcr die \u00dcberwachung in diesem Mitgliedstaat erforderlich sind, insbesondere bei Verst\u00f6\u00dfen oder Verdacht auf Verst\u00f6\u00dfe gegen tierschutzrechtliche Vorschriften.</P><P>(3) Die zust\u00e4ndigen Beh\u00f6rden k\u00f6nnen, soweit dies zum Schutz der Tiere erforderlich oder durch Rechtsakte der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union vorgeschrieben ist, Daten, die sie im Rahmen der \u00dcberwachung gewonnen haben, den zust\u00e4ndigen Beh\u00f6rden anderer L\u00e4nder und anderer Mitgliedstaaten, dem Bundesministerium, dem Bundesamt f\u00fcr Verbraucherschutz und Lebensmittelsicherheit und der Kommission der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union mitteilen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE005507360",
+        "type": "article",
+        "name": "\u00a7 16g",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Der Verkehr mit den zust\u00e4ndigen Beh\u00f6rden anderer Mitgliedstaaten und der Europ\u00e4ischen Kommission obliegt dem Bundesministerium. Es kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt f\u00fcr Verbraucherschutz und Lebensmittelsicherheit und durch Rechtsverordnung mit Zustimmung des Bundesrates auf die zust\u00e4ndigen obersten Landesbeh\u00f6rden \u00fcbertragen. Ferner kann es im Einzelfall im Benehmen mit der zust\u00e4ndigen obersten Landesbeh\u00f6rde dieser die Befugnis \u00fcbertragen. Die obersten Landesbeh\u00f6rden k\u00f6nnen die Befugnis nach den S\u00e4tzen 2 und 3 auf andere Beh\u00f6rden \u00fcbertragen.</P><P>(2) Abweichend von Absatz 1 Satz 1 obliegt im Falle des Artikels 47 Absatz 5 der Richtlinie 2010/63/EU der Verkehr mit den zust\u00e4ndigen Beh\u00f6rden anderer Mitgliedstaaten und der Europ\u00e4ischen Kommission dem Bundesinstitut f\u00fcr Risikobewertung, soweit sich das Bundesministerium im Einzelfall nicht etwas anderes vorbeh\u00e4lt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE005703377",
+        "type": "article",
+        "name": "\u00a7 16h",
+        "title": null,
+        "body": {
+          "content": "<P>Die \u00a7\u00a7 16f und 16g gelten entsprechend f\u00fcr Staaten, die - ohne Mitgliedstaaten zu sein - Vertragsstaaten des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE005607377",
+        "type": "article",
+        "name": "\u00a7 16i",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ist eine von der zust\u00e4ndigen Beh\u00f6rde getroffene Ma\u00dfnahme, die sich auf die Durchf\u00fchrung von Tiertransporten aus anderen Mitgliedstaaten bezieht, zwischen ihr und dem Verf\u00fcgungsberechtigten streitig, so k\u00f6nnen beide Parteien einvernehmlich den Streit durch den Schiedsspruch eines Sachverst\u00e4ndigen schlichten lassen. Die Streitigkeit ist binnen eines Monats nach Bekanntgabe der Ma\u00dfnahme einem Sachverst\u00e4ndigen zu unterbreiten, der in einem von der Europ\u00e4ischen Kommission aufgestellten Verzeichnis aufgef\u00fchrt ist. Der Sachverst\u00e4ndige hat das Gutachten binnen 72 Stunden zu erstatten.</P><P>(2) Auf den Schiedsvertrag und das schiedsgerichtliche Verfahren finden die Vorschriften der \u00a7\u00a7 1025 bis 1065 der Zivilprozessordnung entsprechende Anwendung. Gericht im Sinne des \u00a7 1062 der Zivilprozessordnung ist das zust\u00e4ndige Verwaltungsgericht, Gericht im Sinne des \u00a7 1065 der Zivilprozessordnung das zust\u00e4ndige Oberverwaltungsgericht. Abweichend von \u00a7 1059 Abs. 3 Satz 1 der Zivilprozessordnung muss der Aufhebungsantrag innerhalb eines Monats bei Gericht eingereicht werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE006500360",
+        "type": "article",
+        "name": "\u00a7 16j",
+        "title": null,
+        "body": {
+          "content": "<P>Verwaltungsverfahren nach diesem Gesetz k\u00f6nnen in den L\u00e4ndern \u00fcber eine einheitliche Stelle abgewickelt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001005360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG001105360",
+        "type": "heading",
+        "name": "Elfter Abschnitt",
+        "title": "Straf- und Bu\u00dfgeldvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE004404377",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": null,
+        "body": {
+          "content": "<P>Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Wirbeltier ohne vern\u00fcnftigen Grund t\u00f6tet oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Wirbeltier<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">aus Rohheit erhebliche Schmerzen oder Leiden oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">l\u00e4nger anhaltende oder sich wiederholende erhebliche Schmerzen oder Leiden</LA></DD></DL></LA><LA Size=\"normal\">zuf\u00fcgt.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001105360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE004515360",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Wirbeltier, das er h\u00e4lt, betreut oder zu betreuen hat, ohne vern\u00fcnftigen Grund erhebliche Schmerzen, Leiden oder Sch\u00e4den zuf\u00fcgt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 2a oder \u00a7 9 Absatz 2, 3, 4 oder 6 Satz 2, jeweils auch in Verbindung mit \u00a7 6 Absatz 1a Satz 1 Nummer 2, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den \u00a7\u00a7 4b, 5 Abs. 4, \u00a7 6 Abs. 4, \u00a7 8a Absatz 4 oder 5 Nummer 1, 2, 3 oder Nummer 4, \u00a7 9 Absatz 1 und 5 Satz 2, auch in Verbindung mit \u00a7 6 Absatz 1a Satz 1 Nummer 2 oder \u00a7 9 Absatz 6 Satz 2, \u00a7 10 Absatz 2 Satz 2, \u00a7 11 Absatz 3, \u00a7 11a Absatz 2, 3 Satz 3 oder Absatz 5, \u00a7 11b Absatz 4 Nummer 2, \u00a7 12 Abs. 2, \u00a7 13 Abs. 2 oder 3, \u00a7\u00a7 13a, 14 Abs. 2, \u00a7 16 Abs. 5 Satz 1 oder \u00a7 16c</LA></DD></DL></LA><LA Size=\"normal\">erlassenen Rechtsverordnung zuwiderhandelt, soweit sie f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Verbot nach \u00a7 3 Satz 1 zuwiderhandelt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 4 Abs. 1 ein Wirbeltier t\u00f6tet,</LA></DD><DT>5a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 4 Absatz 3 Satz 2 einen Hund, eine Katze oder einen Primaten t\u00f6tet,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 4a Abs. 1 ein warmbl\u00fctiges Tier schlachtet,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 5 Abs. 1 Satz 1 einen Eingriff ohne Bet\u00e4ubung vornimmt oder, ohne Tierarzt zu sein, entgegen \u00a7 5 Abs. 1 Satz 2 eine Bet\u00e4ubung vornimmt,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Verbot nach \u00a7 6 Abs. 1 Satz 1 zuwiderhandelt oder entgegen \u00a7 6 Abs. 1 Satz 3 einen Eingriff vornimmt,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>9a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 6 Absatz 1a Satz 2 oder Satz 3 zweiter Halbsatz eine Anzeige nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig erstattet,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 6 Abs. 2 elastische Ringe verwendet,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 7a Absatz 3 oder 4 Satz 1 Tierversuche durchf\u00fchrt,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versuche an Wirbeltieren ohne die nach \u00a7 8 Absatz 1 Satz 1 erforderliche Genehmigung durchf\u00fchrt,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 9 Absatz 6 Satz 1 Nummer 1 Buchstabe b, auch in Verbindung mit \u00a7 6 Absatz 1a Satz 1 Nummer 1, nicht sicherstellt, dass die Vorschrift des \u00a7 7 Absatz 1 Satz 3 eingehalten wird,</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine T\u00e4tigkeit ohne die nach \u00a7 11 Abs. 1 Satz 1 erforderliche Erlaubnis aus\u00fcbt oder einer mit einer solchen Erlaubnis verbundenen vollziehbaren Auflage zuwiderhandelt,</LA></DD><DT>20a.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 11 Absatz 5 Satz 6 oder \u00a7 16a Absatz 1 Satz 2 Nummer 1, 3 oder Nummer 4 oder Absatz 2 oder 3 zuwiderhandelt,</LA></DD><DT>20b.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11 Absatz 6 Satz 1 in Verbindung mit einer Rechtsverordnung nach \u00a7 11 Absatz 6 Satz 2 Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig erstattet,</LA></DD><DT>21.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>21a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11a Absatz 4 Satz 1 ein Wirbeltier einf\u00fchrt,</LA></DD><DT>22.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirbeltiere entgegen \u00a7 11b Abs. 1 z\u00fcchtet oder durch biotechnische Ma\u00dfnahmen ver\u00e4ndert,</LA></DD><DT>23.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11c ein Wirbeltier an Kinder oder Jugendliche bis zum vollendeten 16. Lebensjahr abgibt,</LA></DD><DT>24.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen),</LA></DD><DT>25.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 13 Abs. 1 Satz 1 eine Vorrichtung oder einen Stoff anwendet,</LA></DD><DT>25a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 16 Abs. 1a Satz 1 eine Anzeige nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig erstattet,</LA></DD><DT>26.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 16 Abs. 2 eine Auskunft nicht, nicht richtig oder nicht vollst\u00e4ndig erteilt oder einer Duldungs- oder Mitwirkungspflicht nach \u00a7 16 Abs. 3 Satz 2, auch in Verbindung mit einer Rechtsverordnung nach \u00a7 16 Abs. 5 Satz 2 Nr. 3, zuwiderhandelt oder</LA></DD><DT>27.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen).</LA></DD></DL></P><P>(2) Ordnungswidrig handelt auch, wer, abgesehen von den F\u00e4llen des Absatzes 1 Nr. 1, einem Tier ohne vern\u00fcnftigen Grund erhebliche Schmerzen, Leiden oder Sch\u00e4den zuf\u00fcgt.</P><P>(3) Ordnungswidrig handelt auch, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer unmittelbar geltenden Vorschrift in Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union zuwiderhandelt, die inhaltlich einem in<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Absatz 1 Nummer 4 bis 8, 11, 12, 17, 22 und 25 bezeichneten Gebot oder Verbot entspricht, soweit eine Rechtsverordnung nach \u00a7 18a Nr. 1 f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschriften verweist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Absatz 1 Nummer 9a, 10, 21a, 23 und 25a bezeichneten Gebot oder Verbot entspricht, soweit eine Rechtsverordnung nach \u00a7 18a Nr. 2 f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist, oder</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer unmittelbar geltenden Vorschrift in Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Absatz 1<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Nr. 3 Buchstabe a genannte Vorschrift erm\u00e4chtigt, soweit eine Rechtsverordnung nach \u00a7 18a Nr. 1 f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Nr. 3 Buchstabe b genannten Vorschriften erm\u00e4chtigen, soweit eine Rechtsverordnung nach \u00a7 18a Nr. 2 f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist.</LA></DD></DL></LA></DD></DL></P><P>(4) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nummer 1 und 3 Buchstabe a, Nummer 4 bis 8, 11, 12, 17, 20, 20a, 22 und 25, des Absatzes 2 sowie des Absatzes 3 Nummer 1 Buchstabe a und Nummer 2 Buchstabe a mit einer Geldbu\u00dfe bis zu f\u00fcnfundzwanzigtausend Euro, in den \u00fcbrigen F\u00e4llen mit einer Geldbu\u00dfe bis zu f\u00fcnftausend Euro geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001105360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE006102377",
+        "type": "article",
+        "name": "\u00a7 18a",
+        "title": null,
+        "body": {
+          "content": "<P>Das Bundesministerium wird erm\u00e4chtigt, soweit dies zur Durchsetzung der Rechtsakte der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbest\u00e4nde zu bezeichnen, die als Ordnungswidrigkeit nach <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 18 Abs. 3 Nr. 1 Buchstabe a oder Nr. 2 Buchstabe a oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 18 Abs. 3 Nr. 1 Buchstabe b oder Nr. 2 Buchstabe b</LA></DD></DL>geahndet werden k\u00f6nnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001105360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE004609360",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Tiere, auf die sich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Straftat nach den \u00a7\u00a7 17, 20 Absatz 3 oder \u00a7 20a Absatz 3 oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ordnungswidrigkeit nach \u00a7 18 Absatz 1 Nummer 1 oder 3, soweit die Ordnungswidrigkeit eine Rechtsverordnung nach den \u00a7\u00a7 2a, 5 Absatz 4, \u00a7 9 Absatz 1 bis 3, 4 Satz 2 oder Absatz 6 Satz 2, \u00a7 11b Absatz 4 Nummer 2 oder \u00a7 12 Absatz 2 Nummer 4 oder 5 betrifft, Nummer 4, 8, 12, 17, 20a, 21a, 22 oder Nummer 23</LA></DD></DL>bezieht, k\u00f6nnen eingezogen werden.</P><P>(2) Ferner k\u00f6nnen Tiere eingezogen werden, auf die sich eine Ordnungswidrigkeit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 18 Abs. 3 Nr. 1 bezieht, soweit die Ordnungswidrigkeit eine unmittelbar geltende Vorschrift in Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union betrifft, die inhaltlich einem in \u00a7 18 Absatz 1 Nummer 4, 8, 12, 17, 21a, 22 oder Nummer 23 bezeichneten Gebot oder Verbot entspricht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 18 Abs. 3 Nr. 2 bezieht, soweit die Ordnungswidrigkeit eine unmittelbar geltende Vorschrift in Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union betrifft, die inhaltlich einer Rechtsverordnung nach den \u00a7\u00a7 2a, 5 Abs. 4, \u00a7 9 Absatz 1 bis 4 oder Absatz 6 Satz 2, \u00a7 11b Absatz 4 Nummer 2 oder \u00a7 12 Abs. 2 Nr. 4 oder 5 entspricht.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001105360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE004704360",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Wird jemand wegen einer nach \u00a7 17 rechtswidrigen Tat verurteilt oder nur deshalb nicht verurteilt, weil seine Schuldunf\u00e4higkeit erwiesen oder nicht auszuschlie\u00dfen ist, so kann ihm das Gericht das Halten oder Betreuen von sowie den Handel oder den sonstigen berufsm\u00e4\u00dfigen Umgang mit Tieren jeder oder einer bestimmten Art f\u00fcr die Dauer von einem Jahr bis zu f\u00fcnf Jahren oder f\u00fcr immer verbieten, wenn die Gefahr besteht, dass er weiterhin eine nach \u00a7 17 rechtswidrige Tat begehen wird.</P><P>(2) Das Verbot wird mit Rechtskraft des Urteils oder des Strafbefehls wirksam. In die Verbotsfrist wird die Zeit, in welcher der T\u00e4ter in einer Anstalt verwahrt wird, nicht eingerechnet. Ergibt sich nach der Anordnung des Verbots Grund zu der Annahme, dass die Gefahr, der T\u00e4ter werde nach \u00a7 17 rechtswidrige Taten begehen, nicht mehr besteht, so kann das Gericht das Verbot aufheben, wenn es mindestens sechs Monate gedauert hat.</P><P>(3) Wer einem Verbot nach Absatz 1 zuwiderhandelt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001105360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE005304360",
+        "type": "article",
+        "name": "\u00a7 20a",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Sind dringende Gr\u00fcnde f\u00fcr die Annahme vorhanden, dass ein Verbot nach \u00a7 20 angeordnet werden wird, so kann der Richter dem Beschuldigten durch Beschluss das Halten oder Betreuen von sowie den Handel oder den sonstigen berufsm\u00e4\u00dfigen Umgang mit Tieren jeder oder einer bestimmten Art vorl\u00e4ufig verbieten.</P><P>(2) Das vorl\u00e4ufige Verbot nach Absatz 1 ist aufzuheben, wenn sein Grund weggefallen ist oder wenn das Gericht im Urteil oder im Strafbefehl ein Verbot nach \u00a7 20 nicht anordnet.</P><P>(3) Wer einem Verbot nach Absatz 1 zuwiderhandelt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001105360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNG001206360",
+        "type": "heading",
+        "name": "Zw\u00f6lfter Abschnitt",
+        "title": "\u00dcbergangs- und Schlussvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR012770972BJNE004807119",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": null,
+        "body": {
+          "content": "<P>(1) L\u00e4ngstens bis zum Ablauf des 31. Dezember 2020 ist abweichend von \u00a7 5 Absatz 1 Satz 1 eine Bet\u00e4ubung nicht erforderlich f\u00fcr das Kastrieren von unter acht Tage alten m\u00e4nnlichen Schweinen, sofern kein von der normalen anatomischen Beschaffenheit abweichender Befund vorliegt. Ist eine Bet\u00e4ubung nach Satz 1 nicht erforderlich, gilt \u00a7 5 Absatz 1 Satz 6 mit der Ma\u00dfgabe entsprechend, dass insbesondere schmerzstillende Tierarzneimittel anzuwenden sind.</P><P>(1a) Bis zum 31. Mai 2019 wird dem Deutschen Bundestag eine Rechtsverordnung des Bundesministeriums nach \u00a7 6 Absatz 6 zugeleitet. Die Zuleitung an den Deutschen Bundestag erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnung kann durch Beschluss des Deutschen Bundestages ge\u00e4ndert oder abgelehnt werden. Der Beschluss des Deutschen Bundestages wird dem Bundesministerium zugeleitet. Hat sich der Deutsche Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so wird die unver\u00e4nderte Rechtsverordnung dem Bundesrat zugeleitet. Soweit die Rechtsverordnung auf Grund des Beschlusses des Bundesrates ge\u00e4ndert wird, bedarf es keiner erneuten Zuleitung an den Bundestag.</P><P>(1b) Das Bundesministerium berichtet bis zum 30. Juni 2019 und dann mindestens alle sechs Monate dem zust\u00e4ndigen Fachausschuss des Deutschen Bundestages \u00fcber die Umsetzungsfortschritte bei der Einf\u00fchrung alternativer Verfahren und Methoden zur bet\u00e4ubungslosen Ferkelkastration. Dabei soll das Bundesministerium unter anderem den Stand der arzneimittelrechtlichen Zulassung von Tierarzneimitteln f\u00fcr die Durchf\u00fchrung einer Bet\u00e4ubung bei der Ferkelkastration, den Stand der Technik bei Narkoseger\u00e4ten, das entwickelte Schulungsmaterial und den Schulungserfolg darstellen.</P><P>(2) Bis zum Ablauf des 31. Dezember 2018 ist abweichend von \u00a7 5 Absatz 1 Satz 1 eine Bet\u00e4ubung nicht erforderlich f\u00fcr die Kennzeichnung von Pferden durch Schenkelbrand.</P><P>(3) Im Falle von Tierversuchen nach \u00a7 7 Absatz 2 Satz 1, auch in Verbindung mit Satz 2, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Genehmigung vor dem 13. Juli 2013 nach den Vorschriften dieses Gesetzes in der bis zum 13. Juli 2013 geltenden Fassung unter Einhaltung der Anforderungen nach dessen \u00a7 8 Absatz 2 beantragt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Durchf\u00fchrung vor dem 13. Juli 2013 nach den Vorschriften dieses Gesetzes in der bis zum 13. Juli 2013 geltenden Fassung angezeigt und von der zust\u00e4ndigen Beh\u00f6rde nicht beanstandet</LA></DD></DL>worden ist, sind abweichend von den \u00a7\u00a7 6 bis 10 bis zum 1. Januar 2018 die Vorschriften dieses Gesetzes in der bis zum 13. Juli 2013 geltenden Fassung weiter anzuwenden.</P><P>(4) Die Erlaubnis nach \u00a7 11 Absatz 1 Satz 1 Nummer 1 und 2 gilt demjenigen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der am 12. Juli 2013 eine im Sinne der vorgenannten Vorschriften erlaubnispflichtige T\u00e4tigkeit aus\u00fcbt und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem, soweit es sich dabei um eine nach diesem Gesetz in der bis zum 13. Juli 2013 geltenden Fassung erlaubnispflichtige T\u00e4tigkeit handelt, vor dem 13. Juli 2013 eine entsprechende Erlaubnis erteilt worden ist,</LA></DD></DL>als vorl\u00e4ufig erteilt. Die vorl\u00e4ufige Erlaubnis erlischt, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn nicht bis zum 1. Januar 2014 die Erteilung einer endg\u00fcltigen Erlaubnis beantragt wird oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle rechtzeitiger Antragstellung mit Eintritt der Unanfechtbarkeit der Entscheidung \u00fcber den Antrag.</LA></DD></DL></P><P>(4a) \u00a7 11 Absatz 1 Satz 1 Nummer 5 ist ab dem 1. August 2014 anzuwenden.</P><P>(4b) \u00a7 11 Absatz 1 Nummer 8 Buchstabe f ist ab dem 1. August 2014 anzuwenden.</P><P>(5) Bis zum Erlass einer Rechtsverordnung nach \u00a7 11 Absatz 2 oder 6 Satz 2 ist \u00a7 11 Absatz 1 Satz 2 und 3, Absatz 2, 2a, 5 und 6 in der bis zum 13. Juli 2013 geltenden Fassung weiter anzuwenden mit der Ma\u00dfgabe, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">auch derjenige, der Tierb\u00f6rsen durchf\u00fchrt, ab dem 1. August 2014 die Anforderungen des \u00a7 11 Absatz 2 Nummer 1 in der vorstehend bezeichneten Fassung erf\u00fcllen muss und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">derjenige, der gewerbsm\u00e4\u00dfig mit Wirbeltieren, au\u00dfer landwirtschaftlichen Nutztieren, handelt, ab dem 1. August 2014 sicherzustellen hat, dass bei der erstmaligen Abgabe eines Wirbeltieres einer bestimmten Art an den jeweiligen k\u00fcnftigen Tierhalter mit dem Tier schriftliche Informationen \u00fcber die wesentlichen Bed\u00fcrfnisse des Tieres, insbesondere im Hinblick auf seine angemessene Ern\u00e4hrung und Pflege sowie verhaltensgerechte Unterbringung und artgem\u00e4\u00dfe Bewegung, \u00fcbergeben werden; dies gilt nicht bei der Abgabe an den Inhaber einer Erlaubnis nach \u00a7 11 Absatz 1 Satz 1 Nummer 3 Buchstabe b in der vorstehend bezeichneten Fassung.</LA></DD></DL>Bis zum Erlass einer Rechtsverordnung nach \u00a7 11 Absatz 2 Satz 1 Nummer 1 ist im Rahmen des \u00a7 11 Absatz 5 Satz 5 darauf abzustellen, ob der Antragsteller den Anforderungen des \u00a7 11 Absatz 1 Satz 2 und 3 in der bis zum 13. Juli 2013 geltenden Fassung nachgekommen ist.</P><P>(6) \u00a7 11 Absatz 8 ist ab dem 1. Februar 2014 anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001206360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE004905377",
+        "type": "article",
+        "name": "\u00a7 21a",
+        "title": null,
+        "body": {
+          "content": "<P>Rechtsverordnungen nach diesem Gesetz k\u00f6nnen auch zur Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union auf dem Gebiet des Tierschutzes erlassen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001206360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE005007360",
+        "type": "article",
+        "name": "\u00a7 21b",
+        "title": null,
+        "body": {
+          "content": "<P>Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Verweisungen auf Vorschriften in Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu \u00e4ndern, soweit es zur Anpassung an \u00c4nderungen dieser Vorschriften erforderlich ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001206360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE006205301",
+        "type": "article",
+        "name": "\u00a7 21c",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Die nach \u00a7 13a Abs. 3, auch in Verbindung mit einer Rechtsverordnung nach Abs. 4, zust\u00e4ndige Beh\u00f6rde erhebt f\u00fcr individuell zurechenbare \u00f6ffentliche Leistungen nach diesem Gesetz oder auf Grund dieses Gesetzes erlassener Rechtsverordnungen Geb\u00fchren und Auslagen.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die geb\u00fchrenpflichtigen Tatbest\u00e4nde zu bestimmen und dabei feste S\u00e4tze oder Rahmens\u00e4tze vorzusehen. Die Geb\u00fchrens\u00e4tze sind so zu bemessen, dass der mit den individuell zurechenbaren \u00f6ffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird. Bei der Bemessung der H\u00f6he der Geb\u00fchr ist auch der mit den Mitwirkungshandlungen beteiligter Pr\u00fcfeinrichtungen verbundene Aufwand zu ber\u00fccksichtigen. Die zu erstattenden Auslagen k\u00f6nnen abweichend vom Bundesgeb\u00fchrengesetz geregelt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001206360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE006600360",
+        "type": "article",
+        "name": "\u00a7 21d",
+        "title": null,
+        "body": {
+          "content": "<P>Rechtsverordnungen nach diesem Gesetz k\u00f6nnen abweichend von \u00a7 2 Absatz 1 des Verk\u00fcndungs- und Bekanntmachungsgesetzes im Bundesanzeiger verk\u00fcndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001206360"
+        }
+      },
+      {
+        "id": "BJNR012770972BJNE005204377",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": null,
+        "body": {
+          "content": "<P>(Inkrafttreten)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012770972BJNG001206360"
+        }
+      }
+    ]
+  }
+}

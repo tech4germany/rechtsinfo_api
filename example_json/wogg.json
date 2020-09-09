@@ -1,0 +1,958 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR185610008",
+    "abbreviation": "WoGG",
+    "extraAbbreviations": [],
+    "firstPublished": "2008-09-24",
+    "sourceTimestamp": "20200604212511",
+    "headingShort": null,
+    "headingLong": "Wohngeldgesetz",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "2008, 1856"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 55 G v. 12.12.2019 I 2652"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "\u00c4nderung durch Art. 1 G v. 15.5.2020 I 1015 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "\u00c4nderung durch Art. 1b G v. 15.5.2020 I 1015 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "Mittelbare \u00c4nderung durch Art. 1a G v. 15.5.2020 I 1015 ist ber\u00fccksichtigt"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2009 +++)<BR/><BR/></pre>Das G wurde als Artikel 1 G v. 24.9.2008 I 1856 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 6 Abs. 1 Satz 1 mWv 1.1.2009 in  Kraft. \u00a7 12 Abs. 2 bis 5 und \u00a7 38 treten gem. Art. 6 Abs. 2 Satz 1 am 1.10.2008 in Kraft.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR185610008BJNE000105126",
+        "type": "article",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "body": {
+          "content": "<Ident Class=\"S0\">Teil 1<BR/></Ident><Title Align=\"auto\" Class=\"S0\">Zweck des Wohngeldes und Wohngeldberechtigung<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a01</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Zweck des Wohngeldes</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a02</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Wohnraum</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a03</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Wohngeldberechtigung</entry></row></tbody></tgroup></table><Ident Class=\"S0\"><BR/><BR/>Teil 2<BR/></Ident><Title Align=\"auto\" Class=\"S0\">Berechnung und H\u00f6he des Wohngeldes<BR/><BR/></Title><Ident Class=\"S2\">Kapitel 1<BR/></Ident><Title Align=\"auto\" Class=\"S2\">Berechnungsgr\u00f6\u00dfen des Wohngeldes<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a04</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Berechnungsgr\u00f6\u00dfen des Wohngeldes</entry></row></tbody></tgroup></table><Ident Class=\"S2\"><BR/><BR/>Kapitel 2<BR/></Ident><Title Align=\"auto\" Class=\"S2\">Haushaltsmitglieder<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a05</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Haushaltsmitglieder</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a06</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Zu ber\u00fccksichtigende Haushaltsmitglieder</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a07</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Ausschluss vom Wohngeld</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a08</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Dauer des Ausschlusses vom Wohngeld und Verzicht auf Leistungen</entry></row></tbody></tgroup></table><Ident Class=\"S2\"><BR/><BR/>Kapitel 3<BR/></Ident><Title Align=\"auto\" Class=\"S2\">Miete und Belastung<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 \u00a09</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Miete</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 10</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Belastung</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 11</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Zu ber\u00fccksichtigende Miete und Belastung</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 12</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung</entry></row></tbody></tgroup></table><Ident Class=\"S2\"><BR/><BR/>Kapitel 4<BR/></Ident><Title Align=\"auto\" Class=\"S2\">Einkommen<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 13</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Gesamteinkommen</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 14</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Jahreseinkommen</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 15</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Ermittlung des Jahreseinkommens</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 16</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Abzugsbetr\u00e4ge f\u00fcr Steuern und Sozialversicherungsbeitr\u00e4ge</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 17</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Freibetr\u00e4ge</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 18</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Abzugsbetr\u00e4ge f\u00fcr Unterhaltsleistungen</entry></row></tbody></tgroup></table><Ident Class=\"S2\"><BR/><BR/>Kapitel 5</Ident><Title Align=\"auto\" Class=\"S2\">H\u00f6he des Wohngeldes<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 19</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">H\u00f6he des Wohngeldes</entry></row></tbody></tgroup></table><Ident Class=\"S0\"><BR/><BR/>Teil 3</Ident><Title Align=\"auto\" Class=\"S0\">Nichtbestehen des Wohngeldanspruchs<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 20</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Gesetzeskonkurrenz</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 21</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Sonstige Gr\u00fcnde</entry></row></tbody></tgroup></table><Ident Class=\"S0\"><BR/><BR/>Teil 4</Ident><Title Align=\"auto\" Class=\"S0\">Bewilligung,<BR/> Zahlung und \u00c4nderung des Wohngeldes<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 22</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Wohngeldantrag</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 23</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Auskunftspflicht</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 24</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Wohngeldbeh\u00f6rde und Entscheidung</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 25</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Bewilligungszeitraum</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 26</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Zahlung des Wohngeldes</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 27</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">\u00c4nderung des Wohngeldes</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 28</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Unwirksamkeit des Bewilligungsbescheides und Wegfall des Wohngeldanspruchs</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 29</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Haftung, Aufrechnung, Verrechnung und vorl\u00e4ufige Zahlungseinstellung</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 30</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">R\u00fcck\u00fcberweisung und Erstattung im Todesfall</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 31</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">R\u00fccknahme eines rechtswidrigen nicht beg\u00fcnstigenden Wohngeldbescheides</entry></row></tbody></tgroup></table><Ident Class=\"S0\"><BR/><BR/>Teil 5</Ident><Title Align=\"auto\" Class=\"S0\">Kostentragung und Datenabgleich<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 32</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Erstattung des Wohngeldes durch den Bund</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 33</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Datenabgleich</entry></row></tbody></tgroup></table><Ident Class=\"S0\"><BR/><BR/>Teil 6</Ident><Title Align=\"auto\" Class=\"S0\">Wohngeldstatistik<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 34</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Zweck der Wohngeldstatistik, Auskunfts- und Hinweispflicht</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 35</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Erhebungs- und Hilfsmerkmale</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 36</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Erhebungszeitraum und Zusatzaufbereitungen</entry></row></tbody></tgroup></table><Ident Class=\"S0\"><BR/><BR/>Teil 7</Ident><Title Align=\"auto\" Class=\"S0\">Schlussvorschriften<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 37</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Bu\u00dfgeld</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 38</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 39</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Wohngeld- und Mietenbericht; Bericht \u00fcber die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 40</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Einkommen bei anderen Sozialleistungen</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 41</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Auswirkung von Rechts\u00e4nderungen auf die Wohngeldentscheidung</entry></row></tbody></tgroup></table><Ident Class=\"S0\"><BR/><BR/>Teil 8</Ident><Title Align=\"auto\" Class=\"S0\">\u00dcberleitungsvorschriften<BR/><BR/></Title><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"8.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 42</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Gesetz zur Neuregelung des Wohngeldrechts und zur \u00c4nderung des Sozialgesetzbuches</entry></row><row><entry VJ=\"1\">\u00a7 42a</entry><entry VJ=\"1\">\u00dcbergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur \u00c4nderung des Wohnraumf\u00f6rderungsgesetzes</entry></row><row><entry VJ=\"1\">\u00a7 42b</entry><entry VJ=\"1\">\u00dcbergangsregelung aus Anlass des Gesetzes zur St\u00e4rkung des Wohngeldes</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 43</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">Fortschreibung des Wohngeldes</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">\u00a7 44</entry><entry VJ=\"1\" align=\"left\" colname=\"col2\" colsep=\"0\" valign=\"top\">\u00dcbergangsregelung bei Fortschreibung des Wohngeldes</entry></row></tbody></tgroup></table><table frame=\"none\" pgwide=\"1\" tabstyle=\"inhalt\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"1\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\"/><tbody valign=\"top\"><row><entry VJ=\"1\"><BR/>Anlage 1<BR/>(zu \u00a7 12 Absatz 1)<BR/><BR/></entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">Anlage 2<BR/>(zu \u00a7 19 Absatz 1)<BR/> Werte f\u00fcr \u201ea\u201c, \u201eb\u201c und \u201ec\u201c<BR/><BR/></entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"0\" valign=\"top\">Anlage 3<BR/>(zu \u00a7 19 Absatz 2)<BR/> Rechenschritte und Rundungen</entry></row></tbody></tgroup></table>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNG000100000",
+        "type": "heading",
+        "name": "Teil 1",
+        "title": "Zweck des Wohngeldes und Wohngeldberechtigung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNE000200000",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Zweck des Wohngeldes",
+        "body": {
+          "content": "<P>(1) Das Wohngeld dient der wirtschaftlichen Sicherung angemessenen und familiengerechten Wohnens.</P><P>(2) Das Wohngeld wird als Zuschuss zur Miete (Mietzuschuss) oder zur Belastung (Lastenzuschuss) f\u00fcr den selbst genutzten Wohnraum geleistet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE000300000",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Wohnraum",
+        "body": {
+          "content": "<P>Wohnraum sind R\u00e4ume, die vom Verf\u00fcgungsberechtigten zum Wohnen bestimmt und hierf\u00fcr nach ihrer baulichen Anlage und Ausstattung tats\u00e4chlich geeignet sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004901126",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Wohngeldberechtigung",
+        "body": {
+          "content": "<P>(1) Wohngeldberechtigte Person ist f\u00fcr den Mietzuschuss jede nat\u00fcrliche Person, die Wohnraum gemietet hat und diesen selbst nutzt. Ihr gleichgestellt sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nutzungsberechtigte Person des Wohnraums bei einem dem Mietverh\u00e4ltnis \u00e4hnlichen Nutzungsverh\u00e4ltnis (zur miet\u00e4hnlichen Nutzung berechtigte Person), insbesondere die Person, die ein miet\u00e4hnliches Dauerwohnrecht hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Person, die Wohnraum im eigenen Haus, das mehr als zwei Wohnungen hat, bewohnt, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Person, die in einem Heim im Sinne des Heimgesetzes oder entsprechender Gesetze der L\u00e4nder nicht nur vor\u00fcbergehend aufgenommen ist.</LA></DD></DL></P><P>(2) Wohngeldberechtigte Person ist f\u00fcr den Lastenzuschuss jede nat\u00fcrliche Person, die Eigentum an selbst genutztem Wohnraum hat. Ihr gleichgestellt sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erbbauberechtigte Person,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Person, die ein eigentums\u00e4hnliches Dauerwohnrecht, ein Wohnungsrecht oder einen Nie\u00dfbrauch innehat, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Person, die einen Anspruch auf Bestellung oder \u00dcbertragung des Eigentums, des Erbbaurechts, des eigentums\u00e4hnlichen Dauerwohnrechts, des Wohnungsrechts oder des Nie\u00dfbrauchs hat.</LA></DD></DL>Die S\u00e4tze 1 und 2 gelten nicht im Fall des Absatzes 1 Satz 2 Nr. 2.</P><P>(3) Erf\u00fcllen mehrere Personen f\u00fcr denselben Wohnraum die Voraussetzungen des Absatzes 1 oder des Absatzes 2 und sind sie zugleich Haushaltsmitglieder (\u00a7 5), ist nur eine dieser Personen wohngeldberechtigt. In diesem Fall bestimmen diese Personen die wohngeldberechtigte Person.</P><P>(4) Wohngeldberechtigt ist nach Ma\u00dfgabe der Abs\u00e4tze 1 bis 3 auch, wer zwar nach den \u00a7\u00a7 7 und 8 Abs. 1 vom Wohngeld ausgeschlossen ist, aber mit mindestens einem zu ber\u00fccksichtigenden Haushaltsmitglied (\u00a7 6) Wohnraum gemeinsam bewohnt.</P><P>(5) Ausl\u00e4nder im Sinne des \u00a7 2 Abs. 1 des Aufenthaltsgesetzes (ausl\u00e4ndische Personen) sind nach Ma\u00dfgabe der Abs\u00e4tze 1 bis 4 nur wohngeldberechtigt, wenn sie sich im Bundesgebiet tats\u00e4chlich aufhalten und <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Aufenthaltsrecht nach dem Freiz\u00fcgigkeitsgesetz/EU haben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Aufenthaltstitel oder eine Duldung nach dem Aufenthaltsgesetz haben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Recht auf Aufenthalt nach einem v\u00f6lkerrechtlichen Abkommen haben,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Aufenthaltsgestattung nach dem Asylgesetz haben,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Rechtsstellung eines heimatlosen Ausl\u00e4nders im Sinne des Gesetzes \u00fcber die Rechtsstellung heimatloser Ausl\u00e4nder im Bundesgebiet haben oder</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund einer Rechtsverordnung vom Erfordernis eines Aufenthaltstitels befreit sind.</LA></DD></DL>Nicht wohngeldberechtigt sind ausl\u00e4ndische Personen, die durch eine v\u00f6lkerrechtliche Vereinbarung von der Anwendung deutscher Vorschriften auf dem Gebiet der sozialen Sicherheit befreit sind. In der Regel nicht wohngeldberechtigt sind Ausl\u00e4nder, die im Besitz eines Aufenthaltstitels zur Ausbildungsplatzsuche nach \u00a7 17 Absatz 1 des Aufenthaltsgesetzes, zur Arbeitsplatzsuche nach \u00a7 20 des Aufenthaltsgesetzes, f\u00fcr ein studienbezogenes Praktikum nach \u00a7 16e des Aufenthaltsgesetzes oder zur Teilnahme am europ\u00e4ischen Freiwilligendienst nach \u00a7 19e des Aufenthaltsgesetzes sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG000200000",
+        "type": "heading",
+        "name": "Teil 2",
+        "title": "Berechnung und H\u00f6he des Wohngeldes",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNG000300000",
+        "type": "heading",
+        "name": "Kapitel 1",
+        "title": "Berechnungsgr\u00f6\u00dfen des Wohngeldes",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE000500000",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Berechnungsgr\u00f6\u00dfen des Wohngeldes",
+        "body": {
+          "content": "<P>Das Wohngeld richtet sich nach <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder (\u00a7\u00a7 5 bis 8),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der zu ber\u00fccksichtigenden Miete oder Belastung (\u00a7\u00a7 9 bis 12) und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>dem Gesamteinkommen (\u00a7\u00a7 13 bis 18)</LA></DD></DL>und ist nach \u00a7 19 zu berechnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG000400000",
+        "type": "heading",
+        "name": "Kapitel 2",
+        "title": "Haushaltsmitglieder",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE000601305",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Haushaltsmitglieder",
+        "body": {
+          "content": "<P>(1) Haushaltsmitglied ist die wohngeldberechtigte Person, wenn der Wohnraum, f\u00fcr den sie Wohngeld beantragt, der Mittelpunkt ihrer Lebensbeziehungen ist. Haushaltsmitglied ist auch, wer <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>als Ehegatte eines Haushaltsmitgliedes von diesem nicht dauernd getrennt lebt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>als Lebenspartner oder Lebenspartnerin eines Haushaltsmitgliedes von diesem nicht dauernd getrennt lebt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>mit einem Haushaltsmitglied so zusammenlebt, dass nach verst\u00e4ndiger W\u00fcrdigung der wechselseitige Wille anzunehmen ist, Verantwortung f\u00fcreinander zu tragen und f\u00fcreinander einzustehen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>mit einem Haushaltsmitglied in gerader Linie oder zweiten oder dritten Grades in der Seitenlinie verwandt oder verschw\u00e4gert ist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>ohne R\u00fccksicht auf das Alter Pflegekind eines Haushaltsmitgliedes ist,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Pflegemutter oder Pflegevater eines Haushaltsmitgliedes ist</LA></DD></DL>und mit der wohngeldberechtigten Person den Wohnraum, f\u00fcr den Wohngeld beantragt wird, gemeinsam bewohnt, wenn dieser Wohnraum der jeweilige Mittelpunkt der Lebensbeziehungen ist.</P><P>(2) Ein wechselseitiger Wille, Verantwortung f\u00fcreinander zu tragen und f\u00fcreinander einzustehen, wird vermutet, wenn mindestens eine der Voraussetzungen nach den Nummern 1 bis 4 des \u00a7 7 Abs. 3a des Zweiten Buches Sozialgesetzbuch erf\u00fcllt ist.</P><P>(3) Ausl\u00e4ndische Personen sind nur Haushaltsmitglieder nach Absatz 1 Satz 2, wenn sie die Voraussetzungen der Wohngeldberechtigung nach \u00a7 3 Abs. 5 erf\u00fcllen.</P><P>(4) Betreuen nicht nur vor\u00fcbergehend getrennt lebende Eltern ein Kind oder mehrere Kinder zu ann\u00e4hernd gleichen Teilen, ist jedes dieser Kinder bei beiden Elternteilen Haushaltsmitglied. Gleiches gilt bei einer Aufteilung der Betreuung bis zu einem Verh\u00e4ltnis von mindestens einem Drittel zu zwei Dritteln je Kind. Betreuen die Eltern mindestens zwei dieser Kinder nicht in einem Verh\u00e4ltnis nach Satz 1 oder 2, ist bei dem Elternteil mit dem geringeren Betreuungsanteil nur das j\u00fcngste dieser Kinder Haushaltsmitglied. F\u00fcr Pflegekinder und Pflegeeltern gelten die S\u00e4tze 1 bis 3 entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE000700000",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Zu ber\u00fccksichtigende Haushaltsmitglieder",
+        "body": {
+          "content": "<P>(1) Bei der Berechnung des Wohngeldes sind vorbehaltlich des Absatzes 2 und der \u00a7\u00a7 7 und 8 s\u00e4mtliche Haushaltsmitglieder zu ber\u00fccksichtigen (zu ber\u00fccksichtigende Haushaltsmitglieder).</P><P>(2) Stirbt ein zu ber\u00fccksichtigendes Haushaltsmitglied, ist dies f\u00fcr die Dauer von zw\u00f6lf Monaten nach dem Sterbemonat ohne Einfluss auf die bisher ma\u00dfgebende Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder. Satz 1 ist nicht mehr anzuwenden, wenn nach dem Todesfall <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Wohnung aufgegeben wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Zahl der zu ber\u00fccksichtigenden Haushaltsmitglieder sich mindestens auf den Stand vor dem Todesfall erh\u00f6ht oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der auf den Verstorbenen entfallende Anteil der Kosten der Unterkunft in einer Leistung nach \u00a7 7 Abs. 1 mindestens teilweise ber\u00fccksichtigt wird.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE000807126",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Ausschluss vom Wohngeld",
+        "body": {
+          "content": "<P>(1) Vom Wohngeld ausgeschlossen sind Empf\u00e4nger und Empf\u00e4ngerinnen von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Arbeitslosengeld II und Sozialgeld nach dem Zweiten Buch Sozialgesetzbuch, auch in den F\u00e4llen des \u00a7 25 des Zweiten Buches Sozialgesetzbuch,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen f\u00fcr Auszubildende nach \u00a7 27 Absatz 3 des Zweiten Buches Sozialgesetzbuch, die als Zuschuss erbracht werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcbergangsgeld in H\u00f6he des Betrages des Arbeitslosengeldes II nach \u00a7 21 Abs. 4 Satz 1 des Sechsten Buches Sozialgesetzbuch,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verletztengeld in H\u00f6he des Betrages des Arbeitslosengeldes II nach \u00a7 47 Abs. 2 des Siebten Buches Sozialgesetzbuch,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundsicherung im Alter und bei Erwerbsminderung nach dem Zw\u00f6lften Buch Sozialgesetzbuch,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hilfe zum Lebensunterhalt nach dem Zw\u00f6lften Buch Sozialgesetzbuch,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">erg\u00e4nzender Hilfe zum Lebensunterhalt oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">anderen Hilfen in einer station\u00e4ren Einrichtung, die den Lebensunterhalt umfassen,</LA></DD></DL>nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das dieses f\u00fcr anwendbar erkl\u00e4rt,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen in besonderen F\u00e4llen und Grundleistungen nach dem Asylbewerberleistungsgesetz oder</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen nach dem Achten Buch Sozialgesetzbuch in Haushalten, zu denen ausschlie\u00dflich Personen geh\u00f6ren, die diese Leistungen empfangen,</LA></DD></DL>wenn bei deren Berechnung Kosten der Unterkunft ber\u00fccksichtigt worden sind (Leistungen). Der Ausschluss besteht in den F\u00e4llen des Satzes 1 Nr. 3 und 4, wenn bei der Berechnung des Arbeitslosengeldes II Kosten der Unterkunft ber\u00fccksichtigt worden sind. Der Ausschluss besteht nicht, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen nach den S\u00e4tzen 1 und 2 ausschlie\u00dflich als Darlehen gew\u00e4hrt werden oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Wohngeld die Hilfebed\u00fcrftigkeit im Sinne des \u00a7 9 des Zweiten Buches Sozialgesetzbuch, des \u00a7 19 Abs. 1 und 2 des Zw\u00f6lften Buches Sozialgesetzbuch oder des \u00a7 27a des Bundesversorgungsgesetzes vermieden oder beseitigt werden kann und <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen nach Satz 1 Nr. 1 bis 7 w\u00e4hrend der Dauer des Verwaltungsverfahrens zur Feststellung von Grund und H\u00f6he dieser Leistungen noch nicht erbracht worden sind oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der zust\u00e4ndige Tr\u00e4ger eine der in Satz 1 Nr. 1 bis 7 genannten Leistungen als nachrangig verpflichteter Leistungstr\u00e4ger nach \u00a7 104 des Zehnten Buches Sozialgesetzbuch erbringt.</LA></DD></DL></LA></DD></DL></P><P>(2) Ausgeschlossen sind auch Haushaltsmitglieder, die keine Empf\u00e4nger der in Absatz 1 Satz 1 genannten Leistungen sind und <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in \u00a7 7 Absatz 3 des Zweiten Buches Sozialgesetzbuch, auch in den F\u00e4llen des \u00dcbergangs- oder Verletztengeldes nach Absatz\u00a01 Satz\u00a01 Nummer 3 und 4 genannt und deren Einkommen und Verm\u00f6gen bei der Ermittlung der Leistungen eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 1, 3 oder 4 ber\u00fccksichtigt worden sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Einkommen und Verm\u00f6gen nach \u00a7 43 Absatz 1 Satz 2 des Zw\u00f6lften Buches Sozialgesetzbuch bei der Ermittlung der Leistung eines anderen Haushaltsmitglieds nach Absatz\u00a01 Satz\u00a01 Nummer 5 ber\u00fccksichtigt worden sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Einkommen und Verm\u00f6gen nach \u00a7\u00a027 Absatz 2 Satz 2 oder 3 des Zw\u00f6lften Buches Sozialgesetzbuch bei der Ermittlung der Leistung eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 6 ber\u00fccksichtigt worden sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Einkommen und Verm\u00f6gen nach \u00a7 27a Satz 2 des Bundesversorgungsgesetzes in Verbindung mit \u00a7 27 Absatz 2 Satz 2 oder 3 des Zw\u00f6lften Buches Sozialgesetzbuch bei der Ermittlung der Leistung eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 7 ber\u00fccksichtigt worden sind, oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Einkommen und Verm\u00f6gen nach \u00a7 7 Absatz 1 des Asylbewerberleistungsgesetzes bei der Ermittlung der Leistung eines anderen Haushaltsmitglieds nach Absatz 1 Satz 1 Nummer 8 ber\u00fccksichtigt worden sind.</LA></DD></DL>Der Ausschluss besteht nicht, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen nach Absatz 1 Satz 1 und 2 ausschlie\u00dflich als Darlehen gew\u00e4hrt werden oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen des Absatzes 1 Satz 3 Nr. 2 vorliegen.</LA></DD></DL></P><P>(3) Ausgeschlossen sind auch Haushaltsmitglieder, deren Leistungen nach Absatz 1 auf Grund einer Sanktion vollst\u00e4ndig weggefallen sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE000902305",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Dauer des Ausschlusses vom Wohngeld und Verzicht auf Leistungen",
+        "body": {
+          "content": "<P>(1) Der Ausschluss vom Wohngeld besteht vorbehaltlich des \u00a7 7 Abs. 1 Satz 3 Nr. 2 und Abs. 2 Satz 2 Nr. 2 f\u00fcr die Dauer des Verwaltungsverfahrens zur Feststellung von Grund und H\u00f6he der Leistungen nach \u00a7 7 Abs. 1. Der Ausschluss besteht vorbehaltlich des \u00a7 7 Abs. 1 Satz 3 Nr. 2 und Abs. 2 Satz 2 Nr. 2<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>nach der Antragstellung auf eine Leistung nach \u00a7 7 Abs. 1 ab dem Ersten <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>des Monats, f\u00fcr den der Antrag gestellt worden ist, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>des n\u00e4chsten Monats, wenn die Leistung nach \u00a7 7 Abs. 1 nicht vom Ersten eines Monats an beantragt wird,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>nach der Bewilligung einer Leistung nach \u00a7 7 Abs. 1 ab dem Ersten <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>des Monats, f\u00fcr den die Leistung nach \u00a7 7 Abs. 1 bewilligt wird, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>des n\u00e4chsten Monats, wenn die Leistung nach \u00a7 7 Abs. 1 nicht vom Ersten eines Monats an bewilligt wird,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>bis zum Letzten <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>des Monats, wenn die Leistung nach \u00a7 7 Abs. 1 bis zum Letzten eines Monats bewilligt wird, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>des Vormonats, wenn die Leistung nach \u00a7 7 Abs. 1 nicht bis zum Letzten eines Monats bewilligt wird.</LA></DD></DL></LA></DD></DL>Der Ausschluss gilt f\u00fcr den Zeitraum als nicht erfolgt, f\u00fcr den <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Antrag auf eine Leistung nach \u00a7 7 Absatz 1 zur\u00fcckgenommen wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Leistung nach \u00a7 7 Absatz 1 abgelehnt, versagt, entzogen oder ausschlie\u00dflich als Darlehen gew\u00e4hrt wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Bewilligungsbescheid \u00fcber eine Leistung nach \u00a7 7 Absatz 1 zur\u00fcckgenommen oder aufgehoben wird,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der Anspruch auf eine Leistung nach \u00a7 7 Absatz 1 nachtr\u00e4glich im Sinne des \u00a7 103 Absatz 1 des Zehnten Buches Sozialgesetzbuch ganz entfallen ist oder nach \u00a7 104 Absatz 1 oder 2 des Zehnten Buches Sozialgesetzbuch oder nach \u00a7 40a des Zweiten Buches Sozialgesetzbuch nachrangig ist oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Leistung nach \u00a7 7 Absatz 1 nachtr\u00e4glich durch den \u00dcbergang eines Anspruchs in vollem Umfang erstattet wird.</LA></DD></DL></P><P>(2) Verzichten Haushaltsmitglieder auf die Leistungen nach \u00a7 7 Abs. 1, um Wohngeld zu beantragen, gilt ihr Ausschluss vom Zeitpunkt der Wirkung des Verzichts an als nicht erfolgt; \u00a7 46 Abs. 2 des Ersten Buches Sozialgesetzbuch ist in diesem Fall nicht anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG000500000",
+        "type": "heading",
+        "name": "Kapitel 3",
+        "title": "Miete und Belastung",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001002126",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Miete",
+        "body": {
+          "content": "<P>(1) Miete ist das vereinbarte Entgelt f\u00fcr die Gebrauchs\u00fcberlassung von Wohnraum auf Grund von Mietvertr\u00e4gen oder \u00e4hnlichen Nutzungsverh\u00e4ltnissen einschlie\u00dflich Umlagen, Zuschl\u00e4gen und Verg\u00fctungen.</P><P>(2) Bei der Ermittlung der Miete nach Absatz 1 bleiben folgende Kosten und Verg\u00fctungen au\u00dfer Betracht: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Heizkosten und Kosten f\u00fcr die Erw\u00e4rmung von Wasser,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kosten der eigenst\u00e4ndig gewerblichen Lieferung von W\u00e4rme und Warmwasser, soweit sie den in Nummer 1 bezeichneten Kosten entsprechen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kosten der Haushaltsenergie, soweit sie nicht von den Nummern 1 und 2 erfasst sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verg\u00fctungen f\u00fcr die \u00dcberlassung einer Garage sowie eines Stellplatzes f\u00fcr Kraftfahrzeuge,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verg\u00fctungen f\u00fcr Leistungen, die \u00fcber die Gebrauchs\u00fcberlassung von Wohnraum hinausgehen, insbesondere f\u00fcr allgemeine Unterst\u00fctzungsleistungen wie die Vermittlung von Pflege- oder Betreuungsleistungen, Leistungen der hauswirtschaftlichen Versorgung oder Notrufdienste.</LA></DD></DL>Ergeben sich diese Betr\u00e4ge nicht aus dem Mietvertrag oder entsprechenden Unterlagen, sind Pauschbetr\u00e4ge abzusetzen.</P><P>(3) Im Fall des \u00a7 3 Abs. 1 Satz 2 Nr. 2 ist als Miete der Mietwert des Wohnraums zu Grunde zu legen. Im Fall des \u00a7 3 Abs. 1 Satz 2 Nr. 3 ist als Miete der H\u00f6chstbetrag nach \u00a7 12 Abs. 1 zu Grunde zu legen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001100000",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Belastung",
+        "body": {
+          "content": "<P>(1) Belastung sind die Kosten f\u00fcr den Kapitaldienst und die Bewirtschaftung von Wohnraum in vereinbarter oder festgesetzter H\u00f6he.</P><P>(2) Die Belastung ist von der Wohngeldbeh\u00f6rde (\u00a7 24 Abs. 1 Satz 1) in einer Wohngeld-Lastenberechnung zu ermitteln. Von einer vollst\u00e4ndigen Wohngeld-Lastenberechnung kann abgesehen werden, wenn die auf den Wohnraum entfallende Belastung aus Zinsen und Tilgungen den nach \u00a7 12 Abs. 1 ma\u00dfgebenden H\u00f6chstbetrag erreicht oder \u00fcbersteigt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001201308",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Zu ber\u00fccksichtigende Miete und Belastung",
+        "body": {
+          "content": "<P>(1) Bei der Berechnung des Wohngeldes ist die Miete oder Belastung zu ber\u00fccksichtigen, die sich nach \u00a7 9 oder \u00a7 10 ergibt, soweit sie nicht nach den Abs\u00e4tzen 2 und 3 in dieser Berechnungsreihenfolge au\u00dfer Betracht bleibt, jedoch nur bis zum H\u00f6chstbetrag nach \u00a7 12 Absatz 1. Im Fall des \u00a7 3 Absatz 1 Satz 2 Nummer 3 ist der H\u00f6chstbetrag nach \u00a7 12 Absatz 1 zu ber\u00fccksichtigen.</P><P>(2) Die Miete oder Belastung, die sich nach \u00a7 9 oder \u00a7 10 ergibt, bleibt in folgender Berechnungsreihenfolge und zu dem Anteil au\u00dfer Betracht, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der auf den Teil des Wohnraums entf\u00e4llt, der ausschlie\u00dflich gewerblich oder beruflich genutzt wird;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der auf den Teil des Wohnraums entf\u00e4llt, der einer Person, die kein Haushaltsmitglied ist, entgeltlich oder unentgeltlich zum Gebrauch \u00fcberlassen ist; \u00fcbersteigt das Entgelt f\u00fcr die Gebrauchs\u00fcberlassung die auf diesen Teil des Wohnraums entfallende Miete oder Belastung, ist das Entgelt in voller H\u00f6he abzuziehen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der dem Anteil einer entgeltlich oder unentgeltlich mitbewohnenden Person, die kein Haushaltsmitglied ist, aber deren Mittelpunkt der Lebensbeziehungen der Wohnraum ist und die nicht selbst die Voraussetzungen des \u00a7 3 Abs. 1 oder Abs. 2 erf\u00fcllt, an der Gesamtzahl der Bewohner und Bewohnerinnen entspricht; \u00fcbersteigt das Entgelt der mitbewohnenden Person die auf diese entfallende Miete oder Belastung, ist das Entgelt in voller H\u00f6he abzuziehen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der durch Leistungen aus \u00f6ffentlichen Haushalten oder Zweckverm\u00f6gen, insbesondere Leistungen zur Wohnkostenentlastung nach dem Zweiten Wohnungsbaugesetz, dem Wohnraumf\u00f6rderungsgesetz oder entsprechenden Gesetzen der L\u00e4nder, an den Mieter oder den selbst nutzenden Eigent\u00fcmer zur Senkung der Miete oder Belastung gedeckt wird, soweit die Leistungen nicht von \u00a7 14 Abs. 2 Nr. 30 erfasst sind;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der durch Leistungen einer nach \u00a7 68 des Aufenthaltsgesetzes verpflichteten Person gedeckt wird, die ein zu ber\u00fccksichtigendes Haushaltsmitglied zur Bezahlung der Miete oder Aufbringung der Belastung erh\u00e4lt.</LA></DD></DL></P><P>(3) Ist mindestens ein Haushaltsmitglied vom Wohngeld ausgeschlossen, ist nur der Anteil der Miete oder Belastung zu ber\u00fccksichtigen, der dem Anteil der zu ber\u00fccksichtigenden Haushaltsmitglieder an der Gesamtzahl der Haushaltsmitglieder entspricht. In diesem Fall ist nur der Anteil des H\u00f6chstbetrages nach \u00a7 12 Absatz 1 zu ber\u00fccksichtigen, der dem Anteil der zu ber\u00fccksichtigenden Haushaltsmitglieder an der Gesamtzahl der Haushaltsmitglieder entspricht; die Gesamtzahl der Haushaltsmitglieder ist f\u00fcr die Ermittlung des H\u00f6chstbetrages ma\u00dfgebend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001305126",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung",
+        "body": {
+          "content": "<P>(1) Die monatlichen H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung sind vorbehaltlich des \u00a7 11 Absatz 3 nach der Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder und nach der Mietenstufe zu ber\u00fccksichtigen. Sie ergeben sich aus Anlage 1.</P><P>(2) Die Zugeh\u00f6rigkeit einer Gemeinde zu einer Mietenstufe richtet sich nach dem Mietenniveau von Wohnraum der Hauptmieter und Hauptmieterinnen sowie der gleichzustellenden zur miet\u00e4hnlichen Nutzung berechtigten Personen, f\u00fcr den Mietzuschuss geleistet wird. Das Mietenniveau ist die durchschnittliche prozentuale Abweichung der Quadratmetermieten von Wohnraum in Gemeinden vom Durchschnitt der Quadratmetermieten des Wohnraums im Bundesgebiet. Zu ber\u00fccksichtigen sind nur Quadratmetermieten von Wohnraum im Sinne des Satzes 1.</P><P>(3) Das Mietenniveau ist vom Statistischen Bundesamt festzustellen f\u00fcr Gemeinden mit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Einwohnerzahl von 10\u00a0000 und mehr gesondert,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Einwohnerzahl von weniger als 10\u00a0000 und gemeindefreie Gebiete nach Kreisen zusammengefasst.</LA></DD></DL>Ma\u00dfgebend f\u00fcr die Zuordnung nach Satz 1 ist die Einwohnerzahl, die auf der Grundlage von \u00a7 5 des Bev\u00f6lkerungsstatistikgesetzes fortgeschrieben wurde.</P><P>(4) Das Mietenniveau wird vom Statistischen Bundesamt bei einer Anpassung der H\u00f6chstbetr\u00e4ge nach Absatz 1 auf der Grundlage von zwei aufeinanderfolgenden Ergebnissen der j\u00e4hrlichen Wohngeldstatistik f\u00fcr Dezember (\u00a7 36 Absatz 1 Satz 2 Nummer 2) festgestellt. Es ist ein bundesweit einheitlicher Stichtag f\u00fcr die Ergebnisse der Bev\u00f6lkerungsstatistik zu Grunde zu legen.</P><P>(4a) F\u00fcr die Gemeinden Baltrum, Borkum (Stadt), Juist, Langeoog, Norderney (Stadt), Spiekeroog, Wangerooge (Nordseebad), Nebel, Norddorf auf Amrum, Wittd\u00fcn auf Amrum, Alkersum, Borgsum, Dunsum, Midlum, Nieblum, Oevenum, Oldsum, S\u00fcderende, Utersum, Witsum, Wrixum, Wyk auf F\u00f6hr (Stadt), Helgoland, Gr\u00f6de, Hallig Hooge, Langene\u00df, Pellworm und Insel Hiddensee, die auf Inseln ohne Festlandanschluss liegen, wird ein gemeinsames Mietenniveau festgestellt. Sie erhalten eine eigene gemeinsame Mietenstufenzuordnung und f\u00fcr die Anlage zu \u00a7 1 Absatz 3 der Wohngeldverordnung die Bezeichnung Inseln ohne Festlandanschluss. Abweichend von Absatz 4 wird das Statistische Bundesamt nach den Abs\u00e4tzen 2 und 3 einmalig ausschlie\u00dflich das gemeinsame Mietenniveau dieser Gemeinden und das jeweilige Mietenniveau der von dieser \u00c4nderung betroffenen Kreise vor der n\u00e4chsten Anpassung der H\u00f6chstbetr\u00e4ge nach Absatz 1 feststellen. Diese Feststellung erfolgt auf der Grundlage der Ergebnisse der Wohngeldstatistiken f\u00fcr Dezember 2016 und Dezember 2017 (\u00a7 36 Absatz 1 Satz 2 Nummer 2). Die Anlage zu \u00a7 1 Absatz 3 der Wohngeldverordnung kann vor der n\u00e4chsten Anpassung der H\u00f6chstbetr\u00e4ge entsprechend angepasst werden.</P><P>(5) Den Mietenstufen nach Absatz 1 sind folgende Mietenniveaus zugeordnet: <BR/><BR/><table colsep=\"1\" frame=\"all\" pgwide=\"1\" tabstyle=\"Mieten\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"center\" colname=\"col1\" colwidth=\"22*\"/><colspec align=\"center\" colname=\"col2\" colwidth=\"58*\"/><thead valign=\"bottom\"><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\" valign=\"middle\">Mietenstufe</entry><entry VJ=\"1\" colname=\"col2\" valign=\"middle\">Mietenniveau</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">I</entry><entry VJ=\"1\" colname=\"col2\">niedriger als minus 15 Prozent</entry></row><row><entry VJ=\"1\" colname=\"col1\">II</entry><entry VJ=\"1\" colname=\"col2\">minus 15 Prozent bis<BR/> niedriger als minus 5 Prozent</entry></row><row><entry VJ=\"1\" colname=\"col1\">III</entry><entry VJ=\"1\" colname=\"col2\">minus 5 Prozent bis<BR/> niedriger als 5 Prozent</entry></row><row><entry VJ=\"1\" colname=\"col1\">IV</entry><entry VJ=\"1\" colname=\"col2\">5 Prozent bis<BR/> niedriger als 15 Prozent</entry></row><row><entry VJ=\"1\" colname=\"col1\">V</entry><entry VJ=\"1\" colname=\"col2\">15 Prozent bis<BR/> niedriger als 25 Prozent</entry></row><row><entry VJ=\"1\" colname=\"col1\">VI</entry><entry VJ=\"1\" colname=\"col2\">25 Prozent bis<BR/> niedriger als 35 Prozent</entry></row><row><entry VJ=\"1\" colname=\"col1\">VII</entry><entry VJ=\"1\" colname=\"col2\">35 Prozent und h\u00f6her</entry></row></tbody></tgroup></table><BR/><BR/></P><P>(6) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG000600000",
+        "type": "heading",
+        "name": "Kapitel 4",
+        "title": "Einkommen",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001400000",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Gesamteinkommen",
+        "body": {
+          "content": "<P>(1) Das Gesamteinkommen ist die Summe der Jahreseinkommen (\u00a7 14) der zu ber\u00fccksichtigenden Haushaltsmitglieder abz\u00fcglich der Freibetr\u00e4ge (\u00a7 17) und der Abzugsbetr\u00e4ge f\u00fcr Unterhaltsleistungen (\u00a7 18).</P><P>(2) Das monatliche Gesamteinkommen ist ein Zw\u00f6lftel des Gesamteinkommens.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001507126",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Jahreseinkommen",
+        "body": {
+          "content": "<P>(1) Das Jahreseinkommen eines zu ber\u00fccksichtigenden Haushaltsmitgliedes ist vorbehaltlich des Absatzes 3 die Summe der positiven Eink\u00fcnfte im Sinne des \u00a7 2 Abs. 1 und 2 des Einkommensteuergesetzes zuz\u00fcglich der Einnahmen nach Absatz 2 abz\u00fcglich der Abzugsbetr\u00e4ge f\u00fcr Steuern und Sozialversicherungsbeitr\u00e4ge (\u00a7 16). Bei den Eink\u00fcnften im Sinne des \u00a7 2 Abs. 1 Satz 1 Nr. 1 bis 3 des Einkommensteuergesetzes ist \u00a7 7g Abs. 1 bis 4 und 7 des Einkommensteuergesetzes nicht anzuwenden. Von den Eink\u00fcnften aus nichtselbst\u00e4ndiger Arbeit, die nach dem Einkommensteuergesetz vom Arbeitgeber pauschal besteuert werden, z\u00e4hlen zum Jahreseinkommen nur <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 37b des Einkommensteuergesetzes pauschal besteuerten Sachzuwendungen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 40a des Einkommensteuergesetzes pauschal besteuerte Arbeitslohn und das pauschal besteuerte Arbeitsentgelt, jeweils abz\u00fcglich der Aufwendungen zu dessen Erwerbung, Sicherung oder Erhaltung, h\u00f6chstens jedoch bis zur H\u00f6he dieser Einnahmen.</LA></DD></DL>Ein Ausgleich mit negativen Eink\u00fcnften aus anderen Einkunftsarten oder mit negativen Eink\u00fcnften des zusammenveranlagten Ehegatten ist nicht zul\u00e4ssig.</P><P>(2) Zum Jahreseinkommen geh\u00f6ren: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 19 Abs. 2 und \u00a7 22 Nr. 4 Satz 4 Buchstabe b des Einkommensteuergesetzes steuerfreie Betrag von Versorgungsbez\u00fcgen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die einkommensabh\u00e4ngigen, nach \u00a7 3 Nr. 6 des Einkommensteuergesetzes steuerfreien Bez\u00fcge, die auf Grund gesetzlicher Vorschriften aus \u00f6ffentlichen Mitteln versorgungshalber an Wehrdienstbesch\u00e4digte, im freiwilligen Wehrdienst Besch\u00e4digte, Zivildienstbesch\u00e4digte und im Bundesfreiwilligendienst Besch\u00e4digte oder ihre Hinterbliebenen, Kriegsbesch\u00e4digte und Kriegshinterbliebene sowie ihnen gleichgestellte Personen gezahlt werden;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die den Ertragsanteil oder den der Besteuerung unterliegenden Anteil nach \u00a7 22 Nr. 1 Satz 3 Buchstabe a des Einkommensteuergesetzes \u00fcbersteigenden Teile von Leibrenten;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 3 des Einkommensteuergesetzes steuerfreien <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Rentenabfindungen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beitragserstattungen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen aus berufsst\u00e4ndischen Versorgungseinrichtungen,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Kapitalabfindungen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausgleichszahlungen;</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 1 Buchstabe a des Einkommensteuergesetzes steuerfreien <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten wegen Minderung der Erwerbsf\u00e4higkeit nach den \u00a7\u00a7 56 bis 62 des Siebten Buches Sozialgesetzbuch,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten und Beihilfen an Hinterbliebene nach den \u00a7\u00a7 63 bis 71 des Siebten Buches Sozialgesetzbuch,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Abfindungen nach den \u00a7\u00a7 75 bis 80 des Siebten Buches Sozialgesetzbuch;</LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Lohn- und Einkommensersatzleistungen nach \u00a7 32b Absatz 1 Satz 1 Nummer 1 des Einkommensteuergesetzes; \u00a7 10 des Bundeselterngeld- und Elternzeitgesetzes bleibt unber\u00fchrt;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ausl\u00e4ndischen Eink\u00fcnfte nach \u00a7 32b Absatz 1 Satz 1 Nummer 2 bis 5 sowie Satz 2 und 3 des Einkommensteuergesetzes;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der nach \u00a7 3 Nr. 7 des Einkommensteuergesetzes steuerfreien <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterhaltshilfe nach den \u00a7\u00a7 261 bis 278a des Lastenausgleichsgesetzes,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beihilfe zum Lebensunterhalt nach den \u00a7\u00a7 301 bis 301b des Lastenausgleichsgesetzes,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterhaltshilfe nach \u00a7 44 und Unterhaltsbeihilfe nach \u00a7 45 des Reparationssch\u00e4dengesetzes,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beihilfe zum Lebensunterhalt nach den \u00a7\u00a7 10 bis 15 des Fl\u00fcchtlingshilfegesetzes,</LA></DD></DL>mit Ausnahme der Pflegezulage nach \u00a7 269 Abs. 2 des Lastenausgleichsgesetzes;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 1 Buchstabe a des Einkommensteuergesetzes steuerfreien Krankentagegelder;</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der nach \u00a7 3 Nr. 68 des Einkommensteuergesetzes steuerfreien Renten nach \u00a7 3 Abs. 2 des Anti-D-Hilfegesetzes;</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3b des Einkommensteuergesetzes steuerfreien Zuschl\u00e4ge f\u00fcr Sonntags-, Feiertags- oder Nachtarbeit;</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 56 des Einkommensteuergesetzes steuerfreien Zuwendungen des Arbeitgebers an eine Pensionskasse und die nach \u00a7 3 Nr. 63 des Einkommensteuergesetzes steuerfreien Beitr\u00e4ge des Arbeitgebers an einen Pensionsfonds, eine Pensionskasse oder f\u00fcr eine Direktversicherung zum Aufbau einer kapitalgedeckten betrieblichen Altersversorgung;</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 20 Abs. 9 des Einkommensteuergesetzes steuerfreie Betrag (Sparer-Pauschbetrag), soweit die Kapitalertr\u00e4ge 100 Euro \u00fcbersteigen;</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">die auf erh\u00f6hte Absetzungen entfallenden Betr\u00e4ge, soweit sie die h\u00f6chstm\u00f6glichen Absetzungen f\u00fcr Abnutzung nach \u00a7 7 des Einkommensteuergesetzes \u00fcbersteigen, und die auf Sonderabschreibungen entfallenden Betr\u00e4ge;</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 3 Nr. 27 des Einkommensteuergesetzes steuerfreie Grundbetrag der Produktionsaufgaberente und das Ausgleichsgeld nach dem Gesetz zur F\u00f6rderung der Einstellung der landwirtschaftlichen Erwerbst\u00e4tigkeit;</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 60 des Einkommensteuergesetzes steuerfreien Leistungen aus \u00f6ffentlichen Mitteln an Arbeitnehmer des Steinkohlen-, Pechkohlen- und Erzbergbaues, des Braunkohlentiefbaues und der Eisen- und Stahlindustrie aus Anlass von Stilllegungs-, Einschr\u00e4nkungs-, Umstellungs- oder Rationalisierungsma\u00dfnahmen;</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 22 Nummer 1 Satz 2 des Einkommensteuergesetzes der Empf\u00e4ngerin oder dem Empf\u00e4nger nicht zuzurechnenden Bez\u00fcge, die ihr oder ihm von einer nat\u00fcrlichen Person, die kein Haushaltsmitglied ist, oder von einer juristischen Person gew\u00e4hrt werden, mit Ausnahme der Bez\u00fcge <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zu einer H\u00f6he von 6\u00a0540 Euro j\u00e4hrlich, die f\u00fcr eine Pflegeperson oder Pflegekraft aufgewendet werden, die die Empf\u00e4ngerin oder den Empf\u00e4nger wegen ihrer oder seiner Pflegebed\u00fcrftigkeit im Sinne des \u00a7 14 des Elften Buches Sozialgesetzbuch pflegt, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zu einer H\u00f6he von insgesamt 480 Euro j\u00e4hrlich von einer nat\u00fcrlichen Person, die gegen\u00fcber der Empf\u00e4ngerin oder dem Empf\u00e4nger nicht vorrangig gesetzlich unterhaltsverpflichtet ist oder war, oder von einer juristischen Person;</LA></DD></DL>dies gilt entsprechend, wenn anstelle von wiederkehrenden Unterhaltsleistungen Unterhaltsleistungen als Einmalbetrag gew\u00e4hrt werden;</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterhaltsleistungen des geschiedenen oder dauernd getrennt lebenden Ehegatten, mit Ausnahme der Unterhaltsleistungen bis zu einer H\u00f6he von 6\u00a0540 Euro j\u00e4hrlich, die f\u00fcr eine Pflegeperson oder Pflegekraft geleistet werden, die den Empf\u00e4nger oder die Empf\u00e4ngerin wegen eigener Pflegebed\u00fcrftigkeit im Sinne des \u00a7 14 des Elften Buches Sozialgesetzbuch pflegt,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Versorgungsleistungen, die Leistungen auf Grund eines schuldrechtlichen Versorgungsausgleichs und Ausgleichsleistungen zur Vermeidung eines Versorgungsausgleichs,</LA></DD></DL>soweit diese Leistungen nicht von \u00a7 22 Nummer 1a des Einkommensteuergesetzes erfasst sind;</LA></DD><DT>21.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen nach dem Unterhaltsvorschussgesetz;</LA></DD><DT>22.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen von nat\u00fcrlichen Personen, die keine Haushaltsmitglieder sind, zur Bezahlung der Miete oder Aufbringung der Belastung, soweit die Leistungen nicht von Absatz 1 Satz 1 oder Satz 3, von Nummer 19 oder Nummer 20 erfasst sind;</LA></DD><DT>23.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>24.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der Pauschale f\u00fcr die laufenden Leistungen f\u00fcr den notwendigen Unterhalt ohne die Kosten der Erziehung von Kindern, Jugendlichen oder jungen Vollj\u00e4hrigen nach \u00a7 39 Abs. 1 in Verbindung mit \u00a7 33 oder mit \u00a7 35a Abs. 2 Nr. 3, auch in Verbindung mit \u00a7 41 Abs. 2 des Achten Buches Sozialgesetzbuch, als Einkommen des Kindes, Jugendlichen oder jungen Vollj\u00e4hrigen;</LA></DD><DT>25.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der Pauschale f\u00fcr die laufenden Leistungen f\u00fcr die Kosten der Erziehung von Kindern, Jugendlichen oder jungen Vollj\u00e4hrigen nach \u00a7 39 Abs. 1 in Verbindung mit \u00a7 33 oder mit \u00a7 35a Abs. 2 Nr. 3, auch in Verbindung mit \u00a7 41 Abs. 2 des Achten Buches Sozialgesetzbuch, als Einkommen der Pflegeperson;</LA></DD><DT>26.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der nach \u00a7 3 Nr. 36 des Einkommensteuergesetzes steuerfreien Einnahmen f\u00fcr Leistungen zu k\u00f6rperbezogenen Pflegema\u00dfnahmen, pflegerischen Betreuungsma\u00dfnahmen oder Hilfen bei der Haushaltsf\u00fchrung einer Person, die kein Haushaltsmitglied ist;</LA></DD><DT>27.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der als Zusch\u00fcsse erbrachten <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur F\u00f6rderung der Ausbildung nach dem Bundesausbildungsf\u00f6rderungsgesetz, mit Ausnahme der Leistungen nach \u00a7 14a des Bundesausbildungsf\u00f6rderungsgesetzes in Verbindung mit den \u00a7\u00a7 6 und 7 der Verordnung \u00fcber Zusatzleistungen in H\u00e4rtef\u00e4llen nach dem Bundesausbildungsf\u00f6rderungsgesetz und mit Ausnahme des Kinderbetreuungszuschlages nach Ma\u00dfgabe des \u00a7 14b des Bundesausbildungsf\u00f6rderungsgesetzes,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen der Begabtenf\u00f6rderungswerke, soweit sie nicht von Nummer 28 erfasst sind,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Stipendien, soweit sie nicht von Buchstabe b, Nummer 28 oder Nummer 29 erfasst sind,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Berufsausbildungsbeihilfen und des Ausbildungsgeldes nach dem Dritten Buch Sozialgesetzbuch,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beitr\u00e4ge zur Deckung des Unterhaltsbedarfs nach dem Aufstiegsfortbildungsf\u00f6rderungsgesetz,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Sicherung des Lebensunterhaltes w\u00e4hrend des ausbildungsbegleitenden Praktikums oder der betrieblichen Berufsausbildung bei Teilnahme am Sonderprogramm F\u00f6rderung der beruflichen Mobilit\u00e4t von ausbildungsinteressierten Jugendlichen und arbeitslosen jungen Fachkr\u00e4ften aus Europa;</LA></DD></DL></LA></DD><DT>28.</DT><DD Font=\"normal\"><LA Size=\"normal\">die als Zuschuss gew\u00e4hrte Graduiertenf\u00f6rderung;</LA></DD><DT>29.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der nach \u00a7 3 Nr. 42 des Einkommensteuergesetzes steuerfreien Zuwendungen, die auf Grund des Fulbright-Abkommens gezahlt werden;</LA></DD><DT>30.</DT><DD Font=\"normal\"><LA Size=\"normal\">die wiederkehrenden Leistungen nach \u00a7 7 Absatz 1 Satz 1 Nummer 1 bis 9, auch wenn bei deren Berechnung die Kosten der Unterkunft nicht ber\u00fccksichtigt worden sind, mit Ausnahme <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der darin enthaltenen Kosten der Unterkunft, wenn diese nicht f\u00fcr den Wohnraum gew\u00e4hrt werden, f\u00fcr den Wohngeld beantragt wurde,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der von Nummer 24 oder Nummer 25 erfassten Leistungen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Sozialgeldes, das ein zu ber\u00fccksichtigendes Kind als Mitglied der Bedarfsgemeinschaft im Haushalt des getrennt lebenden anderen Elternteils anteilig erh\u00e4lt,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Hilfe zum Lebensunterhalt, die ein nach dem Dritten Kapitel des Zw\u00f6lften Buches Sozialgesetzbuch leistungsberechtigtes Kind im Haushalt des getrennt lebenden Elternteils anteilig erh\u00e4lt, oder</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Leistungen, die in den F\u00e4llen des \u00a7 7 Absatz 1 Satz 3 oder Absatz 2 Satz 2 erbracht werden, in denen kein Ausschluss vom Wohngeld besteht;</LA></DD></DL></LA></DD><DT>31.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Mietwert des von den in \u00a7 3 Abs. 1 Satz 2 Nr. 2 genannten Personen selbst genutzten Wohnraums.</LA></DD></DL></P><P>(3) Zum Jahreseinkommen geh\u00f6ren nicht: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Eink\u00fcnfte aus Vermietung oder Verpachtung eines Teils des Wohnraums, f\u00fcr den Wohngeld beantragt wird;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Entgelt, das eine den Wohnraum mitbewohnende Person im Sinne des \u00a7 11 Abs. 2 Nr. 3 hierf\u00fcr zahlt;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen einer nach \u00a7 68 des Aufenthaltsgesetzes verpflichteten Person, soweit sie von \u00a7 11 Abs. 2 Nr. 5 erfasst sind.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001601305",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Ermittlung des Jahreseinkommens",
+        "body": {
+          "content": "<P>(1) Bei der Ermittlung des Jahreseinkommens ist das Einkommen zu Grunde zu legen, das im Zeitpunkt der Antragstellung im Bewilligungszeitraum zu erwarten ist. Hierzu k\u00f6nnen die Verh\u00e4ltnisse vor dem Zeitpunkt der Antragstellung herangezogen werden; \u00a7 24 Abs. 2 bleibt unber\u00fchrt.</P><P>(2) Einmaliges Einkommen, das f\u00fcr einen bestimmten Zeitraum bezogen wird, ist diesem Zeitraum zuzurechnen. Ist kein Zurechnungszeitraum festgelegt oder vereinbart, so ist das einmalige Einkommen jeweils zu einem Drittel in den drei Jahren nach dem Zuflussmonat zuzurechnen. Ist das einmalige Einkommen vor der Antragstellung zugeflossen, ist es nur dann nach Satz 1 oder Satz 2 zuzurechnen, wenn es innerhalb von drei Jahren vor der Antragstellung zugeflossen ist.</P><P>(3) Sonderzuwendungen, Gratifikationen und gleichartige Bez\u00fcge und Vorteile, die in gr\u00f6\u00dferen als monatlichen Abst\u00e4nden gew\u00e4hrt werden, sind den im Bewilligungszeitraum liegenden Monaten zu je einem Zw\u00f6lftel zuzurechnen, wenn sie in den n\u00e4chsten zw\u00f6lf Monaten nach Beginn des Bewilligungszeitraums zuflie\u00dfen.</P><P>(4) Betr\u00e4gt der Bewilligungszeitraum nicht zw\u00f6lf Monate, ist als Einkommen das Zw\u00f6lffache des im Sinne der Abs\u00e4tze 1 bis 3 und des \u00a7 24 Abs. 2 im Bewilligungszeitraum zu erwartenden durchschnittlichen monatlichen Einkommens zu Grunde zu legen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001701305",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Abzugsbetr\u00e4ge f\u00fcr Steuern und Sozialversicherungsbeitr\u00e4ge",
+        "body": {
+          "content": "<P>Bei der Ermittlung des Jahreseinkommens sind von dem Betrag, der sich nach den \u00a7\u00a7 14 und 15 ergibt, jeweils 10 Prozent abzuziehen, wenn zu erwarten ist, dass im Bewilligungszeitraum die folgenden Steuern und Pflichtbeitr\u00e4ge zu leisten sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Steuern vom Einkommen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Pflichtbeitr\u00e4ge zur gesetzlichen Kranken- und Pflegeversicherung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Pflichtbeitr\u00e4ge zur gesetzlichen Rentenversicherung.</LA></DD></DL>Satz 1 Nummer 2 und 3 gilt entsprechend, wenn keine Pflichtbeitr\u00e4ge, aber laufende Beitr\u00e4ge zu \u00f6ffentlichen oder privaten Versicherungen oder \u00e4hnlichen Einrichtungen zu leisten sind, die dem Zweck der Pflichtbeitr\u00e4ge nach Satz 1 Nummer 2 oder Nummer 3 entsprechen. Satz 2 gilt auch, wenn die Beitr\u00e4ge zu Gunsten eines zu ber\u00fccksichtigenden Haushaltsmitgliedes zu leisten sind. Die S\u00e4tze 2 und 3 gelten nicht, wenn eine im Wesentlichen beitragsfreie Sicherung oder eine Sicherung besteht, f\u00fcr die Beitr\u00e4ge von Dritten zu leisten sind. Die S\u00e4tze 1 und 2 gelten bei einmaligem Einkommen im Sinne des \u00a7 15 Absatz 2 in jedem Jahr der Zurechnung entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001802126",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Freibetr\u00e4ge",
+        "body": {
+          "content": "<P>Bei der Ermittlung des Gesamteinkommens sind die folgenden j\u00e4hrlichen Freibetr\u00e4ge abzuziehen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">1\u00a0800 Euro f\u00fcr jedes schwerbehinderte zu ber\u00fccksichtigende Haushaltsmitglied mit einem Grad der Behinderung <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">von 100 oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">von unter 100 bei Pflegebed\u00fcrftigkeit im Sinne des \u00a7 14 des Elften Buches Sozialgesetzbuch und gleichzeitiger h\u00e4uslicher oder teilstation\u00e4rer Pflege oder Kurzzeitpflege;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">750 Euro f\u00fcr jedes zu ber\u00fccksichtigende Haushaltsmitglied, das Opfer der nationalsozialistischen Verfolgung oder ihm im Sinne des Bundesentsch\u00e4digungsgesetzes gleichgestellt ist;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">1\u00a0320 Euro, wenn <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">ein zu ber\u00fccksichtigendes Haushaltsmitglied ausschlie\u00dflich mit einem Kind oder mehreren Kindern Wohnraum gemeinsam bewohnt und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens eines dieser Kinder noch nicht 18 Jahre alt ist und f\u00fcr dieses Kindergeld nach dem Einkommensteuergesetz oder dem Bundeskindergeldgesetz oder eine in \u00a7 65 Absatz 1 Satz 1 des Einkommensteuergesetzes genannte Leistung gew\u00e4hrt wird;</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Betrag in H\u00f6he der eigenen Einnahmen aus Erwerbst\u00e4tigkeit jedes Kindes eines Haushaltsmitgliedes, h\u00f6chstens jedoch 1\u00a0200 Euro, wenn das Kind ein zu ber\u00fccksichtigendes Haushaltsmitglied und noch nicht 25 Jahre alt ist.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE001902305",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "Abzugsbetr\u00e4ge f\u00fcr Unterhaltsleistungen",
+        "body": {
+          "content": "<P>Bei der Ermittlung des Gesamteinkommens sind die folgenden zu erwartenden Aufwendungen zur Erf\u00fcllung gesetzlicher Unterhaltsverpflichtungen abzuziehen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bis zu 3\u00a0000 Euro j\u00e4hrlich f\u00fcr ein zu ber\u00fccksichtigendes Haushaltsmitglied, das wegen Berufsausbildung ausw\u00e4rts wohnt, soweit es nicht von Nummer 2 erfasst ist;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bis zu 3\u00a0000 Euro j\u00e4hrlich f\u00fcr ein Kind, das Haushaltsmitglied nach \u00a7 5 Absatz 4 ist; dies gilt nur f\u00fcr Aufwendungen, die an das Kind als Haushaltsmitglied bei dem anderen Elternteil geleistet werden;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>bis zu 6\u00a0000 Euro j\u00e4hrlich f\u00fcr einen fr\u00fcheren oder dauernd getrennt lebenden Ehegatten oder Lebenspartner oder eine fr\u00fchere oder dauernd getrennt lebende Lebenspartnerin, der oder die kein Haushaltsmitglied ist;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>bis zu 3\u00a0000 Euro j\u00e4hrlich f\u00fcr eine sonstige Person, die kein Haushaltsmitglied ist.</LA></DD></DL>Liegt in den F\u00e4llen des Satzes 1 eine notariell beurkundete Unterhaltsvereinbarung, ein Unterhaltstitel oder ein Bescheid vor, sind die j\u00e4hrlichen Aufwendungen bis zu dem darin festgelegten Betrag abzuziehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG000700000",
+        "type": "heading",
+        "name": "Kapitel 5",
+        "title": "H\u00f6he des Wohngeldes",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE002002126",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "H\u00f6he des Wohngeldes",
+        "body": {
+          "content": "<P>(1) Das ungerundete monatliche Wohngeld f\u00fcr bis zu zw\u00f6lf zu ber\u00fccksichtigende Haushaltsmitglieder betr\u00e4gt <table frame=\"none\" pgwide=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"1\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"center\" colname=\"col1\" colsep=\"0\" valign=\"top\">1,15 <F>\u00b7</F> (M \u2013 (a + b <F>\u00b7</F> M + c <F>\u00b7</F> Y) <F>\u00b7</F>Y) Euro.</entry></row></tbody></tgroup></table>\u201eM\u201c ist die zu ber\u00fccksichtigende monatliche Miete oder Belastung in Euro. \u201eY\u201c ist das monatliche Gesamteinkommen in Euro. \u201ea\u201c, \u201eb\u201c und \u201ec\u201c sind nach der Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder unterschiedene Werte und ergeben sich aus der Anlage 2.</P><P>(2) Die zur Berechnung des Wohngeldes erforderlichen Rechenschritte und Rundungen sind in der Reihenfolge auszuf\u00fchren, die sich aus der Anlage 3 ergibt.</P><P>(3) Sind mehr als zw\u00f6lf Haushaltsmitglieder zu ber\u00fccksichtigen, erh\u00f6ht sich f\u00fcr das 13. und jedes weitere zu ber\u00fccksichtigende Haushaltsmitglied das nach den Abs\u00e4tzen 1 und 2 berechnete monatliche Wohngeld um jeweils 51 Euro, h\u00f6chstens jedoch bis zur H\u00f6he der zu ber\u00fccksichtigenden Miete oder Belastung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000700000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG000800000",
+        "type": "heading",
+        "name": "Teil 3",
+        "title": "Nichtbestehen des Wohngeldanspruchs",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNE002104126",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Gesetzeskonkurrenz",
+        "body": {
+          "content": "<P>(1) (weggefallen)</P><P>(2) Es besteht kein Wohngeldanspruch, wenn allen Haushaltsmitgliedern eine der folgenden Leistungen dem Grunde nach zusteht oder im Fall ihres Antrages dem Grunde nach zust\u00fcnde: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur F\u00f6rderung der Ausbildung nach dem Bundesausbildungsf\u00f6rderungsgesetz,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen nach den \u00a7\u00a7 56, 116 Absatz 3 oder 4 oder \u00a7 122 des Dritten Buches Sozialgesetzbuch oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur Sicherung des Lebensunterhaltes w\u00e4hrend des ausbildungsbegleitenden Praktikums oder der betrieblichen Berufsausbildung bei Teilnahme am Sonderprogramm F\u00f6rderung der beruflichen Mobilit\u00e4t von ausbildungsinteressierten Jugendlichen und arbeitslosen jungen Fachkr\u00e4ften aus Europa.</LA></DD></DL>Satz 1 gilt auch, wenn dem Grunde nach F\u00f6rderungsberechtigte der H\u00f6he nach keinen Anspruch auf F\u00f6rderung haben. Satz 1 gilt nicht, wenn die Leistungen ausschlie\u00dflich als Darlehen gew\u00e4hrt werden. Ist Wohngeld f\u00fcr einen Zeitraum bewilligt, in den der Beginn der Ausbildung f\u00e4llt, ist das Wohngeld bis zum Ablauf des Bewilligungszeitraums in gleicher H\u00f6he weiterzuleisten; \u00a7 27 Abs. 2 und \u00a7 28 bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000800000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE002200000",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Sonstige Gr\u00fcnde",
+        "body": {
+          "content": "<P>Ein Wohngeldanspruch besteht nicht, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>wenn das Wohngeld weniger als 10 Euro monatlich betragen w\u00fcrde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>wenn alle Haushaltsmitglieder nach den \u00a7\u00a7 7 und 8 Abs. 1 vom Wohngeld ausgeschlossen sind oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>soweit die Inanspruchnahme missbr\u00e4uchlich w\u00e4re, insbesondere wegen erheblichen Verm\u00f6gens.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000800000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG000900000",
+        "type": "heading",
+        "name": "Teil 4",
+        "title": "Bewilligung, Zahlung und \u00c4nderung des Wohngeldes",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNE002300000",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "Wohngeldantrag",
+        "body": {
+          "content": "<P>(1) Wohngeld wird nur auf Antrag der wohngeldberechtigten Person geleistet.</P><P>(2) Im Fall des \u00a7 3 Abs. 3 wird vermutet, dass die antragstellende Person von den anderen Haushaltsmitgliedern als wohngeldberechtigte Person bestimmt ist.</P><P>(3) Zieht die wohngeldberechtigte Person aus oder stirbt sie, kann der Antrag nach \u00a7 27 Abs. 1 auch von einem anderen Haushaltsmitglied gestellt werden, das die Voraussetzungen des \u00a7 3 Abs. 1 oder Abs. 2 erf\u00fcllt. \u00a7 3 Abs. 3 bis 5 gilt entsprechend.</P><P>(4) Wird ein Wohngeldantrag f\u00fcr die Zeit nach dem laufenden Bewilligungszeitraum fr\u00fcher als zwei Monate vor Ablauf dieses Zeitraums gestellt, gilt der Erste des zweiten Monats vor Ablauf dieses Zeitraums als Zeitpunkt der Antragstellung im Sinne des \u00a7 24 Abs. 2.</P><P>(5) \u00a7 65a des Ersten und \u00a7 115 des Zehnten Buches Sozialgesetzbuch sind nicht anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE002404305",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "Auskunftspflicht",
+        "body": {
+          "content": "<P>(1) Soweit die Durchf\u00fchrung dieses Gesetzes es erfordert, sind folgende Personen verpflichtet, auf Verlangen der Wohngeldbeh\u00f6rde Auskunft \u00fcber ihre f\u00fcr das Wohngeld ma\u00dfgebenden Verh\u00e4ltnisse zu geben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Haushaltsmitglieder,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die sonstigen Personen, die mit der wohngeldberechtigten Person den Wohnraum gemeinsam bewohnen, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>bei einer Pr\u00fcfung nach \u00a7 21 Nr. 3 zur Feststellung eines Unterhaltsanspruchs auch <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>der Ehegatte, der Lebenspartner oder die Lebenspartnerin,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>der fr\u00fchere Ehegatte, der fr\u00fchere Lebenspartner oder die fr\u00fchere Lebenspartnerin,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>die Kinder der zu ber\u00fccksichtigenden Haushaltsmitglieder und</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>die Eltern der zu ber\u00fccksichtigenden Haushaltsmitglieder,</LA></DD></DL>die keine Haushaltsmitglieder sind.</LA></DD></DL>Die Haushaltsmitglieder sind verpflichtet, ihr Geschlecht anzugeben (\u00a7 33 Abs. 3 Satz 1 Nr. 6 und \u00a7 35 Abs. 1 Nr. 5). Die wohngeldberechtigte Person hat im Wohngeldantrag nach \u00a7 22 und im Antrag nach \u00a7 27 Absatz 1 alle Tatsachen anzugeben, die f\u00fcr die Leistung erheblich sind.</P><P>(2) Soweit die Durchf\u00fchrung dieses Gesetzes es erfordert, sind die Arbeitgeber der zu ber\u00fccksichtigenden Haushaltsmitglieder verpflichtet, auf Verlangen der Wohngeldbeh\u00f6rde \u00fcber Art und Dauer des Arbeitsverh\u00e4ltnisses sowie \u00fcber Arbeitsst\u00e4tte und Arbeitsverdienst Auskunft zu geben.</P><P>(3) Der Empf\u00e4nger oder die Empf\u00e4ngerin der Miete ist verpflichtet, auf Verlangen der Wohngeldbeh\u00f6rde \u00fcber die H\u00f6he und Zusammensetzung der Miete sowie \u00fcber andere das Miet- oder Nutzungsverh\u00e4ltnis betreffende Umst\u00e4nde Auskunft zu geben, soweit die Durchf\u00fchrung dieses Gesetzes es erfordert.</P><P>(4) Zur Aufdeckung rechtswidriger Inanspruchnahme von Wohngeld sind die Kapitalertr\u00e4ge auszahlenden Stellen, denen ein zu ber\u00fccksichtigendes Haushaltsmitglied einen Freistellungsauftrag f\u00fcr Kapitalertr\u00e4ge erteilt hat, verpflichtet, der Wohngeldbeh\u00f6rde Auskunft \u00fcber die H\u00f6he der zugeflossenen Kapitalertr\u00e4ge zu erteilen. \u00a7 21 Absatz 3 Satz 4 des Zehnten Buches Sozialgesetzbuch gilt entsprechend. Ein Auskunftsersuchen der Wohngeldbeh\u00f6rde ist nur zul\u00e4ssig, wenn auf Grund eines Datenabgleichs nach \u00a7 33 der Verdacht besteht oder feststeht, dass Wohngeld rechtswidrig in Anspruch genommen wurde oder wird und dass das zu ber\u00fccksichtigende Haushaltsmitglied, auch soweit es dazu berechtigt ist, nicht oder nicht vollst\u00e4ndig bei der Ermittlung der Kapitalertr\u00e4ge mitwirkt. Die Auslagen f\u00fcr Ausk\u00fcnfte von Kapitalertr\u00e4ge auszahlenden Stellen, die durch die Ermittlung der rechtswidrigen Inanspruchnahme von Wohngeld entstanden sind, sollen abweichend von \u00a7 64 Absatz 1 des Zehnten Buches Sozialgesetzbuch von der Person, die Wohngeld zu erstatten hat, erhoben werden.</P><P>(5) Auf die nach den Abs\u00e4tzen 1 bis 3 Auskunftspflichtigen sind die \u00a7\u00a7 60 und 65 Abs. 1 und 3 des Ersten Buches Sozialgesetzbuch entsprechend anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE002502126",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": "Wohngeldbeh\u00f6rde und Entscheidung",
+        "body": {
+          "content": "<P>(1) \u00dcber den Wohngeldantrag muss die nach Landesrecht zust\u00e4ndige oder von der Landesregierung durch Rechtsverordnung oder auf sonstige Weise bestimmte Beh\u00f6rde (Wohngeldbeh\u00f6rde) schriftlich entscheiden. Die Landesregierung kann ihre Befugnis nach Satz 1, die Zust\u00e4ndigkeit der Wohngeldbeh\u00f6rden zu bestimmen, auf die f\u00fcr die Ausf\u00fchrung des Wohngeldgesetzes zust\u00e4ndige oberste Landesbeh\u00f6rde \u00fcbertragen. \u00a7 69 des Ersten Buches Sozialgesetzbuch bleibt unber\u00fchrt.</P><P>(2) Der Entscheidung sind die Verh\u00e4ltnisse im Bewilligungszeitraum, die im Zeitpunkt der Antragstellung zu erwarten sind, zu Grunde zu legen. Treten nach dem Zeitpunkt der Antragstellung bis zur Bekanntgabe des Wohngeldbescheides \u00c4nderungen der Verh\u00e4ltnisse im Bewilligungszeitraum ein, sind sie grunds\u00e4tzlich nicht zu ber\u00fccksichtigen; \u00c4nderungen im Sinne des \u00a7 27 Absatz 1 und 2 oder \u00a7 28 Absatz 1 bis 3 sollen ber\u00fccksichtigt werden. Satz 2 gilt f\u00fcr nach dem Zeitpunkt der Antragstellung bis zur Bekanntgabe des Wohngeldbescheides zu erwartende \u00c4nderungen entsprechend.</P><P>(3) Der Bewilligungsbescheid muss die in \u00a7 27 Abs. 3 Satz 1 Nr. 2 und 3 genannten Betr\u00e4ge ausweisen und einen Hinweis \u00fcber die Mitteilungspflichten nach \u00a7 27 Abs. 3 und 4 sowie \u00a7 28 Abs. 1 Satz 2 und Abs. 4 Satz 1 enthalten. Er soll einen Hinweis enthalten, dass der Wohngeldantrag f\u00fcr die Zeit nach Ablauf des Bewilligungszeitraums wiederholt werden kann und dass eine Neuentscheidung von Amts wegen mit der Folge des Wohngeldwegfalles oder eines verringerten Wohngeldes auch dann m\u00f6glich ist, wenn keine Mitteilungspflicht besteht.</P><P>(4) Erzielt mindestens eines der zu ber\u00fccksichtigenden Haushaltsmitglieder Eink\u00fcnfte aus selbst\u00e4ndiger Arbeit, aus Gewerbebetrieb oder aus Land- und Forstwirtschaft, so kann der Wohngeldbewilligungsbescheid mit der Auflage verbunden werden, dass die Einkommensteuerbescheide, die den Zeitraum der Wohngeldbewilligung betreffen, unverz\u00fcglich der Wohngeldbeh\u00f6rde zur Pr\u00fcfung, ob ein Fall des \u00a7 27 Absatz 2 Satz 1 Nummer 3 vorliegt, vorzulegen sind.</P><P>(5) Wenn infolge des Umzugs der wohngeldberechtigten Person eine andere Wohngeldbeh\u00f6rde zust\u00e4ndig wird, bleibt abweichend von \u00a7 44 Absatz 3 des Zehnten Buches Sozialgesetzbuch die Wohngeldbeh\u00f6rde, die den Wohngeldbescheid erlassen hat, zust\u00e4ndig f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufhebung eines Wohngeldbescheides,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die R\u00fcckforderung des zu erstattenden Wohngeldes sowie</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterrichtung und den Hinweis nach \u00a7 28 Absatz 5.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE002601305",
+        "type": "article",
+        "name": "\u00a7 25",
+        "title": "Bewilligungszeitraum",
+        "body": {
+          "content": "<P>(1) Das Wohngeld soll f\u00fcr zw\u00f6lf Monate bewilligt werden. Ist zu erwarten, dass sich die ma\u00dfgeblichen Verh\u00e4ltnisse vor Ablauf von zw\u00f6lf Monaten erheblich \u00e4ndern, soll der Bewilligungszeitraum entsprechend verk\u00fcrzt werden; im Einzelfall kann der Bewilligungszeitraum geteilt werden.</P><P>(2) Der Bewilligungszeitraum beginnt am Ersten des Monats, in dem der Wohngeldantrag gestellt worden ist. Treten die Voraussetzungen f\u00fcr die Bewilligung des Wohngeldes erst in einem sp\u00e4teren Monat ein, beginnt der Bewilligungszeitraum am Ersten dieses Monats.</P><P>(3) Der Bewilligungszeitraum beginnt am Ersten des Monats, von dem ab Leistungen im Sinne des \u00a7 7 Abs. 1 abgelehnt worden sind, wenn der Wohngeldantrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis der Ablehnung folgt. Dies gilt entsprechend, wenn der Ausschluss nach \u00a7 8 Abs. 1 Satz 3 oder Abs. 2 als nicht erfolgt gilt.</P><P>(4) Ist ein Wohngeldbewilligungsbescheid nach \u00a7 28 Absatz 3 unwirksam geworden, beginnt der Wohngeldbewilligungszeitraum abweichend von \u00a7 25 Absatz 3 Satz 1 fr\u00fchestens am Ersten des Monats, von dem an die Unwirksamkeit des Wohngeldbewilligungsbescheides eingetreten ist; dies gilt nur unter der Voraussetzung, dass der Wohngeldantrag vor Ablauf des Kalendermonats gestellt wird, der <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>auf die Kenntnis der Ablehnung einer Leistung nach \u00a7 7 Absatz 1 folgt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>auf die Kenntnis von der Unwirksamkeit des Wohngeldbewilligungsbescheides folgt, wenn nur ein Teil der zu ber\u00fccksichtigenden Haushaltsmitglieder nach \u00a7 7 vom Wohngeld ausgeschlossen ist.</LA></DD></DL>Der Ablehnung einer Leistung nach \u00a7 7 Absatz 1 im Sinne des \u00a7 25 Absatz 4 Satz 1 Nummer 1 stehen die F\u00e4lle des \u00a7 8 Absatz 1 Satz 3 und Absatz 2 gleich. Wird eine Leistung nach \u00a7 7 Absatz 1 r\u00fcckwirkend f\u00fcr alle zu ber\u00fccksichtigenden Haushaltsmitglieder und nur f\u00fcr einen Teil des bisherigen Wohngeldbewilligungszeitraums gew\u00e4hrt, beginnt der neue Wohngeldbewilligungszeitraum am Ersten des Monats, von dem an die Leistung nach \u00a7 7 Absatz 1 nicht mehr gew\u00e4hrt wird; dies gilt nur unter der Voraussetzung, dass der Wohngeldantrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis von dem Ende des Bewilligungszeitraums einer Leistung nach \u00a7 7 Absatz 1 folgt.</P><P>(5) Der neue Bewilligungszeitraum im Fall des \u00a7 27 Abs. 1 Satz 2 beginnt am Ersten des Monats, von dem an die erh\u00f6hte Miete oder Belastung r\u00fcckwirkend ber\u00fccksichtigt wird, wenn der Antrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis von der Erh\u00f6hung der Miete oder Belastung folgt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE002702305",
+        "type": "article",
+        "name": "\u00a7 26",
+        "title": "Zahlung des Wohngeldes",
+        "body": {
+          "content": "<P>(1) Das Wohngeld ist an die wohngeldberechtigte Person zu zahlen. Es kann mit schriftlicher Einwilligung der wohngeldberechtigten Person oder, wenn dies im Einzelfall geboten ist, auch ohne deren Einwilligung, an ein anderes Haushaltsmitglied, an den Empf\u00e4nger oder die Empf\u00e4ngerin der Miete oder in den F\u00e4llen des \u00a7 3 Abs. 1 Satz 2 Nr. 3 an den Leistungstr\u00e4ger im Sinne des \u00a7 12 des Ersten Buches Sozialgesetzbuch gezahlt werden. Wird das Wohngeld nach Satz 2 gezahlt, ist die wohngeldberechtigte Person hiervon zu unterrichten.</P><P>(2) Das Wohngeld ist monatlich im Voraus auf ein Konto eines Haushaltsmitgliedes bei einem Geldinstitut, f\u00fcr das die Verordnung (EU) Nr. 260/2012 des Europ\u00e4ischen Parlaments und des Rates vom 14. M\u00e4rz 2012 zur Festlegung der technischen Vorschriften und der Gesch\u00e4ftsanforderungen f\u00fcr \u00dcberweisungen und Lastschriften in Euro und zur \u00c4nderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt (Geldinstitut), zu zahlen. Ist ein solches Konto nicht vorhanden, kann das Wohngeld an den Wohnsitz der wohngeldberechtigten Person \u00fcbermittelt werden; die dadurch veranlassten Kosten sollen vom Wohngeld abgezogen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE002802305",
+        "type": "article",
+        "name": "\u00a7 27",
+        "title": "\u00c4nderung des Wohngeldes",
+        "body": {
+          "content": "<P>(1) Das Wohngeld ist auf Antrag neu zu bewilligen, wenn sich im laufenden Bewilligungszeitraum <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder erh\u00f6ht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu ber\u00fccksichtigende Miete oder Belastung um mehr als 15 Prozent erh\u00f6ht oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Gesamteinkommen um mehr als 15 Prozent verringert</LA></DD></DL>und sich dadurch das Wohngeld erh\u00f6ht. Im Fall des Satzes 1 Nr. 2 ist das Wohngeld auch r\u00fcckwirkend zu bewilligen, fr\u00fchestens jedoch ab Beginn des laufenden Bewilligungszeitraums, wenn sich die zu ber\u00fccksichtigende Miete oder Belastung r\u00fcckwirkend um mehr als 15 Prozent erh\u00f6ht hat. Satz 1 Nr. 3 ist auch anzuwenden, wenn sich das Gesamteinkommen um mehr als 15 Prozent verringert, weil sich die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder verringert hat.</P><P>(2) \u00dcber die Leistung des Wohngeldes ist von Amts wegen mit Wirkung ab dem Zeitpunkt der \u00c4nderung der Verh\u00e4ltnisse unter Aufhebung des Bewilligungsbescheides neu zu entscheiden, wenn sich im laufenden Bewilligungszeitraum nicht nur vor\u00fcbergehend <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder auf mindestens ein zu ber\u00fccksichtigendes Haushaltsmitglied verringert; \u00a7 6 Abs. 2 bleibt unber\u00fchrt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu ber\u00fccksichtigende Miete oder Belastung um mehr als 15 Prozent verringert; \u00a7 6 Abs. 2 bleibt unber\u00fchrt, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Gesamteinkommen um mehr als 15 Prozent erh\u00f6ht</LA></DD></DL>und dadurch das Wohngeld wegf\u00e4llt oder sich verringert. Als Zeitpunkt der \u00c4nderung der Verh\u00e4ltnisse gilt im Fall des Satzes 1 Nr. 1 der Tag nach dem Auszug, im Fall des Satzes 1 Nr. 2 der Beginn des Zeitraums, f\u00fcr den sich die zu ber\u00fccksichtigende Miete oder Belastung um mehr als 15 Prozent verringert, und im Fall des Satzes 1 Nr. 3 der Beginn des Zeitraums, f\u00fcr den das erh\u00f6hte Einkommen bezogen wird, das zu einer Erh\u00f6hung des Gesamteinkommens um mehr als 15 Prozent f\u00fchrt. Tritt die \u00c4nderung der Verh\u00e4ltnisse nicht zum Ersten eines Monats ein, ist mit Wirkung vom Ersten des n\u00e4chsten Monats an zu entscheiden. Satz 1 Nr. 3 ist auch anzuwenden, wenn sich das Gesamteinkommen um mehr als 15 Prozent erh\u00f6ht, weil sich die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder erh\u00f6ht hat. Als Zeitpunkt der Antragstellung im Sinne des \u00a7 24 Abs. 2 gilt der Zeitpunkt der Kenntnis der Wohngeldbeh\u00f6rde von den ge\u00e4nderten Verh\u00e4ltnissen. Eine Neuentscheidung von Amts wegen muss innerhalb eines Jahres, nachdem die Wohngeldbeh\u00f6rde von der \u00c4nderung der Verh\u00e4ltnisse Kenntnis erlangt hat, erfolgen. Die Neuentscheidung ist unabh\u00e4ngig vom Bestehen einer Mitteilungspflicht.</P><P>(3) Die wohngeldberechtigte Person muss der Wohngeldbeh\u00f6rde unverz\u00fcglich mitteilen, wenn sich im laufenden Bewilligungszeitraum nicht nur vor\u00fcbergehend <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder (\u00a7 6 Abs. 1) auf mindestens ein zu ber\u00fccksichtigendes Haushaltsmitglied verringert oder die Anzahl der vom Wohngeld ausgeschlossenen Haushaltsmitglieder (\u00a7\u00a7 7 und 8 Abs. 1) erh\u00f6ht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die monatliche Miete (\u00a7 9) oder die monatliche Belastung (\u00a7 10) um mehr als 15 Prozent gegen\u00fcber der im Bewilligungsbescheid genannten Miete oder Belastung verringert oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe aus den monatlichen positiven Eink\u00fcnften nach \u00a7 14 Abs. 1 und den monatlichen Einnahmen nach \u00a7 14 Abs. 2 aller zu ber\u00fccksichtigenden Haushaltsmitglieder um mehr als 15 Prozent gegen\u00fcber dem im Bewilligungsbescheid genannten Betrag erh\u00f6ht; dies gilt auch, wenn sich der Betrag um mehr als 15 Prozent erh\u00f6ht, weil sich die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder erh\u00f6ht hat.</LA></DD></DL>Die zu ber\u00fccksichtigenden Haushaltsmitglieder sind verpflichtet, der wohngeldberechtigten Person \u00c4nderungen ihrer monatlichen positiven Eink\u00fcnfte nach \u00a7 14 Abs. 1 und ihrer monatlichen Einnahmen nach \u00a7 14 Abs. 2 mitzuteilen.</P><P>(4) Die Abs\u00e4tze 2 und 3 gelten entsprechend, wenn sich die \u00c4nderungen nach Absatz 2 Satz 1 und 4 und Absatz 3 Satz 1 auf einen abgelaufenen Bewilligungszeitraum beziehen. Werden die \u00c4nderungen erst nach Ablauf des Bewilligungszeitraums bekannt und wirken sie auf einen oder mehrere abgelaufene Bewilligungszeitr\u00e4ume zur\u00fcck, so ist eine Entscheidung nach Absatz 2 l\u00e4ngstens f\u00fcr die drei Jahre, bevor die wohngeldberechtigte Person oder die zu ber\u00fccksichtigenden Haushaltsmitglieder von der \u00c4nderung der Verh\u00e4ltnisse Kenntnis erlangt haben, zul\u00e4ssig; der Kenntnis steht die Nichtkenntnis infolge grober Fahrl\u00e4ssigkeit gleich. Hat die wohngeldberechtigte Person eine \u00c4nderung nach Absatz 2 Satz 1 und 4 im laufenden Bewilligungszeitraum nicht mitgeteilt und erh\u00e4lt die Wohngeldbeh\u00f6rde daher erst nach Ablauf des Bewilligungszeitraums von der \u00c4nderung Kenntnis, so ist eine Entscheidung nach Absatz 2 l\u00e4ngstens f\u00fcr zehn Jahre seit \u00c4nderung der Verh\u00e4ltnisse zul\u00e4ssig.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE002904126",
+        "type": "article",
+        "name": "\u00a7 28",
+        "title": "Unwirksamkeit des Bewilligungsbescheides und Wegfall des Wohngeldanspruchs",
+        "body": {
+          "content": "<P>(1) Der Bewilligungsbescheid wird vom Ersten des Monats an unwirksam, in dem der Wohnraum, f\u00fcr den Wohngeld bewilligt ist, von keinem zu ber\u00fccksichtigenden Haushaltsmitglied mehr genutzt wird; erfolgt die Nutzungsaufgabe nicht zum Ersten eines Monats, wird der Bewilligungsbescheid vom Ersten des n\u00e4chsten Monats an unwirksam. Die wohngeldberechtigte Person muss der Wohngeldbeh\u00f6rde unverz\u00fcglich mitteilen, dass der Wohnraum nicht mehr genutzt wird. Der Wechsel des Wohnraums innerhalb desselben Heimes im Sinne des Heimgesetzes oder entsprechender Gesetze der L\u00e4nder gilt nicht als Nutzungsaufgabe.</P><P>(2) Der Wohngeldanspruch f\u00e4llt f\u00fcr den Monat weg, in dem das Wohngeld vollst\u00e4ndig oder \u00fcberwiegend nicht zur Bezahlung der Miete oder zur Aufbringung der Belastung verwendet wird (zweckwidrige Verwendung). Der Bewilligungsbescheid ist mit Wirkung vom Ersten des Monats der zweckwidrigen Verwendung an aufzuheben, wenn seine Bekanntgabe nicht l\u00e4nger als zehn Jahre und die Kenntnis der Wohngeldbeh\u00f6rde von der zweckwidrigen Verwendung nicht l\u00e4nger als ein Jahr zur\u00fcckliegt. Die S\u00e4tze 1 und 2 gelten nicht, soweit der Wohngeldanspruch Gegenstand einer Aufrechnung, Verrechnung oder Pf\u00e4ndung nach den \u00a7\u00a7 51, 52 und 54 des Ersten Buches Sozialgesetzbuch ist oder auf einen Leistungstr\u00e4ger im Sinne des \u00a7 12 des Ersten Buches Sozialgesetzbuch \u00fcbergegangen ist.</P><P>(3) Der Bewilligungsbescheid wird von dem Zeitpunkt an unwirksam, ab dem ein zu ber\u00fccksichtigendes Haushaltsmitglied nach den \u00a7\u00a7 7 und 8 Abs. 1 vom Wohngeld ausgeschlossen ist. Im Fall des \u00a7 8 Abs. 1 Satz 3 bleibt der Bewilligungsbescheid unwirksam.</P><P>(4) Die wohngeldberechtigte Person muss der Wohngeldbeh\u00f6rde unverz\u00fcglich mitteilen, wenn f\u00fcr ein zu ber\u00fccksichtigendes Haushaltsmitglied ein Verwaltungsverfahren zur Feststellung von Grund und H\u00f6he einer Leistung nach \u00a7 7 Abs. 1 oder Abs. 2 begonnen hat oder ein zu ber\u00fccksichtigendes Haushaltsmitglied eine Leistung nach \u00a7 7 Abs. 1 empf\u00e4ngt. Die zu ber\u00fccksichtigenden Haushaltsmitglieder sind verpflichtet, der wohngeldberechtigten Person die in Satz 1 genannten Tatsachen mitzuteilen.</P><P>(5) Die wohngeldberechtigte Person ist von der Unwirksamkeit des Bewilligungsbescheides zu unterrichten und im Fall des Absatzes 3 auf die Antragsfrist nach \u00a7 25 Absatz 4 hinzuweisen.</P><P>(6) Der Wohngeldanspruch \u00e4ndert sich nur wegen der in \u00a7 27, den vorstehenden Abs\u00e4tzen 1 bis 3, \u00a7 42a oder der in den \u00a7\u00a7 42b bis 44 genannten Umst\u00e4nde.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE003001305",
+        "type": "article",
+        "name": "\u00a7 29",
+        "title": "Haftung, Aufrechnung, Verrechnung und vorl\u00e4ufige Zahlungseinstellung",
+        "body": {
+          "content": "<P>(1) Ist Wohngeld nach \u00a7 50 des Zehnten Buches Sozialgesetzbuch zu erstatten, haften neben der wohngeldberechtigten Person die vollj\u00e4hrigen und bei der Berechnung des Wohngeldes ber\u00fccksichtigten Haushaltsmitglieder als Gesamtschuldner.</P><P>(2) Die Wohngeldbeh\u00f6rde kann mit Anspr\u00fcchen auf Erstattung zu Unrecht erbrachten Wohngeldes abweichend von \u00a7 51 Abs. 2 des Ersten Buches Sozialgesetzbuch gegen Wohngeldanspr\u00fcche statt bis zu deren H\u00e4lfte in voller H\u00f6he aufrechnen.</P><P>(3) Die Wohngeldbeh\u00f6rde kann Anspr\u00fcche eines anderen Leistungstr\u00e4gers abweichend von \u00a7 52 des Ersten Buches Sozialgesetzbuch mit der ihr obliegenden Wohngeldleistung verrechnen, soweit nach Absatz 2 die Aufrechnung zul\u00e4ssig ist.</P><P>(4) Die Wohngeldbeh\u00f6rde kann die Zahlung des Wohngeldes ohne Erlass eines Bescheides vorl\u00e4ufig ganz oder teilweise einstellen, wenn sie Kenntnis von Tatsachen erh\u00e4lt, die die Annahme rechtfertigen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Bewilligungsbescheid bei Erlass rechtswidrig war und die wohngeldberechtigte Person sich nach \u00a7 45 Absatz 2 Satz 3 des Zehnten Buches Sozialgesetzbuch nicht auf Vertrauensschutz berufen kann oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Voraussetzungen des \u00a7 27 Absatz 2, auch in Verbindung mit Absatz 4 oder \u00a7 28 Absatz 1 bis 3, vorliegen.</LA></DD></DL>Soweit die Kenntnis nicht auf Angaben der wohngeldberechtigten Person beruht, sind dieser unverz\u00fcglich die vorl\u00e4ufige Einstellung der Wohngeldzahlung sowie die daf\u00fcr ma\u00dfgeblichen Gr\u00fcnde mitzuteilen und ist ihr Gelegenheit zu geben, sich zu \u00e4u\u00dfern. Die Wohngeldbeh\u00f6rde hat eine vorl\u00e4ufig eingestellte Wohngeldleistung unverz\u00fcglich nachzuzahlen, wenn nicht entweder der Bewilligungsbescheid, aus dem sich der Anspruch ergibt, zwei Monate nach der Einstellung der Zahlung mit Wirkung f\u00fcr die Vergangenheit aufgehoben oder nachtr\u00e4glich die Unwirksamkeit des Bewilligungsbescheides festgestellt worden ist. Satz 3 gilt nicht, wenn die Wohngeldleistung zwischenzeitlich nach Ma\u00dfgabe des \u00a7 66 des Ersten Buches Sozialgesetzbuch entzogen wurde.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE003101308",
+        "type": "article",
+        "name": "\u00a7 30",
+        "title": "R\u00fcck\u00fcberweisung und Erstattung im Todesfall",
+        "body": {
+          "content": "<P>(1) Wird der Bewilligungsbescheid nach \u00a7 28 Abs. 1 Satz 1 auf Grund eines Todesfalles unwirksam, gilt Wohngeld, das f\u00fcr die Zeit nach dem Tod des zu ber\u00fccksichtigenden Haushaltsmitgliedes auf ein Konto bei einem Geldinstitut \u00fcberwiesen wurde, als unter Vorbehalt geleistet. Das Geldinstitut muss es der \u00fcberweisenden Beh\u00f6rde oder der Wohngeldbeh\u00f6rde zur\u00fcck\u00fcberweisen, wenn diese es als zu Unrecht geleistet zur\u00fcckfordert. Eine Verpflichtung zur R\u00fcck\u00fcberweisung besteht nicht, soweit <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u00fcber den entsprechenden Betrag bei Eingang der R\u00fcckforderung bereits anderweitig verf\u00fcgt worden ist, es sei denn, die R\u00fcck\u00fcberweisung kann aus einem Guthaben erfolgen, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Wohngeldbeh\u00f6rde das Wohngeld an den Empf\u00e4nger oder die Empf\u00e4ngerin der Miete \u00fcberwiesen hat.</LA></DD></DL>Das Geldinstitut darf den nach Satz 1 \u00fcberwiesenen Betrag nicht zur Befriedigung eigener Forderungen verwenden.</P><P>(2) Wird der Bewilligungsbescheid nach \u00a7 28 Abs. 1 Satz 1 auf Grund eines Todesfalles unwirksam und ist Wohngeld weiterhin geleistet worden, sind mit Ausnahme des Empf\u00e4ngers oder der Empf\u00e4ngerin der Miete folgende Personen verpflichtet, der Wohngeldbeh\u00f6rde den entsprechenden Betrag zu erstatten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Personen, die das Wohngeld unmittelbar in Empfang genommen haben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Personen, auf deren Konto der entsprechende Betrag durch ein bank\u00fcbliches Zahlungsgesch\u00e4ft weitergeleitet wurde, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Personen, die \u00fcber den entsprechenden Betrag verf\u00fcgungsberechtigt sind und ein bank\u00fcbliches Zahlungsgesch\u00e4ft zu Lasten des Kontos vorgenommen oder zugelassen haben.</LA></DD></DL>Der Erstattungsanspruch ist durch Verwaltungsakt geltend zu machen. Ein Geldinstitut, das eine R\u00fcck\u00fcberweisung mit dem Hinweis abgelehnt hat, dass \u00fcber den entsprechenden Betrag bereits anderweitig verf\u00fcgt wurde, muss der \u00fcberweisenden Beh\u00f6rde oder der Wohngeldbeh\u00f6rde auf Verlangen Name und Anschrift der in Satz 1 Nr. 2 und 3 genannten Personen und etwaiger neuer Kontoinhaber oder Kontoinhaberinnen benennen. Ein Anspruch nach \u00a7 50 des Zehnten Buches Sozialgesetzbuch bleibt unber\u00fchrt.</P><P>(3) Der R\u00fcck\u00fcberweisungs- und der Erstattungsanspruch verj\u00e4hren in vier Jahren nach Ablauf des Kalenderjahres, in dem die Wohngeldbeh\u00f6rde Kenntnis von der \u00dcberzahlung erlangt hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE003200000",
+        "type": "article",
+        "name": "\u00a7 31",
+        "title": "R\u00fccknahme eines rechtswidrigen nicht beg\u00fcnstigenden Wohngeldbescheides",
+        "body": {
+          "content": "<P>Wird ein rechtswidriger nicht beg\u00fcnstigender Wohngeldbescheid mit Wirkung f\u00fcr die Vergangenheit zur\u00fcckgenommen, muss die Wohngeldbeh\u00f6rde l\u00e4ngstens f\u00fcr zwei Jahre vor der R\u00fccknahme Wohngeld leisten. Im \u00dcbrigen bleibt \u00a7 44 des Zehnten Buches Sozialgesetzbuch unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG000900000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG001000000",
+        "type": "heading",
+        "name": "Teil 5",
+        "title": "Kostentragung und Datenabgleich",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNE003300000",
+        "type": "article",
+        "name": "\u00a7 32",
+        "title": "Erstattung des Wohngeldes durch den Bund",
+        "body": {
+          "content": "<P>Wohngeld nach diesem Gesetz, das von einem Land gezahlt worden ist, ist diesem zur H\u00e4lfte vom Bund zu erstatten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001000000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE003407126",
+        "type": "article",
+        "name": "\u00a7 33",
+        "title": "Datenabgleich",
+        "body": {
+          "content": "<P>(1) Die Wohngeldbeh\u00f6rde ist verpflichtet, auf Verlangen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der zust\u00e4ndigen Beh\u00f6rde f\u00fcr die Erhebung der Ausgleichszahlung nach dem Gesetz \u00fcber den Abbau der Fehlsubventionierung im Wohnungswesen und den hierzu erlassenen landesrechtlichen Vorschriften und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der jeweils zust\u00e4ndigen Beh\u00f6rde nach entsprechenden Gesetzen der L\u00e4nder</LA></DD></DL>diesen Beh\u00f6rden mitzuteilen, ob der betroffene Wohnungsinhaber Wohngeld erh\u00e4lt. Ma\u00dfgebend hierf\u00fcr ist der Zeitraum, der zwischen dem Zeitpunkt nach \u00a7 3 Abs. 2 des Gesetzes \u00fcber den Abbau der Fehlsubventionierung im Wohnungswesen und den hierzu erlassenen landesrechtlichen Vorschriften oder nach entsprechenden Gesetzen der L\u00e4nder und der Erteilung des Bescheides \u00fcber die Ausgleichszahlung liegt.</P><P>(1a) (weggefallen)</P><P>(2) Die Wohngeldbeh\u00f6rde darf, um die rechtswidrige Inanspruchnahme von Wohngeld zu vermeiden oder aufzudecken, die Haushaltsmitglieder regelm\u00e4\u00dfig durch einen Datenabgleich daraufhin \u00fcberpr\u00fcfen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob und f\u00fcr welche Zeitr\u00e4ume Leistungen nach \u00a7 7 Abs. 1 beantragt oder empfangen werden oder wurden oder ein Ausschlussgrund nach \u00a7 7 Abs. 2, Abs. 3 oder \u00a7 8 Abs. 1 vorliegt oder vorlag,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob und welche Daten nach \u00a7 45d Abs. 1 und \u00a7 45e des Einkommensteuergesetzes, insbesondere zu der H\u00f6he von Kapitalertr\u00e4gen, f\u00fcr die ein Freistellungsauftrag erteilt worden ist, dem Bundeszentralamt f\u00fcr Steuern \u00fcbermittelt worden sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob und f\u00fcr welche Zeitr\u00e4ume bereits Wohngeld beantragt oder empfangen wird oder wurde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob und von welchem Zeitpunkt an die Bundesagentur f\u00fcr Arbeit die Leistung von Arbeitslosengeld eingestellt hat,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob, mit welchem Wohnungsstatus und von welchem Zeitpunkt an ein Haushaltsmitglied unter der Anschrift der Wohnung, f\u00fcr die Wohngeld beantragt wird oder geleistet wird oder wurde, bei der Meldebeh\u00f6rde gemeldet ist oder nicht mehr gemeldet ist und unter welcher neuen Anschrift es gemeldet ist,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob, f\u00fcr welche Zeitr\u00e4ume und bei welchem Arbeitgeber eine Versicherungspflicht im Sinne des \u00a7 2 Abs. 1 des Vierten Buches Sozialgesetzbuch oder eine geringf\u00fcgige Besch\u00e4ftigung besteht oder bestand und entsprechende Daten an die Datenstelle der Rentenversicherung (Datenstelle) und die Minijob-Zentrale der Deutschen Rentenversicherung Knappschaft-Bahn-See \u00fcbermittelt worden sind,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob, in welcher H\u00f6he und f\u00fcr welche Zeitr\u00e4ume Leistungen der Renten- und Unfallversicherungen durch die Deutsche Post AG oder die Deutsche Rentenversicherung Knappschaft-Bahn-See gezahlt worden sind.</LA></DD></DL>Richtet sich eine \u00dcberpr\u00fcfung auf einen abgelaufenen Bewilligungszeitraum, ist diese bis zum Ablauf von zehn Jahren nach Bekanntgabe des zugeh\u00f6rigen Bewilligungsbescheides zul\u00e4ssig.</P><P>(3) Zur Durchf\u00fchrung des Datenabgleichs d\u00fcrfen nur <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname, Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens, Geburtsname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum, Geburtsort,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift der Wohnung, f\u00fcr die Wohngeld beantragt oder bewilligt wurde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tatsache des Wohngeldantrages und des Wohngeldempfangs,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zeitraum des Wohngeldempfangs und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht</LA></DD></DL>an die in Absatz 1 Satz 1 und Absatz 2 Satz 1 Nr. 2, 4, 6 und 7 genannten und die f\u00fcr die Leistungen nach Absatz 2 Satz 1 Nummer 1 und 3 zust\u00e4ndigen Stellen sowie an die Meldebeh\u00f6rden \u00fcbermittelt werden. Die Daten, die der Wohngeldbeh\u00f6rde oder der sonst nach Landesrecht f\u00fcr den Datenabgleich zust\u00e4ndigen oder von der Landesregierung durch Rechtsverordnung oder auf sonstige Weise f\u00fcr den Datenabgleich bestimmten Stelle (zentralen Landesstelle) \u00fcbermittelt werden, d\u00fcrfen nur f\u00fcr den Zweck der \u00dcberpr\u00fcfung nach den Abs\u00e4tzen 1 und 2 genutzt werden. Die \u00fcbermittelten Daten, bei denen die \u00dcberpr\u00fcfung zu keinen abweichenden Feststellungen f\u00fchrt, sind unverz\u00fcglich zu l\u00f6schen oder zu vernichten. Die betroffenen Personen sind von der Wohngeldbeh\u00f6rde auf die Daten\u00fcbermittlung hinzuweisen.</P><P>(4) Die in Absatz 2 Satz 1 Nummer 2, 4, 6 und 7 genannten und die f\u00fcr die Leistungen nach Absatz 2 Satz 1 Nummer 1 und 3 zust\u00e4ndigen Stellen sowie die Meldebeh\u00f6rden f\u00fchren den Datenabgleich durch und \u00fcbermitteln die Daten \u00fcber Feststellungen im Sinne des Absatzes 2 an die Wohngeldbeh\u00f6rde oder die zentrale Landesstelle oder \u00fcber die zentrale Landesstelle an die Wohngeldbeh\u00f6rde. Die jenen Stellen \u00fcberlassenen Daten und Datentr\u00e4ger sind nach Durchf\u00fchrung des Datenabgleichs unverz\u00fcglich zur\u00fcckzugeben, zu l\u00f6schen oder zu vernichten.</P><P>(5) Der Datenabgleich nach den Abs\u00e4tzen 1 und 2 ist auch in automatisierter Form zul\u00e4ssig. Hierzu d\u00fcrfen die erforderlichen Daten nach den Abs\u00e4tzen 1 bis 3 auch der Datenstelle als Vermittlungsstelle \u00fcbermittelt werden. Die Datenstelle darf die nach den Abs\u00e4tzen 1 bis 3 \u00fcbermittelten Daten speichern, nutzen und an die in Absatz 2 Satz 1 Nr. 2, 4, 6 und 7 genannten Stellen weiter \u00fcbermitteln, soweit dies f\u00fcr den Datenabgleich nach den Abs\u00e4tzen 1 und 2 erforderlich ist. Die Datenstelle darf die nach \u00a7 52 Absatz 1 und 2 des Zweiten Buches Sozialgesetzbuch und nach \u00a7 118 Absatz 2 des Zw\u00f6lften Buches Sozialgesetzbuch \u00fcbermittelten Daten sowie die Daten der Stammsatzdatei im Sinne des \u00a7 150 des Sechsten Buches Sozialgesetzbuch und des bei ihr f\u00fcr die Pr\u00fcfung bei den Arbeitgebern gef\u00fchrten Dateisystems im Sinne des \u00a7 28p Absatz 8 Satz 3 des Vierten Buches Sozialgesetzbuch nutzen, soweit dies f\u00fcr den Datenabgleich nach den Abs\u00e4tzen 1 und 2 erforderlich ist. Die Datenstelle gleicht die \u00fcbermittelten Daten ab und leitet Feststellungen im Sinne des Absatzes 2 an die \u00fcbermittelnde Wohngeldbeh\u00f6rde oder die zentrale Landesstelle oder \u00fcber die zentrale Landesstelle an die \u00fcbermittelnde Wohngeldbeh\u00f6rde zur\u00fcck. Die nach Satz 3 bei der Datenstelle gespeicherten Daten sind unverz\u00fcglich nach Abschluss der Datenabgleiche zu l\u00f6schen. Bei einer Weiter\u00fcbermittlung der Daten nach Satz 3 gilt Absatz 4 f\u00fcr die in Absatz 2 Satz 1 Nr. 2, 4, 6 und 7 genannten Stellen entsprechend.</P><P>(6) Die Landesregierung kann ihre Befugnis, eine zentrale Landesstelle f\u00fcr den Datenabgleich zu bestimmen (Absatz 3 Satz 2, Absatz 4 Satz 1 und Absatz 5 Satz 5), auf die f\u00fcr die Ausf\u00fchrung des Wohngeldgesetzes zust\u00e4ndige oberste Landesbeh\u00f6rde \u00fcbertragen. \u00a7 69 des Ersten Buches Sozialgesetzbuch bleibt unber\u00fchrt.</P><P>(7) Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung die Einzelheiten des Verfahrens des automatisierten Datenabgleichs und die Kosten des Verfahrens zu regeln, solange und soweit nicht die Bundesregierung von der Erm\u00e4chtigung nach \u00a7 38 Nr. 3 Gebrauch gemacht hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001000000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG001100000",
+        "type": "heading",
+        "name": "Teil 6",
+        "title": "Wohngeldstatistik",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNE003501308",
+        "type": "article",
+        "name": "\u00a7 34",
+        "title": "Zweck der Wohngeldstatistik, Auskunfts- und Hinweispflicht",
+        "body": {
+          "content": "<P>(1) \u00dcber die Antr\u00e4ge und Entscheidungen nach diesem Gesetz sowie \u00fcber die pers\u00f6nlichen und sachlichen Verh\u00e4ltnisse der zu ber\u00fccksichtigenden Haushaltsmitglieder, die f\u00fcr die Berechnung des regionalen Mietenniveaus (\u00a7 12 Abs. 3 und 4), den Wohngeld- und Mietenbericht (\u00a7 39), die Beurteilung der Auswirkungen dieses Gesetzes und dessen Fortentwicklung erforderlich sind, ist eine Bundesstatistik zu f\u00fchren.</P><P>(2) F\u00fcr die Erhebung sind die Wohngeldbeh\u00f6rden auskunftspflichtig. Die Angaben der in \u00a7 23 Abs. 1 bis 3 bezeichneten Personen dienen zur Ermittlung der statistischen Daten im Rahmen der Erhebungsmerkmale (\u00a7 35).</P><P>(3) Die wohngeldberechtigte Person ist auf die Verwendung der auf Grund der Bearbeitung bekannten Daten f\u00fcr die Wohngeldstatistik und auf die M\u00f6glichkeit der \u00dcbermittlung nach \u00a7 36 Abs. 2 Satz 2 hinzuweisen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001100000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE003604126",
+        "type": "article",
+        "name": "\u00a7 35",
+        "title": "Erhebungs- und Hilfsmerkmale",
+        "body": {
+          "content": "<P>(1) Erhebungsmerkmale sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art des Wohngeldantrages und der Entscheidung;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Betrag des im Erhebungszeitraum gezahlten Wohngeldes;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Beginn und das Ende des Bewilligungszeitraums nach Monat und Jahr; die Art und die H\u00f6he des monatlichen Wohngeldes;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder, ihre jeweilige Beteiligung am Erwerbsleben und Stellung im Beruf sowie jeweils die Anzahl derjenigen zu ber\u00fccksichtigenden Haushaltsmitglieder, die <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">noch nicht 18 Jahre alt sind oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens 18 Jahre, aber noch nicht 25 Jahre alt sind;</LA></DD></DL>ist mindestens ein Haushaltsmitglied vom Wohngeld ausgeschlossen, sind auch die Gesamtzahl der Haushaltsmitglieder und die Zahl der vom Wohngeld ausgeschlossenen Haushaltsmitglieder Erhebungsmerkmale;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">das jeweilige Geschlecht der zu ber\u00fccksichtigenden Haushaltsmitglieder;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">der bei der Berechnung des Wohngeldes ber\u00fccksichtigte H\u00f6chstbetrag f\u00fcr Miete und Belastung (\u00a7 12 Abs. 1), im Fall des \u00a7 11 Abs. 3 der Anteil des H\u00f6chstbetrages, der dem Anteil der zu ber\u00fccksichtigenden Haushaltsmitglieder an der Gesamtzahl der Haushaltsmitglieder entspricht;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Wohnverh\u00e4ltnisse der zu ber\u00fccksichtigenden Haushaltsmitglieder nach Gr\u00f6\u00dfe der Wohnung, nach H\u00f6he der monatlichen Miete oder Belastung, im Fall des \u00a7 10 Abs. 2 Satz 2 die Belastung aus Zinsen und Tilgung, nach \u00f6ffentlicher F\u00f6rderung der Wohnung oder F\u00f6rderung nach dem Wohnraumf\u00f6rderungsgesetz oder entsprechenden Gesetzen der L\u00e4nder, der Grund der Wohngeldberechtigung (\u00a7 3 Abs. 1 bis 3) sowie die Gemeinde und deren Mietenstufe (\u00a7 12); ist mindestens ein Haushaltsmitglied vom Wohngeld ausgeschlossen, sind die Gr\u00f6\u00dfe der Wohnung und die H\u00f6he der monatlichen Miete oder Belastung kopfteilig zu erheben;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">das monatliche Gesamteinkommen, die Freibetr\u00e4ge nach \u00a7 17 und die Abzugsbetr\u00e4ge f\u00fcr Unterhaltsleistungen nach \u00a7 18;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der positiven Eink\u00fcnfte und der Einnahmen nach \u00a7 14 sowie die Abzugsbetr\u00e4ge f\u00fcr Steuern und Sozialversicherungsbeitr\u00e4ge nach \u00a7 16 f\u00fcr jedes einzelne zu ber\u00fccksichtigende Haushaltsmitglied;</LA></DD></DL>im Fall einer nach den \u00a7\u00a7 7 und 8 Absatz 1 vom Wohngeld ausgeschlossenen wohngeldberechtigten Person ist die Art der beantragten oder empfangenen Leistung nach \u00a7 7 Absatz 1 Erhebungsmerkmal;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Datum der Berechnung des Wohngeldes und die angewandte Gesetzesfassung.</LA></DD></DL></P><P>(2) Hilfsmerkmale sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift der auskunftspflichtigen Wohngeldbeh\u00f6rde;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohngeldnummern; diese d\u00fcrfen keine Angaben \u00fcber pers\u00f6nliche oder sachliche Verh\u00e4ltnisse der wohngeldberechtigten Personen sowie der in \u00a7 23 Absatz 1 bis 3 bezeichneten Personen enthalten oder einen R\u00fcckschluss auf diese Verh\u00e4ltnisse zulassen.</LA></DD></DL>Die Wohngeldnummern sind zu l\u00f6schen, sobald bei den statistischen Landes\u00e4mtern die \u00dcberpr\u00fcfung der Erhebungs- und Hilfsmerkmale auf ihre Schl\u00fcssigkeit und Vollst\u00e4ndigkeit sowie die Erstellung und Pr\u00fcfung von Ergebnissen aus der Bestandsfortschreibung abgeschlossen sind, sp\u00e4testens jedoch nach Ablauf von f\u00fcnf Jahren seit dem Zeitpunkt, zu dem die Erhebung durchgef\u00fchrt worden ist (\u00a7 36 Absatz 1).</P><P>(3) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001100000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE003704126",
+        "type": "article",
+        "name": "\u00a7 36",
+        "title": "Erhebungszeitraum und Zusatzaufbereitungen",
+        "body": {
+          "content": "<P>(1) Die Erhebung der Angaben nach \u00a7 35 Abs. 1 ist viertelj\u00e4hrlich f\u00fcr das jeweils abgelaufene Kalendervierteljahr durchzuf\u00fchren. Die statistischen Landes\u00e4mter stellen dem Statistischen Bundesamt unverz\u00fcglich nach Ablauf des Erhebungszeitraums oder zu dem in der Rechtsverordnung nach \u00a7 38 angegebenen Zeitpunkt folgende Angaben zur Verf\u00fcgung: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">viertelj\u00e4hrlich <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Erhebungszeitraum die Angaben nach \u00a7 35 Abs. 1 Nr. 1 bis 3;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den vergleichbaren Erhebungszeitraum des vorausgehenden Kalenderjahres die Angaben nach \u00a7 35 Abs. 1 Nr. 1 und 3 unter Ber\u00fccksichtigung der r\u00fcckwirkenden Entscheidungen aus den folgenden zw\u00f6lf Monaten;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">j\u00e4hrlich die Angaben nach \u00a7 35 Abs. 1 Nr. 3 bis 9 f\u00fcr den Monat Dezember unter Ber\u00fccksichtigung der r\u00fcckwirkenden Entscheidungen aus dem folgenden Kalendervierteljahr.</LA></DD></DL></P><P>(2) Einzelangaben nach \u00a7 35 Abs. 1 aus einer Zufallsstichprobe mit einem Auswahlsatz von 25 Prozent der wohngeldberechtigten Personen sind dem Statistischen Bundesamt j\u00e4hrlich unverz\u00fcglich nach Ablauf des Erhebungszeitraums f\u00fcr Zusatzaufbereitungen zur Verf\u00fcgung zu stellen. Zu diesem Zweck d\u00fcrfen die Einzelangaben auch dem Bundesministerium des Innern, f\u00fcr Bau und Heimat oder, wenn die Aufgabe der Zusatzaufbereitung an das Bundesamt f\u00fcr Bauwesen und Raumordnung \u00fcbertragen worden ist, an dieses \u00fcbermittelt werden. Dabei sind mehr als f\u00fcnf zu ber\u00fccksichtigende Haushaltsmitglieder, die Wohnraum gemeinsam bewohnen, in einer Gruppe zusammenzufassen. Bei der empfangenden Stelle ist eine Organisationseinheit einzurichten, die r\u00e4umlich, organisatorisch und personell von anderen Aufgabenbereichen zu trennen ist. Die in dieser Organisationseinheit t\u00e4tigen Personen m\u00fcssen Amtstr\u00e4ger oder f\u00fcr den \u00f6ffentlichen Dienst besonders Verpflichtete sein. Sie d\u00fcrfen aus ihrer T\u00e4tigkeit gewonnene Erkenntnisse nur f\u00fcr Zwecke des \u00a7 34 Abs. 1 verwenden. Die nach Satz 2 \u00fcbermittelten Einzelangaben d\u00fcrfen nicht mit anderen Daten zusammengef\u00fchrt werden.</P><P>(3) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001100000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG001200000",
+        "type": "heading",
+        "name": "Teil 7",
+        "title": "Schlussvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNE003801305",
+        "type": "article",
+        "name": "\u00a7 37",
+        "title": "Bu\u00dfgeld",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder leichtfertig <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 23 Absatz 1 Satz 1, Absatz 2 oder Absatz 3 eine Auskunft nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig gibt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 23 Absatz 1 Satz 3 eine Angabe nicht richtig macht oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 27 Abs. 3 Satz 1, auch in Verbindung mit Abs. 4, oder \u00a7 28 Abs. 1 Satz 2 oder Abs. 4 Satz 1 eine \u00c4nderung in den Verh\u00e4ltnissen, die f\u00fcr den Wohngeldanspruch erheblich ist, nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig mitteilt.</LA></DD></DL></P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu zweitausend Euro geahndet werden.</P><P>(3) Verwaltungsbeh\u00f6rden im Sinne des \u00a7 36 Abs. 1 Nr. 1 des Gesetzes \u00fcber Ordnungswidrigkeiten sind die Wohngeldbeh\u00f6rden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE003902126",
+        "type": "article",
+        "name": "\u00a7 38",
+        "title": "Verordnungserm\u00e4chtigung",
+        "body": {
+          "content": "<P>Die Bundesregierung wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">n\u00e4here Vorschriften zur Durchf\u00fchrung dieses Gesetzes \u00fcber die Ermittlung <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der zu ber\u00fccksichtigenden Miete oder Belastung (\u00a7\u00a7 9 bis 12) und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Einkommens (\u00a7\u00a7 13 bis 18)</LA></DD></DL>zu erlassen, wobei pauschalierende Regelungen getroffen werden d\u00fcrfen, soweit die Ermittlung im Einzelnen nicht oder nur mit unverh\u00e4ltnism\u00e4\u00dfig gro\u00dfen Schwierigkeiten m\u00f6glich ist;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Mietenstufen f\u00fcr Gemeinden festzulegen (\u00a7 12);</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten des Verfahrens des automatisierten Datenabgleichs und die Kosten des Verfahrens (\u00a7 33) zu regeln; dabei kann auch geregelt werden, dass die L\u00e4nder der Datenstelle die Kosten f\u00fcr die Durchf\u00fchrung des Datenabgleichs zu erstatten haben;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung (Anlage 1) und die Werte f\u00fcr \u201eb\u201c und \u201ec\u201c (Anlage 2) nach einer gesetzlichen \u00c4nderung nach \u00a7 43 zum 1. Januar jedes zweiten Jahres fortzuschreiben und die bisherigen H\u00f6chstbetr\u00e4ge in Anlage 1 und Werte in Anlage 2 zu ersetzen. Soweit der Deutsche Bundestag beschlie\u00dft, die H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung (\u00a7 12 Absatz 1), die Mietenstufen (\u00a7 12 Absatz 2) oder die H\u00f6he des Wohngeldes (\u00a7 19) f\u00fcr ein solches Jahr neu festzusetzen, hat dieser Beschluss Vorrang gegen\u00fcber der Verordnungserm\u00e4chtigung.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004001305",
+        "type": "article",
+        "name": "\u00a7 39",
+        "title": "Wohngeld- und Mietenbericht; Bericht \u00fcber die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland",
+        "body": {
+          "content": "<P>(1) Die H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung (\u00a7 12 Absatz 1), die Mietenstufen (\u00a7 12 Absatz 2) und die H\u00f6he des Wohngeldes (\u00a7 19) sind alle zwei Jahre zu \u00fcberpr\u00fcfen. Dabei ist der bundesdurchschnittlichen und regionalen Entwicklung der Wohnkosten sowie der Ver\u00e4nderung der Einkommensverh\u00e4ltnisse und der Lebenshaltungskosten Rechnung zu tragen. Die Bundesregierung berichtet dem Deutschen Bundestag \u00fcber die \u00dcberpr\u00fcfung nach den S\u00e4tzen 1 und 2, \u00fcber die Durchf\u00fchrung dieses Gesetzes und \u00fcber die Entwicklung der Mieten f\u00fcr Wohnraum alle zwei Jahre bis zum 30. Juni. Dabei flie\u00dfen auch miet- und wohnungsmarktrelevante Daten der L\u00e4nder ein. Der erste erweiterte Bericht erfolgt bis zum 30. Juni 2017.</P><P>(2) Die Bundesregierung berichtet dem Deutschen Bundestag \u00fcber die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland alle vier Jahre bis zum 30. Juni. Der n\u00e4chste Bericht erfolgt bis zum 30. Juni 2017. Eine im gleichen Jahr vorzulegende Berichterstattung nach Absatz 1 ist jeweils zu integrieren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004100000",
+        "type": "article",
+        "name": "\u00a7 40",
+        "title": "Einkommen bei anderen Sozialleistungen",
+        "body": {
+          "content": "<P>Das einer vom Wohngeld ausgeschlossenen wohngeldberechtigten Person bewilligte Wohngeld ist bei Sozialleistungen nicht als deren Einkommen zu ber\u00fccksichtigen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004201308",
+        "type": "article",
+        "name": "\u00a7 41",
+        "title": "Auswirkung von Rechts\u00e4nderungen auf die Wohngeldentscheidung",
+        "body": {
+          "content": "<P>(1) Ist im Zeitpunkt des Inkrafttretens von \u00c4nderungen dieses Gesetzes oder der Wohngeldverordnung \u00fcber einen Wohngeldantrag noch nicht entschieden, ist f\u00fcr die Zeit bis zum Inkrafttreten der \u00c4nderungen nach dem bis dahin geltenden Recht, f\u00fcr die darauf folgende Zeit nach dem neuen Recht zu entscheiden. Ist \u00fcber einen nach dem Zeitpunkt des Inkrafttretens von \u00c4nderungen dieses Gesetzes oder der Wohngeldverordnung gestellten Wohngeldantrag, einen Antrag nach \u00a7 27 Absatz 1 oder in einem Verfahren nach \u00a7 27 Absatz 2 zu entscheiden und beginnt der Bewilligungszeitraum vor dem Zeitpunkt des Inkrafttretens von \u00c4nderungen dieses Gesetzes oder der Wohngeldverordnung, ist Satz 1 entsprechend anzuwenden.</P><P>(2) Ist vor dem Inkrafttreten von \u00c4nderungen dieses Gesetzes oder der Wohngeldverordnung \u00fcber einen Wohngeldantrag entschieden worden, verbleibt es f\u00fcr die Leistung des Wohngeldes auf Grund dieses Antrages bei der Anwendung des jeweils bis zu der Entscheidung geltenden Rechts.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001200000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNG001300000",
+        "type": "heading",
+        "name": "Teil 8",
+        "title": "\u00dcberleitungsvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR185610008BJNE004300000",
+        "type": "article",
+        "name": "\u00a7 42",
+        "title": "Gesetz zur Neuregelung des Wohngeldrechts und zur \u00c4nderung des Sozialgesetzbuches",
+        "body": {
+          "content": "<P>(1) Ist bis zum 31. Dezember 2008 \u00fcber einen Wohngeldantrag, einen Antrag nach \u00a7 29 Abs. 1 oder Abs. 2 des Wohngeldgesetzes in der bis zum 31. Dezember 2008 geltenden Fassung oder in einem Verfahren nach \u00a7 29 Abs. 3 des Wohngeldgesetzes in der bis zum 31. Dezember 2008 geltenden Fassung noch nicht entschieden worden, ist f\u00fcr die Zeit bis zum 31. Dezember 2008 nach dem bis dahin geltenden Recht, f\u00fcr die darauf folgende Zeit nach dem neuen Recht zu entscheiden. Ist in den F\u00e4llen des Satzes 1 das ab dem 1. Januar 2009 zu bewilligende Wohngeld geringer als das f\u00fcr Dezember 2008 zu bewilligende Wohngeld, verbleibt es auch f\u00fcr den Teil des Bewilligungszeitraums ab dem 1. Januar 2009 bei diesem Wohngeld; \u00a7 24 Abs. 2 und \u00a7 27 Abs. 2 bleiben unber\u00fchrt.</P><P>(2) Ist Wohngeld vor dem 1. Januar 2009 bewilligt worden und liegt mindestens ein Teil des Bewilligungszeitraums im Jahr 2009, ist von Amts wegen \u00fcber die Leistung des Wohngeldes f\u00fcr den nach dem 31. Dezember 2008 liegenden Teil des Bewilligungszeitraums unter Anwendung des ab dem 1. Januar 2009 geltenden Rechts nach Ablauf des Bewilligungszeitraums schriftlich neu zu entscheiden; ergibt sich kein h\u00f6heres Wohngeld, verbleibt es bei dem bereits bewilligten Wohngeld. In den F\u00e4llen des Satzes 1 sind bei der Entscheidung abweichend von \u00a7 24 Abs. 2 die tats\u00e4chlichen Verh\u00e4ltnisse im Zeitraum, f\u00fcr den \u00fcber die Leistung des Wohngeldes r\u00fcckwirkend neu zu entscheiden ist, zu Grunde zu legen. Die \u00a7\u00a7 29 und 30 des Wohngeldgesetzes in der bis zum 31. Dezember 2008 geltenden Fassung und die \u00a7\u00a7 27 und 28 bleiben unber\u00fchrt. Liegt das Ende des Bewilligungszeitraums, \u00fcber den nach Satz 1 neu zu entscheiden ist, nach dem 31. M\u00e4rz 2009, kann eine angemessene vorl\u00e4ufige Zahlung geleistet werden.</P><P>(3) Ist \u00fcber einen nach dem 31. Dezember 2008 gestellten Wohngeldantrag, einen Antrag nach \u00a7 27 Abs. 1 oder in einem Verfahren nach \u00a7 27 Abs. 2 zu entscheiden und beginnt der Bewilligungszeitraum vor dem 1. Januar 2009, ist Absatz 1 entsprechend anzuwenden.</P><P>(4) W\u00e4ren bei einer Entscheidung nach den Abs\u00e4tzen 1 und 3 Haushaltsmitglieder nach \u00a7 6 zu ber\u00fccksichtigen, die in einem anderen Bescheid f\u00fcr denselben Wohnraum bereits als zum Haushalt rechnende Familienmitglieder ber\u00fccksichtigt worden sind, bleibt dieser andere Bescheid von der Entscheidung nach den Abs\u00e4tzen 1 und 3 unber\u00fchrt. Bei der Entscheidung nach den Abs\u00e4tzen 1 und 3 ist das Wohngeld ohne die Haushaltsmitglieder nach Satz 1 und unter entsprechender Anwendung des \u00a7 11 Abs. 3 zu berechnen. Die F\u00e4lle der S\u00e4tze 1 und 2 gelten als erhebliche \u00c4nderung der ma\u00dfgeblichen Verh\u00e4ltnisse nach \u00a7 25 Abs. 1 Satz 2.</P><P>(5) Bei Wohn- und Wirtschaftsgemeinschaften von Personen, welche die Voraussetzungen nach \u00a7 4 des Wohngeldgesetzes in der bis zum 31. Dezember 2008 geltenden Fassung nicht erf\u00fcllen und keinen gemeinsamen Wohngeldbescheid erhalten haben, ist bei der Entscheidung nach Absatz 2 r\u00fcckwirkend das Wohngeld gemeinsam zu berechnen, wenn die Voraussetzungen nach den \u00a7\u00a7 5 und 6 Abs. 1 erf\u00fcllt werden. Enden die Bewilligungszeitr\u00e4ume in den F\u00e4llen des Satzes 1 nicht gleichzeitig, ist abweichend von Absatz 2 Satz 1 Halbsatz 1 nach dem Ende des zuletzt ablaufenden Bewilligungszeitraums f\u00fcr alle zu ber\u00fccksichtigenden Haushaltsmitglieder nach \u00a7 6 einheitlich neu zu entscheiden. Betr\u00e4gt der Zeitraum zwischen dem Ende des zuerst ablaufenden Bewilligungszeitraums und dem Ende des zuletzt ablaufenden Bewilligungszeitraums mehr als drei Monate, ist auf Antrag eine angemessene vorl\u00e4ufige Zahlung zu leisten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001300000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004801305",
+        "type": "article",
+        "name": "\u00a7 42a",
+        "title": "\u00dcbergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur \u00c4nderung des Wohnraumf\u00f6rderungsgesetzes",
+        "body": {
+          "content": "<P>(1) Ist Wohngeld vor dem 1. Januar 2016 bewilligt worden und liegt mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember 2015, so ist abweichend von \u00a7 41 Absatz 2 von Amts wegen \u00fcber die Leistung des Wohngeldes f\u00fcr den Zeitraum vom 1. Januar 2016 bis zum Ende des bisherigen Bewilligungszeitraums neu zu entscheiden. Bei der Entscheidung nach Satz 1 sind die \u00a7\u00a7 12 und 16 Satz 1 bis 4 und \u00a7 19 dieses Gesetzes sowie die Anlage zu \u00a7 1 Absatz 3 der Wohngeldverordnung in der ab dem 1. Januar 2016 geltenden Fassung anzuwenden, alle anderen Vorschriften in der bis zum 31. Dezember 2015 geltenden Fassung. Ergibt sich bei der Entscheidung nach Satz 1 kein h\u00f6heres Wohngeld, verbleibt es bis zum Ende des bisherigen Bewilligungszeitraums bei dem bereits bewilligten Wohngeld. Ist bei der Entscheidung nach Satz 1 nicht ber\u00fccksichtigt worden, dass sich die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder, die zu ber\u00fccksichtigende Miete oder Belastung oder das Gesamteinkommen ver\u00e4ndert hat oder das Wohngeld zweckwidrig verwendet wird, so ist abweichend von \u00a7 45 des Zehnten Buches Sozialgesetzbuch die Entscheidung nach Satz 1 nur rechtswidrig, wenn gleichzeitig die Voraussetzungen des \u00a7 27 oder \u00a7 28 Absatz 2 dieses Gesetzes vorliegen; im \u00dcbrigen bleibt \u00a7 45 des Zehnten Buches Sozialgesetzbuch unber\u00fchrt. Wird die Entscheidung nach Satz 1 unter den Voraussetzungen des \u00a7 45 des Zehnten Buches Sozialgesetzbuch zur\u00fcckgenommen, wird der bisherige Bewilligungsbescheid wieder wirksam; die \u00a7\u00a7 27 und 28 bleiben unber\u00fchrt. Ist Wohngeld vor dem 1. Januar 2016 bewilligt worden und liegt mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember 2015 und ist \u00fcber einen Antrag nach \u00a7 27 Absatz 1 oder in einem Verfahren nach \u00a7 27 Absatz 2 neu zu entscheiden, so ist f\u00fcr die Zeit bis zum 31. Dezember 2015 nach dem bis dahin geltenden Recht, ab dem 1. Januar 2016 bis zum Ende des bisherigen Bewilligungszeitraums nach neuem Recht nach Ma\u00dfgabe des Satzes 2 und danach vollst\u00e4ndig nach neuem Recht zu entscheiden. Der Bewilligungsbescheid nach Satz 1 muss auf die besonderen Entscheidungsgrundlagen der S\u00e4tze 1 bis 5 hinweisen, insbesondere darauf, dass eine Entscheidung nach \u00a7 27 oder \u00a7 28 Absatz 2 dem Bewilligungsbescheid nach Satz 1 noch nachfolgen kann und bezogen auf den Zeitpunkt der \u00c4nderung, der auch vor dem 1. Januar 2016 liegen kann, das Wohngeld wegfallen oder sich verringern kann.</P><P>(2) Ist bis zum 31. Dezember 2015 \u00fcber einen Wohngeldantrag nach \u00a7 22 noch nicht entschieden, so ist f\u00fcr die Zeit bis zum 31. Dezember 2015 nach dem bis dahin geltenden Recht und f\u00fcr die darauffolgende Zeit nach dem neuen Recht zu entscheiden. Ist in den F\u00e4llen des Satzes 1 das ab dem 1. Januar 2016 zu bewilligende Wohngeld geringer als das f\u00fcr Dezember 2015 zu bewilligende Wohngeld, verbleibt es auch f\u00fcr den Teil des Bewilligungszeitraums ab dem 1. Januar 2016 bei diesem Wohngeld. Ist \u00fcber einen nach dem 31. Dezember 2015 gestellten Wohngeldantrag nach \u00a7 22 zu entscheiden und beginnt der Bewilligungszeitraum vor dem 1. Januar 2016, so sind die S\u00e4tze 1 und 2 entsprechend anzuwenden. \u00a7 24 Absatz 2 und \u00a7 27 bleiben unber\u00fchrt.</P><P>(3) In F\u00e4llen des \u00a7 31 Absatz 1 Satz 1 des Unterhaltssicherungsgesetzes sind \u00a7 14 Absatz 2 Nummer 23 und \u00a7 20 Absatz 1 dieses Gesetzes in der bis zum 31. Oktober 2015 geltenden Fassung anzuwenden. Im \u00dcbrigen gelten die Abs\u00e4tze 1 und 2.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001300000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE005000126",
+        "type": "article",
+        "name": "\u00a7 42b",
+        "title": "\u00dcbergangsregelung aus Anlass des Gesetzes zur St\u00e4rkung des Wohngeldes",
+        "body": {
+          "content": "<P>(1) Ist Wohngeld vor dem 1. Januar 2020 bewilligt worden und liegt mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember 2019, so ist abweichend von \u00a7 41 Absatz 2 von Amts wegen \u00fcber die Leistung des Wohngeldes f\u00fcr den Zeitraum vom 1. Januar 2020 bis zum Ende des bisherigen Bewilligungszeitraums neu zu entscheiden. Bei der Entscheidung nach Satz 1 sind die \u00a7\u00a7 12, 17 und 19 dieses Gesetzes und die Anlage zu \u00a7 1 Absatz 3 der Wohngeldverordnung in der ab dem 1. Januar 2020 geltenden Fassung anzuwenden. Ergibt sich aus der Entscheidung nach Satz 1 kein h\u00f6heres Wohngeld, verbleibt es bis zum Ende des bisherigen Bewilligungszeitraums bei dem bereits bewilligten Wohngeld.</P><P>(2) Ist bei der Entscheidung nach Absatz 1 Satz 1 nicht ber\u00fccksichtigt worden, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder, die zu ber\u00fccksichtigende Miete oder Belastung oder das Gesamteinkommen ge\u00e4ndert hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Wohngeld zweckwidrig verwendet wird oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen f\u00fcr den erh\u00f6hten anrechnungsfreien Betrag nach \u00a7 14 Absatz 2 Nummer 19 Buchstabe a oder Nummer 20 Buchstabe a oder einen anrechnungsfreien Betrag nach \u00a7 14 Absatz 2 Nummer 19 Buchstabe b vorliegen,</LA></DD></DL>so ist diese Entscheidung nur rechtswidrig, wenn gleichzeitig die Voraussetzungen der \u00a7\u00a7 27 oder 28 Absatz 2 dieses Gesetzes vorliegen; im \u00dcbrigen bleibt \u00a7 45 des Zehnten Buches Sozialgesetzbuch unber\u00fchrt. Wird die Entscheidung nach Absatz 1 Satz 1 unter den Voraussetzungen des \u00a7 45 des Zehnten Buches Sozialgesetzbuch zur\u00fcckgenommen, so wird der bisherige Bewilligungsbescheid wieder wirksam; die \u00a7\u00a7 27 und 28 bleiben unber\u00fchrt.</P><P>(3) Ist Wohngeld vor dem 1. Januar 2020 bewilligt worden und liegt mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember 2019 und ist \u00fcber einen Antrag nach \u00a7 27 Absatz 1 oder in einem Verfahren nach \u00a7 27 Absatz 2 neu zu entscheiden, so ist f\u00fcr die Zeit bis zum 31. Dezember 2019 nach dem bis dahin geltenden Recht, ab dem 1. Januar 2020 nach neuem Recht zu entscheiden.</P><P>(4) Der Bewilligungsbescheid nach Absatz 1 Satz 1 muss auf die besonderen Entscheidungsgrundlagen der Abs\u00e4tze 1 und 2 hinweisen, insbesondere darauf, dass eine Entscheidung nach den \u00a7\u00a7 27 oder 28 Absatz 2 oder die Mitteilung \u00fcber die Unwirksamkeit nach \u00a7 28 Absatz 1 oder 3 dem Bewilligungsbescheid noch folgen kann und bezogen auf den Zeitpunkt der \u00c4nderung der Verh\u00e4ltnisse, der auch vor dem 1. Januar 2020 liegen kann, das Wohngeld wegfallen oder sich verringern kann.</P><P>(5) Ist bis zum 31. Dezember 2019 \u00fcber einen Wohngeldantrag nach \u00a7 22 noch nicht entschieden, so ist f\u00fcr die Zeit bis zum 31. Dezember 2019 nach dem bis dahin geltenden Recht und f\u00fcr die darauffolgende Zeit nach dem neuen Recht zu entscheiden. Ist in den F\u00e4llen des Satzes 1 das ab dem 1. Januar 2020 zu bewilligende Wohngeld geringer als das f\u00fcr Dezember 2019 zu bewilligende Wohngeld, so verbleibt es auch f\u00fcr den Teil des Bewilligungszeitraums ab dem 1. Januar 2020 bei diesem Wohngeld.</P><P>(6) Ist \u00fcber einen nach dem 31. Dezember 2019 gestellten Wohngeldantrag nach \u00a7 22 zu entscheiden und beginnt der Bewilligungszeitraum vor dem 1. Januar 2020, so ist Absatz 5 entsprechend anzuwenden. \u00a7 24 Absatz 2 und \u00a7 27 bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001300000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004401126",
+        "type": "article",
+        "name": "\u00a7 43",
+        "title": "Fortschreibung des Wohngeldes",
+        "body": {
+          "content": "<P>(1) Wurden durch die \u00c4nderung dieses Gesetzes die H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung (\u00a7 12 Absatz 1), die Mietenstufen (\u00a7 12 Absatz 2) oder die H\u00f6he des Wohngeldes (\u00a7 19) neu ermittelt und festgesetzt, so werden danach zum 1. Januar jedes zweiten Jahres die folgenden Berechnungsgr\u00f6\u00dfen des Wohngeldes durch Rechtsverordnung mit Zustimmung des Bundesrates (\u00a7 38 Nummer 4) fortgeschrieben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung (Anlage 1) auf Grund der Entwicklung der bundesweiten Bruttokaltmieten, gemessen durch den Teilindex f\u00fcr Nettokaltmiete und Wohnungsnebenkosten des Verbraucherpreisindex f\u00fcr Deutschland des Statistischen Bundesamtes;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Werte f\u00fcr \u201eb\u201c (Anlage 2) auf Grund der Entwicklung der bundesweiten Bruttokaltmieten, gemessen durch den Teilindex f\u00fcr Nettokaltmiete und Wohnungsnebenkosten des Verbraucherpreisindex f\u00fcr Deutschland des Statistischen Bundesamtes;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Werte f\u00fcr \u201ec\u201c (Anlage 2) auf Grund der bundesweiten Entwicklung der Verbraucherpreise, gemessen durch den Verbraucherpreisindex f\u00fcr Deutschland des Statistischen Bundesamtes.</LA></DD></DL>Die erste Fortschreibung des Wohngeldes erfolgt zum 1. Januar 2022.</P><P>(2) \u00a7 12 Absatz 4 Satz 1 findet bei der Fortschreibung des Wohngeldes keine Anwendung.</P><P>(3) F\u00fcr die Fortschreibung der Berechnungsgr\u00f6\u00dfen ma\u00dfgeblich ist die prozentuale Ver\u00e4nderung der Jahresdurchschnittswerte der in Absatz 1 genannten Indizes des zweiten Jahres vor Inkrafttreten der Fortschreibung des Wohngeldes gegen\u00fcber den jeweiligen Jahresdurchschnittswerten des vierten Jahres vor Inkrafttreten der Fortschreibung.</P><P>(4) Die H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung (Anlage 1) werden am 1. Januar 2022 und dann alle zwei Jahre zum 1. Januar um den Prozentsatz erh\u00f6ht oder verringert, um den sich der vom Statistischen Bundesamt festgestellte Teilindex nach Absatz 1 Nummer 1 ver\u00e4ndert hat. F\u00fcr die Ver\u00e4nderung am 1. Januar 2022 ist die Erh\u00f6hung oder Verringerung des Jahresdurchschnitts des Teilindex nach Absatz 1 Nummer 1 ma\u00dfgeblich, die im Jahr 2020 gegen\u00fcber dem Jahr 2018 eingetreten ist. Die sich danach ergebenden Betr\u00e4ge sind jeweils bis unter 0,50 Euro auf den n\u00e4chsten vollen Euro-Betrag abzurunden sowie ab 0,50 Euro auf den n\u00e4chsten vollen Euro-Betrag aufzurunden und ergeben die fortgeschriebenen H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung (Anlage 1).</P><P>(5) Die Werte f\u00fcr \u201eb\u201c (Anlage 2) werden am 1. Januar 2022 und dann alle zwei Jahre zum 1. Januar mit einhundert multipliziert und anschlie\u00dfend durch die Summe aus einhundert und dem Prozentsatz dividiert, um den sich der vom Statistischen Bundesamt festgestellte Teilindex nach Absatz 1 Nummer 2 ver\u00e4ndert hat. F\u00fcr die prozentuale Ver\u00e4nderung am 1. Januar 2022 ist die Erh\u00f6hung oder Verringerung des Jahresdurchschnitts des Teilindex nach Absatz 1 Nummer 2 ma\u00dfgeblich, die im Jahr 2020 gegen\u00fcber dem Jahr 2018 eingetreten ist. Die sich danach ergebenden Werte sind jeweils auf die sechste Nachkommastelle abzurunden und ergeben die fortgeschriebenen Werte f\u00fcr \u201eb\u201c (Anlage 2).</P><P>(6) Die Werte f\u00fcr \u201ec\u201c (Anlage 2) werden am 1. Januar 2022 und dann alle zwei Jahre zum 1. Januar mit einhundert multipliziert und anschlie\u00dfend durch die Summe aus einhundert und dem Prozentsatz dividiert, um den sich der vom Statistischen Bundesamt festgestellte Verbraucherpreisindex nach Absatz 1 Nummer 3 ver\u00e4ndert hat. F\u00fcr die prozentuale Ver\u00e4nderung am 1. Januar 2022 ist die Erh\u00f6hung oder Verringerung des Jahresdurchschnitts des Verbraucherpreisindex nach Absatz 1 Nummer 3 ma\u00dfgeblich, die im Jahr 2020 gegen\u00fcber dem Jahr 2018 eingetreten ist. Die sich danach ergebenden Werte sind jeweils auf die siebte Nachkommastelle abzurunden und ergeben die fortgeschriebenen Werte f\u00fcr \u201ec\u201c (Anlage 2).</P><P>(7) F\u00fcr die Fortschreibungen nach dem 1. Januar 2022 gelten die Abs\u00e4tze 4 bis 6 entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001300000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004701126",
+        "type": "article",
+        "name": "\u00a7 44",
+        "title": "\u00dcbergangsregelung bei Fortschreibung des Wohngeldes",
+        "body": {
+          "content": "<P>(1) Ist Wohngeld vor dem Inkrafttreten der Fortschreibung des Wohngeldes (\u00a7 43) bewilligt worden und dauert mindestens ein Teil des Bewilligungszeitraums nach dem Inkrafttreten der Fortschreibung noch an, so ist abweichend von \u00a7 41 Absatz 2 von Amts wegen \u00fcber die Leistung des Wohngeldes f\u00fcr den Zeitraum vom Inkrafttreten der Fortschreibung bis zum Ende des bisherigen Bewilligungszeitraums neu zu entscheiden. Bei der Entscheidung sind die H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung (Anlage 1) und die Werte f\u00fcr \u201eb\u201c und \u201ec\u201c (Anlage 2) in der ab dem Inkrafttreten der aktuellen Fortschreibung geltenden Fassung anzuwenden.</P><P>(2) Ist bei der Entscheidung nach Absatz 1 Satz 1 nicht ber\u00fccksichtigt worden, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich die Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder, die zu ber\u00fccksichtigende Miete oder Belastung oder das Gesamteinkommen ge\u00e4ndert hat oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Wohngeld zweckwidrig verwendet wird,</LA></DD></DL>so ist diese Entscheidung nur rechtswidrig, wenn gleichzeitig die Voraussetzungen der \u00a7\u00a7 27 oder 28 Absatz 2 dieses Gesetzes vorliegen; im \u00dcbrigen bleibt \u00a7 45 des Zehnten Buches Sozialgesetzbuch unber\u00fchrt. Wird die Entscheidung nach Absatz 1 Satz 1 unter den Voraussetzungen des \u00a7 45 des Zehnten Buches Sozialgesetzbuch zur\u00fcckgenommen, so wird der bisherige Bewilligungsbescheid wieder wirksam; die \u00a7\u00a7 27 und 28 dieses Gesetzes bleiben unber\u00fchrt.</P><P>(3) Ist Wohngeld vor dem Inkrafttreten der aktuellen Fortschreibung bewilligt worden und dauert mindestens ein Teil des Bewilligungszeitraums nach dem Inkrafttreten der Fortschreibung noch an und ist \u00fcber einen Antrag nach \u00a7 27 Absatz 1 oder in einem Verfahren nach \u00a7 27 Absatz 2 neu zu entscheiden, so ist f\u00fcr die Zeit bis zum Inkrafttreten der Fortschreibung nach dem bis dahin geltenden Recht, ab dem Inkrafttreten der Fortschreibung nach neuem Recht zu entscheiden.</P><P>(4) Der Bewilligungsbescheid nach Absatz 1 Satz 1 muss auf die besonderen Entscheidungsgrundlagen der Abs\u00e4tze 1 und 2 hinweisen, insbesondere darauf, dass eine Entscheidung nach den \u00a7\u00a7 27 oder 28 Absatz 2 oder die Mitteilung \u00fcber die Unwirksamkeit nach \u00a7 28 Absatz 1 oder 3 dem Bewilligungsbescheid noch folgen kann und bezogen auf den Zeitpunkt der \u00c4nderung der Verh\u00e4ltnisse, der auch vor dem Inkrafttreten der aktuellen Fortschreibung liegen kann, das Wohngeld wegfallen oder sich verringern kann.</P><P>(5) Ist bis zum Inkrafttreten der Fortschreibung \u00fcber einen Wohngeldantrag nach \u00a7 22 noch nicht entschieden, so ist f\u00fcr die Zeit bis zum Inkrafttreten der Fortschreibung nach dem bis dahin geltenden Recht und f\u00fcr die darauf folgende Zeit nach dem neuen Recht zu entscheiden. Ist \u00fcber einen vor dem Inkrafttreten der Fortschreibung gestellten Wohngeldantrag nach \u00a7 22 zu entscheiden und beginnt der Bewilligungszeitraum vor dem Inkrafttreten der Fortschreibung, so ist Satz 1 entsprechend anzuwenden. \u00a7 24 Absatz 2 und \u00a7 27 bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001300000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE005100126",
+        "type": "article",
+        "name": "Anlage 1",
+        "title": "(zu \u00a7 12 Absatz 1)",
+        "body": {
+          "content": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2019, 1881)</kommentar></noindex></P><BR/><BR/><table colsep=\"1\" frame=\"all\" pgwide=\"1\" tabstyle=\"Anlage1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec align=\"center\" colname=\"col1\" colwidth=\"40*\"/><colspec align=\"center\" colname=\"col2\" colwidth=\"45*\"/><colspec align=\"center\" colname=\"col3\" colwidth=\"25*\"/><thead valign=\"bottom\"><row rowsep=\"1\"><entry VJ=\"1\" align=\"center\" colname=\"col1\">Anzahl <BR/>der zu ber\u00fccksichtigenden <BR/>Haushaltsmitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\" valign=\"middle\">Mietenstufe</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\" valign=\"middle\">H\u00f6chstbetrag <BR/>in Euro</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">1</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">I</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 338\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">II</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 381\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">III</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 426\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">IV</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 478\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">V</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 525\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">VI</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 575\u00a0\u00a0</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\">VII</entry><entry VJ=\"1\" colname=\"col3\">\u00a0 633\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">2</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">I</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 409\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">II</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 461\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">III</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 516\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">IV</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 579\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">V</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 636\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">VI</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 697\u00a0\u00a0</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\">VII</entry><entry VJ=\"1\" colname=\"col3\">\u00a0 767\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">3</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">I</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 487\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">II</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 549\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">III</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 614\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">IV</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 689\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">V</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 757\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">VI</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 830\u00a0\u00a0</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\">VII</entry><entry VJ=\"1\" colname=\"col3\">\u00a0 912\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">4</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">I</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 568\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">II</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 641\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">III</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 716\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">IV</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 803\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">V</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 884\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">VI</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 968\u00a0\u00a0</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\">VII</entry><entry VJ=\"1\" colname=\"col3\">1\u00a0065\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">5</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">I</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 649\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">II</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 732\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">III</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 818\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">IV</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 918\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">V</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">1\u00a0010\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">VI</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">1\u00a0106\u00a0\u00a0</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\">VII</entry><entry VJ=\"1\" colname=\"col3\">1\u00a0217\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" morerows=\"3\" rowsep=\"0\">Mehrbetrag <BR/>f\u00fcr jedes weitere zu <BR/>ber\u00fccksichtigende <BR/>Haushaltsmitglied</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">I</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 \u00a077\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">II</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 \u00a088\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">III</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 \u00a099\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">IV</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 111\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">V</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 121\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\"/><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">VI</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a0 139\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\">VII</entry><entry VJ=\"1\" colname=\"col3\">\u00a0 153</entry></row></tbody></tgroup></table>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001300000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004503126",
+        "type": "article",
+        "name": "Anlage 2",
+        "title": "(zu \u00a7 19 Absatz 1)",
+        "body": {
+          "content": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2019, 1882)</kommentar></noindex></P><BR/><BR/><Title Align=\"auto\"><B>Werte f\u00fcr \u201ea\u201c, \u201eb\u201c und \u201ec\u201c</B></Title><BR/><BR/><P>Die in die Formel nach \u00a7 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der zu ber\u00fccksichtigenden Haushaltsmitglieder unterschiedenen Werte \u201ea\u201c, \u201eb\u201c und \u201ec\u201c sind der nachfolgenden Tabelle zu entnehmen: <BR/><BR/><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tabstyle=\"Anlage2\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"7\"><colspec colname=\"col1\" colwidth=\"12*\"/><colspec align=\"right\" colname=\"col2\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col3\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col4\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col5\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col6\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col7\" colwidth=\"25*\"/><thead valign=\"bottom\"><row><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" align=\"center\" colname=\"col2\">1<BR/>Haushalts-<BR/>mitglied</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">2<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col4\">3<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col5\">4<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col6\">5<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col7\">6<BR/>Haushalts-<BR/>mitglieder</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">a</entry><entry VJ=\"1\" colname=\"col2\">4,000E-2</entry><entry VJ=\"1\" colname=\"col3\">3,000E-2</entry><entry VJ=\"1\" colname=\"col4\">2,000E-2</entry><entry VJ=\"1\" colname=\"col5\">1,000E-2</entry><entry VJ=\"1\" colname=\"col6\">0</entry><entry VJ=\"1\" colname=\"col7\">\u2013 1,000E-2</entry></row><row><entry VJ=\"1\" colname=\"col1\">b</entry><entry VJ=\"1\" colname=\"col2\">5,800E-4</entry><entry VJ=\"1\" colname=\"col3\">4,050E-4</entry><entry VJ=\"1\" colname=\"col4\">3,500E-4</entry><entry VJ=\"1\" colname=\"col5\">3,130E-4</entry><entry VJ=\"1\" colname=\"col6\">2,760E-4</entry><entry VJ=\"1\" colname=\"col7\">\u00a02,580E-4</entry></row><row><entry VJ=\"1\" colname=\"col1\">c</entry><entry VJ=\"1\" colname=\"col2\">1,180E-4</entry><entry VJ=\"1\" colname=\"col3\">8,800E-5</entry><entry VJ=\"1\" colname=\"col4\">7,090E-5</entry><entry VJ=\"1\" colname=\"col5\">3,680E-5</entry><entry VJ=\"1\" colname=\"col6\">3,590E-5</entry><entry VJ=\"1\" colname=\"col7\">\u00a03,080E-5</entry></row></tbody></tgroup></table><BR/><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tabstyle=\"Anlage2\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"7\"><colspec colname=\"col1\" colwidth=\"12*\"/><colspec align=\"right\" colname=\"col2\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col3\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col4\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col5\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col6\" colwidth=\"25*\"/><colspec align=\"right\" colname=\"col7\" colwidth=\"25*\"/><thead valign=\"bottom\"><row><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" align=\"center\" colname=\"col2\">7<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">8<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col4\">9<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col5\">10<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col6\">11<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col7\">12<BR/>Haushalts-<BR/>mitglieder</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">a</entry><entry VJ=\"1\" colname=\"col2\">\u2013 2,000E-2</entry><entry VJ=\"1\" colname=\"col3\">\u2013 3,000E-2</entry><entry VJ=\"1\" colname=\"col4\">\u2013 4,000E-2</entry><entry VJ=\"1\" colname=\"col5\">\u2013 6,000E-2</entry><entry VJ=\"1\" colname=\"col6\">\u2013 1,000E-1</entry><entry VJ=\"1\" colname=\"col7\">\u2013 1,400E-1</entry></row><row><entry VJ=\"1\" colname=\"col1\">b</entry><entry VJ=\"1\" colname=\"col2\">\u00a02,390E-4</entry><entry VJ=\"1\" colname=\"col3\">\u00a02,120E-4</entry><entry VJ=\"1\" colname=\"col4\">\u00a01,840E-4</entry><entry VJ=\"1\" colname=\"col5\">\u00a01,470E-4</entry><entry VJ=\"1\" colname=\"col6\">\u00a01,100E-4</entry><entry VJ=\"1\" colname=\"col7\">\u00a01,010E-4</entry></row><row><entry VJ=\"1\" colname=\"col1\">c</entry><entry VJ=\"1\" colname=\"col2\">\u00a03,160E-5</entry><entry VJ=\"1\" colname=\"col3\">\u00a03,160E-5</entry><entry VJ=\"1\" colname=\"col4\">\u00a03,330E-5</entry><entry VJ=\"1\" colname=\"col5\">\u00a03,850E-5</entry><entry VJ=\"1\" colname=\"col6\">\u00a04,530E-5</entry><entry VJ=\"1\" colname=\"col7\">\u00a05,130E-5</entry></row></tbody></tgroup></table><BR/><BR/></P><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colsep=\"0\" colwidth=\"21.49*\"/><colspec colname=\"col2\" colwidth=\"41.51*\"/><tbody valign=\"top\"><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Hierbei bedeuten:</entry><entry VJ=\"1\" colname=\"col2\"><!-- SPLIT UMBAU : [Text: E-1 geteilt durch ][Element: <Split/>][Text: 10,\u00a0\u00a0]--><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\"/><colspec align=\"right\" colname=\"rightSplit\"/><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">E-1 geteilt durch</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">10,\u00a0\u00a0</entry></row></tbody></tgroup></table></entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\"><!-- SPLIT UMBAU : [Text: E-2 geteilt durch ][Element: <Split/>][Text: 100,\u00a0\u00a0]--><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\"/><colspec align=\"right\" colname=\"rightSplit\"/><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">E-2 geteilt durch</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">100,\u00a0\u00a0</entry></row></tbody></tgroup></table></entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\"><!-- SPLIT UMBAU : [Text: E-4 geteilt durch ][Element: <Split/>][Text: 10\u00a0000,\u00a0\u00a0]--><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\"/><colspec align=\"right\" colname=\"rightSplit\"/><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">E-4 geteilt durch</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">10\u00a0000,\u00a0\u00a0</entry></row></tbody></tgroup></table></entry></row><row><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" colname=\"col2\"><!-- SPLIT UMBAU : [Text: E-5 geteilt durch ][Element: <Split/>][Text: 100\u00a0000.][Element: \n<QuoteR/>]--><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" colwidth=\"1.09*\"/><colspec align=\"right\" colname=\"rightSplit\" colwidth=\"0.91*\"/><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">E-5 geteilt durch</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">100\u00a0000.</entry></row></tbody></tgroup></table></entry></row></tbody></tgroup></table>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001300000"
+        }
+      },
+      {
+        "id": "BJNR185610008BJNE004603126",
+        "type": "article",
+        "name": "Anlage 3",
+        "title": "(zu \u00a7 19 Absatz 2)",
+        "body": {
+          "content": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2015, 1617)</kommentar></noindex></P><BR/><BR/><P Class=\"S1\"><B>Rechenschritte und Rundungen</B><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Werte f\u00fcr \u201eM\u201c und \u201eY\u201c, die unterhalb der folgenden Tabellenwerte liegen, werden durch diese ersetzt: <BR/><BR/><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tabstyle=\"Anlage2\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"7\"><colspec colname=\"col1\" colwidth=\"12*\"/><colspec align=\"center\" colname=\"col2\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col3\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col4\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col5\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col6\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col7\" colwidth=\"25*\"/><thead valign=\"bottom\"><row><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" align=\"center\" colname=\"col2\">1<BR/>Haushalts-<BR/>mitglied</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">2<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col4\">3<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col5\">4<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col6\">5<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col7\">6<BR/>Haushalts-<BR/>mitglieder</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">M</entry><entry VJ=\"1\" colname=\"col2\">\u00a052</entry><entry VJ=\"1\" colname=\"col3\">\u00a064</entry><entry VJ=\"1\" colname=\"col4\">\u00a076</entry><entry VJ=\"1\" colname=\"col5\">\u00a088</entry><entry VJ=\"1\" colname=\"col6\">\u00a099</entry><entry VJ=\"1\" colname=\"col7\">\u00a099</entry></row><row><entry VJ=\"1\" colname=\"col1\">Y</entry><entry VJ=\"1\" colname=\"col2\">275</entry><entry VJ=\"1\" colname=\"col3\">357</entry><entry VJ=\"1\" colname=\"col4\">414</entry><entry VJ=\"1\" colname=\"col5\">447</entry><entry VJ=\"1\" colname=\"col6\">532</entry><entry VJ=\"1\" colname=\"col7\">618</entry></row></tbody></tgroup></table><BR/><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tabstyle=\"Anlage2\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"7\"><colspec colname=\"col1\" colwidth=\"12*\"/><colspec align=\"center\" colname=\"col2\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col3\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col4\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col5\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col6\" colwidth=\"25*\"/><colspec align=\"center\" colname=\"col7\" colwidth=\"25*\"/><thead valign=\"bottom\"><row><entry VJ=\"1\" colname=\"col1\"/><entry VJ=\"1\" align=\"center\" colname=\"col2\">7<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">8<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col4\">9<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col5\">10<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col6\">11<BR/>Haushalts-<BR/>mitglieder</entry><entry VJ=\"1\" align=\"center\" colname=\"col7\">12<BR/>Haushalts-<BR/>mitglieder</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">M</entry><entry VJ=\"1\" colname=\"col2\">111</entry><entry VJ=\"1\" colname=\"col3\">123</entry><entry VJ=\"1\" colname=\"col4\">135</entry><entry VJ=\"1\" colname=\"col5\">146</entry><entry VJ=\"1\" colname=\"col6\">\u00a0 180</entry><entry VJ=\"1\" colname=\"col7\">\u00a0 286\u00a0\u00a0</entry></row><row><entry VJ=\"1\" colname=\"col1\">Y</entry><entry VJ=\"1\" colname=\"col2\">702</entry><entry VJ=\"1\" colname=\"col3\">787</entry><entry VJ=\"1\" colname=\"col4\">872</entry><entry VJ=\"1\" colname=\"col5\">957</entry><entry VJ=\"1\" colname=\"col6\">1\u00a0248</entry><entry VJ=\"1\" colname=\"col7\">1\u00a0443</entry></row></tbody></tgroup></table><BR/></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Das ungerundete monatliche Wohngeld ergibt sich durch Einsetzen der Werte f\u00fcr \u201ea\u201c, \u201eb\u201c, \u201ec\u201c (Anlage 2) und f\u00fcr \u201eM\u201c und \u201eY\u201c in die Formel nach \u00a7 19 Absatz 1 Satz 1 und durch Ausf\u00fchren der vier folgenden Rechenschritte:<BR/><BR/></LA><LA Size=\"normal\">Berechnung der Dezimalzahlen</LA><LA Size=\"normal\">z1 = a + b \u00b7 M + c \u2219 Y,</LA><LA Size=\"normal\">z2 = z1 \u2219 Y,</LA><LA Size=\"normal\">z3 = M \u2013 z2,</LA><LA Size=\"normal\">z4 = 1,15 \u2219 z3.</LA><LA Size=\"normal\">Hierbei sind die Dezimalzahlen als Festkommazahlen mit zehn Nachkommastellen zu berechnen.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Dieses ungerundete monatliche Wohngeld ist bis unter 0,50 Euro auf den n\u00e4chsten vollen Euro-Betrag abzurunden sowie von 0,50 Euro an auf den n\u00e4chsten vollen Euro-Betrag aufzurunden.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR185610008BJNG001300000"
+        }
+      }
+    ]
+  }
+}

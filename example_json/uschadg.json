@@ -1,0 +1,255 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR066610007",
+    "abbreviation": "USchadG",
+    "extraAbbreviations": [],
+    "firstPublished": "2007-05-10",
+    "sourceTimestamp": "20190630212534",
+    "headingShort": "Umweltschadensgesetz",
+    "headingLong": "Gesetz \u00fcber die Vermeidung und Sanierung von Umweltsch\u00e4den",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "2007, 666"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 4 G v. 4.8.2016 I 1972"
+      },
+      {
+        "category": "Sonst",
+        "comment": "Bek. \u00fcber das Inkrafttreten v. 20.2.2019 I 196 ist ber\u00fccksichtigt"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 14.11.2007 +++)<BR/>(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR/>     Umsetzung der<BR/>     EGRL 35/2004 (CELEX Nr: 32004L0035) <BR/>     Umsetzung der<BR/>     EGRL 35/2004 (CELEX Nr: 32004L0035) vgl. Art. 3 G v. 17.8.2012 I 1726 +++)<BR/><BR/></pre>Dieses Gesetz dient der Umsetzung der Richtlinie 2004/35/EG des Europ\u00e4ischen Parlaments und des Rates vom 21. April 2004 \u00fcber Umwelthaftung zur Vermeidung und Sanierung von Umweltsch\u00e4den (ABl. EU Nr. L 143 S. 56). <BR/>Das G wurde als Art. 1 d. G v. 10.5.2007 I 666 (USchadUmsG) erlassen. Es tritt gem. Art. 4 Satz 1 dieses G am 14.11.2007 in Kraft.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR066610007BJNE000100000",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Verh\u00e4ltnis zu anderen Vorschriften",
+        "body": {
+          "content": "<P>Dieses Gesetz findet Anwendung, soweit Rechtsvorschriften des Bundes oder der L\u00e4nder die Vermeidung und Sanierung von Umweltsch\u00e4den nicht n\u00e4her bestimmen oder in ihren Anforderungen diesem Gesetz nicht entsprechen. Rechtsvorschriften mit weitergehenden Anforderungen bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE000202310",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "body": {
+          "content": "<P>Im Sinne dieses Gesetzes sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Umweltschaden:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Sch\u00e4digung von Arten und nat\u00fcrlichen Lebensr\u00e4umen nach Ma\u00dfgabe des \u00a7 19 des Bundesnaturschutzgesetzes,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Sch\u00e4digung der Gew\u00e4sser nach Ma\u00dfgabe des \u00a7 90 des Wasserhaushaltsgesetzes,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Sch\u00e4digung des Bodens durch eine Beeintr\u00e4chtigung der Bodenfunktionen im Sinn des \u00a7 2 Abs. 2 des Bundes-Bodenschutzgesetzes, die durch eine direkte oder indirekte Einbringung von Stoffen, Zubereitungen, Organismen oder Mikroorganismen auf, in oder unter den Boden hervorgerufen wurde und Gefahren f\u00fcr die menschliche Gesundheit verursacht;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schaden oder Sch\u00e4digung: eine direkt oder indirekt eintretende feststellbare nachteilige Ver\u00e4nderung einer nat\u00fcrlichen Ressource (Arten und nat\u00fcrliche Lebensr\u00e4ume, Gew\u00e4sser und Boden) oder Beeintr\u00e4chtigung der Funktion einer nat\u00fcrlichen Ressource;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verantwortlicher: jede nat\u00fcrliche oder juristische Person, die eine berufliche T\u00e4tigkeit aus\u00fcbt oder bestimmt, einschlie\u00dflich der Inhaber einer Zulassung oder Genehmigung f\u00fcr eine solche T\u00e4tigkeit oder der Person, die eine solche T\u00e4tigkeit anmeldet oder notifiziert, und dadurch unmittelbar einen Umweltschaden oder die unmittelbare Gefahr eines solchen Schadens verursacht hat;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">berufliche T\u00e4tigkeit: jede T\u00e4tigkeit, die im Rahmen einer wirtschaftlichen T\u00e4tigkeit, einer Gesch\u00e4ftst\u00e4tigkeit oder eines Unternehmens ausge\u00fcbt wird, unabh\u00e4ngig davon, ob sie privat oder \u00f6ffentlich und mit oder ohne Erwerbscharakter ausge\u00fcbt wird;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">unmittelbare Gefahr eines Umweltschadens: die hinreichende Wahrscheinlichkeit, dass ein Umweltschaden in naher Zukunft eintreten wird;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vermeidungsma\u00dfnahme: jede Ma\u00dfnahme, um bei einer unmittelbaren Gefahr eines Umweltschadens diesen Schaden zu vermeiden oder zu minimieren;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schadensbegrenzungsma\u00dfnahme: jede Ma\u00dfnahme, um die betreffenden Schadstoffe oder sonstigen Schadfaktoren unverz\u00fcglich zu kontrollieren, einzud\u00e4mmen, zu beseitigen oder auf sonstige Weise zu behandeln, um weitere Umweltsch\u00e4den und nachteilige Auswirkungen auf die menschliche Gesundheit oder eine weitere Beeintr\u00e4chtigung von Funktionen zu begrenzen oder zu vermeiden;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sanierungsma\u00dfnahme: jede Ma\u00dfnahme, um einen Umweltschaden nach Ma\u00dfgabe der fachrechtlichen Vorschriften zu sanieren;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kosten: die durch eine ordnungsgem\u00e4\u00dfe und wirksame Ausf\u00fchrung dieses Gesetzes erforderlichen Kosten, einschlie\u00dflich der Kosten f\u00fcr die Pr\u00fcfung eines Umweltschadens, einer unmittelbaren Gefahr eines solchen Schadens, von alternativen Ma\u00dfnahmen sowie der Verwaltungs- und Verfahrenskosten und der Kosten f\u00fcr die Durchsetzung der Ma\u00dfnahmen, der Kosten f\u00fcr die Datensammlung, sonstiger Gemeinkosten und der Kosten f\u00fcr Aufsicht und \u00dcberwachung;</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">fachrechtliche Vorschriften: die Vorschriften des Bundesnaturschutzgesetzes, des Wasserhaushaltsgesetzes und des Bundes-Bodenschutzgesetzes sowie die zu ihrer Ausf\u00fchrung erlassenen Verordnungen.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE000302116",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Anwendungsbereich",
+        "body": {
+          "content": "<P>(1) Dieses Gesetz gilt f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Umweltsch\u00e4den und unmittelbare Gefahren solcher Sch\u00e4den, die durch eine der in Anlage 1 aufgef\u00fchrten beruflichen T\u00e4tigkeiten verursacht werden;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sch\u00e4digungen von Arten und nat\u00fcrlichen Lebensr\u00e4umen im Sinn des \u00a7 19 Absatz 2 und 3 des Bundesnaturschutzgesetzes und unmittelbare Gefahren solcher Sch\u00e4den, die durch andere berufliche T\u00e4tigkeiten als die in Anlage 1 aufgef\u00fchrten verursacht werden, sofern der Verantwortliche vors\u00e4tzlich oder fahrl\u00e4ssig gehandelt hat.</LA></DD></DL></P><P>(2) F\u00fcr Sch\u00e4digungen von Arten und nat\u00fcrlichen Lebensr\u00e4umen sowie der Meeresgew\u00e4sser au\u00dferhalb der K\u00fcstengew\u00e4sser und die unmittelbare Gefahr solcher Sch\u00e4den gilt dieses Gesetz im Rahmen der Vorgaben des Seerechts\u00fcbereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1799) auch im Bereich der ausschlie\u00dflichen Wirtschaftszone und des Festlandsockels.</P><P>(3) Dieses Gesetz findet keine Anwendung auf Umweltsch\u00e4den oder die unmittelbare Gefahr solcher Sch\u00e4den, wenn sie durch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bewaffnete Konflikte, Feindseligkeiten, B\u00fcrgerkrieg oder Aufst\u00e4nde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein au\u00dfergew\u00f6hnliches, unabwendbares und nicht beeinflussbares Naturereignis,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Vorfall, bei dem die Haftung oder Entsch\u00e4digung in den Anwendungsbereich eines der in Anlage 2 aufgef\u00fchrten internationalen \u00dcbereinkommen in der jeweils f\u00fcr Deutschland geltenden Fassung f\u00e4llt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aus\u00fcbung von T\u00e4tigkeiten, die unter den Vertrag zur Gr\u00fcndung der Europ\u00e4ischen Atomgemeinschaft fallen, oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Vorfall oder eine T\u00e4tigkeit, f\u00fcr die die Haftung oder Entsch\u00e4digung in den Anwendungsbereich eines der in Anlage 3 aufgef\u00fchrten internationalen \u00dcbereink\u00fcnfte in der jeweils geltenden Fassung f\u00e4llt,</LA></DD></DL>verursacht wurden.</P><P>(4) In F\u00e4llen, in denen der Umweltschaden oder die unmittelbare Gefahr eines solchen Schadens durch eine nicht klar abgegrenzte Verschmutzung verursacht wurde, findet dieses Gesetz nur Anwendung, wenn ein urs\u00e4chlicher Zusammenhang zwischen dem Schaden und den T\u00e4tigkeiten einzelner Verantwortlicher festgestellt werden kann.</P><P>(5) Dieses Gesetz gilt weder f\u00fcr T\u00e4tigkeiten, deren Hauptzweck die Verteidigung oder die internationale Sicherheit ist, noch f\u00fcr T\u00e4tigkeiten, deren alleiniger Zweck der Schutz vor Naturkatastrophen ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE000400000",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Informationspflicht",
+        "body": {
+          "content": "<P>Besteht die unmittelbare Gefahr eines Umweltschadens oder ist ein Umweltschaden eingetreten, hat der Verantwortliche die zust\u00e4ndige Beh\u00f6rde unverz\u00fcglich \u00fcber alle bedeutsamen Aspekte des Sachverhalts zu unterrichten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE000500000",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Gefahrenabwehrpflicht",
+        "body": {
+          "content": "<P>Besteht die unmittelbare Gefahr eines Umweltschadens, hat der Verantwortliche unverz\u00fcglich die erforderlichen Vermeidungsma\u00dfnahmen zu ergreifen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE000600000",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Sanierungspflicht",
+        "body": {
+          "content": "<P>Ist ein Umweltschaden eingetreten, hat der Verantwortliche <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erforderlichen Schadensbegrenzungsma\u00dfnahmen vorzunehmen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erforderlichen Sanierungsma\u00dfnahmen gem\u00e4\u00df \u00a7 8 zu ergreifen.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE000700000",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Allgemeine Pflichten und Befugnisse der zust\u00e4ndigen Beh\u00f6rde",
+        "body": {
+          "content": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde \u00fcberwacht, dass die erforderlichen Vermeidungs-, Schadensbegrenzungs- und Sanierungsma\u00dfnahmen vom Verantwortlichen ergriffen werden.</P><P>(2) Im Hinblick auf die Pflichten aus den \u00a7\u00a7 4 bis 6 kann die zust\u00e4ndige Beh\u00f6rde dem Verantwortlichen aufgeben, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">alle erforderlichen Informationen und Daten \u00fcber eine unmittelbare Gefahr von Umweltsch\u00e4den, \u00fcber den Verdacht einer solchen unmittelbaren Gefahr oder einen eingetretenen Schaden sowie eine eigene Bewertung vorzulegen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erforderlichen Vermeidungsma\u00dfnahmen zu treffen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erforderlichen Schadensbegrenzungs- und Sanierungsma\u00dfnahmen zu ergreifen.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE000800000",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Bestimmung von Sanierungsma\u00dfnahmen",
+        "body": {
+          "content": "<P>(1) Der Verantwortliche ist verpflichtet, die gem\u00e4\u00df den fachrechtlichen Vorschriften erforderlichen Sanierungsma\u00dfnahmen zu ermitteln und der zust\u00e4ndigen Beh\u00f6rde zur Zustimmung vorzulegen, soweit die zust\u00e4ndige Beh\u00f6rde nicht selbst bereits die erforderlichen Sanierungsma\u00dfnahmen ergriffen hat.</P><P>(2) Die zust\u00e4ndige Beh\u00f6rde entscheidet nach Ma\u00dfgabe der fachrechtlichen Vorschriften \u00fcber Art und Umfang der durchzuf\u00fchrenden Sanierungsma\u00dfnahmen.</P><P>(3) K\u00f6nnen bei mehreren Umweltschadensf\u00e4llen die notwendigen Sanierungsma\u00dfnahmen nicht gleichzeitig ergriffen werden, kann die zust\u00e4ndige Beh\u00f6rde unter Ber\u00fccksichtigung von Art, Ausma\u00df und Schwere der einzelnen Umweltschadensf\u00e4lle, der M\u00f6glichkeiten einer nat\u00fcrlichen Wiederherstellung sowie der Risiken f\u00fcr die menschliche Gesundheit die Reihenfolge der Sanierungsma\u00dfnahmen festlegen.</P><P>(4) Die zust\u00e4ndige Beh\u00f6rde unterrichtet die nach \u00a7 10 antragsberechtigten Betroffenen und Vereinigungen \u00fcber die vorgesehenen Sanierungsma\u00dfnahmen und gibt ihnen Gelegenheit, sich zu \u00e4u\u00dfern; die Unterrichtung kann durch \u00f6ffentliche Bekanntmachung erfolgen. Die rechtzeitig eingehenden Stellungnahmen sind bei der Entscheidung zu ber\u00fccksichtigen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE000904116",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Kosten der Vermeidungs- und Sanierungsma\u00dfnahmen",
+        "body": {
+          "content": "<P>(1) Der Verantwortliche tr\u00e4gt vorbehaltlich von Anspr\u00fcchen gegen die Beh\u00f6rden oder Dritte die Kosten der Vermeidungs-, Schadensbegrenzungs- und Sanierungsma\u00dfnahmen. F\u00fcr die Ausf\u00fchrung dieses Gesetzes durch Landesbeh\u00f6rden erlassen die L\u00e4nder die zur Umsetzung der Richtlinie 2004/35/EG des Europ\u00e4ischen Parlaments und des Rates vom 21. April 2004 \u00fcber Umwelthaftung zur Vermeidung und Sanierung von Umweltsch\u00e4den (ABl. EU Nr. L 143 S. 56) notwendigen Kostenregelungen, Regelungen \u00fcber Kostenbefreiungen und Kostenerstattungen; dabei k\u00f6nnen die L\u00e4nder insbesondere vorsehen, dass der Verantwortliche unter den Voraussetzungen des Artikels 8 Abs. 4 der Richtlinie 2004/35/EG die Kosten der durchgef\u00fchrten Sanierungsma\u00dfnahmen nicht zu tragen hat. Dabei ber\u00fccksichtigen die L\u00e4nder die besondere Situation der Landwirtschaft bei der Anwendung von Pflanzenschutzmitteln. Die Beh\u00f6rde ist befugt, ein Verfahren zur Kostenerstattung bis zu f\u00fcnf Jahre ab dem Zeitpunkt des Abschlusses der Ma\u00dfnahme oder der Ermittlung des Kostenschuldners einzuleiten, wobei diese Frist ab dem jeweils sp\u00e4teren Zeitpunkt beginnt; Rechtsvorschriften der L\u00e4nder, die l\u00e4ngere oder keine Fristen vorsehen, bleiben unber\u00fchrt.</P><P>(2) Mehrere Verantwortliche haben unabh\u00e4ngig von ihrer Heranziehung untereinander einen Ausgleichsanspruch. Soweit nichts anderes vereinbart wird, h\u00e4ngt die Verpflichtung zum Ausgleich sowie der Umfang des zu leistenden Ausgleichs davon ab, inwieweit die Gefahr oder der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist; \u00a7 426 Abs. 1 Satz 2 des B\u00fcrgerlichen Gesetzbuchs findet entsprechende Anwendung. Der Ausgleichsanspruch verj\u00e4hrt in drei Jahren; die \u00a7\u00a7 438, 548 und 606 des B\u00fcrgerlichen Gesetzbuchs sind nicht anzuwenden. Die Verj\u00e4hrung beginnt nach der Beitreibung der Kosten, wenn die zust\u00e4ndige Beh\u00f6rde selbst ausf\u00fchrt, im \u00dcbrigen nach der Beendigung der Ma\u00dfnahmen durch den Verantwortlichen zu dem Zeitpunkt, zu dem der Verantwortliche von der Person des Ersatzpflichtigen Kenntnis erlangt. Der Ausgleichsanspruch verj\u00e4hrt ohne R\u00fccksicht auf diese Kenntnis 30 Jahre nach Beendigung der Ma\u00dfnahme. F\u00fcr Streitigkeiten steht der Rechtsweg vor den ordentlichen Gerichten offen.</P><P>(3) Dieses Gesetz ber\u00fchrt nicht das Recht des Verantwortlichen, seine Haftung nach \u00a7 611 Absatz 1, 4 und 5, den \u00a7\u00a7 612 bis 617 des Handelsgesetzbuchs oder nach den \u00a7\u00a7 4 bis 5n des Binnenschifffahrtsgesetzes zu beschr\u00e4nken.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE001000000",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Aufforderung zum T\u00e4tigwerden",
+        "body": {
+          "content": "<P>Die zust\u00e4ndige Beh\u00f6rde wird zur Durchsetzung der Sanierungspflichten nach diesem Gesetz von Amts wegen t\u00e4tig oder, wenn ein Betroffener oder eine Vereinigung, die nach \u00a7 11 Abs. 2 Rechtsbehelfe einlegen kann, dies beantragt und die zur Begr\u00fcndung des Antrags vorgebrachten Tatsachen den Eintritt eines Umweltschadens glaubhaft erscheinen lassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE001101116",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Rechtsschutz",
+        "body": {
+          "content": "<P>(1) Ein Verwaltungsakt nach diesem Gesetz ist zu begr\u00fcnden und mit einer Rechtsbehelfsbelehrung zu versehen.</P><P>(2) F\u00fcr Rechtsbehelfe von Vereinigungen gegen eine Entscheidung oder das Unterlassen einer Entscheidung der zust\u00e4ndigen Beh\u00f6rde nach diesem Gesetz gilt das Umwelt-Rechtsbehelfsgesetz.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE001200000",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Zusammenarbeit mit den Mitgliedstaaten der Europ\u00e4ischen Union",
+        "body": {
+          "content": "<P>(1) Sind einer oder mehrere Mitgliedstaaten der Europ\u00e4ischen Union von einem Umweltschaden betroffen oder wahrscheinlich betroffen, so arbeiten die zust\u00e4ndigen Beh\u00f6rden mit den Beh\u00f6rden der anderen Mitgliedstaaten zusammen und tauschen in angemessenem Umfang Informationen aus, damit die erforderlichen Vermeidungs-, Schadensbegrenzungs- und Sanierungsma\u00dfnahmen durchgef\u00fchrt werden.</P><P>(2) Ist ein Umweltschaden im Geltungsbereich dieses Gesetzes verursacht worden, der sich im Hoheitsgebiet eines anderen Mitgliedstaates der Europ\u00e4ischen Union auswirken kann, so hat die zust\u00e4ndige Beh\u00f6rde die Mitgliedstaaten, die m\u00f6glicherweise betroffen sind, in angemessenem Umfang zu informieren.</P><P>(3) Stellt eine zust\u00e4ndige Beh\u00f6rde einen Umweltschaden fest, der nicht innerhalb des Geltungsbereichs dieses Gesetzes, sondern im Hoheitsgebiet eines anderen Mitgliedstaates der Europ\u00e4ischen Union verursacht wurde, so kann sie Empfehlungen f\u00fcr die Durchf\u00fchrung von Vermeidungs-, Schadensbegrenzungs- oder Sanierungsma\u00dfnahmen geben und sich um die Erstattung der ihr im Zusammenhang mit der Durchf\u00fchrung dieser Ma\u00dfnahmen angefallenen Kosten bem\u00fchen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE001300000",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Zeitliche Begrenzung der Anwendung",
+        "body": {
+          "content": "<P>(1) Dieses Gesetz gilt nicht f\u00fcr Sch\u00e4den, die durch Emissionen, Ereignisse oder Vorf\u00e4lle verursacht wurden, die vor dem 30. April 2007 stattgefunden haben, oder die auf eine bestimmte T\u00e4tigkeit zur\u00fcckzuf\u00fchren sind, die vor dem genannten Zeitpunkt geendet hat.</P><P>(2) Dieses Gesetz gilt nicht f\u00fcr Sch\u00e4den, die vor mehr als 30 Jahre verursacht wurden, wenn in dieser Zeit keine Beh\u00f6rde Ma\u00dfnahmen gegen den Verantwortlichen ergriffen hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE001700310",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "\u00dcbergangsvorschrift zu Anlage 1",
+        "body": {
+          "content": "<P>F\u00fcr Verbringungen von Abf\u00e4llen, die Artikel 62 Abs. 1 der Verordnung (EG) Nr. 1013/2006 des Europ\u00e4ischen Parlaments und des Rates vom 14. Juni 2006 \u00fcber die Verbringung von Abf\u00e4llen unterliegen, ist \u00a7 3 Abs. 1 in Verbindung mit Anlage 1 (zu \u00a7 3 Abs. 1) Nr. 12 in der Fassung von Artikel 1 des Gesetzes zur Umsetzung der Richtlinie des Europ\u00e4ischen Parlaments und des Rates \u00fcber die Umwelthaftung zur Vermeidung und Sanierung von Umweltsch\u00e4den vom 10. Mai 2007 (BGBl. I S. 666) anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE001808116",
+        "type": "article",
+        "name": "Anlage 1",
+        "title": "(zu \u00a7 3 Abs. 1)<BR/>Berufliche T\u00e4tigkeiten",
+        "body": {
+          "content": "<P><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betrieb von Anlagen, f\u00fcr den eine Genehmigung gem\u00e4\u00df der Richtlinie 2010/75/EU des Europ\u00e4ischen Parlaments und des Rates vom 24. November 2010 \u00fcber Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17) erforderlich ist. Dies umfasst alle in Anhang I der Richtlinie 2010/75/EU aufgef\u00fchrten T\u00e4tigkeiten, mit Ausnahme von Anlagen oder Anlagenteilen, die f\u00fcr Zwecke der Forschung, Entwicklung und Pr\u00fcfung neuer Erzeugnisse und Verfahren genutzt werden.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abfallbewirtschaftungsma\u00dfnahmen (die Sammlung, die Bef\u00f6rderung, die Verwertung und die Beseitigung von Abf\u00e4llen, einschlie\u00dflich der \u00dcberwachung dieser Verfahren, der Nachsorge von Beseitigungsanlagen sowie der T\u00e4tigkeiten, die von H\u00e4ndlern und Maklern durchgef\u00fchrt werden), soweit diese Ma\u00dfnahmen einer Erlaubnis, einer Genehmigung, einer Anzeige oder einer Planfeststellung nach dem Kreislaufwirtschaftsgesetz bed\u00fcrfen.</LA><LA Size=\"normal\">Diese Ma\u00dfnahmen umfassen unter anderem den Betrieb von Deponien, die gem\u00e4\u00df \u00a7 35 Absatz 2 und 3 des Kreislaufwirtschaftsgesetzes einer Planfeststellung oder Plangenehmigung bed\u00fcrfen, und den Betrieb von Verbrennungsanlagen, die gem\u00e4\u00df \u00a7 4 des Bundes-Immissionsschutzgesetzes (BImSchG) in Verbindung mit dem Anhang der Verordnung \u00fcber genehmigungsbed\u00fcrftige Anlagen (4. BImSchV) einer Genehmigung bed\u00fcrfen.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einbringung, Einleitung und sonstige Eintr\u00e4ge von Schadstoffen in Oberfl\u00e4chengew\u00e4sser gem\u00e4\u00df \u00a7 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 bis 4 des Wasserhaushaltsgesetzes, die einer Erlaubnis gem\u00e4\u00df \u00a7 8 Absatz 1 des Wasserhaushaltsgesetzes bed\u00fcrfen.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einbringung, Einleitung und sonstige Eintr\u00e4ge von Schadstoffen in das Grundwasser gem\u00e4\u00df \u00a7 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 bis 4 des Wasserhaushaltsgesetzes, die einer Erlaubnis gem\u00e4\u00df \u00a7 8 Absatz 1 des Wasserhaushaltsgesetzes bed\u00fcrfen.</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Entnahmen von Wasser aus Gew\u00e4ssern gem\u00e4\u00df \u00a7 9 Absatz 1 Nummer 1 und 5 des Wasserhaushaltsgesetzes, die einer Erlaubnis oder Bewilligung gem\u00e4\u00df \u00a7 8 Absatz 1 des Wasserhaushaltsgesetzes bed\u00fcrfen.</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufstauungen von oberirdischen Gew\u00e4ssern gem\u00e4\u00df \u00a7 9 Absatz 1 Nummer 2 des Wasserhaushaltsgesetzes, die einer Erlaubnis oder Bewilligung gem\u00e4\u00df \u00a7 8 Absatz 1 oder gem\u00e4\u00df \u00a7 68 Absatz 1 oder Absatz 2 des Wasserhaushaltsgesetzes einer Planfeststellung oder Plangenehmigung bed\u00fcrfen.</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Herstellung, Verwendung, Lagerung, Verarbeitung, Abf\u00fcllen, Freisetzung in die Umwelt und innerbetriebliche Bef\u00f6rderung von<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">gef\u00e4hrlichen Stoffen im Sinn des \u00a7 3a Abs. 1 des Chemikaliengesetzes (ChemG);</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">gef\u00e4hrlichen Zubereitungen im Sinn des \u00a7 3a Abs. 1 ChemG;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflanzenschutzmittel im Sinn des Artikels 2 Absatz 1 der Verordnung (EG) Nr. 1107/2009 des Europ\u00e4ischen Parlaments und des Rates vom 21. Oktober 2009 \u00fcber das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1);</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Biozid-Produkten im Sinn des Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 des Europ\u00e4ischen Parlaments und des Rates vom 22. Mai 2012 \u00fcber die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1).</LA></DD></DL></LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bef\u00f6rderung gef\u00e4hrlicher oder umweltsch\u00e4dlicher G\u00fcter auf der Stra\u00dfe, auf der Schiene, auf Binnengew\u00e4ssern, auf See oder in der Luft gem\u00e4\u00df der Definition in \u00a7 2 Nr. 9 der Gefahrgutverordnung Stra\u00dfe und Eisenbahn oder der Definition in den Nummern 1.3 und 1.4 der Anlage zu \u00a7 1 Abs. 1 der Anlaufbedingungsverordnung.</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gentechnische Arbeiten gem\u00e4\u00df der Definition in \u00a7 3 Nr. 2 des Gentechnikgesetzes (GenTG) an Mikroorganismen in gentechnischen Anlagen gem\u00e4\u00df der Definition in \u00a7 3 Nr. 4 GenTG sowie der au\u00dferbetriebliche Transport gentechnisch ver\u00e4nderter Mikroorganismen.</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Jede absichtliche Freisetzung genetisch ver\u00e4nderter Organismen in die Umwelt gem\u00e4\u00df der Definition in \u00a7 3 Nr. 5 erster Halbsatz GenTG sowie der Transport und das Inverkehrbringen gem\u00e4\u00df der Definition in \u00a7 3 Nr. 6 GenTG dieser Organismen.</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grenz\u00fcberschreitende Verbringung von Abf\u00e4llen in der, in die oder aus der Europ\u00e4ischen Union, f\u00fcr die eine Zustimmungspflicht oder ein Verbot im Sinne der Verordnung (EG) Nr. 1013/2006 des Europ\u00e4ischen Parlaments und des Rates vom 14. Juni 2006 \u00fcber die Verbringung von Abf\u00e4llen besteht.</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bewirtschaftung von mineralischen Abf\u00e4llen gem\u00e4\u00df der Richtlinie 2006/21/EG des Europ\u00e4ischen Parlaments und des Rates vom 15. M\u00e4rz 2006 \u00fcber die Bewirtschaftung von Abf\u00e4llen aus der mineralgewinnenden Industrie.</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betrieb von Kohlendioxidspeichern nach \u00a7 3 Nummer 7 des Kohlendioxid-Speicherungsgesetzes.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE001500000",
+        "type": "article",
+        "name": "Anlage 2",
+        "title": "(zu \u00a7 3 Abs. 3 Nr. 3)\n<BR/>\nInternationale Abkommen",
+        "body": {
+          "content": "<P><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Internationales \u00dcbereinkommen vom 27. November 1992 \u00fcber die zivilrechtliche Haftung f\u00fcr \u00d6lverschmutzungssch\u00e4den (Haftungs\u00fcbereinkommen von 1992, BGBl. 1996 II S. 670);</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Internationales \u00dcbereinkommen vom 27. November 1992 \u00fcber die Errichtung eines Internationalen Fonds zur Entsch\u00e4digung f\u00fcr \u00d6lverschmutzungssch\u00e4den (Fonds\u00fcbereinkommen von 1992, BGBl. 1996 II S. 685);</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Internationales \u00dcbereinkommen vom 23. M\u00e4rz 2001 \u00fcber die zivilrechtliche Haftung f\u00fcr Sch\u00e4den durch Bunker\u00f6lverschmutzung;</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Internationales \u00dcbereinkommen vom 3. Mai 1996 \u00fcber Haftung und Entsch\u00e4digung f\u00fcr Sch\u00e4den bei der Bef\u00f6rderung sch\u00e4dlicher und gef\u00e4hrlicher Stoffe auf See;</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcbereinkommen vom 10. Oktober 1989 \u00fcber die zivilrechtliche Haftung f\u00fcr die w\u00e4hrend des Transports gef\u00e4hrlicher G\u00fcter auf dem Stra\u00dfen-, Schienen- und Binnenschifffahrtsweg verursachten Sch\u00e4den.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR066610007BJNE001600000",
+        "type": "article",
+        "name": "Anlage 3",
+        "title": "(zu \u00a7 3 Abs. 3 Nr. 5)\n<BR/>\nInternationale \u00dcbereink\u00fcnfte",
+        "body": {
+          "content": "<P><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Pariser \u00dcbereinkommen vom 29. Juli 1960 \u00fcber die Haftung gegen\u00fcber Dritten auf dem Gebiet der Kernenergie und Br\u00fcsseler Zusatz\u00fcbereinkommen vom 31. Januar 1963 zum Pariser \u00dcbereinkommen vom 29. Juli 1960 \u00fcber die Haftung gegen\u00fcber Dritten auf dem Gebiet der Kernenergie (BGBl. 1975 II S. 957);</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wiener \u00dcbereinkommen vom 21. Mai 1963 \u00fcber die zivilrechtliche Haftung f\u00fcr nukleare Sch\u00e4den (BGBl. 2001 II S. 202);</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcbereinkommen vom 12. September 1997 \u00fcber zus\u00e4tzliche Entsch\u00e4digungsleistungen f\u00fcr nuklearen Schaden;</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Gemeinsames Protokoll vom 21. September 1988 \u00fcber die Anwendung des Wiener \u00dcbereinkommens und des Pariser \u00dcbereinkommens (BGBl. 2001 II S. 202);</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Br\u00fcsseler \u00dcbereinkommen vom 17. Dezember 1971 \u00fcber die zivilrechtliche Haftung bei der Bef\u00f6rderung von Kernmaterial auf See (BGBl. 1975 II S. 957).</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      }
+    ]
+  }
+}

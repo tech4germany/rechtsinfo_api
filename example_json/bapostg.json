@@ -1,0 +1,834 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR232510994",
+    "abbreviation": "BAPostG",
+    "extraAbbreviations": [],
+    "firstPublished": "1994-09-14",
+    "sourceTimestamp": "20171231215324",
+    "headingShort": "Bundesanstalt-Post-Gesetz",
+    "headingLong": "Gesetz \u00fcber die Errichtung einer Bundesanstalt f\u00fcr Post und Telekommunikation Deutsche Bundespost",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1994, 2325"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 19 Abs. 10 G v. 23.12.2016 I 3234"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "Mittelbare \u00c4nderung durch Art. 6 Abs. 1 G v. 28.5.2015 I 813 ist ber\u00fccksichtigt"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 1.1.1995 +++)</P><P>Kurzbezeichnung: IdF d. Art. 3 Nr. 1 G v. 28.5.2015 I 813 mWv 6.6.2015 <BR/>Das G wurde als Artikel 1 G 900-10 v. 14.9.1994 I 2325 (PTNeuOG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 15 Abs. 1 dieses G am 1.1.1995 in Kraft getreten.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR232510994BJNE001003305",
+        "type": "article",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "body": {
+          "content": "<P><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\"/><colspec colname=\"col3\" colnum=\"3\" colwidth=\"5*\"/><colspec colname=\"col4\" colnum=\"4\" colwidth=\"95*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 1</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Errichtung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 1</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Errichtung, Rechtsform, Sitz</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 2</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Aufsicht</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 2</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Aufgaben</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 3</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufgaben</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 3</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Organisation</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 4</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Leitung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 5</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verwaltungsrat</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 6</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einspruch gegen Beschl\u00fcsse des Verwaltungsrats</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 7</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Genehmigungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 8</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Satzung</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 4</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Postbeamtenversorgungskasse</entry></row><row><entry VJ=\"1\" nameend=\"col3\" namest=\"col1\">\u00a7 9</entry><entry VJ=\"1\">Grunds\u00e4tze</entry></row><row><entry VJ=\"1\" nameend=\"col3\" namest=\"col1\">\u00a7 10</entry><entry VJ=\"1\">Wirtschaftsf\u00fchrung, Rechnungslegung</entry></row><row><entry VJ=\"1\" nameend=\"col3\" namest=\"col1\">\u00a7 11</entry><entry VJ=\"1\">Rechtsnachfolge des Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V.</entry></row><row><entry VJ=\"1\" nameend=\"col3\" namest=\"col1\">\u00a7 12</entry><entry VJ=\"1\">\u00dcberleitung der Arbeitnehmerinnen und Arbeitnehmer des Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V.</entry></row><row><entry VJ=\"1\" nameend=\"col3\" namest=\"col1\">\u00a7 13</entry><entry VJ=\"1\">\u00dcberleitung der Beamtinnen und Beamten</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 5</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Dienstrechtliche Aufgaben</entry></row><row><entry VJ=\"1\" nameend=\"col3\" namest=\"col1\">\u00a7 14</entry><entry VJ=\"1\">Pr\u00fcfungen bei Disziplinarverfahren, Entlassungen und Zurruhesetzungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 15</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aus\u00fcbung der dienstrechtlichen Befugnisse bei Versorgungsempf\u00e4ngerinnen und Versorgungsempf\u00e4ngern aus dem Bereich der fr\u00fcheren Deutschen Bundespost</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 16</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Beihilfebearbeitung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 17</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aus\u00fcbung der dienstrechtlichen Befugnisse bei der Aufl\u00f6sung von Postnachfolgeunternehmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 18</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 6</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Wirtschaftsf\u00fchrung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 19</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Finanzierung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 20</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wirtschaftsplan</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 21</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Rechnungslegung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 22</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pr\u00fcfung und Entlastung der Pr\u00e4sidentin oder des Pr\u00e4sidenten</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 7</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Personal</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 23</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 24</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcberleitungsma\u00dfnahmen f\u00fcr das Personal</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 25</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Vor\u00fcbergehende geringerwertige Verwendung</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 8</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Soziale Aufgaben</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Betriebliche Sozialeinrichtungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Unterabschnitt 1</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Verwaltung der Postbeamtenkrankenkasse</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26a</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Organe</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26b</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Vorstand, Verwaltungsrat</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26c</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Satzung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26d</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufgaben</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Unterabschnitt 2</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Wirtschaftsf\u00fchrung der Postbeamtenkrankenkasse</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26e</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wirtschaftsplan</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26f</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Grunds\u00e4tze der Beitragsgestaltung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26g</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Beitr\u00e4ge in der Grundversicherung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26h</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausgleichsfonds</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26i</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Einnahmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26j</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Freistellung der Bundesrepublik Deutschland</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 26k</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verteilung des Verwaltungsaufwands, Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\" nameend=\"col3\" namest=\"col1\">\u00a7 26l</entry><entry VJ=\"1\">Beihilfebearbeitung f\u00fcr andere Stellen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Unterabschnitt 3</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Wohnungsf\u00fcrsorge</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 27</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wohnungsf\u00fcrsorge</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Abschnitt 9</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\u00dcbergangsregelungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 28</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbergangsregelung im Sozialwesen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">\u00a7 29</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verm\u00f6gens\u00fcbergang</entry></row><row><entry VJ=\"1\" nameend=\"col4\" namest=\"col1\">Anlage (zu \u00a7 8 Satz 1)</entry></row></tbody></tgroup></table></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNG000101305",
+        "type": "heading",
+        "name": "Abschnitt 1",
+        "title": "Errichtung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE001102305",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Errichtung, Rechtsform, Sitz",
+        "body": {
+          "content": "<P>(1) Zur Wahrnehmung der sich aus diesem Gesetz ergebenden Rechte und Pflichten in bezug auf die aus den Teilsonderverm\u00f6gen der Deutschen Bundespost hervorgehenden privaten Unternehmen (Postnachfolgeunternehmen) errichtet die Bundesrepublik Deutschland die Bundesanstalt f\u00fcr Post und Telekommunikation Deutsche Bundespost (Bundesanstalt).</P><P>(2) Die Bundesanstalt ist eine rechtsf\u00e4hige Anstalt des \u00f6ffentlichen Rechts. Sie hat ihren Sitz in Bonn.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE001201308",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Aufsicht",
+        "body": {
+          "content": "<P>Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen. Es ist befugt, alle Ausk\u00fcnfte zu verlangen und Anordnungen zu treffen, damit die Bundesanstalt ihre Aufgaben in Einklang mit den Gesetzen, der Satzung, sonstigen Bestimmungen und den Interessen des Bundes wahrnimmt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG000201305",
+        "type": "heading",
+        "name": "Abschnitt 2",
+        "title": "Aufgaben",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE001304305",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Gegenstand",
+        "body": {
+          "content": "<P>(1) Die Bundesanstalt hat die Aufgaben nach den Abschnitten 4, 5, 7 und 8.</P><P>(2) Postnachfolgeunternehmen im Sinne dieses Gesetzes sind die Postnachfolgeunternehmen im Sinne des \u00a7 38 Absatz 1 des Postpersonalrechtsgesetzes.</P><P>(3) Das Bundesministerium der Finanzen kann der Bundesanstalt im Einvernehmen mit den Postnachfolgeunternehmen weitere Folgeaufgaben der Neuordnung des Postwesens in Bezug auf die Besch\u00e4ftigten des ehemaligen Sonderverm\u00f6gens Deutsche Bundespost \u00fcbertragen.</P><P>(4) \u00dcber die in diesem Gesetz genannten Aufgaben hinaus darf die Bundesanstalt weder Rechte noch Einflu\u00df in bezug auf die Postnachfolgeunternehmen aus\u00fcben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000201305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG000302305",
+        "type": "heading",
+        "name": "Abschnitt 3",
+        "title": "Organisation",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE001402305",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Leitung",
+        "body": {
+          "content": "<P>(1) Die Bundesanstalt wird durch eine Pr\u00e4sidentin oder einen Pr\u00e4sidenten geleitet, die oder der in einem Anstellungsverh\u00e4ltnis zur Bundesrepublik Deutschland steht. Die Pr\u00e4sidentin oder der Pr\u00e4sident f\u00fchrt die Gesch\u00e4fte in eigener Verantwortung nach Ma\u00dfgabe dieses Gesetzes und den Weisungen des Bundesministeriums der Finanzen. Sie oder er vertritt die Bundesanstalt gerichtlich und au\u00dfergerichtlich. Die Pr\u00e4sidentin oder der Pr\u00e4sident regelt die innere Organisation der Bundesanstalt durch eine Gesch\u00e4ftsordnung.</P><P>(2) Die Pr\u00e4sidentin oder der Pr\u00e4sident wird vom Bundesministerium der Finanzen im Benehmen mit dem Verwaltungsrat auf der Grundlage eines Anstellungsvertrages bestellt und abberufen. Die Dauer des Anstellungsverh\u00e4ltnisses betr\u00e4gt bis zu f\u00fcnf Jahre. Die Verl\u00e4ngerung des Anstellungsverh\u00e4ltnisses ist zul\u00e4ssig.</P><P>(3) Die Pr\u00e4sidentin oder der Pr\u00e4sident darf neben ihrer oder seiner T\u00e4tigkeit als Pr\u00e4sidentin oder Pr\u00e4sident kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf aus\u00fcben und weder der Leitung eines auf Erwerb ausgerichteten Unternehmens noch einer Regierung oder einer gesetzgebenden K\u00f6rperschaft des Bundes oder eines Landes angeh\u00f6ren. Sie oder er darf nicht gegen Entgelt au\u00dfergerichtliche Gutachten abgeben. F\u00fcr die Zugeh\u00f6rigkeit zu einem Aufsichtsrat, Verwaltungsrat oder Beirat eines auf Erwerb gerichteten Unternehmens ist die Einwilligung des Bundesministeriums der Finanzen erforderlich. Die Pr\u00e4sidentin oder der Pr\u00e4sident hat dem Bundesministerium der Finanzen \u00fcber Geschenke Mitteilung zu machen, die sie oder er in Bezug auf ihre oder seine T\u00e4tigkeit als Pr\u00e4sidentin oder Pr\u00e4sident erh\u00e4lt. Entsprechendes gilt f\u00fcr andere Vorteile, die ihr oder ihm in Bezug auf ihre oder seine T\u00e4tigkeit als Pr\u00e4sidentin oder als Pr\u00e4sident gew\u00e4hrt werden. Die Pr\u00e4sidentin oder der Pr\u00e4sident hat, auch nach Beendigung ihres oder seines Anstellungsverh\u00e4ltnisses, \u00fcber die ihr oder ihm amtlich bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht, soweit sie offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bed\u00fcrfen.</P><P>(4) Im \u00dcbrigen werden die dienstlichen Rechtsverh\u00e4ltnisse der Pr\u00e4sidentin oder des Pr\u00e4sidenten in dem Anstellungsvertrag nach Absatz 2 Satz 1 geregelt, den das Bundesministerium der Finanzen mit ihr oder ihm schlie\u00dft. Die sich aus dem Anstellungsvertrag f\u00fcr die Bundesrepublik Deutschland ergebenden Pflichten sind von der Bundesanstalt zu erf\u00fcllen, sofern im Anstellungsvertrag nichts anderes geregelt ist.</P><P>(5) Wird eine Bundesbeamtin zur Pr\u00e4sidentin oder ein Bundesbeamter zum Pr\u00e4sidenten bestellt, wird sie oder er f\u00fcr die Dauer des Anstellungsverh\u00e4ltnisses beurlaubt. Die Zeit der Beurlaubung ist ruhegehaltf\u00e4hig. Oberste Dienstbeh\u00f6rde der Pr\u00e4sidentin oder des Pr\u00e4sidenten ist das Bundesministerium der Finanzen.</P><P>(6) Absatz 5 gilt f\u00fcr Richterinnen und Richter, Staatsanw\u00e4ltinnen und Staatsanw\u00e4lte und f\u00fcr Berufssoldatinnen und Berufssoldaten entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000302305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE001505305",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Verwaltungsrat",
+        "body": {
+          "content": "<P>(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er besteht aus einer oder einem Vorsitzenden, die oder der vom Bundesministerium der Finanzen benannt wird, und weiteren Mitgliedern. Dies sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine Vertreterin oder ein Vertreter jedes Postnachfolgeunternehmens,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine Vertreterin oder ein Vertreter des Personals jedes Postnachfolgeunternehmens auf Vorschlag der Arbeitnehmerseite und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>vom Bundesministerium der Finanzen benannte Personen, die zusammen so viele Stimmen haben, wie die Vertreterinnen und Vertreter nach den Nummern 1 und 2 zusammen.</LA></DD></DL>Die oder der Vorsitzende und die weiteren Mitglieder des Verwaltungsrats werden durch das Bundesministerium der Finanzen bestellt und abberufen.</P><P>(2) Die Einzelheiten der Bestellung und Abberufung der Mitglieder des Verwaltungsrats, die Verteilung der Stimmen auf die Mitglieder des Verwaltungsrats sowie die Dauer der Amtszeit werden durch die Satzung geregelt.</P><P>(3) Der Verwaltungsrat gibt sich eine Gesch\u00e4ftsordnung, die der Genehmigung durch das Bundesministerium der Finanzen bedarf.</P><P>(4) Der Verwaltungsrat beschlie\u00dft auf Vorlage der Pr\u00e4sidentin oder des Pr\u00e4sidenten \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung und wesentliche \u00c4nderungen des Wirtschaftsplans,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung des Jahresabschlusses,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entlastung der Pr\u00e4sidentin oder des Pr\u00e4sidenten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen der Satzung.</LA></DD></DL>Die Entlastung gem\u00e4\u00df Satz 1 Nr. 3 befreit nicht von der dienstvertraglichen Haftung.</P><P>(5) \u00dcber eine Vorlage der Pr\u00e4sidentin oder des Pr\u00e4sidenten nach Absatz 4 hat der Verwaltungsrat binnen zwei Monaten zu beschlie\u00dfen. Ergeht innerhalb dieser Frist kein Beschlu\u00df, gilt die Vorlage als genehmigt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000302305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE001601308",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Einspruch gegen Beschl\u00fcsse des Verwaltungsrats",
+        "body": {
+          "content": "<P>(1) Die Pr\u00e4sidentin oder der Pr\u00e4sident kann gegen einen nach \u00a7 5 Abs. 4 gefa\u00dften Beschlu\u00df des Verwaltungsrats binnen einer Woche nach Eingang der Mitteilung Einspruch erheben, wenn sie oder er der Auffassung ist, da\u00df der Beschlu\u00df wichtigen Interessen der Bundesanstalt nicht gerecht wird. Die Pr\u00e4sidentin oder der Pr\u00e4sident hat gleichzeitig das Bundesministerium der Finanzen \u00fcber den Einspruch zu unterrichten.</P><P>(2) Der Verwaltungsrat hat binnen eines Monats nach Eingang des Einspruchs nach Anh\u00f6rung der Pr\u00e4sidentin oder des Pr\u00e4sidenten erneut zu beschlie\u00dfen. Der Beschlu\u00df ist zu begr\u00fcnden.</P><P>(3) Beschlie\u00dft der Verwaltungsrat mit der Mehrheit seiner Mitglieder, den Einspruch der Pr\u00e4sidentin oder des Pr\u00e4sidenten zur\u00fcckzuweisen, entscheidet das Bundesministerium der Finanzen auf Vorlage der Pr\u00e4sidentin oder des Pr\u00e4sidenten. Andernfalls gilt die Vorlage der Pr\u00e4sidentin oder des Pr\u00e4sidenten als beschlossen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000302305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE001701308",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Genehmigungen",
+        "body": {
+          "content": "<P>(1) Die Pr\u00e4sidentin oder der Pr\u00e4sident legt die Beschl\u00fcsse des Verwaltungsrats gem\u00e4\u00df \u00a7 5 Abs. 4 dem Bundesministerium der Finanzen zur Genehmigung vor.</P><P>(2) Die Pr\u00e4sidentin oder der Pr\u00e4sident berichtet dem Bundesministerium der Finanzen und dem Verwaltungsrat regelm\u00e4\u00dfig \u00fcber die Gesch\u00e4ftsf\u00fchrung der Bundesanstalt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000302305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE001802305",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Satzung",
+        "body": {
+          "content": "<P>Die Satzung der Bundesanstalt wird in der Anlage zu diesem Gesetz festgestellt. Sie kann nach Ma\u00dfgabe des \u00a7 5 Abs. 4 Satz 1 Nr. 4 in Verbindung mit \u00a7 7 Abs. 1 ge\u00e4ndert werden. Die Satzung ist an \u00c4nderungen dieses Gesetzes anzupassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000302305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG000403305",
+        "type": "heading",
+        "name": "Abschnitt 4",
+        "title": "Postbeamtenversorgungskasse",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE001902305",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Grunds\u00e4tze",
+        "body": {
+          "content": "<P>Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den \u00a7\u00a7 14 bis 16 des Postpersonalrechtsgesetzes \u00fcbertragenen Aufgaben wahr. Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen unter der Bezeichnung \u201ePostbeamtenversorgungskasse\u201c weitere Aufgaben wahrnehmen, deren Erf\u00fcllung im Interesse der Leistungsempf\u00e4ngerinnen und Leistungsempf\u00e4nger liegt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000403305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE002003305",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Wirtschaftsf\u00fchrung, Rechnungslegung",
+        "body": {
+          "content": "<P>(1) Die Pr\u00e4sidentin oder der Pr\u00e4sident stellt f\u00fcr jedes Gesch\u00e4ftsjahr einen Wirtschaftsplan f\u00fcr die Postbeamtenversorgungskasse auf. Dieser ist Teil des Wirtschaftsplans der Bundesanstalt (\u00a7 20).</P><P>(2) Die Bundesanstalt stellt f\u00fcr die Postbeamtenversorgungskasse zum Schluss eines jeden Gesch\u00e4ftsjahres eine Haushaltsrechnung nach den Grunds\u00e4tzen der Bundeshaushaltsordnung sowie eine Verm\u00f6gensrechnung (Bilanz und Gewinn- und Verlustrechnung nach den f\u00fcr gro\u00dfe Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuchs) auf. Sie sind der Haushaltsrechnung des Bundes als Anhang beizuf\u00fcgen.</P><P>(3) Die Pr\u00e4sidentin oder der Pr\u00e4sident stellt f\u00fcr die Postbeamtenversorgungskasse einen Jahresabschluss und einen Lagebericht auf. Die \u00a7\u00a7 21 und 22 gelten mit der Ma\u00dfgabe entsprechend, dass die Entlastung der Pr\u00e4sidentin oder des Pr\u00e4sidenten erst nach der Entlastung der Bundesregierung (Artikel 114 Absatz 1 des Grundgesetzes) erfolgen darf.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000403305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE002102305",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Rechtsnachfolge des Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V.",
+        "body": {
+          "content": "<P>(1) Die Bundesanstalt tritt in die Rechte und Pflichten des Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V. als Postbeamtenversorgungskasse ein.</P><P>(2) Die Bundesanstalt \u00fcbernimmt ohne Wertausgleich mit Ablauf des 31. Dezember 2012 das vom Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V. als Postbeamtenversorgungskasse gehaltene Verm\u00f6gen (Aktiva und Passiva einschlie\u00dflich etwaiger beschr\u00e4nkter dinglicher Rechte). Bestellte Pfandrechte und sonstige Sicherungsrechte bleiben bestehen.</P><P>(3) Die Bundesanstalt wirkt auf eine Beteiligtenberichtigung in laufenden Gerichtsverfahren hin.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000403305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE002201305",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "\u00dcberleitung der Arbeitnehmerinnen und Arbeitnehmer des Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V.",
+        "body": {
+          "content": "<P>(1) Die Bundesanstalt tritt in die Rechte und Pflichten der mit dem Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e. V. bestehenden Arbeitsverh\u00e4ltnisse ein. Die betroffenen Arbeitnehmerinnen und Arbeitnehmer k\u00f6nnen dem \u00dcbergang ihres Arbeitsverh\u00e4ltnisses innerhalb eines Monats nach der \u00dcberleitung schriftlich widersprechen. Der Widerspruch kann gegen\u00fcber dem Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V. oder der Bundesanstalt erkl\u00e4rt werden. \u00a7 613a des B\u00fcrgerlichen Gesetzbuchs findet keine Anwendung.</P><P>(2) Zur Angleichung der Arbeitsbedingungen an die Tarifstruktur der Bundesanstalt k\u00f6nnen die nach Absatz 1 \u00fcbergeleiteten Arbeitsvertr\u00e4ge einmalig binnen sechs Monaten nach \u00dcbergang von der Bundesanstalt mit einer Frist von sechs Monaten zum Ende eines Kalendermonats im Rahmen von \u00c4nderungsk\u00fcndigungen gek\u00fcndigt werden. Den betroffenen Arbeitnehmerinnen und Arbeitnehmern ist zugleich ein Arbeitsvertrag zu den bei der Bundesanstalt \u00fcblichen Konditionen unter Beachtung der geltenden tarifvertraglichen Regelungen anzubieten. Das Recht zur K\u00fcndigung der Arbeitsverh\u00e4ltnisse aus anderen Gr\u00fcnden bleibt unber\u00fchrt.</P><P>(3) Schlie\u00dfen die \u00fcbergeleiteten Arbeitnehmerinnen und Arbeitnehmer mit der Bundesanstalt einen neuen Arbeitsvertrag, stehen Besch\u00e4ftigungszeiten beim Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V. oder einem seiner Rechtsvorg\u00e4nger Besch\u00e4ftigungszeiten bei der Bundesanstalt gleich. Verringern sich infolge des Abschlusses eines neuen Arbeitsvertrages die j\u00e4hrlichen Verg\u00fctungen, erhalten die betroffenen Arbeitnehmerinnen und Arbeitnehmer eine au\u00dfertarifliche Ausgleichszulage. Sie wird in H\u00f6he des Unterschiedsbetrages zwischen der j\u00e4hrlichen Verg\u00fctung bei der Bundesanstalt und derjenigen Verg\u00fctung gew\u00e4hrt, die der Arbeitnehmerin oder dem Arbeitnehmer im Falle einer 100-prozentigen Zielerreichung im letzten Kalenderjahr vor der \u00dcberleitung beim Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e. V. aufgrund fester und variabler Verg\u00fctungen zugestanden h\u00e4tte; f\u00fcr die Berechnung des Unterschiedsbetrages wird die Verg\u00fctung bei Vollzeitbesch\u00e4ftigung zugrunde gelegt. Die Ausgleichszulage wird in monatlichen Betr\u00e4gen von jeweils einem Zw\u00f6lftel der Ausgleichszulage zusammen mit dem monatlichen Entgelt ausgezahlt; erstmals in dem auf den Abschluss des neuen Arbeitsvertrages folgenden Monat. Jeweils nach Ablauf eines Jahres vermindert sich die Ausgleichszulage um 20 Prozent ihres urspr\u00fcnglichen Betrages. Sachbez\u00fcge, Beihilfen, Versicherungsleistungen, Leistungen der betrieblichen Altersversorgung sowie vergleichbare geldwerte Arbeitgeberleistungen des Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e. V. bleiben f\u00fcr die Berechnung der Ausgleichszulage au\u00dfer Betracht. Im Falle einer Teilzeitbesch\u00e4ftigung wird die Ausgleichszulage im gleichen Verh\u00e4ltnis gek\u00fcrzt wie die Arbeitszeit.</P><P>(4) Die Bundesanstalt gew\u00e4hrleistet die zum Zeitpunkt der \u00dcberleitung beim Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V. bestehenden Anwartschaften aus einer betrieblichen Altersversorgung, auch soweit sie noch nicht unverfallbar sind. Zus\u00e4tzliche Anwartschaftsanspr\u00fcche werden nicht mehr erworben. Ab dem Zeitpunkt des Abschlusses eines neuen Arbeitsvertrages mit der Bundesanstalt nehmen die \u00fcbergeleiteten Arbeitnehmerinnen und Arbeitnehmer an der bei der Bundesanstalt bestehenden betrieblichen Altersversorgung teil.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000403305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE002301305",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "\u00dcberleitung der Beamtinnen und Beamten",
+        "body": {
+          "content": "<P>Die Beurlaubung der Beamtinnen und Beamten, die im Rahmen eines privatrechtlichen Arbeitsverh\u00e4ltnisses f\u00fcr den Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V. t\u00e4tig sind, ist aufgehoben. Soweit sie Beamtinnen und Beamte des Bundes sind, werden sie auf die Bundesanstalt \u00fcbergeleitet. Ein nach \u00a7 12 Absatz 1 \u00fcbergeleitetes Arbeitsverh\u00e4ltnis der Beamtinnen und Beamten zur Bundesanstalt erlischt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000403305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG000502305",
+        "type": "heading",
+        "name": "Abschnitt 5",
+        "title": "Dienstrechtliche Aufgaben",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE002401305",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Pr\u00fcfungen bei Disziplinarverfahren, Entlassungen und Zurruhesetzungen",
+        "body": {
+          "content": "<P>In Disziplinarverfahren, bei Entlassungen und Zurruhesetzungen sowie bei Herabsetzungen der Arbeitszeit wegen begrenzter Dienstf\u00e4higkeit nimmt die Bundesanstalt die ihr in \u00a7 1 Absatz 5 und 6 des Postpersonalrechtsgesetzes \u00fcbertragenen Aufgaben wahr.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000502305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE002503305",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Aus\u00fcbung der dienstrechtlichen Befugnisse bei Versorgungsempf\u00e4ngerinnen und Versorgungsempf\u00e4ngern aus dem Bereich der fr\u00fcheren Deutschen Bundespost",
+        "body": {
+          "content": "<P>(1) Die Bundesanstalt nimmt die dem Dienstherrn Bund obliegenden Aufgaben und Befugnisse gegen\u00fcber folgenden Personen wahr: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Ruhestandsbeamtinnen und Ruhestandsbeamten sowie Versorgungsempf\u00e4ngerinnen und Versorgungsempf\u00e4ngern <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>des ehemaligen Sonderverm\u00f6gens Deutsche Bundespost,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>des ehemaligen Teilsonderverm\u00f6gens Deutsche Bundespost POSTDIENST,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>des ehemaligen Teilsonderverm\u00f6gens Deutsche Bundespost POSTBANK und</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>des ehemaligen Teilsonderverm\u00f6gens Deutsche Bundespost TELEKOM,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Ruhestandsbeamtinnen und Ruhestandsbeamten sowie Versorgungsempf\u00e4ngerinnen und Versorgungsempf\u00e4ngern, die zuletzt bei einem Postnachfolgeunternehmen besch\u00e4ftigt waren,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>fr\u00fcheren Besch\u00e4ftigten und Vorstandsmitgliedern der in den Nummern 1 und 2 genannten Unternehmen und Sonderverm\u00f6gen, denen aus einem \u00f6ffentlich-rechtlichen Amtsverh\u00e4ltnis, einem nach \u00a7 47 Absatz 2 des Postverfassungsgesetzes geschlossenen Vertrag oder auf Grund des Dienstrechtlichen Kriegsfolgen-Abschlussgesetzes Anspr\u00fcche auf beamtenrechtlich ausgestaltete Versorgung zustehen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>fr\u00fcheren Beamtinnen und Beamten, die zuletzt bei einem Postnachfolgeunternehmen besch\u00e4ftigt waren und denen Altersgeld gew\u00e4hrt wird, und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Hinterbliebenen der in den Nummern 1 bis 4 genannten Personen.</LA></DD></DL>Im Rahmen der Zust\u00e4ndigkeit nach Satz 1 vertritt die Pr\u00e4sidentin der Bundesanstalt oder der Pr\u00e4sident der Bundesanstalt die Bundesrepublik Deutschland gerichtlich und au\u00dfergerichtlich.</P><P>(2) Die Pr\u00e4sidentin oder der Pr\u00e4sident nimmt die Befugnisse der obersten Dienstbeh\u00f6rde und die Befugnisse der Dienstvorgesetzten oder des Dienstvorgesetzten wahr. Sie oder er nimmt dar\u00fcber hinaus die Befugnisse der obersten Dienstbeh\u00f6rde nach \u00a7 49 Absatz 1 des Beamtenversorgungsgesetzes f\u00fcr die bei den Postnachfolgeunternehmen besch\u00e4ftigten Beamtinnen und Beamten sowie die sich aus \u00a7 2 Absatz 1 Nummer 5 des Dienstrechtlichen Kriegsfolgen-Abschlussgesetzes und aus \u00a7 10 des Altersgeldgesetzes ergebenden Zust\u00e4ndigkeiten in Versorgungs- und Altersgeldangelegenheiten wahr.</P><P>(3) Das Bundesministerium der Finanzen kann sich in Angelegenheiten nach Absatz 2 die Entscheidung vorbehalten oder die Entscheidung von seiner Zustimmung abh\u00e4ngig machen; auch kann es verbindliche Grunds\u00e4tze f\u00fcr die Entscheidung aufstellen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000502305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE002604305",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Beihilfebearbeitung",
+        "body": {
+          "content": "<P>(1) Der Bundesanstalt werden folgende Aufgaben und Befugnisse in Bezug auf die bei den Postnachfolgeunternehmen besch\u00e4ftigten Beamtinnen und Beamten \u00fcbertragen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Berechnung, Festsetzung, Auszahlung und R\u00fcckforderung der Beihilfe in Krankheits-, Pflege- und Geburtsf\u00e4llen sowie der Erlass von Widerspruchs-, R\u00fccknahme- und Widerrufsbescheiden in Beihilfeangelegenheiten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die F\u00fchrung der Beihilfeakten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Geltendmachung von Schadensersatzanspr\u00fcchen nach \u00a7 76 des Bundesbeamtengesetzes, soweit diese Beihilfeleistungen betreffen, sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die gerichtliche Vertretung der Bundesrepublik Deutschland in Verfahren nach den Nummern 1 bis 3.</LA></DD></DL></P><P>Die Bundesanstalt nimmt insoweit die Befugnisse der obersten Dienstbeh\u00f6rde wahr. \u00a7 15 Absatz 1 Satz 2 und Absatz 3 gilt entsprechend. Die Postnachfolgeunternehmen haben die Bundesanstalt bei der Durchf\u00fchrung der Aufgaben zu unterst\u00fctzen. Die geleisteten Beihilfeausgaben sind der Bundesanstalt durch das Postnachfolgeunternehmen, bei der die Beamtin oder der Beamte besch\u00e4ftigt ist, zu erstatten.</P><P>(2) Die Bundesanstalt bedient sich bei der Bearbeitung der Beihilfe der Postbeamtenkrankenkasse. Dies gilt auch f\u00fcr die Bearbeitung der Beihilfe in den F\u00e4llen des \u00a7 15 sowie f\u00fcr die Bearbeitung der Beihilfe f\u00fcr die eigenen Beamtinnen und Beamten der Bundesanstalt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000502305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE002703123",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Aus\u00fcbung der dienstrechtlichen Befugnisse bei der Aufl\u00f6sung von Postnachfolgeunternehmen",
+        "body": {
+          "content": "<P>(1) Wird ein Postnachfolgeunternehmen aufgel\u00f6st oder erlischt es kraft Gesetzes, so tritt die Bundesanstalt an die Stelle dieses Postnachfolgeunternehmens hinsichtlich der Beamtinnen und Beamten, die bei ihm besch\u00e4ftigt sind. Die Beamtenverh\u00e4ltnisse werden mit dem Bund fortgesetzt. Die im Zeitpunkt des \u00dcbertritts bestehenden Beurlaubungen, Zuweisungen von T\u00e4tigkeiten und Abordnungen k\u00f6nnen aufgehoben oder widerrufen werden.</P><P>(2) Die Bundesanstalt wird erm\u00e4chtigt, die dem Dienstherrn Bund obliegenden Aufgaben und Befugnisse gegen\u00fcber den in Absatz 1 bezeichneten Beamtinnen und Beamten wahrzunehmen. Die Pr\u00e4sidentin oder der Pr\u00e4sident nimmt die Befugnisse der obersten Dienstbeh\u00f6rde und die Befugnisse der Dienstvorgesetzten oder des Dienstvorgesetzten wahr. \u00a7 15 Absatz 3 gilt entsprechend. F\u00fcr die Anwendung des Bundespersonalvertretungsgesetzes, des Bundesgleichstellungsgesetzes, der \u00a7\u00a7 176 bis 183 des Neunten Buches Sozialgesetzbuch und des Gesetzes zur Errichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation gelten die Beamtinnen und Beamten als Besch\u00e4ftigte der Bundesanstalt; im \u00dcbrigen gelten sie als bei einem Postnachfolgeunternehmen besch\u00e4ftigt. Die Kostentragungspflicht f\u00fcr verm\u00f6gensrechtliche Anspr\u00fcche der Beamtinnen und Beamten obliegt dem Bund.</P><P>(3) \u00a7 2 Absatz 2, \u00a7 3 Absatz 2 und 7 bis 9 und die \u00a7\u00a7 4, 6, 9 und 18 des Postpersonalrechtsgesetzes, \u00a7 136 des Bundesbeamtengesetzes sowie die Postlaufbahnverordnung gelten entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000502305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE002802305",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000502305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG000601305",
+        "type": "heading",
+        "name": "Abschnitt 6",
+        "title": "Wirtschaftsf\u00fchrung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE002902305",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Finanzierung",
+        "body": {
+          "content": "<P>(1) Die Aufgaben nach \u00a7 3 nimmt die Bundesanstalt nach Ma\u00dfgabe \u00f6ffentlich-rechtlicher entgeltlicher Gesch\u00e4ftsbesorgungsvertr\u00e4ge wahr, die sie mit den Postnachfolgeunternehmen abschlie\u00dft. Die mit der Aufgabenwahrnehmung verbundenen Kosten einschlie\u00dflich der kalkulatorischen Kosten werden aus den vertraglich vereinbarten Entgelten einschlie\u00dflich eines Gewinnzuschlages finanziert. Die Leits\u00e4tze f\u00fcr die Preisermittlung auf Grund von Selbstkosten (Anlage zur Verordnung PR Nr. 30/53 vom 21. November 1953, zuletzt ge\u00e4ndert durch Artikel 289 der Verordnung vom 25. November 2003, BGBl. I S. 2304), sind zu beachten. Sie k\u00f6nnen einvernehmlich ganz oder teilweise abbedungen werden. Der Gewinnzuschlag muss einen angemessenen Ausgleich f\u00fcr die verbleibenden Risiken gew\u00e4hrleisten. Anstelle des Gewinnzuschlags kann eine Vollkostentragung vereinbart werden. F\u00fcr Personal\u00fcberhang wird f\u00fcr die Zeit ab dem 1. Dezember 2005 kein Gewinnzuschlag erhoben.</P><P>(2) \u00a7 26 Abs. 4 und \u00a7 26k bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000601305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE003001308",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Wirtschaftsplan",
+        "body": {
+          "content": "<P>(1) Die Pr\u00e4sidentin oder der Pr\u00e4sident stellt f\u00fcr jedes Jahr einen Wirtschaftsplan auf, der <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Vorschau-Gewinn- und Verlustrechnung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Vorschau-Kapitalrechnung und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Stellenplan</LA></DD></DL>umfasst. Gesch\u00e4ftsjahr ist das Kalenderjahr.</P><P>(2) Bestandteil des Wirtschaftsplans ist auch eine im Einzelnen aufgeschl\u00fcsselte Zuordnung der Planaufwendungen und Planinvestitionen zu folgenden Bereichen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versorgungsanstalt der Deutschen Bundespost gem\u00e4\u00df \u00a7 26 Abs. 1 und 4,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erholungswerk Post Postbank Telekom e. V. gem\u00e4\u00df \u00a7 26 Abs. 1 und 4,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betreuungswerk Post Postbank Telekom gem\u00e4\u00df \u00a7 26 Abs. 1 und 4,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Postbeamtenkrankenkasse gem\u00e4\u00df \u00a7 26 Abs. 2 und \u00a7\u00a7 26a bis 26k und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcbrige Aufgaben der Bundesanstalt.</LA></DD></DL>Die Einzelheiten regelt die Satzung.</P><P>(3) Der Wirtschaftsplan bedarf der Genehmigung gem\u00e4\u00df \u00a7 7 Abs. 1.</P><P>(4) Liegt bis zum Schlu\u00df eines Gesch\u00e4ftsjahres die Genehmigung des Wirtschaftsplans f\u00fcr das folgende Jahr nicht vor, so ist bis zum Inkrafttreten des Wirtschaftsplans die Pr\u00e4sidentin oder der Pr\u00e4sident erm\u00e4chtigt, alle Ausgaben zu leisten, um den laufenden Betrieb der Bundesanstalt aufrecht zu erhalten, rechtlich begr\u00fcndete Verpflichtungen der Bundesanstalt zu erf\u00fcllen und begonnene Investitionen fortzuf\u00fchren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000601305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE003102305",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Rechnungslegung",
+        "body": {
+          "content": "<P>Die Pr\u00e4sidentin oder der Pr\u00e4sident stellt f\u00fcr das vergangene Gesch\u00e4ftsjahr innerhalb der ersten vier Monate des Folgejahres einen Jahresabschluss und einen Lagebericht nach den f\u00fcr gro\u00dfe Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuchs auf. Der Jahresabschluss bedarf der Genehmigung nach \u00a7 7 Absatz 1. Das Publizit\u00e4tsgesetz ist nicht anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000601305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE003203305",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "Pr\u00fcfung und Entlastung der Pr\u00e4sidentin oder des Pr\u00e4sidenten",
+        "body": {
+          "content": "<P>(1) Jahresabschluss und Lagebericht der Bundesanstalt sind durch eine oder einen vom Bundesministerium der Finanzen zu bestimmende Abschlusspr\u00fcferin oder zu bestimmenden Abschlusspr\u00fcfer zu pr\u00fcfen.</P><P>(2) Der Bundesrechnungshof pr\u00fcft die Haushalts- und Wirtschaftsf\u00fchrung der Bundesanstalt nach \u00a7 111 der Bundeshaushaltsordnung. Die Pr\u00e4sidentin oder der Pr\u00e4sident legt dem Bundesrechnungshof den Jahresabschluss und den Lagebericht sowie den Bericht der Abschlusspr\u00fcferin oder des Abschlusspr\u00fcfers vor. Der Bundesrechnungshof kann Pr\u00fcfungsfeststellungen dem Verwaltungsrat und dem Bundesministerium der Finanzen zuleiten.</P><P>(3) Der Verwaltungsrat beschlie\u00dft unter Ber\u00fccksichtigung des Pr\u00fcfberichts der Abschlusspr\u00fcferin oder des Abschlusspr\u00fcfers \u00fcber die Entlastung der Pr\u00e4sidentin oder des Pr\u00e4sidenten. Der Beschluss \u00fcber die Entlastung bedarf der Genehmigung gem\u00e4\u00df \u00a7 7 Abs. 1. Die Entlastung enth\u00e4lt keinen Verzicht auf Ersatzanspr\u00fcche.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000601305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG000701305",
+        "type": "heading",
+        "name": "Abschnitt 7",
+        "title": "Personal",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE003304305",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer",
+        "body": {
+          "content": "<P>(1) Unbeschadet des Rechts, Arbeitnehmerinnen und Arbeitnehmer zu besch\u00e4ftigen, wird der Bundesanstalt das Recht verliehen, Beamtinnen und Beamte zu haben.</P><P>(2) Die Beamtinnen und Beamten der Bundesanstalt sind Bundesbeamtinnen und Bundesbeamte. Oberste Dienstbeh\u00f6rde und oberste Dienstvorgesetzte oder oberster Dienstvorgesetzter ist die Pr\u00e4sidentin oder der Pr\u00e4sident; \u00a7 2 Abs. 2 des Postsozialversicherungsorganisationsgesetzes bleibt unber\u00fchrt. Die f\u00fcr die Aufsicht zust\u00e4ndige oberste Bundesbeh\u00f6rde im Sinne des \u00a7 144 des Bundesbeamtengesetzes ist das Bundesministerium der Finanzen. Das Bundesministerium der Finanzen bestimmt nach Anh\u00f6rung oder auf Vorschlag der Pr\u00e4sidentin oder des Pr\u00e4sidenten, welche Stelleninhaberinnen oder Stelleninhaber unterhalb der Pr\u00e4sidentin oder des Pr\u00e4sidenten die Befugnisse einer oder eines Dienstvorgesetzten f\u00fcr die bei den betrieblichen Sozialeinrichtungen besch\u00e4ftigten Beamtinnen und Beamten wahrnehmen. Die Bestimmung ist im Bundesgesetzblatt zu ver\u00f6ffentlichen.</P><P>(3) Die Bundespr\u00e4sidentin oder der Bundespr\u00e4sident ernennt und entl\u00e4sst die Beamtinnen und Beamten der Bundesbesoldungsordnung B der Bundesanstalt. Die Pr\u00e4sidentin oder der Pr\u00e4sident ernennt und entl\u00e4sst die Beamtinnen und Beamten der Bundesbesoldungsordnung A.</P><P>(4) Bei der Bundesanstalt k\u00f6nnen die nach \u00a7 26 Abs. 1 des Bundesbesoldungsgesetzes zul\u00e4ssigen Obergrenzen f\u00fcr Bef\u00f6rderungs\u00e4mter \u00fcberschritten werden, soweit dies wegen der mit den Funktionen verbundenen Anforderungen erforderlich ist.</P><P>(5) Stand einer Beamtin oder einem Beamten vor einer Verwendung bei der Bundesanstalt eine Stellenzulage entsprechend der Vorbemerkung Nummer 7 zu den Besoldungsordnungen A und B des Bundesbesoldungsgesetzes zu, wird diese f\u00fcr die Dauer dieser Verwendung weitergew\u00e4hrt. Anrechnungsvorschriften finden Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000701305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE003403305",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": "\u00dcberleitungsma\u00dfnahmen f\u00fcr das Personal",
+        "body": {
+          "content": "<P>(1) Die bis zum Zeitpunkt des Inkrafttretens dieses Gesetzes g\u00fcltigen Tarifvertr\u00e4ge der Unternehmen der Deutschen Bundespost POSTDIENST, der Deutschen Bundespost POSTBANK, der Deutschen Bundespost TELEKOM und des Direktoriums der Deutschen Bundespost gelten bis zum Abschlu\u00df neuer Tarifvertr\u00e4ge auch f\u00fcr die bei der Bundesanstalt Besch\u00e4ftigten. F\u00fcr die auf die Bundesanstalt \u00fcbergeleiteten Besch\u00e4ftigten werden, soweit erforderlich, Besitzstandsregelungen vereinbart. F\u00fcr die Besch\u00e4ftigten der Bundesanstalt werden die Tarifvertr\u00e4ge durch die Pr\u00e4sidentin oder den Pr\u00e4sidenten der Bundesanstalt abgeschlossen.</P><P>(2) Eine Beamtin oder ein Beamter der Bundesanstalt kann auf Grund einer Einzelentscheidung zu einem Postnachfolgeunternehmen versetzt und dort besch\u00e4ftigt werden, wenn die Beamtin oder der Beamte und das Postnachfolgeunternehmen zustimmen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000701305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE003501308",
+        "type": "article",
+        "name": "\u00a7 25",
+        "title": "Vor\u00fcbergehende geringerwertige Verwendung",
+        "body": {
+          "content": "<P>Einer Beamtin oder einem Beamten, deren oder dessen Aufgabengebiet von Umstrukturierungsma\u00dfnahmen oder einem Aufgabenr\u00fcckgang betroffen ist, kann unter Beibehaltung ihres oder seines Amtes ohne ihre oder seine Zustimmung vor\u00fcbergehend auch eine geringerwertige T\u00e4tigkeit in derselben oder einer gleichwertigen Laufbahn \u00fcbertragen werden, wenn eine amtsgem\u00e4\u00dfe Verwendung nicht m\u00f6glich ist und der Beamtin oder dem Beamten die Wahrnehmung der neuen Aufgabe unter Ber\u00fccksichtigung ihrer oder seiner bisherigen T\u00e4tigkeit zuzumuten ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000701305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG000802305",
+        "type": "heading",
+        "name": "Abschnitt 8",
+        "title": "Soziale Aufgaben",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE003606305",
+        "type": "article",
+        "name": "\u00a7 26",
+        "title": "Betriebliche Sozialeinrichtungen",
+        "body": {
+          "content": "<P>(1) Die Versorgungsanstalt der Deutschen Bundespost und das Erholungswerk Post Postbank Telekom e. V. werden f\u00fcr die Bundesanstalt und die Postnachfolgeunternehmen durch die Bundesanstalt als einheitliche Einrichtungen weitergef\u00fchrt. Das Betreuungswerk Post Postbank Telekom wird f\u00fcr die Bundesanstalt und die Postnachfolgeunternehmen durch die Bundesanstalt aufrechterhalten.</P><P>(2) Die Postbeamtenkrankenkasse als betriebliche Sozialeinrichtung ist in ihrem Bestand geschlossen und wird mit dem Ziel der Abwicklung in der bestehenden Rechtsform einer rechtsf\u00e4higen K\u00f6rperschaft des \u00f6ffentlichen Rechts nach Ma\u00dfgabe dieses Gesetzes und n\u00e4herer Ausgestaltung durch die Satzung der Postbeamtenkrankenkasse f\u00fcr die Bundesanstalt und die Postnachfolgeunternehmen durch die Bundesanstalt weitergef\u00fchrt.</P><P>(3) Die betrieblichen Sozialeinrichtungen haben sich an den organisatorischen Gegebenheiten der Postnachfolgeunternehmen zu orientieren und deren Interesse an einer m\u00f6glichst wirtschaftlichen Leistungserstellung zu befolgen.</P><P>(4) Die Bundesanstalt \u00fcbernimmt im Rahmen der Weiterf\u00fchrung und Aufrechterhaltung den Personal- und Sachaufwand f\u00fcr das Erholungswerk Post Postbank Telekom e. V., das Betreuungswerk Post Postbank Telekom und die Versorgungsanstalt der Deutschen Bundespost. Die hiermit verbundenen Kosten einschlie\u00dflich der kalkulatorischen Kosten tragen, soweit sie nicht durch andere Einnahmen gedeckt sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Postnachfolgeunternehmen f\u00fcr die Berechtigten oder Beg\u00fcnstigten aus dem Bereich der Postnachfolgeunternehmen und der Bundesanstalt gem\u00e4\u00df \u00a7 19 Abs. 1,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im \u00dcbrigen die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, die Museumsstiftung Post und Telekommunikation und die Bundesrepublik Deutschland f\u00fcr ihre Berechtigten oder Beg\u00fcnstigten.</LA></DD></DL>F\u00fcr die Weiterf\u00fchrung des Erholungswerks und die Aufrechterhaltung des Betreuungswerks k\u00f6nnen besondere Vereinbarungen zum Zwecke der teilweisen Eigenfinanzierung geschlossen werden.</P><P>(5) Die Bundesanstalt ist verpflichtet, die Wirtschaftlichkeit der betrieblichen Sozialeinrichtungen zu kontrollieren. Die Bundesanstalt f\u00fchrt die Aufsicht \u00fcber die Postbeamtenkrankenkasse und die Versorgungsanstalt der Deutschen Bundespost. \u00a7 88 Abs. 1 und 2 und \u00a7 89 Abs. 1 und 3 des Vierten Buches Sozialgesetzbuch gelten entsprechend.</P><P>(6) Die in Teil VI der Bundeshaushaltsordnung enthaltenen Vorschriften \u00fcber die Beteiligungsrechte des Bundesministeriums der Finanzen finden auf die betrieblichen Sozialeinrichtungen keine Anwendung. Die Rechte des zust\u00e4ndigen Ministeriums werden von der Bundesanstalt wahrgenommen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000802305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG001001305",
+        "type": "heading",
+        "name": "Unterabschnitt 1",
+        "title": "Verwaltung der Postbeamtenkrankenkasse",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000802305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE004400308",
+        "type": "article",
+        "name": "\u00a7 26a",
+        "title": "Organe",
+        "body": {
+          "content": "<P>(1) Organe der Postbeamtenkrankenkasse sind der Vorstand und der Verwaltungsrat.</P><P>(2) Aufgaben und Befugnisse der Organe werden durch dieses Gesetz und die Satzung der Postbeamtenkrankenkasse geregelt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001001305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE004503305",
+        "type": "article",
+        "name": "\u00a7 26b",
+        "title": "Vorstand, Verwaltungsrat",
+        "body": {
+          "content": "<P>(1) Der Vorstand besteht aus einer oder mehreren Personen. Er vertritt die Postbeamtenkrankenkasse nach au\u00dfen. Besteht der Vorstand aus mehreren Personen, kann in der Satzung bestimmt werden, dass auch einzelne Mitglieder des Vorstands die Postbeamtenkrankenkasse vertreten k\u00f6nnen.</P><P>(2) Selbstverwaltungsorgan der Postbeamtenkrankenkasse ist der Verwaltungsrat. Dieser besteht aus 16 nach n\u00e4herer Ma\u00dfgabe der Satzung bestimmten Mitgliedern, von denen acht Unternehmens- und Verwaltungsvertreterinnen oder Unternehmens- und Verwaltungsvertreter und acht Mitgliedervertreterinnen oder Mitgliedervertreter sind. Die Unternehmens- und Verwaltungsvertreterinnen oder Unternehmens- und Verwaltungsvertreter setzen sich aus je drei Besch\u00e4ftigten der Deutsche Post AG und der Deutsche Telekom AG, einer oder einem Besch\u00e4ftigten der Deutsche Postbank AG und einer oder einem Besch\u00e4ftigten der Bundesanstalt zusammen.</P><P>(3) Jedes Mitglied des Verwaltungsrats hat eine Stimme. Mitglieder des Verwaltungsrats und deren st\u00e4ndige Stellvertreterinnen oder Stellvertreter k\u00f6nnen andere nach Absatz 4 bestellte Personen bevollm\u00e4chtigen.</P><P>(4) Ordnungsgem\u00e4\u00df ausgew\u00e4hlte Verwaltungsratsmitglieder und ihre jeweiligen st\u00e4ndigen Stellvertreterinnen oder Stellvertreter werden von der Bundesanstalt bestellt und abberufen.</P><P>(5) Der Verwaltungsrat w\u00e4hlt aus seiner Mitte eine Vorsitzende oder einen Vorsitzenden und eine Stellvertreterin oder einen Stellvertreter.</P><P>(6) Die Verwaltungsratsmitglieder und ihre Stellvertreterinnen oder Stellvertreter erhalten f\u00fcr ihre T\u00e4tigkeit im Verwaltungsrat eine Aufwandsentsch\u00e4digung. Diese ist Bestandteil des Verwaltungsaufwands im Sinne des \u00a7 26k.</P><P>(7) Der Verwaltungsrat stellt den Vorstand ein und entl\u00e4sst diesen.</P><P>(8) Der Verwaltungsrat beschlie\u00dft auf Vorlage des Vorstands \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung und wesentliche \u00c4nderungen des Wirtschaftsplans,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung des Jahresabschlusses und des Lageberichts,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entlastung des Vorstands,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">befristete Einschr\u00e4nkungen von Leistungen an die Mitglieder,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Richtlinien f\u00fcr die Anlage des Verm\u00f6gens,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen der Satzung,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he der Beitr\u00e4ge und die Beitragsstruktur und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>die H\u00f6he der Aufwandsentsch\u00e4digung nach Absatz 6.</LA></DD></DL>Die Beschl\u00fcsse nach Satz 1 bed\u00fcrfen der Genehmigung der Bundesanstalt. Der Verwaltungsrat kann die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht um Stellungnahme bitten. Satzungs\u00e4ndernde Beschl\u00fcsse bed\u00fcrfen einer Zweidrittelmehrheit der Mitglieder des Verwaltungsrats.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001001305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE004600308",
+        "type": "article",
+        "name": "\u00a7 26c",
+        "title": "Satzung",
+        "body": {
+          "content": "<P>(1) Die Satzung der Postbeamtenkrankenkasse regelt ihre Organisation und Verwaltung sowie ihre Leistungen und Beitr\u00e4ge.</P><P>(2) Soweit nicht die Wahrnehmung von Aufgaben der Grundversicherung ber\u00fchrt ist, kann die Satzung der Postbeamtenkrankenkasse dazu erm\u00e4chtigen, juristische Personen des Privatrechts zu gr\u00fcnden und zu betreiben, wenn dies geeignet erscheint, den Aufgaben der Postbeamtenkrankenkasse und der Reduzierung der Finanzierungslasten zu dienen. Personalwirtschaftlich darf dies nicht zu Lasten der Besch\u00e4ftigung des bei der Postbeamtenkrankenkasse eingesetzten Personals gehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001001305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE004701305",
+        "type": "article",
+        "name": "\u00a7 26d",
+        "title": "Aufgaben",
+        "body": {
+          "content": "<P>(1) Die Postbeamtenkrankenkasse erbringt nach Ma\u00dfgabe ihrer Satzung f\u00fcr ihre Mitglieder Krankenversicherungsleistungen (Grundversicherung) sowie Versicherungsleistungen nach Ma\u00dfgabe des Pflege-Versicherungsgesetzes, die die Beihilfe in Krankheits-, Pflege- und Geburtsf\u00e4llen erg\u00e4nzen. Sie handelt insoweit \u00f6ffentlich-rechtlich.</P><P>(2) Die Satzung kann vorsehen, dass die Postbeamtenkrankenkasse zus\u00e4tzliche Kranken- und Pflegeversicherungsleistungen (Zusatz- und Erg\u00e4nzungsversicherungen) anbietet.</P><P>(3) Die Postbeamtenkrankenkasse f\u00fchrt gegen Kostenerstattung im Auftrag und nach Weisung der Bundesanstalt die Beihilfebearbeitung nach \u00a7 16 durch. Die Vorschriften \u00fcber die Selbstverwaltung der Postbeamtenkrankenkasse sind nicht anzuwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001001305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG001101305",
+        "type": "heading",
+        "name": "Unterabschnitt 2",
+        "title": "Wirtschaftsf\u00fchrung der Postbeamtenkrankenkasse",
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001001305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE004800308",
+        "type": "article",
+        "name": "\u00a7 26e",
+        "title": "Wirtschaftsplan",
+        "body": {
+          "content": "<P>(1) Der Vorstand der Postbeamtenkrankenkasse stellt f\u00fcr jedes Gesch\u00e4ftsjahr einen Wirtschaftsplan auf, der vom Verwaltungsrat der Postbeamtenkrankenkasse festgestellt wird und der Genehmigung durch die Bundesanstalt bedarf.</P><P>(2) Der Wirtschaftsplan ist getrennt nach den Versicherungszweigen aufzustellen.</P><P>(3) Die Postbeamtenkrankenkasse gew\u00e4hrleistet in den jeweiligen Versicherungszweigen einen dauerhaft ausgeglichenen Haushalt. Die erforderlichen Beitr\u00e4ge werden j\u00e4hrlich nach Ma\u00dfgabe der \u00a7\u00a7 26f und 26g durch die Satzung bestimmt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 3,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE004900308",
+        "type": "article",
+        "name": "\u00a7 26f",
+        "title": "Grunds\u00e4tze der Beitragsgestaltung",
+        "body": {
+          "content": "<P>Grundlage der j\u00e4hrlichen Beitragsberechnung in den einzelnen Versicherungszweigen ist jeweils ein Gutachten, das nach Ma\u00dfgabe der Satzung durch einen vom Verwaltungsrat bestellten Aktuar objektiv und weisungsfrei unter Ber\u00fccksichtigung von Versichertenentwicklung, Schadentrend und voraussichtlicher Entwicklung des Anlageverm\u00f6gens erstellt wird und die im Haushaltsjahr und langfristig erwarteten Ausgaben und Einnahmen mit dem Ziel der Abwicklung der Postbeamtenkrankenkasse ber\u00fccksichtigt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 3,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE005003305",
+        "type": "article",
+        "name": "\u00a7 26g",
+        "title": "Beitr\u00e4ge in der Grundversicherung",
+        "body": {
+          "content": "<P>(1) Grundlage der Beitragsstruktur und der Beitragsh\u00f6he sind in den Beitragstabellen in Anhang 1 zu den \u00a7\u00a7 25 bis 28 der im Amtsblatt des Bundesministers f\u00fcr das Post- und Fernmeldewesen vom 1. April 1987, S. 717 bekannt gegebenen Satzung der Postbeamtenkrankenkasse, zuletzt ge\u00e4ndert durch die 53. \u00c4nderung vom 27. April 2005 (GMBl 2005, S. 733), in der am 31. Dezember 2004 geltenden Fassung enthalten.</P><P>(2) Die Beitragsstruktur kann durch die Satzung ge\u00e4ndert werden. Sie soll ge\u00e4ndert werden, wenn dies zur Gew\u00e4hrleistung eines dauerhaft ausgeglichenen Haushalts erforderlich ist, insbesondere weil erhebliche und nicht nur vor\u00fcbergehende Ver\u00e4nderungen in der Zusammensetzung der Beitragsgruppen oder in ihrem Schadensbedarf eingetreten sind.</P><P>(3) Der Verwaltungsrat bestimmt j\u00e4hrlich auf der Grundlage eines versicherungsmathematischen Gutachtens unter Beachtung der verfassungsrechtlichen Grenze die Mitgliedsbeitr\u00e4ge zur Grundversicherung. Die Beitragsberechnung durch den Versicherungsmathematiker nach \u00a7 26f hat mit dem Ziel der langfristigen Kontinuit\u00e4t der Beitragsanpassung zu erfolgen. In die Berechnung flie\u00dfen die Mittel aus dem Ausgleichsfonds gem\u00e4\u00df \u00a7 26h und die sonstigen Einnahmen gem\u00e4\u00df \u00a7 26c Abs. 2, \u00a7 26d Abs. 2, \u00a7 26g Abs. 5, \u00a7\u00a7 26i und 26k nach Ma\u00dfgabe ihrer Zweckbestimmung mit ein. Die Beitr\u00e4ge d\u00fcrfen die durchschnittliche Beitragsh\u00f6he privater beihilfeerg\u00e4nzender Krankenversicherungen unter Ber\u00fccksichtigung vergleichbarer Leistungen nicht \u00fcbersteigen. Hierbei sind die Durchschnittsbeitr\u00e4ge der gr\u00f6\u00dften Krankenversicherer mit einem Gesamtmarktanteil von mindestens 70 Prozent zugrunde zu legen. Grundlage ist eine Betrachtung der Gesamtheit des Versichertenbestandes \u00fcber den gesamten Versicherungsverlauf. Besonderheiten der unterschiedlichen Versicherungssysteme ist Rechnung zu tragen. Der Beitragsvergleich wird durch einen Versicherungsmathematiker erstellt. Einzelheiten regelt die Satzung.</P><P>(4) (weggefallen)</P><P>(5) Soweit die Beitragsberechnung nach den Abs\u00e4tzen 1 bis 3 die Verwirklichung des Zieles nach \u00a7 26e Abs. 3 Satz 1 nicht gew\u00e4hrleistet, weil die Grenze der Beitragsbemessung nach Absatz 3 erreicht ist, haften die Postnachfolgeunternehmen f\u00fcr sich daraus ergebende langfristige Deckungsl\u00fccken der Postbeamtenkrankenkasse bis zum Abwicklungsende f\u00fcr Mitglieder, die ihnen, der Bundesanstalt und dem ehemaligen Sonderverm\u00f6gen Deutsche Bundespost zuzurechnen sind. Die sich aus der Berechnung ergebende langfristige Deckungsl\u00fccke nach Satz 1 ist der Anteil am Beitragsaufkommen, der in dem jeweiligen Haushaltsjahr nicht erzielt werden kann, weil die Grenze der Beitragsbemessung nach Absatz 3 erreicht ist. F\u00fcr langfristige Deckungsl\u00fccken nach Satz 1 f\u00fcr Mitglieder, die der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation sowie der Museumsstiftung Post und Telekommunikation zuzurechnen sind, haften diese, f\u00fcr andere Mitglieder die Bundesrepublik Deutschland. Grundlage f\u00fcr die Bestimmung der voraussichtlichen Deckungsl\u00fccke nach den S\u00e4tzen 1 und 2 ist das versicherungsmathematische Gutachten nach \u00a7 26f. In verwaltungsgerichtlichen Verfahren, die die Frage des Erreichens der Grenze der Beitragsh\u00f6he zum Gegenstand haben, sind die Postnachfolgeunternehmen zu beteiligen. \u00a7 65 Abs. 2 und \u00a7 66 der Verwaltungsgerichtsordnung sowie \u00a7 66 der Zivilprozessordnung finden auf die Postnachfolgeunternehmen Anwendung. Die Postbeamtenkrankenkasse und die Postnachfolgeunternehmen k\u00f6nnen die Entscheidung \u00fcber die Haftung nach Satz 1 einem Schiedsgericht \u00fcbertragen. Das Eingreifen einer Haftung der Postnachfolgeunternehmen kann in einem Vergleichsvertrag festgestellt werden, dem die Postbeamtenkrankenkasse und die Postnachfolgeunternehmen zustimmen m\u00fcssen.</P><P>(6) Der Beitrag w\u00e4hrend der Elternzeit ist entsprechend den in diesem Fall zu erhebenden Beitr\u00e4gen in der gesetzlichen Krankenversicherung festzusetzen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 3,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE005101305",
+        "type": "article",
+        "name": "\u00a7 26h",
+        "title": "Ausgleichsfonds",
+        "body": {
+          "content": "<P>(1) Die Postbeamtenkrankenkasse bildet zur dauerhaften Haushaltssicherung in der Grundversicherung einen Ausgleichsfonds. Die Postnachfolgeunternehmen zahlen daf\u00fcr den Betrag von 525 Millionen Euro im Verh\u00e4ltnis ihres Versichertenbestandes in der Grundversicherung mit Stand vom 31. Dezember 2004, der vom 1. Januar 2005 bis zum Tag der Gutschrift auf dem Konto der Postbeamtenkrankenkasse von den Postnachfolgeunternehmen mit 5,75 Prozent j\u00e4hrlich zu verzinsen ist.</P><P>(2) Der Verwaltungsrat der Postbeamtenkrankenkasse legt die Grunds\u00e4tze f\u00fcr die Anlage des Fondsverm\u00f6gens in der Satzung fest. Hierbei ist unter Ber\u00fccksichtigung der durch versicherungsmathematisches Gutachten erwarteten Mittelabfl\u00fcsse auf ein ausgewogenes Verh\u00e4ltnis zwischen Rentabilit\u00e4t und Sicherheit der Anlage unter Wahrung angemessener Mischung und Streuung zu achten.</P><P>(3) Die Ertr\u00e4ge des Fondsverm\u00f6gens und - soweit erforderlich - das Fondsverm\u00f6gen selbst werden auf der Grundlage des Wirtschaftsplans zur Deckung der Leistungsausgaben f\u00fcr die Mitglieder und ihre mitversicherten Angeh\u00f6rigen aus dem Bereich der Postnachfolgeunternehmen, der Bundesanstalt und des ehemaligen Sonderverm\u00f6gens Deutsche Bundespost, die nicht unter den Personenkreis des \u00a7 26i Abs. 2 fallen, verwendet, soweit sich ein ausgeglichener Haushalt mit Anpassungen der Beitr\u00e4ge nach \u00a7 26g (Beitr\u00e4ge in der Grundversicherung) und mit anderen Einnahmen nach \u00a7 26c Abs. 2, \u00a7 26d Abs. 2, \u00a7\u00a7 26i und 26k nicht gew\u00e4hrleisten l\u00e4sst. Im \u00dcbrigen entscheidet der Verwaltungsrat nach pflichtgem\u00e4\u00dfem Ermessen \u00fcber die Verwendung des Fondsverm\u00f6gens und dessen Ertr\u00e4ge, sofern bei der j\u00e4hrlichen Erstellung des versicherungsmathematischen Gutachtens festgestellt wird, dass das Ziel eines dauerhaft ausgeglichenen Haushalts nicht gef\u00e4hrdet wird. Der Verwaltungsrat hat Ertr\u00e4ge aus dem Fondsverm\u00f6gen und das Fondsverm\u00f6gen selbst bis zum Abwicklungsende aufzubrauchen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 3,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE005203305",
+        "type": "article",
+        "name": "\u00a7 26i",
+        "title": "Sonstige Einnahmen",
+        "body": {
+          "content": "<P>(1) Die Beihilfepauschale f\u00fcr die Mitglieder der Gruppe A der Postbeamtenkrankenkasse und der Zuschuss der Postnachfolgeunternehmen im Sinne des \u00a7 69 der Satzung der Postbeamtenkrankenkasse (\u00a7 26g Abs. 1) in der am Tage des Inkrafttretens des Artikels 1 dieses Gesetzes geltenden Fassung werden nach den am Tage vor dem Inkrafttreten des Artikels 1 dieses Gesetzes geltenden Grunds\u00e4tzen ermittelt.</P><P>(2) Ausgaben f\u00fcr Mitglieder, die der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, der Museumsstiftung Post und Telekommunikation und der Bundesrepublik Deutschland mit Ausnahme der Bundesanstalt zuzurechnen sind, werden von diesen getragen, soweit sie nicht durch Beitr\u00e4ge nach \u00a7 26g gedeckt sind. Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, die Museumsstiftung Post und Telekommunikation und die Bundesrepublik Deutschland k\u00f6nnen ihre Verpflichtungen dadurch abl\u00f6sen, dass sie einen dem ihnen zuzurechnenden Mitgliederbestand in der Grundversicherung entsprechenden Betrag in den nach \u00a7 26h Abs. 1 Satz 1 zu bildenden Ausgleichsfonds zahlen. \u00a7 26h Abs. 1 Satz 2 gilt entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 3,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE005301305",
+        "type": "article",
+        "name": "\u00a7 26j",
+        "title": "Freistellung der Bundesrepublik Deutschland",
+        "body": {
+          "content": "<P>(1) Soweit die Bundesrepublik Deutschland von Mitgliedern oder Versicherten, f\u00fcr die die Postnachfolgeunternehmen zur Aus\u00fcbung der Dienstherrnbefugnisse erm\u00e4chtigt sind, wegen \u00dcberschreitung der verfassungsrechtlich zul\u00e4ssigen Beitragsgrenze in der Grundversicherung in Anspruch genommen werden, haften ihr die Postnachfolgeunternehmen. \u00a7 257 des B\u00fcrgerlichen Gesetzbuchs findet Anwendung. F\u00fcr Anspr\u00fcche von Mitgliedern und Versicherten, bei denen die Bundesanstalt die Dienstherrenbefugnisse aus\u00fcbt, gilt Satz 1 gegen\u00fcber der Bundesanstalt entsprechend. Die Postnachfolgeunternehmen erstatten der Bundesrepublik Deutschland Mehrkosten, die ihr im jeweiligen Haushaltsjahr gegen\u00fcber der Rechtslage dieses Gesetzes in der Fassung vom 14. September 1994 (BGBl. I S. 2325), zuletzt ge\u00e4ndert durch Artikel 217 der Verordnung vom 25. November 2003 (BGBl. I S. 2304), aus dem Betrieb der Postbeamtenkrankenkasse entstehen.</P><P>(2) Verfahren, die Anspr\u00fcche nach Absatz 1 zum Gegenstand haben, zeigt die Bundesrepublik Deutschland den Postnachfolgeunternehmen an. Die Postnachfolgeunternehmen werden in verwaltungsgerichtlichen Verfahren gem\u00e4\u00df \u00a7 26g Abs. 5 Satz 4 und in zivilgerichtlichen Verfahren nach \u00a7 66 der Zivilprozessordnung beteiligt. Die Bundesrepublik Deutschland weist die Gerichte auf das Beteiligungsrecht der Postnachfolgeunternehmen hin.</P><P>(3) Soweit durch Rechtsverletzungen der Postbeamtenkrankenkasse Anspr\u00fcche nach Absatz 1 entstehen k\u00f6nnten, wirkt die Bundesrepublik Deutschland durch Aus\u00fcbung ihrer Aufsichtsbefugnisse diesen Rechtsverletzungen auch auf Hinweis der Postnachfolgeunternehmen entgegen.</P><P>(4) Die Postnachfolgeunternehmen haben gegen\u00fcber der Bundesrepublik Deutschland unstreitige oder rechtskr\u00e4ftig festgestellte Forderungen unverz\u00fcglich auszugleichen. Soweit die Bundesrepublik Deutschland die Rechtsverteidigung gegen Forderungen \u00fcbernimmt oder Rechtsmittel einlegt und unterliegt, tragen die Postnachfolgeunternehmen die Verfahrenskosten, soweit sie der Bundesrepublik Deutschland auferlegt werden, es sei denn, sie haben der ihnen angezeigten Rechtsverteidigung widersprochen. Die Bundesrepublik Deutschland tritt etwaige Anspr\u00fcche an die Postnachfolgeunternehmen ab, die ihr im Zusammenhang mit den Anspr\u00fcchen nach Absatz 1 erwachsen sind.</P><P>(5) Die Postnachfolgeunternehmen leisten den Ausgleich nach den Abs\u00e4tzen 1 und 4 nach dem Verh\u00e4ltnis der Zahl ihrer Mitglieder in der Postbeamtenkrankenkasse (besch\u00e4ftigte Beamtinnen und Beamte und Versorgungsempf\u00e4ngerinnen und Versorgungsempf\u00e4nger) und deren mitversicherten Angeh\u00f6rigen zur Gesamtzahl der Mitglieder und mitversicherten Angeh\u00f6rigen.</P><P>(6) Die Bundesrepublik Deutschland und die Postnachfolgeunternehmen schlie\u00dfen eine vertragliche Vereinbarung zur Durchf\u00fchrung der Regelungen nach den Abs\u00e4tzen 1 bis 5.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 3,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE005403305",
+        "type": "article",
+        "name": "\u00a7 26k",
+        "title": "Verteilung des Verwaltungsaufwands, Verordnungserm\u00e4chtigung",
+        "body": {
+          "content": "<P>Die der Bundesanstalt aus der Weiterf\u00fchrung der Postbeamtenkrankenkasse entstehenden Kosten, einschlie\u00dflich der kalkulatorischen Kosten, und der nach Ma\u00dfgabe des \u00a7 19 Absatz 1 anfallende Gewinnzuschlag (Verwaltungsaufwand) werden abgerechnet und von der Postbeamtenkrankenkasse, der Bundesanstalt, den Postnachfolgeunternehmen, dem Bund und anderen Dienstherren sowie den Mitgliedern der Postbeamtenkrankenkasse getragen. Das Bundesministerium der Finanzen regelt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Abrechnung des Verwaltungsaufwands und die Verteilung des Verwaltungsaufwands auf die Kostentr\u00e4ger sowie das N\u00e4here zur Kostenerstattung nach \u00a7 26d Absatz 3 Satz 1.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 3,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE006100305",
+        "type": "article",
+        "name": "\u00a7 26l",
+        "title": "Beihilfebearbeitung f\u00fcr andere Stellen",
+        "body": {
+          "content": "<P>Die Postbeamtenkrankenkasse kann nach Ma\u00dfgabe \u00f6ffentlich-rechtlicher Gesch\u00e4ftsbesorgungsvertr\u00e4ge f\u00fcr K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts gegen Entgelt die folgenden Aufgaben ganz oder teilweise \u00fcbernehmen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Beihilfebearbeitung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die F\u00fchrung der Beihilfeakten und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Geltendmachung von Schadensersatzanspr\u00fcchen, soweit diese Beihilfeleistungen betreffen.</LA></DD></DL>Die \u00dcbernahme bedarf der Zustimmung der jeweils zust\u00e4ndigen obersten Dienstbeh\u00f6rde und der Bundesanstalt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 3,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001101305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG001201305",
+        "type": "heading",
+        "name": "Unterabschnitt 3",
+        "title": "Wohnungsf\u00fcrsorge",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000802305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE003701305",
+        "type": "article",
+        "name": "\u00a7 27",
+        "title": "Wohnungsf\u00fcrsorge",
+        "body": {
+          "content": "<P>Die Bundesanstalt legt die Grunds\u00e4tze der Wohnungsf\u00fcrsorge f\u00fcr die Postnachfolgeunternehmen fest.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001201305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE005600305",
+        "type": "article",
+        "name": "\u00a7 28",
+        "title": "\u00dcbergangsregelung im Sozialwesen",
+        "body": {
+          "content": "<P>(1) F\u00fcr die bis zum Inkrafttreten dieses Gesetzes im Bereich der fr\u00fcheren Deutschen Bundespost besch\u00e4ftigten Beamtinnen und Beamten, Angestellten, Arbeiterinnen und Arbeiter und Auszubildenden ist der erworbene Besitzstand von den Postnachfolgeunternehmen und der Bundesanstalt nach Ma\u00dfgabe des Gesetzes zur Reorganisation der Bundesanstalt f\u00fcr Post und Telekommunikation Deutsche Bundespost und zur \u00c4nderung anderer Gesetze zu wahren.</P><P>(2) F\u00fcr Besch\u00e4ftigte der Bundesanstalt, des fr\u00fcheren Bundesministeriums f\u00fcr Post und Telekommunikation und seines nachgeordneten Bereichs sowie der fr\u00fcheren Unfallkasse Post und Telekom und der Museumsstiftung gilt der Besitzstand nach Ma\u00dfgabe des Gesetzes zur Reorganisation der Bundesanstalt f\u00fcr Post und Telekommunikation Deutsche Bundespost und zur \u00c4nderung anderer Gesetze weiter. Dies gilt entsprechend auch f\u00fcr die Versorgungs- und Rentenempf\u00e4nger in den genannten Bereichen.</P><P>(3) Die betrieblichen Sozialeinrichtungen der fr\u00fcheren Deutschen Bundespost sind bis zur Anpassung der Satzungen an die sich aus dem Gesetz zur Reorganisation der Bundesanstalt f\u00fcr Post und Telekommunikation Deutsche Bundespost und zur \u00c4nderung anderer Gesetze ergebenden Rechtsfolgen unter Betreuung des bislang erfa\u00dften Personenkreises nach den bislang geltenden Regelungen weiterzuf\u00fchren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG001201305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNG000901305",
+        "type": "heading",
+        "name": "Abschnitt 9",
+        "title": "\u00dcbergangsregelungen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR232510994BJNE003901308",
+        "type": "article",
+        "name": "\u00a7 29",
+        "title": "Verm\u00f6gens\u00fcbergang",
+        "body": {
+          "content": "<P>Der Bundesanstalt sind nach n\u00e4herer Ma\u00dfgabe der \u00a7\u00a7 13 und 14 des Postumwandlungsgesetzes ohne Wertausgleich alle Verm\u00f6gensgegenst\u00e4nde des Sonderverm\u00f6gens Deutsche Bundespost einschlie\u00dflich beschr\u00e4nkter dinglicher Rechte, die der Deutschen Bundespost pers\u00f6nlich einger\u00e4umt sind, zu \u00fcbertragen, die sie zur Wahrnehmung ihrer Aufgaben ben\u00f6tigt. Dabei gehen mit den Verm\u00f6gensrechten gleichzeitig die mit ihnen im Zusammenhang stehenden Verbindlichkeiten und Forderungen \u00fcber.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000901305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE004002305",
+        "type": "article",
+        "name": "\u00a7 30",
+        "title": "(weggefallen)",
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000901305"
+        }
+      },
+      {
+        "id": "BJNR232510994BJNE004100320",
+        "type": "article",
+        "name": "Anlage",
+        "title": "(zu \u00a7 8 Satz 1)",
+        "body": {
+          "content": "<P>Satzung der Bundesanstalt f\u00fcr Post und Telekommunikation Deutsche Bundespost (Text siehe: BAPostSa)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR232510994BJNG000901305"
+        }
+      }
+    ]
+  }
+}

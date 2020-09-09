@@ -1,0 +1,543 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR007810005",
+    "abbreviation": "LuftSiG",
+    "extraAbbreviations": [],
+    "firstPublished": "2005-01-11",
+    "sourceTimestamp": "20200602212501",
+    "headingShort": null,
+    "headingLong": "Luftsicherheitsgesetz",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "2005, 78"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 154 G v. 20.11.2019 I 1626"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "\u00c4nderung durch Art. 1 G v. 22.4.2020 I 840 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 15.1.2005 +++)<BR/> <BR/>(+++ Zur Anwendung vgl. \u00a7\u00a7 9a u. 22 +++)<BR/><BR/></pre>Das G wurde als Artikel 1 des G v. 11.1.2005 I 78 vom Bundestag beschlossen. Es  ist gem. Art. 9 dieses G am 15.1.2005 in Kraft getreten.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR007810005BJNE000103124",
+        "type": "article",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "body": {
+          "content": "<P><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\"/><colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\"/><colspec colname=\"col3\" colnum=\"3\" colwidth=\"100*\"/><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 1</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Allgemeines</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 1</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zweck</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 2</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufgaben</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 2</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Sicherheitsma\u00dfnahmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 3</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Allgemeine Befugnisse der Luftsicherheitsbeh\u00f6rde</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a7 3a</entry><entry VJ=\"1\">Flugverbot</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 4</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 5</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besondere Befugnisse der Luftsicherheitsbeh\u00f6rden</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 6</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verarbeitung personenbezogener Daten</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 7</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfungen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a7 7a</entry><entry VJ=\"1\">Gemeinsames Luftsicherheitsregister</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 8</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sicherheitsma\u00dfnahmen der Flugplatzbetreiber</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 9</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sicherheitsma\u00dfnahmen der Luftfahrtunternehmen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a7 9a</entry><entry VJ=\"1\">Sicherheitsma\u00dfnahmen der Beteiligten an der sicheren Lieferkette</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 10</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zugangsberechtigungen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a7 10a</entry><entry VJ=\"1\">Sicherheitsausr\u00fcstung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 11</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verbotene Gegenst\u00e4nde</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 12</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugf\u00fchrers</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 3</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Unterst\u00fctzung und Amtshilfe durch die Streitkr\u00e4fte</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 13</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Entscheidung der Bundesregierung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 14</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einsatzma\u00dfnahmen, Anordnungsbefugnis</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 15</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Ma\u00dfnahmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 4</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Zust\u00e4ndigkeit und Verfahren</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 16</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zust\u00e4ndigkeiten</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a7 16a</entry><entry VJ=\"1\">Beleihung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 17</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erm\u00e4chtigung zum Erlass von Rechtsverordnungen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a7 17a</entry><entry VJ=\"1\">Geb\u00fchren und Auslagen; Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 5</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Bu\u00dfgeld- und Strafvorschriften</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 18</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bu\u00dfgeldvorschriften</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 19</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Strafvorschriften</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 20</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bu\u00dfgeld- und Strafvorschriften zu \u00a7 12</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 6</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Schlussbestimmung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 21</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Grundrechtseinschr\u00e4nkungen</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a7 22</entry><entry VJ=\"1\">\u00dcbergangsregelung</entry></row></tbody></tgroup></table></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR007810005BJNG000100000",
+        "type": "heading",
+        "name": "Abschnitt 1",
+        "title": "Allgemeines",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR007810005BJNE000201305",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Zweck",
+        "body": {
+          "content": "<P>Dieses Gesetz dient dem Schutz vor Angriffen auf die Sicherheit des zivilen Luftverkehrs, insbesondere vor Flugzeugentf\u00fchrungen, Sabotageakten und terroristischen Anschl\u00e4gen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE000301305",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Aufgaben",
+        "body": {
+          "content": "<P>Die Luftsicherheitsbeh\u00f6rde hat die Aufgabe, Angriffe auf die Sicherheit des Luftverkehrs im Sinne des \u00a7 1 abzuwehren. Dazu geh\u00f6rt insbesondere, dass sie: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Flugg\u00e4ste und deren Gep\u00e4ck nach \u00a7 5 kontrolliert,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfungen nach \u00a7 7 vornimmt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Luftsicherheitsprogramme nach \u00a7 8 Absatz 1 Satz 2 und \u00a7 9 Absatz 1 Satz 2 zul\u00e4sst,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sicherheitsausr\u00fcstung nach \u00a7 10a zertifiziert und zul\u00e4sst,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sicherheitsma\u00dfnahmen der Flugplatzbetreiber nach \u00a7 8, der Luftfahrtunternehmen nach \u00a7 9 und der Beteiligten an der sicheren Lieferkette nach \u00a7 9a anordnet und deren Einhaltung \u00fcberwacht.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000100000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNG000200000",
+        "type": "heading",
+        "name": "Abschnitt 2",
+        "title": "Sicherheitsma\u00dfnahmen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR007810005BJNE000401305",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Allgemeine Befugnisse der Luftsicherheitsbeh\u00f6rde",
+        "body": {
+          "content": "<P>(1) Die Luftsicherheitsbeh\u00f6rde trifft die notwendigen Ma\u00dfnahmen, um eine im Einzelfall bestehende Gefahr f\u00fcr die Sicherheit des zivilen Luftverkehrs abzuwehren, soweit nicht dieses Gesetz ihre Befugnisse besonders regelt.</P><P>(2) Die Luftsicherheitsbeh\u00f6rde kann die ordnungsgem\u00e4\u00dfe Durchf\u00fchrung oder die Wiederholung von nicht durch Verwaltungsakt getroffenen Sicherheitsma\u00dfnahmen anordnen, wenn tats\u00e4chliche Anhaltspunkte daf\u00fcr vorliegen, dass Sicherheitsma\u00dfnahmen nicht oder nicht ordnungsgem\u00e4\u00df durchgef\u00fchrt wurden. In diesen F\u00e4llen kann die Luftsicherheitsbeh\u00f6rde erg\u00e4nzend oder alternativ auch angemessene Ausgleichsma\u00dfnahmen anordnen. Widerspruch und Anfechtungsklage gegen Anordnungen nach den S\u00e4tzen 1 und 2 haben keine aufschiebende Wirkung.</P><P>(3) Die Luftsicherheitsbeh\u00f6rde kann Verf\u00fcgungen nach diesem Gesetz mit Zwangsmitteln nach dem Verwaltungs-Vollstreckungsgesetz durchsetzen. Die H\u00f6he des Zwangsgeldes betr\u00e4gt bis zu 500\u00a0000 Euro.</P><P>(4) Die Luftsicherheitsbeh\u00f6rde darf innerhalb der Gesch\u00e4fts- und Arbeitsstunden Luftfahrzeuge, Betriebs- und Gesch\u00e4ftsr\u00e4ume sowie die dazugeh\u00f6rigen Grundst\u00fccke betreten, besichtigen und dort Pr\u00fcfungen vornehmen, soweit dies zur Durchf\u00fchrung ihrer Aufgaben nach diesem Gesetz erforderlich ist; au\u00dferhalb der Gesch\u00e4fts- und Arbeitsstunden d\u00fcrfen diese \u00d6rtlichkeiten nur zur Verh\u00fctung dringender Gefahren f\u00fcr die \u00f6ffentliche Sicherheit oder Ordnung betreten und besichtigt werden. Luftfahrzeuge, Betriebs- und Gesch\u00e4ftsr\u00e4ume, die zugleich zu Wohnzwecken dienen, d\u00fcrfen nur zur Verh\u00fctung dringender Gefahren f\u00fcr die \u00f6ffentliche Sicherheit oder Ordnung betreten und besichtigt werden.</P><P>(5) Die Aufgaben und Befugnisse der Polizeivollzugsbeh\u00f6rden bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002300305",
+        "type": "article",
+        "name": "\u00a7 3a",
+        "title": "Flugverbot",
+        "body": {
+          "content": "<P>(1) Bei tats\u00e4chlichen Anhaltspunkten f\u00fcr eine erhebliche Gef\u00e4hrdung der Luftsicherheit kann die Luftsicherheitsbeh\u00f6rde f\u00fcr einzelne Luftfahrzeuge oder eine n\u00e4her bestimmte Gruppe von Luftfahrzeugen f\u00fcr alle oder bestimmte Bef\u00f6rderungsarten ein Einflug-, \u00dcberflug- oder Startverbot verh\u00e4ngen. Das Verbot kann ungeachtet einer Erlaubnis oder einer Erlaubnisfreiheit nach \u00a7 2 Absatz 7 des Luftverkehrsgesetzes verh\u00e4ngt werden. Widerspruch und Anfechtungsklage gegen die Anordnung nach Satz 1 haben keine aufschiebende Wirkung. Eine Kombination mehrerer Ma\u00dfnahmen nach Satz 1 ist m\u00f6glich. Das Verbot ist auf das gebotene Ma\u00df zu beschr\u00e4nken, zeitlich zu befristen und kann bei Fortbestehen der Gef\u00e4hrdungslage nach Satz 1 im erforderlichen Umfang, auch mehrfach, verl\u00e4ngert werden.</P><P>(2) Fliegt ein Luftfahrtunternehmen Fracht oder Post aus einem Drittstaat zwecks Transfer, Transit oder zum Entladen in die Bundesrepublik Deutschland ein, ohne als Unternehmen, das Luftfracht oder Luftpost von einem Drittstaaten-Flughafen in die Europ\u00e4ische Union bef\u00f6rdert (ACC3) nach Kapitel 6.8. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 der Kommission vom 5. November 2015 zur Festlegung detaillierter Ma\u00dfnahmen f\u00fcr die Durchf\u00fchrung der gemeinsamen Grundstandards f\u00fcr die Luftsicherheit (ABl. L 299 vom 14.11.2015, S. 1) in der jeweils geltenden Fassung benannt zu sein oder verst\u00f6\u00dft es gegen seine Pflichten nach den Ziffern 6.8.3.1. bis 6.8.3.3. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998, so kann die Luftsicherheitsbeh\u00f6rde gegen\u00fcber diesem ein Flugverbot im Sinne des Absatzes 1 verh\u00e4ngen. Widerspruch und Anfechtungsklage gegen die Anordnung haben keine aufschiebende Wirkung. Absatz 1 Satz 4 gilt entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE000500000",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit",
+        "body": {
+          "content": "<P>(1) Von mehreren m\u00f6glichen und geeigneten Ma\u00dfnahmen ist diejenige zu treffen, die den Einzelnen oder die Allgemeinheit voraussichtlich am wenigsten beeintr\u00e4chtigt.</P><P>(2) Eine Ma\u00dfnahme darf nicht zu einem Nachteil f\u00fchren, der zu dem erstrebten Erfolg erkennbar au\u00dfer Verh\u00e4ltnis steht.</P><P>(3) Eine Ma\u00dfnahme ist nur solange zul\u00e4ssig, bis ihr Zweck erreicht ist oder sich zeigt, dass er nicht erreicht werden kann.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE000601305",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Besondere Befugnisse der Luftsicherheitsbeh\u00f6rden",
+        "body": {
+          "content": "<P>(1) Die Luftsicherheitsbeh\u00f6rde kann Personen, welche den Sicherheitsbereich des Flugplatzes betreten haben oder betreten wollen, durchsuchen oder in sonstiger geeigneter Weise \u00fcberpr\u00fcfen. Sie kann Gegenst\u00e4nde durchsuchen, durchleuchten oder in sonstiger geeigneter Weise \u00fcberpr\u00fcfen, die in diese Bereiche verbracht wurden oder werden sollen. Die Luftsicherheitsbeh\u00f6rde kann die Orte, an denen die Sicherheitskontrollen stattfinden, durch bewaffnete Polizeivollzugsbeamte sch\u00fctzen, die Sicherheitsbereiche des Flughafens bestreifen und gef\u00e4hrdete Flugzeuge durch bewaffnete Standposten sichern.</P><P>(2) Die Luftsicherheitsbeh\u00f6rde kann Flugg\u00e4ste, Mitarbeiter der Flugplatzbetreiber, der Luftfahrtunternehmen und anderer Unternehmen sowie sonstige Personen, welche die Luftseite des Flugplatzes betreten haben oder betreten wollen, insbesondere anhalten und aus diesen Bereichen verweisen, wenn diese Personen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Berechtigung zum Betreten nicht nachweisen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Durchsuchung ihrer Person und mitgef\u00fchrter Gegenst\u00e4nde oder deren \u00dcberpr\u00fcfung in sonstiger geeigneter Weise vor dem Betreten des Sicherheitsbereichs durch die Luftsicherheitsbeh\u00f6rde nach den in \u00a7 11 Abs. 1 genannten Gegenst\u00e4nden ablehnen oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in \u00a7 11 Abs. 1 genannte Gegenst\u00e4nde oder sonstige Gegenst\u00e4nde, die bei der Durchsuchung oder \u00dcberpr\u00fcfung festgestellt werden und die sich zu Angriffen auf Personen oder zur Besch\u00e4digung von Luftfahrzeugen eignen, nicht au\u00dferhalb des Sicherheitsbereichs des Flugplatzes zur\u00fccklassen oder nicht dem Luftfahrtunternehmen zur Bef\u00f6rderung \u00fcbergeben.</LA></DD></DL></P><P>(3) Die Luftsicherheitsbeh\u00f6rde kann Fracht, aufgegebenes Gep\u00e4ck, Postsendungen und sonstige Gegenst\u00e4nde, die in Sicherheitsbereiche des Flugplatzes verbracht wurden oder verbracht werden sollen, nach den in \u00a7 11 Abs. 1 genannten Gegenst\u00e4nden durchsuchen, durchleuchten oder in sonstiger geeigneter Weise \u00fcberpr\u00fcfen. Bei Postsendungen findet Satz 1 mit der Ma\u00dfgabe Anwendung, dass diese nur ge\u00f6ffnet werden d\u00fcrfen, wenn bestimmte Tatsachen die Annahme begr\u00fcnden, dass sich darin verbotene Gegenst\u00e4nde im Sinne des \u00a7 11 Absatz 1 Satz 2 oder Gegenst\u00e4nde, deren Bef\u00f6rderung gegen \u00a7 27 des Luftverkehrsgesetzes verst\u00f6\u00dft, befinden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 5 Abs. 3 Satz 2: Zur Anwendung vgl. \u00a7 9a Abs. 3 Satz 4 +++)</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE000701126",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Verarbeitung personenbezogener Daten",
+        "body": {
+          "content": "<P>(1) Die Befugnis zur Verarbeitung personenbezogener Daten richtet sich nach den f\u00fcr die Luftsicherheitsbeh\u00f6rden geltenden Vorschriften des Bundes- oder Landesrechts, soweit dieses Gesetz nichts anderes bestimmt.</P><P>(2) Unbeschadet einer sich aus Absatz 1 ergebenden \u00dcbermittlungsbefugnis d\u00fcrfen die Luftsicherheitsbeh\u00f6rden personenbezogene Daten an \u00f6ffentliche Stellen au\u00dferhalb des Geltungsbereichs dieses Gesetzes \u00fcbermitteln, wenn dies zur Abwehr unmittelbar drohender erheblicher Gefahren f\u00fcr die Sicherheit des Luftverkehrs, insbesondere bei erfolgten oder drohenden terroristischen Angriffen, erforderlich ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE000805124",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfungen",
+        "body": {
+          "content": "<P>(1) Zum Schutz vor Angriffen auf die Sicherheit des zivilen Luftverkehrs (\u00a7 1) hat die Luftsicherheitsbeh\u00f6rde die Zuverl\u00e4ssigkeit folgender Personen zu \u00fcberpr\u00fcfen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, denen zur Aus\u00fcbung einer beruflichen T\u00e4tigkeit nicht nur gelegentlich Zugang zum Sicherheitsbereich des Gel\u00e4ndes eines Flugplatzes im Sinne des \u00a7 8 oder zu einem \u00fcberlassenen Bereich eines Luftfahrtunternehmens im Sinne des \u00a7 9 gew\u00e4hrt werden soll,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personal der Flugplatz- und Luftfahrtunternehmen, der Flugsicherungsorganisation sowie der Luftwerften und Instandhaltungsbetriebe, Fracht-, Post- und Reinigungsunternehmen sowie der Warenlieferanten und vergleichbarer Versorgungsunternehmen, insbesondere auch der Beteiligten an der sicheren Lieferkette, das auf Grund seiner T\u00e4tigkeit unmittelbaren Einfluss auf die Sicherheit des Luftverkehrs hat; sofern sich die vorgenannten Unternehmen des Personals anderer Unternehmen bedienen, steht dieses eigenem Personal gleich,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nat\u00fcrliche Personen, die nach \u00a7 16a Absatz 1 als Beliehene eingesetzt werden oder die dort genannten Aufgaben f\u00fcr beliehene teilrechtsf\u00e4hige Vereinigungen oder beliehene juristische Personen des Privatrechts wahrnehmen sollen, sowie Personen, die als Ausbilder oder EU-Validierungspr\u00fcfer f\u00fcr die Luftsicherheit nach den Ziffern 11.5. oder 11.6. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 t\u00e4tig sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Luftfahrer im Sinne des \u00a7 4 Abs. 1 Satz 1 in Verbindung mit \u00a7 1 Abs. 2 Nr. 1 bis 3 und 5 des Luftverkehrsgesetzes und entsprechende Flugsch\u00fcler sowie</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mitglieder von flugplatzans\u00e4ssigen Vereinen, Sch\u00fclerpraktikanten oder F\u00fchrer von Luftfahrzeugen im Sinne von \u00a7 1 Absatz 2 des Luftverkehrsgesetzes oder sonstige Berechtigte, denen nicht nur gelegentlich Zugang zu <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Sicherheitsbereich des Gel\u00e4ndes eines Flugplatzes im Sinne des \u00a7 8 oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">den \u00fcberlassenen Bereichen nach \u00a7 9 Absatz 1 Nummer 2</LA></DD></DL>gew\u00e4hrt werden soll.</LA></DD></DL>Ein unmittelbarer Einfluss auf die Sicherheit des Luftverkehrs im Sinne von Satz 1 Nummer 2 ist insbesondere anzunehmen bei Personen, die in Sicherheitsbereichen oder in anderen Bereichen als Sicherheitsbereichen Kontrollen und Zugangskontrollen oder andere Sicherheitskontrollen durchf\u00fchren oder die Verantwortung f\u00fcr die Durchf\u00fchrung dieser Kontrollen tragen.</P><P>(1a) Die Luftsicherheitsbeh\u00f6rde bewertet die Zuverl\u00e4ssigkeit der betroffenen Person auf Grund einer Gesamtw\u00fcrdigung des Einzelfalles. In der Regel fehlt es an der erforderlichen Zuverl\u00e4ssigkeit, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die betroffene Person wegen einer vors\u00e4tzlichen Straftat zu einer Freiheitsstrafe, Jugendstrafe oder Geldstrafe von mindestens 60 Tagess\u00e4tzen oder mindestens zweimal zu einer geringeren Geldstrafe verurteilt worden ist, wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung f\u00fcnf Jahre noch nicht verstrichen sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die betroffene Person wegen eines Verbrechens oder wegen sonstiger vors\u00e4tzlicher Straftaten zu einer Freiheitsstrafe von mindestens einem Jahr verurteilt worden ist, wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung zehn Jahre noch nicht verstrichen sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn tats\u00e4chliche Anhaltspunkte daf\u00fcr bestehen, dass die betroffene Person Bestrebungen nach \u00a7 3 Absatz 1 des Bundesverfassungsschutzgesetzes verfolgt oder unterst\u00fctzt oder in den letzten zehn Jahren verfolgt oder unterst\u00fctzt hat.</LA></DD></DL>Bei sonstigen Verurteilungen oder beim Vorliegen sonstiger Erkenntnisse ist im Wege der Gesamtw\u00fcrdigung nach Satz 1 zu pr\u00fcfen, ob sich daraus im Hinblick auf die Sicherheit des Luftverkehrs Zweifel an der Zuverl\u00e4ssigkeit der betroffenen Person ergeben. Als sonstige Erkenntnisse kommen insbesondere in Betracht: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">laufende oder eingestellte Ermittlungs- oder Strafverfahren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sachverhalte, aus denen sich eine Erpressbarkeit durch Dritte ergibt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sachverhalte, aus denen sich Zweifel am Bekenntnis zur freiheitlichen demokratischen Grundordnung ergeben,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Alkohol-, Rauschmittel- oder Medikamentenabh\u00e4ngigkeit oder regelm\u00e4\u00dfiger Missbrauch dieser Substanzen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angabe von unterschiedlichen beziehungsweise falschen Identit\u00e4ten bei beh\u00f6rdlichen Vorg\u00e4ngen.</LA></DD></DL></P><P>(2) Die \u00dcberpr\u00fcfung erfolgt auf Antrag der betroffenen Person. Die Kosten f\u00fcr die \u00dcberpr\u00fcfung zur Aus\u00fcbung einer beruflichen T\u00e4tigkeit tr\u00e4gt der Arbeitgeber.<BR/>Die betroffene Person ist bei Antragstellung \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zust\u00e4ndige Luftsicherheitsbeh\u00f6rde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Zweck der Datenverarbeitung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Stellen, deren Beteiligung nach Absatz 3 Satz 1 Nr. 2 bis 5 und Absatz 4 in Betracht kommt, sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcbermittlungsempf\u00e4nger nach Absatz 7 Satz 2 und 3</LA></DD></DL>zu unterrichten.<BR/>Auf Antrag der betroffenen Person entf\u00e4llt die \u00dcberpr\u00fcfung, wenn die betroffene Person nach \u00a7 9 oder \u00a7 10 des Sicherheits\u00fcberpr\u00fcfungsgesetzes \u00fcberpr\u00fcft wurde. \u00dcber das Entfallen einer \u00dcberpr\u00fcfung unterrichtet die Luftsicherheitsbeh\u00f6rde die nach \u00a7 3 oder \u00a7 25 des Sicherheits\u00fcberpr\u00fcfungsgesetzes zust\u00e4ndige Stelle. Die nach \u00a7 3 oder \u00a7 25 des Sicherheits\u00fcberpr\u00fcfungsgesetzes zust\u00e4ndige Stelle informiert die Luftsicherheitsbeh\u00f6rde, wenn ein Sicherheitsrisiko nach \u00a7 5 des Sicherheits\u00fcberpr\u00fcfungsgesetzes festgestellt oder die Betrauung der betroffenen Person mit einer sicherheitsempfindlichen T\u00e4tigkeit gem\u00e4\u00df \u00a7 16 Absatz 3 Satz 1 des Sicherheits\u00fcberpr\u00fcfungsgesetzes vorl\u00e4ufig untersagt wurde.</P><P>(3) Zur \u00dcberpr\u00fcfung der Zuverl\u00e4ssigkeit darf die Luftsicherheitsbeh\u00f6rde <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Identit\u00e4t der betroffenen Person \u00fcberpr\u00fcfen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anfragen bei den Polizeivollzugs- und den Verfassungsschutzbeh\u00f6rden der L\u00e4nder, der Bundespolizei und dem Zollkriminalamt sowie, soweit im Einzelfall erforderlich, dem Bundeskriminalamt, dem Bundesamt f\u00fcr Verfassungsschutz, dem Bundesnachrichtendienst, dem Milit\u00e4rischen Abschirmdienst und der Bundesbeauftragten f\u00fcr die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik nach vorhandenen, f\u00fcr die Beurteilung der Zuverl\u00e4ssigkeit bedeutsamen Informationen stellen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">unbeschr\u00e4nkte Ausk\u00fcnfte aus dem Bundeszentralregister, eine Auskunft aus dem Erziehungsregister und eine Auskunft aus dem Zentralen Staatsanwaltschaftlichen Verfahrensregister einholen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei ausl\u00e4ndischen betroffenen Personen um eine Auskunft aus dem Ausl\u00e4nderzentralregister ersuchen und, soweit im Einzelfall erforderlich, Anfragen an die zust\u00e4ndigen Ausl\u00e4nderbeh\u00f6rden nach Anhaltspunkten f\u00fcr eine Beeintr\u00e4chtigung der \u00f6ffentlichen Sicherheit durch die betroffene Person richten,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit im Einzelfall erforderlich, Anfragen an die Flugplatzbetreiber und Luftfahrtunternehmen sowie an die Arbeitgeber der letzten f\u00fcnf Jahre und den gegenw\u00e4rtigen Arbeitgeber der betroffenen Person nach dort vorhandenen, f\u00fcr die Beurteilung der Zuverl\u00e4ssigkeit bedeutsamen Informationen richten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">in F\u00e4llen der \u00dcberpr\u00fcfung von Beliehenen nach \u00a7 16a Anhaltspunkte, die gegen eine Beleihung sprechen k\u00f6nnten, mit der beleihenden Beh\u00f6rde er\u00f6rtern.</LA></DD></DL>Die betroffene Person ist verpflichtet, an ihrer \u00dcberpr\u00fcfung mitzuwirken. Soweit dies im Einzelfall geboten ist, kann diese Mitwirkungspflicht auch die Verpflichtung zur Beibringung eines \u00e4rztlichen Gutachtens, wenn Tatsachen die Annahme von Alkohol- oder Medikamentenabh\u00e4ngigkeit begr\u00fcnden, oder zur Durchf\u00fchrung eines Tests auf Bet\u00e4ubungsmittel nach dem Bet\u00e4ubungsmittelgesetz umfassen. Die Verpflichtung nach Satz 3 gilt auch, wenn die \u00dcberpr\u00fcfung bereits abgeschlossen ist, jedoch Anhaltspunkte f\u00fcr den Missbrauch von Alkohol, Medikamenten oder Bet\u00e4ubungsmitteln vorlagen oder vorliegen.</P><P>(4) Begr\u00fcnden die Ausk\u00fcnfte nach Absatz 3 Satz 1 Nummer 2 bis 4 Anhaltspunkte f\u00fcr Zweifel an der Zuverl\u00e4ssigkeit der betroffenen Person, darf die Luftsicherheitsbeh\u00f6rde Ausk\u00fcnfte von Strafverfolgungsbeh\u00f6rden einholen.</P><P>(5) Die Luftsicherheitsbeh\u00f6rde gibt der betroffenen Person vor ihrer Entscheidung Gelegenheit, sich zu den eingeholten Ausk\u00fcnften zu \u00e4u\u00dfern, soweit diese Zweifel an ihrer Zuverl\u00e4ssigkeit begr\u00fcnden und Geheimhaltungspflichten nicht entgegenstehen oder bei Ausk\u00fcnften durch Strafverfolgungsbeh\u00f6rden eine Gef\u00e4hrdung des Untersuchungszwecks nicht zu besorgen ist. Stammen die Erkenntnisse von einer der in Absatz 3 Nr. 2 oder Absatz 4 genannten Stellen, ist das Einvernehmen dieser Stellen erforderlich. Die betroffene Person ist verpflichtet, wahrheitsgem\u00e4\u00dfe Angaben zu machen. Sie kann Angaben verweigern, die f\u00fcr sie oder eine der in \u00a7 52 Abs. 1 der Strafprozessordnung genannten Personen die Gefahr strafrechtlicher Verfolgung, der Verfolgung wegen einer Ordnungswidrigkeit oder von disziplinar- oder arbeitsrechtlichen Ma\u00dfnahmen begr\u00fcnden k\u00f6nnten. \u00dcber die Verpflichtung wahrheitsgem\u00e4\u00dfe Angaben zu machen und das Verweigerungsrecht ist die betroffene Person vorher zu belehren.</P><P>(6) Ohne eine abgeschlossene Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung, bei der keine Zweifel an der Zuverl\u00e4ssigkeit der betroffenen Person verbleiben, darf dieser kein Zugang zum Sicherheitsbereich des Flugplatzgel\u00e4ndes gew\u00e4hrt werden (Absatz 1 Satz 1 Nummer 1 und 5) oder sie darf ihre T\u00e4tigkeiten (Absatz 1 Satz 1 Nummer 2 bis 4) nicht aufnehmen. Zweifel an der Zuverl\u00e4ssigkeit der betroffenen Person verbleiben auch dann, wenn sie die ihr nach Absatz 3 Satz 2 und 3 obliegenden Mitwirkungspflichten nicht erf\u00fcllt.</P><P>(7) Die Luftsicherheitsbeh\u00f6rde darf die nach den Abs\u00e4tzen 3 und 4 erhobenen Daten nur zum Zwecke der \u00dcberpr\u00fcfung der Zuverl\u00e4ssigkeit verarbeiten. Sie unterrichtet die betroffene Person, deren gegenw\u00e4rtigen Arbeitgeber, das Flugplatz-, das Luftfahrtunternehmen oder die Flugsicherungsorganisation sowie die beteiligten Polizei- und Verfassungsschutzbeh\u00f6rden des Bundes und der L\u00e4nder und das Zollkriminalamt \u00fcber das Ergebnis der \u00dcberpr\u00fcfung; dem gegenw\u00e4rtigen Arbeitgeber d\u00fcrfen die dem Ergebnis zugrunde liegenden Erkenntnisse nicht mitgeteilt werden. Weitere Informationen d\u00fcrfen dem gegenw\u00e4rtigen Arbeitgeber mitgeteilt werden, soweit sie f\u00fcr die Durchf\u00fchrung eines gerichtlichen Verfahrens im Zusammenhang mit der Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung erforderlich sind. \u00a7 161 der Strafprozessordnung bleibt unber\u00fchrt.</P><P>(8) Die Luftsicherheitsbeh\u00f6rden unterrichten sich gegenseitig \u00fcber die Durchf\u00fchrung von Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfungen, soweit dies im Einzelfall erforderlich ist. Absatz 7 Satz 1 gilt entsprechend.</P><P>(9) Werden den nach Absatz 3 Satz 1 Nr. 2 beteiligten Beh\u00f6rden, den nach Absatz 3 Satz 1 Nr. 4 beteiligten Ausl\u00e4nderbeh\u00f6rden, dem jeweiligen Flugplatzbetreiber oder dem jeweiligen Luftfahrtunternehmen, f\u00fcr dessen oder deren Sicherheitsbereich eine Zugangsberechtigung nach \u00a7\u00a010 erteilt wurde oder f\u00fcr den oder f\u00fcr die eine T\u00e4tigkeit nach \u00a7 7 Absatz 1 Satz 1 Nummer 2 aufgenommen wurde, oder dem gegenw\u00e4rtigen Arbeitgeber im Nachhinein Informationen bekannt, die f\u00fcr die Beurteilung der Zuverl\u00e4ssigkeit einer der in Absatz 1 genannten Personen von Bedeutung sind, sind diese Stellen verpflichtet, die Luftsicherheitsbeh\u00f6rde \u00fcber die vorliegenden Erkenntnisse zu informieren. Zu diesem Zweck d\u00fcrfen sie Name, Vorname, Geburtsname, Geburtsdatum, Geburtsort, Wohnort und Staatsangeh\u00f6rigkeit der betroffenen Person sowie die Aktenfundstelle speichern. Die Verfassungsschutzbeh\u00f6rden des Bundes und der L\u00e4nder d\u00fcrfen zu diesem Zweck die in Satz 2 genannten personenbezogenen Daten der betroffenen Person und ihre Aktenfundstelle zus\u00e4tzlich auch in den gemeinsamen Dateien nach \u00a7 6 des Bundesverfassungsschutzgesetzes speichern. Die in Satz 1 genannten Beh\u00f6rden und Stellen unterrichten die Luftsicherheitsbeh\u00f6rde, zu welchen betroffenen Personen sie Daten gem\u00e4\u00df den S\u00e4tzen 2 und 3 speichern.</P><P>(9a) Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfte Personen im Sinne von Absatz 1 sind verpflichtet, der zust\u00e4ndigen Luftsicherheitsbeh\u00f6rde innerhalb eines Monats mitzuteilen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen ihres Namens,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen ihres derzeitigen Wohnsitzes, sofern der Wohnsitzwechsel nicht innerhalb eines Landes stattfindet,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen ihres Arbeitgebers und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen der Art ihrer T\u00e4tigkeit.</LA></DD></DL></P><P>(9b) Arbeitgeber, die Personen f\u00fcr \u00fcberpr\u00fcfungspflichtige T\u00e4tigkeiten im Sinne von Absatz 1 einsetzen, sind verpflichtet, der zust\u00e4ndigen Luftsicherheitsbeh\u00f6rde innerhalb eines Monats die T\u00e4tigkeitsaufnahme sowie \u00c4nderungen betreffend die T\u00e4tigkeit dieser Personen mitzuteilen.</P><P>(10) Die Luftsicherheitsbeh\u00f6rde darf auf Antrag der betroffenen Person Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfungen, die durch Stellen au\u00dferhalb des Geltungsbereichs dieses Gesetzes veranlasst werden, durchf\u00fchren und bei solchen mitwirken. Die Luftsicherheitsbeh\u00f6rde darf der die Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung veranlassenden Stelle sicherheitserhebliche Informationen nach den Abs\u00e4tzen 3 und 4 sowie das Ergebnis der Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung der zuverl\u00e4ssigkeits\u00fcberpr\u00fcften Person \u00fcbermitteln. Stammen die Informationen von einer der in Absatz 3 Satz 1 Nummer 2 oder Absatz 4 genannten Beh\u00f6rde, ist eine \u00dcbermittlung nur im Einvernehmen mit dieser Beh\u00f6rde zul\u00e4ssig. Die Daten\u00fcbermittlung unterbleibt, soweit die betroffene Person ein schutzw\u00fcrdiges Interesse am Ausschluss der \u00dcbermittlung hat, insbesondere wenn bei der empfangenden Stelle ein angemessenes Datenschutzniveau nicht gew\u00e4hrleistet ist. Die empfangende Stelle ist darauf zu verweisen, dass die \u00fcbermittelten Daten nur f\u00fcr den Zweck verarbeitet werden d\u00fcrfen, zu dessen Erf\u00fcllung sie \u00fcbermittelt worden sind.</P><P>(11) Die im Rahmen einer Zuverl\u00e4ssigkeitspr\u00fcfung gespeicherten personenbezogenen Daten sind zu l\u00f6schen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">von den Luftsicherheitsbeh\u00f6rden <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei positiver Bescheidung innerhalb von drei Jahren nach Ablauf der G\u00fcltigkeit der Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">innerhalb von zwei Jahren im Fall der Ablehnung oder des Widerrufs der Zuverl\u00e4ssigkeit,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">unverz\u00fcglich nach R\u00fccknahme des Antrags durch die betroffene Person, sofern dieser noch nicht beschieden wurde,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Fall des \u00a7 7 Absatz 2 Satz 4 innerhalb von drei Jahren nach Feststellung eines Sicherheitsrisikos nach \u00a7 5 des Sicherheits\u00fcberpr\u00fcfungsgesetzes;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">von den nach den Abs\u00e4tzen 3 und 4 beteiligten Beh\u00f6rden und den nach Absatz 3 Satz 1 Nummer 5 beteiligten Stellen <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">drei Monate nach Ende der regelm\u00e4\u00dfigen G\u00fcltigkeitsdauer einer Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung, gerechnet ab dem Zeitpunkt der Anfrage durch die Luftsicherheitsbeh\u00f6rde, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">unmittelbar nach Mitteilung durch die Luftsicherheitsbeh\u00f6rde im Fall von Ablehnungen, R\u00fccknahmen oder Widerrufen.</LA></DD></DL></LA></DD></DL>Wenn Grund zu der Annahme besteht, dass durch die L\u00f6schung die schutzw\u00fcrdigen Interessen der betroffenen Person beeintr\u00e4chtigt w\u00fcrden, ist die Verarbeitung der Daten einzuschr\u00e4nken. In der Verarbeitung eingeschr\u00e4nkte Daten d\u00fcrfen ohne Einwilligung der betroffenen Person nur verarbeitet werden, soweit dies zur Abwehr einer erheblichen Gefahr unerl\u00e4sslich ist.</P><P>(12) Widerspruch und Anfechtungsklage gegen einen Widerruf oder eine R\u00fccknahme einer Zuverl\u00e4ssigkeitsfeststellung haben keine aufschiebende Wirkung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>(+++ \u00a7 7 Abs. 1 Satz 2: Zur Anwendung vgl. \u00a7 22 Abs. 1 +++) <BR/>\u00a7 7 Abs. 1 Satz 1 Nr. 4 (fr\u00fcher Nr. 4): Die Vorschrift ist iVm \u00a7 4 Abs. 1 Satz 2 Nr. 3 LuftVG (96-1) idF d. Art. 2 Nr. 1 G v. 11.1.2005 I 78 mit dem GG (100-1) vereinbar gem. BVerfGE v. 4.5.2010 I 885 - 2 BvL 8/07, 2 BvL 9/07</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002900124",
+        "type": "article",
+        "name": "\u00a7 7a",
+        "title": "Gemeinsames Luftsicherheitsregister",
+        "body": {
+          "content": "<P>(1) Die Luftsicherheitsbeh\u00f6rden der L\u00e4nder k\u00f6nnen ein gemeinsames Luftsicherheitsregister errichten und f\u00fchren, in dem f\u00fcr Zwecke des Absatzes 2 Daten nach Absatz 3 von zuverl\u00e4ssigkeits\u00fcberpr\u00fcften Personen nach \u00a7 7 Absatz 1 gespeichert werden d\u00fcrfen. Die Luftsicherheitsbeh\u00f6rden nach Satz 1 k\u00f6nnen sich auf eine ausf\u00fchrende Stelle verst\u00e4ndigen.</P><P>(2) Das gemeinsame Luftsicherheitsregister dient <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der \u00dcberpr\u00fcfung der Zuverl\u00e4ssigkeit nach \u00a7 7 sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Durchf\u00fchrung von Aufsichts- und Qualit\u00e4tskontrollma\u00dfnahmen im Sinne von Anhang II der Verordnung (EG) Nr. 300/2008 des Europ\u00e4ischen Parlaments und des Rates vom 11. M\u00e4rz 2008 \u00fcber gemeinsame Vorschriften f\u00fcr die Sicherheit in der Zivilluftfahrt und zur Aufhebung der Verordnung (EG) Nr. 2320/2002 (ABl. L 97 vom 9.4.2008, S. 72; L 164 vom 23.6.2012, S. 18), die zuletzt durch die Verordnung (EU) Nr. 18/2010 (ABl. L 7 vom 12.1.2010, S. 3) ge\u00e4ndert worden ist.</LA></DD></DL></P><P>(3) Im gemeinsamen Luftsicherheitsregister werden folgende Daten gespeichert: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Name, Vorname, gegebenenfalls Geburtsname, Geburtsdatum und Geburtsort der zuverl\u00e4ssigkeits\u00fcberpr\u00fcften Personen sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Tatsache, dass <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Zuverl\u00e4ssigkeit festgestellt wurde, einschlie\u00dflich der feststellenden Beh\u00f6rde und des Datums der Entscheidung,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die Zuverl\u00e4ssigkeit verneint wurde, einschlie\u00dflich der feststellenden Beh\u00f6rde und des Datums der Entscheidung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>eine Entscheidung, mit der die Zuverl\u00e4ssigkeit festgestellt wurde, zur\u00fcckgenommen oder widerrufen worden ist, einschlie\u00dflich der r\u00fccknehmenden oder widerrufenden Beh\u00f6rde und des Datums der Entscheidung,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>ein Ersuchen einer Luftsicherheitsbeh\u00f6rde nach Absatz 5 oder einer Stelle oder eines Ausbildungsbetriebes nach Absatz 6, das auf \u00dcbermittlung der zu einer Person nach Nummer 1 und den Buchstaben a bis c gespeicherten Daten gestellt wurde, einschlie\u00dflich der Beh\u00f6rde oder der Stelle oder des Ausbildungsbetriebes und des Datums des Ersuchens.</LA></DD></DL></LA></DD></DL></P><P>(4) Die Luftsicherheitsbeh\u00f6rden der L\u00e4nder \u00fcbermitteln der das gemeinsame Luftsicherheitsregister f\u00fchrenden Stelle die Daten nach Absatz 3. In den F\u00e4llen des Absatzes 3 Nummer 2 Buchstabe b und c darf eine \u00dcbermittlung der Daten erst erfolgen, wenn die der Speicherung der Daten zugrunde liegende Entscheidung unanfechtbar oder sofort vollziehbar ist. Entf\u00e4llt die Vollziehbarkeit einer nach Absatz 3 Nummer 2 Buchstabe b und c eingetragenen Entscheidung auf Grund beh\u00f6rdlicher oder gerichtlicher Entscheidung, so wird die Eintragung aus dem Register entfernt.</P><P>(5) Die das gemeinsame Luftsicherheitsregister f\u00fchrende Stelle \u00fcbermittelt den Luftsicherheitsbeh\u00f6rden der L\u00e4nder und des Bundes auf deren Ersuchen die zu einer Person nach Absatz 3 gespeicherten Daten, soweit dies zur Erf\u00fcllung einer in Absatz 2 genannten Aufgabe durch die das Ersuchen stellende Luftsicherheitsbeh\u00f6rde erforderlich ist. Die Daten d\u00fcrfen ausschlie\u00dflich zu dem in Satz 1 genannten Zweck verwendet werden.</P><P>(6) Die das gemeinsame Luftsicherheitsregister f\u00fchrende Stelle \u00fcbermittelt den in \u00a7 7 Absatz 1 Nummer 2 genannten Stellen, den f\u00fcr die Erlaubnis f\u00fcr Luftfahrer zust\u00e4ndigen Luftfahrtbeh\u00f6rden und den f\u00fcr die Ausbildung f\u00fcr Luftfahrer verantwortlichen Ausbildungsbetrieben auf deren Ersuchen die zu einer Person nach Absatz 3 Nummer 1 und 2 Buchstabe a gespeicherten Daten, soweit diese Daten zur Best\u00e4tigung einer ihnen vorgelegten positiven Bescheidung der Zuverl\u00e4ssigkeit erforderlich sind. Die Daten d\u00fcrfen ausschlie\u00dflich zu dem in Satz 1 genannten Zweck verwendet werden. Nach Abschluss der \u00dcberpr\u00fcfung sind die \u00fcbermittelten Daten unverz\u00fcglich zu l\u00f6schen.</P><P>(7) In dem \u00dcbermittlungsersuchen nach den Abs\u00e4tzen 5 und 6 sind folgende Daten der betroffenen Person anzugeben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Name,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Vorname,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>gegebenenfalls Geburtsname,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Geburtsdatum und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Geburtsort.</LA></DD></DL>Die \u00dcbermittlung der Daten nach den Abs\u00e4tzen 5 und 6 darf nur erfolgen, wenn die in dem Ersuchen enthaltenen Daten mit den im Luftsicherheitsregister gespeicherten Daten nach Absatz 3 Nummer 1 \u00fcbereinstimmen.</P><P>(8) Die \u00dcbermittlung und der Abruf der Daten nach den Abs\u00e4tzen 4 bis 6 erfolgen im automatisierten Verfahren. Die nach Absatz 4 zur \u00dcbermittlung verpflichteten und nach den Abs\u00e4tzen 5 und 6 abrufberechtigten Stellen haben durch geeignete technische und organisatorische Ma\u00dfnahmen sicherzustellen, dass Daten nur von hierzu befugten Personen \u00fcbermittelt und abgerufen werden k\u00f6nnen. Stellen nach \u00a7 7 Absatz 1 Nummer 2 bed\u00fcrfen f\u00fcr das automatisierte Verfahren einer Zulassung durch die f\u00fcr den Sitz des Unternehmens zust\u00e4ndige Luftsicherheitsbeh\u00f6rde. Die das gemeinsame Luftsicherheitsregister f\u00fchrende Stelle protokolliert bei \u00dcbermittlung und Abruf im automatisierten Verfahren <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die \u00fcbermittelnde oder abrufende Stelle,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die \u00fcbermittelten oder abgerufenen Daten und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>den Zeitpunkt der \u00dcbermittlung oder des Abrufs.</LA></DD></DL>Die Protokolldaten sind nach zwei Jahren zu l\u00f6schen.</P><P>(9) F\u00fcr die L\u00f6schung der im gemeinsamen Luftsicherheitsregister gespeicherten Daten gilt \u00a7 7 Absatz 11 Satz 1 Nummer 1 entsprechend.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE000901305",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Sicherheitsma\u00dfnahmen der Flugplatzbetreiber",
+        "body": {
+          "content": "<P>(1) Der Betreiber eines Flugplatzes ist zum Schutz des Flughafenbetriebs vor Angriffen auf die Sicherheit des Luftverkehrs verpflichtet, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Flughafenanlagen, Bauwerke, R\u00e4ume und Einrichtungen so zu erstellen, zu gestalten und zu unterhalten, dass die erforderliche bauliche und technische Sicherung, die Zuf\u00fchrung von Passagieren und Gep\u00e4ck und die sachgerechte Durchf\u00fchrung der personellen Sicherungs- und Schutzma\u00dfnahmen und die Kontrolle der Bereiche der Luftseite erm\u00f6glicht werden sowie die daf\u00fcr erforderlichen Fl\u00e4chen bereitzustellen und zu unterhalten; ausgenommen von dieser Verpflichtung sind Ger\u00e4te zur \u00dcberpr\u00fcfung von Flugg\u00e4sten und deren Handgep\u00e4ck sowie Einrichtungen und Ger\u00e4te zur \u00dcberpr\u00fcfung von Post, aufgegebenem Gep\u00e4ck, Fracht und Bordvorr\u00e4ten auf die in \u00a7 11 Absatz 1 genannten verbotenen Gegenst\u00e4nde mittels technischer Verfahren;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Post, aufgegebenes Gep\u00e4ck, Fracht, Bordvorr\u00e4te und Flughafenlieferungen zur Durchf\u00fchrung von Sicherheitsma\u00dfnahmen sicher zu transportieren und zu lagern; dies schlie\u00dft den Transport zu und zwischen einer mehrstufigen Kontrollanlage ein;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Durchsuchungen des aufgegebenen Gep\u00e4cks nach \u00a7 5 Abs. 3 den Fluggast herbeizuholen oder bei Durchsuchungen in Abwesenheit des Fluggastes die Schl\u00f6sser der Gep\u00e4ckst\u00fccke zu \u00f6ffnen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bereiche der Luftseite gegen unberechtigten Zugang zu sichern und, soweit es sich um Sicherheitsbereiche oder sensible Teile der Sicherheitsbereiche handelt, den Zugang nur hierzu besonders berechtigten Personen zu gestatten;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">eigene Mitarbeiter, Mitarbeiter anderer auf dem Flugplatz t\u00e4tiger Unternehmen und andere Personen vor dem Zugang zu Sicherheitsbereichen und zu den sensiblen Teilen der Sicherheitsbereiche nach den Ziffern 1.2. und 1.3. des Anhangs der Verordnung (EG) Nr. 300/2008 des Europ\u00e4ischen Parlaments und des Rates vom 11. M\u00e4rz 2008 \u00fcber gemeinsame Vorschriften f\u00fcr die Sicherheit in der Zivilluftfahrt und zur Aufhebung der Verordnung (EG) Nr. 2320/2002 (ABl. L 97 vom 9.4.2008, S. 72) in der jeweils geltenden Fassung zu durchsuchen oder in sonstiger geeigneter Weise zu kontrollieren sowie von diesen mitgef\u00fchrte Gegenst\u00e4nde und Fahrzeuge zu durchsuchen, zu durchleuchten oder in sonstiger geeigneter Weise zu \u00fcberpr\u00fcfen; dies gilt auch f\u00fcr auf andere Weise in diese Bereiche eingef\u00fchrte Waren und Versorgungsg\u00fcter, insbesondere f\u00fcr Flughafenlieferungen;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personal, das Luftsicherheitsaufgaben wahrnimmt, sowie Personen mit Zugang zu Sicherheitsbereichen oder zu Gegenst\u00e4nden, die zur Luftseite eines Flughafens oder in Luftfahrzeuge verbracht werden, nach Ma\u00dfgabe von Abschnitt 11.2. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 zu schulen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Luftfahrzeuge, die Gegenstand von Bedrohungen, insbesondere von Bombendrohungen, sind, auf Sicherheitspositionen zu verbringen oder bei einer Verbringung durch das Luftfahrtunternehmen nach \u00a7 9 Absatz 1 Satz 1 Nummer 5 mitzuwirken und die Entladung sowie die Ver- und Entsorgung der Luftfahrzeuge durchzuf\u00fchren;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit erforderlich, an der \u00dcberpr\u00fcfung nach \u00a7 7 mitzuwirken.</LA></DD></DL>Die in Satz 1 Nummer 1 bis 8 aufgef\u00fchrten Sicherheitsma\u00dfnahmen sind von dem Betreiber in einem Luftsicherheitsprogramm im Sinne des Artikels 12 Absatz 1 der Verordnung (EG) Nr. 300/2008 darzustellen, welcher der Luftsicherheitsbeh\u00f6rde innerhalb einer von ihr zu bestimmenden Frist zur Zulassung vorzulegen ist. Die Zulassung kann mit Nebenbestimmungen versehen werden. Nachtr\u00e4gliche Auflagen sind zul\u00e4ssig. Der Betreiber eines Flugplatzes ist verpflichtet, die im zugelassenen Luftsicherheitsprogramm dargestellten Sicherheitsma\u00dfnahmen innerhalb der von der Luftsicherheitsbeh\u00f6rde vorgegebenen Frist oder, soweit keine Frist vorgegeben wird, innerhalb eines Monats nach der Zulassung durchzuf\u00fchren; er benennt eine Person, die f\u00fcr die Sicherheit im Unternehmen zust\u00e4ndig ist. In regelm\u00e4\u00dfigen Abst\u00e4nden von nicht mehr als f\u00fcnf Jahren hat eine \u00dcberpr\u00fcfung des Luftsicherheitsprogramms zu erfolgen; die Luftsicherheitsbeh\u00f6rde kann k\u00fcrzere Zeitabst\u00e4nde f\u00fcr die \u00dcberpr\u00fcfung des Luftsicherheitsprogramms festlegen.</P><P>(2) F\u00fcr Flugpl\u00e4tze sowie f\u00fcr abgegrenzte Bereiche von Flugpl\u00e4tzen kann die Luftsicherheitsbeh\u00f6rde auf der Grundlage einer Risikobewertung Abweichungen von Absatz 1 festlegen, soweit die Voraussetzungen nach der Verordnung (EU) Nr. 1254/2009 der Kommission vom 18. Dezember 2009 zur Festlegung der Bedingungen, unter denen die Mitgliedstaaten von den gemeinsamen Grundnormen f\u00fcr die Luftsicherheit in der Zivilluftfahrt abweichen und alternative Sicherheitsma\u00dfnahmen treffen k\u00f6nnen (ABl. L 338 vom 19.12.2009, S. 17), in der jeweils geltenden Fassung vorliegen. Hierbei ist den einsatz- und betriebsbezogenen Notwendigkeiten von polizeilichen Fl\u00fcgen sowie von Ambulanz-, Notfall- und Rettungsfl\u00fcgen besonders Rechnung zu tragen.</P><P>(3) F\u00fcr die Bereitstellung und Unterhaltung von R\u00e4umen und Fl\u00e4chen nach den Abs\u00e4tzen 1 und 2, die der f\u00fcr die Durchf\u00fchrung der Ma\u00dfnahmen gem\u00e4\u00df \u00a7 5 zust\u00e4ndigen Beh\u00f6rde zur Verf\u00fcgung gestellt worden sind, kann der Verpflichtete die Verg\u00fctung seiner Selbstkosten verlangen. Im \u00dcbrigen tr\u00e4gt der Verpflichtete die Kosten f\u00fcr die Sicherheitsma\u00dfnahmen nach den Abs\u00e4tzen 1 und 2. Zur Feststellung der Selbstkosten im Sinne dieses Gesetzes finden die Vorschriften des Preisrechts bei \u00f6ffentlichen Auftr\u00e4gen entsprechende Anwendung. Unterschreitet der Marktpreis die Selbstkosten, ist der Marktpreis ma\u00dfgeblich.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE001001305",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Sicherheitsma\u00dfnahmen der Luftfahrtunternehmen",
+        "body": {
+          "content": "<P>(1) Ein Luftfahrtunternehmen ist zum Schutz vor Angriffen auf die Sicherheit des Luftverkehrs verpflichtet, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sicherheitsma\u00dfnahmen bei der Abfertigung von Flugg\u00e4sten und der Behandlung von Post, Gep\u00e4ck, Fracht und Versorgungsg\u00fctern durchzuf\u00fchren; dies beinhaltet insbesondere auch die Sicherstellung der Durchf\u00fchrung der in den Kapiteln 7 und 8 des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 genannten Ma\u00dfnahmen in Bezug auf Post, Material und Bordvorr\u00e4te von Luftfahrtunternehmen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ihm auf einem Flugplatz \u00fcberlassenen Bereiche der Luftseite gegen unberechtigten Zugang zu sichern und, soweit es sich um Sicherheitsbereiche handelt, den Zugang nur hierzu besonders berechtigten Personen zu gestatten; soweit Betriebsgeb\u00e4ude, Frachtanlagen und sonstige Betriebseinrichtungen von dem Luftfahrtunternehmen selbst oder in seinem Auftrag errichtet oder von ihm selbst betrieben werden, gilt \u00a7 8 Absatz 1 Nummer 1 bis 7 entsprechend;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personal, das Luftsicherheitsaufgaben wahrnimmt, sowie Personen mit Zugang zu Sicherheitsbereichen oder zu Gegenst\u00e4nden, die zur Luftseite eines Flughafens oder in Luftfahrzeuge verbracht werden, nach Ma\u00dfgabe von Abschnitt 11.2. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 zu schulen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">seine auf einem Flugplatz abgestellten Luftfahrzeuge so zu sichern, dass weder unberechtigte Personen Zutritt haben noch verbotene Gegenst\u00e4nde in das Luftfahrzeug verbracht werden k\u00f6nnen;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Luftfahrzeuge, die Gegenstand von Bedrohungen, insbesondere von Bombendrohungen sind, auf eine Sicherheitsposition zu verbringen oder bei einer Verbringung durch den Flugplatzbetreiber nach \u00a7 8 Absatz 1 Satz 1 Nummer 7 mitzuwirken;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit erforderlich, an der \u00dcberpr\u00fcfung nach \u00a7 7 mitzuwirken.</LA></DD></DL>Die in Satz 1 Nummer 1 bis 6 aufgef\u00fchrten Sicherheitsma\u00dfnahmen sind von dem Unternehmen in einem Luftsicherheitsprogramm im Sinne des Artikels 13 Absatz 1 der Verordnung (EG) Nr. 300/2008 darzustellen, welches der Luftsicherheitsbeh\u00f6rde innerhalb einer von ihr zu bestimmenden Frist zur Zulassung vorzulegen ist; die Luftsicherheitsbeh\u00f6rde kann Ausnahmen von der Vorlagepflicht sowie f\u00fcr Luftfahrtunternehmen, die ausschlie\u00dflich Luftfahrzeuge mit einem H\u00f6chstgewicht von bis zu 5,7 Tonnen betreiben, auch Ausnahmen von den Verpflichtungen nach Absatz 1 zulassen. In regelm\u00e4\u00dfigen Abst\u00e4nden von nicht mehr als f\u00fcnf Jahren hat eine \u00dcberpr\u00fcfung der Zulassungsvoraussetzungen zu erfolgen; die Luftsicherheitsbeh\u00f6rde kann k\u00fcrzere Zeitabst\u00e4nde f\u00fcr die \u00dcberpr\u00fcfung der Zulassungsvoraussetzungen festlegen. Bestehen begr\u00fcndete Zweifel am Fortbestand der Zulassungsvoraussetzungen, kann die Zulassung entzogen werden. Die Zulassung kann mit Nebenbestimmungen versehen werden. Nachtr\u00e4gliche Auflagen sind zul\u00e4ssig. Die Luftfahrtunternehmen sind verpflichtet, die im Luftsicherheitsprogramm oder die im nach Artikel 13 Absatz 3 Satz 1 der Verordnung (EG) Nr. 300/2008 anzuerkennenden Luftsicherheitsprogramm dargestellten Sicherheitsma\u00dfnahmen innerhalb der von der Luftsicherheitsbeh\u00f6rde vorgegebenen Frist oder, soweit keine Frist vorgegeben wird, innerhalb eines Monats nach der Zulassung durchzuf\u00fchren; sie benennen eine Person, die f\u00fcr die Sicherheit im Unternehmen zust\u00e4ndig ist.</P><P>(1a) Die Luftfahrtunternehmen sollen die T\u00e4tigkeit der Luftsicherheits-Verbindungsbeamten der Bundespolizei in Drittstaaten unterst\u00fctzen.</P><P>(2) Absatz 1 gilt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Luftfahrtunternehmen, die eine Genehmigung nach \u00a7 20 des Luftverkehrsgesetzes besitzen, auch au\u00dferhalb des Geltungsbereichs dieses Gesetzes, wenn und soweit die jeweils \u00f6rtlich geltenden Vorschriften nicht entgegenstehen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Luftfahrtunternehmen, die ihren Hauptsitz au\u00dferhalb des Geltungsbereichs dieses Gesetzes haben, sofern sie Verkehrsflugh\u00e4fen in der Bundesrepublik Deutschland benutzen, auch au\u00dferhalb des Geltungsbereichs dieses Gesetzes, wenn und soweit die jeweils \u00f6rtlich geltenden Vorschriften nicht entgegenstehen.</LA></DD></DL></P><P>(3) Die Luftsicherheitsbeh\u00f6rde kann ein Luftfahrtunternehmen zur Durchf\u00fchrung von Sicherheitsma\u00dfnahmen entsprechend Absatz 1 auch auf sonstigen Flugpl\u00e4tzen verpflichten, soweit dies zur Sicherung des Betriebs des Luftfahrtunternehmens erforderlich ist.</P><P>(3a) Ein Luftfahrtunternehmen, das die Voraussetzungen nach Ziffer 6.8.1. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 erf\u00fcllt, wird als Luftfahrtunternehmen, das Luftfracht oder Luftpost von einem Drittstaaten-Flughafen in die Europ\u00e4ische Union bef\u00f6rdert (ACC3), benannt.</P><P>(3b) Wurde ein ACC3 nach Ziffer 6.8.1.5. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 von der zust\u00e4ndigen Beh\u00f6rde eines EU-Mitgliedstaates in die Datenbank der Europ\u00e4ischen Union zur Sicherheit der Lieferkette aufgenommen, gilt es als f\u00fcr alle Bef\u00f6rderungen von dem erfassten Drittstaaten-Flughafen in die Bundesrepublik Deutschland als von der Luftsicherheitsbeh\u00f6rde anerkannt.</P><P>(3c) Die EU-Validierung der Luftsicherheit eines ACC3 kann durch in Drittstaaten entsandte Luftsicherheitsverbindungsbeamte der Bundespolizei, das Luftfahrt-Bundesamt, einem von der Luftsicherheitsbeh\u00f6rde zugelassenen EU-Validierungspr\u00fcfer oder einem von der EU-Kommission als gleichwertig anerkannten Validierungspr\u00fcfer durchgef\u00fchrt werden. Die Luftsicherheitsbeh\u00f6rde l\u00e4sst nat\u00fcrliche oder juristische Personen als EU-Validierungspr\u00fcfer f\u00fcr die Luftsicherheit zu, wenn diese die in Ziffer 11.6.3. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 enthaltenen sowie durch Rechtsverordnung nach \u00a7 17 Absatz 7 n\u00e4her bestimmten Voraussetzungen erf\u00fcllen. Die Zulassung kann mit Nebenbestimmungen versehen werden. Nachtr\u00e4gliche Auflagen sind zul\u00e4ssig.</P><P>(3d) Die von der zust\u00e4ndigen Beh\u00f6rde eines EU-Mitgliedstaates vorgenommene EU-Validierung der Luftsicherheit gilt als von der Luftsicherheitsbeh\u00f6rde anerkannt.</P><P>(4) Ein anderer als der in Absatz 1 bezeichnete Halter von Luftfahrzeugen kann von der Luftsicherheitsbeh\u00f6rde zur Durchf\u00fchrung der Sicherheitsma\u00dfnahmen entsprechend den Abs\u00e4tzen 1 bis 3 verpflichtet werden, soweit dies zur Sicherung des Flugbetriebs erforderlich ist.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002401126",
+        "type": "article",
+        "name": "\u00a7 9a",
+        "title": "Sicherheitsma\u00dfnahmen der Beteiligten an der sicheren Lieferkette",
+        "body": {
+          "content": "<P>(1) Reglementierte Beauftragte, bekannte Versender, Transporteure, andere Stellen nach Ziffer 6.3.1.1. Buchstabe c des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998, reglementierte Lieferanten und bekannte Lieferanten sind zum Schutz vor Angriffen auf die Sicherheit des Luftverkehrs verpflichtet, Sicherheitsma\u00dfnahmen nach den Kapiteln 6, 8, 9, 11 und 12 des Anhangs der Verordnung (EG) Nr. 300/2008 und der Durchf\u00fchrungsverordnung (EU) 2015/1998 durchzuf\u00fchren. Die in Satz 1 aufgef\u00fchrten Sicherheitsma\u00dfnahmen sind von den genannten Stellen in einem Sicherheitsprogramm im Sinne des Artikels 14 Absatz 1 der Verordnung (EG) Nr. 300/2008 darzustellen.</P><P>(2) Die Luftsicherheitsbeh\u00f6rde l\u00e4sst reglementierte Beauftragte, bekannte Versender, Transporteure, reglementierte Lieferanten und andere Stellen nach Ziffer 6.3.1.1. Buchstabe c des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 nach Ma\u00dfgabe der Durchf\u00fchrungsverordnung (EU) 2015/1998 zu. Die Zulassung ist f\u00fcr l\u00e4ngstens f\u00fcnf Jahre g\u00fcltig. Die Zulassung kann mit Nebenbestimmungen versehen werden. Nachtr\u00e4gliche Auflagen sind zul\u00e4ssig. In regelm\u00e4\u00dfigen Abst\u00e4nden von nicht mehr als f\u00fcnf Jahren hat eine \u00dcberpr\u00fcfung nach Ma\u00dfgabe der Durchf\u00fchrungsverordnung (EU) 2015/1998 durch die zust\u00e4ndige Beh\u00f6rde zu erfolgen. Bestehen begr\u00fcndete Zweifel am Fortbestand der Zulassungsvoraussetzungen, ist die Zulassung zu entziehen oder auszusetzen. Die Luftsicherheitsbeh\u00f6rde kann zus\u00e4tzlich eine Sperrfrist f\u00fcr die Wiedererteilung der Zulassung festsetzen. Die Sperrfrist kann sich auch auf die Aus\u00fcbung weiterer T\u00e4tigkeiten im Rahmen der sicheren Lieferkette beziehen.</P><P>(3) Zur Durchf\u00fchrung der Kontrollen k\u00f6nnen nach Absatz 2 Satz 1 zugelassene reglementierte Beauftragte und andere Stellen nach Ziffer 6.3.1.1. Buchstabe c des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 Postsendungen und Fracht nach den in \u00a7 11 Absatz 1 Satz 2 genannten Gegenst\u00e4nden durchsuchen, durchleuchten oder in sonstiger geeigneter Weise \u00fcberpr\u00fcfen. Bei einer Postsendung ist darauf zu achten, dass von deren Inhalt nur in dem f\u00fcr die \u00dcberpr\u00fcfung unbedingt erforderlichen Ma\u00df Kenntnis erlangt wird. Das \u00d6ffnen einer Postsendung ist dem Empf\u00e4nger und, soweit dieser bekannt ist, auch dem Absender auf geeignete Weise mitzuteilen. \u00a7 5 Absatz 3 Satz 2 ist anzuwenden. \u00a7 16a Absatz 5 gilt entsprechend.</P><P>(4) Hat die zust\u00e4ndige Luftsicherheitsbeh\u00f6rde Zweifel, ob ein Transporteur oder bekannter Lieferant die Anforderungen der Verordnung (EG) Nr. 300/2008 und ihrer Durchf\u00fchrungsbestimmungen noch erf\u00fcllt, untersagt sie diesem die Abwicklung von sicherer Luftfracht, Luftpost, Bordvorr\u00e4ten oder Flughafenlieferungen bis die Anforderungen der Verordnung (EG) Nr. 300/2008 und ihrer Durchf\u00fchrungsbestimmungen wieder zweifelsfrei erf\u00fcllt werden. Der Transporteur oder bekannte Lieferant ist verpflichtet, alle die Stellen, von denen er benannt wurde, \u00fcber die Untersagung zu informieren und dies der zust\u00e4ndigen Luftsicherheitsbeh\u00f6rde nachzuweisen.</P><P>(5) Die Feststellung der Identit\u00e4t einer Person nach Ziffer 6.3.2.2. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998, die einem reglementierten Beauftragten oder Luftfahrtunternehmen eine Sendung \u00fcbergibt, erfolgt durch Vorweisen eines Personalausweises oder eines Reisepasses, der von den nationalen Beh\u00f6rden ausgestellt ist. Die Feststellung der Identit\u00e4t ist von dem reglementierten Beauftragten oder Luftfahrtunternehmen zu dokumentieren. Die Dokumentation muss folgende Angaben enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nummer des Personalausweises oder des Reisepasses,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eindeutige Kennung der Sendung, die \u00fcbergeben wird.</LA></DD></DL></P><P>(6) Die Dokumentation ist f\u00fcr Qualit\u00e4tskontrollma\u00dfnahmen der zust\u00e4ndigen Luftsicherheitsbeh\u00f6rde f\u00fcr die Dauer des Fluges, auf dem die Sendung transportiert wird, mindestens jedoch f\u00fcr 48 Stunden, jederzeit zur Verf\u00fcgung zu halten und auf Verlangen vorzulegen. Nach Ablauf dieser Frist sind die personenbezogenen Daten zu l\u00f6schen. Die L\u00f6schung der Daten braucht der betroffenen Person nicht mitgeteilt zu werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE001102126",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Zugangsberechtigung",
+        "body": {
+          "content": "<P>Die Luftsicherheitsbeh\u00f6rde entscheidet, welchen Personen bei Vorliegen der Voraussetzungen die Berechtigung zum Zugang zur Luftseite sowie zum Zugang zum Sicherheitsbereich oder zum sensiblen Teil des Sicherheitsbereichs erteilt werden darf oder bei Wegfall der Voraussetzungen zu entziehen ist. Nach Abschluss der Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung nach \u00a7 7 Abs. 1 kann der betroffenen Person zum Nachweis der Zugangsberechtigung ein Ausweis durch den Unternehmer nach \u00a7 8 Abs. 1 oder \u00a7 9 Abs. 1 ausgestellt werden. Der Ausweisinhaber ist verpflichtet, den Ausweis in den Sicherheitsbereichen offen sichtbar zu tragen und ihn nach Ablauf der G\u00fcltigkeitsdauer oder auf Verlangen zur\u00fcckzugeben. Der Ausweisinhaber darf den Ausweis keinem Dritten \u00fcberlassen. Sein Verlust ist der Ausgabestelle unverz\u00fcglich anzuzeigen. Der Zugang oder die Verschaffung des Zugangs zur Luftseite sowie zu den Sicherheitsbereichen ohne Berechtigung ist verboten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002500305",
+        "type": "article",
+        "name": "\u00a7 10a",
+        "title": "Sicherheitsausr\u00fcstung",
+        "body": {
+          "content": "<P>(1) Sicherheitsausr\u00fcstung sind Kontrollmittel zur Durchf\u00fchrung der Kontrollen von Flugg\u00e4sten und Handgep\u00e4ck, von aufgegebenem Gep\u00e4ck, von anderen Personen als Flugg\u00e4sten und mitgef\u00fchrten Gegenst\u00e4nden, von Fracht und Post, von Bordvorr\u00e4ten und Flughafenlieferungen sowie von sonstigen Gegenst\u00e4nden, die auf die Luftseite des Flugplatzes verbracht wurden oder werden sollen. Zur Sicherheitsausr\u00fcstung z\u00e4hlen auch Sprengstoffsp\u00fcrhunde oder andere f\u00fcr das Aufsp\u00fcren von Stoffen ausgebildete Tiere. Keine Sicherheitsausr\u00fcstung nach Satz 1 sind einfache Hilfsmittel und Alltagsgegenst\u00e4nde, die \u00fcblicherweise auch au\u00dferhalb von Sicherheitskontrollen verwendet werden.</P><P>(2) Sicherheitsausr\u00fcstung darf f\u00fcr Ma\u00dfnahmen nach den \u00a7\u00a7 5, 8, 9 und 9a nur verwendet werden, wenn sie durch die Luftsicherheitsbeh\u00f6rde zertifiziert ist. Sicherheitsausr\u00fcstung wird zertifiziert, wenn sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den ma\u00dfgeblichen Standards nach der Verordnung (EG) Nr. 300/2008 und ihrer Durchf\u00fchrungsverordnungen in der jeweils geltenden Fassung, insbesondere der Durchf\u00fchrungsverordnung (EU) 2015/1998, sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den weitergehenden Anforderungen an Leistung, Zuverl\u00e4ssigkeit und operative Einsatzf\u00e4higkeit nach der Rechtsverordnung nach \u00a7 17 Absatz 5</LA></DD></DL>entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erf\u00fcllt, wenn die Sicherheitsausr\u00fcstung von der zust\u00e4ndigen Stelle eines anderen EU-Mitgliedstaates zertifiziert wurde und die zugrundeliegenden Pr\u00fcfmethoden von der Luftsicherheitsbeh\u00f6rde anerkannt wurden.</P><P>(3) Sicherheitsausr\u00fcstung muss ferner f\u00fcr die konkrete Verwendung am jeweiligen Einsatzort durch die Luftsicherheitsbeh\u00f6rde zugelassen sein. Die Sicherheitsausr\u00fcstung wird zugelassen, wenn die zertifizierte Sicherheitsausr\u00fcstung f\u00fcr den vorgesehenen Kontrollzweck geeignet ist und am konkreten Einsatzort die erforderlichen Ma\u00dfnahmen f\u00fcr einen ordnungsgem\u00e4\u00dfen Einsatz der Sicherheitsausr\u00fcstung getroffen wurden.</P><P>(4) Die Luftsicherheitsbeh\u00f6rde \u00fcberwacht die Einhaltung der einschl\u00e4gigen gesetzlichen Regelungen bei Verwendung der zertifizierten und zugelassenen Sicherheitsausr\u00fcstung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE001201305",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Verbotene Gegenst\u00e4nde",
+        "body": {
+          "content": "<P>(1) Das Mitf\u00fchren im Handgep\u00e4ck oder Ansichtragen von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schuss-, Hieb- und Sto\u00dfwaffen sowie Spr\u00fchger\u00e4ten, die zu Angriffs- oder Verteidigungszwecken verwendet werden k\u00f6nnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sprengstoffen, Munition, Z\u00fcndkapseln, brennbaren Fl\u00fcssigkeiten, \u00e4tzenden oder giftigen Stoffen, Gasen in Beh\u00e4ltern sowie sonstigen Stoffen, die allein oder zusammen mit anderen Gegenst\u00e4nden eine Explosion oder einen Brand verursachen k\u00f6nnen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gegenst\u00e4nden, die ihrer \u00e4u\u00dferen Form oder ihrer Kennzeichnung nach den Anschein von Waffen, Munition oder explosionsgef\u00e4hrlichen Stoffen erwecken,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstigen in der Anlage 4-C zu Kapitel 4 des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 genannten Gegenst\u00e4nden</LA></DD></DL>(\u201everbotene Gegenst\u00e4nde\u201c) in Luftfahrzeugen und in den Bereichen der Luftseite auf Flugpl\u00e4tzen ist verboten. Abweichend von Satz 1 gelten als verbotene Gegenst\u00e4nde <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in aufgegebenem Gep\u00e4ck die in Anlage 5-B zu Kapitel 5 des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 genannten Gegenst\u00e4nde;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Fracht und Post die in Ziffer 6.0.2. des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 genannten Gegenst\u00e4nde;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Bordvorr\u00e4ten und Flughafenlieferungen die in Anlage 1-A zu Kapitel 1 des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 genannten Gegenst\u00e4nde;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Personen, die keine Flugg\u00e4ste sind, die in Anlage 1-A zu Kapitel 1 des Anhangs der Durchf\u00fchrungsverordnung (EU) 2015/1998 genannten Gegenst\u00e4nde; dies gilt auch dann, wenn diese Gegenst\u00e4nde sich in sonstigen mitgef\u00fchrten Gegenst\u00e4nden oder in Fahrzeugen befinden.</LA></DD></DL></P><P>(2) Das Bundesministerium des Innern kann allgemein oder im Einzelfall Ausnahmen von den in Absatz 1 geregelten F\u00e4llen zulassen, soweit ein Bed\u00fcrfnis besteht und die nach anderen Rechtsvorschriften erforderliche Erlaubnis zum Mitf\u00fchren dieser Gegenst\u00e4nde vorliegt. Die Erlaubnis kann mit einer Nebenbestimmung versehen werden. Soweit in F\u00e4llen des Absatzes 1 Satz 1 \u00fcberlassene Bereiche im Sinne des \u00a7 9 Absatz 1 Satz 1 Nummer 2 betroffen sind sowie in F\u00e4llen des Absatzes 1 Satz 2 Nummer 2 kann das Bundesministerium des Innern Ausnahmen nur im Einvernehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur erteilen.</P><P>(3) \u00a7 27 Abs. 2 des Luftverkehrsgesetzes bleibt unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE001301308",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugf\u00fchrers",
+        "body": {
+          "content": "<P>(1) Der verantwortliche Luftfahrzeugf\u00fchrer hat als Beliehener f\u00fcr die Aufrechterhaltung der Sicherheit und Ordnung an Bord des im Flug befindlichen Luftfahrzeuges zu sorgen. Er ist nach Ma\u00dfgabe von Absatz 2 und der sonst geltenden Gesetze befugt, die erforderlichen Ma\u00dfnahmen zu treffen.</P><P>(2) Der verantwortliche Luftfahrzeugf\u00fchrer darf die erforderlichen Ma\u00dfnahmen treffen, um eine im einzelnen Fall bestehende Gefahr f\u00fcr Personen an Bord des Luftfahrzeuges oder f\u00fcr das Luftfahrzeug selbst abzuwehren. Dabei hat er den Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit (\u00a7 4) zu wahren. Insbesondere darf der Luftfahrzeugf\u00fchrer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Identit\u00e4t einer Person feststellen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gegenst\u00e4nde sicherstellen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Person oder Sachen durchsuchen,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Person fesseln, wenn Tatsachen die Annahme rechtfertigen, dass die Person den Luftfahrzeugf\u00fchrer oder Dritte angreifen oder Sachen besch\u00e4digen wird.</LA></DD> </DL> </P><P>(3) Zur Durchsetzung der Ma\u00dfnahmen darf der Luftfahrzeugf\u00fchrer Zwangsmittel anwenden. Die Anwendung k\u00f6rperlicher Gewalt ist nur zul\u00e4ssig, wenn andere Zwangsmittel nicht in Betracht kommen, keinen Erfolg versprechen oder unzweckm\u00e4\u00dfig sind. Der Gebrauch von Schusswaffen ist Polizeivollzugsbeamten, insbesondere denjenigen der Bundespolizei nach \u00a7 4a des Bundespolizeigesetzes vorbehalten.</P><P>(4) Alle an Bord befindlichen Personen haben den Anordnungen des Luftfahrzeugf\u00fchrers oder seiner Beauftragten nach Absatz 2 Folge zu leisten.</P><P>(5) Der verantwortliche Luftfahrzeugf\u00fchrer hat den Schaden zu ersetzen, welcher der Bundesrepublik Deutschland durch rechtswidrige und vors\u00e4tzliche oder grob fahrl\u00e4ssige Verletzung seiner Pflichten bei Aus\u00fcbung der Aufgaben und Befugnisse nach den Abs\u00e4tzen 1 bis 3 entsteht. Wird der Flug von einem Luftfahrtunternehmen durchgef\u00fchrt, hat dieses den Schaden zu ersetzen, welcher der Bundesrepublik Deutschland durch eine rechtswidrige und schuldhafte Verletzung der Pflichten des verantwortlichen Luftfahrzeugf\u00fchrers oder seiner Beauftragten bei Aus\u00fcbung der Aufgaben und Befugnisse nach den Abs\u00e4tzen 1 bis 3 entsteht.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNG000300000",
+        "type": "heading",
+        "name": "Abschnitt 3",
+        "title": "Unterst\u00fctzung und Amtshilfe durch die Streitkr\u00e4fte",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR007810005BJNE001401305",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Entscheidung der Bundesregierung",
+        "body": {
+          "content": "<P>(1) Liegen auf Grund eines erheblichen Luftzwischenfalls Tatsachen vor, die im Rahmen der Gefahrenabwehr die Annahme begr\u00fcnden, dass ein besonders schwerer Ungl\u00fccksfall nach Artikel 35 Abs. 2 Satz 2 oder Abs. 3 des Grundgesetzes bevorsteht, k\u00f6nnen die Streitkr\u00e4fte, soweit es zur wirksamen Bek\u00e4mpfung erforderlich ist, zur Unterst\u00fctzung der Polizeikr\u00e4fte der L\u00e4nder im Luftraum zur Verhinderung dieses Ungl\u00fccksfalles eingesetzt werden.</P><P>(2) Die Entscheidung \u00fcber einen Einsatz nach Artikel 35 Abs. 2 Satz 2 des Grundgesetzes trifft auf Anforderung des betroffenen Landes der Bundesminister der Verteidigung oder im Vertretungsfall das zu seiner Vertretung berechtigte Mitglied der Bundesregierung im Benehmen mit dem Bundesminister des Innern. Ist sofortiges Handeln geboten, ist das Bundesministerium des Innern unverz\u00fcglich zu unterrichten.</P><P>(3) Die Entscheidung \u00fcber einen Einsatz nach Artikel 35 Abs. 3 des Grundgesetzes trifft die Bundesregierung im Benehmen mit den betroffenen L\u00e4ndern. Ist sofortiges Handeln geboten, ist kein Benehmen erforderlich; die Bundesregierung hat dann die betroffenen L\u00e4nder von der Entscheidung der Bundesregierung unverz\u00fcglich zu unterrichten.</P><P>(4) Das N\u00e4here wird zwischen Bund und L\u00e4ndern geregelt. Die Unterst\u00fctzung durch die Streitkr\u00e4fte richtet sich nach den Vorschriften dieses Gesetzes.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7\u00a7 13 bis 15: Nach Ma\u00dfgabe der Entscheidungssformel mit dem GG vereinbar gem. BVerfGE v. 20.3.2013 I 1118 - 2 BvF 1/05 -</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE001501305",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Einsatzma\u00dfnahmen, Anordnungsbefugnis",
+        "body": {
+          "content": "<P>(1) Zur Verhinderung des Eintritts eines besonders schweren Ungl\u00fccksfalles d\u00fcrfen die Streitkr\u00e4fte im Luftraum Luftfahrzeuge abdr\u00e4ngen, zur Landung zwingen, den Einsatz von Waffengewalt androhen oder Warnsch\u00fcsse abgeben.</P><P>(2) Von mehreren m\u00f6glichen Ma\u00dfnahmen ist diejenige auszuw\u00e4hlen, die den Einzelnen und die Allgemeinheit voraussichtlich am wenigsten beeintr\u00e4chtigt. Die Ma\u00dfnahme darf nur so lange und so weit durchgef\u00fchrt werden, wie ihr Zweck es erfordert. Sie darf nicht zu einem Nachteil f\u00fchren, der zu dem erstrebten Erfolg erkennbar au\u00dfer Verh\u00e4ltnis steht.</P><P>(3) Der Bundesminister der Verteidigung kann den Inspekteur der Luftwaffe generell erm\u00e4chtigen, Ma\u00dfnahmen nach Absatz 1 anzuordnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7\u00a7 13 bis 15: Nach Ma\u00dfgabe der Entscheidungssformel mit dem GG vereinbar gem. BVerfGE v. 20.3.2013 I 1118 - 2 BvF 1/05 -</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE001602305",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Sonstige Ma\u00dfnahmen",
+        "body": {
+          "content": "<P>(1) Die Ma\u00dfnahmen nach \u00a7 14 Absatz 1 d\u00fcrfen erst nach \u00dcberpr\u00fcfung sowie erfolglosen Versuchen zur Warnung und Umleitung getroffen werden. Zu diesem Zweck k\u00f6nnen die Streitkr\u00e4fte auf Ersuchen der Flugsicherungsorganisation im Luftraum Luftfahrzeuge \u00fcberpr\u00fcfen, umleiten oder warnen. Ein generelles Ersuchen ist zul\u00e4ssig. Die Voraussetzungen f\u00fcr ein T\u00e4tigwerden werden in diesem Fall durch vorherige Vereinbarung festgelegt.</P><P>(2) Der Bundesminister der Verteidigung kann den Inspekteur der Luftwaffe generell erm\u00e4chtigen, Ma\u00dfnahmen nach Absatz 1 anzuordnen. Der Inspekteur der Luftwaffe hat den Bundesminister der Verteidigung unverz\u00fcglich \u00fcber Situationen zu informieren, die zu Ma\u00dfnahmen nach \u00a7 14 Absatz 1 f\u00fchren k\u00f6nnten.</P><P>(3) Die sonstigen Vorschriften und Grunds\u00e4tze der Amtshilfe bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7\u00a7 13 bis 15: Nach Ma\u00dfgabe der Entscheidungssformel mit dem GG vereinbar gem. BVerfGE v. 20.3.2013 I 1118 - 2 BvF 1/05 -</P>",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000300000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNG000400000",
+        "type": "heading",
+        "name": "Abschnitt 4",
+        "title": "Zust\u00e4ndigkeit und Verfahren",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR007810005BJNE001704124",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Zust\u00e4ndigkeiten",
+        "body": {
+          "content": "<P>(1) Die \u00f6rtliche Zust\u00e4ndigkeit der Luftsicherheitsbeh\u00f6rden f\u00fcr die Aufgaben nach \u00a7 2 erstreckt sich auf das Flugplatzgel\u00e4nde. Die Ma\u00dfnahmen nach \u00a7 3 Absatz 4 und \u00a7 5 Absatz 3 sowie die \u00dcberpr\u00fcfungen der Verfahren zum sicheren Umgang der Unternehmen mit Fracht, Post, Flughafenlieferungen und Bordvorr\u00e4ten sowie Post und Material von Luftfahrtunternehmen kann die Luftsicherheitsbeh\u00f6rde auch au\u00dferhalb des Flugplatzgel\u00e4ndes durchf\u00fchren.</P><P>(2) Die Aufgaben der Luftsicherheitsbeh\u00f6rden nach diesem Gesetz und nach der Verordnung (EG) Nr. 300/2008 werden von den L\u00e4ndern im Auftrage des Bundes ausgef\u00fchrt, soweit in den Abs\u00e4tzen 3 bis 4 nichts anderes bestimmt ist.</P><P>(3) Die Aufgaben der Luftsicherheitsbeh\u00f6rde nach \u00a7 9 Absatz 1 und 2 bis 4 und \u00a7 9a einschlie\u00dflich der \u00dcberwachung der Einhaltung der diesbez\u00fcglichen luftsicherheitsrechtlichen Verpflichtungen der Luftfahrtunternehmen und der Beteiligten an der sicheren Lieferkette werden vom Luftfahrt-Bundesamt wahrgenommen; dies gilt nicht f\u00fcr Flughafenlieferungen, es sei denn, dass \u00fcberlassene Bereiche im Sinne von \u00a7 9 Absatz 1 Satz 1 Nummer 2 betroffen sind. Die Aufgaben nach \u00a7 10a Absatz 3 und 4 werden ebenfalls vom Luftfahrt-Bundesamt wahrgenommen, soweit Sicherheitsausr\u00fcstung bei Luftfahrtunternehmen und Beteiligten an der sicheren Lieferkette im Sinne von Satz 1 betroffen ist.</P><P>(3a) Die Aufgaben der Luftsicherheitsbeh\u00f6rde nach \u00a7 10a Absatz 2 sowie die \u00dcberwachung der Einhaltung der luftsicherheitsrechtlichen Verpflichtungen der Luftfahrtunternehmen nach \u00a7 9 Absatz 1a werden in bundeseigener Verwaltung wahrgenommen. Im \u00dcbrigen k\u00f6nnen die Aufgaben der Luftsicherheitsbeh\u00f6rden nach Absatz 2 in bundeseigener Verwaltung ausgef\u00fchrt werden, wenn dies zur Gew\u00e4hrleistung der bundeseinheitlichen Durchf\u00fchrung der Sicherheitsma\u00dfnahmen erforderlich ist. In den F\u00e4llen der S\u00e4tze 1 und 2 werden die Aufgaben von der vom Bundesministerium des Innern bestimmten Bundesbeh\u00f6rde wahrgenommen. Das Bundesministerium des Innern macht im Bundesanzeiger bekannt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des Satzes 1 die zust\u00e4ndigen Bundesbeh\u00f6rden und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des Satzes 2 die \u00dcbernahme von Aufgaben sowie die zust\u00e4ndigen Bundesbeh\u00f6rden.</LA></DD></DL></P><P>(3b) Abweichend von Absatz 3a Satz 3 werden die Aufgaben der Luftsicherheitsbeh\u00f6rde nach \u00a7 10a Absatz 2 von der vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur bestimmten Bundesbeh\u00f6rde wahrgenommen, soweit Sicherheitsausr\u00fcstung bei Luftfahrtunternehmen und Beteiligten an der sicheren Lieferkette im Sinne von Absatz 3 Satz 1 betroffen ist; das Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur macht die insoweit zust\u00e4ndige Beh\u00f6rde im Bundesanzeiger bekannt.</P><P>(4) Die Wahrnehmung der Bundesaufsicht gem\u00e4\u00df Absatz 2 erfolgt durch das Bundesministerium des Innern. Ma\u00dfnahmen, die sich auf betriebliche Belange des Flugplatzbetreibers, des Luftfahrtunternehmens oder der Beteiligten an der sicheren Lieferkette auswirken, werden vom Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur angeordnet.</P><P>(5) Die Befugnis nach \u00a7 3a Absatz 1 wird vom Bundesministerium des Innern im Benehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur wahrgenommen. Bei Gefahr im Verzug kann auf das Benehmen nach Satz 1 verzichtet werden. Die Befugnis nach \u00a7 3a Absatz 2 wird vom Luftfahrt-Bundesamt wahrgenommen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002601124",
+        "type": "article",
+        "name": "\u00a7 16a",
+        "title": "Beleihung",
+        "body": {
+          "content": "<P>(1) Die zust\u00e4ndige Luftsicherheitsbeh\u00f6rde kann nat\u00fcrlichen Personen sowie teilrechtsf\u00e4higen Vereinigungen und juristischen Personen des Privatrechts als Beliehenen die Wahrnehmung folgender Aufgaben \u00fcbertragen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bestimmte Aufgaben bei der Durchf\u00fchrung von Sicherheitsma\u00dfnahmen nach \u00a7 5 Absatz 1 bis 3 und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zulassungs-, Zertifizierungs- und \u00dcberwachungsaufgaben nach \u00a7 9 Absatz 1 Satz 2 bis 6, \u00a7 9 Absatz 3, \u00a7 9a Absatz 2 und \u00a7 10a Absatz 2 bis 4.</LA></DD></DL></P><P>(2) Die Beleihung ist nur zul\u00e4ssig, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der zu Beleihende f\u00fcr die zu \u00fcbertragende Aufgabe geeignet, sach- und fachkundig und zuverl\u00e4ssig ist; insbesondere m\u00fcssen die erforderlichen speziellen rechtlichen und technischen Kenntnisse nachgewiesen werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erf\u00fcllung der \u00fcbertragenen Aufgaben sichergestellt ist und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">keine \u00fcberwiegenden \u00f6ffentlichen Interessen entgegenstehen.</LA></DD></DL>Die beleihende Beh\u00f6rde hat sich anhand geeigneter Nachweise vom Vorliegen der in Satz 1 Nummer 1 genannten Voraussetzungen zu \u00fcberzeugen. Die beleihende Beh\u00f6rde darf Ausk\u00fcnfte bei der Luftsicherheitsbeh\u00f6rde nach \u00a7 7 \u00fcber dort vorliegende Erkenntnisse einholen.</P><P>(3) Die Beleihung kann jederzeit ganz oder teilweise zur\u00fcckgenommen, widerrufen oder mit Nebenbestimmungen verbunden werden.</P><P>(4) Der Beliehene ist im Rahmen der ihm \u00fcbertragenen Aufgaben und der sonst geltenden Gesetze befugt, die erforderlichen Ma\u00dfnahmen zu treffen. \u00a7 3 Absatz 4 gilt entsprechend.</P><P>(5) Der Beliehene untersteht der Aufsicht der Luftsicherheitsbeh\u00f6rde, die die Beleihung vorgenommen hat.</P><P>(6) Wird der Rechtstr\u00e4ger der Luftsicherheitsbeh\u00f6rde, die die Beleihung vorgenommen hat, von einem Dritten wegen eines Schadens in Anspruch genommen, den der Beliehene in Aus\u00fcbung des ihm anvertrauten Amtes diesem durch eine Amtspflichtverletzung zugef\u00fcgt hat, so kann der Rechtstr\u00e4ger bei Vorsatz und grober Fahrl\u00e4ssigkeit beim Beliehenen R\u00fcckgriff nehmen. Vertragliche Anspr\u00fcche des Rechtstr\u00e4gers aus demselben Schadensereignis gegen Dritte, insbesondere den Arbeitgeber des Beliehenen, bleiben unber\u00fchrt und sind vorrangig geltend zu machen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE001805126",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Erm\u00e4chtigung zum Erlass von Rechtsverordnungen",
+        "body": {
+          "content": "<P>(1) Das Bundesministerium des Innern regelt durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung nach \u00a7 7, insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Frist f\u00fcr eine Wiederholung der \u00dcberpr\u00fcfung sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten der Verarbeitung personenbezogener Daten.</LA></DD></DL></P><P>(2) (weggefallen)</P><P>(3) Das Bundesministerium des Innern wird erm\u00e4chtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur n\u00e4here Bestimmungen zur Durchf\u00fchrung der Sicherheitsma\u00dfnahmen nach den \u00a7\u00a7 8, 9 und 9a zu erlassen. In den Rechtsverordnungen nach Satz 1 k\u00f6nnen insbesondere Einzelheiten zu den baulichen und technischen Sicherungen, zu den Durchsuchungen von Personen und Gegenst\u00e4nden sowie der \u00dcberpr\u00fcfung von Fahrzeugen, zu Zulassung, Rezertifizierung und Schulung von Personal und Ausbildern sowie zum Inhalt der Luftsicherheitsprogramme festgelegt werden. Es kann ferner bestimmt werden, dass das Bundesministerium des Innern von den vorgeschriebenen Sicherheitsma\u00dfnahmen allgemein oder im Einzelfall Ausnahmen zulassen kann, soweit Sicherheitsbelange dies gestatten.</P><P>(4) In einer Rechtsverordnung nach Absatz 3 Satz 1 k\u00f6nnen auch Einzelheiten zu Zulassung, Rezertifizierung und Schulung des Personals, das Kontrollen nach \u00a7 5 durchf\u00fchrt, geregelt werden.</P><P>(5) Das Bundesministerium des Innern wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur und mit Zustimmung des Bundesrates durch Rechtsverordnung Einzelheiten zu Zertifizierung, Zulassung und \u00dcberwachung von Sicherheitsausr\u00fcstung nach \u00a7 10a zu regeln.</P><P>(6) Das Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur wird erm\u00e4chtigt, soweit dies zur Durchsetzung der Rechtsakte der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union erforderlich ist, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern und mit Zustimmung des Bundesrates die Tatbest\u00e4nde zu bezeichnen, die als Ordnungswidrigkeit nach \u00a7 18 Absatz 2 geahndet werden k\u00f6nnen.</P><P>(7) Das Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur wird erm\u00e4chtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern ohne Zustimmung des Bundesrates Einzelheiten zu Zulassung, Rezertifizierung und Schulung der EU-Validierungspr\u00fcfer f\u00fcr die Luftsicherheit zu regeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002701126",
+        "type": "article",
+        "name": "\u00a7 17a",
+        "title": "Geb\u00fchren und Auslagen; Verordnungserm\u00e4chtigung",
+        "body": {
+          "content": "<P>(1) F\u00fcr individuell zurechenbare \u00f6ffentliche Leistungen nach diesem Gesetz und der Verordnung (EG) Nr. 300/2008 werden Geb\u00fchren und Auslagen nach den Abs\u00e4tzen 2 bis 4 erhoben.</P><P>(2) Die Geb\u00fchr soll die mit der individuell zurechenbaren \u00f6ffentlichen Leistung verbundenen Kosten aller an der Leistung Beteiligten decken. In die Geb\u00fchr sind die mit der Leistung regelm\u00e4\u00dfig verbundenen Auslagen einzubeziehen. Zur Ermittlung der Geb\u00fchr sind die Kosten, die nach betriebswirtschaftlichen Grunds\u00e4tzen als Einzel- und Gemeinkosten zurechenbar und ansatzf\u00e4hig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten, zugrunde zu legen. Zu den Gemeinkosten z\u00e4hlen auch die Kosten der Rechts- und Fachaufsicht. Grundlage der Geb\u00fchrenermittlung nach den S\u00e4tzen 1 bis 4 sind die in der Gesamtheit des Bundes und der L\u00e4nder mit der jeweiligen Leistung verbundenen Kosten.</P><P>(3) \u00a7 3 Absatz 1 und 2, die \u00a7\u00a7 5 bis 7, 9 Absatz 3 bis 6 und die \u00a7\u00a7 10 bis 12 des Bundesgeb\u00fchrengesetzes gelten f\u00fcr die Geb\u00fchrenerhebung durch Landesbeh\u00f6rden entsprechend. F\u00fcr die Geb\u00fchrenerhebung durch Beh\u00f6rden des Bundes gelten \u00a7 3 Absatz 1 und 2, die \u00a7\u00a7 4 bis 9 Absatz 3 bis 6 und die \u00a7\u00a7 10 bis 13 Absatz 1 und 3 sowie die \u00a7\u00a7 14 bis 21 des Bundesgeb\u00fchrengesetzes; bei der Festsetzung einer Rahmengeb\u00fchr nach \u00a7 11 Nummer 3 des Bundesgeb\u00fchrengesetzes sind Absatz 2 und \u00a7 9 Absatz 3 des Bundesgeb\u00fchrengesetzes anzuwenden.</P><P>(4) Das Bundesministerium des Innern wird erm\u00e4chtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur, dem Bundesministerium der Finanzen und dem Bundesministerium f\u00fcr Wirtschaft und Energie sowie mit Zustimmung des Bundesrates die geb\u00fchrenpflichtigen Tatbest\u00e4nde und die Geb\u00fchrenh\u00f6he zu bestimmen. Ferner k\u00f6nnen in der Rechtsverordnung nach Satz 1 die Geb\u00fchrengl\u00e4ubigerschaft und die Geb\u00fchrenschuldnerschaft abweichend von den Vorschriften der \u00a7\u00a7 5 und 6 des Bundesgeb\u00fchrengesetzes bestimmt werden. Die Rechtsverordnung nach Satz 1 kann eine Pflicht der Geb\u00fchrenschuldner zur Auskunft \u00fcber die Zahl der betroffenen Flugg\u00e4ste sowie \u00fcber Art und Umfang der bef\u00f6rderten Gegenst\u00e4nde enthalten; Ausk\u00fcnfte an die betroffene Person \u00fcber die zu ihr in Luftfahrtdateien gespeicherten personenbezogenen Daten sind geb\u00fchren- und auslagenfrei.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000400000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNG000500000",
+        "type": "heading",
+        "name": "Abschnitt 5",
+        "title": "Bu\u00dfgeld- und Strafvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR007810005BJNE001901305",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "Bu\u00dfgeldvorschriften",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 7 Absatz 5 Satz 3 eine Angabe nicht richtig macht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 8 Absatz 1 Satz 2 oder \u00a7 9 Absatz 1 Satz 2 erster Halbsatz ein Luftsicherheitsprogramm nicht oder nicht rechtzeitig vorlegt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung oder einer vollziehbaren Auflage nach \u00a7 8 Absatz 1 Satz 3 oder Satz 4, \u00a7 8 Absatz 2, \u00a7 9 Absatz 1 Satz 5 oder Satz 6 oder Absatz 3c Satz 3 oder Satz 4, \u00a7 9a Absatz 2 Satz 3 oder Satz 4 oder \u00a7 11 Absatz 2 Satz 2 zuwiderhandelt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 8 Absatz 1 Satz 5 erster Halbsatz oder \u00a7 9 Absatz 1 Satz 7 erster Halbsatz eine dort genannte Sicherheitsma\u00dfnahme nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig durchf\u00fchrt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 10 Satz 3 einen dort genannten Ausweis nicht oder nicht in der vorgeschriebenen Weise tr\u00e4gt oder ihn nicht oder nicht rechtzeitig zur\u00fcckgibt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 10 Satz 4 einen dort genannten Ausweis einem Dritten \u00fcberl\u00e4sst,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 10 Satz 5 eine Anzeige nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig erstattet,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 10 Satz 6 sich oder einem Dritten Zugang zur Luftseite verschafft oder</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11 Absatz 1 Satz 1 einen dort genannten Gegenstand auf einem Flugplatz in einem Bereich der Luftseite, der nicht Sicherheitsbereich ist, mit sich f\u00fchrt oder an sich tr\u00e4gt.</LA></DD></DL></P><P>(2) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig einer unmittelbar geltenden Vorschrift in Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union, die das Luftsicherheitsrecht regeln, zuwiderhandelt, soweit eine Rechtsverordnung nach \u00a7 17 Absatz 6 f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist.</P><P>(3) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nummer 3 mit einer Geldbu\u00dfe bis zu drei\u00dfigtausend Euro und in den \u00fcbrigen F\u00e4llen der Abs\u00e4tze 1 und 2 mit einer Geldbu\u00dfe bis zu zehntausend Euro geahndet werden.</P><P>(4) Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Absatz 1 Nummer 1 des Gesetzes \u00fcber Ordnungswidrigkeiten ist die Luftsicherheitsbeh\u00f6rde.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002001305",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Strafvorschriften",
+        "body": {
+          "content": "<P>(1) Wer entgegen \u00a7 11 Absatz 1 Satz 1 einen dort genannten Gegenstand in einem Luftfahrzeug oder auf einem Flugplatz in einem Bereich der Luftseite, der zugleich Sicherheitsbereich ist, mit sich f\u00fchrt oder an sich tr\u00e4gt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.</P><P>(2) Wer die Tat fahrl\u00e4ssig begeht, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagess\u00e4tzen bestraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002101305",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Bu\u00dfgeld- und Strafvorschriften zu \u00a7 12",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer entgegen \u00a7 12 Abs. 4 als an Bord befindliche Person den Anordnungen des Luftfahrzeugf\u00fchrers oder seiner Beauftragten nicht Folge leistet. Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu f\u00fcnfundzwanzigtausend Euro geahndet werden. Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Absatz 1 Nummer 1 des Gesetzes \u00fcber Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt.</P><P>(2) Wer eine in Absatz 1 bezeichnete Handlung begeht und dabei mit Gewalt oder durch Drohung mit Gewalt Widerstand leistet, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.</P><P>(3) In besonders schweren F\u00e4llen des Absatzes 2 ist die Strafe Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der T\u00e4ter oder ein anderer Beteiligter eine Waffe bei sich f\u00fchrt, um diese bei der Tat zu verwenden, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der T\u00e4ter durch eine Gewaltt\u00e4tigkeit den Angegriffenen in die Gefahr des Todes oder einer schweren Gesundheitsbesch\u00e4digung bringt.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNG000600000",
+        "type": "heading",
+        "name": "Abschnitt 6",
+        "title": "Schlussbestimmung",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR007810005BJNE002200000",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Grundrechtseinschr\u00e4nkungen",
+        "body": {
+          "content": "<P>Die Grundrechte auf Leben, k\u00f6rperliche Unversehrtheit und Freiheit der Person (Artikel 2 Abs. 2 Satz 1 und 2 des Grundgesetzes), das Grundrecht des Postgeheimnisses (Artikel 10 Abs. 1 des Grundgesetzes) und das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des Grundgesetzes) werden nach Ma\u00dfgabe dieses Gesetzes eingeschr\u00e4nkt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000600000"
+        }
+      },
+      {
+        "id": "BJNR007810005BJNE002800305",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "\u00dcbergangsregelung",
+        "body": {
+          "content": "<P>(1) Die Regelung in \u00a7 7 Absatz 1 Satz 2 ist erst ein Jahr nach dem 4. M\u00e4rz 2017 anzuwenden. Bereits vor diesem Zeitpunkt k\u00f6nnen die Betroffenen einen Antrag auf Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfung stellen.</P><P>(2) Eine \u00dcberpr\u00fcfung der Luftsicherheitsprogramme nach \u00a7 8 Absatz 1 Satz 6 und \u00a7 9 Absatz 1 Satz 3 muss fr\u00fchestens ein Jahr nach dem 4. M\u00e4rz 2017 erfolgen.</P><P>(3) Die Zulassungspflicht von Transporteuren nach \u00a7 9a Absatz 2 Satz 1 beginnt ein Jahr nach dem 4. M\u00e4rz 2017.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007810005BJNG000600000"
+        }
+      }
+    ]
+  }
+}

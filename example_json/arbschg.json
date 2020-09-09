@@ -1,0 +1,537 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR124610996",
+    "abbreviation": "ArbSchG",
+    "extraAbbreviations": [],
+    "firstPublished": "1996-08-07",
+    "sourceTimestamp": "20200702212523",
+    "headingShort": "Arbeitsschutzgesetz",
+    "headingLong": "Gesetz \u00fcber die Durchf\u00fchrung von Ma\u00dfnahmen des Arbeitsschutzes zur Verbesserung der Sicherheit und des Gesundheitsschutzes der Besch\u00e4ftigten bei der Arbeit",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1996, 1246"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 113 G v. 20.11.2019 I 1626"
+      },
+      {
+        "category": "Hinweis",
+        "comment": "\u00c4nderung durch Art. 293 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+      },
+      {
+        "category": "Sonst",
+        "comment": "\u00c4nderung der Inhalts\u00fcbersicht durch Art. 1 Nr. 1 V v. 23.10.2013 I 3882 ist nicht ausf\u00fchrbar, da dieses G keine amtliche Inhalts\u00fcbersicht hat"
+      }
+    ],
+    "notes": {
+      "body": {
+        "content": "<P><noindex>Dieses Gesetz dient der Umsetzung folgender EG-Richtlinien: -Richtlinie 89/391/EWG des Rates vom 12. Juni 1989 \u00fcber die Durchf\u00fchrung von Ma\u00dfnahmen zur Verbesserung der Sicherheit und des Gesundheitsschutzes der Arbeitnehmer bei der Arbeit (ABl. EG Nr. L 183 S. 1) und - Richtlinie 91/383/EWG des Rates vom 25. Juni 1991 zur Erg\u00e4nzung der Ma\u00dfnahmen zur Verbesserung der Sicherheit und des Gesundheitsschutzes von Arbeitnehmern mit befristetem Arbeitsverh\u00e4ltnis oder Leiharbeitsverh\u00e4ltnis (ABl. EG Nr. L 206 S. 19).</noindex><pre xml:space=\"preserve\"><BR/></pre></P>",
+        "footnotes": null
+      },
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 21.8.1996 +++)<BR/>(+++ Amtliche Hinweise des Normgebers auf EG-Recht:<BR/>     Umsetzung der<BR/>       EWGRL 391/89 (CELEX Nr: 389L0391)<BR/>       EWGRL 383/91 (CELEX Nr: 391L0383) +++)<BR/><BR/></pre>Das Gesetz wurde als Artikel 1 d. G v. 7.8.1996 I 1246 (ArbSchEGRLUmsG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 6 dieses G mWv 21.8.1996 in Kraft getreten. \u00a7 6 Abs. 1 tritt am 21.8.1997 in Kraft.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR124610996BJNG000200000",
+        "type": "heading",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Vorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR124610996BJNE000301308",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Zielsetzung und Anwendungsbereich",
+        "body": {
+          "content": "<P>(1) Dieses Gesetz dient dazu, Sicherheit und Gesundheitsschutz der Besch\u00e4ftigten bei der Arbeit durch Ma\u00dfnahmen des Arbeitsschutzes zu sichern und zu verbessern. Es gilt in allen T\u00e4tigkeitsbereichen und findet im Rahmen der Vorgaben des Seerechts\u00fcbereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1799) auch in der ausschlie\u00dflichen Wirtschaftszone Anwendung.</P><P>(2) Dieses Gesetz gilt nicht f\u00fcr den Arbeitsschutz von Hausangestellten in privaten Haushalten. Es gilt nicht f\u00fcr den Arbeitsschutz von Besch\u00e4ftigten auf Seeschiffen und in Betrieben, die dem Bundesberggesetz unterliegen, soweit daf\u00fcr entsprechende Rechtsvorschriften bestehen.</P><P>(3) Pflichten, die die Arbeitgeber zur Gew\u00e4hrleistung von Sicherheit und Gesundheitsschutz der Besch\u00e4ftigten bei der Arbeit nach sonstigen Rechtsvorschriften haben, bleiben unber\u00fchrt. Satz 1 gilt entsprechend f\u00fcr Pflichten und Rechte der Besch\u00e4ftigten. Unber\u00fchrt bleiben Gesetze, die andere Personen als Arbeitgeber zu Ma\u00dfnahmen des Arbeitsschutzes verpflichten.</P><P>(4) Bei \u00f6ffentlich-rechtlichen Religionsgemeinschaften treten an die Stelle der Betriebs- oder Personalr\u00e4te die Mitarbeitervertretungen entsprechend dem kirchlichen Recht.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE000400000",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "body": {
+          "content": "<P>(1) Ma\u00dfnahmen des Arbeitsschutzes im Sinne dieses Gesetzes sind Ma\u00dfnahmen zur Verh\u00fctung von Unf\u00e4llen bei der Arbeit und arbeitsbedingten Gesundheitsgefahren einschlie\u00dflich Ma\u00dfnahmen der menschengerechten Gestaltung der Arbeit.</P><P>(2) Besch\u00e4ftigte im Sinne dieses Gesetzes sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Arbeitnehmerinnen und Arbeitnehmer,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu ihrer Berufsbildung Besch\u00e4ftigten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">arbeitnehmer\u00e4hnliche Personen im Sinne des \u00a7 5 Abs. 1 des Arbeitsgerichtsgesetzes, ausgenommen die in Heimarbeit Besch\u00e4ftigten und die ihnen Gleichgestellten,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beamtinnen und Beamte,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Richterinnen und Richter,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Soldatinnen und Soldaten,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in Werkst\u00e4tten f\u00fcr Behinderte Besch\u00e4ftigten.</LA></DD> </DL> </P><P>(3) Arbeitgeber im Sinne dieses Gesetzes sind nat\u00fcrliche und juristische Personen und rechtsf\u00e4hige Personengesellschaften, die Personen nach Absatz 2 besch\u00e4ftigen.</P><P>(4) Sonstige Rechtsvorschriften im Sinne dieses Gesetzes sind Regelungen \u00fcber Ma\u00dfnahmen des Arbeitsschutzes in anderen Gesetzen, in Rechtsverordnungen und Unfallverh\u00fctungsvorschriften.</P><P>(5) Als Betriebe im Sinne dieses Gesetzes gelten f\u00fcr den Bereich des \u00f6ffentlichen Dienstes die Dienststellen. Dienststellen sind die einzelnen Beh\u00f6rden, Verwaltungsstellen und Betriebe der Verwaltungen des Bundes, der L\u00e4nder, der Gemeinden und der sonstigen K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts, die Gerichte des Bundes und der L\u00e4nder sowie die entsprechenden Einrichtungen der Streitkr\u00e4fte.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000200000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNG000500000",
+        "type": "heading",
+        "name": "Zweiter Abschnitt",
+        "title": "Pflichten des Arbeitgebers",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR124610996BJNE000600000",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Grundpflichten des Arbeitgebers",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber ist verpflichtet, die erforderlichen Ma\u00dfnahmen des Arbeitsschutzes unter Ber\u00fccksichtigung der Umst\u00e4nde zu treffen, die Sicherheit und Gesundheit der Besch\u00e4ftigten bei der Arbeit beeinflussen. Er hat die Ma\u00dfnahmen auf ihre Wirksamkeit zu \u00fcberpr\u00fcfen und erforderlichenfalls sich \u00e4ndernden Gegebenheiten anzupassen. Dabei hat er eine Verbesserung von Sicherheit und Gesundheitsschutz der Besch\u00e4ftigten anzustreben.</P><P>(2) Zur Planung und Durchf\u00fchrung der Ma\u00dfnahmen nach Absatz 1 hat der Arbeitgeber unter Ber\u00fccksichtigung der Art der T\u00e4tigkeiten und der Zahl der Besch\u00e4ftigten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr eine geeignete Organisation zu sorgen und die erforderlichen Mittel bereitzustellen sowie</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorkehrungen zu treffen, da\u00df die Ma\u00dfnahmen erforderlichenfalls bei allen T\u00e4tigkeiten und eingebunden in die betrieblichen F\u00fchrungsstrukturen beachtet werden und die Besch\u00e4ftigten ihren Mitwirkungspflichten nachkommen k\u00f6nnen.</LA></DD> </DL> </P><P>(3) Kosten f\u00fcr Ma\u00dfnahmen nach diesem Gesetz darf der Arbeitgeber nicht den Besch\u00e4ftigten auferlegen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE000701377",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Allgemeine Grunds\u00e4tze",
+        "body": {
+          "content": "<P>Der Arbeitgeber hat bei Ma\u00dfnahmen des Arbeitsschutzes von folgenden allgemeinen Grunds\u00e4tzen auszugehen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Arbeit ist so zu gestalten, da\u00df eine Gef\u00e4hrdung f\u00fcr das Leben sowie die physische und die psychische Gesundheit m\u00f6glichst vermieden und die verbleibende Gef\u00e4hrdung m\u00f6glichst gering gehalten wird;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gefahren sind an ihrer Quelle zu bek\u00e4mpfen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei den Ma\u00dfnahmen sind der Stand von Technik, Arbeitsmedizin und Hygiene sowie sonstige gesicherte arbeitswissenschaftliche Erkenntnisse zu ber\u00fccksichtigen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ma\u00dfnahmen sind mit dem Ziel zu planen, Technik, Arbeitsorganisation, sonstige Arbeitsbedingungen, soziale Beziehungen und Einflu\u00df der Umwelt auf den Arbeitsplatz sachgerecht zu verkn\u00fcpfen;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">individuelle Schutzma\u00dfnahmen sind nachrangig zu anderen Ma\u00dfnahmen;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">spezielle Gefahren f\u00fcr besonders schutzbed\u00fcrftige Besch\u00e4ftigtengruppen sind zu ber\u00fccksichtigen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Besch\u00e4ftigten sind geeignete Anweisungen zu erteilen;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">mittelbar oder unmittelbar geschlechtsspezifisch wirkende Regelungen sind nur zul\u00e4ssig, wenn dies aus biologischen Gr\u00fcnden zwingend geboten ist.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE000801377",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Beurteilung der Arbeitsbedingungen",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber hat durch eine Beurteilung der f\u00fcr die Besch\u00e4ftigten mit ihrer Arbeit verbundenen Gef\u00e4hrdung zu ermitteln, welche Ma\u00dfnahmen des Arbeitsschutzes erforderlich sind.</P><P>(2) Der Arbeitgeber hat die Beurteilung je nach Art der T\u00e4tigkeiten vorzunehmen. Bei gleichartigen Arbeitsbedingungen ist die Beurteilung eines Arbeitsplatzes oder einer T\u00e4tigkeit ausreichend.</P><P>(3) Eine Gef\u00e4hrdung kann sich insbesondere ergeben durch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gestaltung und die Einrichtung der Arbeitsst\u00e4tte und des Arbeitsplatzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">physikalische, chemische und biologische Einwirkungen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gestaltung, die Auswahl und den Einsatz von Arbeitsmitteln, insbesondere von Arbeitsstoffen, Maschinen, Ger\u00e4ten und Anlagen sowie den Umgang damit,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gestaltung von Arbeits- und Fertigungsverfahren, Arbeitsabl\u00e4ufen und Arbeitszeit und deren Zusammenwirken,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">unzureichende Qualifikation und Unterweisung der Besch\u00e4ftigten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>psychische Belastungen bei der Arbeit.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE000903377",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Dokumentation",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber mu\u00df \u00fcber die je nach Art der T\u00e4tigkeiten und der Zahl der Besch\u00e4ftigten erforderlichen Unterlagen verf\u00fcgen, aus denen das Ergebnis der Gef\u00e4hrdungsbeurteilung, die von ihm festgelegten Ma\u00dfnahmen des Arbeitsschutzes und das Ergebnis ihrer \u00dcberpr\u00fcfung ersichtlich sind. Bei gleichartiger Gef\u00e4hrdungssituation ist es ausreichend, wenn die Unterlagen zusammengefa\u00dfte Angaben enthalten.</P><P>(2) Unf\u00e4lle in seinem Betrieb, bei denen ein Besch\u00e4ftigter get\u00f6tet oder so verletzt wird, da\u00df er stirbt oder f\u00fcr mehr als drei Tage v\u00f6llig oder teilweise arbeits- oder dienstunf\u00e4hig wird, hat der Arbeitgeber zu erfassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE001000000",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "\u00dcbertragung von Aufgaben",
+        "body": {
+          "content": "<P>Bei der \u00dcbertragung von Aufgaben auf Besch\u00e4ftigte hat der Arbeitgeber je nach Art der T\u00e4tigkeiten zu ber\u00fccksichtigen, ob die Besch\u00e4ftigten bef\u00e4higt sind, die f\u00fcr die Sicherheit und den Gesundheitsschutz bei der Aufgabenerf\u00fcllung zu beachtenden Bestimmungen und Ma\u00dfnahmen einzuhalten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE001100000",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Zusammenarbeit mehrerer Arbeitgeber",
+        "body": {
+          "content": "<P>(1) Werden Besch\u00e4ftigte mehrerer Arbeitgeber an einem Arbeitsplatz t\u00e4tig, sind die Arbeitgeber verpflichtet, bei der Durchf\u00fchrung der Sicherheits- und Gesundheitsschutzbestimmungen zusammenzuarbeiten. Soweit dies f\u00fcr die Sicherheit und den Gesundheitsschutz der Besch\u00e4ftigten bei der Arbeit erforderlich ist, haben die Arbeitgeber je nach Art der T\u00e4tigkeiten insbesondere sich gegenseitig und ihre Besch\u00e4ftigten \u00fcber die mit den Arbeiten verbundenen Gefahren f\u00fcr Sicherheit und Gesundheit der Besch\u00e4ftigten zu unterrichten und Ma\u00dfnahmen zur Verh\u00fctung dieser Gefahren abzustimmen.</P><P>(2) Der Arbeitgeber mu\u00df sich je nach Art der T\u00e4tigkeit vergewissern, da\u00df die Besch\u00e4ftigten anderer Arbeitgeber, die in seinem Betrieb t\u00e4tig werden, hinsichtlich der Gefahren f\u00fcr ihre Sicherheit und Gesundheit w\u00e4hrend ihrer T\u00e4tigkeit in seinem Betrieb angemessene Anweisungen erhalten haben.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE001200000",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Besondere Gefahren",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber hat Ma\u00dfnahmen zu treffen, damit nur Besch\u00e4ftigte Zugang zu besonders gef\u00e4hrlichen Arbeitsbereichen haben, die zuvor geeignete Anweisungen erhalten haben.</P><P>(2) Der Arbeitgeber hat Vorkehrungen zu treffen, da\u00df alle Besch\u00e4ftigten, die einer unmittelbaren erheblichen Gefahr ausgesetzt sind oder sein k\u00f6nnen, m\u00f6glichst fr\u00fchzeitig \u00fcber diese Gefahr und die getroffenen oder zu treffenden Schutzma\u00dfnahmen unterrichtet sind. Bei unmittelbarer erheblicher Gefahr f\u00fcr die eigene Sicherheit oder die Sicherheit anderer Personen m\u00fcssen die Besch\u00e4ftigten die geeigneten Ma\u00dfnahmen zur Gefahrenabwehr und Schadensbegrenzung selbst treffen k\u00f6nnen, wenn der zust\u00e4ndige Vorgesetzte nicht erreichbar ist; dabei sind die Kenntnisse der Besch\u00e4ftigten und die vorhandenen technischen Mittel zu ber\u00fccksichtigen. Den Besch\u00e4ftigten d\u00fcrfen aus ihrem Handeln keine Nachteile entstehen, es sei denn, sie haben vors\u00e4tzlich oder grob fahrl\u00e4ssig ungeeignete Ma\u00dfnahmen getroffen.</P><P>(3) Der Arbeitgeber hat Ma\u00dfnahmen zu treffen, die es den Besch\u00e4ftigten bei unmittelbarer erheblicher Gefahr erm\u00f6glichen, sich durch sofortiges Verlassen der Arbeitspl\u00e4tze in Sicherheit zu bringen. Den Besch\u00e4ftigten d\u00fcrfen hierdurch keine Nachteile entstehen. H\u00e4lt die unmittelbare erhebliche Gefahr an, darf der Arbeitgeber die Besch\u00e4ftigten nur in besonders begr\u00fcndeten Ausnahmef\u00e4llen auffordern, ihre T\u00e4tigkeit wieder aufzunehmen. Gesetzliche Pflichten der Besch\u00e4ftigten zur Abwehr von Gefahren f\u00fcr die \u00f6ffentliche Sicherheit sowie die \u00a7\u00a7 7 und 11 des Soldatengesetzes bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE001300000",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Erste Hilfe und sonstige Notfallma\u00dfnahmen",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber hat entsprechend der Art der Arbeitsst\u00e4tte und der T\u00e4tigkeiten sowie der Zahl der Besch\u00e4ftigten die Ma\u00dfnahmen zu treffen, die zur Ersten Hilfe, Brandbek\u00e4mpfung und Evakuierung der Besch\u00e4ftigten erforderlich sind. Dabei hat er der Anwesenheit anderer Personen Rechnung zu tragen. Er hat auch daf\u00fcr zu sorgen, da\u00df im Notfall die erforderlichen Verbindungen zu au\u00dferbetrieblichen Stellen, insbesondere in den Bereichen der Ersten Hilfe, der medizinischen Notversorgung, der Bergung und der Brandbek\u00e4mpfung eingerichtet sind.</P><P>(2) Der Arbeitgeber hat diejenigen Besch\u00e4ftigten zu benennen, die Aufgaben der Ersten Hilfe, Brandbek\u00e4mpfung und Evakuierung der Besch\u00e4ftigten \u00fcbernehmen. Anzahl, Ausbildung und Ausr\u00fcstung der nach Satz 1 benannten Besch\u00e4ftigten m\u00fcssen in einem angemessenen Verh\u00e4ltnis zur Zahl der Besch\u00e4ftigten und zu den bestehenden besonderen Gefahren stehen. Vor der Benennung hat der Arbeitgeber den Betriebs- oder Personalrat zu h\u00f6ren. Weitergehende Beteiligungsrechte bleiben unber\u00fchrt. Der Arbeitgeber kann die in Satz 1 genannten Aufgaben auch selbst wahrnehmen, wenn er \u00fcber die nach Satz 2 erforderliche Ausbildung und Ausr\u00fcstung verf\u00fcgt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE001400000",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Arbeitsmedizinische Vorsorge",
+        "body": {
+          "content": "<P>Der Arbeitgeber hat den Besch\u00e4ftigten auf ihren Wunsch unbeschadet der Pflichten aus anderen Rechtsvorschriften zu erm\u00f6glichen, sich je nach den Gefahren f\u00fcr ihre Sicherheit und Gesundheit bei der Arbeit regelm\u00e4\u00dfig arbeitsmedizinisch untersuchen zu lassen, es sei denn, auf Grund der Beurteilung der Arbeitsbedingungen und der getroffenen Schutzma\u00dfnahmen ist nicht mit einem Gesundheitsschaden zu rechnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE001500000",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Unterweisung",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber hat die Besch\u00e4ftigten \u00fcber Sicherheit und Gesundheitsschutz bei der Arbeit w\u00e4hrend ihrer Arbeitszeit ausreichend und angemessen zu unterweisen. Die Unterweisung umfa\u00dft Anweisungen und Erl\u00e4uterungen, die eigens auf den Arbeitsplatz oder den Aufgabenbereich der Besch\u00e4ftigten ausgerichtet sind. Die Unterweisung mu\u00df bei der Einstellung, bei Ver\u00e4nderungen im Aufgabenbereich, der Einf\u00fchrung neuer Arbeitsmittel oder einer neuen Technologie vor Aufnahme der T\u00e4tigkeit der Besch\u00e4ftigten erfolgen. Die Unterweisung mu\u00df an die Gef\u00e4hrdungsentwicklung angepa\u00dft sein und erforderlichenfalls regelm\u00e4\u00dfig wiederholt werden.</P><P>(2) Bei einer Arbeitnehmer\u00fcberlassung trifft die Pflicht zur Unterweisung nach Absatz 1 den Entleiher. Er hat die Unterweisung unter Ber\u00fccksichtigung der Qualifikation und der Erfahrung der Personen, die ihm zur Arbeitsleistung \u00fcberlassen werden, vorzunehmen. Die sonstigen Arbeitsschutzpflichten des Verleihers bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE001601377",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Verantwortliche Personen",
+        "body": {
+          "content": "<P>(1) Verantwortlich f\u00fcr die Erf\u00fcllung der sich aus diesem Abschnitt ergebenden Pflichten sind neben dem Arbeitgeber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sein gesetzlicher Vertreter,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das vertretungsberechtigte Organ einer juristischen Person,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der vertretungsberechtigte Gesellschafter einer Personenhandelsgesellschaft,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, die mit der Leitung eines Unternehmens oder eines Betriebes beauftragt sind, im Rahmen der ihnen \u00fcbertragenen Aufgaben und Befugnisse,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige nach Absatz 2 oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder nach einer Unfallverh\u00fctungsvorschrift verpflichtete Personen im Rahmen ihrer Aufgaben und Befugnisse.</LA></DD></DL></P><P>(2) Der Arbeitgeber kann zuverl\u00e4ssige und fachkundige Personen schriftlich damit beauftragen, ihm obliegende Aufgaben nach diesem Gesetz in eigener Verantwortung wahrzunehmen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE001700000",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Unterrichtung und Anh\u00f6rung der Besch\u00e4ftigten des\n\u00f6ffentlichen Dienstes",
+        "body": {
+          "content": "<P>(1) Die Besch\u00e4ftigten des \u00f6ffentlichen Dienstes sind vor Beginn der Besch\u00e4ftigung und bei Ver\u00e4nderungen in ihren Arbeitsbereichen \u00fcber Gefahren f\u00fcr Sicherheit und Gesundheit, denen sie bei der Arbeit ausgesetzt sein k\u00f6nnen, sowie \u00fcber die Ma\u00dfnahmen und Einrichtungen zur Verh\u00fctung dieser Gefahren und die nach \u00a7 10 Abs. 2 getroffenen Ma\u00dfnahmen zu unterrichten.</P><P>(2) Soweit in Betrieben des \u00f6ffentlichen Dienstes keine Vertretung der Besch\u00e4ftigten besteht, hat der Arbeitgeber die Besch\u00e4ftigten zu allen Ma\u00dfnahmen zu h\u00f6ren, die Auswirkungen auf Sicherheit und Gesundheit der Besch\u00e4ftigten haben k\u00f6nnen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG000500000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNG001800000",
+        "type": "heading",
+        "name": "Dritter Abschnitt",
+        "title": "Pflichten und Rechte der Besch\u00e4ftigten",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR124610996BJNE001900000",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Pflichten der Besch\u00e4ftigten",
+        "body": {
+          "content": "<P>(1) Die Besch\u00e4ftigten sind verpflichtet, nach ihren M\u00f6glichkeiten sowie gem\u00e4\u00df der Unterweisung und Weisung des Arbeitgebers f\u00fcr ihre Sicherheit und Gesundheit bei der Arbeit Sorge zu tragen. Entsprechend Satz 1 haben die Besch\u00e4ftigten auch f\u00fcr die Sicherheit und Gesundheit der Personen zu sorgen, die von ihren Handlungen oder Unterlassungen bei der Arbeit betroffen sind.</P><P>(2) Im Rahmen des Absatzes 1 haben die Besch\u00e4ftigten insbesondere Maschinen, Ger\u00e4te, Werkzeuge, Arbeitsstoffe, Transportmittel und sonstige Arbeitsmittel sowie Schutzvorrichtungen und die ihnen zur Verf\u00fcgung gestellte pers\u00f6nliche Schutzausr\u00fcstung bestimmungsgem\u00e4\u00df zu verwenden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG001800000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE002000000",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Besondere Unterst\u00fctzungspflichten",
+        "body": {
+          "content": "<P>(1) Die Besch\u00e4ftigten haben dem Arbeitgeber oder dem zust\u00e4ndigen Vorgesetzten jede von ihnen festgestellte unmittelbare erhebliche Gefahr f\u00fcr die Sicherheit und Gesundheit sowie jeden an den Schutzsystemen festgestellten Defekt unverz\u00fcglich zu melden.</P><P>(2) Die Besch\u00e4ftigten haben gemeinsam mit dem Betriebsarzt und der Fachkraft f\u00fcr Arbeitssicherheit den Arbeitgeber darin zu unterst\u00fctzen, die Sicherheit und den Gesundheitsschutz der Besch\u00e4ftigten bei der Arbeit zu gew\u00e4hrleisten und seine Pflichten entsprechend den beh\u00f6rdlichen Auflagen zu erf\u00fcllen. Unbeschadet ihrer Pflicht nach Absatz 1 sollen die Besch\u00e4ftigten von ihnen festgestellte Gefahren f\u00fcr Sicherheit und Gesundheit und M\u00e4ngel an den Schutzsystemen auch der Fachkraft f\u00fcr Arbeitssicherheit, dem Betriebsarzt oder dem Sicherheitsbeauftragten nach \u00a7 22 des Siebten Buches Sozialgesetzbuch mitteilen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG001800000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE002103308",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Rechte der Besch\u00e4ftigten",
+        "body": {
+          "content": "<P>(1) Die Besch\u00e4ftigten sind berechtigt, dem Arbeitgeber Vorschl\u00e4ge zu allen Fragen der Sicherheit und des Gesundheitsschutzes bei der Arbeit zu machen. F\u00fcr Beamtinnen und Beamte des Bundes ist \u00a7 125 des Bundesbeamtengesetzes anzuwenden. Entsprechendes Landesrecht bleibt unber\u00fchrt.</P><P>(2) Sind Besch\u00e4ftigte auf Grund konkreter Anhaltspunkte der Auffassung, da\u00df die vom Arbeitgeber getroffenen Ma\u00dfnahmen und bereitgestellten Mittel nicht ausreichen, um die Sicherheit und den Gesundheitsschutz bei der Arbeit zu gew\u00e4hrleisten, und hilft der Arbeitgeber darauf gerichteten Beschwerden von Besch\u00e4ftigten nicht ab, k\u00f6nnen sich diese an die zust\u00e4ndige Beh\u00f6rde wenden. Hierdurch d\u00fcrfen den Besch\u00e4ftigten keine Nachteile entstehen. Die in Absatz 1 Satz 2 und 3 genannten Vorschriften sowie die Vorschriften der Wehrbeschwerdeordnung und des Gesetzes \u00fcber den Wehrbeauftragten des Deutschen Bundestages bleiben unber\u00fchrt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG001800000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNG002200000",
+        "type": "heading",
+        "name": "Vierter Abschnitt",
+        "title": "Verordnungserm\u00e4chtigungen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR124610996BJNE002303308",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "Verordnungserm\u00e4chtigungen",
+        "body": {
+          "content": "<P>(1) Die Bundesregierung wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, welche Ma\u00dfnahmen der Arbeitgeber und die sonstigen verantwortlichen Personen zu treffen haben und wie sich die Besch\u00e4ftigten zu verhalten haben, um ihre jeweiligen Pflichten, die sich aus diesem Gesetz ergeben, zu erf\u00fcllen. In diesen Rechtsverordnungen kann auch bestimmt werden, da\u00df bestimmte Vorschriften des Gesetzes zum Schutz anderer als in \u00a7 2 Abs. 2 genannter Personen anzuwenden sind.</P><P>(2) Durch Rechtsverordnungen nach Absatz 1 kann insbesondere bestimmt werden, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">da\u00df und wie zur Abwehr bestimmter Gefahren Dauer oder Lage der Besch\u00e4ftigung oder die Zahl der Besch\u00e4ftigten begrenzt werden mu\u00df,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">da\u00df der Einsatz bestimmter Arbeitsmittel oder -verfahren mit besonderen Gefahren f\u00fcr die Besch\u00e4ftigten verboten ist oder der zust\u00e4ndigen Beh\u00f6rde angezeigt oder von ihr erlaubt sein mu\u00df oder besonders gef\u00e4hrdete Personen dabei nicht besch\u00e4ftigt werden d\u00fcrfen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">da\u00df bestimmte, besonders gef\u00e4hrliche Betriebsanlagen einschlie\u00dflich der Arbeits- und Fertigungsverfahren vor Inbetriebnahme, in regelm\u00e4\u00dfigen Abst\u00e4nden oder auf beh\u00f6rdliche Anordnung fachkundig gepr\u00fcft werden m\u00fcssen,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">da\u00df Besch\u00e4ftigte, bevor sie eine bestimmte gef\u00e4hrdende T\u00e4tigkeit aufnehmen oder fortsetzen oder nachdem sie sie beendet haben, arbeitsmedizinisch zu untersuchen sind und welche besonderen Pflichten der Arzt dabei zu beachten hat,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass Aussch\u00fcsse zu bilden sind, denen die Aufgabe \u00fcbertragen wird, die Bundesregierung oder das zust\u00e4ndige Bundesministerium zur Anwendung der Rechtsverordnungen zu beraten, dem Stand der Technik, Arbeitsmedizin und Hygiene entsprechende Regeln und sonstige gesicherte arbeitswissenschaftliche Erkenntnisse zu ermitteln sowie Regeln zu ermitteln, wie die in den Rechtsverordnungen gestellten Anforderungen erf\u00fcllt werden k\u00f6nnen. Das Bundesministerium f\u00fcr Arbeit und Soziales kann die Regeln und Erkenntnisse amtlich bekannt machen.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002200000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE002400000",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Rechtsakte der Europ\u00e4ischen Gemeinschaften und zwischenstaatliche\nVereinbarungen",
+        "body": {
+          "content": "<P>Rechtsverordnungen nach \u00a7 18 k\u00f6nnen auch erlassen werden, soweit dies zur Durchf\u00fchrung von Rechtsakten des Rates oder der Kommission der Europ\u00e4ischen Gemeinschaften oder von Beschl\u00fcssen internationaler Organisationen oder von zwischenstaatlichen Vereinbarungen, die Sachbereiche dieses Gesetzes betreffen, erforderlich ist, insbesondere um Arbeitsschutzpflichten f\u00fcr andere als in \u00a7 2 Abs. 3 genannte Personen zu regeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002200000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE002505124",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Regelungen f\u00fcr den \u00f6ffentlichen Dienst",
+        "body": {
+          "content": "<P>(1) F\u00fcr die Beamten der L\u00e4nder, Gemeinden und sonstigen K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts regelt das Landesrecht, ob und inwieweit die nach \u00a7 18 erlassenen Rechtsverordnungen gelten.</P><P>(2) F\u00fcr bestimmte T\u00e4tigkeiten im \u00f6ffentlichen Dienst des Bundes, insbesondere bei der Bundeswehr, der Polizei, den Zivil- und Katastrophenschutzdiensten, dem Zoll oder den Nachrichtendiensten, k\u00f6nnen das Bundeskanzleramt, das Bundesministerium des Innern, f\u00fcr Bau und Heimat, das Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen, soweit sie hierf\u00fcr jeweils zust\u00e4ndig sind, durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, da\u00df Vorschriften dieses Gesetzes ganz oder zum Teil nicht anzuwenden sind, soweit \u00f6ffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der \u00f6ffentlichen Sicherheit. Rechtsverordnungen nach Satz 1 werden im Einvernehmen mit dem Bundesministerium f\u00fcr Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern, f\u00fcr Bau und Heimat selbst erm\u00e4chtigt ist, im Einvernehmen mit diesem Ministerium erlassen. In den Rechtsverordnungen ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz bei der Arbeit unter Ber\u00fccksichtigung der Ziele dieses Gesetzes auf andere Weise gew\u00e4hrleistet werden. F\u00fcr T\u00e4tigkeiten im \u00f6ffentlichen Dienst der L\u00e4nder, Gemeinden und sonstigen landesunmittelbaren K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts k\u00f6nnen den S\u00e4tzen 1 und 3 entsprechende Regelungen durch Landesrecht getroffen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002200000"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNG002700308",
+        "type": "heading",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Gemeinsame deutsche Arbeitsschutzstrategie",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR124610996BJNE003300308",
+        "type": "article",
+        "name": "\u00a7 20a",
+        "title": "Gemeinsame deutsche Arbeitsschutzstrategie",
+        "body": {
+          "content": "<P>(1) Nach den Bestimmungen dieses Abschnitts entwickeln Bund, L\u00e4nder und Unfallversicherungstr\u00e4ger im Interesse eines wirksamen Arbeitsschutzes eine gemeinsame deutsche Arbeitsschutzstrategie und gew\u00e4hrleisten ihre Umsetzung und Fortschreibung. Mit der Wahrnehmung der ihnen gesetzlich zugewiesenen Aufgaben zur Verh\u00fctung von Arbeitsunf\u00e4llen, Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren sowie zur menschengerechten Gestaltung der Arbeit tragen Bund, L\u00e4nder und Unfallversicherungstr\u00e4ger dazu bei, die Ziele der gemeinsamen deutschen Arbeitsschutzstrategie zu erreichen.</P><P>(2) Die gemeinsame deutsche Arbeitsschutzstrategie umfasst <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entwicklung gemeinsamer Arbeitsschutzziele,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festlegung vorrangiger Handlungsfelder und von Eckpunkten f\u00fcr Arbeitsprogramme sowie deren Ausf\u00fchrung nach einheitlichen Grunds\u00e4tzen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Evaluierung der Arbeitsschutzziele, Handlungsfelder und Arbeitsprogramme mit geeigneten Kennziffern,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festlegung eines abgestimmten Vorgehens der f\u00fcr den Arbeitsschutz zust\u00e4ndigen Landesbeh\u00f6rden und der Unfallversicherungstr\u00e4ger bei der Beratung und \u00dcberwachung der Betriebe,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Herstellung eines verst\u00e4ndlichen, \u00fcberschaubaren und abgestimmten Vorschriften- und Regelwerks.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002700308"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE003400308",
+        "type": "article",
+        "name": "\u00a7 20b",
+        "title": "Nationale Arbeitsschutzkonferenz",
+        "body": {
+          "content": "<P>(1) Die Aufgabe der Entwicklung, Steuerung und Fortschreibung der gemeinsamen deutschen Arbeitsschutzstrategie nach \u00a7 20a Abs. 1 Satz 1 wird von der Nationalen Arbeitsschutzkonferenz wahrgenommen. Sie setzt sich aus jeweils drei stimmberechtigten Vertretern von Bund, L\u00e4ndern und den Unfallversicherungstr\u00e4gern zusammen und bestimmt f\u00fcr jede Gruppe drei Stellvertreter. Au\u00dferdem entsenden die Spitzenorganisationen der Arbeitgeber und Arbeitnehmer f\u00fcr die Behandlung von Angelegenheiten nach \u00a7 20a Abs. 2 Nr. 1 bis 3 und 5 jeweils bis zu drei Vertreter in die Nationale Arbeitsschutzkonferenz; sie nehmen mit beratender Stimme an den Sitzungen teil. Die Nationale Arbeitsschutzkonferenz gibt sich eine Gesch\u00e4ftsordnung; darin werden insbesondere die Arbeitsweise und das Beschlussverfahren festgelegt. Die Gesch\u00e4ftsordnung muss einstimmig angenommen werden.</P><P>(2) Alle Einrichtungen, die mit Sicherheit und Gesundheit bei der Arbeit befasst sind, k\u00f6nnen der Nationalen Arbeitsschutzkonferenz Vorschl\u00e4ge f\u00fcr Arbeitsschutzziele, Handlungsfelder und Arbeitsprogramme unterbreiten.</P><P>(3) Die Nationale Arbeitsschutzkonferenz wird durch ein Arbeitsschutzforum unterst\u00fctzt, das in der Regel einmal j\u00e4hrlich stattfindet. Am Arbeitsschutzforum sollen sachverst\u00e4ndige Vertreter der Spitzenorganisationen der Arbeitgeber und Arbeitnehmer, der Berufs- und Wirtschaftsverb\u00e4nde, der Wissenschaft, der Kranken- und Rentenversicherungstr\u00e4ger, von Einrichtungen im Bereich Sicherheit und Gesundheit bei der Arbeit sowie von Einrichtungen, die der F\u00f6rderung der Besch\u00e4ftigungsf\u00e4higkeit dienen, teilnehmen. Das Arbeitsschutzforum hat die Aufgabe, eine fr\u00fchzeitige und aktive Teilhabe der sachverst\u00e4ndigen Fach\u00f6ffentlichkeit an der Entwicklung und Fortschreibung der gemeinsamen deutschen Arbeitsschutzstrategie sicherzustellen und die Nationale Arbeitsschutzkonferenz entsprechend zu beraten.</P><P>(4) Einzelheiten zum Verfahren der Einreichung von Vorschl\u00e4gen nach Absatz 2 und zur Durchf\u00fchrung des Arbeitsschutzforums nach Absatz 3 werden in der Gesch\u00e4ftsordnung der Nationalen Arbeitsschutzkonferenz geregelt.</P><P>(5) Die Gesch\u00e4fte der Nationalen Arbeitsschutzkonferenz und des Arbeitsschutzforums f\u00fchrt die Bundesanstalt f\u00fcr Arbeitsschutz und Arbeitsmedizin. Einzelheiten zu Arbeitsweise und Verfahren werden in der Gesch\u00e4ftsordnung der Nationalen Arbeitsschutzkonferenz festgelegt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002700308"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNG002601308",
+        "type": "heading",
+        "name": "Sechster Abschnitt",
+        "title": "Schlu\u00dfvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR124610996BJNE002710124",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Zust\u00e4ndige Beh\u00f6rden, Zusammenwirken mit den Tr\u00e4gern der gesetzlichen Unfallversicherung",
+        "body": {
+          "content": "<P>(1) Die \u00dcberwachung des Arbeitsschutzes nach diesem Gesetz ist staatliche Aufgabe. Die zust\u00e4ndigen Beh\u00f6rden haben die Einhaltung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu \u00fcberwachen und die Arbeitgeber bei der Erf\u00fcllung ihrer Pflichten zu beraten.</P><P>(2) Die Aufgaben und Befugnisse der Tr\u00e4ger der gesetzlichen Unfallversicherung richten sich, soweit nichts anderes bestimmt ist, nach den Vorschriften des Sozialgesetzbuchs. Soweit die Tr\u00e4ger der gesetzlichen Unfallversicherung nach dem Sozialgesetzbuch im Rahmen ihres Pr\u00e4ventionsauftrags auch Aufgaben zur Gew\u00e4hrleistung von Sicherheit und Gesundheitsschutz der Besch\u00e4ftigten wahrnehmen, werden sie ausschlie\u00dflich im Rahmen ihrer autonomen Befugnisse t\u00e4tig.</P><P>(3) Die zust\u00e4ndigen Landesbeh\u00f6rden und die Unfallversicherungstr\u00e4ger wirken auf der Grundlage einer gemeinsamen Beratungs- und \u00dcberwachungsstrategie nach \u00a7 20a Abs. 2 Nr. 4 eng zusammen und stellen den Erfahrungsaustausch sicher. Diese Strategie umfasst die Abstimmung allgemeiner Grunds\u00e4tze zur methodischen Vorgehensweise bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Beratung und \u00dcberwachung der Betriebe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Festlegung inhaltlicher Beratungs- und \u00dcberwachungsschwerpunkte, aufeinander abgestimmter oder gemeinsamer Schwerpunktaktionen und Arbeitsprogramme und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der F\u00f6rderung eines Daten- und sonstigen Informationsaustausches, insbesondere \u00fcber Betriebsbesichtigungen und deren wesentliche Ergebnisse.</LA></DD></DL>Die zust\u00e4ndigen Landesbeh\u00f6rden vereinbaren mit den Unfallversicherungstr\u00e4gern nach \u00a7 20 Abs. 2 Satz 3 des Siebten Buches Sozialgesetzbuch die Ma\u00dfnahmen, die zur Umsetzung der gemeinsamen Arbeitsprogramme nach \u00a7 20a Abs. 2 Nr. 2 und der gemeinsamen Beratungs- und \u00dcberwachungsstrategie notwendig sind; sie evaluieren deren Zielerreichung mit den von der Nationalen Arbeitsschutzkonferenz nach \u00a7 20a Abs. 2 Nr. 3 bestimmten Kennziffern.</P><P>(4) Die f\u00fcr den Arbeitsschutz zust\u00e4ndige oberste Landesbeh\u00f6rde kann mit Tr\u00e4gern der gesetzlichen Unfallversicherung vereinbaren, da\u00df diese in n\u00e4her zu bestimmenden T\u00e4tigkeitsbereichen die Einhaltung dieses Gesetzes, bestimmter Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen \u00fcberwachen. In der Vereinbarung sind Art und Umfang der \u00dcberwachung sowie die Zusammenarbeit mit den staatlichen Arbeitsschutzbeh\u00f6rden festzulegen.</P><P>(5) Soweit nachfolgend nichts anderes bestimmt ist, ist zust\u00e4ndige Beh\u00f6rde f\u00fcr die Durchf\u00fchrung dieses Gesetzes und der auf dieses Gesetz gest\u00fctzten Rechtsverordnungen in den Betrieben und Verwaltungen des Bundes die Zentralstelle f\u00fcr Arbeitsschutz beim Bundesministerium des Innern, f\u00fcr Bau und Heimat. Im Auftrag der Zentralstelle handelt, soweit nichts anderes bestimmt ist, die Unfallversicherung Bund und Bahn, die insoweit der Aufsicht des Bundesministeriums des Innern, f\u00fcr Bau und Heimat unterliegt; Aufwendungen werden nicht erstattet. Im \u00f6ffentlichen Dienst im Gesch\u00e4ftsbereich des Bundesministeriums f\u00fcr Verkehr und digitale Infrastruktur f\u00fchrt die Unfallversicherung Bund und Bahn, soweit die Eisenbahn-Unfallkasse bis zum 31. Dezember 2014 Tr\u00e4ger der Unfallversicherung war, dieses Gesetz durch. F\u00fcr Betriebe und Verwaltungen in den Gesch\u00e4ftsbereichen des Bundesministeriums der Verteidigung und des Ausw\u00e4rtigen Amtes hinsichtlich seiner Auslandsvertretungen f\u00fchrt das jeweilige Bundesministerium, soweit es jeweils zust\u00e4ndig ist, oder die von ihm jeweils bestimmte Stelle dieses Gesetz durch. Im Gesch\u00e4ftsbereich des Bundesministeriums der Finanzen f\u00fchrt die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation dieses Gesetz durch, soweit der Gesch\u00e4ftsbereich des ehemaligen Bundesministeriums f\u00fcr Post und Telekommunikation betroffen ist. Die S\u00e4tze 1 bis 4 gelten auch f\u00fcr Betriebe und Verwaltungen, die zur Bundesverwaltung geh\u00f6ren, f\u00fcr die aber eine Berufsgenossenschaft Tr\u00e4ger der Unfallversicherung ist. Die zust\u00e4ndigen Bundesministerien k\u00f6nnen mit den Berufsgenossenschaften f\u00fcr diese Betriebe und Verwaltungen vereinbaren, da\u00df das Gesetz von den Berufsgenossenschaften durchgef\u00fchrt wird; Aufwendungen werden nicht erstattet.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002601308"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE002800000",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "Befugnisse der zust\u00e4ndigen Beh\u00f6rden",
+        "body": {
+          "content": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde kann vom Arbeitgeber oder von den verantwortlichen Personen die zur Durchf\u00fchrung ihrer \u00dcberwachungsaufgabe erforderlichen Ausk\u00fcnfte und die \u00dcberlassung von entsprechenden Unterlagen verlangen. Die auskunftspflichtige Person kann die Auskunft auf solche Fragen oder die Vorlage derjenigen Unterlagen verweigern, deren Beantwortung oder Vorlage sie selbst oder einen ihrer in \u00a7 383 Abs. 1 Nr. 1 bis 3 der Zivilproze\u00dfordnung bezeichneten Angeh\u00f6rigen der Gefahr der Verfolgung wegen einer Straftat oder Ordnungswidrigkeit aussetzen w\u00fcrde. Die auskunftspflichtige Person ist darauf hinzuweisen.</P><P>(2) Die mit der \u00dcberwachung beauftragten Personen sind befugt, zu den Betriebs- und Arbeitszeiten Betriebsst\u00e4tten, Gesch\u00e4fts- und Betriebsr\u00e4ume zu betreten, zu besichtigen und zu pr\u00fcfen sowie in die gesch\u00e4ftlichen Unterlagen der auskunftspflichtigen Person Einsicht zu nehmen, soweit dies zur Erf\u00fcllung ihrer Aufgaben erforderlich ist. Au\u00dferdem sind sie befugt, Betriebsanlagen, Arbeitsmittel und pers\u00f6nliche Schutzausr\u00fcstungen zu pr\u00fcfen, Arbeitsverfahren und Arbeitsabl\u00e4ufe zu untersuchen, Messungen vorzunehmen und insbesondere arbeitsbedingte Gesundheitsgefahren festzustellen und zu untersuchen, auf welche Ursachen ein Arbeitsunfall, eine arbeitsbedingte Erkrankung oder ein Schadensfall zur\u00fcckzuf\u00fchren ist. Sie sind berechtigt, die Begleitung durch den Arbeitgeber oder eine von ihm beauftragte Person zu verlangen. Der Arbeitgeber oder die verantwortlichen Personen haben die mit der \u00dcberwachung beauftragten Personen bei der Wahrnehmung ihrer Befugnisse nach den S\u00e4tzen 1 und 2 zu unterst\u00fctzen. Au\u00dferhalb der in Satz 1 genannten Zeiten, oder wenn die Arbeitsst\u00e4tte sich in einer Wohnung befindet, d\u00fcrfen die mit der \u00dcberwachung beauftragten Personen ohne Einverst\u00e4ndnis des Arbeitgebers die Ma\u00dfnahmen nach den S\u00e4tzen 1 und 2 nur zur Verh\u00fctung dringender Gefahren f\u00fcr die \u00f6ffentliche Sicherheit oder Ordnung treffen. Die auskunftspflichtige Person hat die Ma\u00dfnahmen nach den S\u00e4tzen 1, 2 und 5 zu dulden. Die S\u00e4tze 1 und 5 gelten entsprechend, wenn nicht feststeht, ob in der Arbeitsst\u00e4tte Personen besch\u00e4ftigt werden, jedoch Tatsachen gegeben sind, die diese Annahme rechtfertigen. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschr\u00e4nkt.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde kann im Einzelfall anordnen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">welche Ma\u00dfnahmen der Arbeitgeber und die verantwortlichen Personen oder die Besch\u00e4ftigten zur Erf\u00fcllung der Pflichten zu treffen haben, die sich aus diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergeben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">welche Ma\u00dfnahmen der Arbeitgeber und die verantwortlichen Personen zur Abwendung einer besonderen Gefahr f\u00fcr Leben und Gesundheit der Besch\u00e4ftigten zu treffen haben.</LA></DD></DL>Die zust\u00e4ndige Beh\u00f6rde hat, wenn nicht Gefahr im Verzug ist, zur Ausf\u00fchrung der Anordnung eine angemessene Frist zu setzen. Wird eine Anordnung nach Satz 1 nicht innerhalb einer gesetzten Frist oder eine f\u00fcr sofort vollziehbar erkl\u00e4rte Anordnung nicht sofort ausgef\u00fchrt, kann die zust\u00e4ndige Beh\u00f6rde die von der Anordnung betroffene Arbeit oder die Verwendung oder den Betrieb der von der Anordnung betroffenen Arbeitsmittel untersagen. Ma\u00dfnahmen der zust\u00e4ndigen Beh\u00f6rde im Bereich des \u00f6ffentlichen Dienstes, die den Dienstbetrieb wesentlich beeintr\u00e4chtigen, sollen im Einvernehmen mit der obersten Bundes- oder Landesbeh\u00f6rde oder dem Hauptverwaltungsbeamten der Gemeinde getroffen werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002601308"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE002909126",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "Betriebliche Daten, Zusammenarbeit mit anderen Beh\u00f6rden, Jahresbericht",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber hat der zust\u00e4ndigen Beh\u00f6rde zu einem von ihr bestimmten Zeitpunkt Mitteilungen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zahl der Besch\u00e4ftigten und derer, an die er Heimarbeit vergibt, aufgegliedert nach Geschlecht, Alter und Staatsangeh\u00f6rigkeit,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Namen oder die Bezeichnung und Anschrift des Betriebs, in dem er sie besch\u00e4ftigt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">seinen Namen, seine Firma und seine Anschrift sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Wirtschaftszweig, dem sein Betrieb angeh\u00f6rt,</LA></DD></DL>zu machen. Das Bundesministerium f\u00fcr Arbeit und Soziales wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, da\u00df die Stellen der Bundesverwaltung, denen der Arbeitgeber die in Satz 1 genannten Mitteilungen bereits auf Grund einer Rechtsvorschrift mitgeteilt hat, diese Angaben an die f\u00fcr die Beh\u00f6rden nach Satz 1 zust\u00e4ndigen obersten Landesbeh\u00f6rden als Schreiben oder auf maschinell verwertbaren Datentr\u00e4gern oder durch Daten\u00fcbertragung weiterzuleiten haben. In der Rechtsverordnung k\u00f6nnen das N\u00e4here \u00fcber die Form der weiterzuleitenden Angaben sowie die Frist f\u00fcr die Weiterleitung bestimmt werden. Die weitergeleiteten Angaben d\u00fcrfen nur zur Erf\u00fcllung der in der Zust\u00e4ndigkeit der Beh\u00f6rden nach \u00a7 21 Abs. 1 liegenden Arbeitsschutzaufgaben verarbeitet werden.</P><P>(2) Die mit der \u00dcberwachung beauftragten Personen d\u00fcrfen die ihnen bei ihrer \u00dcberwachungst\u00e4tigkeit zur Kenntnis gelangenden Gesch\u00e4fts- und Betriebsgeheimnisse nur in den gesetzlich geregelten F\u00e4llen oder zur Verfolgung von Gesetzwidrigkeiten oder zur Erf\u00fcllung von gesetzlich geregelten Aufgaben zum Schutz der Versicherten dem Tr\u00e4ger der gesetzlichen Unfallversicherung oder zum Schutz der Umwelt den daf\u00fcr zust\u00e4ndigen Beh\u00f6rden offenbaren. Soweit es sich bei Gesch\u00e4fts- und Betriebsgeheimnissen um Informationen \u00fcber die Umwelt im Sinne des Umweltinformationsgesetzes handelt, richtet sich die Befugnis zu ihrer Offenbarung nach dem Umweltinformationsgesetz.</P><P>(3) Ergeben sich im Einzelfall f\u00fcr die zust\u00e4ndigen Beh\u00f6rden konkrete Anhaltspunkte f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Besch\u00e4ftigung oder T\u00e4tigkeit von Ausl\u00e4ndern ohne den erforderlichen Aufenthaltstitel nach \u00a7 4 Abs. 3 des Aufenthaltsgesetzes, eine Aufenthaltsgestattung oder eine Duldung, die zur Aus\u00fcbung der Besch\u00e4ftigung berechtigen, oder eine Genehmigung nach \u00a7 284 Abs. 1 des Dritten Buches Sozialgesetzbuch,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verst\u00f6\u00dfe gegen die Mitwirkungspflicht nach \u00a7 60 Abs. 1 Satz 1 Nr. 2 des Ersten Buches Sozialgesetzbuch gegen\u00fcber einer Dienststelle der Bundesagentur f\u00fcr Arbeit, einem Tr\u00e4ger der gesetzlichen Kranken-, Pflege-, Unfall- oder Rentenversicherung oder einem Tr\u00e4ger der Sozialhilfe oder gegen die Meldepflicht nach \u00a7 8a des Asylbewerberleistungsgesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verst\u00f6\u00dfe gegen das Gesetz zur Bek\u00e4mpfung der Schwarzarbeit,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verst\u00f6\u00dfe gegen das Arbeitnehmer\u00fcberlassungsgesetz,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verst\u00f6\u00dfe gegen die Vorschriften des Vierten und Siebten Buches Sozialgesetzbuch \u00fcber die Verpflichtung zur Zahlung von Sozialversicherungsbeitr\u00e4gen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verst\u00f6\u00dfe gegen das Aufenthaltsgesetz,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verst\u00f6\u00dfe gegen die Steuergesetze,</LA></DD></DL>unterrichten sie die f\u00fcr die Verfolgung und Ahndung der Verst\u00f6\u00dfe nach den Nummern 1 bis 7 zust\u00e4ndigen Beh\u00f6rden, die Tr\u00e4ger der Sozialhilfe sowie die Beh\u00f6rden nach \u00a7 71 des Aufenthaltsgesetzes. In den F\u00e4llen des Satzes 1 arbeiten die zust\u00e4ndigen Beh\u00f6rden insbesondere mit den Agenturen f\u00fcr Arbeit, den Hauptzoll\u00e4mtern, den Rentenversicherungstr\u00e4gern, den Krankenkassen als Einzugsstellen f\u00fcr die Sozialversicherungsbeitr\u00e4ge, den Tr\u00e4gern der gesetzlichen Unfallversicherung, den nach Landesrecht f\u00fcr die Verfolgung und Ahndung von Verst\u00f6\u00dfen gegen das Gesetz zur Bek\u00e4mpfung der Schwarzarbeit zust\u00e4ndigen Beh\u00f6rden, den Tr\u00e4gern der Sozialhilfe, den in \u00a7 71 des Aufenthaltsgesetzes genannten Beh\u00f6rden und den Finanzbeh\u00f6rden zusammen.</P><P>(4) Die zust\u00e4ndigen obersten Landesbeh\u00f6rden haben \u00fcber die \u00dcberwachungst\u00e4tigkeit der ihnen unterstellten Beh\u00f6rden einen Jahresbericht zu ver\u00f6ffentlichen. Der Jahresbericht umfa\u00dft auch Angaben zur Erf\u00fcllung von Unterrichtungspflichten aus internationalen \u00dcbereinkommen oder Rechtsakten der Europ\u00e4ischen Gemeinschaften, soweit sie den Arbeitsschutz betreffen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002601308"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE003003124",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": "Erm\u00e4chtigung zum Erla\u00df von allgemeinen Verwaltungsvorschriften",
+        "body": {
+          "content": "<P>Das Bundesministerium f\u00fcr Arbeit und Soziales kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften erlassen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Durchf\u00fchrung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, soweit die Bundesregierung zu ihrem Erla\u00df erm\u00e4chtigt ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber die Gestaltung der Jahresberichte nach \u00a7 23 Abs. 4 und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber die Angaben, die die zust\u00e4ndigen obersten Landesbeh\u00f6rden dem Bundesministerium f\u00fcr Arbeit und Soziales f\u00fcr den Unfallverh\u00fctungsbericht nach \u00a7 25 Abs. 2 des Siebten Buches Sozialgesetzbuch bis zu einem bestimmten Zeitpunkt mitzuteilen haben.</LA></DD></DL>Verwaltungsvorschriften, die Bereiche des \u00f6ffentlichen Dienstes einbeziehen, werden im Einvernehmen mit dem Bundesministerium des Innern, f\u00fcr Bau und Heimat erlassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002601308"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE003101308",
+        "type": "article",
+        "name": "\u00a7 25",
+        "title": "Bu\u00dfgeldvorschriften",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Rechtsverordnung nach \u00a7 18 Abs. 1 oder \u00a7 19 zuwiderhandelt, soweit sie f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">als Arbeitgeber oder als verantwortliche Person einer vollziehbaren Anordnung nach \u00a7 22 Abs. 3 oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">als Besch\u00e4ftigter einer vollziehbaren Anordnung nach \u00a7 22 Abs. 3 Satz 1 Nr. 1</LA></DD> </DL></LA><LA Size=\"normal\">zuwiderhandelt.</LA></DD>  </DL> </P><P>(2) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nr. 1 und 2 Buchstabe b mit einer Geldbu\u00dfe bis zu f\u00fcnftausend Euro, in den F\u00e4llen des Absatzes 1 Nr. 2 Buchstabe a mit einer Geldbu\u00dfe bis zu f\u00fcnfundzwanzigtausend Euro geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002601308"
+        }
+      },
+      {
+        "id": "BJNR124610996BJNE003200000",
+        "type": "article",
+        "name": "\u00a7 26",
+        "title": "Strafvorschriften",
+        "body": {
+          "content": "<P>Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine in \u00a7 25 Abs. 1 Nr. 2 Buchstabe a bezeichnete Handlung beharrlich wiederholt oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch eine in \u00a7 25 Abs. 1 Nr. 1 oder Nr. 2 Buchstabe a bezeichnete vors\u00e4tzliche Handlung Leben oder Gesundheit eines Besch\u00e4ftigten gef\u00e4hrdet.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR124610996BJNG002601308"
+        }
+      }
+    ]
+  }
+}

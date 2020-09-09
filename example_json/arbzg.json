@@ -1,0 +1,526 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR117100994",
+    "abbreviation": "ArbZG",
+    "extraAbbreviations": [],
+    "firstPublished": "1994-06-06",
+    "sourceTimestamp": "20200729212520",
+    "headingShort": null,
+    "headingLong": "Arbeitszeitgesetz",
+    "publicationInfo": [
+      {
+        "periodical": "BGBl I",
+        "reference": "1994, 1170, 1171"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 8 u. Art. 11 Abs. 2 Satz 2 G v. 27.3.2020 I 575"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.7.1994 +++)<BR/>(+++ Umsetzung der<BR/>       EGRL 104/93    (CELEX Nr: 393L0104)<BR/>       vgl. Art. 4b G v. 24.12.2003 I 3002 +++)<BR/><BR/></pre>Das G wurde als Artikel 1 G v. 6.6.1994 I 1170 (ArbZRG) vom Bundestag beschlossen. Es ist gem. Art. 21 Satz 2 dieses G am 1.7.1994 in Kraft getreten.</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR117100994BJNG000100307",
+        "type": "heading",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Vorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR117100994BJNE000901377",
+        "type": "article",
+        "name": "\u00a7 1",
+        "title": "Zweck des Gesetzes",
+        "body": {
+          "content": "<P>Zweck des Gesetzes ist es, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sicherheit und den Gesundheitsschutz der Arbeitnehmer in der Bundesrepublik Deutschland und in der ausschlie\u00dflichen Wirtschaftszone bei der Arbeitszeitgestaltung zu gew\u00e4hrleisten und die Rahmenbedingungen f\u00fcr flexible Arbeitszeiten zu verbessern sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Sonntag und die staatlich anerkannten Feiertage als Tage der Arbeitsruhe und der seelischen Erhebung der Arbeitnehmer zu sch\u00fctzen.</LA></DD></DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000100307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE001001308",
+        "type": "article",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "body": {
+          "content": "<P>(1) Arbeitszeit im Sinne dieses Gesetzes ist die Zeit vom Beginn bis zum Ende der Arbeit ohne die Ruhepausen; Arbeitszeiten bei mehreren Arbeitgebern sind zusammenzurechnen. Im Bergbau unter Tage z\u00e4hlen die Ruhepausen zur Arbeitszeit.</P><P>(2) Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und Angestellte sowie die zu ihrer Berufsbildung Besch\u00e4ftigten.</P><P>(3) Nachtzeit im Sinne dieses Gesetzes ist die Zeit von 23 bis 6 Uhr, in B\u00e4ckereien und Konditoreien die Zeit von 22 bis 5 Uhr.</P><P>(4) Nachtarbeit im Sinne dieses Gesetzes ist jede Arbeit, die mehr als zwei Stunden der Nachtzeit umfa\u00dft.</P><P>(5) Nachtarbeitnehmer im Sinne dieses Gesetzes sind Arbeitnehmer, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund ihrer Arbeitszeitgestaltung normalerweise Nachtarbeit in Wechselschicht zu leisten haben oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nachtarbeit an mindestens 48 Tagen im Kalenderjahr leisten.</LA></DD> </DL></P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000100307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNG000200307",
+        "type": "heading",
+        "name": "Zweiter Abschnitt",
+        "title": "Werkt\u00e4gliche Arbeitszeit\nund arbeitsfreie Zeiten",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR117100994BJNE001100307",
+        "type": "article",
+        "name": "\u00a7 3",
+        "title": "Arbeitszeit der Arbeitnehmer",
+        "body": {
+          "content": "<P>Die werkt\u00e4gliche Arbeitszeit der Arbeitnehmer darf acht Stunden nicht \u00fcberschreiten. Sie kann auf bis zu zehn Stunden nur verl\u00e4ngert werden, wenn innerhalb von sechs Kalendermonaten oder innerhalb von 24 Wochen im Durchschnitt acht Stunden werkt\u00e4glich nicht \u00fcberschritten werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000200307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE001200307",
+        "type": "article",
+        "name": "\u00a7 4",
+        "title": "Ruhepausen",
+        "body": {
+          "content": "<P>Die Arbeit ist durch im voraus feststehende Ruhepausen von mindestens 30 Minuten bei einer Arbeitszeit von mehr als sechs bis zu neun Stunden und 45 Minuten bei einer Arbeitszeit von mehr als neun Stunden insgesamt zu unterbrechen. Die Ruhepausen nach Satz 1 k\u00f6nnen in Zeitabschnitte von jeweils mindestens 15 Minuten aufgeteilt werden. L\u00e4nger als sechs Stunden hintereinander d\u00fcrfen Arbeitnehmer nicht ohne Ruhepause besch\u00e4ftigt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000200307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE001302308",
+        "type": "article",
+        "name": "\u00a7 5",
+        "title": "Ruhezeit",
+        "body": {
+          "content": "<P>(1) Die Arbeitnehmer m\u00fcssen nach Beendigung der t\u00e4glichen Arbeitszeit eine ununterbrochene Ruhezeit von mindestens elf Stunden haben.</P><P>(2) Die Dauer der Ruhezeit des Absatzes 1 kann in Krankenh\u00e4usern und anderen Einrichtungen zur Behandlung, Pflege und Betreuung von Personen, in Gastst\u00e4tten und anderen Einrichtungen zur Bewirtung und Beherbergung, in Verkehrsbetrieben, beim Rundfunk sowie in der Landwirtschaft und in der Tierhaltung um bis zu eine Stunde verk\u00fcrzt werden, wenn jede Verk\u00fcrzung der Ruhezeit innerhalb eines Kalendermonats oder innerhalb von vier Wochen durch Verl\u00e4ngerung einer anderen Ruhezeit auf mindestens zw\u00f6lf Stunden ausgeglichen wird.</P><P>(3) Abweichend von Absatz 1 k\u00f6nnen in Krankenh\u00e4usern und anderen Einrichtungen zur Behandlung, Pflege und Betreuung von Personen K\u00fcrzungen der Ruhezeit durch Inanspruchnahmen w\u00e4hrend der Rufbereitschaft, die nicht mehr als die H\u00e4lfte der Ruhezeit betragen, zu anderen Zeiten ausgeglichen werden.</P><P>(4) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000200307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE001400307",
+        "type": "article",
+        "name": "\u00a7 6",
+        "title": "Nacht- und Schichtarbeit",
+        "body": {
+          "content": "<P>(1) Die Arbeitszeit der Nacht- und Schichtarbeitnehmer ist nach den gesicherten arbeitswissenschaftlichen Erkenntnissen \u00fcber die menschengerechte Gestaltung der Arbeit festzulegen.</P><P>(2) Die werkt\u00e4gliche Arbeitszeit der Nachtarbeitnehmer darf acht Stunden nicht \u00fcberschreiten. Sie kann auf bis zu zehn Stunden nur verl\u00e4ngert werden, wenn abweichend von \u00a7 3 innerhalb von einem Kalendermonat oder innerhalb von vier Wochen im Durchschnitt acht Stunden werkt\u00e4glich nicht \u00fcberschritten werden. F\u00fcr Zeitr\u00e4ume, in denen Nachtarbeitnehmer im Sinne des \u00a7 2 Abs. 5 Nr. 2 nicht zur Nachtarbeit herangezogen werden, findet \u00a7 3 Satz 2 Anwendung.</P><P>(3) Nachtarbeitnehmer sind berechtigt, sich vor Beginn der Besch\u00e4ftigung und danach in regelm\u00e4\u00dfigen Zeitabst\u00e4nden von nicht weniger als drei Jahren arbeitsmedizinisch untersuchen zu lassen. Nach Vollendung des 50. Lebensjahres steht Nachtarbeitnehmern dieses Recht in Zeitabst\u00e4nden von einem Jahr zu. Die Kosten der Untersuchungen hat der Arbeitgeber zu tragen, sofern er die Untersuchungen den Nachtarbeitnehmern nicht kostenlos durch einen Betriebsarzt oder einen \u00fcberbetrieblichen Dienst von Betriebs\u00e4rzten anbietet.</P><P>(4) Der Arbeitgeber hat den Nachtarbeitnehmer auf dessen Verlangen auf einen f\u00fcr ihn geeigneten Tagesarbeitsplatz umzusetzen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach arbeitsmedizinischer Feststellung die weitere Verrichtung von Nachtarbeit den Arbeitnehmer in seiner Gesundheit gef\u00e4hrdet oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Haushalt des Arbeitnehmers ein Kind unter zw\u00f6lf Jahren lebt, das nicht von einer anderen im Haushalt lebenden Person betreut werden kann, oder</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Arbeitnehmer einen schwerpflegebed\u00fcrftigen Angeh\u00f6rigen zu versorgen hat, der nicht von einem anderen im Haushalt lebenden Angeh\u00f6rigen versorgt werden kann,</LA></DD> </DL>sofern dem nicht dringende betriebliche Erfordernisse entgegenstehen. Stehen der Umsetzung des Nachtarbeitnehmers auf einen f\u00fcr ihn geeigneten Tagesarbeitsplatz nach Auffassung des Arbeitgebers dringende betriebliche Erfordernisse entgegen, so ist der Betriebs- oder Personalrat zu h\u00f6ren. Der Betriebs- oder Personalrat kann dem Arbeitgeber Vorschl\u00e4ge f\u00fcr eine Umsetzung unterbreiten.</P><P>(5) Soweit keine tarifvertraglichen Ausgleichsregelungen bestehen, hat der Arbeitgeber dem Nachtarbeitnehmer f\u00fcr die w\u00e4hrend der Nachtzeit geleisteten Arbeitsstunden eine angemessene Zahl bezahlter freier Tage oder einen angemessenen Zuschlag auf das ihm hierf\u00fcr zustehende Bruttoarbeitsentgelt zu gew\u00e4hren.</P><P>(6) Es ist sicherzustellen, da\u00df Nachtarbeitnehmer den gleichen Zugang zur betrieblichen Weiterbildung und zu aufstiegsf\u00f6rdernden Ma\u00dfnahmen haben wie die \u00fcbrigen Arbeitnehmer.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000200307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE001501308",
+        "type": "article",
+        "name": "\u00a7 7",
+        "title": "Abweichende Regelungen",
+        "body": {
+          "content": "<P>(1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 3<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Arbeitszeit \u00fcber zehn Stunden werkt\u00e4glich zu verl\u00e4ngern, wenn in die Arbeitszeit regelm\u00e4\u00dfig und in erheblichem Umfang Arbeitsbereitschaft oder Bereitschaftsdienst f\u00e4llt,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">einen anderen Ausgleichszeitraum festzulegen,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 4 Satz 2 die Gesamtdauer der Ruhepausen in Schichtbetrieben und Verkehrsbetrieben auf Kurzpausen von angemessener Dauer aufzuteilen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 5 Abs. 1 die Ruhezeit um bis zu zwei Stunden zu k\u00fcrzen, wenn die Art der Arbeit dies erfordert und die K\u00fcrzung der Ruhezeit innerhalb eines festzulegenden Ausgleichszeitraums ausgeglichen wird,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 6 Abs. 2<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Arbeitszeit \u00fcber zehn Stunden werkt\u00e4glich hinaus zu verl\u00e4ngern, wenn in die Arbeitszeit regelm\u00e4\u00dfig und in erheblichem Umfang Arbeitsbereitschaft oder Bereitschaftsdienst f\u00e4llt,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">einen anderen Ausgleichszeitraum festzulegen,</LA></DD> </DL></LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Beginn des siebenst\u00fcndigen Nachtzeitraums des \u00a7 2 Abs. 3 auf die Zeit zwischen 22 und 24 Uhr festzulegen.</LA></DD> </DL> </P><P>(2) Sofern der Gesundheitsschutz der Arbeitnehmer durch einen entsprechenden Zeitausgleich gew\u00e4hrleistet wird, kann in einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung ferner zugelassen werden, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 5 Abs. 1 die Ruhezeiten bei Rufbereitschaft den Besonderheiten dieses Dienstes anzupassen, insbesondere K\u00fcrzungen der Ruhezeit infolge von Inanspruchnahmen w\u00e4hrend dieses Dienstes zu anderen Zeiten auszugleichen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Regelungen der \u00a7\u00a7 3, 5 Abs. 1 und \u00a7 6 Abs. 2 in der Landwirtschaft der Bestellungs- und Erntezeit sowie den Witterungseinfl\u00fcssen anzupassen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Regelungen der \u00a7\u00a7 3, 4, 5 Abs. 1 und \u00a7 6 Abs. 2 bei der Behandlung, Pflege und Betreuung von Personen der Eigenart dieser T\u00e4tigkeit und dem Wohl dieser Personen entsprechend anzupassen,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Regelungen der \u00a7\u00a7 3, 4, 5 Abs. 1 und \u00a7 6 Abs. 2 bei Verwaltungen und Betrieben des Bundes, der L\u00e4nder, der Gemeinden und sonstigen K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts sowie bei anderen Arbeitgebern, die der Tarifbindung eines f\u00fcr den \u00f6ffentlichen Dienst geltenden oder eines im wesentlichen inhaltsgleichen Tarifvertrags unterliegen, der Eigenart der T\u00e4tigkeit bei diesen Stellen anzupassen.</LA></DD> </DL> </P><P>(2a) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann abweichend von den \u00a7\u00a7 3, 5 Abs. 1 und \u00a7 6 Abs. 2 zugelassen werden, die werkt\u00e4gliche Arbeitszeit auch ohne Ausgleich \u00fcber acht Stunden zu verl\u00e4ngern, wenn in die Arbeitszeit regelm\u00e4\u00dfig und in erheblichem Umfang Arbeitsbereitschaft oder Bereitschaftsdienst f\u00e4llt und durch besondere Regelungen sichergestellt wird, dass die Gesundheit der Arbeitnehmer nicht gef\u00e4hrdet wird.</P><P>(3) Im Geltungsbereich eines Tarifvertrags nach Absatz 1, 2 oder 2a k\u00f6nnen abweichende tarifvertragliche Regelungen im Betrieb eines nicht tarifgebundenen Arbeitgebers durch Betriebs- oder Dienstvereinbarung oder, wenn ein Betriebs- oder Personalrat nicht besteht, durch schriftliche Vereinbarung zwischen dem Arbeitgeber und dem Arbeitnehmer \u00fcbernommen werden. K\u00f6nnen auf Grund eines solchen Tarifvertrags abweichende Regelungen in einer Betriebs- oder Dienstvereinbarung getroffen werden, kann auch in Betrieben eines nicht tarifgebundenen Arbeitgebers davon Gebrauch gemacht werden. Eine nach Absatz 2 Nr. 4 getroffene abweichende tarifvertragliche Regelung hat zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern Geltung, wenn zwischen ihnen die Anwendung der f\u00fcr den \u00f6ffentlichen Dienst geltenden tarifvertraglichen Bestimmungen vereinbart ist und die Arbeitgeber die Kosten des Betriebs \u00fcberwiegend mit Zuwendungen im Sinne des Haushaltsrechts decken.</P><P>(4) Die Kirchen und die \u00f6ffentlich-rechtlichen Religionsgesellschaften k\u00f6nnen die in Absatz 1, 2 oder 2a genannten Abweichungen in ihren Regelungen vorsehen.</P><P>(5) In einem Bereich, in dem Regelungen durch Tarifvertrag \u00fcblicherweise nicht getroffen werden, k\u00f6nnen Ausnahmen im Rahmen des Absatzes 1, 2 oder 2a durch die Aufsichtsbeh\u00f6rde bewilligt werden, wenn dies aus betrieblichen Gr\u00fcnden erforderlich ist und die Gesundheit der Arbeitnehmer nicht gef\u00e4hrdet wird.</P><P>(6) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen im Rahmen des Absatzes 1 oder 2 zulassen, sofern dies aus betrieblichen Gr\u00fcnden erforderlich ist und die Gesundheit der Arbeitnehmer nicht gef\u00e4hrdet wird.</P><P>(7) Auf Grund einer Regelung nach Absatz 2a oder den Abs\u00e4tzen 3 bis 5 jeweils in Verbindung mit Absatz 2a darf die Arbeitszeit nur verl\u00e4ngert werden, wenn der Arbeitnehmer schriftlich eingewilligt hat. Der Arbeitnehmer kann die Einwilligung mit einer Frist von sechs Monaten schriftlich widerrufen. Der Arbeitgeber darf einen Arbeitnehmer nicht benachteiligen, weil dieser die Einwilligung zur Verl\u00e4ngerung der Arbeitszeit nicht erkl\u00e4rt oder die Einwilligung widerrufen hat.</P><P>(8) Werden Regelungen nach Absatz 1 Nr. 1 und 4, Absatz 2 Nr. 2 bis 4 oder solche Regelungen auf Grund der Abs\u00e4tze 3 und 4 zugelassen, darf die Arbeitszeit 48 Stunden w\u00f6chentlich im Durchschnitt von zw\u00f6lf Kalendermonaten nicht \u00fcberschreiten. Erfolgt die Zulassung auf Grund des Absatzes 5, darf die Arbeitszeit 48 Stunden w\u00f6chentlich im Durchschnitt von sechs Kalendermonaten oder 24 Wochen nicht \u00fcberschreiten.</P><P>(9) Wird die werkt\u00e4gliche Arbeitszeit \u00fcber zw\u00f6lf Stunden hinaus verl\u00e4ngert, muss im unmittelbaren Anschluss an die Beendigung der Arbeitszeit eine Ruhezeit von mindestens elf Stunden gew\u00e4hrt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000200307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE001600307",
+        "type": "article",
+        "name": "\u00a7 8",
+        "title": "Gef\u00e4hrliche Arbeiten",
+        "body": {
+          "content": "<P>Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates f\u00fcr einzelne Besch\u00e4ftigungsbereiche, f\u00fcr bestimmte Arbeiten oder f\u00fcr bestimmte Arbeitnehmergruppen, bei denen besondere Gefahren f\u00fcr die Gesundheit der Arbeitnehmer zu erwarten sind, die Arbeitszeit \u00fcber \u00a7 3 hinaus beschr\u00e4nken, die Ruhepausen und Ruhezeiten \u00fcber die \u00a7\u00a7 4 und 5 hinaus ausdehnen, die Regelungen zum Schutz der Nacht- und Schichtarbeitnehmer in \u00a7 6 erweitern und die Abweichungsm\u00f6glichkeiten nach \u00a7 7 beschr\u00e4nken, soweit dies zum Schutz der Gesundheit der Arbeitnehmer erforderlich ist. Satz 1 gilt nicht f\u00fcr Besch\u00e4ftigungsbereiche und Arbeiten in Betrieben, die der Bergaufsicht unterliegen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000200307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNG000300307",
+        "type": "heading",
+        "name": "Dritter Abschnitt",
+        "title": "Sonn- und Feiertagsruhe",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR117100994BJNE001700307",
+        "type": "article",
+        "name": "\u00a7 9",
+        "title": "Sonn- und Feiertagsruhe",
+        "body": {
+          "content": "<P>(1) Arbeitnehmer d\u00fcrfen an Sonn- und gesetzlichen Feiertagen von 0 bis 24 Uhr nicht besch\u00e4ftigt werden.</P><P>(2) In mehrschichtigen Betrieben mit regelm\u00e4\u00dfiger Tag- und Nachtschicht kann Beginn oder Ende der Sonn- und Feiertagsruhe um bis zu sechs Stunden vor- oder zur\u00fcckverlegt werden, wenn f\u00fcr die auf den Beginn der Ruhezeit folgenden 24 Stunden der Betrieb ruht.</P><P>(3) F\u00fcr Kraftfahrer und Beifahrer kann der Beginn der 24st\u00fcndigen Sonn- und Feiertagsruhe um bis zu zwei Stunden vorverlegt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000300307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE001802308",
+        "type": "article",
+        "name": "\u00a7 10",
+        "title": "Sonn- und Feiertagsbesch\u00e4ftigung",
+        "body": {
+          "content": "<P>(1) Sofern die Arbeiten nicht an Werktagen vorgenommen werden k\u00f6nnen, d\u00fcrfen Arbeitnehmer an Sonn- und Feiertagen abweichend von \u00a7 9 besch\u00e4ftigt werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Not- und Rettungsdiensten sowie bei der Feuerwehr,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Aufrechterhaltung der \u00f6ffentlichen Sicherheit und Ordnung sowie der Funktionsf\u00e4higkeit von Gerichten und Beh\u00f6rden und f\u00fcr Zwecke der Verteidigung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Krankenh\u00e4usern und anderen Einrichtungen zur Behandlung, Pflege und Betreuung von Personen,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Gastst\u00e4tten und anderen Einrichtungen zur Bewirtung und Beherbergung sowie im Haushalt,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Musikauff\u00fchrungen, Theatervorstellungen, Filmvorf\u00fchrungen, Schaustellungen, Darbietungen und anderen \u00e4hnlichen Veranstaltungen,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei nichtgewerblichen Aktionen und Veranstaltungen der Kirchen, Religionsgesellschaften, Verb\u00e4nde, Vereine, Parteien und anderer \u00e4hnlicher Vereinigungen,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Sport und in Freizeit-, Erholungs- und Vergn\u00fcgungseinrichtungen, beim Fremdenverkehr sowie in Museen und wissenschaftlichen Pr\u00e4senzbibliotheken,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Rundfunk, bei der Tages- und Sportpresse, bei Nachrichtenagenturen sowie bei den der Tagesaktualit\u00e4t dienenden T\u00e4tigkeiten f\u00fcr andere Presseerzeugnisse einschlie\u00dflich des Austragens, bei der Herstellung von Satz, Filmen und Druckformen f\u00fcr tagesaktuelle Nachrichten und Bilder, bei tagesaktuellen Aufnahmen auf Ton- und Bildtr\u00e4ger sowie beim Transport und Kommissionieren von Presseerzeugnissen, deren Ersterscheinungstag am Montag oder am Tag nach einem Feiertag liegt,</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Messen, Ausstellungen und M\u00e4rkten im Sinne des Titels IV der Gewerbeordnung sowie bei Volksfesten,</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Verkehrsbetrieben sowie beim Transport und Kommissionieren von leichtverderblichen Waren im Sinne des \u00a7 30 Abs. 3 Nr. 2 der Stra\u00dfenverkehrsordnung,</LA></DD> <DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den Energie- und Wasserversorgungsbetrieben sowie in Abfall- und Abwasserentsorgungsbetrieben,</LA></DD> <DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Landwirtschaft und in der Tierhaltung sowie in Einrichtungen zur Behandlung und Pflege von Tieren,</LA></DD> <DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Bewachungsgewerbe und bei der Bewachung von Betriebsanlagen,</LA></DD> <DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Reinigung und Instandhaltung von Betriebseinrichtungen, soweit hierdurch der regelm\u00e4\u00dfige Fortgang des eigenen oder eines fremden Betriebs bedingt ist, bei der Vorbereitung der Wiederaufnahme des vollen werkt\u00e4gigen Betriebs sowie bei der Aufrechterhaltung der Funktionsf\u00e4higkeit von Datennetzen und Rechnersystemen,</LA></DD> <DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Verh\u00fctung des Verderbens von Naturerzeugnissen oder Rohstoffen oder des Mi\u00dflingens von Arbeitsergebnissen sowie bei kontinuierlich durchzuf\u00fchrenden Forschungsarbeiten,</LA></DD> <DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Vermeidung einer Zerst\u00f6rung oder erheblichen Besch\u00e4digung der Produktionseinrichtungen.</LA></DD> </DL> </P><P>(2) Abweichend von \u00a7 9 d\u00fcrfen Arbeitnehmer an Sonn- und Feiertagen mit den Produktionsarbeiten besch\u00e4ftigt werden, wenn die infolge der Unterbrechung der Produktion nach Absatz 1 Nr. 14 zul\u00e4ssigen Arbeiten den Einsatz von mehr Arbeitnehmern als bei durchgehender Produktion erfordern.</P><P>(3) Abweichend von \u00a7 9 d\u00fcrfen Arbeitnehmer an Sonn- und Feiertagen in B\u00e4ckereien und Konditoreien f\u00fcr bis zu drei Stunden mit der Herstellung und dem Austragen oder Ausfahren von Konditorwaren und an diesem Tag zum Verkauf kommenden B\u00e4ckerwaren besch\u00e4ftigt werden.</P><P>(4) Sofern die Arbeiten nicht an Werktagen vorgenommen werden k\u00f6nnen, d\u00fcrfen Arbeitnehmer zur Durchf\u00fchrung des Eil- und Gro\u00dfbetragszahlungsverkehrs und des Geld-, Devisen-, Wertpapier- und Derivatehandels abweichend von \u00a7 9 Abs. 1 an den auf einen Werktag fallenden Feiertagen besch\u00e4ftigt werden, die nicht in allen Mitgliedstaaten der Europ\u00e4ischen Union Feiertage sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000300307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE001901308",
+        "type": "article",
+        "name": "\u00a7 11",
+        "title": "Ausgleich f\u00fcr Sonn- und Feiertagsbesch\u00e4ftigung",
+        "body": {
+          "content": "<P>(1) Mindestens 15 Sonntage im Jahr m\u00fcssen besch\u00e4ftigungsfrei bleiben.</P><P>(2) F\u00fcr die Besch\u00e4ftigung an Sonn- und Feiertagen gelten die \u00a7\u00a7 3 bis 8 entsprechend, jedoch d\u00fcrfen durch die Arbeitszeit an Sonn- und Feiertagen die in den \u00a7\u00a7 3, 6 Abs. 2, \u00a7\u00a7 7 und 21a Abs. 4 bestimmten H\u00f6chstarbeitszeiten und Ausgleichszeitr\u00e4ume nicht \u00fcberschritten werden.</P><P>(3) Werden Arbeitnehmer an einem Sonntag besch\u00e4ftigt, m\u00fcssen sie einen Ersatzruhetag haben, der innerhalb eines den Besch\u00e4ftigungstag einschlie\u00dfenden Zeitraums von zwei Wochen zu gew\u00e4hren ist. Werden Arbeitnehmer an einem auf einen Werktag fallenden Feiertag besch\u00e4ftigt, m\u00fcssen sie einen Ersatzruhetag haben, der innerhalb eines den Besch\u00e4ftigungstag einschlie\u00dfenden Zeitraums von acht Wochen zu gew\u00e4hren ist.</P><P>(4) Die Sonn- oder Feiertagsruhe des \u00a7 9 oder der Ersatzruhetag des Absatzes 3 ist den Arbeitnehmern unmittelbar in Verbindung mit einer Ruhezeit nach \u00a7 5 zu gew\u00e4hren, soweit dem technische oder arbeitsorganisatorische Gr\u00fcnde nicht entgegenstehen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000300307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE002001308",
+        "type": "article",
+        "name": "\u00a7 12",
+        "title": "Abweichende Regelungen",
+        "body": {
+          "content": "<P>In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden,</P><P><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 11 Abs. 1 die Anzahl der besch\u00e4ftigungsfreien Sonntage in den Einrichtungen des \u00a7 10 Abs. 1 Nr. 2, 3, 4 und 10 auf mindestens zehn Sonntage, im Rundfunk, in Theaterbetrieben, Orchestern sowie bei Schaustellungen auf mindestens acht Sonntage, in Filmtheatern und in der Tierhaltung auf mindestens sechs Sonntage im Jahr zu verringern,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 11 Abs. 3 den Wegfall von Ersatzruhetagen f\u00fcr auf Werktage fallende Feiertage zu vereinbaren oder Arbeitnehmer innerhalb eines festzulegenden Ausgleichszeitraums besch\u00e4ftigungsfrei zu stellen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 11 Abs. 1 bis 3 in der Seeschiffahrt die den Arbeitnehmern nach diesen Vorschriften zustehenden freien Tage zusammenh\u00e4ngend zu geben,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 11 Abs. 2 die Arbeitszeit in vollkontinuierlichen Schichtbetrieben an Sonn- und Feiertagen auf bis zu zw\u00f6lf Stunden zu verl\u00e4ngern, wenn dadurch zus\u00e4tzliche freie Schichten an Sonn- und Feiertagen erreicht werden.</LA></DD> </DL>\u00a7 7 Abs. 3 bis 6 findet Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000300307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE002100307",
+        "type": "article",
+        "name": "\u00a7 13",
+        "title": "Erm\u00e4chtigung, Anordnung, Bewilligung",
+        "body": {
+          "content": "<P>(1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vermeidung erheblicher Sch\u00e4den unter Ber\u00fccksichtigung des Schutzes der Arbeitnehmer und der Sonn- und Feiertagsruhe <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bereiche mit Sonn- und Feiertagsbesch\u00e4ftigung nach \u00a7 10 sowie die dort zugelassenen Arbeiten n\u00e4her bestimmen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber die Ausnahmen nach \u00a7 10 hinaus weitere Ausnahmen abweichend von \u00a7 9<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Betriebe, in denen die Besch\u00e4ftigung von Arbeitnehmern an Sonn- oder Feiertagen zur Befriedigung t\u00e4glicher oder an diesen Tagen besonders hervortretender Bed\u00fcrfnisse der Bev\u00f6lkerung erforderlich ist,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Betriebe, in denen Arbeiten vorkommen, deren Unterbrechung oder Aufschub<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach dem Stand der Technik ihrer Art nach nicht oder nur mit erheblichen Schwierigkeiten m\u00f6glich ist,</LA></DD> <DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">besondere Gefahren f\u00fcr Leben oder Gesundheit der Arbeitnehmer zur Folge h\u00e4tte,</LA></DD> <DT>cc)</DT><DD Font=\"normal\"><LA Size=\"normal\">zu erheblichen Belastungen der Umwelt oder der Energie- oder Wasserversorgung f\u00fchren w\u00fcrde,</LA></DD> </DL></LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">aus Gr\u00fcnden des Gemeinwohls, insbesondere auch zur Sicherung der Besch\u00e4ftigung,</LA></DD> </DL></LA><LA Size=\"normal\">zulassen und die zum Schutz der Arbeitnehmer und der Sonn- und Feiertagsruhe notwendigen Bedingungen bestimmen.</LA></DD> </DL> </P><P>(2) Soweit die Bundesregierung von der Erm\u00e4chtigung des Absatzes 1 Nr. 2 Buchstabe a keinen Gebrauch gemacht hat, k\u00f6nnen die Landesregierungen durch Rechtsverordnung entsprechende Bestimmungen erlassen. Die Landesregierungen k\u00f6nnen diese Erm\u00e4chtigung durch Rechtsverordnung auf oberste Landesbeh\u00f6rden \u00fcbertragen. </P><P>(3) Die Aufsichtsbeh\u00f6rde kann<DL Font=\"normal\" Type=\"arabic\"> <DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">feststellen, ob eine Besch\u00e4ftigung nach \u00a7 10 zul\u00e4ssig ist,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von \u00a7 9 bewilligen, Arbeitnehmer zu besch\u00e4ftigen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Handelsgewerbe an bis zu zehn Sonn- und Feiertagen im Jahr, an denen besondere Verh\u00e4ltnisse einen erweiterten Gesch\u00e4ftsverkehr erforderlich machen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">an bis zu f\u00fcnf Sonn- und Feiertagen im Jahr, wenn besondere Verh\u00e4ltnisse zur Verh\u00fctung eines unverh\u00e4ltnism\u00e4\u00dfigen Schadens dies erfordern,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">an einem Sonntag im Jahr zur Durchf\u00fchrung einer gesetzlich vorgeschriebenen Inventur,</LA></DD> </DL></LA></DD> </DL>und Anordnungen \u00fcber die Besch\u00e4ftigungszeit unter Ber\u00fccksichtigung der f\u00fcr den \u00f6ffentlichen Gottesdienst bestimmten Zeit treffen.</P><P>(4) Die Aufsichtsbeh\u00f6rde soll abweichend von \u00a7 9 bewilligen, da\u00df Arbeitnehmer an Sonn- und Feiertagen mit Arbeiten besch\u00e4ftigt werden, die aus chemischen, biologischen, technischen oder physikalischen Gr\u00fcnden einen ununterbrochenen Fortgang auch an Sonn- und Feiertagen erfordern.</P><P>(5) Die Aufsichtsbeh\u00f6rde hat abweichend von \u00a7 9 die Besch\u00e4ftigung von Arbeitnehmern an Sonn- und Feiertagen zu bewilligen, wenn bei einer weitgehenden Ausnutzung der gesetzlich zul\u00e4ssigen w\u00f6chentlichen Betriebszeiten und bei l\u00e4ngeren Betriebszeiten im Ausland die Konkurrenzf\u00e4higkeit unzumutbar beeintr\u00e4chtigt ist und durch die Genehmigung von Sonn- und Feiertagsarbeit die Besch\u00e4ftigung gesichert werden kann.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000300307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNG000400307",
+        "type": "heading",
+        "name": "Vierter Abschnitt",
+        "title": "Ausnahmen in besonderen F\u00e4llen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR117100994BJNE002202126",
+        "type": "article",
+        "name": "\u00a7 14",
+        "title": "Au\u00dfergew\u00f6hnliche F\u00e4lle",
+        "body": {
+          "content": "<P>(1) Von den \u00a7\u00a7 3 bis 5, 6 Abs. 2, \u00a7\u00a7 7, 9 bis 11 darf abgewichen werden bei vor\u00fcbergehenden Arbeiten in Notf\u00e4llen und in au\u00dfergew\u00f6hnlichen F\u00e4llen, die unabh\u00e4ngig vom Willen der Betroffenen eintreten und deren Folgen nicht auf andere Weise zu beseitigen sind, besonders wenn Rohstoffe oder Lebensmittel zu verderben oder Arbeitsergebnisse zu mi\u00dflingen drohen.</P><P>(2) Von den \u00a7\u00a7 3 bis 5, 6 Abs. 2, \u00a7\u00a7 7, 11 Abs. 1 bis 3 und \u00a7 12 darf ferner abgewichen werden, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn eine verh\u00e4ltnism\u00e4\u00dfig geringe Zahl von Arbeitnehmern vor\u00fcbergehend mit Arbeiten besch\u00e4ftigt wird, deren Nichterledigung das Ergebnis der Arbeiten gef\u00e4hrden oder einen unverh\u00e4ltnism\u00e4\u00dfigen Schaden zur Folge haben w\u00fcrden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Forschung und Lehre, bei unaufschiebbaren Vor- und Abschlu\u00dfarbeiten sowie bei unaufschiebbaren Arbeiten zur Behandlung, Pflege und Betreuung von Personen oder zur Behandlung und Pflege von Tieren an einzelnen Tagen,</LA></DD></DL>wenn dem Arbeitgeber andere Vorkehrungen nicht zugemutet werden k\u00f6nnen.</P><P>(3) Wird von den Befugnissen nach Absatz 1 oder 2 Gebrauch gemacht, darf die Arbeitszeit 48 Stunden w\u00f6chentlich im Durchschnitt von sechs Kalendermonaten oder 24 Wochen nicht \u00fcberschreiten.</P><P>(4) Das Bundesministerium f\u00fcr Arbeit und Soziales kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium f\u00fcr Gesundheit ohne Zustimmung des Bundesrates in au\u00dfergew\u00f6hnlichen Notf\u00e4llen mit bundesweiten Auswirkungen, insbesondere in epidemischen Lagen von nationaler Tragweite nach \u00a7 5 Absatz 1 des Infektionsschutzgesetzes, f\u00fcr T\u00e4tigkeiten der Arbeitnehmer f\u00fcr einen befristeten Zeitraum Ausnahmen zulassen, die \u00fcber die in diesem Gesetz und in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie in Tarifvertr\u00e4gen vorgesehenen Ausnahmen hinausgehen. Diese T\u00e4tigkeiten m\u00fcssen zur Aufrechterhaltung der \u00f6ffentlichen Sicherheit und Ordnung, des Gesundheitswesens und der pflegerischen Versorgung, der Daseinsvorsorge oder zur Versorgung der Bev\u00f6lkerung mit existenziellen G\u00fctern notwendig sein. In der Rechtsverordnung sind die notwendigen Bedingungen zum Schutz der in Satz 1 genannten Arbeitnehmer zu bestimmen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000400307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE002305377",
+        "type": "article",
+        "name": "\u00a7 15",
+        "title": "Bewilligung, Erm\u00e4chtigung",
+        "body": {
+          "content": "<P>(1) Die Aufsichtsbeh\u00f6rde kann <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine von den \u00a7\u00a7 3, 6 Abs. 2 und \u00a7 11 Abs. 2 abweichende l\u00e4ngere t\u00e4gliche Arbeitszeit bewilligen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr kontinuierliche Schichtbetriebe zur Erreichung zus\u00e4tzlicher Freischichten,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Bau- und Montagestellen,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine von den \u00a7\u00a7 3, 6 Abs. 2 und \u00a7 11 Abs. 2 abweichende l\u00e4ngere t\u00e4gliche Arbeitszeit f\u00fcr Saison- und Kampagnebetriebe f\u00fcr die Zeit der Saison oder Kampagne bewilligen, wenn die Verl\u00e4ngerung der Arbeitszeit \u00fcber acht Stunden werkt\u00e4glich durch eine entsprechende Verk\u00fcrzung der Arbeitszeit zu anderen Zeiten ausgeglichen wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine von den \u00a7\u00a7 5 und 11 Abs. 2 abweichende Dauer und Lage der Ruhezeit bei Arbeitsbereitschaft, Bereitschaftsdienst und Rufbereitschaft den Besonderheiten dieser Inanspruchnahmen im \u00f6ffentlichen Dienst entsprechend bewilligen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine von den \u00a7\u00a7 5 und 11 Abs. 2 abweichende Ruhezeit zur Herbeif\u00fchrung eines regelm\u00e4\u00dfigen w\u00f6chentlichen Schichtwechsels zweimal innerhalb eines Zeitraums von drei Wochen bewilligen.</LA></DD></DL></P><P>(2) Die Aufsichtsbeh\u00f6rde kann \u00fcber die in diesem Gesetz vorgesehenen Ausnahmen hinaus weitergehende Ausnahmen zulassen, soweit sie im \u00f6ffentlichen Interesse dringend n\u00f6tig werden.</P><P>(2a) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Ausnahmen von den \u00a7\u00a7 3, 4, 5 und 6 Absatz 2 sowie von den \u00a7\u00a7 9 und 11 f\u00fcr Arbeitnehmer, die besondere T\u00e4tigkeiten zur Errichtung, zur \u00c4nderung oder zum Betrieb von Bauwerken, k\u00fcnstlichen Inseln oder sonstigen Anlagen auf See (Offshore-T\u00e4tigkeiten) durchf\u00fchren, zulassen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die zum Schutz der in Nummer 1 genannten Arbeitnehmer sowie der Sonn- und Feiertagsruhe notwendigen Bedingungen bestimmen.</LA></DD></DL></P><P>(3) Das Bundesministerium der Verteidigung kann in seinem Gesch\u00e4ftsbereich durch Rechtsverordnung mit Zustimmung des Bundesministeriums f\u00fcr Arbeit und Soziales aus zwingenden Gr\u00fcnden der Verteidigung Arbeitnehmer verpflichten, \u00fcber die in diesem Gesetz und in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und Tarifvertr\u00e4gen festgelegten Arbeitszeitgrenzen und -beschr\u00e4nkungen hinaus Arbeit zu leisten.</P><P>(3a) Das Bundesministerium der Verteidigung kann in seinem Gesch\u00e4ftsbereich durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium f\u00fcr Arbeit und Soziales f\u00fcr besondere T\u00e4tigkeiten der Arbeitnehmer bei den Streitkr\u00e4ften Abweichungen von in diesem Gesetz sowie von in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen bestimmten Arbeitszeitgrenzen und -beschr\u00e4nkungen zulassen, soweit die Abweichungen aus zwingenden Gr\u00fcnden erforderlich sind und die gr\u00f6\u00dftm\u00f6gliche Sicherheit und der bestm\u00f6gliche Gesundheitsschutz der Arbeitnehmer gew\u00e4hrleistet werden.</P><P>(4) Werden Ausnahmen nach Absatz 1 oder 2 zugelassen, darf die Arbeitszeit 48 Stunden w\u00f6chentlich im Durchschnitt von sechs Kalendermonaten oder 24 Wochen nicht \u00fcberschreiten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000400307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNG000500307",
+        "type": "heading",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Durchf\u00fchrung des Gesetzes",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR117100994BJNE002402308",
+        "type": "article",
+        "name": "\u00a7 16",
+        "title": "Aushang und Arbeitszeitnachweise",
+        "body": {
+          "content": "<P>(1) Der Arbeitgeber ist verpflichtet, einen Abdruck dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen, f\u00fcr den Betrieb geltenden Rechtsverordnungen und der f\u00fcr den Betrieb geltenden Tarifvertr\u00e4ge und Betriebs- oder Dienstvereinbarungen im Sinne des \u00a7 7 Abs. 1 bis 3, \u00a7\u00a7 12 und 21a Abs. 6 an geeigneter Stelle im Betrieb zur Einsichtnahme auszulegen oder auszuh\u00e4ngen.</P><P>(2) Der Arbeitgeber ist verpflichtet, die \u00fcber die werkt\u00e4gliche Arbeitszeit des \u00a7 3 Satz 1 hinausgehende Arbeitszeit der Arbeitnehmer aufzuzeichnen und ein Verzeichnis der Arbeitnehmer zu f\u00fchren, die in eine Verl\u00e4ngerung der Arbeitszeit gem\u00e4\u00df \u00a7 7 Abs. 7 eingewilligt haben. Die Nachweise sind mindestens zwei Jahre aufzubewahren.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000500307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE002502308",
+        "type": "article",
+        "name": "\u00a7 17",
+        "title": "Aufsichtsbeh\u00f6rde",
+        "body": {
+          "content": "<P>(1) Die Einhaltung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen wird von den nach Landesrecht zust\u00e4ndigen Beh\u00f6rden (Aufsichtsbeh\u00f6rden) \u00fcberwacht.</P><P>(2) Die Aufsichtsbeh\u00f6rde kann die erforderlichen Ma\u00dfnahmen anordnen, die der Arbeitgeber zur Erf\u00fcllung der sich aus diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten zu treffen hat.</P><P>(3) F\u00fcr den \u00f6ffentlichen Dienst des Bundes sowie f\u00fcr die bundesunmittelbaren K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts werden die Aufgaben und Befugnisse der Aufsichtsbeh\u00f6rde vom zust\u00e4ndigen Bundesministerium oder den von ihm bestimmten Stellen wahrgenommen; das gleiche gilt f\u00fcr die Befugnisse nach \u00a7 15 Abs. 1 und 2.</P><P>(4) Die Aufsichtsbeh\u00f6rde kann vom Arbeitgeber die f\u00fcr die Durchf\u00fchrung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlichen Ausk\u00fcnfte verlangen. Sie kann ferner vom Arbeitgeber verlangen, die Arbeitszeitnachweise und Tarifvertr\u00e4ge oder Betriebs- oder Dienstvereinbarungen im Sinne des \u00a7 7 Abs. 1 bis 3, \u00a7\u00a7 12 und 21a Abs. 6 vorzulegen oder zur Einsicht einzusenden.</P><P>(5) Die Beauftragten der Aufsichtsbeh\u00f6rde sind berechtigt, die Arbeitsst\u00e4tten w\u00e4hrend der Betriebs- und Arbeitszeit zu betreten und zu besichtigen; au\u00dferhalb dieser Zeit oder wenn sich die Arbeitsst\u00e4tten in einer Wohnung befinden, d\u00fcrfen sie ohne Einverst\u00e4ndnis des Inhabers nur zur Verh\u00fctung von dringenden Gefahren f\u00fcr die \u00f6ffentliche Sicherheit und Ordnung betreten und besichtigt werden. Der Arbeitgeber hat das Betreten und Besichtigen der Arbeitsst\u00e4tten zu gestatten. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschr\u00e4nkt.</P><P>(6) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in \u00a7 383 Abs. 1 Nr. 1 bis 3 der Zivilproze\u00dfordnung bezeichneten Angeh\u00f6rigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz \u00fcber Ordnungswidrigkeiten aussetzen w\u00fcrde.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000500307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNG000600307",
+        "type": "heading",
+        "name": "Sechster Abschnitt",
+        "title": "Sonderregelungen",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR117100994BJNE002602377",
+        "type": "article",
+        "name": "\u00a7 18",
+        "title": "Nichtanwendung des Gesetzes",
+        "body": {
+          "content": "<P>(1) Dieses Gesetz ist nicht anzuwenden auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">leitende Angestellte im Sinne des \u00a7 5 Abs. 3 des Betriebsverfassungsgesetzes sowie Chef\u00e4rzte,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leiter von \u00f6ffentlichen Dienststellen und deren Vertreter sowie Arbeitnehmer im \u00f6ffentlichen Dienst, die zu selbst\u00e4ndigen Entscheidungen in Personalangelegenheiten befugt sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Arbeitnehmer, die in h\u00e4uslicher Gemeinschaft mit den ihnen anvertrauten Personen zusammenleben und sie eigenverantwortlich erziehen, pflegen oder betreuen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den liturgischen Bereich der Kirchen und der Religionsgemeinschaften.</LA></DD></DL></P><P>(2) F\u00fcr die Besch\u00e4ftigung von Personen unter 18 Jahren gilt anstelle dieses Gesetzes das Jugendarbeitsschutzgesetz.</P><P>(3) F\u00fcr die Besch\u00e4ftigung von Arbeitnehmern als Besatzungsmitglieder auf Kauffahrteischiffen im Sinne des \u00a7 3 des Seearbeitsgesetzes gilt anstelle dieses Gesetzes das Seearbeitsgesetz.</P><P>(4) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000600307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE002700307",
+        "type": "article",
+        "name": "\u00a7 19",
+        "title": "Besch\u00e4ftigung im \u00f6ffentlichen Dienst",
+        "body": {
+          "content": "<P>Bei der Wahrnehmung hoheitlicher Aufgaben im \u00f6ffentlichen Dienst k\u00f6nnen, soweit keine tarifvertragliche Regelung besteht, durch die zust\u00e4ndige Dienstbeh\u00f6rde die f\u00fcr Beamte geltenden Bestimmungen \u00fcber die Arbeitszeit auf die Arbeitnehmer \u00fcbertragen werden; insoweit finden die \u00a7\u00a7 3 bis 13 keine Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000600307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE002800307",
+        "type": "article",
+        "name": "\u00a7 20",
+        "title": "Besch\u00e4ftigung in der Luftfahrt",
+        "body": {
+          "content": "<P>F\u00fcr die Besch\u00e4ftigung von Arbeitnehmern als Besatzungsmitglieder von Luftfahrzeugen gelten anstelle der Vorschriften dieses Gesetzes \u00fcber Arbeits- und Ruhezeiten die Vorschriften \u00fcber Flug-, Flugdienst- und Ruhezeiten der Zweiten Durchf\u00fchrungsverordnung zur Betriebsordnung f\u00fcr Luftfahrtger\u00e4t in der jeweils geltenden Fassung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000600307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE002902119",
+        "type": "article",
+        "name": "\u00a7 21",
+        "title": "Besch\u00e4ftigung in der Binnenschifffahrt",
+        "body": {
+          "content": "<P>(1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates, auch zur Umsetzung zwischenstaatlicher Vereinbarungen oder Rechtsakten der Europ\u00e4ischen Union, abweichend von den Vorschriften dieses Gesetzes die Bedingungen f\u00fcr die Arbeitszeitgestaltung von Arbeitnehmern, die als Mitglied der Besatzung oder des Bordpersonals an Bord eines Fahrzeugs in der Binnenschifffahrt besch\u00e4ftigt sind, regeln, soweit dies erforderlich ist, um den besonderen Bedingungen an Bord von Binnenschiffen Rechnung zu tragen. Insbesondere k\u00f6nnen in diesen Rechtsverordnungen die notwendigen Bedingungen f\u00fcr die Sicherheit und den Gesundheitsschutz im Sinne des \u00a7 1, einschlie\u00dflich gesundheitlicher Untersuchungen hinsichtlich der Auswirkungen der Arbeitszeitbedingungen auf einem Schiff in der Binnenschifffahrt, sowie die notwendigen Bedingungen f\u00fcr den Schutz der Sonn- und Feiertagsruhe bestimmt werden. In Rechtsverordnungen nach Satz 1 kann ferner bestimmt werden, dass von den Vorschriften der Rechtsverordnung durch Tarifvertrag abgewichen werden kann.</P><P>(2) Soweit die Bundesregierung von der Erm\u00e4chtigung des Absatzes 1 keinen Gebrauch macht, gelten die Vorschriften dieses Gesetzes f\u00fcr das Fahrpersonal auf Binnenschiffen, es sei denn, binnenschifffahrtsrechtliche Vorschriften \u00fcber Ruhezeiten stehen dem entgegen. Bei Anwendung des Satzes 1 kann durch Tarifvertrag von den Vorschriften dieses Gesetzes abgewichen werden, um der Eigenart der Binnenschifffahrt Rechnung zu tragen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000600307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE003501308",
+        "type": "article",
+        "name": "\u00a7 21a",
+        "title": "Besch\u00e4ftigung im Stra\u00dfentransport",
+        "body": {
+          "content": "<P>(1) F\u00fcr die Besch\u00e4ftigung von Arbeitnehmern als Fahrer oder Beifahrer bei Stra\u00dfenverkehrst\u00e4tigkeiten im Sinne der Verordnung (EG) Nr. 561/2006 des Europ\u00e4ischen Parlaments und des Rates vom 15. M\u00e4rz 2006 zur Harmonisierung bestimmter Sozialvorschriften im Stra\u00dfenverkehr und zur \u00c4nderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates (ABl. EG Nr. L 102 S. 1) oder des Europ\u00e4ischen \u00dcbereinkommens \u00fcber die Arbeit des im internationalen Stra\u00dfenverkehr besch\u00e4ftigten Fahrpersonals (AETR) vom 1. Juli 1970 (BGBl. II 1974 S. 1473) in ihren jeweiligen Fassungen gelten die Vorschriften  dieses Gesetzes, soweit nicht die folgenden Abs\u00e4tze abweichende Regelungen enthalten. Die Vorschriften der Verordnung (EG) Nr. 561/2006 und des AETR bleiben unber\u00fchrt.</P><P>(2) Eine Woche im Sinne dieser Vorschriften ist der Zeitraum von Montag 0 Uhr bis Sonntag 24 Uhr.</P><P>(3) Abweichend von \u00a7 2 Abs. 1 ist keine Arbeitszeit: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zeit, w\u00e4hrend derer sich ein Arbeitnehmer am Arbeitsplatz bereithalten muss, um seine T\u00e4tigkeit aufzunehmen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zeit, w\u00e4hrend derer sich ein Arbeitnehmer bereithalten muss, um seine T\u00e4tigkeit auf Anweisung aufnehmen zu k\u00f6nnen, ohne sich an seinem Arbeitsplatz aufhalten zu m\u00fcssen;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Arbeitnehmer, die sich beim Fahren abwechseln, die w\u00e4hrend der Fahrt neben dem Fahrer oder in einer Schlafkabine verbrachte Zeit.</LA></DD> </DL>F\u00fcr die Zeiten nach Satz 1 Nr. 1 und 2 gilt dies nur, wenn der Zeitraum und dessen voraussichtliche Dauer im Voraus, sp\u00e4testens unmittelbar vor Beginn des betreffenden Zeitraums bekannt ist. Die in Satz 1 genannten Zeiten sind keine Ruhezeiten. Die in Satz 1 Nr. 1 und 2 genannten Zeiten sind keine Ruhepausen.</P><P>(4) Die Arbeitszeit darf 48 Stunden w\u00f6chentlich nicht \u00fcberschreiten. Sie kann auf bis zu 60 Stunden verl\u00e4ngert werden, wenn innerhalb von vier Kalendermonaten oder 16 Wochen im Durchschnitt 48 Stunden w\u00f6chentlich nicht \u00fcberschritten werden.</P><P>(5) Die Ruhezeiten bestimmen sich nach den Vorschriften der Europ\u00e4ischen Gemeinschaften f\u00fcr Kraftfahrer und Beifahrer sowie nach dem AETR. Dies gilt auch f\u00fcr Auszubildende und Praktikanten.</P><P>(6) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">n\u00e4here Einzelheiten zu den in Absatz 3 Satz 1 Nr. 1, 2 und Satz 2 genannten Voraussetzungen zu regeln,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">abweichend von Absatz 4 sowie den \u00a7\u00a7 3 und 6 Abs. 2 die Arbeitszeit festzulegen, wenn objektive, technische oder arbeitszeitorganisatorische Gr\u00fcnde vorliegen. Dabei darf die Arbeitszeit 48 Stunden w\u00f6chentlich im Durchschnitt von sechs Kalendermonaten nicht \u00fcberschreiten.</LA></DD> </DL>\u00a7 7 Abs. 1 Nr. 2 und Abs. 2a gilt nicht. \u00a7 7 Abs. 3 gilt entsprechend.</P><P>(7) Der Arbeitgeber ist verpflichtet, die Arbeitszeit der Arbeitnehmer aufzuzeichnen. Die Aufzeichnungen sind mindestens zwei Jahre aufzubewahren. Der Arbeitgeber hat dem Arbeitnehmer auf Verlangen eine Kopie der Aufzeichnungen seiner Arbeitszeit auszuh\u00e4ndigen.</P><P>(8) Zur Berechnung der Arbeitszeit fordert der Arbeitgeber den Arbeitnehmer schriftlich auf, ihm eine Aufstellung der bei einem anderen Arbeitgeber geleisteten Arbeitszeit vorzulegen. Der Arbeitnehmer legt diese Angaben schriftlich vor.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000600307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNG000700307",
+        "type": "heading",
+        "name": "Siebter Abschnitt",
+        "title": "Straf- und Bu\u00dfgeldvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR117100994BJNE003004119",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": "Bu\u00dfgeldvorschriften",
+        "body": {
+          "content": "<P>(1) Ordnungswidrig handelt, wer als Arbeitgeber vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7\u00a7 3, 6 Abs. 2 oder \u00a7 21a Abs. 4, jeweils auch in Verbindung mit \u00a7 11 Abs. 2, einen Arbeitnehmer \u00fcber die Grenzen der Arbeitszeit hinaus besch\u00e4ftigt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 4 Ruhepausen nicht, nicht mit der vorgeschriebenen Mindestdauer oder nicht rechtzeitig gew\u00e4hrt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 5 Abs. 1 die Mindestruhezeit nicht gew\u00e4hrt oder entgegen \u00a7 5 Abs. 2 die Verk\u00fcrzung der Ruhezeit durch Verl\u00e4ngerung einer anderen Ruhezeit nicht oder nicht rechtzeitig ausgleicht,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Rechtsverordnung nach \u00a7 8 Satz 1, \u00a7 13 Abs. 1 oder 2, \u00a7 15 Absatz 2a Nummer 2, \u00a7 21 Absatz 1 oder \u00a7 24 zuwiderhandelt, soweit sie f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 9 Abs. 1 einen Arbeitnehmer an Sonn- oder Feiertagen besch\u00e4ftigt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11 Abs. 1 einen Arbeitnehmer an allen Sonntagen besch\u00e4ftigt oder entgegen \u00a7 11 Abs. 3 einen Ersatzruhetag nicht oder nicht rechtzeitig gew\u00e4hrt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 13 Abs. 3 Nr. 2 zuwiderhandelt,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 16 Abs. 1 die dort bezeichnete Auslage oder den dort bezeichneten Aushang nicht vornimmt,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 16 Abs. 2 oder \u00a7 21a Abs. 7 Aufzeichnungen nicht oder nicht richtig erstellt oder nicht f\u00fcr die vorgeschriebene Dauer aufbewahrt oder</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 17 Abs. 4 eine Auskunft nicht, nicht richtig oder nicht vollst\u00e4ndig erteilt, Unterlagen nicht oder nicht vollst\u00e4ndig vorlegt oder nicht einsendet oder entgegen \u00a7 17 Abs. 5 Satz 2 eine Ma\u00dfnahme nicht gestattet.</LA></DD></DL></P><P>(2) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nr. 1 bis 7, 9 und 10 mit einer Geldbu\u00dfe bis zu f\u00fcnfzehntausend Euro, in den F\u00e4llen des Absatzes 1 Nr. 8 mit einer Geldbu\u00dfe bis zu zweitausendf\u00fcnfhundert Euro geahndet werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000700307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE003100307",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": "Strafvorschriften",
+        "body": {
+          "content": "<P>(1) Wer eine der in \u00a7 22 Abs. 1 Nr. 1 bis 3, 5 bis 7 bezeichneten Handlungen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">vors\u00e4tzlich begeht und dadurch Gesundheit oder Arbeitskraft eines Arbeitnehmers gef\u00e4hrdet oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">beharrlich wiederholt,</LA></DD> </DL>wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.</P><P>(2) Wer in den F\u00e4llen des Absatzes 1 Nr. 1 die Gefahr fahrl\u00e4ssig verursacht, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 180 Tagess\u00e4tzen bestraft.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000700307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNG000800307",
+        "type": "heading",
+        "name": "Achter Abschnitt",
+        "title": "Schlu\u00dfvorschriften",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR117100994BJNE003200307",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": "Umsetzung von zwischenstaatlichen Vereinbarungen\nund Rechtsakten der EG",
+        "body": {
+          "content": "<P>Die Bundesregierung kann mit Zustimmung des Bundesrates zur Erf\u00fcllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder zur Umsetzung von Rechtsakten des Rates oder der Kommission der Europ\u00e4ischen Gemeinschaften, die Sachbereiche dieses Gesetzes betreffen, Rechtsverordnungen nach diesem Gesetz erlassen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000800307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE003302308",
+        "type": "article",
+        "name": "\u00a7 25",
+        "title": "\u00dcbergangsregelung f\u00fcr Tarifvertr\u00e4ge",
+        "body": {
+          "content": "<P>Enth\u00e4lt ein am 1. Januar 2004 bestehender oder nachwirkender Tarifvertrag abweichende Regelungen nach \u00a7 7 Abs. 1 oder 2 oder \u00a7 12 Satz 1, die den in diesen Vorschriften festgelegten H\u00f6chstrahmen \u00fcberschreiten, bleiben diese tarifvertraglichen Bestimmungen bis zum 31. Dezember 2006 unber\u00fchrt. Tarifvertr\u00e4gen nach Satz 1 stehen durch Tarifvertrag zugelassene Betriebsvereinbarungen sowie Regelungen nach \u00a7 7 Abs. 4 gleich.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000800307"
+        }
+      },
+      {
+        "id": "BJNR117100994BJNE003401308",
+        "type": "article",
+        "name": "\u00a7 26",
+        "title": null,
+        "body": {
+          "content": "<P>(weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR117100994BJNG000800307"
+        }
+      }
+    ]
+  }
+}

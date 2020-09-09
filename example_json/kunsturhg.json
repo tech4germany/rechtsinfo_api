@@ -1,0 +1,350 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR000070907",
+    "abbreviation": "KunstUrhG",
+    "extraAbbreviations": [],
+    "firstPublished": "1907-01-09",
+    "sourceTimestamp": "20180425212501",
+    "headingShort": null,
+    "headingLong": "Gesetz betreffend das Urheberrecht an Werken der bildenden K\u00fcnste und der Photographie",
+    "publicationInfo": [
+      {
+        "periodical": "RGBl",
+        "reference": "1907, 7"
+      }
+    ],
+    "statusInfo": [
+      {
+        "category": "Stand",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 3 \u00a7 31 G v. 16. 2.2001 I 266"
+      },
+      {
+        "category": "Aufh",
+        "comment": "G aufgeh. durch \u00a7 141 Nr. 5 G v. 9.9.1965 I 1273 mWv 1.1.1966, soweit es nicht den Schutz von Bildnissen betrifft"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.1.1975 +++)</P>"
+    },
+    "contents": [
+      {
+        "id": "BJNR000070907BJNE002700315",
+        "type": "article",
+        "name": "(XXXX) \u00a7\u00a7 1 bis 21",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE002801320",
+        "type": "article",
+        "name": "\u00a7 22",
+        "title": null,
+        "body": {
+          "content": "<P>Bildnisse d\u00fcrfen nur mit Einwilligung des Abgebildeten verbreitet oder \u00f6ffentlich zur Schau gestellt werden. Die Einwilligung gilt im Zweifel als erteilt, wenn der Abgebildete daf\u00fcr, da\u00df er sich abbilden lie\u00df, eine Entlohnung erhielt. Nach dem Tode des Abgebildeten bedarf es bis zum Ablaufe von 10 Jahren der Einwilligung der Angeh\u00f6rigen des Abgebildeten. Angeh\u00f6rige im Sinne dieses Gesetzes sind der \u00fcberlebende Ehegatte oder Lebenspartner und die Kinder des Abgebildeten und, wenn weder ein Ehegatte oder Lebenspartner noch Kinder vorhanden sind, die Eltern des Abgebildeten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE002900315",
+        "type": "article",
+        "name": "\u00a7 23",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Ohne die nach \u00a7 22 erforderliche Einwilligung d\u00fcrfen verbreitet und zur Schau gestellt werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bildnisse aus dem Bereiche der Zeitgeschichte;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bilder, auf denen die Personen nur als Beiwerk neben einer Landschaft oder sonstigen \u00d6rtlichkeit erscheinen;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bilder von Versammlungen, Aufz\u00fcgen und \u00e4hnlichen Vorg\u00e4ngen, an denen die dargestellten Personen teilgenommen haben;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bildnisse, die nicht auf Bestellung angefertigt sind, sofern die Verbreitung oder Schaustellung einem h\u00f6heren Interesse der Kunst dient.</LA></DD> </DL> </P><P>(2) Die Befugnis erstreckt sich jedoch nicht auf eine Verbreitung und Schaustellung, durch die ein berechtigtes Interesse des Abgebildeten oder, falls dieser verstorben ist, seiner Angeh\u00f6rigen verletzt wird.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE003000315",
+        "type": "article",
+        "name": "\u00a7 24",
+        "title": null,
+        "body": {
+          "content": "<P>F\u00fcr Zwecke der Rechtspflege und der \u00f6ffentlichen Sicherheit d\u00fcrfen von den Beh\u00f6rden Bildnisse ohne Einwilligung des Berechtigten sowie des Abgebildeten oder seiner Angeh\u00f6rigen vervielf\u00e4ltigt, verbreitet und \u00f6ffentlich zur Schau gestellt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE003100315",
+        "type": "article",
+        "name": "(XXXX) \u00a7\u00a7 25 bis 32",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE003900315",
+        "type": "article",
+        "name": "\u00a7 33",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen den \u00a7\u00a7 22, 23 ein Bildnis verbreitet oder \u00f6ffentlich zur Schau stellt.</P><P>(2) Die Tat wird nur auf Antrag verfolgt.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004000315",
+        "type": "article",
+        "name": "\u00a7 34",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004100315",
+        "type": "article",
+        "name": "\u00a7 35",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004200315",
+        "type": "article",
+        "name": "\u00a7 36",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004300315",
+        "type": "article",
+        "name": "\u00a7 37",
+        "title": null,
+        "body": {
+          "content": "<P>(1) <I>Die widerrechtlich hergestellten, verbreiteten oder vorgef\u00fchrten Exemplare und die zur widerrechtlichen Vervielf\u00e4ltigung oder Vorf\u00fchrung ausschlie\u00dflich bestimmten Vorrichtungen, wie Formen, Platten, Steine, unterliegen der Vernichtung.</I> Das gleiche gilt von den widerrechtlich verbreiteten oder \u00f6ffentlich zur Schau gestellten Bildnissen und den zu deren Vervielf\u00e4ltigung ausschlie\u00dflich bestimmten Vorrichtungen. Ist nur ein Teil des Werkes widerrechtlich <I>hergestellt,</I> verbreitet <I>oder vorgef\u00fchrt,</I> so ist auf Vernichtung dieses Teiles und der entsprechenden Vorrichtungen zu erkennen.</P><P>(2) Gegenstand der Vernichtung sind alle Exemplare und Vorrichtungen, welche sich im Eigentume der an <I>der Herstellung,</I> der Verbreitung, <I>der Vorf\u00fchrung</I> oder der Schaustellung Beteiligten sowie der Erben dieser Personen befinden.</P><P>(3) Auf die Vernichtung ist auch dann zu erkennen, wenn <I>die Herstellung,</I> die Verbreitung, <I>die Vorf\u00fchrung</I> oder die Schaustellung weder vors\u00e4tzlich noch fahrl\u00e4ssig erfolgt.<I>Das gleiche gilt, wenn die Herstellung noch nicht vollendet ist.</I></P><P>(4) Die Vernichtung hat zu erfolgen, nachdem dem Eigent\u00fcmer gegen\u00fcber rechtskr\u00e4ftig darauf erkannt ist. Soweit die Exemplare oder die Vorrichtungen in anderer Weise als durch Vernichtung unsch\u00e4dlich gemacht werden k\u00f6nnen, hat dies zu geschehen, falls der Eigent\u00fcmer die Kosten \u00fcbernimmt.</P><P>(5) (weggefallen)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7 37 Abs. 1 bis 3 Kursivdruck u. Abs. 5: Vgl. Fu\u00dfnote zur \u00dcberschrift</P>",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004400315",
+        "type": "article",
+        "name": "\u00a7 38",
+        "title": null,
+        "body": {
+          "content": "<P>Der Verletzte kann statt der Vernichtung verlangen, da\u00df ihm das Recht zuerkannt wird, die Exemplare und Vorrichtungen ganz oder teilweise gegen eine angemessene, h\u00f6chstens dem Betrage der Herstellungskosten gleichkommende Verg\u00fctung zu \u00fcbernehmen.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004500315",
+        "type": "article",
+        "name": "\u00a7 39",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004600315",
+        "type": "article",
+        "name": "\u00a7 40",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004700315",
+        "type": "article",
+        "name": "\u00a7 41",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004800315",
+        "type": "article",
+        "name": "\u00a7 42",
+        "title": null,
+        "body": {
+          "content": "<P>Die Vernichtung der Exemplare und der Vorrichtungen kann im Wege des b\u00fcrgerlichen Rechtsstreits oder im Strafverfahren verfolgt werden.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE004900315",
+        "type": "article",
+        "name": "\u00a7 43",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Auf die Vernichtung von Exemplaren oder Vorrichtungen kann auch im Strafverfahren nur auf besonderen Antrag des Verletzten erkannt werden. Die Zur\u00fccknahme des Antrags ist bis zur erfolgten Vernichtung zul\u00e4ssig.</P><P>(2) Der Verletzte kann die Vernichtung von Exemplaren oder Vorrichtungen selbst\u00e4ndig verfolgen. In diesem Falle finden die <I>\u00a7\u00a7 477 bis 479</I> der Strafproze\u00dfordnung mit der Ma\u00dfgabe Anwendung, da\u00df der Verletzte als Privatkl\u00e4ger auftreten kann.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7 43 Abs. 2 Kursivdruck: Vgl. jetzt \u00a7\u00a7 430 bis 432 StPO 312-2</P>",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005000315",
+        "type": "article",
+        "name": "\u00a7 44",
+        "title": null,
+        "body": {
+          "content": "<P>Die \u00a7\u00a7 42, 43 finden auf die Verfolgung des in \u00a7 38 bezeichneten Rechtes entsprechende Anwendung.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005100315",
+        "type": "article",
+        "name": "\u00a7 45",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005200315",
+        "type": "article",
+        "name": "\u00a7 46",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005300315",
+        "type": "article",
+        "name": "\u00a7 47",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005400315",
+        "type": "article",
+        "name": "\u00a7 48",
+        "title": null,
+        "body": {
+          "content": "<P>(1) <I>Der Anspruch auf Schadensersatz und die Strafverfolgung wegen widerrechtlicher Verbreitung oder Vorf\u00fchrung eines Werkes sowie</I> die Strafverfolgung wegen widerrechtlicher Verbreitung oder Schaustellung eines Bildnisses verj\u00e4hren in drei Jahren.</P><P>(2) Die Verj\u00e4hrung beginnt mit dem Tage, an welchem die widerrechtliche Handlung zuletzt stattgefunden hat.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": "<P>\u00a7 48 Abs. 1 Kursivdruck: Vgl. Fu\u00dfnote zur \u00dcberschrift</P>",
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005500315",
+        "type": "article",
+        "name": "\u00a7 49",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005600315",
+        "type": "article",
+        "name": "\u00a7 50",
+        "title": null,
+        "body": {
+          "content": "<P>Der Antrag auf Vernichtung der Exemplare und der Vorrichtungen ist so lange zul\u00e4ssig, als solche Exemplare oder Vorrichtungen vorhanden sind.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005700315",
+        "type": "article",
+        "name": "\u00a7 51",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005800315",
+        "type": "article",
+        "name": "\u00a7 52",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE005900315",
+        "type": "article",
+        "name": "\u00a7 53",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE006000315",
+        "type": "article",
+        "name": "\u00a7 54",
+        "title": null,
+        "body": null,
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      },
+      {
+        "id": "BJNR000070907BJNE006100315",
+        "type": "article",
+        "name": "\u00a7 55",
+        "title": null,
+        "body": {
+          "content": "<P>(1) Das Gesetz tritt mit dem 1. Juli 1907 in Kraft.</P><P>(2) (Aufhebungsvorschrift)</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null,
+        "contentLevel": 0,
+        "parent": null
+      }
+    ]
+  }
+}
