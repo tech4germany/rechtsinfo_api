@@ -90,7 +90,7 @@ class LawXmlParser:
         return Law(**law_props)
 
 
-def law_json_from_slug(xml_dir, slug):
+def law_json_from_slug(xml_dir, slug, pretty=False):
     law_parser = LawXmlParser(xml_dir, slug)
     law = law_parser.parse()
-    return law.to_api_json()
+    return law.to_api_json(pretty=pretty)

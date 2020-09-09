@@ -25,7 +25,7 @@ def _text(elements, multi=False):
 
 
 def _parse_abbrs(norm):
-    abbrs = filter(None, _text(norm.xpath('metadaten/amtabk'), multi=True) + _text(norm.xpath('metadaten/jurabk'), multi=True))
+    abbrs = (_text(norm.xpath('metadaten/amtabk'), multi=True) or []) + _text(norm.xpath('metadaten/jurabk'), multi=True)
     abbrs_unique = list(dict.fromkeys(abbrs))
     primary, *rest = abbrs_unique
 

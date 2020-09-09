@@ -11,6 +11,7 @@ pytest = "*"
 lxml = "*"
 pydantic = "*"
 pyhumps = "*"
+invoke = "*"
 
 [requires]
 python_version = "3.8"

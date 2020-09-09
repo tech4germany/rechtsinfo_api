@@ -20,9 +20,11 @@ class ContentItem(BaseModel):
 
     def to_api_dict(self):
         return {
+            'id': self.id,
             'type': self.type_,
-            'parent': self.parent and { 'type': self.parent.type_, 'id': self.parent.id },
-            **{ key: getattr(self, key) for key in self.dict() if key != 'parent'}
+            **{ key: getattr(self, key) for key in self.dict() if key not in ('parent', 'id', 'content_level') },
+            'content_level': self.content_level,
+            'parent': self.parent and { 'type': self.parent.type_, 'id': self.parent.id }
         }
 ContentItem.update_forward_refs()
 
@@ -45,8 +47,8 @@ class Law(BaseModel):
     extra_abbreviations: List[str]
     first_published: str
     source_timestamp: str
-    heading_long: str
     heading_short: Optional[str]
+    heading_long: str
     publication_info: Optional[List[Dict]]
     status_info: Optional[List[Dict]]
     notes: Dict
@@ -60,6 +62,9 @@ class Law(BaseModel):
         }
 
 
-    def to_api_json(self):
-        return json.dumps(humps.camelize({'data': self.to_api_dict()}))
+    def to_api_json(self, pretty=False):
+        kwargs = {}
+        if pretty:
+            kwargs = {'indent': 2}
+        return json.dumps(humps.camelize({'data': self.to_api_dict()}), **kwargs)
 
