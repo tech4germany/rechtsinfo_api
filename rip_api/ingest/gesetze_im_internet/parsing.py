@@ -2,7 +2,7 @@ import itertools
 from typing import Dict, List, Optional
 
 from lxml import etree
-from pydantic import BaseModel
+import pydantic
 
 from .models import Article, Heading, HeadingArticle
 
@@ -24,8 +24,12 @@ def _text(elements, multi=False):
     return values[0]
 
 
-def _parse_juris_abbr(norm):
-    return _text(norm.xpath('metadaten/jurabk'), multi=True)
+def _parse_abbrs(norm):
+    abbrs = filter(None, _text(norm.xpath('metadaten/amtabk'), multi=True) + _text(norm.xpath('metadaten/jurabk'), multi=True))
+    abbrs_unique = list(dict.fromkeys(abbrs))
+    primary, *rest = abbrs_unique
+
+    return { 'abbreviation': primary, 'extra_abbreviations': rest }
 
 
 def _parse_publication_info(norm):
@@ -81,7 +85,7 @@ def _parse_text(norm):
 
     assert text_format == 'XML', f'Unknown text format {text["format"]}'
 
-    content = _parse_content(text.xpath('Content'))
+    content = _parse_text_content(text.xpath('Content'))
     toc = _text(text.xpath('TOC'))
     assert not (content and toc), 'Found norm with both TOC and Content.'
 
@@ -112,10 +116,20 @@ def _parse_footnotes(norm):
     return _parse_text_content(norm.xpath('textdaten/fussnoten/Content'))
 
 
+class BaseModel(pydantic.BaseModel):
+    def to_content_item(self, parent):
+        if not parent:
+            content_level = 0
+        else:
+            content_level = parent.content_level + 1
+
+        return self.content_item_class()(parent=parent, content_level=content_level, **self.dict())
+
+
 class HeaderNorm(BaseModel):
     id: str
-    juris_abbrs: List[str]
-    official_abbr: Optional[str]
+    abbreviation: str
+    extra_abbreviations: List[str]
     first_published: str
     source_timestamp: str
     heading_long: str
@@ -123,14 +137,13 @@ class HeaderNorm(BaseModel):
     publication_info: Optional[List[Dict]]
     status_info: Optional[List[Dict]]
     body: Optional[Dict]
-    footnotes: Optional[str]
+    documentary_footnotes: Optional[str]
 
     @classmethod
     def from_xml(cls, norm):
         header_props = {
             'id': norm.get('doknr'),
-            'juris_abbrs': _parse_juris_abbr(norm),
-            'official_abbr': _text(norm.xpath('metadaten/amtabk')),
+            **_parse_abbrs(norm),
             'first_published': _text(norm.xpath('metadaten/ausfertigung-datum')),
             'source_timestamp': norm.get('builddate'),
             'heading_long': _text(norm.xpath('metadaten/langue')),
@@ -138,7 +151,7 @@ class HeaderNorm(BaseModel):
             'publication_info': _parse_publication_info(norm),
             'status_info': _parse_status_info(norm),
             'body': _parse_text(norm),
-            'footnotes': _parse_footnotes(norm)
+            'documentary_footnotes': _parse_footnotes(norm)
         }
         return cls(**header_props)
 
@@ -155,12 +168,11 @@ def body_norm_from_xml(norm):
 
 class ArticleNorm(BaseModel):
     id: str
-    juris_abbrs: List[str]
     name: str
     title: Optional[str]
     section_info: Optional[Dict]
     body: Optional[Dict]
-    footnotes: Optional[str]
+    documentary_footnotes: Optional[str]
 
     @classmethod
     def from_xml(cls, norm):
@@ -172,18 +184,17 @@ class ArticleNorm(BaseModel):
         }
         return cls(**props)
 
-    def to_content_item(self):
-        return Article(**self.dict())
+    def content_item_class(self):
+        return Article
 
 
 class SectionNorm(BaseModel):
     id: str
-    juris_abbrs: List[str]
     name: str
     title: Optional[str]
     section_info: Dict
     body: Optional[Dict]
-    footnotes: Optional[str]
+    documentary_footnotes: Optional[str]
 
     @classmethod
     def from_xml(cls, norm):
@@ -196,18 +207,17 @@ class SectionNorm(BaseModel):
         }
         return cls(**props)
 
-    def to_content_item(self):
-        if self.body or self.footnotes:
-            return HeadingArticle(children=[], **self.dict())
+    def content_item_class(self):
+        if self.body or self.documentary_footnotes:
+            return HeadingArticle
         else:
-            return Heading(children=[], **self.dict())
+            return Heading
 
 
 def _parse_common_body_props(norm):
     return {
         'id': norm.get('doknr'),
-        'juris_abbrs': _parse_juris_abbr(norm),
         'section_info': _parse_section_info(norm),
         'body': _parse_text(norm),
-        'footnotes': _parse_footnotes(norm)
+        'documentary_footnotes': _parse_footnotes(norm)
     }

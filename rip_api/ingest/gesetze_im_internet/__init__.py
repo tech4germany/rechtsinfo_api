@@ -19,36 +19,40 @@ def _load_main_xml_doc(xml_dir, slug):
         return etree.parse(f)
 
 
-ContentsRoot = namedtuple('ContentsRoot', ['children'])
+def _build_content_items(norms):
+    content_items = []
 
-
-def _build_content_tree(norms):
-    content = []
-
-    contentsRoot = ContentsRoot(children=[])
-    current = contentsRoot
-    sections_by_code = {'': contentsRoot}
+    current_parent = None
+    sections_by_code = {'': None}
+    items_with_children = set()
 
     for norm in norms:
         if isinstance(norm, ArticleNorm):
-            parent = current
-
             if norm.section_info:
                 code = norm.section_info['code']
                 parent = _find_toc_parent(sections_by_code, code)
+            else:
+                parent = current_parent
 
-            parent.children.append(norm.to_content_item())
+            item = norm.to_content_item(parent)
+            items_with_children.add(parent and parent.id)
+            content_items.append(item)
 
         elif isinstance(norm, SectionNorm):
             code = norm.section_info['code']
+            parent = _find_toc_parent(sections_by_code, code)
 
-            content_item = norm.to_content_item()
-            _find_toc_parent(sections_by_code, code).children.append(content_item)
-            sections_by_code[code] = current = content_item
+            item = norm.to_content_item(parent)
+            items_with_children.add(parent and parent.id)
+            content_items.append(item)
+            sections_by_code[code] = current_parent = item
 
-    _postprocess_tree(contentsRoot.children)
+    # Convert empty heading articles -> articles
+    for idx, item in enumerate(content_items):
+        if type(item) == HeadingArticle and item.id not in items_with_children:
+            content_items[idx] = Article(**item.dict())
 
-    return contentsRoot.children
+    return content_items
 
 
 def _find_toc_parent(sections_by_code, code):
@@ -64,37 +68,6 @@ def _find_toc_parent(sections_by_code, code):
     return None
 
 
-def _postprocess_tree(contents):
-    _add_levels(contents)
-    _prune_heading_articles(contents)
-
-
-def _add_levels(contents, current_level=0):
-    """
-    Add nesting level to aid formatting.
-    """
-    for item in contents:
-        if type(item) == Article:
-            continue
-        item.heading_level = current_level
-        _add_levels(item.children, current_level + 1)
-
-
-def _prune_heading_articles(contents):
-    for idx, item in enumerate(contents):
-        if type(item) == Article:
-            continue
-
-        if type(item) == HeadingArticle and not item.children:
-            props = item.dict()
-            del props['children']
-            del props['heading_level']
-            contents[idx] = Article(**props)
-            continue
-
-        _prune_heading_articles(item.children)
-
-
 class LawXmlParser:
     def __init__(self, xml_dir, slug):
         doc = _load_main_xml_doc(xml_dir, slug)
@@ -105,14 +78,14 @@ class LawXmlParser:
     def parse(self):
         law_props = {
             k: getattr(self.header_norm, k)
-            for k in ['id', 'juris_abbrs', 'official_abbr', 'first_published', 'source_timestamp',
+            for k in ['id', 'abbreviation', 'extra_abbreviations', 'first_published', 'source_timestamp',
                       'heading_long', 'heading_short', 'publication_info', 'status_info']
         }
-        law_props['prelude'] = {
+        law_props['notes'] = {
             'body': self.header_norm.body,
-            'footnotes': self.header_norm.footnotes
+            'documentary_footnotes': self.header_norm.documentary_footnotes
         }
-        law_props['content'] = _build_content_tree(self.body_norms)
+        law_props['contents'] = _build_content_items(self.body_norms)
 
         return Law(**law_props)
 
