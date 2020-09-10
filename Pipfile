@@ -12,6 +12,7 @@ lxml = "*"
 pydantic = "*"
 pyhumps = "*"
 invoke = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.8"

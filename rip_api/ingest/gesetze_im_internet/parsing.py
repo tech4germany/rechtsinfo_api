@@ -1,10 +1,8 @@
 import itertools
-from typing import Dict, List, Optional
 
 from lxml import etree
-import pydantic
 
-from .models import Article, Heading, HeadingArticle
+from .utils import chunk_string
 
 
 def _text(elements, multi=False):
@@ -64,7 +62,7 @@ def _parse_section_info(norm):
 
     return {
         'code': _text(norm.xpath('metadaten/gliederungseinheit/gliederungskennzahl')),
-        'label': _text(norm.xpath('metadaten/gliederungseinheit/gliederungsbez')),
+        'name': _text(norm.xpath('metadaten/gliederungseinheit/gliederungsbez')),
         'title': _text(norm.xpath('metadaten/gliederungseinheit/gliederungstitel'))
     }
 
@@ -100,124 +98,145 @@ def _parse_text(norm):
     return data
 
 
-EMPTY_CONTENT_PATTERNS = [
-     '<P/>', '<P>-</P>'
-]
-
-
 def _parse_text_content(content):
     text_content = _text(content)
     if not text_content or any(text_content.strip() == p for p in EMPTY_CONTENT_PATTERNS):
         return None
     return text_content
 
+EMPTY_CONTENT_PATTERNS = [
+     '<P/>', '<P>-</P>'
+]
+
 
 def _parse_footnotes(norm):
     return _parse_text_content(norm.xpath('textdaten/fussnoten/Content'))
 
 
-class BaseModel(pydantic.BaseModel):
-    def to_content_item(self, parent):
-        if not parent:
-            content_level = 0
-        else:
-            content_level = parent.content_level + 1
+def load_norms_from_file(filepath):
+    with open(filepath) as f:
+        doc = etree.parse(f)
 
-        return self.content_item_class()(parent=parent, content_level=content_level, **self.dict())
+    return doc.xpath('/dokumente/norm')
 
 
-class HeaderNorm(BaseModel):
-    id: str
-    abbreviation: str
-    extra_abbreviations: List[str]
-    first_published: str
-    source_timestamp: str
-    heading_long: str
-    heading_short: Optional[str]
-    publication_info: Optional[List[Dict]]
-    status_info: Optional[List[Dict]]
-    body: Optional[Dict]
-    documentary_footnotes: Optional[str]
+def extract_law_attrs(header_norm):
+    abbrs = _parse_abbrs(header_norm)
+    return {
+        'doknr': header_norm.get('doknr'),
+        **abbrs,
+        'first_published': _text(header_norm.xpath('metadaten/ausfertigung-datum')),
+        'source_timestamp': header_norm.get('builddate'),
+        'heading_long': _text(header_norm.xpath('metadaten/langue')),
+        'heading_short': _text(header_norm.xpath('metadaten/kurzue')),
+        'publication_info': _parse_publication_info(header_norm),
+        'status_info': _parse_status_info(header_norm),
+        'notes': {
+            'body': _parse_text(header_norm),
+            'documentary_footnotes': _parse_footnotes(header_norm)
+        }
+    }
 
-    @classmethod
-    def from_xml(cls, norm):
-        header_props = {
-            'id': norm.get('doknr'),
-            **_parse_abbrs(norm),
-            'first_published': _text(norm.xpath('metadaten/ausfertigung-datum')),
-            'source_timestamp': norm.get('builddate'),
-            'heading_long': _text(norm.xpath('metadaten/langue')),
-            'heading_short': _text(norm.xpath('metadaten/kurzue')),
-            'publication_info': _parse_publication_info(norm),
-            'status_info': _parse_status_info(norm),
+
+def extract_contents(body_norms):
+    def _extract_common_attrs(norm):
+        return {
+            'doknr': norm.get('doknr'),
             'body': _parse_text(norm),
             'documentary_footnotes': _parse_footnotes(norm)
         }
-        return cls(**header_props)
 
-
-def body_norm_from_xml(norm):
-    doknr = norm.get('doknr')
-    if 'NE' in doknr:
-        return ArticleNorm.from_xml(norm)
-    elif 'NG' in doknr:
-        return SectionNorm.from_xml(norm)
-    else:
-        raise Exception(f'Unknown norm structure encountered: {etree.tostring(norm)}')
-
-
-class ArticleNorm(BaseModel):
-    id: str
-    name: str
-    title: Optional[str]
-    section_info: Optional[Dict]
-    body: Optional[Dict]
-    documentary_footnotes: Optional[str]
-
-    @classmethod
-    def from_xml(cls, norm):
-        common_props = _parse_common_body_props(norm)
-        props = {
-            **common_props,
-            'name': _text(norm.xpath('metadaten/enbez')),
-            'title': _text(norm.xpath('metadaten/titel')),
-        }
-        return cls(**props)
-
-    def content_item_class(self):
-        return Article
-
-
-class SectionNorm(BaseModel):
-    id: str
-    name: str
-    title: Optional[str]
-    section_info: Dict
-    body: Optional[Dict]
-    documentary_footnotes: Optional[str]
-
-    @classmethod
-    def from_xml(cls, norm):
-        common_props = _parse_common_body_props(norm)
-        props = {
-            **common_props,
-            'name': common_props['section_info']['label'],
-            'title': common_props['section_info']['title'],
-            'children': []
-        }
-        return cls(**props)
-
-    def content_item_class(self):
-        if self.body or self.documentary_footnotes:
-            return HeadingArticle
+    def _set_item_type(item, norm):
+        if 'NE' in item['doknr']:
+            item['item_type'] = 'article'
+        elif 'NG' in item['doknr']:
+            if item['body'] or item['documentary_footnotes']:
+                item['item_type'] = 'heading_article'
+            else:
+                item['item_type'] = 'heading'
         else:
-            return Heading
+            raise Exception(f'Unknown norm structure encountered: {etree.tostring(norm)}')
 
+    def _set_name_and_title(item, norm):
+        section_info = _parse_section_info(norm)
 
-def _parse_common_body_props(norm):
-    return {
-        'id': norm.get('doknr'),
-        'section_info': _parse_section_info(norm),
-        'body': _parse_text(norm),
-        'documentary_footnotes': _parse_footnotes(norm)
+        if 'NE' in item['doknr']:
+            item.update({
+                'name': _text(norm.xpath('metadaten/enbez')),
+                'title': _text(norm.xpath('metadaten/titel'))
+            })
+        elif 'NG' in item['doknr']:
+            item.update({
+                'name': section_info['name'],
+                'title': section_info['title']
+            })
+        else:
+            raise Exception(f'Unknown norm structure encountered: {etree.tostring(norm)}')
+
+    def _find_parent(sections_by_code, code):
+        """
+        Search by iteratively removing 3 digits from the end of the code to find a
+        match among already-added sections.
+        """
+        chunks = chunk_string(code, 3)
+        for i in reversed(range(len(chunks) + 1)):
+            substring = ''.join(chunks[:i])
+            if sections_by_code.get(substring):
+                return sections_by_code[substring]
+        return None
+
+    def _set_parent(item, norm, parser_state):
+        section_info = _parse_section_info(norm)
+        code = section_info and section_info['code']
+
+        if 'NE' in item['doknr']:
+            if code:
+                item['parent'] = _find_parent(parser_state['sections_by_code'], code)
+            else:
+                item['parent'] = parser_state['current_parent']
+
+        elif 'NG' in item['doknr']:
+            item['parent'] = _find_parent(parser_state['sections_by_code'], code)
+            parser_state['sections_by_code'][code] = parser_state['current_parent'] = item
+
+        if item['parent']:
+            parser_state['items_with_children'].add(item['parent']['doknr'])
+
+    def _set_content_level(item):
+        if not item['parent']:
+            item['content_level'] = 0
+        else:
+            item['content_level'] = item['parent']['content_level'] + 1
+
+    content_items = []
+
+    parser_state = {
+        'current_parent': None,
+        'sections_by_code': {'': None},
+        'items_with_children': set()
     }
+
+    for norm in body_norms:
+        item = _extract_common_attrs(norm)
+        _set_item_type(item, norm)
+        _set_name_and_title(item, norm)
+        _set_parent(item, norm, parser_state)
+        _set_content_level(item)
+        content_items.append(item)
+
+    # Convert empty heading articles to articles
+    for item in content_items:
+        if item['item_type'] == 'heading_article' and item['doknr'] not in parser_state['items_with_children']:
+            item['item_type'] = 'article'
+
+    return content_items
+
+
+def parse_law_xml_to_dict(path_to_xml_file):
+    header_norm, *body_norms = load_norms_from_file(path_to_xml_file)
+
+    law_attrs = extract_law_attrs(header_norm)
+    law_attrs['contents'] = extract_contents(body_norms)
+
+    return law_attrs
+

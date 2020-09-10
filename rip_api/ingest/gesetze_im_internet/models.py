@@ -2,69 +2,92 @@ import json
 from typing import List, Optional, Dict
 
 import humps
-import pydantic
+from sqlalchemy import Column, ForeignKey, Integer, String
+from sqlalchemy.dialects import postgresql
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import relationship
+
+Base = declarative_base()
 
 
-class BaseModel(pydantic.BaseModel):
-    @property
-    def type_(self):
-        return ''.join((self.__class__.__name__[0].lower(), self.__class__.__name__[1:]))
+class Law(Base):
+    __tablename__ = 'laws'
+
+    id = Column(Integer, primary_key=True)
+    doknr = Column(String, nullable=False)
+    abbreviation = Column(String, nullable=False)
+    extra_abbreviations = Column(postgresql.ARRAY(String), nullable=False)
+    first_published = Column(String, nullable=False)
+    source_timestamp = Column(String, nullable=False)
+    heading_long = Column(String, nullable=False)
+    heading_short = Column(String)
+    publication_info = Column(postgresql.JSONB, nullable=False)
+    status_info = Column(postgresql.JSONB, nullable=False)
+    notes = Column(postgresql.JSONB)
+
+    contents = relationship('ContentItem', back_populates='law', cascade='all, delete, delete-orphan')
 
 
-class ContentItem(BaseModel):
-    id: str
-    name: str
-    title: Optional[str]
-    content_level: Optional[int]  # not actually optional, but not known at object creation time
-    parent: Optional['ContentItem']
+class ContentItem(Base):
+    __tablename__ = 'content_items'
 
-    def to_api_dict(self):
-        return {
-            'id': self.id,
-            'type': self.type_,
-            **{ key: getattr(self, key) for key in self.dict() if key not in ('parent', 'id', 'content_level') },
-            'content_level': self.content_level,
-            'parent': self.parent and { 'type': self.parent.type_, 'id': self.parent.id }
+    id = Column(Integer, primary_key=True)
+    doknr = Column(String, nullable=False)
+    item_type = Column(String, nullable=False)
+    name = Column(String, nullable=False)
+    title = Column(String)
+    body = Column(postgresql.JSONB)
+    documentary_footnotes = Column(String)
+    content_level = Column(Integer, nullable=False)
+    law_id = Column(Integer, ForeignKey('laws.id'))
+    parent_id = Column(Integer, ForeignKey('content_items.id'))
+    order = Column(Integer, nullable=False)
+
+    law = relationship('Law', back_populates='contents')
+    parent = relationship('ContentItem', uselist=False)
+
+
+def law_to_api_json(law, pretty=False):
+    json_kwargs = {}
+    if pretty:
+        json_kwargs = {'indent': 2}
+
+    law_dict = {
+        'data': {
+            'type': 'law',
+            'id': law.doknr,
+            'abbreviation': law.abbreviation,
+            'extraAbbreviations': law.extra_abbreviations,
+            'firstPublished': law.first_published,
+            'sourceTimestamp': law.source_timestamp,
+            'headingShort': law.heading_short,
+            'headingLong': law.heading_long,
+            'publicationInfo': law.publication_info,
+            'statusInfo': law.status_info,
+            'notes': humps.camelize(law.notes),
+            'contents': []
         }
-ContentItem.update_forward_refs()
+    }
 
-class Heading(ContentItem):
-    pass
-
-
-class Article(ContentItem):
-    body: Optional[Dict]
-    documentary_footnotes: Optional[str]
-
-
-class HeadingArticle(Heading, Article):
-    pass
-
-
-class Law(BaseModel):
-    id: str
-    abbreviation: str
-    extra_abbreviations: List[str]
-    first_published: str
-    source_timestamp: str
-    heading_short: Optional[str]
-    heading_long: str
-    publication_info: Optional[List[Dict]]
-    status_info: Optional[List[Dict]]
-    notes: Dict
-    contents: List[ContentItem]
-
-    def to_api_dict(self):
-        return {
-            'type': self.type_,
-            **{ key: getattr(self, key) for key in self.dict() if key != 'contents' },
-            'contents': [content_item.to_api_dict() for content_item in self.contents]
+    for item in law.contents:
+        item_dict = {
+            'id': item.doknr,
+            'type': humps.camelize(item.item_type),
+            'name': item.name,
+            'title': item.title
         }
 
+        if item.item_type in ('article', 'heading_article'):
+            item_dict.update({
+                'body': item.body,
+                'documentaryFootnotes': item.documentary_footnotes
+            })
 
-    def to_api_json(self, pretty=False):
-        kwargs = {}
-        if pretty:
-            kwargs = {'indent': 2}
-        return json.dumps(humps.camelize({'data': self.to_api_dict()}), **kwargs)
+        item_dict.update({
+            'contentLevel': item.content_level,
+            'parent': item.parent and { 'type': humps.camelize(item.parent.item_type), 'id': item.parent.doknr }
+        })
 
+        law_dict['data']['contents'].append(item_dict)
+
+    return json.dumps(law_dict, **json_kwargs)
