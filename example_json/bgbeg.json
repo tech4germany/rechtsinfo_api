@@ -68,7 +68,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 2,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001602377"
         }
       },
@@ -84,7 +84,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 2,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001602377"
         }
       },
@@ -122,7 +122,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000803140"
         }
       },
@@ -138,7 +138,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000803140"
         }
       },
@@ -154,7 +154,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000803140"
         }
       },
@@ -170,7 +170,7 @@
         "documentaryFootnotes": "<P>(+++ Art. 6: Zur Anwendung vgl. Art. 17 Abs. 2 Nr. 5 BGBEG +++)</P>",
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000803140"
         }
       },
@@ -197,7 +197,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000902377"
         }
       },
@@ -213,7 +213,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000902377"
         }
       },
@@ -229,7 +229,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000902377"
         }
       },
@@ -245,7 +245,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000902377"
         }
       },
@@ -261,7 +261,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000902377"
         }
       },
@@ -277,7 +277,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000902377"
         }
       },
@@ -304,7 +304,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -320,7 +320,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -358,7 +358,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -374,7 +374,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -390,7 +390,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -417,7 +417,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -433,7 +433,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -449,7 +449,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -465,7 +465,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -481,7 +481,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -497,7 +497,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001002377"
         }
       },
@@ -524,7 +524,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001102377"
         }
       },
@@ -540,7 +540,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001102377"
         }
       },
@@ -578,7 +578,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001203140"
         }
       },
@@ -594,7 +594,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001203140"
         }
       },
@@ -610,7 +610,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001203140"
         }
       },
@@ -626,7 +626,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001203140"
         }
       },
@@ -642,7 +642,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG001203140"
         }
       },
@@ -669,7 +669,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG029201377"
         }
       },
@@ -685,7 +685,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG029201377"
         }
       },
@@ -701,7 +701,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG029201377"
         }
       },
@@ -717,7 +717,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 3,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG029201377"
         }
       },
@@ -755,7 +755,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 4,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG052800140"
         }
       },
@@ -782,7 +782,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 4,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG052901123"
         }
       },
@@ -798,7 +798,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 4,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG052901123"
         }
       },
@@ -825,7 +825,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 4,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG054800123"
         }
       },
@@ -852,7 +852,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 4,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG053901123"
         }
       },
@@ -879,7 +879,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 2,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG052301377"
         }
       },
@@ -895,7 +895,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 2,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG052301377"
         }
       },
@@ -930,7 +930,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000203377"
         }
       },
@@ -946,7 +946,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000203377"
         }
       },
@@ -962,7 +962,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000203377"
         }
       },
@@ -978,7 +978,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000203377"
         }
       },
@@ -994,7 +994,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000203377"
         }
       },
@@ -1029,7 +1029,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1045,7 +1045,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1072,7 +1072,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1088,7 +1088,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1104,7 +1104,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1120,7 +1120,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1136,7 +1136,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1152,7 +1152,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1179,7 +1179,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1195,7 +1195,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1211,7 +1211,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1227,7 +1227,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1254,7 +1254,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1270,7 +1270,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1297,7 +1297,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1313,7 +1313,7 @@
         "documentaryFootnotes": "<P>Art 77: \u00c4nd. durch G v. 26.6.1981 I 553 gem. BVerfGE v. 19.10.1982 I 1493 - 2 BvF 1/81 - mit Art. 70 GG unvereinbar und daher nichtig</P>",
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1329,7 +1329,7 @@
         "documentaryFootnotes": "<P>Art 78: \u00c4nd. durch G v. 26.6.1981 I 553 gem. BVerfGE v. 19.10.1982 I 1493 - 2 BvF 1/81 - mit Art. 70 GG unvereinbar und daher nichtig</P>",
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1345,7 +1345,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1361,7 +1361,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1377,7 +1377,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1393,7 +1393,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1409,7 +1409,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1425,7 +1425,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1441,7 +1441,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1457,7 +1457,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1495,7 +1495,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1511,7 +1511,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1527,7 +1527,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1554,7 +1554,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1570,7 +1570,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1597,7 +1597,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1613,7 +1613,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1629,7 +1629,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1645,7 +1645,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1661,7 +1661,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1677,7 +1677,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1693,7 +1693,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1720,7 +1720,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1736,7 +1736,7 @@
         "documentaryFootnotes": "<P>Art. 105 Kursivdruck: Au\u00dfer Kraft gesetzt durch \u00a7 12 Abs. 2 G v. 29.4.1940 I 691 mWv 1.4.1940, soweit er die Haftpflicht der Eisenbahnen und Stra\u00dfenbahnen betrifft</P>",
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1752,7 +1752,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1768,7 +1768,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1784,7 +1784,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1800,7 +1800,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1816,7 +1816,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1832,7 +1832,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1848,7 +1848,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1864,7 +1864,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1880,7 +1880,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1896,7 +1896,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1912,7 +1912,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1928,7 +1928,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1944,7 +1944,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1960,7 +1960,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1976,7 +1976,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -1992,7 +1992,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2008,7 +2008,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2024,7 +2024,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2040,7 +2040,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2056,7 +2056,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2072,7 +2072,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2088,7 +2088,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2104,7 +2104,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2120,7 +2120,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2136,7 +2136,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2152,7 +2152,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2168,7 +2168,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2184,7 +2184,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2211,7 +2211,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2227,7 +2227,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2243,7 +2243,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2259,7 +2259,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2286,7 +2286,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2302,7 +2302,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2329,7 +2329,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2367,7 +2367,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000303377"
         }
       },
@@ -2402,7 +2402,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2429,7 +2429,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2445,7 +2445,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2461,7 +2461,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2477,7 +2477,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2493,7 +2493,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2509,7 +2509,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2525,7 +2525,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2541,7 +2541,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2557,7 +2557,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2573,7 +2573,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2589,7 +2589,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2605,7 +2605,7 @@
         "documentaryFootnotes": "<P>Art. 174 Abs. 1 Satz 2 Kursivdruck: Mu\u00df richtig \"Zins-, Renten- und Gewinnanteilscheinen\" lauten</P>",
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2621,7 +2621,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2637,7 +2637,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2653,7 +2653,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2669,7 +2669,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2685,7 +2685,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2701,7 +2701,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2717,7 +2717,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2733,7 +2733,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2749,7 +2749,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2765,7 +2765,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2781,7 +2781,7 @@
         "documentaryFootnotes": "<P>Art. 185 Kursivdruck: Mu\u00df richtig \"des Artikels\" lauten</P>",
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2797,7 +2797,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2813,7 +2813,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2829,7 +2829,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2845,7 +2845,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2861,7 +2861,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2877,7 +2877,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2893,7 +2893,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2909,7 +2909,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2925,7 +2925,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2941,7 +2941,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2957,7 +2957,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2973,7 +2973,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -2989,7 +2989,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3005,7 +3005,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3021,7 +3021,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3037,7 +3037,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3053,7 +3053,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3069,7 +3069,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3096,7 +3096,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3112,7 +3112,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3128,7 +3128,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3144,7 +3144,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3171,7 +3171,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3187,7 +3187,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3203,7 +3203,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3219,7 +3219,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3246,7 +3246,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3262,7 +3262,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG000403377"
         }
       },
@@ -3286,7 +3286,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3302,7 +3302,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3318,7 +3318,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3334,7 +3334,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3350,7 +3350,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3366,7 +3366,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3441,7 +3441,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3457,7 +3457,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3473,7 +3473,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -3489,7 +3489,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022702377"
         }
       },
@@ -4358,7 +4358,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG022802377"
         }
       },
@@ -5504,7 +5504,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG030003360"
         }
       },
@@ -5665,7 +5665,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG030003360"
         }
       },
@@ -5681,7 +5681,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG030003360"
         }
       },
@@ -5708,7 +5708,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG030003360"
         }
       },
@@ -5842,7 +5842,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG030003360"
         }
       },
@@ -6893,7 +6893,7 @@
         "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
-          "type": "contentItem",
+          "type": "heading",
           "id": "BJNR006049896BJNG030003360"
         }
       },
