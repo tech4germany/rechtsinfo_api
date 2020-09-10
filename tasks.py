@@ -2,7 +2,7 @@ import os
 
 from invoke import task
 
-from rip_api.ingest import gesetze_im_internet
+from rip_api import gesetze_im_internet
 
 
 @task(

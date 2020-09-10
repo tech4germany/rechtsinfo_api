@@ -4,7 +4,7 @@ import os.path
 
 import pytest
 
-from rip_api.ingest.gesetze_im_internet import law_json_from_slug
+from rip_api.gesetze_im_internet import law_json_from_slug
 
 tests_dir = os.path.join(os.path.dirname(__file__))
 example_json_dir = os.path.join(tests_dir, '..', 'example_json')

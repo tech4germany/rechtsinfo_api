@@ -1,11 +1,11 @@
 from unittest import mock
 
-from rip_api.ingest.gesetze_im_internet import parse_law_xml_to_dict
+from rip_api.gesetze_im_internet import parse_law_xml_to_dict
 
 
 def test_parser_e2e():
     mock_open = mock.mock_open(read_data=XML_DATA)
-    with mock.patch('rip_api.ingest.gesetze_im_internet.parsing.open', mock_open):
+    with mock.patch('rip_api.gesetze_im_internet.parsing.open', mock_open):
         law = parse_law_xml_to_dict('mock/xml/path.xml')
 
     assert law['doknr'] == 'BJNR055429995'
