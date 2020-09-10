@@ -25,7 +25,8 @@ class Law(Base):
     status_info = Column(postgresql.JSONB, nullable=False)
     notes = Column(postgresql.JSONB)
 
-    contents = relationship('ContentItem', back_populates='law', cascade='all, delete, delete-orphan')
+    contents = relationship('ContentItem', back_populates='law', order_by='ContentItem.order',
+                            cascade='all, delete, delete-orphan')
 
 
 class ContentItem(Base):

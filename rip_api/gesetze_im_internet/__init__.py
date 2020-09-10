@@ -16,10 +16,10 @@ def parse_law_xml(xml_dir, slug):
     law = Law(**law_dict)
 
     content_items_by_doknr = {}
-    for content_item_dict in content_item_dicts:
+    for idx, content_item_dict in enumerate(content_item_dicts):
         parent_dict = content_item_dict.pop('parent')
         parent = parent_dict and content_items_by_doknr[parent_dict['doknr']]
-        content_item = ContentItem(parent=parent, **content_item_dict)
+        content_item = ContentItem(parent=parent, order=idx, **content_item_dict)
         law.contents.append(content_item)
         content_items_by_doknr[content_item.doknr] = content_item
 
