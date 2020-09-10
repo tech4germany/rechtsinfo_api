@@ -10,34 +10,34 @@
     "headingLong": "Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)",
     "publicationInfo": [
       {
-        "periodical": "BGBl I",
-        "reference": "1989, 2261 (1990 I 1337)"
+        "reference": "1989, 2261 (1990 I 1337)",
+        "periodical": "BGBl I"
       }
     ],
     "statusInfo": [
       {
-        "category": "Neuf",
-        "comment": "Neugefasst durch Bek. v. 19.2.2002 I 754, 1404, 3384;"
+        "comment": "Neugefasst durch Bek. v. 19.2.2002 I 754, 1404, 3384;",
+        "category": "Neuf"
       },
       {
-        "category": "Stand",
-        "comment": "zuletzt ge\u00e4ndert durch Art. 14 G v. 20.5.2020 I 1055"
+        "comment": "zuletzt ge\u00e4ndert durch Art. 14 G v. 20.5.2020 I 1055",
+        "category": "Stand"
       },
       {
-        "category": "Hinweis",
-        "comment": "\u00c4nderung durch Art. 6 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+        "comment": "\u00c4nderung durch Art. 6 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
       },
       {
-        "category": "Hinweis",
-        "comment": "Mittelbare \u00c4nderung durch Art. 17 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+        "comment": "Mittelbare \u00c4nderung durch Art. 17 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
       },
       {
-        "category": "Hinweis",
-        "comment": "\u00c4nderung durch Art. 312 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet"
+        "comment": "\u00c4nderung durch Art. 312 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
       },
       {
-        "category": "Sonst",
-        "comment": "Erg\u00e4nzung auf Grund der Sozialversicherungs-Rechengr\u00f6\u00dfenverordnung v. 17.12.2019 I 2848 ist ber\u00fccksichtigt"
+        "comment": "Erg\u00e4nzung auf Grund der Sozialversicherungs-Rechengr\u00f6\u00dfenverordnung v. 17.12.2019 I 2848 ist ber\u00fccksichtigt",
+        "category": "Sonst"
       }
     ],
     "notes": {

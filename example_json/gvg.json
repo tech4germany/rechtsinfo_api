@@ -10,18 +10,18 @@
     "headingLong": "Gerichtsverfassungsgesetz",
     "publicationInfo": [
       {
-        "periodical": "BGBl",
-        "reference": "1950, 455, 513"
+        "reference": "1950, 455, 513",
+        "periodical": "BGBl"
       }
     ],
     "statusInfo": [
       {
-        "category": "Neuf",
-        "comment": "Neugefasst durch Bek. v. 9.5.1975 I 1077;"
+        "comment": "Neugefasst durch Bek. v. 9.5.1975 I 1077;",
+        "category": "Neuf"
       },
       {
-        "category": "Stand",
-        "comment": "zuletzt ge\u00e4ndert durch Art. 2 G v. 10.7.2020 I 1648"
+        "comment": "zuletzt ge\u00e4ndert durch Art. 2 G v. 10.7.2020 I 1648",
+        "category": "Stand"
       }
     ],
     "notes": {

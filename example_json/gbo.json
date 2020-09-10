@@ -10,18 +10,18 @@
     "headingLong": "Grundbuchordnung",
     "publicationInfo": [
       {
-        "periodical": "RGBl",
-        "reference": "1897, 139"
+        "reference": "1897, 139",
+        "periodical": "RGBl"
       }
     ],
     "statusInfo": [
       {
-        "category": "Neuf",
-        "comment": "Neugefasst durch Bek. v. 26.5.1994 I 1114;"
+        "comment": "Neugefasst durch Bek. v. 26.5.1994 I 1114;",
+        "category": "Neuf"
       },
       {
-        "category": "Stand",
-        "comment": "zuletzt ge\u00e4ndert durch Art. 11 G v. 12.12.2019 I 2602"
+        "comment": "zuletzt ge\u00e4ndert durch Art. 11 G v. 12.12.2019 I 2602",
+        "category": "Stand"
       }
     ],
     "notes": {
