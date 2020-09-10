@@ -3,7 +3,7 @@ from unittest import mock
 from rip_api.gesetze_im_internet import parse_law_xml_to_dict
 
 
-def test_parser_e2e():
+def test_parser():
     mock_open = mock.mock_open(read_data=XML_DATA)
     with mock.patch('rip_api.gesetze_im_internet.parsing.open', mock_open):
         law = parse_law_xml_to_dict('mock/xml/path.xml')

@@ -13,6 +13,9 @@ pydantic = "*"
 pyhumps = "*"
 invoke = "*"
 sqlalchemy = "*"
+psycopg2 = "*"
+pytest-cov = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.8"
