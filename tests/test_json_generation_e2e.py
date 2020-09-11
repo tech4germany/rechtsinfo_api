@@ -26,7 +26,8 @@ def test_examples(slug):
             session.delete(law)
 
     with session_scope() as session:
-        gesetze_im_internet.ingest_law(session, os.path.join(xml_fixtures_dir, slug))
+        law_dir = os.path.join(xml_fixtures_dir, slug)
+        gesetze_im_internet.ingest_law(session, law_dir, slug)
 
     with open(os.path.join(example_json_dir, slug + '.json')) as f:
         with session_scope() as session:

@@ -9,6 +9,13 @@ from rip_api.gesetze_im_internet.db import session_scope
 
 
 @task(help={
+    'data-dir': 'Path where to store downloaded law data'
+})
+def download_all_laws(c, data_dir):
+    gesetze_im_internet.download_all(data_dir, print_progress=True)
+
+
+@task(help={
     'data-dir': 'Path where law data has been downloaded',
     'gii-slug': 'The slug of the law you want to ingest (as used in gesetze-im-internet.de URLs)'
 })

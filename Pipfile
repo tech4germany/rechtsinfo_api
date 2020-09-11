@@ -16,6 +16,7 @@ sqlalchemy = "*"
 psycopg2 = "*"
 pytest-cov = "*"
 tqdm = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
