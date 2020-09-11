@@ -5,7 +5,7 @@ from invoke import task
 import tqdm
 
 from rip_api import gesetze_im_internet
-from rip_api.gesetze_im_internet.db import Session
+from rip_api.gesetze_im_internet.db import session_scope
 
 
 @task
@@ -13,13 +13,8 @@ def ingest_law(c, data_dir, law_slug):
     """
     Process a single law's directory and store it in the DB.
     """
-    session = Session()
-    try:
+    with session_scope() as session:
         gesetze_im_internet.ingest_law(session, os.path.join(data_dir, law_slug))
-        session.commit()
-    except:
-        session.rollback()
-        raise
 
 
 @task
@@ -27,14 +22,10 @@ def ingest_data_dir(c, data_dir):
     """
     Process a whole data directory of laws and store them in the DB.
     """
-    session = Session()
-    try:
+    with session_scope() as session:
         for law_dir in tqdm.tqdm(glob.glob(f'{data_dir}/*/')):
             gesetze_im_internet.ingest_law(session, law_dir)
-            session.commit()
-    except:
-        session.rollback()
-        raise
+            session.flush()
 
 
 @task(
@@ -46,9 +37,8 @@ def generate_json_example(c, law_abbr):
     """
     Generate JSON response for a single law and store it in the `example_json` directory.
     """
-    session = Session()
-    json = gesetze_im_internet.law_json_from_slug(session, law_abbr.lower(), pretty=True)
-    session.close()
+    with session_scope() as session:
+        json = gesetze_im_internet.law_json_from_slug(session, law_abbr.lower(), pretty=True)
 
     with open(f'example_json/{law_abbr.lower()}.json', 'w') as f:
         f.write(json + '\n')
