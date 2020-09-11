@@ -28,6 +28,7 @@ class Law(Base):
     id = Column(Integer, primary_key=True)
     doknr = Column(String, nullable=False, unique=True)
     slug = Column(String, nullable=False)
+    gii_slug = Column(String, nullable=False)
     abbreviation = Column(String, nullable=False)
     extra_abbreviations = Column(postgresql.ARRAY(String), nullable=False)
     first_published = Column(String, nullable=False)
@@ -42,9 +43,10 @@ class Law(Base):
                             cascade='all, delete, delete-orphan')
 
     @staticmethod
-    def from_dict(law_dict):
+    def from_dict(law_dict, gii_slug):
         law = Law(
             slug=_slugify(law_dict['abbreviation']),
+            gii_slug=gii_slug,
             **{k: v for k, v in law_dict.items() if k != 'contents'})
 
         content_item_dicts = law_dict['contents']

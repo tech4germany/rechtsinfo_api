@@ -13,9 +13,9 @@ def parse_law(law_dir):
     return parse_law_xml_to_dict(filepath)
 
 
-def ingest_law(session, law_dir):
+def ingest_law(session, law_dir, gii_slug):
     law_dict = parse_law(law_dir)
-    law = Law.from_dict(law_dict)
+    law = Law.from_dict(law_dict, gii_slug)
 
     session.add(law)
 

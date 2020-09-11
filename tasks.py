@@ -8,23 +8,30 @@ from rip_api import gesetze_im_internet
 from rip_api.gesetze_im_internet.db import session_scope
 
 
-@task
-def ingest_law(c, data_dir, law_slug):
+@task(help={
+    'data-dir': 'Path where law data has been downloaded',
+    'gii-slug': 'The slug of the law you want to ingest (as used in gesetze-im-internet.de URLs)'
+})
+def ingest_law(c, data_dir, gii_slug):
     """
     Process a single law's directory and store it in the DB.
     """
     with session_scope() as session:
-        gesetze_im_internet.ingest_law(session, os.path.join(data_dir, law_slug))
+        law_dir = os.path.join(data_dir, gii_slug)
+        gesetze_im_internet.ingest_law(session, law_dir, gii_slug)
 
 
-@task
+@task(help={
+    'data-dir': 'Path where law data has been downloaded'
+})
 def ingest_data_dir(c, data_dir):
     """
     Process a whole data directory of laws and store them in the DB.
     """
     with session_scope() as session:
         for law_dir in tqdm.tqdm(glob.glob(f'{data_dir}/*/')):
-            gesetze_im_internet.ingest_law(session, law_dir)
+            gii_slug = law_dir.split('/')[-2]
+            gesetze_im_internet.ingest_law(session, law_dir, gii_slug)
             session.flush()
 
 
