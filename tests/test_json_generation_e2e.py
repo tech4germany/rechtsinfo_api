@@ -19,15 +19,8 @@ example_law_slugs = [
 
 @pytest.mark.parametrize('slug', example_law_slugs)
 def test_examples(slug):
-    # TODO: use test DB which cleans up after itself, making this block unnecessary
     with session_scope() as session:
-        law = session.query(Law).filter_by(slug=slug).first()
-        if law:
-            session.delete(law)
-
-    with session_scope() as session:
-        law_dir = os.path.join(xml_fixtures_dir, slug)
-        gesetze_im_internet.ingest_law(session, law_dir, slug)
+        gesetze_im_internet.ingest_law(session, xml_fixtures_dir, slug)
 
     with open(os.path.join(example_json_dir, slug + '.json')) as f:
         with session_scope() as session:

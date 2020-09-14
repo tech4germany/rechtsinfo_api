@@ -11,8 +11,9 @@ from rip_api.gesetze_im_internet.db import session_scope
 @task(help={
     'data-dir': 'Path where to store downloaded law data'
 })
-def download_all_laws(c, data_dir):
-    gesetze_im_internet.download_all(data_dir, print_progress=True)
+def update_all_laws(c, data_dir):
+    with session_scope() as session:
+        gesetze_im_internet.update_all(session, data_dir)
 
 
 @task(help={
@@ -24,8 +25,7 @@ def ingest_law(c, data_dir, gii_slug):
     Process a single law's directory and store it in the DB.
     """
     with session_scope() as session:
-        law_dir = os.path.join(data_dir, gii_slug)
-        gesetze_im_internet.ingest_law(session, law_dir, gii_slug)
+        gesetze_im_internet.ingest_law(session, data_dir, gii_slug)
 
 
 @task(help={
@@ -38,7 +38,7 @@ def ingest_data_dir(c, data_dir):
     with session_scope() as session:
         for law_dir in tqdm.tqdm(glob.glob(f'{data_dir}/*/')):
             gii_slug = law_dir.split('/')[-2]
-            gesetze_im_internet.ingest_law(session, law_dir, gii_slug)
+            gesetze_im_internet.ingest_law(session, data_dir, gii_slug)
             session.flush()
 
 

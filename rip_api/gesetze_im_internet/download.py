@@ -1,3 +1,4 @@
+from email.utils import parsedate_to_datetime
 import glob
 from io import BytesIO
 import os
@@ -25,19 +26,21 @@ def fetch_toc():
     return toc
 
 
-def purge_missing(data_dir, slugs):
-    # Avoid deleting the whole data directory in case of a truncated toc.xml
-    if len(slugs) < 2000:
-        raise Exception(f'Dubious number of laws ({len(slugs)}) - aborting')
+def has_update(download_url, timestamp_string):
+    response = requests.head(download_url)
+    response.raise_for_status()
 
-    slugs = set(slugs)
-    for dir_path in glob.glob(f'{data_dir}/*/'):
-        existing_slug = dir_path.split('/')[-2]
-        if existing_slug not in slugs:
-            shutil.rmtree(dir_path)
+    last_modified_header = response.headers['Last-Modified']
+    last_modified_string = parsedate_to_datetime(last_modified_header).strftime('%Y%m%d')
+
+    return last_modified_string > timestamp_string
 
 
-def replace_law_data(data_dir, gii_slug, download_url):
+def remove_law_dir(data_dir, gii_slug):
+    shutil.rmtree(os.path.join(data_dir, gii_slug), ignore_errors=True)
+
+
+def create_or_replace_law_dir(data_dir, gii_slug, download_url):
     dir_path = os.path.join(data_dir, gii_slug)
 
     if os.path.exists(dir_path):
