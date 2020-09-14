@@ -19,7 +19,7 @@ def _text(elements, multi=False):
         return values
 
     assert len(values) == 1, f'Multiple values found but not requested: {values}'
-    return values[0]
+    return values[0].strip() or None
 
 
 def _parse_abbrs(norm):

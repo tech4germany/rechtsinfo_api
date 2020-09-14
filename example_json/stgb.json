@@ -5,7 +5,7 @@
     "abbreviation": "StGB",
     "extraAbbreviations": [],
     "firstPublished": "1871-05-15",
-    "sourceTimestamp": "20200720213003",
+    "sourceTimestamp": "20200831213003",
     "headingShort": null,
     "headingLong": "Strafgesetzbuch",
     "publicationInfo": [
@@ -20,16 +20,8 @@
         "category": "Neuf"
       },
       {
-        "comment": "zuletzt ge\u00e4ndert durch Art. 1 G v. 3.3.2020 I 431",
+        "comment": "zuletzt ge\u00e4ndert durch Art. 5 G v. 10.7.2020 I 1648",
         "category": "Stand"
-      },
-      {
-        "comment": "\u00c4nderung durch Art. 1 G v. 12.6.2020 I 1247 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
-        "category": "Hinweis"
-      },
-      {
-        "comment": "\u00c4nderung durch Art. 5 G v. 10.7.2020 I 1648 (Nr. 35) ist ber\u00fccksichtigt",
-        "category": "Hinweis"
       }
     ],
     "notes": {
@@ -54,7 +46,7 @@
         "id": "BJNR001270871BJNG000102307",
         "type": "heading",
         "name": "Allgemeiner Teil",
-        "title": "",
+        "title": null,
         "contentLevel": 0,
         "parent": null
       },
@@ -775,7 +767,7 @@
         "id": "BJNR001270871BJNG001302307",
         "type": "heading",
         "name": "Freiheitsstrafe",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -818,7 +810,7 @@
         "id": "BJNR001270871BJNG001402307",
         "type": "heading",
         "name": "Geldstrafe",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -893,7 +885,7 @@
         "id": "BJNR001270871BJNG001502307",
         "type": "heading",
         "name": "Nebenstrafe",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -920,7 +912,7 @@
         "id": "BJNR001270871BJNG001602307",
         "type": "heading",
         "name": "Nebenfolgen",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -1527,7 +1519,7 @@
         "id": "BJNR001270871BJNG002202307",
         "type": "heading",
         "name": "Freiheitsentziehende Ma\u00dfregeln",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -1791,7 +1783,7 @@
         "id": "BJNR001270871BJNG002302307",
         "type": "heading",
         "name": "F\u00fchrungsaufsicht",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -1930,7 +1922,7 @@
         "id": "BJNR001270871BJNG002402307",
         "type": "heading",
         "name": "Entziehung der Fahrerlaubnis",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -1989,7 +1981,7 @@
         "id": "BJNR001270871BJNG002502307",
         "type": "heading",
         "name": "Berufsverbot",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -2048,7 +2040,7 @@
         "id": "BJNR001270871BJNG002602307",
         "type": "heading",
         "name": "Gemeinsame Vorschriften",
-        "title": "",
+        "title": null,
         "contentLevel": 3,
         "parent": {
           "type": "heading",
@@ -2626,7 +2618,7 @@
         "id": "BJNR001270871BJNG003302307",
         "type": "heading",
         "name": "Besonderer Teil",
-        "title": "",
+        "title": null,
         "contentLevel": 0,
         "parent": null
       },
@@ -4271,12 +4263,12 @@
         }
       },
       {
-        "id": "BJNR001270871BJNE029206377",
+        "id": "BJNR001270871BJNE029207360",
         "type": "article",
         "name": "\u00a7 139",
         "title": "Straflosigkeit der Nichtanzeige geplanter Straftaten",
         "body": {
-          "content": "<P>(1) Ist in den F\u00e4llen des \u00a7 138 die Tat nicht versucht worden, so kann von Strafe abgesehen werden.</P><P>(2) Ein Geistlicher ist nicht verpflichtet anzuzeigen, was ihm in seiner Eigenschaft als Seelsorger anvertraut worden ist.</P><P>(3) Wer eine Anzeige unterl\u00e4\u00dft, die er gegen einen Angeh\u00f6rigen erstatten m\u00fc\u00dfte, ist straffrei, wenn er sich ernsthaft bem\u00fcht hat, ihn von der Tat abzuhalten oder den Erfolg abzuwenden, es sei denn, da\u00df es sich um <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Mord oder Totschlag (\u00a7\u00a7 211 oder 212),</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen V\u00f6lkermord in den F\u00e4llen des \u00a7 6 Abs. 1 Nr. 1 des V\u00f6lkerstrafgesetzbuches oder ein Verbrechen gegen die Menschlichkeit in den F\u00e4llen des \u00a7 7 Abs. 1 Nr. 1 des V\u00f6lkerstrafgesetzbuches oder ein Kriegsverbrechen in den F\u00e4llen des \u00a7 8 Abs. 1 Nr. 1 des V\u00f6lkerstrafgesetzbuches oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen erpresserischen Menschenraub (\u00a7 239a Abs. 1), eine Geiselnahme (\u00a7 239b Abs. 1) oder einen Angriff auf den Luft- und Seeverkehr (\u00a7 316c Abs. 1) durch eine terroristische Vereinigung (\u00a7 129a, auch in Verbindung mit \u00a7 129b Abs. 1)</LA></DD> </DL>handelt. Unter denselben Voraussetzungen ist ein Rechtsanwalt, Verteidiger, Arzt, Psychologischer Psychotherapeut oder Kinder- und Jugendlichenpsychotherapeut nicht verpflichtet anzuzeigen, was ihm in dieser Eigenschaft anvertraut worden ist. Die berufsm\u00e4\u00dfigen Gehilfen der in Satz 2 genannten Personen und die Personen, die bei diesen zur Vorbereitung auf den Beruf t\u00e4tig sind, sind nicht verpflichtet mitzuteilen, was ihnen in ihrer beruflichen Eigenschaft bekannt geworden ist.</P><P>(4) Straffrei ist, wer die Ausf\u00fchrung oder den Erfolg der Tat anders als durch Anzeige abwendet. Unterbleibt die Ausf\u00fchrung oder der Erfolg der Tat ohne Zutun des zur Anzeige Verpflichteten, so gen\u00fcgt zu seiner Straflosigkeit sein ernsthaftes Bem\u00fchen, den Erfolg abzuwenden.</P>",
+          "content": "<P>(1) Ist in den F\u00e4llen des \u00a7 138 die Tat nicht versucht worden, so kann von Strafe abgesehen werden.</P><P>(2) Ein Geistlicher ist nicht verpflichtet anzuzeigen, was ihm in seiner Eigenschaft als Seelsorger anvertraut worden ist.</P><P>(3) Wer eine Anzeige unterl\u00e4\u00dft, die er gegen einen Angeh\u00f6rigen erstatten m\u00fc\u00dfte, ist straffrei, wenn er sich ernsthaft bem\u00fcht hat, ihn von der Tat abzuhalten oder den Erfolg abzuwenden, es sei denn, da\u00df es sich um <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Mord oder Totschlag (\u00a7\u00a7 211 oder 212),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen V\u00f6lkermord in den F\u00e4llen des \u00a7 6 Abs. 1 Nr. 1 des V\u00f6lkerstrafgesetzbuches oder ein Verbrechen gegen die Menschlichkeit in den F\u00e4llen des \u00a7 7 Abs. 1 Nr. 1 des V\u00f6lkerstrafgesetzbuches oder ein Kriegsverbrechen in den F\u00e4llen des \u00a7 8 Abs. 1 Nr. 1 des V\u00f6lkerstrafgesetzbuches oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen erpresserischen Menschenraub (\u00a7 239a Abs. 1), eine Geiselnahme (\u00a7 239b Abs. 1) oder einen Angriff auf den Luft- und Seeverkehr (\u00a7 316c Abs. 1) durch eine terroristische Vereinigung (\u00a7 129a, auch in Verbindung mit \u00a7 129b Abs. 1)</LA></DD></DL>handelt. Unter denselben Voraussetzungen ist ein Rechtsanwalt, Verteidiger, Arzt, Psychotherapeut, Psychologischer Psychotherapeut oder Kinder- und Jugendlichenpsychotherapeut nicht verpflichtet anzuzeigen, was ihm in dieser Eigenschaft anvertraut worden ist. Die berufsm\u00e4\u00dfigen Gehilfen der in Satz 2 genannten Personen und die Personen, die bei diesen zur Vorbereitung auf den Beruf t\u00e4tig sind, sind nicht verpflichtet mitzuteilen, was ihnen in ihrer beruflichen Eigenschaft bekannt geworden ist.</P><P>(4) Straffrei ist, wer die Ausf\u00fchrung oder den Erfolg der Tat anders als durch Anzeige abwendet. Unterbleibt die Ausf\u00fchrung oder der Erfolg der Tat ohne Zutun des zur Anzeige Verpflichteten, so gen\u00fcgt zu seiner Straflosigkeit sein ernsthaftes Bem\u00fchen, den Erfolg abzuwenden.</P>",
           "footnotes": null
         },
         "documentaryFootnotes": null,

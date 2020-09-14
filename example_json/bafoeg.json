@@ -727,7 +727,7 @@
         "id": "BJNR014090971BJNG000601310",
         "type": "heading",
         "name": "Abschnitt VI",
-        "title": "",
+        "title": null,
         "contentLevel": 0,
         "parent": null
       },
@@ -1134,7 +1134,7 @@
         "id": "BJNR014090971BJNG001001310",
         "type": "heading",
         "name": "Abschnitt X",
-        "title": "",
+        "title": null,
         "contentLevel": 0,
         "parent": null
       },

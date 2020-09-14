@@ -5,7 +5,7 @@
     "abbreviation": "SGB 2",
     "extraAbbreviations": [],
     "firstPublished": "2003-12-24",
-    "sourceTimestamp": "20200703213051",
+    "sourceTimestamp": "20200818213046",
     "headingShort": null,
     "headingLong": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung f\u00fcr Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)",
     "publicationInfo": [
@@ -45,6 +45,10 @@
       },
       {
         "comment": "\u00c4nderung durch Art. 3 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 2 G v. 12.8.2020 I 1879 ist ber\u00fccksichtigt",
         "category": "Hinweis"
       }
     ],
