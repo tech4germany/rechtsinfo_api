@@ -27,8 +27,8 @@ class Law(Base):
 
     id = Column(Integer, primary_key=True)
     doknr = Column(String, nullable=False, unique=True)
-    slug = Column(String, nullable=False)
-    gii_slug = Column(String, nullable=False)
+    slug = Column(String, nullable=False, index=True)
+    gii_slug = Column(String, nullable=False, index=True)
     abbreviation = Column(String, nullable=False)
     extra_abbreviations = Column(postgresql.ARRAY(String), nullable=False)
     first_published = Column(String, nullable=False)
@@ -40,7 +40,7 @@ class Law(Base):
     notes = Column(postgresql.JSONB)
 
     contents = relationship('ContentItem', back_populates='law', order_by='ContentItem.order',
-                            cascade='all, delete, delete-orphan')
+                            cascade='all, delete, delete-orphan', passive_deletes=True)
 
     @staticmethod
     def from_dict(law_dict, gii_slug):
@@ -77,7 +77,7 @@ class ContentItem(Base):
     body = Column(postgresql.JSONB)
     documentary_footnotes = Column(String)
     content_level = Column(Integer, nullable=False)
-    law_id = Column(Integer, ForeignKey('laws.id'))
+    law_id = Column(Integer, ForeignKey('laws.id', ondelete="CASCADE"), index=True)
     parent_id = Column(Integer, ForeignKey('content_items.id'))
     order = Column(Integer, nullable=False)
 
