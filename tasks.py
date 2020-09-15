@@ -5,7 +5,7 @@ from invoke import task
 import tqdm
 
 from rip_api import gesetze_im_internet
-from rip_api.gesetze_im_internet.db import session_scope
+from rip_api.db import session_scope
 
 
 @task(help={

@@ -1,10 +1,10 @@
 import glob
 import os
 
-from sqlalchemy.orm import load_only
 import tqdm
 
-from .models import law_to_api_json, Law, ContentItem
+import rip_api.db
+from rip_api.models import law_to_api_json, Law
 from .parsing import parse_law_xml_to_dict
 from .download import create_or_replace_law_dir, fetch_toc, has_update, remove_law_dir
 
@@ -18,7 +18,7 @@ def find_models_for_laws(session, slugs):
     removed = set()
     removed_slugs = set()
 
-    laws = session.query(Law).options(load_only('gii_slug', 'source_timestamp')).all()
+    laws = rip_api.db.all_laws_load_only_gii_slug_and_source_timestamp(session)
 
     for law in laws:
         if law.gii_slug in slugs:
@@ -34,7 +34,7 @@ def find_models_for_laws(session, slugs):
 
 
 def _verify_db_and_data_dir_sync(session, data_dir):
-    db_slugs = { res[0] for res in session.query(Law.gii_slug).all() }
+    db_slugs = { res[0] for res in rip_api.db.all_gii_slugs(session) }
     data_dir_slugs = { path.split('/')[-2] for path in glob.glob(f'{data_dir}/*/') }
 
     difference = data_dir_slugs - db_slugs
@@ -89,7 +89,7 @@ def ingest_law(session, data_dir, gii_slug):
     law_dict = parse_law(law_dir)
     law = Law.from_dict(law_dict, gii_slug)
 
-    existing_law = session.query(Law).filter_by(doknr=law.doknr).first()
+    existing_law = rip_api.db.find_law_by_doknr(session, law.doknr)
     if existing_law:
         session.delete(existing_law)
         session.flush()
@@ -99,7 +99,7 @@ def ingest_law(session, data_dir, gii_slug):
 
 
 def law_json_from_slug(session, slug, pretty=False):
-    law = session.query(Law).filter_by(slug=slug).first()
+    law = rip_api.db.find_law_by_slug(session, slug)
     if not law:
         raise Exception(f'Could not find law by slug "{slug}". Has it been ingested yet?')
 

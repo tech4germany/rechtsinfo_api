@@ -5,8 +5,7 @@ import os.path
 import pytest
 
 from rip_api import gesetze_im_internet
-from rip_api.gesetze_im_internet.db import session_scope
-from rip_api.gesetze_im_internet.models import Law
+from rip_api.db import session_scope
 
 tests_dir = os.path.join(os.path.dirname(__file__))
 example_json_dir = os.path.join(tests_dir, '..', 'example_json')
