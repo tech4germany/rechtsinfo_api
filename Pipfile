@@ -5,16 +5,16 @@ verify_ssl = true
 
 [dev-packages]
 rechtsinfo-api = {editable = true, path = "."}
+pytest-cov = "*"
+pytest = "*"
 
 [packages]
-pytest = "*"
 lxml = "*"
 pydantic = "*"
 pyhumps = "*"
 invoke = "*"
 sqlalchemy = "*"
 psycopg2 = "*"
-pytest-cov = "*"
 tqdm = "*"
 requests = "*"
 fastapi = "*"
