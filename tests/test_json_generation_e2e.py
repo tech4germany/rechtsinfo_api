@@ -1,6 +1,4 @@
 import json
-import glob
-import os.path
 
 import pytest
 

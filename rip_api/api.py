@@ -17,20 +17,11 @@ class ApiException(Exception):
 
 
 def build_error_response(status_code, title, detail=None):
-    error = {
-        'code': status_code,
-        'title': title
-    }
+    error = {"code": status_code, "title": title}
     if detail:
-        error['detail'] = detail
+        error["detail"] = detail
 
-
-    return fastapi.responses.JSONResponse(
-        status_code=status_code,
-        content={
-            'errors': [error]
-        }
-    )
+    return fastapi.responses.JSONResponse(status_code=status_code, content={"errors": [error]})
 
 
 @app.exception_handler(ApiException)
@@ -41,9 +32,7 @@ async def api_exception_handler(request: fastapi.Request, exc: ApiException):
 @app.exception_handler(Exception)
 async def generic_exception_handler(request: fastapi.Request, exc: Exception):
     return build_error_response(
-        status_code=500,
-        title='Internal Server Error',
-        detail='Something went wrong while processing your request.'
+        status_code=500, title="Internal Server Error", detail="Something went wrong while processing your request."
     )
 
 
@@ -57,11 +46,13 @@ async def http_exception_handler(request: fastapi.Request, exc: starlette.except
     return response
 
 
-@app.get('/laws/{slug}', response_model=LawResponse)
+@app.get("/laws/{slug}", response_model=LawResponse)
 def read_law(slug: str):
     with db.session_scope() as session:
         law = db.find_law_by_slug(session, slug)
         if not law:
-            raise ApiException(status_code=404, title='Resource not found', detail='Could not find a law for this slug.')
+            raise ApiException(
+                status_code=404, title="Resource not found", detail="Could not find a law for this slug."
+            )
         response_model = LawResponse.from_law(law)
         return response_model

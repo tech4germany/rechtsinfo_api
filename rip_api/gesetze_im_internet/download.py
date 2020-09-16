@@ -1,5 +1,4 @@
 from email.utils import parsedate_to_datetime
-import glob
 from io import BytesIO
 import os
 import shutil
@@ -8,7 +7,7 @@ import zipfile
 from lxml import etree
 import requests
 
-TOC_URL = 'http://www.gesetze-im-internet.de/gii-toc.xml'
+TOC_URL = "http://www.gesetze-im-internet.de/gii-toc.xml"
 
 
 def fetch_toc():
@@ -18,9 +17,9 @@ def fetch_toc():
     toc = {}
 
     doc = etree.fromstring(response.content)
-    for item in doc.xpath('/items/item'):
-        url = item.find('link').text
-        slug = url.split('/')[-2]
+    for item in doc.xpath("/items/item"):
+        url = item.find("link").text
+        slug = url.split("/")[-2]
         toc[slug] = url
 
     return toc
@@ -30,8 +29,8 @@ def has_update(download_url, timestamp_string):
     response = requests.head(download_url)
     response.raise_for_status()
 
-    last_modified_header = response.headers['Last-Modified']
-    last_modified_string = parsedate_to_datetime(last_modified_header).strftime('%Y%m%d')
+    last_modified_header = response.headers["Last-Modified"]
+    last_modified_string = parsedate_to_datetime(last_modified_header).strftime("%Y%m%d")
 
     return last_modified_string > timestamp_string
 
@@ -54,4 +53,3 @@ def create_or_replace_law_dir(data_dir, gii_slug, download_url):
     zip_archive = zipfile.ZipFile(BytesIO(response.content))
     for filename in zip_archive.namelist():
         zip_archive.extract(filename, dir_path)
-

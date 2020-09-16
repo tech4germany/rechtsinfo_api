@@ -5,7 +5,7 @@ from sqlalchemy.orm import load_only, sessionmaker
 
 from .models import Base, Law
 
-_engine = create_engine('postgresql://localhost:5432/rip_api')
+_engine = create_engine("postgresql://localhost:5432/rip_api")
 Session = sessionmaker(bind=_engine)
 Base.metadata.create_all(_engine)
 
@@ -29,7 +29,7 @@ def all_gii_slugs(session):
 
 
 def all_laws_load_only_gii_slug_and_source_timestamp(session):
-    return session.query(Law).options(load_only('gii_slug', 'source_timestamp')).all()
+    return session.query(Law).options(load_only("gii_slug", "source_timestamp")).all()
 
 
 def find_law_by_doknr(session, doknr):

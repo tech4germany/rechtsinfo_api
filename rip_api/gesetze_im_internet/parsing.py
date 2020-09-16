@@ -9,7 +9,9 @@ from .utils import chunk_string
 def _text(elements, multi=False):
     def _element_text_with_tags(element):
         """Preserve XML tags in the returned text string."""
-        return ''.join(itertools.chain([element.text or ''], (etree.tostring(child, encoding='unicode') for child in element))).strip()
+        return "".join(
+            itertools.chain([element.text or ""], (etree.tostring(child, encoding="unicode") for child in element))
+        ).strip()
 
     if elements is None or len(elements) == 0:
         return None
@@ -19,57 +21,55 @@ def _text(elements, multi=False):
     if multi:
         return values
 
-    assert len(values) == 1, f'Multiple values found but not requested: {values}'
+    assert len(values) == 1, f"Multiple values found but not requested: {values}"
     return values[0].strip() or None
 
 
 def _parse_abbrs(norm):
-    abbrs = (_text(norm.xpath('metadaten/amtabk'), multi=True) or []) + _text(norm.xpath('metadaten/jurabk'), multi=True)
+    abbrs = (_text(norm.xpath("metadaten/amtabk"), multi=True) or []) + _text(norm.xpath("metadaten/jurabk"), multi=True)
     abbrs_unique = list(dict.fromkeys(abbrs))
     primary, *rest = abbrs_unique
 
-    return { 'abbreviation': primary, 'extra_abbreviations': rest }
+    return {"abbreviation": primary, "extra_abbreviations": rest}
 
 
 def _parse_publication_info(norm):
-    elements = norm.xpath('metadaten/fundstelle')
+    elements = norm.xpath("metadaten/fundstelle")
     if not elements:
         return []
     return [
         {
-            'periodical': _text(el.xpath('periodikum')),
-            'reference': _text(el.xpath('zitstelle'))
-        }
-        for el in elements
+            "periodical": _text(el.xpath("periodikum")),
+            "reference": _text(el.xpath("zitstelle"))
+        } for el in elements
     ]
 
 
 def _parse_status_info(norm):
-    elements = norm.xpath('metadaten/standangabe')
+    elements = norm.xpath("metadaten/standangabe")
     if not elements:
         return []
     return [
         {
-            'category': _text(el.xpath('standtyp')),
-            'comment': _text(el.xpath('standkommentar'))
-        }
-        for el in elements
+            "category": _text(el.xpath("standtyp")),
+            "comment": _text(el.xpath("standkommentar"))
+        } for el in elements
     ]
 
 
 def _parse_section_info(norm):
-    if not norm.xpath('metadaten/gliederungseinheit'):
+    if not norm.xpath("metadaten/gliederungseinheit"):
         return None
 
     return {
-        'code': _text(norm.xpath('metadaten/gliederungseinheit/gliederungskennzahl')),
-        'name': _text(norm.xpath('metadaten/gliederungseinheit/gliederungsbez')),
-        'title': _text(norm.xpath('metadaten/gliederungseinheit/gliederungstitel'))
+        "code": _text(norm.xpath("metadaten/gliederungseinheit/gliederungskennzahl")),
+        "name": _text(norm.xpath("metadaten/gliederungseinheit/gliederungsbez")),
+        "title": _text(norm.xpath("metadaten/gliederungseinheit/gliederungstitel"))
     }
 
 
 def _parse_text(norm):
-    elements = norm.xpath('textdaten/text')
+    elements = norm.xpath("textdaten/text")
 
     if not elements:
         return None
@@ -77,21 +77,18 @@ def _parse_text(norm):
     assert len(elements) == 1, 'Found multiple elements matching "textdaten/text"'
     text = elements[0]
 
-    text_format = text.get('format')
-    if text_format == 'decorated':
-        assert _text(text) is None, 'Found text[@format=decorated] with unexpected text content.'
+    text_format = text.get("format")
+    if text_format == "decorated":
+        assert _text(text) is None, "Found text[@format=decorated] with unexpected text content."
         return None
 
-    assert text_format == 'XML', f'Unknown text format {text["format"]}'
+    assert text_format == "XML", f'Unknown text format {text["format"]}'
 
-    content = _parse_text_content(text.xpath('Content'))
-    toc = _text(text.xpath('TOC'))
-    assert not (content and toc), 'Found norm with both TOC and Content.'
+    content = _parse_text_content(text.xpath("Content"))
+    toc = _text(text.xpath("TOC"))
+    assert not (content and toc), "Found norm with both TOC and Content."
 
-    data = {
-        'content': content or toc,
-        'footnotes': _text(text.xpath('Footnotes'))
-    }
+    data = {"content": content or toc, "footnotes": _text(text.xpath("Footnotes"))}
 
     if not any(data.values()):
         return None
@@ -105,36 +102,35 @@ def _parse_text_content(content):
         return None
     return text_content
 
-EMPTY_CONTENT_PATTERNS = [
-     '<P/>', '<P>-</P>'
-]
+
+EMPTY_CONTENT_PATTERNS = ["<P/>", "<P>-</P>"]
 
 
 def _parse_footnotes(norm):
-    return _parse_text_content(norm.xpath('textdaten/fussnoten/Content'))
+    return _parse_text_content(norm.xpath("textdaten/fussnoten/Content"))
 
 
 def load_norms_from_file(filepath):
     with open(filepath) as f:
         doc = etree.parse(f)
 
-    return doc.xpath('/dokumente/norm')
+    return doc.xpath("/dokumente/norm")
 
 
 def extract_law_attrs(header_norm):
     abbrs = _parse_abbrs(header_norm)
     return {
-        'doknr': header_norm.get('doknr'),
+        "doknr": header_norm.get("doknr"),
         **abbrs,
-        'first_published': _text(header_norm.xpath('metadaten/ausfertigung-datum')),
-        'source_timestamp': header_norm.get('builddate'),
-        'heading_long': _text(header_norm.xpath('metadaten/langue')),
-        'heading_short': _text(header_norm.xpath('metadaten/kurzue')),
-        'publication_info': _parse_publication_info(header_norm),
-        'status_info': _parse_status_info(header_norm),
-        'notes': {
-            'body': _parse_text(header_norm),
-            'documentary_footnotes': _parse_footnotes(header_norm)
+        "first_published": _text(header_norm.xpath("metadaten/ausfertigung-datum")),
+        "source_timestamp": header_norm.get("builddate"),
+        "heading_long": _text(header_norm.xpath("metadaten/langue")),
+        "heading_short": _text(header_norm.xpath("metadaten/kurzue")),
+        "publication_info": _parse_publication_info(header_norm),
+        "status_info": _parse_status_info(header_norm),
+        "notes": {
+            "body": _parse_text(header_norm),
+            "documentary_footnotes": _parse_footnotes(header_norm)
         }
     }
 
@@ -142,37 +138,37 @@ def extract_law_attrs(header_norm):
 def extract_contents(body_norms):
     def _extract_common_attrs(norm):
         return {
-            'doknr': norm.get('doknr'),
-            'body': _parse_text(norm),
-            'documentary_footnotes': _parse_footnotes(norm)
+            "doknr": norm.get("doknr"),
+            "body": _parse_text(norm),
+            "documentary_footnotes": _parse_footnotes(norm)
         }
 
     def _set_item_type(item, norm):
-        if 'NE' in item['doknr']:
-            item['item_type'] = 'article'
-        elif 'NG' in item['doknr']:
-            if item['body'] or item['documentary_footnotes']:
-                item['item_type'] = 'heading_article'
+        if "NE" in item["doknr"]:
+            item["item_type"] = "article"
+        elif "NG" in item["doknr"]:
+            if item["body"] or item["documentary_footnotes"]:
+                item["item_type"] = "heading_article"
             else:
-                item['item_type'] = 'heading'
+                item["item_type"] = "heading"
         else:
-            raise Exception(f'Unknown norm structure encountered: {etree.tostring(norm)}')
+            raise Exception(f"Unknown norm structure encountered: {etree.tostring(norm)}")
 
     def _set_name_and_title(item, norm):
         section_info = _parse_section_info(norm)
 
-        if 'NE' in item['doknr']:
+        if "NE" in item["doknr"]:
             item.update({
-                'name': _text(norm.xpath('metadaten/enbez')),
-                'title': _text(norm.xpath('metadaten/titel'))
+                "name": _text(norm.xpath("metadaten/enbez")),
+                "title": _text(norm.xpath("metadaten/titel"))
             })
-        elif 'NG' in item['doknr']:
+        elif "NG" in item["doknr"]:
             item.update({
-                'name': section_info['name'],
-                'title': section_info['title']
+                "name": section_info["name"],
+                "title": section_info["title"]
             })
         else:
-            raise Exception(f'Unknown norm structure encountered: {etree.tostring(norm)}')
+            raise Exception(f"Unknown norm structure encountered: {etree.tostring(norm)}")
 
     def _find_parent(sections_by_code, code):
         """
@@ -181,40 +177,40 @@ def extract_contents(body_norms):
         """
         chunks = chunk_string(code, 3)
         for i in reversed(range(len(chunks) + 1)):
-            substring = ''.join(chunks[:i])
+            substring = "".join(chunks[:i])
             if sections_by_code.get(substring):
                 return sections_by_code[substring]
         return None
 
     def _set_parent(item, norm, parser_state):
         section_info = _parse_section_info(norm)
-        code = section_info and section_info['code']
+        code = section_info and section_info["code"]
 
-        if 'NE' in item['doknr']:
+        if "NE" in item["doknr"]:
             if code:
-                item['parent'] = _find_parent(parser_state['sections_by_code'], code)
+                item["parent"] = _find_parent(parser_state["sections_by_code"], code)
             else:
-                item['parent'] = parser_state['current_parent']
+                item["parent"] = parser_state["current_parent"]
 
-        elif 'NG' in item['doknr']:
-            item['parent'] = _find_parent(parser_state['sections_by_code'], code)
-            parser_state['sections_by_code'][code] = parser_state['current_parent'] = item
+        elif "NG" in item["doknr"]:
+            item["parent"] = _find_parent(parser_state["sections_by_code"], code)
+            parser_state["sections_by_code"][code] = parser_state["current_parent"] = item
 
-        if item['parent']:
-            parser_state['items_with_children'].add(item['parent']['doknr'])
+        if item["parent"]:
+            parser_state["items_with_children"].add(item["parent"]["doknr"])
 
     def _set_content_level(item):
-        if not item['parent']:
-            item['content_level'] = 0
+        if not item["parent"]:
+            item["content_level"] = 0
         else:
-            item['content_level'] = item['parent']['content_level'] + 1
+            item["content_level"] = item["parent"]["content_level"] + 1
 
     content_items = []
 
     parser_state = {
-        'current_parent': None,
-        'sections_by_code': {'': None},
-        'items_with_children': set()
+        "current_parent": None,
+        "sections_by_code": {"": None},
+        "items_with_children": set(),
     }
 
     for norm in body_norms:
@@ -227,8 +223,8 @@ def extract_contents(body_norms):
 
     # Convert empty heading articles to articles
     for item in content_items:
-        if item['item_type'] == 'heading_article' and item['doknr'] not in parser_state['items_with_children']:
-            item['item_type'] = 'article'
+        if item["item_type"] == "heading_article" and item["doknr"] not in parser_state["items_with_children"]:
+            item["item_type"] = "article"
 
     return content_items
 
@@ -237,14 +233,14 @@ def parse_law_xml_to_dict(path_to_xml_file):
     header_norm, *body_norms = load_norms_from_file(path_to_xml_file)
 
     law_attrs = extract_law_attrs(header_norm)
-    law_attrs['contents'] = extract_contents(body_norms)
+    law_attrs["contents"] = extract_contents(body_norms)
 
     return law_attrs
 
 
 def parse_law(law_dir):
-    xml_files = glob.glob(f'{law_dir}/*.xml')
-    assert len(xml_files) == 1, f'Expected 1 XML file in {law_dir}, got {len(xml_files)}'
+    xml_files = glob.glob(f"{law_dir}/*.xml")
+    assert len(xml_files) == 1, f"Expected 1 XML file in {law_dir}, got {len(xml_files)}"
 
     filepath = xml_files[0]
     return parse_law_xml_to_dict(filepath)

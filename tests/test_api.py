@@ -4,7 +4,7 @@ import pytest
 
 from fastapi.testclient import TestClient
 
-from rip_api import api, models
+from rip_api import api
 from .utils import load_example_json, load_law_from_xml_fixture
 
 
@@ -42,6 +42,7 @@ def test_law_not_found(client):
             }
         ]
     }
+
 
 def test_generic_http_error(client):
     response = client.get('/foo')

@@ -1,5 +1,4 @@
 import glob
-import json
 import os
 
 import tqdm
@@ -34,39 +33,39 @@ def find_models_for_laws(session, slugs):
 
 
 def _verify_db_and_data_dir_sync(session, data_dir):
-    db_slugs = { res[0] for res in db.all_gii_slugs(session) }
-    data_dir_slugs = { path.split('/')[-2] for path in glob.glob(f'{data_dir}/*/') }
+    db_slugs = {res[0] for res in db.all_gii_slugs(session)}
+    data_dir_slugs = {path.split("/")[-2] for path in glob.glob(f"{data_dir}/*/")}
 
     difference = data_dir_slugs - db_slugs
-    assert len(difference) == 0, f'Found left-over directories in data dir: {difference}'
+    assert len(difference) == 0, f"Found left-over directories in data dir: {difference}"
 
 
 def update_all(session, data_dir):
-    print('Fetching toc.xml')
+    print("Fetching toc.xml")
     download_urls = fetch_toc()
 
     existing, removed, new_slugs = find_models_for_laws(session, download_urls.keys())
 
     # Avoid accidentally deleting all law data directories in case of errors
     if len(removed) > 250:
-        raise Exception(f'Dubious number of laws to remove ({len(removed)}) - aborting')
+        raise Exception(f"Dubious number of laws to remove ({len(removed)}) - aborting")
 
     updated_slugs = set()
-    with tqdm.tqdm(total=len(existing), desc='Checking which laws have been updated') as pbar:
+    with tqdm.tqdm(total=len(existing), desc="Checking which laws have been updated") as pbar:
         for law in existing:
             if has_update(download_urls[law.gii_slug], law.source_timestamp):
                 updated_slugs.add(law.gii_slug)
             pbar.update()
 
     slugs_to_update = updated_slugs | new_slugs
-    with tqdm.tqdm(total=len(slugs_to_update), desc='Updating laws') as pbar:
+    with tqdm.tqdm(total=len(slugs_to_update), desc="Updating laws") as pbar:
         for slug in slugs_to_update:
             create_or_replace_law_dir(data_dir, slug, download_urls[slug])
             ingest_law(session, data_dir, slug)
             session.commit()
             pbar.update()
 
-    with tqdm.tqdm(total=len(removed), desc='Deleting removed laws') as pbar:
+    with tqdm.tqdm(total=len(removed), desc="Deleting removed laws") as pbar:
         for law in removed:
             remove_law_dir(data_dir, law.gii_slug)
             session.delete(law)
@@ -97,6 +96,6 @@ def law_json_from_slug(session, slug, pretty=False):
 
     json_kwargs = {}
     if pretty:
-        json_kwargs = {'indent': 2}
+        json_kwargs = {"indent": 2}
 
     return api_schemas.LawResponse.from_law(law).json(**json_kwargs)

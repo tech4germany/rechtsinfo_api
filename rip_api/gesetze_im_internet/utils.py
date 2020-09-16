@@ -10,4 +10,4 @@ def grouper(iterable, n, fillvalue=None):
 
 
 def chunk_string(string, length):
-    return [''.join(chunk) for chunk in grouper(string, length)]
+    return ["".join(chunk) for chunk in grouper(string, length)]

@@ -27,10 +27,10 @@ class ContentItem(pydantic.BaseModel):
     contentLevel: int
     parent: Optional[ContentItemReference]
 
-    @pydantic.validator('type', allow_reuse=True, check_fields=False)
+    @pydantic.validator("type", allow_reuse=True, check_fields=False)
     def type_string_must_match_model_type(cls, v):
-        if v != cls.__fields__['type'].default:
-            raise ValueError('type string must match model type')
+        if v != cls.__fields__["type"].default:
+            raise ValueError("type string must match model type")
         return v
 
 
@@ -40,34 +40,31 @@ class ContentItemWithTextContent(ContentItem):
 
 
 class Heading(ContentItem):
-    type: str = 'heading'
+    type: str = "heading"
 
 
 class Article(ContentItemWithTextContent):
-    type: str = 'article'
+    type: str = "article"
 
 
 class HeadingArticle(ContentItemWithTextContent):
-    type: str = 'headingArticle'
+    type: str = "headingArticle"
 
 
 def content_item_from_db_model(item):
     model_type = ITEM_TYPE_TO_MODEL_TYPE[item.item_type]
 
     attrs = {
-        'id': item.doknr,
-        'name': item.name,
-        'title': item.title,
-        'contentLevel': item.content_level,
-        'parent': item.parent and ContentItemReference(
-            type=humps.camelize(item.parent.item_type),
-            id=item.parent.doknr
-        )
+        "id": item.doknr,
+        "name": item.name,
+        "title": item.title,
+        "contentLevel": item.content_level,
+        "parent": item.parent and ContentItemReference(type=humps.camelize(item.parent.item_type), id=item.parent.doknr),
     }
 
     if model_type in (Article, HeadingArticle):
-        attrs['body'] = item.body and TextBody(**item.body)
-        attrs['documentaryFootnotes'] = item.documentary_footnotes
+        attrs["body"] = item.body and TextBody(**item.body)
+        attrs["documentaryFootnotes"] = item.documentary_footnotes
 
     return model_type(**attrs)
 
@@ -83,7 +80,7 @@ class StatusInfoItem(pydantic.BaseModel):
 
 
 class Law(pydantic.BaseModel):
-    type: str = 'law'
+    type: str = "law"
     id: str
     abbreviation: str
     extraAbbreviations: List[str]
@@ -109,7 +106,7 @@ class Law(pydantic.BaseModel):
             publicationInfo=pydantic.parse_obj_as(List[PublicationInfoItem], law.publication_info),
             statusInfo=pydantic.parse_obj_as(List[StatusInfoItem], law.status_info),
             notes=TextContent(**humps.camelize(law.notes)),
-            contents=[ content_item_from_db_model(ci) for ci in law.contents ]
+            contents=[content_item_from_db_model(ci) for ci in law.contents],
         )
 
 
@@ -122,7 +119,7 @@ class LawResponse(pydantic.BaseModel):
 
 
 ITEM_TYPE_TO_MODEL_TYPE = {
-    'article': Article,
-    'heading': Heading,
-    'heading_article': HeadingArticle
+    "article": Article,
+    "heading": Heading,
+    "heading_article": HeadingArticle,
 }
