@@ -1,11 +1,12 @@
 from contextlib import contextmanager
+import os
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import load_only, sessionmaker
 
 from .models import Base, Law
 
-_engine = create_engine("postgresql://localhost:5432/rip_api")
+_engine = create_engine(os.environ.get("DB_URI") or "postgresql://localhost:5432/rip_api")
 Session = sessionmaker(bind=_engine)
 Base.metadata.create_all(_engine)
 

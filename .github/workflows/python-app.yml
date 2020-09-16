@@ -11,8 +11,21 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
+    container: python:3.8-alpine
+
+    services:
+      postgres:
+        image: postgres:12-alpine
+        env:
+          POSTGRES_PASSWORD: secret
+          POSTGRES_DB: rip_api
+        # Set health checks to wait until postgres has started
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
 
     steps:
     - uses: actions/checkout@v2
@@ -27,3 +40,5 @@ jobs:
     - name: Test with pytest
       run: |
         pipenv run pytest
+      env:
+        DB_URI: postgresql://postgres:secret@postgres:5432/rip_api
