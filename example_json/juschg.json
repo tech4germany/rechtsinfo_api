@@ -30,205 +30,205 @@
     },
     "contents": [
       {
-        "id": "BJNR273000002BJNE003100000",
         "type": "article",
+        "id": "BJNR273000002BJNE003100000",
         "name": "Eingangsformel",
         "title": null,
+        "contentLevel": 0,
+        "parent": null,
         "body": {
           "content": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 0,
-        "parent": null
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR273000002BJNG000100000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeines",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR273000002BJNE000101310",
         "type": "article",
+        "id": "BJNR273000002BJNE000101310",
         "name": "\u00a7 1",
         "title": "Begriffsbestimmungen",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR273000002BJNG000100000"
+        },
         "body": {
           "content": "<P>(1) Im Sinne dieses Gesetzes <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sind Kinder Personen, die noch nicht 14 Jahre alt sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sind Jugendliche Personen, die 14, aber noch nicht 18 Jahre alt sind,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ist personensorgeberechtigte Person, wem allein oder gemeinsam mit einer anderen Person nach den Vorschriften des B\u00fcrgerlichen Gesetzbuchs die Personensorge zusteht,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ist erziehungsbeauftragte Person, jede Person \u00fcber 18 Jahren, soweit sie auf Dauer oder zeitweise aufgrund einer Vereinbarung mit der personensorgeberechtigten Person Erziehungsaufgaben wahrnimmt oder soweit sie ein Kind oder eine jugendliche Person im Rahmen der Ausbildung oder der Jugendhilfe betreut.</LA></DD> </DL> </P><P>(2) Tr\u00e4germedien im Sinne dieses Gesetzes sind Medien mit Texten, Bildern oder T\u00f6nen auf gegenst\u00e4ndlichen Tr\u00e4gern, die zur Weitergabe geeignet, zur unmittelbaren Wahrnehmung bestimmt oder in einem Vorf\u00fchr- oder Spielger\u00e4t eingebaut sind. Dem gegenst\u00e4ndlichen Verbreiten, \u00dcberlassen, Anbieten oder Zug\u00e4nglichmachen von Tr\u00e4germedien steht das elektronische Verbreiten, \u00dcberlassen, Anbieten oder Zug\u00e4nglichmachen gleich, soweit es sich nicht um Rundfunk im Sinne des \u00a7 2 des Rundfunkstaatsvertrages handelt.</P><P>(3) Telemedien im Sinne dieses Gesetzes sind Medien, die nach dem Telemediengesetz \u00fcbermittelt oder zug\u00e4nglich gemacht werden. Als \u00dcbermitteln oder Zug\u00e4nglichmachen im Sinne von Satz 1 gilt das Bereithalten eigener oder fremder Inhalte.</P><P>(4) Versandhandel im Sinne dieses Gesetzes ist jedes entgeltliche Gesch\u00e4ft, das im Wege der Bestellung und \u00dcbersendung einer Ware durch Postversand oder elektronischen Versand ohne pers\u00f6nlichen Kontakt zwischen Lieferant und Besteller oder ohne dass durch technische oder sonstige Vorkehrungen sichergestellt ist, dass kein Versand an Kinder und Jugendliche erfolgt, vollzogen wird.</P><P>(5) Die Vorschriften der \u00a7\u00a7 2 bis 14 dieses Gesetzes gelten nicht f\u00fcr verheiratete Jugendliche.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Pr\u00fcfungs- und Nachweispflicht",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000100000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE000200000",
-        "type": "article",
-        "name": "\u00a7 2",
-        "title": "Pr\u00fcfungs- und Nachweispflicht",
+        },
         "body": {
           "content": "<P>(1) Soweit es nach diesem Gesetz auf die Begleitung durch eine erziehungsbeauftragte Person ankommt, haben die in \u00a7 1 Abs. 1 Nr. 4 genannten Personen ihre Berechtigung auf Verlangen darzulegen. Veranstalter und Gewerbetreibende haben in Zweifelsf\u00e4llen die Berechtigung zu \u00fcberpr\u00fcfen.</P><P>(2) Personen, bei denen nach diesem Gesetz Altersgrenzen zu beachten sind, haben ihr Lebensalter auf Verlangen in geeigneter Weise nachzuweisen. Veranstalter und Gewerbetreibende haben in Zweifelsf\u00e4llen das Lebensalter zu \u00fcberpr\u00fcfen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Bekanntmachung der Vorschriften",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000100000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE000300000",
-        "type": "article",
-        "name": "\u00a7 3",
-        "title": "Bekanntmachung der Vorschriften",
+        },
         "body": {
           "content": "<P>(1) Veranstalter und Gewerbetreibende haben die nach den \u00a7\u00a7 4 bis 13 f\u00fcr ihre Betriebseinrichtungen und Veranstaltungen geltenden Vorschriften sowie bei \u00f6ffentlichen Filmveranstaltungen die Alterseinstufung von Filmen oder die Anbieterkennzeichnung nach \u00a7 14 Abs. 7 durch deutlich sichtbaren und gut lesbaren Aushang bekannt zu machen.</P><P>(2) Zur Bekanntmachung der Alterseinstufung von Filmen und von Film- und Spielprogrammen d\u00fcrfen Veranstalter und Gewerbetreibende nur die in \u00a7 14 Abs. 2 genannten Kennzeichnungen verwenden. Wer einen Film f\u00fcr \u00f6ffentliche Filmveranstaltungen weitergibt, ist verpflichtet, den Veranstalter bei der Weitergabe auf die Alterseinstufung oder die Anbieterkennzeichnung nach \u00a7 14 Abs. 7 hinzuweisen. F\u00fcr Filme, Film- und Spielprogramme, die nach \u00a7 14 Abs. 2 von der obersten Landesbeh\u00f6rde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach \u00a7 14 Abs. 6 gekennzeichnet sind, darf bei der Ank\u00fcndigung oder Werbung weder auf jugendbeeintr\u00e4chtigende Inhalte hingewiesen werden noch darf die Ank\u00fcndigung oder Werbung in jugendbeeintr\u00e4chtigender Weise erfolgen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR273000002BJNG000100000"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR273000002BJNG000200000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Jugendschutz in der \u00d6ffentlichkeit",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR273000002BJNE000400000",
         "type": "article",
+        "id": "BJNR273000002BJNE000400000",
         "name": "\u00a7 4",
         "title": "Gastst\u00e4tten",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR273000002BJNG000200000"
+        },
         "body": {
           "content": "<P>(1) Der Aufenthalt in Gastst\u00e4tten darf Kindern und Jugendlichen unter 16 Jahren nur gestattet werden, wenn eine personensorgeberechtigte oder erziehungsbeauftragte Person sie begleitet oder wenn sie in der Zeit zwischen 5 Uhr und 23 Uhr eine Mahlzeit oder ein Getr\u00e4nk einnehmen. Jugendlichen ab 16 Jahren darf der Aufenthalt in Gastst\u00e4tten ohne Begleitung einer personensorgeberechtigten oder erziehungsbeauftragten Person in der Zeit von 24 Uhr und 5 Uhr morgens nicht gestattet werden.</P><P>(2) Absatz 1 gilt nicht, wenn Kinder oder Jugendliche an einer Veranstaltung eines anerkannten Tr\u00e4gers der Jugendhilfe teilnehmen oder sich auf Reisen befinden.</P><P>(3) Der Aufenthalt in Gastst\u00e4tten, die als Nachtbar oder Nachtclub gef\u00fchrt werden, und in vergleichbaren Vergn\u00fcgungsbetrieben darf Kindern und Jugendlichen nicht gestattet werden.</P><P>(4) Die zust\u00e4ndige Beh\u00f6rde kann Ausnahmen von Absatz 1 genehmigen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Tanzveranstaltungen",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000200000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE000500000",
-        "type": "article",
-        "name": "\u00a7 5",
-        "title": "Tanzveranstaltungen",
+        },
         "body": {
           "content": "<P>(1) Die Anwesenheit bei \u00f6ffentlichen Tanzveranstaltungen ohne Begleitung einer personensorgeberechtigten oder erziehungsbeauftragten Person darf Kindern und Jugendlichen unter 16 Jahren nicht und Jugendlichen ab 16 Jahren l\u00e4ngstens bis 24 Uhr gestattet werden.</P><P>(2) Abweichend von Absatz 1 darf die Anwesenheit Kindern bis 22 Uhr und Jugendlichen unter 16 Jahren bis 24 Uhr gestattet werden, wenn die Tanzveranstaltung von einem anerkannten Tr\u00e4ger der Jugendhilfe durchgef\u00fchrt wird oder der k\u00fcnstlerischen Bet\u00e4tigung oder der Brauchtumspflege dient.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde kann Ausnahmen genehmigen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Spielhallen, Gl\u00fccksspiele",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000200000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE000600000",
-        "type": "article",
-        "name": "\u00a7 6",
-        "title": "Spielhallen, Gl\u00fccksspiele",
+        },
         "body": {
           "content": "<P>(1) Die Anwesenheit in \u00f6ffentlichen Spielhallen oder \u00e4hnlichen vorwiegend dem Spielbetrieb dienenden R\u00e4umen darf Kindern und Jugendlichen nicht gestattet werden.</P><P>(2) Die Teilnahme an Spielen mit Gewinnm\u00f6glichkeit in der \u00d6ffentlichkeit darf Kindern und Jugendlichen nur auf Volksfesten, Sch\u00fctzenfesten, Jahrm\u00e4rkten, Spezialm\u00e4rkten oder \u00e4hnlichen Veranstaltungen und nur unter der Voraussetzung gestattet werden, dass der Gewinn in Waren von geringem Wert besteht.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Jugendgef\u00e4hrdende Veranstaltungen und Betriebe",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000200000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE000700000",
-        "type": "article",
-        "name": "\u00a7 7",
-        "title": "Jugendgef\u00e4hrdende Veranstaltungen und Betriebe",
+        },
         "body": {
           "content": "<P>Geht von einer \u00f6ffentlichen Veranstaltung oder einem Gewerbebetrieb eine Gef\u00e4hrdung f\u00fcr das k\u00f6rperliche, geistige oder seelische Wohl von Kindern oder Jugendlichen aus, so kann die zust\u00e4ndige Beh\u00f6rde anordnen, dass der Veranstalter oder Gewerbetreibende Kindern und Jugendlichen die Anwesenheit nicht gestatten darf. Die Anordnung kann Altersbegrenzungen, Zeitbegrenzungen oder andere Auflagen enthalten, wenn dadurch die Gef\u00e4hrdung ausgeschlossen oder wesentlich gemindert wird.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Jugendgef\u00e4hrdende Orte",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000200000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE000800000",
-        "type": "article",
-        "name": "\u00a7 8",
-        "title": "Jugendgef\u00e4hrdende Orte",
+        },
         "body": {
           "content": "<P>H\u00e4lt sich ein Kind oder eine jugendliche Person an einem Ort auf, an dem ihm oder ihr eine unmittelbare Gefahr f\u00fcr das k\u00f6rperliche, geistige oder seelische Wohl droht, so hat die zust\u00e4ndige Beh\u00f6rde oder Stelle die zur Abwendung der Gefahr erforderlichen Ma\u00dfnahmen zu treffen. Wenn n\u00f6tig, hat sie das Kind oder die jugendliche Person <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zum Verlassen des Ortes anzuhalten,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der erziehungsberechtigten Person im Sinne des \u00a7 7 Abs. 1 Nr. 6 des Achten Buches Sozialgesetzbuch zuzuf\u00fchren oder, wenn keine erziehungsberechtigte Person erreichbar ist, in die Obhut des Jugendamtes zu bringen.</LA></DD> </DL>In schwierigen F\u00e4llen hat die zust\u00e4ndige Beh\u00f6rde oder Stelle das Jugendamt \u00fcber den jugendgef\u00e4hrdenden Ort zu unterrichten.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE000902116",
+        "name": "\u00a7 9",
+        "title": "Alkoholische Getr\u00e4nke",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000200000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE000902116",
-        "type": "article",
-        "name": "\u00a7 9",
-        "title": "Alkoholische Getr\u00e4nke",
+        },
         "body": {
           "content": "<P>(1) In Gastst\u00e4tten, Verkaufsstellen oder sonst in der \u00d6ffentlichkeit d\u00fcrfen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bier, Wein, wein\u00e4hnliche Getr\u00e4nke oder Schaumwein oder Mischungen von Bier, Wein, wein\u00e4hnlichen Getr\u00e4nken oder Schaumwein mit nichtalkoholischen Getr\u00e4nken an Kinder und Jugendliche unter 16 Jahren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">andere alkoholische Getr\u00e4nke oder Lebensmittel, die andere alkoholische Getr\u00e4nke in nicht nur geringf\u00fcgiger Menge enthalten, an Kinder und Jugendliche</LA></DD></DL>weder abgegeben noch darf ihnen der Verzehr gestattet werden.</P><P>(2) Absatz 1 Nummer 1 gilt nicht, wenn Jugendliche von einer personensorgeberechtigten Person begleitet werden.</P><P>(3) In der \u00d6ffentlichkeit d\u00fcrfen alkoholische Getr\u00e4nke nicht in Automaten angeboten werden. Dies gilt nicht, wenn ein Automat <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an einem f\u00fcr Kinder und Jugendliche unzug\u00e4nglichen Ort aufgestellt ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem gewerblich genutzten Raum aufgestellt und durch technische Vorrichtungen oder durch st\u00e4ndige Aufsicht sichergestellt ist, dass Kinder und Jugendliche alkoholische Getr\u00e4nke nicht entnehmen k\u00f6nnen.</LA></DD></DL>\u00a7 20 Nr. 1 des Gastst\u00e4ttengesetzes bleibt unber\u00fchrt.</P><P>(4) Alkoholhaltige S\u00fc\u00dfgetr\u00e4nke im Sinne des \u00a7 1 Abs. 2 und 3 des Alkopopsteuergesetzes d\u00fcrfen gewerbsm\u00e4\u00dfig nur mit dem Hinweis \"Abgabe an Personen unter 18 Jahren verboten, \u00a7 9 Jugendschutzgesetz\" in den Verkehr gebracht werden. Dieser Hinweis ist auf der Fertigpackung in der gleichen Schriftart und in der gleichen Gr\u00f6\u00dfe und Farbe wie die Marken- oder Phantasienamen oder, soweit nicht vorhanden, wie die Verkehrsbezeichnung zu halten und bei Flaschen auf dem Frontetikett anzubringen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE001003377",
+        "name": "\u00a7 10",
+        "title": "Rauchen in der \u00d6ffentlichkeit, Tabakwaren",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000200000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE001003377",
-        "type": "article",
-        "name": "\u00a7 10",
-        "title": "Rauchen in der \u00d6ffentlichkeit, Tabakwaren",
+        },
         "body": {
           "content": "<P>(1) In Gastst\u00e4tten, Verkaufsstellen oder sonst in der \u00d6ffentlichkeit d\u00fcrfen Tabakwaren und andere nikotinhaltige Erzeugnisse und deren Beh\u00e4ltnisse an Kinder oder Jugendliche weder abgegeben noch darf ihnen das Rauchen oder der Konsum nikotinhaltiger Produkte gestattet werden.</P><P>(2) In der \u00d6ffentlichkeit d\u00fcrfen Tabakwaren und andere nikotinhaltige Erzeugnisse und deren Beh\u00e4ltnisse nicht in Automaten angeboten werden. Dies gilt nicht, wenn ein Automat <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an einem Kindern und Jugendlichen unzug\u00e4nglichen Ort aufgestellt ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch technische Vorrichtungen oder durch st\u00e4ndige Aufsicht sichergestellt ist, dass Kinder und Jugendliche Tabakwaren und andere nikotinhaltige Erzeugnisse und deren Beh\u00e4ltnisse nicht entnehmen k\u00f6nnen.</LA></DD></DL></P><P>(3) Tabakwaren und andere nikotinhaltige Erzeugnisse und deren Beh\u00e4ltnisse d\u00fcrfen Kindern und Jugendlichen weder im Versandhandel angeboten noch an Kinder und Jugendliche im Wege des Versandhandels abgegeben werden.</P><P>(4) Die Abs\u00e4tze 1 bis 3 gelten auch f\u00fcr nikotinfreie Erzeugnisse, wie elektronische Zigaretten oder elektronische Shishas, in denen Fl\u00fcssigkeit durch ein elektronisches Heizelement verdampft und die entstehenden Aerosole mit dem Mund eingeatmet werden, sowie f\u00fcr deren Beh\u00e4ltnisse.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR273000002BJNG000200000"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR273000002BJNG000300000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Jugendschutz im Bereich der Medien",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR273000002BJNG000400000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000400000",
         "name": "Unterabschnitt 1",
         "title": "Tr\u00e4germedien",
         "contentLevel": 1,
@@ -238,88 +238,88 @@
         }
       },
       {
-        "id": "BJNR273000002BJNE001100000",
         "type": "article",
+        "id": "BJNR273000002BJNE001100000",
         "name": "\u00a7 11",
         "title": "Filmveranstaltungen",
+        "contentLevel": 2,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR273000002BJNG000400000"
+        },
         "body": {
           "content": "<P>(1) Die Anwesenheit bei \u00f6ffentlichen Filmveranstaltungen darf Kindern und Jugendlichen nur gestattet werden, wenn die Filme von der obersten Landesbeh\u00f6rde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach \u00a7 14 Abs. 6 zur Vorf\u00fchrung vor ihnen freigegeben worden sind oder wenn es sich um Informations-, Instruktions- und Lehrfilme handelt, die vom Anbieter mit \"Infoprogramm\" oder \"Lehrprogramm\" gekennzeichnet sind.</P><P>(2) Abweichend von Absatz 1 darf die Anwesenheit bei \u00f6ffentlichen Filmveranstaltungen mit Filmen, die f\u00fcr Kinder und Jugendliche ab zw\u00f6lf Jahren freigegeben und gekennzeichnet sind, auch Kindern ab sechs Jahren gestattet werden, wenn sie von einer personensorgeberechtigten Person begleitet sind.</P><P>(3) Unbeschadet der Voraussetzungen des Absatzes 1 darf die Anwesenheit bei \u00f6ffentlichen Filmveranstaltungen nur mit Begleitung einer personensorgeberechtigten oder erziehungsbeauftragten Person gestattet werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kindern unter sechs Jahren,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kindern ab sechs Jahren, wenn die Vorf\u00fchrung nach 20 Uhr beendet ist,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Jugendlichen unter 16 Jahren, wenn die Vorf\u00fchrung nach 22 Uhr beendet ist,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Jugendlichen ab 16 Jahren, wenn die Vorf\u00fchrung nach 24 Uhr beendet ist.</LA></DD> </DL> </P><P>(4) Die Abs\u00e4tze 1 bis 3 gelten f\u00fcr die \u00f6ffentliche Vorf\u00fchrung von Filmen unabh\u00e4ngig von der Art der Aufzeichnung und Wiedergabe. Sie gelten auch f\u00fcr Werbevorspanne und Beiprogramme. Sie gelten nicht f\u00fcr Filme, die zu nichtgewerblichen Zwecken hergestellt werden, solange die Filme nicht gewerblich genutzt werden.</P><P>(5) Werbefilme oder Werbeprogramme, die f\u00fcr Tabakwaren oder alkoholische Getr\u00e4nke werben, d\u00fcrfen unbeschadet der Voraussetzungen der Abs\u00e4tze 1 bis 4 nur nach 18 Uhr vorgef\u00fchrt werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE001201310",
+        "name": "\u00a7 12",
+        "title": "Bildtr\u00e4ger mit Filmen oder Spielen",
         "contentLevel": 2,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000400000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE001201310",
-        "type": "article",
-        "name": "\u00a7 12",
-        "title": "Bildtr\u00e4ger mit Filmen oder Spielen",
+        },
         "body": {
           "content": "<P>(1) Bespielte Videokassetten und andere zur Weitergabe geeignete, f\u00fcr die Wiedergabe auf oder das Spiel an Bildschirmger\u00e4ten mit Filmen oder Spielen programmierte Datentr\u00e4ger (Bildtr\u00e4ger) d\u00fcrfen einem Kind oder einer jugendlichen Person in der \u00d6ffentlichkeit nur zug\u00e4nglich gemacht werden, wenn die Programme von der obersten Landesbeh\u00f6rde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach \u00a7 14 Abs. 6 f\u00fcr ihre Altersstufe freigegeben und gekennzeichnet worden sind oder wenn es sich um Informations-, Instruktions- und Lehrprogramme handelt, die vom Anbieter mit \"Infoprogramm\" oder \"Lehrprogramm\" gekennzeichnet sind.</P><P>(2) Auf die Kennzeichnungen nach Absatz 1 ist auf dem Bildtr\u00e4ger und der H\u00fclle mit einem deutlich sichtbaren Zeichen hinzuweisen. Das Zeichen ist auf der Frontseite der H\u00fclle links unten auf einer Fl\u00e4che von mindestens 1.200 Quadratmillimetern und dem Bildtr\u00e4ger auf einer Fl\u00e4che von mindestens 250 Quadratmillimetern anzubringen. Die oberste Landesbeh\u00f6rde kann <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">N\u00e4heres \u00fcber Inhalt, Gr\u00f6\u00dfe, Form, Farbe und Anbringung der Zeichen anordnen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausnahmen f\u00fcr die Anbringung auf dem Bildtr\u00e4ger oder der H\u00fclle genehmigen.</LA></DD></DL>Anbieter von Telemedien, die Filme, Film- und Spielprogramme verbreiten, m\u00fcssen auf eine vorhandene Kennzeichnung in ihrem Angebot deutlich hinweisen.</P><P>(3) Bildtr\u00e4ger, die nicht oder mit \"Keine Jugendfreigabe\" nach \u00a7 14 Abs. 2 von der obersten Landesbeh\u00f6rde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach \u00a7 14 Abs. 6 oder nach \u00a7 14 Abs. 7 vom Anbieter gekennzeichnet sind, d\u00fcrfen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Kind oder einer jugendlichen Person nicht angeboten, \u00fcberlassen oder sonst zug\u00e4nglich gemacht werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht im Einzelhandel au\u00dferhalb von Gesch\u00e4ftsr\u00e4umen, in Kiosken oder anderen Verkaufsstellen, die Kunden nicht zu betreten pflegen, oder im Versandhandel angeboten oder \u00fcberlassen werden.</LA></DD></DL></P><P>(4) Automaten zur Abgabe bespielter Bildtr\u00e4ger d\u00fcrfen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Kindern oder Jugendlichen zug\u00e4nglichen \u00f6ffentlichen Verkehrsfl\u00e4chen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">au\u00dferhalb von gewerblich oder in sonstiger Weise beruflich oder gesch\u00e4ftlich genutzten R\u00e4umen oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in deren unbeaufsichtigten Zug\u00e4ngen, Vorr\u00e4umen oder Fluren</LA></DD></DL>nur aufgestellt werden, wenn ausschlie\u00dflich nach \u00a7 14 Abs. 2 Nr. 1 bis 4 gekennzeichnete Bildtr\u00e4ger angeboten werden und durch technische Vorkehrungen gesichert ist, dass sie von Kindern und Jugendlichen, f\u00fcr deren Altersgruppe ihre Programme nicht nach \u00a7 14 Abs. 2 Nr. 1 bis 4 freigegeben sind, nicht bedient werden k\u00f6nnen.</P><P>(5) Bildtr\u00e4ger, die Ausz\u00fcge von Film- und Spielprogrammen enthalten, d\u00fcrfen abweichend von den Abs\u00e4tzen 1 und 3 im Verbund mit periodischen Druckschriften nur vertrieben werden, wenn sie mit einem Hinweis des Anbieters versehen sind, der deutlich macht, dass eine Organisation der freiwilligen Selbstkontrolle festgestellt hat, dass diese Ausz\u00fcge keine Jugendbeeintr\u00e4chtigungen enthalten. Der Hinweis ist sowohl auf der periodischen Druckschrift als auch auf dem Bildtr\u00e4ger vor dem Vertrieb mit einem deutlich sichtbaren Zeichen anzubringen. Absatz 2 Satz 1 bis 3 gilt entsprechend. Die Berechtigung nach Satz 1 kann die oberste Landesbeh\u00f6rde f\u00fcr einzelne Anbieter ausschlie\u00dfen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE001301310",
+        "name": "\u00a7 13",
+        "title": "Bildschirmspielger\u00e4te",
         "contentLevel": 2,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000400000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE001301310",
-        "type": "article",
-        "name": "\u00a7 13",
-        "title": "Bildschirmspielger\u00e4te",
+        },
         "body": {
           "content": "<P>(1) Das Spielen an elektronischen Bildschirmspielger\u00e4ten ohne Gewinnm\u00f6glichkeit, die \u00f6ffentlich aufgestellt sind, darf Kindern und Jugendlichen ohne Begleitung einer personensorgeberechtigten oder erziehungsbeauftragten Person nur gestattet werden, wenn die Programme von der obersten Landesbeh\u00f6rde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach \u00a7 14 Abs. 6 f\u00fcr ihre Altersstufe freigegeben und gekennzeichnet worden sind oder wenn es sich um Informations-, Instruktions- oder Lehrprogramme handelt, die vom Anbieter mit \"Infoprogramm\" oder \"Lehrprogramm\" gekennzeichnet sind.</P><P>(2) Elektronische Bildschirmspielger\u00e4te d\u00fcrfen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Kindern oder Jugendlichen zug\u00e4nglichen \u00f6ffentlichen Verkehrsfl\u00e4chen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">au\u00dferhalb von gewerblich oder in sonstiger Weise beruflich oder gesch\u00e4ftlich genutzten R\u00e4umen oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in deren unbeaufsichtigten Zug\u00e4ngen, Vorr\u00e4umen oder Fluren</LA></DD></DL>nur aufgestellt werden, wenn ihre Programme f\u00fcr Kinder ab sechs Jahren freigegeben und gekennzeichnet oder nach \u00a7 14 Abs. 7 mit \"Infoprogramm\" oder \"Lehrprogramm\" gekennzeichnet sind.</P><P>(3) Auf das Anbringen der Kennzeichnungen auf Bildschirmspielger\u00e4ten findet \u00a7 12 Abs. 2 Satz 1 bis 3 entsprechende Anwendung.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE001400000",
+        "name": "\u00a7 14",
+        "title": "Kennzeichnung von Filmen und Film- und Spielprogrammen",
         "contentLevel": 2,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000400000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE001400000",
-        "type": "article",
-        "name": "\u00a7 14",
-        "title": "Kennzeichnung von Filmen und Film- und Spielprogrammen",
+        },
         "body": {
           "content": "<P>(1) Filme sowie Film- und Spielprogramme, die geeignet sind, die Entwicklung von Kindern und Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und gemeinschaftsf\u00e4higen Pers\u00f6nlichkeit zu beeintr\u00e4chtigen, d\u00fcrfen nicht f\u00fcr ihre Altersstufe freigegeben werden.</P><P>(2) Die oberste Landesbeh\u00f6rde oder eine Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach Absatz 6 kennzeichnet die Filme und die Film- und Spielprogramme mit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Freigegeben ohne Altersbeschr\u00e4nkung\",</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Freigegeben ab sechs Jahren\",</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Freigegeben ab zw\u00f6lf Jahren\",</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Freigegeben ab sechzehn Jahren\",</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Keine Jugendfreigabe\".</LA></DD> </DL> </P><P>(3) Hat ein Tr\u00e4germedium nach Einsch\u00e4tzung der obersten Landesbeh\u00f6rde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach Absatz 6 einen der in \u00a7 15 Abs. 2 Nr. 1 bis 5 bezeichneten Inhalte oder ist es in die Liste nach \u00a7 18 aufgenommen, wird es nicht gekennzeichnet. Die oberste Landesbeh\u00f6rde hat Tatsachen, die auf einen Versto\u00df gegen \u00a7 15 Abs. 1 schlie\u00dfen lassen, der zust\u00e4ndigen Strafverfolgungsbeh\u00f6rde mitzuteilen.</P><P>(4) Ist ein Programm f\u00fcr Bildtr\u00e4ger oder Bildschirmspielger\u00e4te mit einem in die Liste nach \u00a7 18 aufgenommenen Tr\u00e4germedium ganz oder im Wesentlichen inhaltsgleich, wird es nicht gekennzeichnet. Das Gleiche gilt, wenn die Voraussetzungen f\u00fcr eine Aufnahme in die Liste vorliegen. In Zweifelsf\u00e4llen f\u00fchrt die oberste Landesbeh\u00f6rde oder eine Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach Absatz 6 eine Entscheidung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien herbei.</P><P>(5) Die Kennzeichnungen von Filmprogrammen f\u00fcr Bildtr\u00e4ger und Bildschirmspielger\u00e4te gelten auch f\u00fcr die Vorf\u00fchrung in \u00f6ffentlichen Filmveranstaltungen und f\u00fcr die daf\u00fcr bestimmten, inhaltsgleichen Filme. Die Kennzeichnungen von Filmen f\u00fcr \u00f6ffentliche Filmveranstaltungen k\u00f6nnen auf inhaltsgleiche Filmprogramme f\u00fcr Bildtr\u00e4ger und Bildschirmspielger\u00e4te \u00fcbertragen werden; Absatz 4 gilt entsprechend.</P><P>(6) Die obersten Landesbeh\u00f6rden k\u00f6nnen ein gemeinsames Verfahren f\u00fcr die Freigabe und Kennzeichnung der Filme sowie Film- und Spielprogramme auf der Grundlage der Ergebnisse der Pr\u00fcfung durch von Verb\u00e4nden der Wirtschaft getragene oder unterst\u00fctzte Organisationen freiwilliger Selbstkontrolle vereinbaren. Im Rahmen dieser Vereinbarung kann bestimmt werden, dass die Freigaben und Kennzeichnungen durch eine Organisation der freiwilligen Selbstkontrolle Freigaben und Kennzeichnungen der obersten Landesbeh\u00f6rden aller L\u00e4nder sind, soweit nicht eine oberste Landesbeh\u00f6rde f\u00fcr ihren Bereich eine abweichende Entscheidung trifft.</P><P>(7) Filme, Film- und Spielprogramme zu Informations-, Instruktions- oder Lehrzwecken d\u00fcrfen vom Anbieter mit \"Infoprogramm\" oder \"Lehrprogramm\" nur gekennzeichnet werden, wenn sie offensichtlich nicht die Entwicklung oder Erziehung von Kindern und Jugendlichen beeintr\u00e4chtigen. Die Abs\u00e4tze 1 bis 5 finden keine Anwendung. Die oberste Landesbeh\u00f6rde kann das Recht zur Anbieterkennzeichnung f\u00fcr einzelne Anbieter oder f\u00fcr besondere Film- und Spielprogramme ausschlie\u00dfen und durch den Anbieter vorgenommene Kennzeichnungen aufheben.</P><P>(8) Enthalten Filme, Bildtr\u00e4ger oder Bildschirmspielger\u00e4te neben den zu kennzeichnenden Film- oder Spielprogrammen Titel, Zus\u00e4tze oder weitere Darstellungen in Texten, Bildern oder T\u00f6nen, bei denen in Betracht kommt, dass sie die Entwicklung oder Erziehung von Kindern oder Jugendlichen beeintr\u00e4chtigen, so sind diese bei der Entscheidung \u00fcber die Kennzeichnung mit zu ber\u00fccksichtigen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE001503310",
+        "name": "\u00a7 15",
+        "title": "Jugendgef\u00e4hrdende Tr\u00e4germedien",
         "contentLevel": 2,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000400000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE001503310",
-        "type": "article",
-        "name": "\u00a7 15",
-        "title": "Jugendgef\u00e4hrdende Tr\u00e4germedien",
+        },
         "body": {
           "content": "<P>(1) Tr\u00e4germedien, deren Aufnahme in die Liste jugendgef\u00e4hrdender Medien nach \u00a7 24 Abs. 3 Satz 1 bekannt gemacht ist, d\u00fcrfen nicht <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Kind oder einer jugendlichen Person angeboten, \u00fcberlassen oder sonst zug\u00e4nglich gemacht werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">an einem Ort, der Kindern oder Jugendlichen zug\u00e4nglich ist oder von ihnen eingesehen werden kann, ausgestellt, angeschlagen, vorgef\u00fchrt oder sonst zug\u00e4nglich gemacht werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Einzelhandel au\u00dferhalb von Gesch\u00e4ftsr\u00e4umen, in Kiosken oder anderen Verkaufsstellen, die Kunden nicht zu betreten pflegen, im Versandhandel oder in gewerblichen Leihb\u00fcchereien oder Lesezirkeln einer anderen Person angeboten oder \u00fcberlassen werden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Wege gewerblicher Vermietung oder vergleichbarer gewerblicher Gew\u00e4hrung des Gebrauchs, ausgenommen in Ladengesch\u00e4ften, die Kindern und Jugendlichen nicht zug\u00e4nglich sind und von ihnen nicht eingesehen werden k\u00f6nnen, einer anderen Person angeboten oder \u00fcberlassen werden,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Wege des Versandhandels eingef\u00fchrt werden,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00f6ffentlich an einem Ort, der Kindern oder Jugendlichen zug\u00e4nglich ist oder von ihnen eingesehen werden kann, oder durch Verbreiten von Tr\u00e4ger- oder Telemedien au\u00dferhalb des Gesch\u00e4ftsverkehrs mit dem einschl\u00e4gigen Handel angeboten, angek\u00fcndigt oder angepriesen werden,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">hergestellt, bezogen, geliefert, vorr\u00e4tig gehalten oder eingef\u00fchrt werden, um sie oder aus ihnen gewonnene St\u00fccke im Sinne der Nummern 1 bis 6 zu verwenden oder einer anderen Person eine solche Verwendung zu erm\u00f6glichen.</LA></DD></DL></P><P>(2) Den Beschr\u00e4nkungen des Absatzes 1 unterliegen, ohne dass es einer Aufnahme in die Liste und einer Bekanntmachung bedarf, schwer jugendgef\u00e4hrdende Tr\u00e4germedien, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen der in \u00a7 86, \u00a7 130, \u00a7 130a, \u00a7 131, \u00a7 184, \u00a7 184a, 184b oder \u00a7 184c des Strafgesetzbuches bezeichneten Inhalte haben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Krieg verherrlichen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Menschen, die sterben oder schweren k\u00f6rperlichen oder seelischen Leiden ausgesetzt sind oder waren, in einer die Menschenw\u00fcrde verletzenden Weise darstellen und ein tats\u00e4chliches Geschehen wiedergeben, ohne dass ein \u00fcberwiegendes berechtigtes Interesse gerade an dieser Form der Berichterstattung vorliegt,</LA></DD><DT>3a.</DT><DD Font=\"normal\"><LA Size=\"normal\">besonders realistische, grausame und rei\u00dferische Darstellungen selbstzweckhafter Gewalt beinhalten, die das Geschehen beherrschen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kinder oder Jugendliche in unnat\u00fcrlicher, geschlechtsbetonter K\u00f6rperhaltung darstellen oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">offensichtlich geeignet sind, die Entwicklung von Kindern oder Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und gemeinschaftsf\u00e4higen Pers\u00f6nlichkeit schwer zu gef\u00e4hrden.</LA></DD></DL></P><P>(3) Den Beschr\u00e4nkungen des Absatzes 1 unterliegen auch, ohne dass es einer Aufnahme in die Liste und einer Bekanntmachung bedarf, Tr\u00e4germedien, die mit einem Tr\u00e4germedium, dessen Aufnahme in die Liste bekannt gemacht ist, ganz oder im Wesentlichen inhaltsgleich sind.</P><P>(4) Die Liste der jugendgef\u00e4hrdenden Medien darf nicht zum Zweck der gesch\u00e4ftlichen Werbung abgedruckt oder ver\u00f6ffentlicht werden.</P><P>(5) Bei gesch\u00e4ftlicher Werbung darf nicht darauf hingewiesen werden, dass ein Verfahren zur Aufnahme des Tr\u00e4germediums oder eines inhaltsgleichen Telemediums in die Liste anh\u00e4ngig ist oder gewesen ist.</P><P>(6) Soweit die Lieferung erfolgen darf, haben Gewerbetreibende vor Abgabe an den Handel die H\u00e4ndler auf die Vertriebsbeschr\u00e4nkungen des Absatzes 1 Nr. 1 bis 6 hinzuweisen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 2,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR273000002BJNG000400000"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR273000002BJNG000500000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000500000",
         "name": "Unterabschnitt 2",
         "title": "Telemedien",
         "contentLevel": 1,
@@ -329,292 +329,292 @@
         }
       },
       {
-        "id": "BJNR273000002BJNE001600000",
         "type": "article",
+        "id": "BJNR273000002BJNE001600000",
         "name": "\u00a7 16",
         "title": "Sonderregelung f\u00fcr Telemedien",
-        "body": {
-          "content": "<P>Regelungen zu Telemedien, die in die Liste jugendgef\u00e4hrdender Medien nach \u00a7 18 aufgenommen sind, bleiben Landesrecht vorbehalten.</P>",
-          "footnotes": null
-        },
-        "documentaryFootnotes": null,
         "contentLevel": 2,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000500000"
-        }
+        },
+        "body": {
+          "content": "<P>Regelungen zu Telemedien, die in die Liste jugendgef\u00e4hrdender Medien nach \u00a7 18 aufgenommen sind, bleiben Landesrecht vorbehalten.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR273000002BJNG000600000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000600000",
         "name": "Abschnitt 4",
         "title": "Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende\nMedien",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR273000002BJNE001700000",
         "type": "article",
+        "id": "BJNR273000002BJNE001700000",
         "name": "\u00a7 17",
         "title": "Name und Zust\u00e4ndigkeit",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR273000002BJNG000600000"
+        },
         "body": {
           "content": "<P>(1) Die Bundespr\u00fcfstelle wird vom Bund errichtet. Sie f\u00fchrt den Namen \"Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien\".</P><P>(2) \u00dcber eine Aufnahme in die Liste jugendgef\u00e4hrdender Medien und \u00fcber Streichungen aus dieser Liste entscheidet die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE001803310",
+        "name": "\u00a7 18",
+        "title": "Liste jugendgef\u00e4hrdender Medien",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000600000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE001803310",
-        "type": "article",
-        "name": "\u00a7 18",
-        "title": "Liste jugendgef\u00e4hrdender Medien",
+        },
         "body": {
           "content": "<P>(1) Tr\u00e4ger- und Telemedien, die geeignet sind, die Entwicklung von Kindern oder Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und gemeinschaftsf\u00e4higen Pers\u00f6nlichkeit zu gef\u00e4hrden, sind von der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien in eine Liste jugendgef\u00e4hrdender Medien aufzunehmen. Dazu z\u00e4hlen vor allem unsittliche, verrohend wirkende, zu Gewaltt\u00e4tigkeit, Verbrechen oder Rassenhass anreizende Medien sowie Medien, in denen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gewalthandlungen wie Mord- und Metzelszenen selbstzweckhaft und detailliert dargestellt werden oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Selbstjustiz als einzig bew\u00e4hrtes Mittel zur Durchsetzung der vermeintlichen Gerechtigkeit nahe gelegt wird.</LA></DD></DL></P><P>(2) Die Liste ist in vier Teilen zu f\u00fchren.<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Teil A (\u00d6ffentliche Liste der Tr\u00e4germedien) sind alle Tr\u00e4germedien aufzunehmen, soweit sie nicht den Teilen B, C oder D zuzuordnen sind;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Teil B (\u00d6ffentliche Liste der Tr\u00e4germedien mit absolutem Verbreitungsverbot) sind, soweit sie nicht Teil D zuzuordnen sind, Tr\u00e4germedien aufzunehmen, die nach Einsch\u00e4tzung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien einen in \u00a7 86, \u00a7 130, \u00a7 130a, \u00a7 131, \u00a7 184a, \u00a7 184b oder \u00a7 184c des Strafgesetzbuches bezeichneten Inhalt haben;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Teil C (Nicht\u00f6ffentliche Liste der Medien) sind diejenigen Tr\u00e4germedien aufzunehmen, die nur deshalb nicht in Teil A aufzunehmen sind, weil bei ihnen von einer Bekanntmachung der Aufnahme in die Liste gem\u00e4\u00df \u00a7 24 Abs. 3 Satz 2 abzusehen ist, sowie alle Telemedien, soweit sie nicht Teil D zuzuordnen sind;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Teil D (Nicht\u00f6ffentliche Liste der Medien mit absolutem Verbreitungsverbot) sind diejenigen Tr\u00e4germedien, die nur deshalb nicht in Teil B aufzunehmen sind, weil bei ihnen von einer Bekanntmachung der Aufnahme in die Liste gem\u00e4\u00df \u00a7 24 Abs. 3 Satz 2 abzusehen ist, sowie diejenigen Telemedien aufzunehmen, die nach Einsch\u00e4tzung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien einen in \u00a7 86, \u00a7 130, \u00a7 130a, \u00a7 131, \u00a7 184a, \u00a7 184b oder \u00a7 184c des Strafgesetzbuches bezeichneten Inhalt haben.</LA></DD></DL></P><P>(3) Ein Medium darf nicht in die Liste aufgenommen werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">allein wegen seines politischen, sozialen, religi\u00f6sen oder weltanschaulichen Inhalts,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn es der Kunst oder der Wissenschaft, der Forschung oder der Lehre dient,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn es im \u00f6ffentlichen Interesse liegt, es sei denn, dass die Art der Darstellung zu beanstanden ist.</LA></DD></DL></P><P>(4) In F\u00e4llen von geringer Bedeutung kann davon abgesehen werden, ein Medium in die Liste aufzunehmen.</P><P>(5) Medien sind in die Liste aufzunehmen, wenn ein Gericht in einer rechtskr\u00e4ftigen Entscheidung festgestellt hat, dass das Medium einen der in \u00a7 86, \u00a7 130, \u00a7 130a, \u00a7 131, \u00a7 184, \u00a7 184a, \u00a7 184b oder \u00a7 184c des Strafgesetzbuches bezeichneten Inhalte hat.</P><P>(6) Telemedien sind in die Liste aufzunehmen, wenn die zentrale Aufsichtsstelle der L\u00e4nder f\u00fcr den Jugendmedienschutz die Aufnahme in die Liste beantragt hat; es sei denn, der Antrag ist offensichtlich unbegr\u00fcndet oder im Hinblick auf die Spruchpraxis der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien unvertretbar.</P><P>(7) Medien sind aus der Liste zu streichen, wenn die Voraussetzungen f\u00fcr eine Aufnahme nicht mehr vorliegen. Nach Ablauf von 25 Jahren verliert eine Aufnahme in die Liste ihre Wirkung.</P><P>(8) Auf Filme, Film- und Spielprogramme, die nach \u00a7 14 Abs. 2 Nr. 1 bis 5 gekennzeichnet sind, findet Absatz 1 keine Anwendung. Absatz 1 ist au\u00dferdem nicht anzuwenden, wenn die zentrale Aufsichtsstelle der L\u00e4nder f\u00fcr den Jugendmedienschutz \u00fcber das Telemedium zuvor eine Entscheidung dahin gehend getroffen hat, dass die Voraussetzungen f\u00fcr die Aufnahme in die Liste jugendgef\u00e4hrdender Medien nach Absatz 1 nicht vorliegen. Hat eine anerkannte Einrichtung der Selbstkontrolle das Telemedium zuvor bewertet, so findet Absatz 1 nur dann Anwendung, wenn die zentrale Aufsichtsstelle der L\u00e4nder f\u00fcr den Jugendmedienschutz die Voraussetzungen f\u00fcr die Aufnahme in die Liste jugendgef\u00e4hrdender Medien nach Absatz 1 f\u00fcr gegeben h\u00e4lt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE001900000",
+        "name": "\u00a7 19",
+        "title": "Personelle Besetzung",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000600000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE001900000",
-        "type": "article",
-        "name": "\u00a7 19",
-        "title": "Personelle Besetzung",
+        },
         "body": {
           "content": "<P>(1) Die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien besteht aus einer oder einem von dem Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend ernannten Vorsitzenden, je einer oder einem von jeder Landesregierung zu ernennenden Beisitzerin oder Beisitzer und weiteren von dem Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend zu ernennenden Beisitzerinnen oder Beisitzern. F\u00fcr die Vorsitzende oder den Vorsitzenden und die Beisitzerinnen oder Beisitzer ist mindestens je eine Stellvertreterin oder ein Stellvertreter zu ernennen. Die jeweilige Landesregierung kann ihr Ernennungsrecht nach Absatz 1 auf eine oberste Landesbeh\u00f6rde \u00fcbertragen.</P><P>(2) Die von dem Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend zu ernennenden Beisitzerinnen und Beisitzer sind den Kreisen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Kunst,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Literatur,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">des Buchhandels und der Verlegerschaft,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Anbieter von Bildtr\u00e4gern und von Telemedien,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Tr\u00e4ger der freien Jugendhilfe,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Tr\u00e4ger der \u00f6ffentlichen Jugendhilfe,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Lehrerschaft und</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Kirchen, der j\u00fcdischen Kultusgemeinden und anderer Religionsgemeinschaften, die K\u00f6rperschaften des \u00f6ffentlichen Rechts sind,</LA></DD> </DL>auf Vorschlag der genannten Gruppen zu entnehmen. Dem Buchhandel und der Verlegerschaft sowie dem Anbieter von Bildtr\u00e4gern und von Telemedien stehen diejenigen Kreise gleich, die eine vergleichbare T\u00e4tigkeit bei der Auswertung und beim Vertrieb der Medien unabh\u00e4ngig von der Art der Aufzeichnung und der Wiedergabe aus\u00fcben.</P><P>(3) Die oder der Vorsitzende und die Beisitzerinnen oder Beisitzer werden auf die Dauer von drei Jahren bestimmt. Sie k\u00f6nnen von der Stelle, die sie bestimmt hat, vorzeitig abberufen werden, wenn sie der Verpflichtung zur Mitarbeit in der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien nicht nachkommen.</P><P>(4) Die Mitglieder der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien sind an Weisungen nicht gebunden.</P><P>(5) Die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien entscheidet in der Besetzung von zw\u00f6lf Mitgliedern, die aus der oder dem Vorsitzenden, drei Beisitzerinnen oder Beisitzern der L\u00e4nder und je einer Beisitzerin oder einem Beisitzer aus den in Absatz 2 genannten Gruppen bestehen. Erscheinen zur Sitzung einberufene Beisitzerinnen oder Beisitzer oder ihre Stellvertreterinnen oder Stellvertreter nicht, so ist die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien auch in einer Besetzung von mindestens neun Mitgliedern beschlussf\u00e4hig, von denen mindestens zwei den in Absatz 2 Nr. 1 bis 4 genannten Gruppen angeh\u00f6ren m\u00fcssen.</P><P>(6) Zur Anordnung der Aufnahme in die Liste bedarf es einer Mehrheit von zwei Dritteln der an der Entscheidung mitwirkenden Mitglieder der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien. In der Besetzung des Absatzes 5 Satz 2 ist f\u00fcr die Listenaufnahme eine Mindestzahl von sieben Stimmen erforderlich.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE002000000",
+        "name": "\u00a7 20",
+        "title": "Vorschlagsberechtigte Verb\u00e4nde",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000600000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE002000000",
-        "type": "article",
-        "name": "\u00a7 20",
-        "title": "Vorschlagsberechtigte Verb\u00e4nde",
+        },
         "body": {
           "content": "<P>(1) Das Vorschlagsrecht nach \u00a7 19 Abs. 2 wird innerhalb der nachfolgenden Kreise durch folgende Organisationen f\u00fcr je eine Beisitzerin oder einen Beisitzer und eine Stellvertreterin oder einen Stellvertreter ausge\u00fcbt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kreise der Kunst durch</LA><LA Size=\"normal\">Deutscher Kulturrat,</LA><LA Size=\"normal\">Bund Deutscher Kunsterzieher e. V.,</LA><LA Size=\"normal\">K\u00fcnstlergilde e. V.,</LA><LA Size=\"normal\">Bund Deutscher Grafik-Designer,</LA></DD>     <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kreise der Literatur durch</LA><LA Size=\"normal\">Verband deutscher Schriftsteller,</LA><LA Size=\"normal\">Freier Deutscher Autorenverband,</LA><LA Size=\"normal\">Deutscher Autorenverband e. V.,</LA><LA Size=\"normal\">PEN-Zentrum,</LA></DD>     <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kreise des Buchhandels und der Verlegerschaft durch</LA><LA Size=\"normal\">B\u00f6rsenverein des Deutschen Buchhandels e. V.,</LA><LA Size=\"normal\">Verband Deutscher Bahnhofsbuchh\u00e4ndler,</LA><LA Size=\"normal\">Bundesverband Deutscher Buch-, Zeitungs- und Zeitschriftengrossisten e. V.,</LA><LA Size=\"normal\">Bundesverband Deutscher Zeitungsverleger e. V.,</LA><LA Size=\"normal\">Verband Deutscher Zeitschriftenverleger e. V.,</LA><LA Size=\"normal\">B\u00f6rsenverein des Deutschen Buchhandels e. V. - Verlegerausschuss,</LA><LA Size=\"normal\">Arbeitsgemeinschaft der Zeitschriftenverlage (AGZV) im B\u00f6rsenverein des Deutschen Buchhandels,</LA></DD>        <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kreise der Anbieter von Bildtr\u00e4gern und von Telemedien durch</LA><LA Size=\"normal\">Bundesverband Video,</LA><LA Size=\"normal\">Verband der Unterhaltungssoftware Deutschland e. V.,</LA><LA Size=\"normal\">Spitzenorganisation der Filmwirtschaft e. V.,</LA><LA Size=\"normal\">Bundesverband Informationswirtschaft, Telekommunikation und neue Medien e. V.,</LA><LA Size=\"normal\">Deutscher Multimedia Verband e. V.,</LA><LA Size=\"normal\">Electronic Commerce Organisation e. V.,</LA><LA Size=\"normal\">Verband der Deutschen Automatenindustrie e. V.,</LA><LA Size=\"normal\">IVD Interessengemeinschaft der Videothekare Deutschlands e. V.,</LA></DD>         <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kreise der Tr\u00e4ger der freien Jugendhilfe durch</LA><LA Size=\"normal\">Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege,</LA><LA Size=\"normal\">Deutscher Bundesjugendring,</LA><LA Size=\"normal\">Deutsche Sportjugend,</LA><LA Size=\"normal\">Bundesarbeitsgemeinschaft Kinder- und Jugendschutz (BAJ) e. V.,</LA></DD>     <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kreise der Tr\u00e4ger der \u00f6ffentlichen Jugendhilfe durch</LA><LA Size=\"normal\">Deutscher Landkreistag,</LA><LA Size=\"normal\">Deutscher St\u00e4dtetag,</LA><LA Size=\"normal\">Deutscher St\u00e4dte- und Gemeindebund,</LA></DD>    <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kreise der Lehrerschaft durch</LA><LA Size=\"normal\">Gewerkschaft Erziehung u. Wissenschaft im Deutschen Gewerkschaftsbund,</LA><LA Size=\"normal\">Deutscher Lehrerverband,</LA><LA Size=\"normal\">Verband Bildung und Erziehung,</LA><LA Size=\"normal\">Verein Katholischer deutscher Lehrerinnen und</LA></DD>     <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Kreise der in \u00a7 19 Abs. 2 Nr. 8 genannten K\u00f6rperschaften des \u00f6ffentlichen Rechts durch</LA><LA Size=\"normal\">Bevollm\u00e4chtigter des Rates der EKD am Sitz der Bundesrepublik Deutschland,</LA><LA Size=\"normal\">Kommissariat der deutschen Bisch\u00f6fe - Katholisches B\u00fcro in Berlin,</LA><LA Size=\"normal\">Zentralrat der Juden in Deutschland.</LA></DD>    </DL>F\u00fcr jede Organisation, die ihr Vorschlagsrecht aus\u00fcbt, ist eine Beisitzerin oder ein Beisitzer und eine stellvertretende Beisitzerin oder ein stellvertretender Beisitzer zu ernennen. Reicht eine der in Satz 1 genannten Organisationen mehrere Vorschl\u00e4ge ein, w\u00e4hlt das Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend eine Beisitzerin oder einen Beisitzer aus.</P><P>(2) F\u00fcr die in \u00a7 19 Abs. 2 genannten Gruppen k\u00f6nnen Beisitzerinnen oder Beisitzer und stellvertretende Beisitzerinnen und Beisitzer auch durch namentlich nicht bestimmte Organisationen vorgeschlagen werden. Das Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend fordert im Januar jedes Jahres im Bundesanzeiger dazu auf, innerhalb von sechs Wochen derartige Vorschl\u00e4ge einzureichen. Aus den fristgerecht eingegangenen Vorschl\u00e4gen hat es je Gruppe je eine zus\u00e4tzliche Beisitzerin oder einen zus\u00e4tzlichen Beisitzer und eine stellvertretende Beisitzerin oder einen stellvertretenden Beisitzer zu ernennen. Vorschl\u00e4ge von Organisationen, die kein eigenes verbandliches Gewicht besitzen oder eine dauerhafte T\u00e4tigkeit nicht erwarten lassen, sind nicht zu ber\u00fccksichtigen. Zwischen den Vorschl\u00e4gen mehrerer Interessenten entscheidet das Los, sofern diese sich nicht auf einen Vorschlag einigen; Absatz 1 Satz 3 gilt entsprechend. Sofern es unter Ber\u00fccksichtigung der Gesch\u00e4ftsbelastung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien erforderlich erscheint und sofern die Vorschl\u00e4ge der innerhalb einer Gruppe namentlich bestimmten Organisationen zahlenm\u00e4\u00dfig nicht ausreichen, kann das Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend auch mehrere Beisitzerinnen oder Beisitzer und stellvertretende Beisitzerinnen oder Beisitzer ernennen; Satz 5 gilt entsprechend.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE002105301",
+        "name": "\u00a7 21",
+        "title": "Verfahren",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000600000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE002105301",
-        "type": "article",
-        "name": "\u00a7 21",
-        "title": "Verfahren",
+        },
         "body": {
           "content": "<P>(1) Die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien wird in der Regel auf Antrag t\u00e4tig.</P><P>(2) Antragsberechtigt sind das Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend, die obersten Landesjugendbeh\u00f6rden, die zentrale Aufsichtsstelle der L\u00e4nder f\u00fcr den Jugendmedienschutz, die Landesjugend\u00e4mter, die Jugend\u00e4mter sowie f\u00fcr den Antrag auf Streichung aus der Liste und f\u00fcr den Antrag auf Feststellung, dass ein Medium nicht mit einem bereits in die Liste aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist, auch die in Absatz 7 genannten Personen.</P><P>(3) Kommt eine Listenaufnahme oder eine Streichung aus der Liste offensichtlich nicht in Betracht, so kann die oder der Vorsitzende das Verfahren einstellen.</P><P>(4) Die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien wird von Amts wegen t\u00e4tig, wenn eine in Absatz 2 nicht genannte Beh\u00f6rde oder ein anerkannter Tr\u00e4ger der freien Jugendhilfe dies anregt und die oder der Vorsitzende der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien die Durchf\u00fchrung des Verfahrens im Interesse des Jugendschutzes f\u00fcr geboten h\u00e4lt.</P><P>(5) Die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien wird auf Veranlassung der oder des Vorsitzenden von Amts wegen t\u00e4tig, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn zweifelhaft ist, ob ein Medium mit einem bereits in die Liste aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn bekannt wird, dass die Voraussetzungen f\u00fcr die Aufnahme eines Mediums in die Liste nach \u00a7 18 Abs. 7 Satz 1 nicht mehr vorliegen, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die Aufnahme in die Liste nach \u00a7 18 Abs. 7 Satz 2 wirkungslos wird und weiterhin die Voraussetzungen f\u00fcr die Aufnahme in die Liste vorliegen.</LA></DD></DL></P><P>(6) Vor der Entscheidung \u00fcber die Aufnahme eines Telemediums in die Liste hat die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien der zentralen Aufsichtsstelle der L\u00e4nder f\u00fcr den Jugendmedienschutz Gelegenheit zu geben, zu dem Telemedium unverz\u00fcglich Stellung zu nehmen. Die Stellungnahme hat die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien bei ihrer Entscheidung ma\u00dfgeblich zu ber\u00fccksichtigen. Soweit der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien eine Stellungnahme der zentralen Aufsichtsstelle der L\u00e4nder f\u00fcr den Jugendmedienschutz innerhalb von f\u00fcnf Werktagen nach Aufforderung nicht vorliegt, kann sie ohne diese Stellungnahme entscheiden.</P><P>(7) Der Urheberin oder dem Urheber, der Inhaberin oder dem Inhaber der Nutzungsrechte sowie bei Telemedien dem Anbieter ist Gelegenheit zur Stellungnahme zu geben.</P><P>(8) Die Entscheidungen sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Tr\u00e4germedien der Urheberin oder dem Urheber sowie der Inhaberin oder dem Inhaber der Nutzungsrechte,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Telemedien der Urheberin oder dem Urheber sowie dem Anbieter,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der antragstellenden Beh\u00f6rde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend, den obersten Landesjugendbeh\u00f6rden und der zentralen Aufsichtsstelle der L\u00e4nder f\u00fcr den Jugendmedienschutz</LA></DD></DL>zuzustellen. Sie hat die sich aus der Entscheidung ergebenden Verbreitungs- und Werbebeschr\u00e4nkungen im Einzelnen aufzuf\u00fchren. Die Begr\u00fcndung ist beizuf\u00fcgen oder innerhalb einer Woche durch Zustellung nachzureichen.</P><P>(9) Die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien soll mit der zentralen Aufsichtsstelle der L\u00e4nder f\u00fcr den Jugendmedienschutz zusammenarbeiten und einen regelm\u00e4\u00dfigen Informationsaustausch pflegen.</P><P>(10) Die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien kann ab dem 1. Januar 2004 f\u00fcr Verfahren, die auf Antrag der in Absatz 7 genannten Personen eingeleitet werden und die auf die Entscheidung gerichtet sind, dass ein Medium <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht mit einem bereits in die Liste f\u00fcr jugendgef\u00e4hrdende Medien aufgenommenen Medium ganz oder im Wesentlichen inhaltsgleich ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus der Liste f\u00fcr jugendgef\u00e4hrdende Medien zu streichen ist,</LA></DD></DL>Geb\u00fchren und Auslagen erheben. Das Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die geb\u00fchrenpflichtigen Tatbest\u00e4nde und die Geb\u00fchrens\u00e4tze n\u00e4her zu bestimmen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE002200000",
+        "name": "\u00a7 22",
+        "title": "Aufnahme von periodischen Tr\u00e4germedien und Telemedien",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000600000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE002200000",
-        "type": "article",
-        "name": "\u00a7 22",
-        "title": "Aufnahme von periodischen Tr\u00e4germedien und Telemedien",
+        },
         "body": {
           "content": "<P>(1) Periodisch erscheinende Tr\u00e4germedien k\u00f6nnen auf die Dauer von drei bis zw\u00f6lf Monaten in die Liste jugendgef\u00e4hrdender Medien aufgenommen werden, wenn innerhalb von zw\u00f6lf Monaten mehr als zwei ihrer Folgen in die Liste aufgenommen worden sind. Dies gilt nicht f\u00fcr Tageszeitungen und politische Zeitschriften.</P><P>(2) Telemedien k\u00f6nnen auf die Dauer von drei bis zw\u00f6lf Monaten in die Liste jugendgef\u00e4hrdender Medien aufgenommen werden, wenn innerhalb von zw\u00f6lf Monaten mehr als zwei ihrer Angebote in die Liste aufgenommen worden sind. Absatz 1 Satz 2 gilt entsprechend.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE002300000",
+        "name": "\u00a7 23",
+        "title": "Vereinfachtes Verfahren",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000600000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE002300000",
-        "type": "article",
-        "name": "\u00a7 23",
-        "title": "Vereinfachtes Verfahren",
+        },
         "body": {
           "content": "<P>(1) Die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien kann im vereinfachten Verfahren in der Besetzung durch die oder den Vorsitzenden und zwei weiteren Mitgliedern, von denen eines den in \u00a7 19 Abs. 2 Nr. 1 bis 4 genannten Gruppen angeh\u00f6ren muss, einstimmig entscheiden, wenn das Medium offensichtlich geeignet ist, die Entwicklung von Kindern oder Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und gemeinschaftsf\u00e4higen Pers\u00f6nlichkeit zu gef\u00e4hrden. Kommt eine einstimmige Entscheidung nicht zustande, entscheidet die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien in voller Besetzung (\u00a7 19 Abs. 5).</P><P>(2) Eine Aufnahme in die Liste nach \u00a7 22 ist im vereinfachten Verfahren nicht m\u00f6glich.</P><P>(3) Gegen die Entscheidung k\u00f6nnen die Betroffenen (\u00a7 21 Abs. 7) innerhalb eines Monats nach Zustellung Antrag auf Entscheidung durch die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien in voller Besetzung stellen.</P><P>(4) Nach Ablauf von zehn Jahren seit Aufnahme eines Mediums in die Liste kann die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien die Streichung aus der Liste unter der Voraussetzung des \u00a7 21 Abs. 5 Nr. 2 im vereinfachten Verfahren beschlie\u00dfen.</P><P>(5) Wenn die Gefahr besteht, dass ein Tr\u00e4ger- oder Telemedium kurzfristig in gro\u00dfem Umfange vertrieben, verbreitet oder zug\u00e4nglich gemacht wird und die endg\u00fcltige Listenaufnahme offensichtlich zu erwarten ist, kann die Aufnahme in die Liste im vereinfachten Verfahren vorl\u00e4ufig angeordnet werden. Absatz 2 gilt entsprechend.</P><P>(6) Die vorl\u00e4ufige Anordnung ist mit der abschlie\u00dfenden Entscheidung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien, jedoch sp\u00e4testens nach Ablauf eines Monats, aus der Liste zu streichen. Die Frist des Satzes 1 kann vor ihrem Ablauf um h\u00f6chstens einen Monat verl\u00e4ngert werden. Absatz 1 gilt entsprechend. Soweit die vorl\u00e4ufige Anordnung im Bundesanzeiger bekannt zu machen ist, gilt dies auch f\u00fcr die Verl\u00e4ngerung.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE002400000",
+        "name": "\u00a7 24",
+        "title": "F\u00fchrung der Liste jugendgef\u00e4hrdender Medien",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000600000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE002400000",
-        "type": "article",
-        "name": "\u00a7 24",
-        "title": "F\u00fchrung der Liste jugendgef\u00e4hrdender Medien",
+        },
         "body": {
           "content": "<P>(1) Die Liste jugendgef\u00e4hrdender Medien wird von der oder dem Vorsitzenden der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien gef\u00fchrt.</P><P>(2) Entscheidungen \u00fcber die Aufnahme in die Liste oder \u00fcber Streichungen aus der Liste sind unverz\u00fcglich auszuf\u00fchren. Die Liste ist unverz\u00fcglich zu korrigieren, wenn Entscheidungen der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien aufgehoben werden oder au\u00dfer Kraft treten.</P><P>(3) Wird ein Tr\u00e4germedium in die Liste aufgenommen oder aus ihr gestrichen, so ist dies unter Hinweis auf die zugrunde liegende Entscheidung im Bundesanzeiger bekannt zu machen. Von der Bekanntmachung ist abzusehen, wenn das Tr\u00e4germedium lediglich durch Telemedien verbreitet wird oder wenn anzunehmen ist, dass die Bekanntmachung der Wahrung des Jugendschutzes schaden w\u00fcrde.</P><P>(4) Wird ein Medium in Teil B oder D der Liste jugendgef\u00e4hrdender Medien aufgenommen, so hat die oder der Vorsitzende dies der zust\u00e4ndigen Strafverfolgungsbeh\u00f6rde mitzuteilen. Wird durch rechtskr\u00e4ftiges Urteil festgestellt, dass sein Inhalt den in Betracht kommenden Tatbestand des Strafgesetzbuches nicht verwirklicht, ist das Medium in Teil A oder C der Liste aufzunehmen. Die oder der Vorsitzende f\u00fchrt eine erneute Entscheidung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien herbei, wenn in Betracht kommt, dass das Medium aus der Liste zu streichen ist.</P><P>(5) Wird ein Telemedium in die Liste jugendgef\u00e4hrdender Medien aufgenommen und ist die Tat im Ausland begangen worden, so soll die oder der Vorsitzende dies den im Bereich der Telemedien anerkannten Einrichtungen der Selbstkontrolle zum Zweck der Aufnahme in nutzerautonome Filterprogramme mitteilen. Die Mitteilung darf nur zum Zweck der Aufnahme in nutzerautonome Filterprogramme verwandt werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE002500000",
+        "name": "\u00a7 25",
+        "title": "Rechtsweg",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000600000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE002500000",
-        "type": "article",
-        "name": "\u00a7 25",
-        "title": "Rechtsweg",
+        },
         "body": {
           "content": "<P>(1) F\u00fcr Klagen gegen eine Entscheidung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien, ein Medium in die Liste jugendgef\u00e4hrdender Medien aufzunehmen oder einen Antrag auf Streichung aus der Liste abzulehnen, ist der Verwaltungsrechtsweg gegeben.</P><P>(2) Gegen eine Entscheidung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien, ein Medium nicht in die Liste jugendgef\u00e4hrdender Medien aufzunehmen, sowie gegen eine Einstellung des Verfahrens kann die antragstellende Beh\u00f6rde im Verwaltungsrechtsweg Klage erheben.</P><P>(3) Die Klage ist gegen den Bund, vertreten durch die Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien, zu richten.</P><P>(4) Die Klage hat keine aufschiebende Wirkung. Vor Erhebung der Klage bedarf es keiner Nachpr\u00fcfung in einem Vorverfahren, bei einer Entscheidung im vereinfachten Verfahren nach \u00a7 23 ist jedoch zun\u00e4chst eine Entscheidung der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien in der Besetzung nach \u00a7 19 Abs. 5 herbeizuf\u00fchren.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR273000002BJNG000600000"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR273000002BJNG000700000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000700000",
         "name": "Abschnitt 5",
         "title": "Verordnungserm\u00e4chtigung",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR273000002BJNE002600000",
         "type": "article",
+        "id": "BJNR273000002BJNE002600000",
         "name": "\u00a7 26",
         "title": "Verordnungserm\u00e4chtigung",
-        "body": {
-          "content": "<P>Die Bundesregierung wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates N\u00e4heres \u00fcber den Sitz und das Verfahren der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien und die F\u00fchrung der Liste jugendgef\u00e4hrdender Medien zu regeln.</P>",
-          "footnotes": null
-        },
-        "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000700000"
-        }
+        },
+        "body": {
+          "content": "<P>Die Bundesregierung wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates N\u00e4heres \u00fcber den Sitz und das Verfahren der Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende Medien und die F\u00fchrung der Liste jugendgef\u00e4hrdender Medien zu regeln.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR273000002BJNG000800000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000800000",
         "name": "Abschnitt 6",
         "title": "Ahndung von Verst\u00f6\u00dfen",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR273000002BJNE002700000",
         "type": "article",
+        "id": "BJNR273000002BJNE002700000",
         "name": "\u00a7 27",
         "title": "Strafvorschriften",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR273000002BJNG000800000"
+        },
         "body": {
           "content": "<P>(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 15 Abs. 1 Nr. 1 bis 5 oder 6, jeweils auch in Verbindung mit Abs. 2, ein Tr\u00e4germedium anbietet, \u00fcberl\u00e4sst, zug\u00e4nglich macht, ausstellt, anschl\u00e4gt, vorf\u00fchrt, einf\u00fchrt, ank\u00fcndigt oder anpreist,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 15 Abs. 1 Nr. 7, auch in Verbindung mit Abs. 2, ein Tr\u00e4germedium herstellt, bezieht, liefert, vorr\u00e4tig h\u00e4lt oder einf\u00fchrt,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 15 Abs. 4 die Liste der jugendgef\u00e4hrdenden Medien abdruckt oder ver\u00f6ffentlicht,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 15 Abs. 5 bei gesch\u00e4ftlicher Werbung einen dort genannten Hinweis gibt oder</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Entscheidung nach \u00a7 21 Abs. 8 Satz 1 Nr. 1 zuwiderhandelt.</LA></DD> </DL> </P><P>(2) Ebenso wird bestraft, wer als Veranstalter oder Gewerbetreibender <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine in \u00a7 28 Abs. 1 Nr. 4 bis 18 oder 19 bezeichnete vors\u00e4tzliche Handlung begeht und dadurch wenigstens leichtfertig ein Kind oder eine jugendliche Person in der k\u00f6rperlichen, geistigen oder sittlichen Entwicklung schwer gef\u00e4hrdet oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine in \u00a7 28 Abs. 1 Nr. 4 bis 18 oder 19 bezeichnete vors\u00e4tzliche Handlung aus Gewinnsucht begeht oder beharrlich wiederholt.</LA></DD> </DL> </P><P>(3) Wird die Tat in den F\u00e4llen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">des Absatzes 1 Nr. 1 oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">des Absatzes 1 Nr. 3, 4 oder 5</LA></DD> </DL>fahrl\u00e4ssig begangen, so ist die Strafe Freiheitsstrafe bis zu sechs Monaten oder Geldstrafe bis zu hundertachtzig Tagess\u00e4tzen.</P><P>(4) Absatz 1 Nr. 1 und 2 und Absatz 3 Nr. 1 sind nicht anzuwenden, wenn eine personensorgeberechtigte Person das Medium einem Kind oder einer jugendlichen Person anbietet, \u00fcberl\u00e4sst oder zug\u00e4nglich macht. Dies gilt nicht, wenn die personensorgeberechtigte Person durch das Anbieten, \u00dcberlassen oder Zug\u00e4nglichmachen ihre Erziehungspflicht gr\u00f6blich verletzt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE002805377",
+        "name": "\u00a7 28",
+        "title": "Bu\u00dfgeldvorschriften",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000800000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE002805377",
-        "type": "article",
-        "name": "\u00a7 28",
-        "title": "Bu\u00dfgeldvorschriften",
+        },
         "body": {
           "content": "<P>(1) Ordnungswidrig handelt, wer als Veranstalter oder Gewerbetreibender vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 3 Abs. 1 die f\u00fcr seine Betriebseinrichtung oder Veranstaltung geltenden Vorschriften nicht, nicht richtig oder nicht in der vorgeschriebenen Weise bekannt macht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 3 Abs. 2 Satz 1 eine Kennzeichnung verwendet,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 3 Abs. 2 Satz 2 einen Hinweis nicht, nicht richtig oder nicht rechtzeitig gibt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 3 Abs. 2 Satz 3 einen Hinweis gibt, einen Film oder ein Film- oder Spielprogramm ank\u00fcndigt oder f\u00fcr einen Film oder ein Film- oder Spielprogramm wirbt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 4 Abs. 1 oder 3 einem Kind oder einer jugendlichen Person den Aufenthalt in einer Gastst\u00e4tte gestattet,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 5 Abs. 1 einem Kind oder einer jugendlichen Person die Anwesenheit bei einer \u00f6ffentlichen Tanzveranstaltung gestattet,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 6 Abs. 1 einem Kind oder einer jugendlichen Person die Anwesenheit in einer \u00f6ffentlichen Spielhalle oder einem dort genannten Raum gestattet,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 6 Abs. 2 einem Kind oder einer jugendlichen Person die Teilnahme an einem Spiel mit Gewinnm\u00f6glichkeit gestattet,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 7 Satz 1 zuwiderhandelt,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 9 Abs. 1 ein alkoholisches Getr\u00e4nk an ein Kind oder eine jugendliche Person abgibt oder ihm oder ihr den Verzehr gestattet,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 9 Abs. 3 Satz 1 ein alkoholisches Getr\u00e4nk in einem Automaten anbietet,</LA></DD><DT>11a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 9 Abs. 4 alkoholhaltige S\u00fc\u00dfgetr\u00e4nke in den Verkehr bringt,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 10 Absatz 1, auch in Verbindung mit Absatz 4, ein dort genanntes Produkt an ein Kind oder eine jugendliche Person abgibt oder einem Kind oder einer jugendlichen Person das Rauchen oder den Konsum gestattet,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 10 Absatz 2 Satz 1 oder Absatz 3, jeweils auch in Verbindung mit Absatz 4, ein dort genanntes Produkt anbietet oder abgibt,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11 Abs. 1 oder 3, jeweils auch in Verbindung mit Abs. 4 Satz 2, einem Kind oder einer jugendlichen Person die Anwesenheit bei einer \u00f6ffentlichen Filmveranstaltung, einem Werbevorspann oder einem Beiprogramm gestattet,</LA></DD><DT>14a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11 Abs. 5 einen Werbefilm oder ein Werbeprogramm vorf\u00fchrt,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 12 Abs. 1 einem Kind oder einer jugendlichen Person einen Bildtr\u00e4ger zug\u00e4nglich macht,</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 12 Abs. 3 Nr. 2 einen Bildtr\u00e4ger anbietet oder \u00fcberl\u00e4sst,</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 12 Abs. 4 oder \u00a7 13 Abs. 2 einen Automaten oder ein Bildschirmspielger\u00e4t aufstellt,</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 12 Abs. 5 Satz 1 einen Bildtr\u00e4ger vertreibt,</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 13 Abs. 1 einem Kind oder einer jugendlichen Person das Spielen an Bildschirmspielger\u00e4ten gestattet oder</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 15 Abs. 6 einen Hinweis nicht, nicht richtig oder nicht rechtzeitig gibt.</LA></DD></DL></P><P>(2) Ordnungswidrig handelt, wer als Anbieter vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 12 Abs. 2 Satz 1 und 2, auch in Verbindung mit Abs. 5 Satz 3 oder \u00a7 13 Abs. 3, einen Hinweis nicht, nicht richtig oder nicht in der vorgeschriebenen Weise gibt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 12 Abs. 2 Satz 3 Nr. 1, auch in Verbindung mit Abs. 5 Satz 3 oder \u00a7 13 Abs. 3, oder nach \u00a7 14 Abs. 7 Satz 3 zuwiderhandelt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 12 Abs. 5 Satz 2 einen Hinweis nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig anbringt oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 14 Abs. 7 Satz 1 einen Film oder ein Film- oder Spielprogramm mit \"Infoprogramm\" oder \"Lehrprogramm\" kennzeichnet.</LA></DD></DL></P><P>(3) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 12 Abs. 2 Satz 4 einen Hinweis nicht, nicht richtig oder nicht in der vorgeschriebenen Weise gibt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 24 Abs. 5 Satz 2 eine Mitteilung verwendet.</LA></DD></DL></P><P>(4) Ordnungswidrig handelt, wer als Person \u00fcber 18 Jahren ein Verhalten eines Kindes oder einer jugendlichen Person herbeif\u00fchrt oder f\u00f6rdert, das durch ein in Absatz 1 Nr. 5 bis 8, 10, 12, 14 bis 16 oder 19 oder in \u00a7 27 Abs. 1 Nr. 1 oder 2 bezeichnetes oder in \u00a7 12 Abs. 3 Nr. 1 enthaltenes Verbot oder durch eine vollziehbare Anordnung nach \u00a7 7 Satz 1 verhindert werden soll. Hinsichtlich des Verbots in \u00a7 12 Abs. 3 Nr. 1 gilt dies nicht f\u00fcr die personensorgeberechtigte Person und f\u00fcr eine Person, die im Einverst\u00e4ndnis mit der personensorgeberechtigten Person handelt.</P><P>(5) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu f\u00fcnfzigtausend Euro geahndet werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR273000002BJNG000800000"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR273000002BJNG000900000",
         "type": "heading",
+        "id": "BJNR273000002BJNG000900000",
         "name": "Abschnitt 7",
         "title": "Schlussvorschriften",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR273000002BJNE002900000",
         "type": "article",
+        "id": "BJNR273000002BJNE002900000",
         "name": "\u00a7 29",
         "title": "\u00dcbergangsvorschriften",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR273000002BJNG000900000"
+        },
         "body": {
           "content": "<P>Auf die nach bisherigem Recht mit \"Nicht freigegeben unter achtzehn Jahren\" gekennzeichneten Filmprogramme f\u00fcr Bildtr\u00e4ger findet \u00a7 18 Abs. 8 Satz 1 mit der Ma\u00dfgabe Anwendung, dass an die Stelle der Angabe \"\u00a7 14 Abs. 2 Nr. 1 bis 5\" die Angabe \"\u00a7 14 Abs. 2 Nr. 1 bis 4\" tritt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE003200310",
+        "name": "\u00a7 29a",
+        "title": "Weitere \u00dcbergangsregelung",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000900000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE003200310",
-        "type": "article",
-        "name": "\u00a7 29a",
-        "title": "Weitere \u00dcbergangsregelung",
+        },
         "body": {
           "content": "<P>Bildtr\u00e4ger mit Kennzeichnungen nach \u00a7 12 Abs. 1, deren Zeichen den Anforderungen des \u00a7 12 Abs. 2 Satz 1, aber nicht den Anforderungen des \u00a7 12 Abs. 2 Satz 2 entsprechen, d\u00fcrfen bis zum 31. August 2008 in den Verkehr gebracht werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR273000002BJNE003000000",
+        "name": "\u00a7 30",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR273000002BJNG000900000"
-        }
-      },
-      {
-        "id": "BJNR273000002BJNE003000000",
-        "type": "article",
-        "name": "\u00a7 30",
-        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        },
         "body": {
           "content": "<P>(1) Dieses Gesetz tritt an dem Tag in Kraft, an dem der Staatsvertrag der L\u00e4nder \u00fcber den Schutz der Menschenw\u00fcrde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt. Gleichzeitig treten das Gesetz zum Schutze der Jugend in der \u00d6ffentlichkeit vom 25. Februar 1985 (BGBl. I S. 425), zuletzt ge\u00e4ndert durch Artikel 8a des Gesetzes vom 15. Dezember 2001 (BGBl. I S. 3762) und das Gesetz \u00fcber die Verbreitung jugendgef\u00e4hrdender Schriften und Medieninhalte in der Fassung der Bekanntmachung vom 12. Juli 1985 (BGBl. I S. 1502), zuletzt ge\u00e4ndert durch Artikel 8b des Gesetzes vom 15. Dezember 2001 (BGBl. I S. 3762) au\u00dfer Kraft. Das Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend gibt das Datum des Inkrafttretens dieses Gesetzes im Bundesgesetzblatt bekannt.</P><P>(2) Abweichend von Absatz 1 Satz 1 treten \u00a7 10 Abs. 2 und \u00a7 28 Abs. 1 Nr. 13 am 1. Januar 2007 in Kraft.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR273000002BJNG000900000"
-        }
+        "documentaryFootnotes": null
       }
     ]
   }

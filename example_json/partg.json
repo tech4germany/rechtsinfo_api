@@ -30,852 +30,852 @@
     },
     "contents": [
       {
-        "id": "BJNR007730967BJNG000103307",
         "type": "heading",
+        "id": "BJNR007730967BJNG000103307",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Bestimmungen",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR007730967BJNE000904307",
         "type": "article",
+        "id": "BJNR007730967BJNE000904307",
         "name": "\u00a7 1",
         "title": "Verfassungsrechtliche Stellung und Aufgaben der Parteien",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007730967BJNG000103307"
+        },
         "body": {
           "content": "<P>(1) Die Parteien sind ein verfassungsrechtlich notwendiger Bestandteil der freiheitlichen demokratischen Grundordnung. Sie erf\u00fcllen mit ihrer freien, dauernden Mitwirkung an der politischen Willensbildung des Volkes eine ihnen nach dem Grundgesetz obliegende und von ihm verb\u00fcrgte \u00f6ffentliche Aufgabe.</P><P>(2) Die Parteien wirken an der Bildung des politischen Willens des Volkes auf allen Gebieten des \u00f6ffentlichen Lebens mit, indem sie insbesondere auf die Gestaltung der \u00f6ffentlichen Meinung Einflu\u00df nehmen, die politische Bildung anregen und vertiefen, die aktive Teilnahme der B\u00fcrger am politischen Leben f\u00f6rdern, zur \u00dcbernahme \u00f6ffentlicher Verantwortung bef\u00e4higte B\u00fcrger heranbilden, sich durch Aufstellung von Bewerbern an den Wahlen in Bund, L\u00e4ndern und Gemeinden beteiligen, auf die politische Entwicklung in Parlament und Regierung Einflu\u00df nehmen, die von ihnen erarbeiteten politischen Ziele in den Proze\u00df der staatlichen Willensbildung einf\u00fchren und f\u00fcr eine st\u00e4ndige lebendige Verbindung zwischen dem Volk und den Staatsorganen sorgen.</P><P>(3) Die Parteien legen ihre Ziele in politischen Programmen nieder.</P><P>(4) Die Parteien verwenden ihre Mittel ausschlie\u00dflich f\u00fcr die ihnen nach dem Grundgesetz und diesem Gesetz obliegenden Aufgaben.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001004377",
+        "name": "\u00a7 2",
+        "title": "Begriff der Partei",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000103307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001004377",
-        "type": "article",
-        "name": "\u00a7 2",
-        "title": "Begriff der Partei",
+        },
         "body": {
           "content": "<P>(1) Parteien sind Vereinigungen von B\u00fcrgern, die dauernd oder f\u00fcr l\u00e4ngere Zeit f\u00fcr den Bereich des Bundes oder eines Landes auf die politische Willensbildung Einflu\u00df nehmen und an der Vertretung des Volkes im Deutschen Bundestag oder einem Landtag mitwirken wollen, wenn sie nach dem Gesamtbild der tats\u00e4chlichen Verh\u00e4ltnisse, insbesondere nach Umfang und Festigkeit ihrer Organisation, nach der Zahl ihrer Mitglieder und nach ihrem Hervortreten in der \u00d6ffentlichkeit eine ausreichende Gew\u00e4hr f\u00fcr die Ernsthaftigkeit dieser Zielsetzung bieten. Mitglieder einer Partei k\u00f6nnen nur nat\u00fcrliche Personen sein.</P><P>(2) Eine Vereinigung verliert ihre Rechtsstellung als Partei, wenn sie sechs Jahre lang weder an einer Bundestagswahl noch an einer Landtagswahl mit eigenen Wahlvorschl\u00e4gen teilgenommen hat. Gleiches gilt, wenn eine Vereinigung sechs Jahre lang entgegen der Pflicht zur \u00f6ffentlichen Rechenschaftslegung gem\u00e4\u00df \u00a7 23 keinen Rechenschaftsbericht eingereicht hat; \u00a7 19a Absatz 3 Satz 5 gilt entsprechend.</P><P>(3) Politische Vereinigungen sind nicht Parteien, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Mitglieder oder die Mitglieder ihres Vorstandes in der Mehrheit Ausl\u00e4nder sind oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihr Sitz oder ihre Gesch\u00e4ftsleitung sich au\u00dferhalb des Geltungsbereichs dieses Gesetzes befindet.</LA></DD></DL></P>",
           "footnotes": null
         },
-        "documentaryFootnotes": "<P>(+++ \u00a7 2 Abs. 2 Satz 2: Zur Anwendung vgl. \u00a7 39 Abs. 5 S 1 +++)</P>",
+        "documentaryFootnotes": "<P>(+++ \u00a7 2 Abs. 2 Satz 2: Zur Anwendung vgl. \u00a7 39 Abs. 5 S 1 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001103307",
+        "name": "\u00a7 3",
+        "title": "Aktiv- und Passivlegitimation",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000103307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001103307",
-        "type": "article",
-        "name": "\u00a7 3",
-        "title": "Aktiv- und Passivlegitimation",
+        },
         "body": {
           "content": "<P>Die Partei kann unter ihrem Namen klagen und verklagt werden. Das gleiche gilt f\u00fcr ihre Gebietsverb\u00e4nde der jeweils h\u00f6chsten Stufe, sofern die Satzung der Partei nichts anderes bestimmt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001203307",
+        "name": "\u00a7 4",
+        "title": "Name",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000103307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001203307",
-        "type": "article",
-        "name": "\u00a7 4",
-        "title": "Name",
+        },
         "body": {
           "content": "<P>(1) Der Name einer Partei mu\u00df sich von dem Namen einer bereits bestehenden Partei deutlich unterscheiden; das gleiche gilt f\u00fcr Kurzbezeichnungen. In der Wahlwerbung und im Wahlverfahren darf nur der satzungsm\u00e4\u00dfige Name oder dessen Kurzbezeichnung gef\u00fchrt werden; Zusatzbezeichnungen k\u00f6nnen weggelassen werden.</P><P>(2) Gebietsverb\u00e4nde f\u00fchren den Namen der Partei unter Zusatz ihrer Organisationsstellung. Der Zusatz f\u00fcr Gebietsverb\u00e4nde ist nur an nachfolgender Stelle zul\u00e4ssig. In der allgemeinen Werbung und in der Wahlwerbung kann der Zusatz weggelassen werden.</P><P>(3) Gebietsverb\u00e4nde, die aus der Partei ausscheiden, verlieren das Recht, den Namen der Partei weiterzuf\u00fchren. Ein neu gew\u00e4hlter Name darf nicht in einem blo\u00dfen Zusatz zu dem bisherigen Namen bestehen. Entsprechendes gilt f\u00fcr Kurzbezeichnungen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001304307",
+        "name": "\u00a7 5",
+        "title": "Gleichbehandlung",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000103307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001304307",
-        "type": "article",
-        "name": "\u00a7 5",
-        "title": "Gleichbehandlung",
+        },
         "body": {
           "content": "<P>(1) Wenn ein Tr\u00e4ger \u00f6ffentlicher Gewalt den Parteien Einrichtungen zur Verf\u00fcgung stellt oder andere \u00f6ffentliche Leistungen gew\u00e4hrt, sollen alle Parteien gleichbehandelt werden. Der Umfang der Gew\u00e4hrung kann nach der Bedeutung der Parteien bis zu dem f\u00fcr die Erreichung ihres Zweckes erforderlichen Mindestma\u00df abgestuft werden. Die Bedeutung der Parteien bemi\u00dft sich insbesondere auch nach den Ergebnissen vorausgegangener Wahlen zu Volksvertretungen. F\u00fcr eine Partei, die im Bundestag in Fraktionsst\u00e4rke vertreten ist, mu\u00df der Umfang der Gew\u00e4hrung mindestens halb so gro\u00df wie f\u00fcr jede andere Partei sein.</P><P>(2) F\u00fcr die Gew\u00e4hrung \u00f6ffentlicher Leistungen in Zusammenhang mit einer Wahl gilt Absatz 1 w\u00e4hrend der Dauer des Wahlkampfes nur f\u00fcr Parteien, die Wahlvorschl\u00e4ge eingereicht haben.</P><P>(3) \u00d6ffentliche Leistungen nach Absatz 1 k\u00f6nnen an bestimmte sachliche, von allen Parteien zu erf\u00fcllende Voraussetzungen gebunden werden.</P><P>(4) Der Vierte Abschnitt bleibt unber\u00fchrt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR007730967BJNG000103307"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR007730967BJNG000203307",
         "type": "heading",
+        "id": "BJNR007730967BJNG000203307",
         "name": "Zweiter Abschnitt",
         "title": "Innere Ordnung",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR007730967BJNE001405307",
         "type": "article",
+        "id": "BJNR007730967BJNE001405307",
         "name": "\u00a7 6",
         "title": "Satzung und Programm",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007730967BJNG000203307"
+        },
         "body": {
           "content": "<P>(1) Die Partei mu\u00df eine schriftliche Satzung und ein schriftliches Programm haben. Die Gebietsverb\u00e4nde regeln ihre Angelegenheiten durch eigene Satzungen, soweit die Satzung des jeweils n\u00e4chsth\u00f6heren Gebietsverbandes hier\u00fcber keine Vorschriften enth\u00e4lt.</P><P>(2) Die Satzungen m\u00fcssen Bestimmungen enthalten \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen sowie Kurzbezeichnung, sofern eine solche verwandt wird, Sitz und T\u00e4tigkeitsgebiet der Partei,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufnahme und Austritt der Mitglieder,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rechte und Pflichten der Mitglieder,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">zul\u00e4ssige Ordnungsma\u00dfnahmen gegen Mitglieder und ihren Ausschlu\u00df (\u00a7 10 Abs. 3 bis 5),</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">zul\u00e4ssige Ordnungsma\u00dfnahmen gegen Gebietsverb\u00e4nde,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">allgemeine Gliederung der Partei,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zusammensetzung und Befugnisse des Vorstandes und der \u00fcbrigen Organe,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Beschlu\u00dffassung durch die Mitglieder- und Vertreterversammlungen nach \u00a7 9 vorbehaltene Angelegenheiten,</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Voraussetzung, Form und Frist der Einberufung der Mitglieder- und Vertreterversammlungen sowie Beurkundung der Beschl\u00fcsse,</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gebietsverb\u00e4nde und Organe, die zur Einreichung (Unterzeichnung) von Wahlvorschl\u00e4gen f\u00fcr Wahlen zu Volksvertretungen befugt sind, soweit hier\u00fcber keine gesetzlichen Vorschriften bestehen,</LA></DD> <DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Urabstimmung der Mitglieder und das Verfahren, wenn der Parteitag die Aufl\u00f6sung der Partei oder des Gebietsverbandes oder die Verschmelzung mit anderen Parteien nach \u00a7 9 Abs. 3 beschlossen hat. Der Beschlu\u00df gilt nach dem Ergebnis der Urabstimmung als best\u00e4tigt, ge\u00e4ndert oder aufgehoben,</LA></DD> <DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Form und Inhalt einer Finanzordnung, die den Vorschriften des F\u00fcnften Abschnittes dieses Gesetzes gen\u00fcgt.</LA></DD> </DL> </P><P>(3) Der Vorstand hat dem Bundeswahlleiter <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Satzung und Programm der Partei,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen der Vorstandsmitglieder der Partei und der Landesverb\u00e4nde mit Angabe ihrer Funktionen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufl\u00f6sung der Partei oder eines Landesverbandes</LA></DD> </DL>mitzuteilen. \u00c4nderungen zu Satz 1 Nr. 1 und 2 sind bis zum 31. Dezember des jeweiligen Kalenderjahres anzuzeigen. Die Unterlagen k\u00f6nnen beim Bundeswahlleiter von jedermann eingesehen werden. Abschriften dieser Unterlagen sind auf Anforderung geb\u00fchrenfrei zu erteilen.</P><P>(4) Bei Parteien, deren Organisation sich auf das Gebiet eines Landes beschr\u00e4nkt (Landesparteien), gelten die in diesem Gesetz f\u00fcr die Partei getroffenen Regelungen f\u00fcr den Landesverband.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001503307",
+        "name": "\u00a7 7",
+        "title": "Gliederung",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001503307",
-        "type": "article",
-        "name": "\u00a7 7",
-        "title": "Gliederung",
+        },
         "body": {
           "content": "<P>(1) Die Parteien gliedern sich in Gebietsverb\u00e4nde. Gr\u00f6\u00dfe und Umfang der Gebietsverb\u00e4nde werden durch die Satzung festgelegt. Die gebietliche Gliederung mu\u00df so weit ausgebaut sein, da\u00df den einzelnen Mitgliedern eine angemessene Mitwirkung an der Willensbildung der Partei m\u00f6glich ist. Beschr\u00e4nkt sich die Organisation einer Partei auf das Gebiet eines Stadtstaates, braucht sie keine Gebietsverb\u00e4nde zu bilden; sie ist Partei im Sinne dieses Gesetzes. Organisatorische Zusammenschl\u00fcsse mehrerer Gebietsverb\u00e4nde, die den verbandsm\u00e4\u00dfigen Aufbau der Parteiorganisation nicht wesentlich beeintr\u00e4chtigen, sind zul\u00e4ssig.</P><P>(2) Soweit in einer Partei Landesverb\u00e4nde nicht bestehen, gelten die in diesem Gesetz f\u00fcr Landesverb\u00e4nde getroffenen Regelungen f\u00fcr die der Partei folgenden n\u00e4chstniedrigen Gebietsverb\u00e4nde.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001603307",
+        "name": "\u00a7 8",
+        "title": "Organe",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001603307",
-        "type": "article",
-        "name": "\u00a7 8",
-        "title": "Organe",
+        },
         "body": {
           "content": "<P>(1) Mitgliederversammlung und Vorstand sind notwendige Organe der Partei und der Gebietsverb\u00e4nde. Durch die Satzung kann bestimmt werden, da\u00df in den \u00fcber\u00f6rtlichen Verb\u00e4nden an die Stelle der Mitgliederversammlung eine Vertreterversammlung tritt, deren Mitglieder f\u00fcr h\u00f6chstens zwei Jahre durch Mitglieder- oder Vertreterversammlungen der nachgeordneten Verb\u00e4nde gew\u00e4hlt werden. Landesparteien ohne Gebietsverb\u00e4nde (\u00a7 7 Abs. 1 Satz 4) k\u00f6nnen die Mitgliederversammlung durch eine Vertreterversammlung ersetzen, wenn sie mehr als 250 Mitglieder haben. Vertreterversammlungen k\u00f6nnen auch f\u00fcr Ortsverb\u00e4nde von mehr als 250 Mitgliedern oder mit gro\u00dfer r\u00e4umlicher Ausdehnung gebildet werden.</P><P>(2) Die Satzung kann weitere der Willensbildung des jeweiligen Gebietsverbandes dienende Einrichtungen (Organe) vorsehen. Sie sind in der Satzung ausdr\u00fccklich als solche zu bezeichnen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001703307",
+        "name": "\u00a7 9",
+        "title": "Mitglieder- und Vertreterversammlung (Parteitag,\nHauptversammlung)",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001703307",
-        "type": "article",
-        "name": "\u00a7 9",
-        "title": "Mitglieder- und Vertreterversammlung (Parteitag,\nHauptversammlung)",
+        },
         "body": {
           "content": "<P>(1) Die Mitglieder- oder Vertreterversammlung (Parteitag, Hauptversammlung) ist das oberste Organ des jeweiligen Gebietsverbandes. Sie f\u00fchrt bei Gebietsverb\u00e4nden h\u00f6herer Stufen die Bezeichnung \"Parteitag\", bei Gebietsverb\u00e4nden der untersten Stufe die Bezeichnung \"Hauptversammlung\"; die nachfolgenden Bestimmungen \u00fcber den Parteitag gelten auch f\u00fcr die Hauptversammlung. Die Parteitage treten mindestens in jedem zweiten Kalenderjahr einmal zusammen.</P><P>(2) Vorstandsmitglieder, Mitglieder anderer Organe des Gebietsverbandes sowie Angeh\u00f6rige des in \u00a7 11 Abs. 2 genannten Personenkreises k\u00f6nnen einer Vertreterversammlung kraft Satzung angeh\u00f6ren, d\u00fcrfen aber in diesem Fall nur bis zu einem F\u00fcnftel der satzungsm\u00e4\u00dfigen Gesamtzahl der Versammlungsmitglieder mit Stimmrecht ausgestattet sein.</P><P>(3) Der Parteitag beschlie\u00dft im Rahmen der Zust\u00e4ndigkeiten des Gebietsverbandes innerhalb der Partei \u00fcber die Parteiprogramme, die Satzung, die Beitragsordnung, die Schiedsgerichtsordnung, die Aufl\u00f6sung sowie die Verschmelzung mit anderen Parteien.</P><P>(4) Der Parteitag w\u00e4hlt den Vorsitzenden des Gebietsverbandes, seine Stellvertreter und die \u00fcbrigen Mitglieder des Vorstandes, die Mitglieder etwaiger anderer Organe und die Vertreter in den Organen h\u00f6herer Gebietsverb\u00e4nde, soweit in diesem Gesetz nichts anderes zugelassen ist.</P><P>(5) Der Parteitag nimmt mindestens alle zwei Jahre einen T\u00e4tigkeitsbericht des Vorstandes entgegen und fa\u00dft \u00fcber ihn Beschlu\u00df. Der finanzielle Teil des Berichts ist vor der Berichterstattung durch Rechnungspr\u00fcfer, die von dem Parteitag gew\u00e4hlt werden, zu \u00fcberpr\u00fcfen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001803307",
+        "name": "\u00a7 10",
+        "title": "Rechte der Mitglieder",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001803307",
-        "type": "article",
-        "name": "\u00a7 10",
-        "title": "Rechte der Mitglieder",
+        },
         "body": {
           "content": "<P>(1) Die zust\u00e4ndigen Organe der Partei entscheiden nach n\u00e4herer Bestimmung der Satzung frei \u00fcber die Aufnahme von Mitgliedern. Die Ablehnung eines Aufnahmeantrages braucht nicht begr\u00fcndet zu werden. Allgemeine, auch befristete Aufnahmesperren sind nicht zul\u00e4ssig. Personen, die infolge Richterspruchs die W\u00e4hlbarkeit oder das Wahlrecht nicht besitzen, k\u00f6nnen nicht Mitglieder einer Partei sein.</P><P>(2) Die Mitglieder der Partei und die Vertreter in den Parteiorganen haben gleiches Stimmrecht. Die Aus\u00fcbung des Stimmrechts kann nach n\u00e4herer Bestimmung der Satzung davon abh\u00e4ngig gemacht werden, da\u00df das Mitglied seine Beitragspflicht erf\u00fcllt hat. Das Mitglied ist jederzeit zum sofortigen Austritt aus der Partei berechtigt.</P><P>(3) In der Satzung sind Bestimmungen zu treffen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zul\u00e4ssigen Ordnungsma\u00dfnahmen gegen Mitglieder,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gr\u00fcnde, die zu Ordnungsma\u00dfnahmen berechtigen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Parteiorgane, die Ordnungsma\u00dfnahmen anordnen k\u00f6nnen.</LA></DD> </DL>Im Falle der Enthebung von Partei\u00e4mtern oder der Aberkennung der F\u00e4higkeit zu ihrer Bekleidung ist der Beschlu\u00df zu begr\u00fcnden.</P><P>(4) Ein Mitglied kann nur dann aus der Partei ausgeschlossen werden, wenn es vors\u00e4tzlich gegen die Satzung oder erheblich gegen Grunds\u00e4tze oder Ordnung der Partei verst\u00f6\u00dft und ihr damit schweren Schaden zuf\u00fcgt.</P><P>(5) \u00dcber den Ausschlu\u00df entscheidet das nach der Schiedsgerichtsordnung zust\u00e4ndige Schiedsgericht. Die Berufung an ein Schiedsgericht h\u00f6herer Stufe ist zu gew\u00e4hrleisten. Die Entscheidungen sind schriftlich zu begr\u00fcnden. In dringenden und schwerwiegenden F\u00e4llen, die sofortiges Eingreifen erfordern, kann der Vorstand der Partei oder eines Gebietsverbandes ein Mitglied von der Aus\u00fcbung seiner Rechte bis zur Entscheidung des Schiedsgerichts ausschlie\u00dfen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE001905160",
+        "name": "\u00a7 11",
+        "title": "Vorstand",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE001905160",
-        "type": "article",
-        "name": "\u00a7 11",
-        "title": "Vorstand",
+        },
         "body": {
           "content": "<P>(1) Der Vorstand wird mindestens in jedem zweiten Kalenderjahr gew\u00e4hlt. Er mu\u00df aus mindestens drei Mitgliedern bestehen.</P><P>(2) Dem Vorstand k\u00f6nnen Abgeordnete und andere Pers\u00f6nlichkeiten aus der Partei kraft Satzung angeh\u00f6ren, wenn sie ihr Amt oder ihr Mandat aus einer Wahl erhalten haben. Der Anteil der nicht nach \u00a7 9 Abs. 4 gew\u00e4hlten Mitglieder darf ein F\u00fcnftel der Gesamtzahl der Vorstandsmitglieder nicht \u00fcbersteigen. Vorsitzender und Schatzmeister einer Partei d\u00fcrfen nicht in einer der Partei nahestehenden politischen Stiftung vergleichbare Funktionen aus\u00fcben.</P><P>(3) Der Vorstand leitet den Gebietsverband und f\u00fchrt dessen Gesch\u00e4fte nach Gesetz und Satzung sowie den Beschl\u00fcssen der ihm \u00fcbergeordneten Organe. Er vertritt den Gebietsverband gem\u00e4\u00df \u00a7 26 Absatz 1 Satz 2 und 3 des B\u00fcrgerlichen Gesetzbuchs, soweit nicht die Satzung eine abweichende Regelung trifft.</P><P>(4) Zur Durchf\u00fchrung der Beschl\u00fcsse des Vorstandes sowie zur Erledigung der laufenden und der besonders dringlichen Vorstandsgesch\u00e4fte kann aus der Mitte des Vorstandes ein gesch\u00e4ftsf\u00fchrender Vorstand (Pr\u00e4sidium) gebildet werden. Seine Mitglieder k\u00f6nnen auch vom Vorstand gew\u00e4hlt oder durch die Satzung bestimmt werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE002003307",
+        "name": "\u00a7 12",
+        "title": "Allgemeine Parteiaussch\u00fcsse",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE002003307",
-        "type": "article",
-        "name": "\u00a7 12",
-        "title": "Allgemeine Parteiaussch\u00fcsse",
+        },
         "body": {
           "content": "<P>(1) Die Mitglieder von allgemeinen Parteiaussch\u00fcssen und \u00e4hnlichen Einrichtungen, die nach der Satzung umfassende Zust\u00e4ndigkeiten f\u00fcr die Beratung oder Entscheidung politischer und organisatorischer Fragen der Partei besitzen, k\u00f6nnen auch von nachgeordneten Gebietsverb\u00e4nden gew\u00e4hlt werden.</P><P>(2) Der Vorstand und Angeh\u00f6rige des in \u00a7 11 Abs. 2 genannten Personenkreises k\u00f6nnen einem solchen Organ kraft Satzung angeh\u00f6ren. Der Anteil der nicht gew\u00e4hlten Mitglieder darf ein Drittel der Gesamtmitgliederzahl des Organs nicht \u00fcbersteigen; er kann um weitere Mitglieder mit nur beratender Stimme erh\u00f6ht werden, mu\u00df jedoch auch dann noch unter der H\u00e4lfte der Gesamtmitgliederzahl des Organs liegen.</P><P>(3) Das Amt der gew\u00e4hlten Mitglieder der in Absatz 1 genannten Organe dauert h\u00f6chstens zwei Jahre.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE002103307",
+        "name": "\u00a7 13",
+        "title": "Zusammensetzung der Vertreterversammlungen",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE002103307",
-        "type": "article",
-        "name": "\u00a7 13",
-        "title": "Zusammensetzung der Vertreterversammlungen",
+        },
         "body": {
           "content": "<P>Die Zusammensetzung einer Vertreterversammlung oder eines sonstigen Organs, das ganz oder zum Teil aus Vertretern von Gebietsverb\u00e4nden besteht, ist in der Satzung festzulegen. Die Zahl der Vertreter des Gebietsverbandes ist in erster Linie nach der Zahl der vertretenen Mitglieder zu bemessen. Die Satzung kann bestimmen, da\u00df die restliche Zahl der Vertreter, h\u00f6chstens die H\u00e4lfte der Gesamtzahl, nach dem Verh\u00e4ltnis der im Bereich des Gebietsverbandes bei vorausgegangenen Wahlen zu Volksvertretungen erzielten W\u00e4hlerstimmen auf die Gebietsverb\u00e4nde aufgeschl\u00fcsselt wird. Die Aus\u00fcbung des Stimmrechts kann von der Erf\u00fcllung der Beitragspflicht des Gebietsverbandes abh\u00e4ngig gemacht werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE002203307",
+        "name": "\u00a7 14",
+        "title": "Parteischiedsgerichte",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE002203307",
-        "type": "article",
-        "name": "\u00a7 14",
-        "title": "Parteischiedsgerichte",
+        },
         "body": {
           "content": "<P>(1) Zur Schlichtung und Entscheidung von Streitigkeiten der Partei oder eines Gebietsverbandes mit einzelnen Mitgliedern und Streitigkeiten \u00fcber Auslegung und Anwendung der Satzung sind zumindest bei der Partei und den Gebietsverb\u00e4nden der jeweils h\u00f6chsten Stufe Schiedsgerichte zu bilden. F\u00fcr mehrere Gebietsverb\u00e4nde der Kreisstufe k\u00f6nnen gemeinsame Schiedsgerichte gebildet werden.</P><P>(2) Die Mitglieder der Schiedsgerichte werden f\u00fcr h\u00f6chstens vier Jahre gew\u00e4hlt. Sie d\u00fcrfen nicht Mitglied eines Vorstandes der Partei oder eines Gebietsverbandes sein, in einem Dienstverh\u00e4ltnis zu der Partei oder einem Gebietsverband stehen oder von ihnen regelm\u00e4\u00dfige Eink\u00fcnfte beziehen. Sie sind unabh\u00e4ngig und an Weisungen nicht gebunden.</P><P>(3) Die Satzung kann vorsehen, da\u00df die Schiedsgerichte allgemein oder im Einzelfall mit Beisitzern besetzt werden, die von den Streitteilen parit\u00e4tisch benannt werden.</P><P>(4) F\u00fcr die T\u00e4tigkeit des Schiedsgerichts ist eine Schiedsgerichtsordnung zu erlassen, die den Beteiligten rechtliches Geh\u00f6r, ein gerechtes Verfahren und die Ablehnung eines Mitglieds des Schiedsgerichts wegen Befangenheit gew\u00e4hrleistet.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE002303307",
+        "name": "\u00a7 15",
+        "title": "Willensbildung in den Organen",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE002303307",
-        "type": "article",
-        "name": "\u00a7 15",
-        "title": "Willensbildung in den Organen",
+        },
         "body": {
           "content": "<P>(1) Die Organe fassen ihre Beschl\u00fcsse mit einfacher Stimmenmehrheit, soweit nicht durch Gesetz oder Satzung erh\u00f6hte Stimmenmehrheit vorgeschrieben ist.</P><P>(2) Die Wahlen der Vorstandsmitglieder und der Vertreter zu Vertreterversammlungen und zu Organen h\u00f6herer Gebietsverb\u00e4nde sind geheim. Bei den \u00fcbrigen Wahlen kann offen abgestimmt werden, wenn sich auf Befragen kein Widerspruch erhebt.</P><P>(3) Das Antragsrecht ist so zu gestalten, da\u00df eine demokratische Willensbildung gew\u00e4hrleistet bleibt, insbesondere auch Minderheiten ihre Vorschl\u00e4ge ausreichend zur Er\u00f6rterung bringen k\u00f6nnen. In den Versammlungen h\u00f6herer Gebietsverb\u00e4nde ist mindestens den Vertretern der Gebietsverb\u00e4nde der beiden n\u00e4chstniedrigen Stufen ein Antragsrecht einzur\u00e4umen. Bei Wahlen und Abstimmungen ist eine Bindung an Beschl\u00fcsse anderer Organe unzul\u00e4ssig.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE002403307",
+        "name": "\u00a7 16",
+        "title": "Ma\u00dfnahmen gegen Gebietsverb\u00e4nde",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000203307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE002403307",
-        "type": "article",
-        "name": "\u00a7 16",
-        "title": "Ma\u00dfnahmen gegen Gebietsverb\u00e4nde",
+        },
         "body": {
           "content": "<P>(1) Die Aufl\u00f6sung und der Ausschlu\u00df nachgeordneter Gebietsverb\u00e4nde sowie die Amtsenthebung ganzer Organe derselben sind nur wegen schwerwiegender Verst\u00f6\u00dfe gegen die Grunds\u00e4tze oder die Ordnung der Partei zul\u00e4ssig. In der Satzung ist zu bestimmen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus welchen Gr\u00fcnden die Ma\u00dfnahmen zul\u00e4ssig sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">welcher \u00fcbergeordnete Gebietsverband und welches Organ dieses Verbandes sie treffen k\u00f6nnen.</LA></DD> </DL> </P><P>(2) Der Vorstand der Partei oder eines \u00fcbergeordneten Gebietsverbandes bedarf f\u00fcr eine Ma\u00dfnahme nach Absatz 1 der Best\u00e4tigung durch ein h\u00f6heres Organ. Die Ma\u00dfnahme tritt au\u00dfer Kraft, wenn die Best\u00e4tigung nicht auf dem n\u00e4chsten Parteitag ausgesprochen wird.</P><P>(3) Gegen Ma\u00dfnahmen nach Absatz 1 ist die Anrufung eines Schiedsgerichts zuzulassen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR007730967BJNG000203307"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR007730967BJNG000303307",
         "type": "heading",
+        "id": "BJNR007730967BJNG000303307",
         "name": "Dritter Abschnitt",
         "title": "Aufstellung von Wahlbewerbern",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR007730967BJNE002503307",
         "type": "article",
+        "id": "BJNR007730967BJNE002503307",
         "name": "\u00a7 17",
         "title": "Aufstellung von Wahlbewerbern",
-        "body": {
-          "content": "<P>Die Aufstellung von Bewerbern f\u00fcr Wahlen zu Volksvertretungen mu\u00df in geheimer Abstimmung erfolgen. Die Aufstellung regeln die Wahlgesetze und die Satzungen der Parteien.</P>",
-          "footnotes": null
-        },
-        "documentaryFootnotes": null,
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000303307"
-        }
+        },
+        "body": {
+          "content": "<P>Die Aufstellung von Bewerbern f\u00fcr Wahlen zu Volksvertretungen mu\u00df in geheimer Abstimmung erfolgen. Die Aufstellung regeln die Wahlgesetze und die Satzungen der Parteien.</P>",
+          "footnotes": null
+        },
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR007730967BJNG000404307",
         "type": "heading",
+        "id": "BJNR007730967BJNG000404307",
         "name": "Vierter Abschnitt",
         "title": "Staatliche Finanzierung",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR007730967BJNE002616311",
         "type": "article",
+        "id": "BJNR007730967BJNE002616311",
         "name": "\u00a7 18",
         "title": "Grunds\u00e4tze und Umfang der staatlichen Finanzierung",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007730967BJNG000404307"
+        },
         "body": {
           "content": "<P>(1) Die Parteien erhalten Mittel als Teilfinanzierung der allgemein ihnen nach dem Grundgesetz obliegenden T\u00e4tigkeit. Ma\u00dfst\u00e4be f\u00fcr die Verteilung der staatlichen Mittel bilden der Erfolg, den eine Partei bei den W\u00e4hlern bei Europa-, Bundestags- und Landtagswahlen erzielt, die Summe ihrer Mitglieds- und Mandatstr\u00e4gerbeitr\u00e4ge sowie der Umfang der von ihr eingeworbenen Spenden.</P><P>(2) Das j\u00e4hrliche Gesamtvolumen staatlicher Mittel, das allen Parteien h\u00f6chstens ausgezahlt werden darf, betr\u00e4gt f\u00fcr die im Jahr 2019 vorzunehmende Festsetzung 190 Millionen Euro (absolute Obergrenze). Die absolute Obergrenze erh\u00f6ht sich j\u00e4hrlich um den Prozentsatz, abgerundet auf ein Zehntel Prozent, um den sich der Preisindex der f\u00fcr eine Partei typischen Ausgaben im dem Anspruchsjahr vorangegangenen Jahr erh\u00f6ht hat. Grundlage des Preisindexes ist zu einem W\u00e4gungsanteil von 70 Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent der Index der tariflichen Monatsgeh\u00e4lter der Arbeiter und Angestellten bei Gebietsk\u00f6rperschaften. Der Pr\u00e4sident des Statistischen Bundesamtes legt dem Deutschen Bundestag hierzu bis sp\u00e4testens 30. April jedes Jahres einen Bericht \u00fcber die Entwicklung des Preisindexes bezogen auf das vorangegangene Jahr vor. Der Bundestagspr\u00e4sident ver\u00f6ffentlicht bis sp\u00e4testens 31. Mai jedes Jahres die sich aus der Steigerung ergebende Summe der absoluten Obergrenze, abgerundet auf volle Eurobetr\u00e4ge, als Bundestagsdrucksache.</P><P>(3) Die Parteien erhalten j\u00e4hrlich im Rahmen der staatlichen Teilfinanzierung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">0,83 Euro f\u00fcr jede f\u00fcr ihre jeweilige Liste abgegebene g\u00fcltige Stimme oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">0,83 Euro f\u00fcr jede f\u00fcr sie in einem Wahl- oder Stimmkreis abgegebene g\u00fcltige Stimme, wenn in einem Land eine Liste f\u00fcr diese Partei nicht zugelassen war, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">0,45 Euro f\u00fcr jeden Euro, den sie als Zuwendung (eingezahlter Mitglieds- oder Mandatstr\u00e4gerbeitrag oder rechtm\u00e4\u00dfig erlangte Spende) erhalten haben; dabei werden nur Zuwendungen bis zu 3\u00a0300 Euro je nat\u00fcrliche Person ber\u00fccksichtigt.</LA></DD></DL>Die Parteien erhalten abweichend von den Nummern 1 und 2 f\u00fcr die von ihnen jeweils erzielten bis zu vier Millionen g\u00fcltigen Stimmen 1 Euro je Stimme. Die in Satz 1 Nummer 1 und 2 sowie in Satz 2 genannten Betr\u00e4ge erh\u00f6hen sich ab dem Jahr 2017 entsprechend Absatz 2 Satz 2 bis 5.</P><P>(4) Anspruch auf staatliche Mittel gem\u00e4\u00df Absatz 3 Nr. 1 und 3 haben Parteien, die nach dem endg\u00fcltigen Wahlergebnis der jeweils letzten Europa- oder Bundestagswahl mindestens 0,5 vom Hundert oder einer Landtagswahl 1,0 vom Hundert der f\u00fcr die Listen abgegebenen g\u00fcltigen Stimmen erreicht haben; f\u00fcr Zahlungen nach Absatz 3 Satz 1 Nr. 1 und Satz 2 muss die Partei diese Voraussetzungen bei der jeweiligen Wahl erf\u00fcllen. Anspruch auf die staatlichen Mittel gem\u00e4\u00df Absatz 3 Nr. 2 haben Parteien, die nach dem endg\u00fcltigen Wahlergebnis 10 vom Hundert der in einem Wahl- oder Stimmkreis abgegebenen g\u00fcltigen Stimmen erreicht haben. Die S\u00e4tze 1 und 2 gelten nicht f\u00fcr Parteien nationaler Minderheiten.</P><P>(5) Die H\u00f6he der staatlichen Teilfinanzierung darf bei einer Partei die Summe der Einnahmen nach \u00a7 24 Abs. 4 Nr. 1 bis 7 nicht \u00fcberschreiten (relative Obergrenze). Die Summe der Finanzierung aller Parteien darf die absolute Obergrenze nicht \u00fcberschreiten.</P><P>(6) Der Bundespr\u00e4sident kann eine Kommission unabh\u00e4ngiger Sachverst\u00e4ndiger zu Fragen der Parteienfinanzierung berufen.</P><P>(7) L\u00f6st sich eine Partei auf oder wird sie verboten, scheidet sie ab dem Zeitpunkt der Aufl\u00f6sung aus der staatlichen Teilfinanzierung aus. Gleiches gilt bei einer Feststellung des Bundesverfassungsgerichts nach \u00a7 46a des Bundesverfassungsgerichtsgesetzes ab dem Zeitpunkt der Entscheidung.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE002707377",
+        "name": "\u00a7 19",
+        "title": "Antragstellung f\u00fcr die staatliche Teilfinanzierung",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000404307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE002707377",
-        "type": "article",
-        "name": "\u00a7 19",
-        "title": "Antragstellung f\u00fcr die staatliche Teilfinanzierung",
+        },
         "body": {
           "content": "<P>(1) Die Festsetzung und die Auszahlung der staatlichen Mittel f\u00fcr das Anspruchsjahr im Sinne des Gesetzes sind von den Parteien schriftlich zum 30. September des Anspruchsjahres beim Pr\u00e4sidenten des Deutschen Bundestages zu beantragen. Der Antrag muss von einem f\u00fcr die Finanzen nach der Satzung zust\u00e4ndigen Vorstandsmitglied der Partei gestellt sein und die zustellungsf\u00e4hige Anschrift sowie eine Bankverbindung enthalten. Ein einheitlicher Antrag des Bundesverbandes f\u00fcr die Gesamtpartei gen\u00fcgt. Teilantr\u00e4ge sind zul\u00e4ssig. Wurden staatliche Mittel zugunsten einer Partei bereits f\u00fcr das dem Anspruchsjahr vorausgehende Jahr festgesetzt, erfolgt die Festsetzung durch den Pr\u00e4sidenten des Deutschen Bundestages ohne weiteren Antrag. \u00c4nderungen, die das Festsetzungsverfahren betreffen, hat die Partei dem Pr\u00e4sidenten des Deutschen Bundestages unverz\u00fcglich mitzuteilen. Unterbleibt eine solche Mitteilung, haftet die Partei.</P><P>(2) Der Antrag auf Abschlagszahlungen ist schriftlich bei dem Pr\u00e4sidenten des Deutschen Bundestages bis zum 15. des jeweils der n\u00e4chsten Abschlagszahlung vorangehenden Monats zu stellen. Er kann f\u00fcr mehrere Abschl\u00e4ge des Jahres gleichzeitig gestellt werden. Absatz 1 S\u00e4tze 5 bis 7 gilt entsprechend.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE005402377",
+        "name": "\u00a7 19a",
+        "title": "Festsetzungsverfahren",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000404307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE005402377",
-        "type": "article",
-        "name": "\u00a7 19a",
-        "title": "Festsetzungsverfahren",
+        },
         "body": {
           "content": "<P>(1) Der Pr\u00e4sident des Deutschen Bundestages setzt j\u00e4hrlich zum 15. Februar die H\u00f6he der staatlichen Mittel f\u00fcr jede anspruchsberechtigte Partei f\u00fcr das vorangegangene Jahr (Anspruchsjahr) fest. Er darf staatliche Mittel f\u00fcr eine Partei nach den \u00a7\u00a7 18 und 19a nur auf Grund eines Rechenschaftsberichts festsetzen und auszahlen, der den Vorschriften des F\u00fcnften Abschnitts entspricht. Leitet der Pr\u00e4sident des Deutschen Bundestages bez\u00fcglich eines fristgerecht eingereichten Rechenschaftsberichts das Verfahren nach \u00a7 23a Abs. 2 vor der Festsetzung ein, setzt er die staatlichen Mittel f\u00fcr diese Partei auf der Grundlage ihres Rechenschaftsberichts nur vorl\u00e4ufig fest und zahlt sie gegen Sicherheitsleistung in H\u00f6he m\u00f6glicher Zahlungsverpflichtungen der Partei (\u00a7\u00a7 31a bis 31c) aus. Nach Abschluss des Verfahrens trifft er eine endg\u00fcltige Festsetzung.</P><P>(2) Berechnungsgrundlage f\u00fcr die Festsetzung der H\u00f6he der staatlichen Mittel sind die von den anspruchsberechtigten Parteien bis einschlie\u00dflich 31. Dezember des Anspruchsjahres erzielten g\u00fcltigen Stimmen bei der jeweils letzten Europa- und Bundestagswahl sowie der jeweils letzten Landtagswahl und die in den Rechenschaftsberichten ver\u00f6ffentlichten Zuwendungen (\u00a7 18 Abs. 3 Satz 1 Nr. 3) des jeweils vorangegangenen Jahres (Rechenschaftsjahr). Der Pr\u00e4sident des Deutschen Bundestages fasst die erzielten, nach \u00a7 18 Abs. 4 ber\u00fccksichtigungsf\u00e4higen, g\u00fcltigen Stimmen jeder Partei in einem Stimmenkonto zusammen und schreibt dieses fort.</P><P>(3) Die Partei hat ihren Rechenschaftsbericht bis zum 30. September des dem Rechenschaftsjahr folgenden Jahres beim Pr\u00e4sidenten des Deutschen Bundestages einzureichen. Der Pr\u00e4sident des Deutschen Bundestages kann die Frist um bis zu drei Monate verl\u00e4ngern. Reicht eine Partei ihren Rechenschaftsbericht nicht fristgerecht ein, verliert sie endg\u00fcltig den auf Zuwendungen bezogenen Anspruch auf staatliche Mittel (Verfall des Zuwendungsanteils). Hat eine Partei ihren Rechenschaftsbericht bis zum 31. Dezember des dem Anspruchsjahr folgenden Jahres nicht eingereicht, verliert sie endg\u00fcltig den Anspruch auf staatliche Mittel f\u00fcr das Anspruchsjahr (Verfall des W\u00e4hlerstimmenanteils). Die Fristen werden unabh\u00e4ngig von der inhaltlichen Richtigkeit gewahrt, wenn der Rechenschaftsbericht der in \u00a7 24 vorgegebenen Gliederung entspricht und den Pr\u00fcfungsvermerk gem\u00e4\u00df \u00a7 30 Abs. 2 tr\u00e4gt. Die Festsetzungen und Zahlungen an die \u00fcbrigen Parteien bleiben unver\u00e4ndert.</P><P>(4) Der Berechnung der relativen Obergrenze (\u00a7 18 Absatz 5) sind die in den Rechenschaftsberichten des Rechenschaftsjahres ver\u00f6ffentlichten Einnahmen nach \u00a7 24 Absatz 4 Nummer 1 bis 7 zugrunde zu legen. Dabei sind Einnahmen aus Unternehmenst\u00e4tigkeit (\u00a7 24 Absatz 4 Nummer 5) nur in H\u00f6he des nach Abzug der Ausgaben (\u00a7 24 Absatz 5 Nummer 2 Buchstabe f) verbleibenden Betrages zu ber\u00fccksichtigen.</P><P>(5) Bei der Festsetzung ist zun\u00e4chst f\u00fcr jede Partei die relative Obergrenze (\u00a7 18 Absatz 5) und sodann die absolute Obergrenze (\u00a7 18 Absatz 2) einzuhalten. \u00dcberschreitet die Summe der errechneten staatlichen Mittel die absolute Obergrenze, besteht der Anspruch der Parteien auf staatliche Mittel nur in der H\u00f6he, der ihrem Anteil an diesem Betrag entspricht.</P><P>(6) Die Auszahlung der staatlichen Mittel f\u00fcr die bei Landtagswahlen erzielten g\u00fcltigen Stimmen erfolgt an den jeweiligen Landesverband der Partei in H\u00f6he von 0,50 Euro je Stimme; etwaige K\u00fcrzungen nach Absatz 5 bleiben au\u00dfer Betracht, soweit diese bei den vom Bund zu leistenden Auszahlungen (\u00a7 21 Abs. 1 Satz 1 Alternative 2) vorgenommen werden k\u00f6nnen. Die Auszahlung der \u00fcbrigen staatlichen Mittel erfolgt an den Bundesverband der Partei, bei Landesparteien an den Landesverband.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": "<P>(+++ \u00a7 19a Abs. 4 Satz 2: Zur Anwendung vgl. \u00a7 39 Abs. 5 S 2 +++)</P>",
+        "documentaryFootnotes": "<P>(+++ \u00a7 19a Abs. 4 Satz 2: Zur Anwendung vgl. \u00a7 39 Abs. 5 S 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE002806377",
+        "name": "\u00a7 20",
+        "title": "Abschlagszahlungen",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000404307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE002806377",
-        "type": "article",
-        "name": "\u00a7 20",
-        "title": "Abschlagszahlungen",
+        },
         "body": {
           "content": "<P>(1) Den anspruchsberechtigten Parteien sind Abschlagszahlungen auf den vom Pr\u00e4sidenten des Deutschen Bundestages festzusetzenden Betrag zu gew\u00e4hren. Berechnungsgrundlage sind die f\u00fcr das vorangegangene Jahr f\u00fcr jede Partei festgesetzten Mittel. Die Abschlagszahlungen sind zum 15. Februar, zum 15. Mai, zum 15. August und zum 15. November zu zahlen; sie d\u00fcrfen jeweils 25 vom Hundert der Gesamtsumme der f\u00fcr das Vorjahr f\u00fcr die jeweilige Partei festgesetzten Mittel nicht \u00fcberschreiten. Liegen Anhaltspunkte daf\u00fcr vor, dass es zu einer R\u00fcckzahlungsverpflichtung kommen k\u00f6nnte, kann die Gew\u00e4hrung von einer Sicherheitsleistung abh\u00e4ngig gemacht werden.</P><P>(2) Die Abschlagszahlungen sind von den Parteien unverz\u00fcglich zur\u00fcckzuzahlen, soweit sie den festgesetzten Betrag \u00fcberschreiten oder ein Anspruch nicht entstanden ist. Ergibt sich aus der Festsetzung eine \u00dcberzahlung, stellt der Pr\u00e4sident des Deutschen Bundestages den R\u00fcckforderungsanspruch mit dem die Festsetzung umfassenden Verwaltungsakt fest und verrechnet diesen Betrag unmittelbar.</P><P>(3) \u00a7 19a Abs. 6 gilt entsprechend.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE002906377",
+        "name": "\u00a7 21",
+        "title": "Bereitstellung von Bundesmitteln und Auszahlungsverfahren sowie\nPr\u00fcfung durch den Bundesrechnungshof",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000404307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE002906377",
-        "type": "article",
-        "name": "\u00a7 21",
-        "title": "Bereitstellung von Bundesmitteln und Auszahlungsverfahren sowie\nPr\u00fcfung durch den Bundesrechnungshof",
+        },
         "body": {
           "content": "<P>(1) Die Mittel nach den \u00a7\u00a7 18 und 20 werden im Falle des \u00a7 19a Abs. 6 Satz 1 von den L\u00e4ndern, im \u00fcbrigen vom Bund durch den Pr\u00e4sidenten des Deutschen Bundestages an die Parteien ausgezahlt. Der Pr\u00e4sident des Deutschen Bundestages teilt den L\u00e4ndern die auf die Landesverb\u00e4nde der Parteien entfallenden Betr\u00e4ge verbindlich mit.</P><P>(2) Der Bundesrechnungshof pr\u00fcft, ob der Pr\u00e4sident des Deutschen Bundestages als mittelverwaltende Stelle die staatlichen Mittel entsprechend den Vorschriften dieses Abschnitts festgesetzt und ausgezahlt hat, sowie die ordnungsgem\u00e4\u00dfe Durchf\u00fchrung der Verfahren gem\u00e4\u00df \u00a7 23a.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003006307",
+        "name": "\u00a7 22",
+        "title": "Parteiinterner Finanzausgleich",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000404307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003006307",
-        "type": "article",
-        "name": "\u00a7 22",
-        "title": "Parteiinterner Finanzausgleich",
+        },
         "body": {
           "content": "<P>Die Bundesverb\u00e4nde der Parteien haben f\u00fcr einen angemessenen Finanzausgleich f\u00fcr ihre Landesverb\u00e4nde Sorge zu tragen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR007730967BJNG000404307"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR007730967BJNG000804307",
         "type": "heading",
+        "id": "BJNR007730967BJNG000804307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Rechenschaftslegung",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR007730967BJNE003107377",
         "type": "article",
+        "id": "BJNR007730967BJNE003107377",
         "name": "\u00a7 23",
         "title": "Pflicht zur \u00f6ffentlichen Rechenschaftslegung",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007730967BJNG000804307"
+        },
         "body": {
           "content": "<P>(1) Der Vorstand der Partei hat \u00fcber die Herkunft und die Verwendung der Mittel sowie \u00fcber das Verm\u00f6gen der Partei zum Ende des Kalenderjahres (Rechnungsjahr) in einem Rechenschaftsbericht wahrheitsgem\u00e4\u00df und nach bestem Wissen und Gewissen \u00f6ffentlich Rechenschaft zu geben. Der Rechenschaftsbericht soll vor der Zuleitung an den Pr\u00e4sidenten des Deutschen Bundestages im Vorstand der Partei beraten werden. Der Bundesvorstand der Partei sowie die Vorst\u00e4nde der Landesverb\u00e4nde und die Vorst\u00e4nde der den Landesverb\u00e4nden vergleichbaren Gebietsverb\u00e4nde sind jeweils f\u00fcr ihre Rechenschaftslegung verantwortlich. Ihre Rechenschaftsberichte werden vom Vorsitzenden und einem vom Parteitag gew\u00e4hlten f\u00fcr die Finanzangelegenheiten zust\u00e4ndigen Vorstandsmitglied oder von einem f\u00fcr die Finanzangelegenheiten nach der Satzung zust\u00e4ndigen Gremium gew\u00e4hlten Vorstandsmitglied unterzeichnet. Diese f\u00fcr die Finanzangelegenheiten zust\u00e4ndigen Vorstandsmitglieder versichern mit ihrer Unterschrift, dass die Angaben in ihren Rechenschaftsberichten nach bestem Wissen und Gewissen wahrheitsgem\u00e4\u00df gemacht worden sind. Der Rechenschaftsbericht der Gesamtpartei wird von einem vom Parteitag gew\u00e4hlten f\u00fcr die Finanzangelegenheiten zust\u00e4ndigen Vorstandsmitglied des Bundesvorstandes oder von einem f\u00fcr die Finanzangelegenheiten nach der Satzung zust\u00e4ndigen Gremium gew\u00e4hlten Mitglied des Bundesvorstandes zusammengef\u00fcgt und unterzeichnet.</P><P>(2) Der Rechenschaftsbericht muss von einem Wirtschaftspr\u00fcfer oder einer Wirtschaftspr\u00fcfungsgesellschaft nach den Vorschriften der \u00a7\u00a7 29 bis 31 gepr\u00fcft werden. Bei Parteien, die die Voraussetzungen des \u00a7 18 Abs. 4 Satz 1 erster Halbsatz nicht erf\u00fcllen, kann der Rechenschaftsbericht auch von einem vereidigten Buchpr\u00fcfer oder einer Buchpr\u00fcfungsgesellschaft gepr\u00fcft werden. Er ist entsprechend der Frist nach \u00a7 19a Abs. 3 Satz 1 erster Halbsatz beim Pr\u00e4sidenten des Deutschen Bundestages einzureichen und von diesem als Bundestagsdrucksache zu verteilen. Erf\u00fcllt eine Partei die Voraussetzungen des \u00a7 18 Abs. 4 Satz 1 erster Halbsatz nicht und verf\u00fcgt sie im Rechnungsjahr weder \u00fcber Einnahmen noch \u00fcber ein Verm\u00f6gen von mehr als 5.000 Euro, kann sie bei dem Pr\u00e4sidenten des Deutschen Bundestages einen ungepr\u00fcften Rechenschaftsbericht einreichen. Der Pr\u00e4sident des Deutschen Bundestages kann untestiert eingereichte Rechenschaftsberichte ver\u00f6ffentlichen. Der Rechenschaftsbericht der Partei ist dem jeweils auf seine Ver\u00f6ffentlichung folgenden Bundesparteitag zur Er\u00f6rterung vorzulegen.</P><P>(3) Der Pr\u00e4sident des Deutschen Bundestages pr\u00fcft gem\u00e4\u00df \u00a7 23a, ob der Rechenschaftsbericht den Vorschriften des F\u00fcnften Abschnitts entspricht. Das Ergebnis der Pr\u00fcfung ist in dem Bericht nach Absatz 4 aufzunehmen.</P><P>(4) Der Pr\u00e4sident des Deutschen Bundestages erstattet dem Deutschen Bundestag alle zwei Jahre \u00fcber die Entwicklung der Parteienfinanzen sowie \u00fcber die Rechenschaftsberichte der Parteien Bericht. Zus\u00e4tzlich erstellt er vergleichende j\u00e4hrliche Kurz\u00fcbersichten \u00fcber die Einnahmen und Ausgaben sowie \u00fcber die Verm\u00f6gensverh\u00e4ltnisse der Parteien. Die Berichte werden als Bundestagsdrucksache verteilt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE005006377",
+        "name": "\u00a7 23a",
+        "title": "Pr\u00fcfung des Rechenschaftsberichts",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE005006377",
-        "type": "article",
-        "name": "\u00a7 23a",
-        "title": "Pr\u00fcfung des Rechenschaftsberichts",
+        },
         "body": {
           "content": "<P>(1) Der Pr\u00e4sident des Deutschen Bundestages pr\u00fcft den vorgelegten Rechenschaftsbericht auf formale und inhaltliche Richtigkeit. Er stellt fest, ob der Rechenschaftsbericht den Vorschriften des F\u00fcnften Abschnitts entspricht. Eine erneute Pr\u00fcfung ist nur vor Ablauf der in \u00a7 24 Abs. 2 bestimmten Frist zul\u00e4ssig.</P><P>(2) Liegen dem Pr\u00e4sidenten des Deutschen Bundestages konkrete Anhaltspunkte daf\u00fcr vor, dass im Rechenschaftsbericht einer Partei enthaltene Angaben unrichtig sind, gibt dieser der betroffenen Partei Gelegenheit zur Stellungnahme. Er kann von der Partei die Best\u00e4tigung der Richtigkeit ihrer Stellungnahme durch ihren Wirtschaftspr\u00fcfer oder ihre Wirtschaftspr\u00fcfungsgesellschaft, ihren vereidigten Buchpr\u00fcfer oder ihre Buchpr\u00fcfungsgesellschaft verlangen.</P><P>(3) R\u00e4umt die nach Absatz 2 verlangte Stellungnahme die dem Pr\u00e4sidenten des Deutschen Bundestages vorliegenden konkreten Anhaltspunkte f\u00fcr Unrichtigkeiten im Rechenschaftsbericht nicht aus, kann der Pr\u00e4sident des Deutschen Bundestages im Einvernehmen mit der Partei einen Wirtschaftspr\u00fcfer oder eine Wirtschaftspr\u00fcfungsgesellschaft seiner Wahl mit der Pr\u00fcfung beauftragen, ob der Rechenschaftsbericht der Partei den Vorschriften des F\u00fcnften Abschnitts entspricht. Die Partei hat dem vom Pr\u00e4sidenten des Deutschen Bundestages bestellten Wirtschaftspr\u00fcfer Zugang und Einsicht in die zur Pr\u00fcfung erforderlichen Unterlagen und Belege zu gew\u00e4hren. Die Kosten dieses Verfahrens tr\u00e4gt der Pr\u00e4sident des Deutschen Bundestages.</P><P>(4) Nach Abschluss des Verfahrens erl\u00e4sst der Pr\u00e4sident des Deutschen Bundestages einen Bescheid, in dem er gegebenenfalls Unrichtigkeiten des Rechenschaftsberichts feststellt und die H\u00f6he des den unrichtigen Angaben entsprechenden Betrages festsetzt. In dem Bescheid ist anzugeben, ob die Unrichtigkeit auf der Verletzung der Vorschriften \u00fcber die Einnahme- und Ausgaberechnung, der Verm\u00f6gensbilanz oder des Erl\u00e4uterungsteils (\u00a7 24 Abs. 7) beruht.</P><P>(5) Eine Partei, in deren Rechenschaftsbericht unrichtige Angaben enthalten sind, hat den Rechenschaftsbericht zu berichtigen und nach Entscheidung des Pr\u00e4sidenten des Deutschen Bundestages teilweise oder ganz neu abzugeben. Dieser ist von einem Wirtschaftspr\u00fcfer oder einer Wirtschaftspr\u00fcfungsgesellschaft, einem vereidigten Buchpr\u00fcfer oder einer Buchpr\u00fcfungsgesellschaft durch einen Vermerk zu best\u00e4tigen. \u00dcbersteigt der zu berichtigende Betrag im Einzelfall nicht 10.000 Euro und im Rechnungsjahr je Partei nicht 50.000 Euro, kann abweichend von den S\u00e4tzen 1 und 2 die Berichtigung im Rechenschaftsbericht f\u00fcr das folgende Jahr vorgenommen werden.</P><P>(6) Berichtigte Rechenschaftsberichte sind ganz oder teilweise als Bundestagsdrucksache zu ver\u00f6ffentlichen.</P><P>(7) Die im Rahmen dieses Verfahrens gewonnenen Erkenntnisse, die nicht die Rechnungslegung der Partei selbst betreffen, d\u00fcrfen nicht ver\u00f6ffentlicht oder anderen staatlichen Stellen der Bundesrepublik Deutschland zugeleitet werden. Sie m\u00fcssen vom Pr\u00e4sidenten nach Beendigung der Pr\u00fcfung unverz\u00fcglich vernichtet werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE005500377",
+        "name": "\u00a7 23b",
+        "title": "Anzeigepflicht bei Unrichtigkeiten im Rechenschaftsbericht",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE005500377",
-        "type": "article",
-        "name": "\u00a7 23b",
-        "title": "Anzeigepflicht bei Unrichtigkeiten im Rechenschaftsbericht",
+        },
         "body": {
           "content": "<P>(1) Erlangt eine Partei Kenntnis von Unrichtigkeiten in ihrem bereits frist- und formgerecht beim Pr\u00e4sidenten des Deutschen Bundestages eingereichten Rechenschaftsbericht, hat sie diese unverz\u00fcglich dem Pr\u00e4sidenten des Deutschen Bundestages schriftlich anzuzeigen.</P><P>(2) Bei einer von der Partei angezeigten Unrichtigkeit unterliegt die Partei nicht den Rechtsfolgen des \u00a7 31b oder des \u00a7 31c, wenn im Zeitpunkt des Eingangs der Anzeige konkrete Anhaltspunkte f\u00fcr diese unrichtigen Angaben \u00f6ffentlich nicht bekannt waren oder weder dem Pr\u00e4sidenten des Deutschen Bundestages vorgelegen haben noch in einem amtlichen Verfahren entdeckt waren und die Partei den Sachverhalt umfassend offen legt und korrigiert. Die zu Unrecht erlangten Finanzvorteile sind innerhalb einer vom Pr\u00e4sidenten des Deutschen Bundestages gesetzten Frist an diesen abzuf\u00fchren.</P><P>(3) \u00a7 23a Abs. 5 und 6 gilt entsprechend.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003211377",
+        "name": "\u00a7 24",
+        "title": "Rechenschaftsbericht",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003211377",
-        "type": "article",
-        "name": "\u00a7 24",
-        "title": "Rechenschaftsbericht",
+        },
         "body": {
           "content": "<P>(1) Der Rechenschaftsbericht besteht aus einer Ergebnisrechnung auf der Grundlage einer den Vorschriften dieses Gesetzes entsprechenden Einnahmen- und Ausgabenrechnung, einer damit verbundenen Verm\u00f6gensbilanz sowie einem Erl\u00e4uterungsteil. Er gibt unter Beachtung der Grunds\u00e4tze ordnungsm\u00e4\u00dfiger Buchf\u00fchrung entsprechend den tats\u00e4chlichen Verh\u00e4ltnissen Auskunft \u00fcber die Herkunft und Verwendung der Mittel sowie \u00fcber das Verm\u00f6gen der Partei.</P><P>(2) Die f\u00fcr alle Kaufleute geltenden handelsrechtlichen Vorschriften \u00fcber die Rechnungslegung, insbesondere zu Ansatz und Bewertung von Verm\u00f6gensgegenst\u00e4nden, sind entsprechend anzuwenden, soweit dieses Gesetz nichts anderes vorschreibt. Rechnungsunterlagen, B\u00fccher, Bilanzen und Rechenschaftsberichte sind zehn Jahre aufzubewahren. Die Aufbewahrungsfrist beginnt mit Ablauf des Rechnungsjahres.</P><P>(3) In den Rechenschaftsbericht der Gesamtpartei sind die Rechenschaftsberichte jeweils getrennt nach Bundesverband und Landesverband sowie die Rechenschaftsberichte der nachgeordneten Gebietsverb\u00e4nde je Landesverband aufzunehmen. Die Landesverb\u00e4nde und die ihnen nachgeordneten Gebietsverb\u00e4nde haben ihren Rechenschaftsberichten eine l\u00fcckenlose Aufstellung aller Zuwendungen je Zuwender mit Namen und Anschrift beizuf\u00fcgen. Der Bundesverband hat diese Aufstellungen zur Ermittlung der j\u00e4hrlichen Gesamth\u00f6he der Zuwendungen je Zuwender zusammenzufassen. Die Landesverb\u00e4nde haben die Teilberichte der ihnen nachgeordneten Gebietsverb\u00e4nde gesammelt bei ihren Rechenschaftsunterlagen aufzubewahren.</P><P>(4) Die Einnahmerechnung umfasst: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mitgliedsbeitr\u00e4ge,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mandatstr\u00e4gerbeitr\u00e4ge und \u00e4hnliche regelm\u00e4\u00dfige Beitr\u00e4ge,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden von nat\u00fcrlichen Personen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden von juristischen Personen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einnahmen aus Unternehmenst\u00e4tigkeit,</LA></DD><DT>5a.</DT><DD><LA>Einnahmen aus Beteiligungen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einnahmen aus sonstigem Verm\u00f6gen,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einnahmen aus Veranstaltungen, Vertrieb von Druckschriften und Ver\u00f6ffentlichungen und sonstiger mit Einnahmen verbundener T\u00e4tigkeit,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">staatliche Mittel,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Einnahmen,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zusch\u00fcsse von Gliederungen und</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesamteinnahmen nach den Nummern 1 bis 10.</LA></DD></DL></P><P>(5) Die Ausgaberechnung umfasst: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personalausgaben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sachausgaben<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">des laufenden Gesch\u00e4ftsbetriebes,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr allgemeine politische Arbeit,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Wahlk\u00e4mpfe,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Verm\u00f6gensverwaltung einschlie\u00dflich sich hieraus ergebender Zinsen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Zinsen,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>Ausgaben im Rahmen einer Unternehmenst\u00e4tigkeit,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Ausgaben,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zusch\u00fcsse an Gliederungen und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesamtausgaben nach den Nummern 1 bis 3.</LA></DD></DL></P><P>(6) Die Verm\u00f6gensbilanz umfasst: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Besitzposten:<DL Font=\"normal\" Type=\"arabic\"><DT>A.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlageverm\u00f6gen:<DL Font=\"normal\" Type=\"arabic\"><DT>I.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sachanlagen:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Haus- und Grundverm\u00f6gen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesch\u00e4ftsstellenausstattung,</LA></DD></DL></LA></DD><DT>II.</DT><DD Font=\"normal\"><LA Size=\"normal\">Finanzanlagen:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beteiligungen an Unternehmen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Finanzanlagen;</LA></DD></DL></LA></DD></DL></LA></DD><DT>B.</DT><DD Font=\"normal\"><LA Size=\"normal\">Umlaufverm\u00f6gen:<DL Font=\"normal\" Type=\"arabic\"><DT>I.</DT><DD Font=\"normal\"><LA Size=\"normal\">Forderungen an Gliederungen,</LA></DD><DT>II.</DT><DD Font=\"normal\"><LA Size=\"normal\">Forderungen aus der staatlichen Teilfinanzierung,</LA></DD><DT>III.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geldbest\u00e4nde,</LA></DD><DT>IV.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Verm\u00f6gensgegenst\u00e4nde;</LA></DD></DL></LA></DD><DT>C.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesamtbesitzposten (Summe aus A und B);</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schuldposten:<DL Font=\"normal\" Type=\"arabic\"><DT>A.</DT><DD Font=\"normal\"><LA Size=\"normal\">R\u00fcckstellungen:<DL Font=\"normal\" Type=\"arabic\"><DT>I.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pensionsverpflichtungen,</LA></DD><DT>II.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige R\u00fcckstellungen;</LA></DD></DL></LA></DD><DT>B.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verbindlichkeiten:<DL Font=\"normal\" Type=\"arabic\"><DT>I.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verbindlichkeiten gegen\u00fcber Gliederungen,</LA></DD><DT>II.</DT><DD Font=\"normal\"><LA Size=\"normal\">R\u00fcckzahlungsverpflichtungen aus der staatlichen Teilfinanzierung,</LA></DD><DT>III.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verbindlichkeiten gegen\u00fcber Kreditinstituten,</LA></DD><DT>IV.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verbindlichkeiten gegen\u00fcber sonstigen Darlehensgebern,</LA></DD><DT>V.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Verbindlichkeiten;</LA></DD></DL></LA></DD><DT>C.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesamte Schuldposten (Summe von A und B);</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Reinverm\u00f6gen (positiv oder negativ).</LA></DD></DL></P><P>(7) Der Verm\u00f6gensbilanz ist ein Erl\u00e4uterungsteil hinzuzuf\u00fcgen, der insbesondere folgende Punkte umfassen muss: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auflistung der Beteiligungen nach Absatz 6 Nr. 1 A II 1 sowie deren im Jahresabschluss aufgef\u00fchrten unmittelbaren und mittelbaren Beteiligungen, jeweils mit Name und Sitz sowie unter Angabe des Anteils und der H\u00f6he des Nominalkapitals; au\u00dferdem sind die H\u00f6he des Anteils am Kapital, das Eigenkapital und das Ergebnis des letzten Gesch\u00e4ftsjahres dieser Unternehmen anzugeben, f\u00fcr das ein Jahresabschluss vorliegt. Die im Jahresabschluss dieser Unternehmen aufgef\u00fchrten Beteiligungen sind mit den Angaben aus dem Jahresabschluss zu \u00fcbernehmen. Beteiligungen im Sinne dieses Gesetzes sind Anteile gem\u00e4\u00df \u00a7 271 Abs. 1 des Handelsgesetzbuchs;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Benennung der Hauptprodukte von Medienunternehmen, soweit Beteiligungen an diesen bestehen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Abstand von f\u00fcnf Jahren eine Bewertung des Haus- und Grundverm\u00f6gens und der Beteiligungen an Unternehmen nach dem Bewertungsgesetz (Haus- und Grundverm\u00f6gen nach \u00a7\u00a7 145 ff. des Bewertungsgesetzes).</LA></DD></DL></P><P>(8) Im Rechenschaftsbericht sind die Summe der Zuwendungen nat\u00fcrlicher Personen bis zu 3\u00a0300 Euro je Person sowie die Summe der Zuwendungen nat\u00fcrlicher Personen, soweit sie den Betrag von 3\u00a0300 Euro \u00fcbersteigen, gesondert auszuweisen.</P><P>(9) Dem Rechenschaftsbericht ist eine Zusammenfassung voranzustellen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einnahmen der Gesamtpartei gem\u00e4\u00df Absatz 4 Nr. 1 bis 9 und deren Summe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausgaben der Gesamtpartei gem\u00e4\u00df Absatz 5 Nr. 1 und 2 und deren Summe,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcberschuss- oder Defizitausweis,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Besitzposten der Gesamtpartei gem\u00e4\u00df Absatz 6 Nr. 1 A I und II und B II bis IV und deren Summe,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schuldposten der Gesamtpartei gem\u00e4\u00df Absatz 6 Nummer 2 A I und II und B II bis V und deren Summe,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Reinverm\u00f6gen der Gesamtpartei (positiv oder negativ),</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesamteinnahmen, Gesamtausgaben, \u00dcbersch\u00fcsse oder Defizite sowie Reinverm\u00f6gen der drei Gliederungsebenen Bundesverband, Landesverb\u00e4nde und der ihnen nachgeordneten Gebietsverb\u00e4nde.</LA></DD></DL>Neben den absoluten Betr\u00e4gen zu den Nummern 1 und 2 ist der Vomhundertsatz der Einnahmensumme nach Nummer 1 und der Ausgabensumme nach Nummer 2 auszuweisen. Zum Vergleich sind die Vorjahresbetr\u00e4ge anzugeben.</P><P>(10) Die Anzahl der Mitglieder zum 31. Dezember des Rechnungsjahres ist zu verzeichnen.</P><P>(11) Die Partei kann dem Rechenschaftsbericht zus\u00e4tzliche Erl\u00e4uterungen beif\u00fcgen.</P><P>(12) \u00d6ffentliche Zusch\u00fcsse, die den politischen Jugendorganisationen zweckgebunden zugewendet werden, bleiben bei der Ermittlung der absoluten Obergrenze unber\u00fccksichtigt. Sie sind im Rechenschaftsbericht der jeweiligen Partei nachrichtlich auszuweisen und bleiben bei der Einnahme- und Ausgaberechnung der Partei unber\u00fccksichtigt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003309377",
+        "name": "\u00a7 25",
+        "title": "Spenden",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003309377",
-        "type": "article",
-        "name": "\u00a7 25",
-        "title": "Spenden",
+        },
         "body": {
           "content": "<P>(1) Parteien sind berechtigt, Spenden anzunehmen. Bis zu einem Betrag von 1\u00a0000 Euro kann eine Spende mittels Bargeld erfolgen. Parteimitglieder, die Empf\u00e4nger von Spenden an die Partei sind, haben diese unverz\u00fcglich an ein f\u00fcr Finanzangelegenheiten von der Partei satzungsm\u00e4\u00dfig bestimmtes Vorstandsmitglied weiterzuleiten. Spenden sind von einer Partei erlangt, wenn sie in den Verf\u00fcgungsbereich eines f\u00fcr die Finanzangelegenheiten zust\u00e4ndigen Vorstandsmitglieds oder eines hauptamtlichen Mitarbeiters der Partei gelangt sind; unverz\u00fcglich nach ihrem Eingang an den Spender zur\u00fcckgeleitete Spenden gelten als nicht von der Partei erlangt.</P><P>(2) Von der Befugnis der Parteien, Spenden anzunehmen ausgeschlossen sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden von \u00f6ffentlich-rechtlichen K\u00f6rperschaften, Parlamentsfraktionen und -gruppen sowie von Fraktionen und Gruppen von kommunalen Vertretungen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden von politischen Stiftungen, K\u00f6rperschaften, Personenvereinigungen und Verm\u00f6gensmassen, die nach der Satzung, dem Stiftungsgesch\u00e4ft oder der sonstigen Verfassung und nach der tats\u00e4chlichen Gesch\u00e4ftsf\u00fchrung ausschlie\u00dflich und unmittelbar gemeinn\u00fctzigen, mildt\u00e4tigen oder kirchlichen Zwecken dienen (\u00a7\u00a7 51 bis 68 der Abgabenordnung);</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden von au\u00dferhalb des Geltungsbereiches dieses Gesetzes, es sei denn, dass<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">diese Spenden aus dem Verm\u00f6gen eines Deutschen im Sinne des Grundgesetzes, eines B\u00fcrgers der Europ\u00e4ischen Union oder eines Wirtschaftsunternehmens, dessen Anteile sich zu mehr als 50 vom Hundert im Eigentum von Deutschen im Sinne des Grundgesetzes oder eines B\u00fcrgers der Europ\u00e4ischen Union befinden oder dessen Hauptsitz in einem Mitgliedstaat der Europ\u00e4ischen Union ist, unmittelbar einer Partei zuflie\u00dfen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">es sich um Spenden an Parteien nationaler Minderheiten in ihrer angestammten Heimat handelt, die diesen aus Staaten zugewendet werden, die an die Bundesrepublik Deutschland angrenzen und in denen Angeh\u00f6rige ihrer Volkszugeh\u00f6rigkeit leben oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">es sich um eine Spende eines Ausl\u00e4nders von nicht mehr als 1\u00a0000 Euro handelt;</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden von Berufsverb\u00e4nden, die diesen mit der Ma\u00dfgabe zugewandt wurden, sie an eine politische Partei weiterzuleiten;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden von Unternehmen, die ganz oder teilweise im Eigentum der \u00f6ffentlichen Hand stehen oder die von ihr verwaltet oder betrieben werden, sofern die direkte Beteiligung der \u00f6ffentlichen Hand 25 vom Hundert \u00fcbersteigt;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden, soweit sie im Einzelfall mehr als 500 Euro betragen und deren Spender nicht feststellbar sind, oder bei denen es sich erkennbar um die Weiterleitung einer Spende eines nicht genannten Dritten handelt;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden, die der Partei erkennbar in Erwartung oder als Gegenleistung eines bestimmten wirtschaftlichen oder politischen Vorteils gew\u00e4hrt werden;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Spenden, die von einem Dritten gegen ein von der Partei zu zahlendes Entgelt eingeworben werden, das 25 vom Hundert des Wertes der eingeworbenen Spende \u00fcbersteigt.</LA></DD></DL></P><P>(3) Spenden, Mitgliedsbeitr\u00e4ge und Mandatstr\u00e4gerbeitr\u00e4ge an eine Partei oder einen oder mehrere ihrer Gebietsverb\u00e4nde, deren Gesamtwert in einem Kalenderjahr (Rechnungsjahr) 10\u00a0000 Euro \u00fcbersteigt, sind unter Angabe des Namens und der Anschrift des Zuwenders sowie der Gesamth\u00f6he der Zuwendung im Rechenschaftsbericht zu verzeichnen. Spenden, die im Einzelfall die H\u00f6he von 50\u00a0000 Euro \u00fcbersteigen, sind dem Pr\u00e4sidenten des Deutschen Bundestages unverz\u00fcglich anzuzeigen. Dieser ver\u00f6ffentlicht die Zuwendung unter Angabe des Zuwenders zeitnah als Bundestagsdrucksache.</P><P>(4) Nach Absatz 2 unzul\u00e4ssige Spenden sind von der Partei unverz\u00fcglich, sp\u00e4testens mit Einreichung des Rechenschaftsberichts f\u00fcr das betreffende Jahr (\u00a7 19a Abs. 3) an den Pr\u00e4sidenten des Deutschen Bundestages weiterzuleiten.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": "<P>(+++ \u00a7 25 Abs. 3 Satz 1: Zur Anwendung vgl. \u00a7 39 Abs. 5 S 3 +++)</P>",
+        "documentaryFootnotes": "<P>(+++ \u00a7 25 Abs. 3 Satz 1: Zur Anwendung vgl. \u00a7 39 Abs. 5 S 3 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003408377",
+        "name": "\u00a7 26",
+        "title": "Begriff der Einnahme",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003408377",
-        "type": "article",
-        "name": "\u00a7 26",
-        "title": "Begriff der Einnahme",
+        },
         "body": {
           "content": "<P>(1) Einnahme ist, soweit f\u00fcr einzelne Einnahmearten (\u00a7 24 Abs. 4) nichts besonderes gilt, jede von der Partei erlangte Geld- oder geldwerte Leistung. Als Einnahmen gelten auch die Freistellung von \u00fcblicherweise entstehenden Verbindlichkeiten, die \u00dcbernahme von Veranstaltungen und Ma\u00dfnahmen durch andere, mit denen ausdr\u00fccklich f\u00fcr eine Partei geworben wird, die Aufl\u00f6sung von R\u00fcckstellungen sowie Wertaufholungen im Anlageverm\u00f6gen.</P><P>(2) Alle Einnahmen sind mit ihrem vollen Betrag an der f\u00fcr sie vorgesehenen Stelle einzusetzen und in der Verm\u00f6gensbilanz zu ber\u00fccksichtigen.</P><P>(3) Wirtschaftsg\u00fcter, die nicht in Geld bestehen, sind mit den im gew\u00f6hnlichen Gesch\u00e4ftsverkehr f\u00fcr gleiche oder vergleichbare Leistungen \u00fcblicherweise zu zahlenden Preisen anzusetzen.</P><P>(4) Die ehrenamtliche Mitarbeit in Parteien erfolgt grunds\u00e4tzlich unentgeltlich. Sach-, Werk- und Dienstleistungen, die Parteien au\u00dferhalb eines Gesch\u00e4ftsbetriebes \u00fcblicherweise unentgeltlich zur Verf\u00fcgung gestellt werden, bleiben als Einnahmen unber\u00fccksichtigt. Ein Kostenersatz bleibt hiervon unber\u00fchrt.</P><P>(5) Beitr\u00e4ge und staatliche Mittel, die von vornherein f\u00fcr eine schl\u00fcsselm\u00e4\u00dfige Verteilung unter mehrere Gebietsverb\u00e4nde bestimmt sind, werden bei der Stelle ausgewiesen, bei der sie endg\u00fcltig verbleiben.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE006000377",
+        "name": "\u00a7 26a",
+        "title": "Begriff der Ausgabe",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE006000377",
-        "type": "article",
-        "name": "\u00a7 26a",
-        "title": "Begriff der Ausgabe",
+        },
         "body": {
           "content": "<P>(1) Ausgabe ist, soweit f\u00fcr einzelne Ausgabearten (\u00a7 24 Abs. 5) nichts Besonderes gilt, auch jede von der Partei erbrachte Geldleistung oder geldwerte Leistung sowie die Nutzung von Einnahmen nach \u00a7 26 Abs. 1 Satz 2, die die Partei erlangt hat. Als Ausgabe gelten auch planm\u00e4\u00dfige und au\u00dferplanm\u00e4\u00dfige Abschreibungen auf Verm\u00f6gensgegenst\u00e4nde und die Bildung von R\u00fcckstellungen.</P><P>(2) \u00a7 26 Abs. 2 gilt entsprechend.</P><P>(3) Verm\u00f6gensgegenst\u00e4nde sind zum Zeitpunkt einer Ver\u00e4u\u00dferung mit ihrem Buchwert als Ausgaben zu erfassen.</P><P>(4) Ausgaben aus der internen Verrechnung zwischen Gliederungen sind bei der Gliederung zu erfassen, von der sie wirtschaftlich getragen werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003508377",
+        "name": "\u00a7 27",
+        "title": "Einzelne Einnahmearten",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003508377",
-        "type": "article",
-        "name": "\u00a7 27",
-        "title": "Einzelne Einnahmearten",
+        },
         "body": {
           "content": "<P>(1) Mitgliedsbeitr\u00e4ge sind nur solche regelm\u00e4\u00dfigen Geldleistungen, die ein Mitglied auf Grund satzungsrechtlicher Vorschriften entrichtet. Mandatstr\u00e4gerbeitr\u00e4ge sind regelm\u00e4\u00dfige Geldleistungen, die ein Inhaber eines \u00f6ffentlichen Wahlamtes (Mandatstr\u00e4ger) \u00fcber seinen Mitgliedsbeitrag hinaus leistet. Spenden sind dar\u00fcber hinausgehende Zahlungen. Dazu geh\u00f6ren auch Sonderumlagen und Sammlungen sowie geldwerte Zuwendungen aller Art, sofern sie nicht \u00fcblicherweise unentgeltlich Parteien au\u00dferhalb eines Gesch\u00e4ftsbetriebes zur Verf\u00fcgung gestellt werden oder eine hierf\u00fcr dennoch vereinbarte Verg\u00fctung an die Partei zur\u00fcckgeleitet oder auf eine solche Verg\u00fctung verzichtet wird.</P><P>(2) Sonstige Einnahmen nach \u00a7 24 Abs. 4 Nr. 9 sind aufzugliedern und zu erl\u00e4utern, wenn sie bei einer der in \u00a7 24 Abs. 3 aufgef\u00fchrten Gliederungen mehr als 2 vom Hundert der Summe der Einnahmen nach \u00a7 24 Abs. 4 Nr. 1 bis 6 ausmachen. Dar\u00fcber hinaus sind Einnahmen, die im Einzelfall die Summe von 10.000 Euro \u00fcbersteigen, offen zu legen. Erbschaften und Verm\u00e4chtnisse sind unter Angabe ihrer H\u00f6he, des Namens und der letzten Anschrift des Erblassers im Rechenschaftsbericht zu verzeichnen, soweit der Gesamtwert 10.000 Euro \u00fcbersteigt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003607377",
+        "name": "\u00a7 28",
+        "title": "Verm\u00f6gensbilanz",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003607377",
-        "type": "article",
-        "name": "\u00a7 28",
-        "title": "Verm\u00f6gensbilanz",
+        },
         "body": {
           "content": "<P>(1) In der Verm\u00f6gensbilanz sind Verm\u00f6gensgegenst\u00e4nde mit einem Anschaffungswert von im Einzelfall mehr als 5.000 Euro (inklusive Umsatzsteuer) aufzuf\u00fchren.</P><P>(2) Verm\u00f6gensgegenst\u00e4nde sind mit den Anschaffungs- und Herstellungskosten vermindert um planm\u00e4\u00dfige Abschreibungen anzusetzen. Im Bereich des Haus- und Grundverm\u00f6gens erfolgen keine planm\u00e4\u00dfigen Abschreibungen.</P><P>(3) Gliederungen unterhalb der Landesverb\u00e4nde k\u00f6nnen Einnahmen und Ausgaben im Jahr des Zu- beziehungsweise Abflusses verbuchen, auch wenn die jeweiligen Forderungen beziehungsweise Verbindlichkeiten bereits im Vorjahr entstanden sind. Die \u00a7\u00a7 249 bis 251 des Handelsgesetzbuchs k\u00f6nnen f\u00fcr die Aufstellung der Rechenschaftsberichte dieser Gliederungen unbeachtet bleiben.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003705377",
+        "name": "\u00a7 29",
+        "title": "Pr\u00fcfung des Rechenschaftsberichts",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003705377",
-        "type": "article",
-        "name": "\u00a7 29",
-        "title": "Pr\u00fcfung des Rechenschaftsberichts",
+        },
         "body": {
           "content": "<P>(1) Die Pr\u00fcfung nach \u00a7 23 Abs. 2 Satz 1 erstreckt sich auf die Bundespartei, ihre Landesverb\u00e4nde sowie nach Wahl des Pr\u00fcfers auf mindestens zehn nachgeordnete Gebietsverb\u00e4nde. In die Pr\u00fcfung ist die Buchf\u00fchrung einzubeziehen. Die Pr\u00fcfung hat sich darauf zu erstrecken, ob die gesetzlichen Vorschriften beachtet worden sind. Die Pr\u00fcfung ist so anzulegen, dass Unrichtigkeiten und Verst\u00f6\u00dfe gegen die gesetzlichen Vorschriften bei gewissenhafter Berufsaus\u00fcbung erkannt werden.</P><P>(2) Der Pr\u00fcfer kann von den Vorst\u00e4nden und den von ihnen dazu erm\u00e4chtigten Personen alle Aufkl\u00e4rungen und Nachweise verlangen, welche die sorgf\u00e4ltige Erf\u00fcllung seiner Pr\u00fcfungspflicht erfordert. Es ist ihm insoweit auch zu gestatten, die Unterlagen f\u00fcr die Zusammenstellung des Rechenschaftsberichts, die B\u00fccher und Schriftst\u00fccke sowie die Kassen- und Verm\u00f6gensbest\u00e4nde zu pr\u00fcfen.</P><P>(3) Der Vorstand des zu pr\u00fcfenden Gebietsverbandes hat dem Pr\u00fcfer schriftlich zu versichern, da\u00df in dem Rechenschaftsbericht alle rechenschaftspflichtigen Einnahmen, Ausgaben und Verm\u00f6genswerte erfa\u00dft sind. Auf die Versicherung der Vorst\u00e4nde nachgeordneter Gebietsverb\u00e4nde kann Bezug genommen werden. Es gen\u00fcgt die Versicherung des f\u00fcr die Finanzangelegenheiten zust\u00e4ndigen Vorstandsmitgliedes.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003804377",
+        "name": "\u00a7 30",
+        "title": "Pr\u00fcfungsbericht und Pr\u00fcfungsvermerk",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003804377",
-        "type": "article",
-        "name": "\u00a7 30",
-        "title": "Pr\u00fcfungsbericht und Pr\u00fcfungsvermerk",
+        },
         "body": {
           "content": "<P>(1) Das Ergebnis der Pr\u00fcfung ist in einem schriftlichen Pr\u00fcfungsbericht niederzulegen, der dem Vorstand der Partei und dem Vorstand des gepr\u00fcften Gebietsverbandes zu \u00fcbergeben ist.</P><P>(2) Sind nach dem abschlie\u00dfenden Ergebnis der Pr\u00fcfung keine Einwendungen zu erheben, so hat der Pr\u00fcfer durch einen Vermerk zu best\u00e4tigen, da\u00df nach pflichtgem\u00e4\u00dfer Pr\u00fcfung auf Grund der B\u00fccher und Schriften der Partei sowie der von den Vorst\u00e4nden erteilten Aufkl\u00e4rungen und Nachweise der Rechenschaftsbericht in dem gepr\u00fcften Umfang (\u00a7 29 Abs. 1) den Vorschriften dieses Gesetzes entspricht. Sind Einwendungen zu erheben, so hat der Pr\u00fcfer in seinem Pr\u00fcfungsvermerk die Best\u00e4tigung zu versagen oder einzuschr\u00e4nken. Die gepr\u00fcften Gebietsverb\u00e4nde sind im Pr\u00fcfungsvermerk namhaft zu machen.</P><P>(3) Der Pr\u00fcfungsvermerk ist auf dem einzureichenden Rechenschaftsbericht anzubringen und in vollem Wortlaut nach \u00a7 23 Abs. 2 Satz 3 mit zu ver\u00f6ffentlichen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE003905377",
+        "name": "\u00a7 31",
+        "title": "Pr\u00fcfer",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000804307"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE003905377",
-        "type": "article",
-        "name": "\u00a7 31",
-        "title": "Pr\u00fcfer",
+        },
         "body": {
           "content": "<P>(1) Ein Wirtschaftspr\u00fcfer oder vereidigter Buchpr\u00fcfer darf nicht Pr\u00fcfer sein, wenn er <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Amt oder eine Funktion in der Partei oder f\u00fcr die Partei aus\u00fcbt, oder in den letzten drei Jahren ausge\u00fcbt hat;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der F\u00fchrung der B\u00fccher oder der Aufstellung des zu pr\u00fcfenden Rechenschaftsberichts \u00fcber die Pr\u00fcfungst\u00e4tigkeit hinaus mitgewirkt hat;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">gesetzlicher Vertreter, Arbeitnehmer, Mitglied des Aufsichtsrats oder Gesellschafter einer juristischen oder nat\u00fcrlichen Person oder einer Personengesellschaft oder Inhaber eines Unternehmens ist, sofern die juristische oder nat\u00fcrliche Person, die Personengesellschaft oder einer ihrer Gesellschafter oder das Einzelunternehmen nach Nummer 2 nicht Pr\u00fcfer der Partei sein darf;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Pr\u00fcfung eine Person besch\u00e4ftigt, die nach Nummer 1 bis 3 nicht Pr\u00fcfer sein darf.</LA></DD> </DL> </P><P>(2) Eine Wirtschaftspr\u00fcfungsgesellschaft oder Buchpr\u00fcfungsgesellschaft darf nicht Pr\u00fcfer sein, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie nach Absatz 1 Nr. 3 als Gesellschafter einer juristischen Person oder einer Personengesellschaft oder nach Absatz 1 Nr. 2 oder 4 nicht Pr\u00fcfer sein darf;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer ihrer gesetzlichen Vertreter oder einer ihrer Gesellschafter nach Absatz 1 Nr. 2 oder 3 nicht Pr\u00fcfer sein darf.</LA></DD> </DL> </P><P>(3) Die Pr\u00fcfer, ihre Gehilfen und die bei der Pr\u00fcfung mitwirkenden gesetzlichen Vertreter einer Pr\u00fcfungsgesellschaft sind zu gewissenhafter und unparteiischer Wahrnehmung ihrer Aufgaben und zur Verschwiegenheit verpflichtet. \u00a7 323 des Handelsgesetzbuchs gilt entsprechend.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR007730967BJNG000804307"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR007730967BJNG000900377",
         "type": "heading",
+        "id": "BJNR007730967BJNG000900377",
         "name": "Sechster Abschnitt",
         "title": "Verfahren bei unrichtigen\nRechenschaftsberichten sowie Strafvorschriften",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR007730967BJNE005600377",
         "type": "article",
+        "id": "BJNR007730967BJNE005600377",
         "name": "\u00a7 31a",
         "title": "R\u00fcckforderung der staatlichen Finanzierung",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007730967BJNG000900377"
+        },
         "body": {
           "content": "<P>(1) Soweit im Rechenschaftsbericht Zuwendungen (\u00a7 18 Abs. 3 Satz 1 Nr. 3) zu Unrecht ausgewiesen worden sind und dadurch der Betrag der der Partei zustehenden staatlichen Mittel unrichtig festgesetzt worden ist, nimmt der Pr\u00e4sident des Deutschen Bundestages die gem\u00e4\u00df \u00a7 19a Abs. 1 erfolgte Festsetzung der staatlichen Mittel zur\u00fcck. Dies gilt nicht, wenn die Berichtigung im Rechenschaftsbericht f\u00fcr das folgende Jahr erfolgt (\u00a7 23a Abs. 5 Satz 3). \u00a7 48 Abs. 2 des Verwaltungsverfahrensgesetzes findet keine Anwendung.</P><P>(2) Nach Ablauf der in \u00a7 24 Abs. 2 bestimmten Frist ist die R\u00fccknahme ausgeschlossen.</P><P>(3) Mit der R\u00fccknahme setzt der Pr\u00e4sident des Deutschen Bundestages den von der Partei zu erstattenden Betrag durch Verwaltungsakt fest. Ergibt sich im Zuge der weiteren staatlichen Finanzierung eine Verrechnungslage, ist der Unterschiedsbetrag mit der n\u00e4chsten Abschlagszahlung an die Partei zu verrechnen.</P><P>(4) Die Festsetzungen und Zahlungen an die \u00fcbrigen Parteien bleiben unver\u00e4ndert.</P><P>(5) Die Parteien sollen in die Satzungen Regelungen f\u00fcr den Fall aufnehmen, dass Ma\u00dfnahmen nach Absatz 1 durch Landesverb\u00e4nde oder diesen nachgeordnete Gebietsverb\u00e4nde verursacht werden.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE005800377",
+        "name": "\u00a7 31b",
+        "title": "Unrichtigkeit des Rechenschaftsberichts",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000900377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE005800377",
-        "type": "article",
-        "name": "\u00a7 31b",
-        "title": "Unrichtigkeit des Rechenschaftsberichts",
+        },
         "body": {
           "content": "<P>Stellt der Pr\u00e4sident des Deutschen Bundestages im Rahmen seiner Pr\u00fcfung nach \u00a7 23a Unrichtigkeiten im Rechenschaftsbericht fest, entsteht gegen die Partei ein Anspruch in H\u00f6he des Zweifachen des den unrichtigen Angaben entsprechenden Betrages, soweit kein Fall des \u00a7 31c vorliegt. Betreffen Unrichtigkeiten in der Verm\u00f6gensbilanz oder im Erl\u00e4uterungsteil das Haus- und Grundverm\u00f6gen oder Beteiligungen an Unternehmen, betr\u00e4gt der Anspruch 10 vom Hundert der nicht aufgef\u00fchrten oder der unrichtig angegebenen Verm\u00f6genswerte. Der Pr\u00e4sident stellt die Verpflichtung der Partei zur Zahlung des Betrages durch Verwaltungsakt fest. \u00a7 31a Abs. 2 bis 5 gilt entsprechend.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE005902377",
+        "name": "\u00a7 31c",
+        "title": "Rechtswidrig erlangte oder nicht ver\u00f6ffentlichte Spenden",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000900377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE005902377",
-        "type": "article",
-        "name": "\u00a7 31c",
-        "title": "Rechtswidrig erlangte oder nicht ver\u00f6ffentlichte Spenden",
+        },
         "body": {
           "content": "<P>Hat eine Partei Spenden unter Versto\u00df gegen \u00a7 25 Abs. 2 angenommen und nicht gem\u00e4\u00df \u00a7 25 Abs. 4 an den Pr\u00e4sidenten des Deutschen Bundestages weitergeleitet, entsteht gegen sie ein Anspruch in H\u00f6he des Dreifachen des rechtswidrig erlangten Betrages; bereits abgef\u00fchrte Spenden werden angerechnet. Hat eine Partei Spenden nicht den Vorschriften dieses Gesetzes entsprechend im Rechenschaftsbericht ver\u00f6ffentlicht (\u00a7 25 Abs. 3), entsteht gegen sie ein Anspruch in H\u00f6he des Zweifachen des nicht den Vorschriften dieses Gesetzes entsprechend ver\u00f6ffentlichten Betrages. Der Pr\u00e4sident stellt die Verpflichtung der Partei zur Zahlung des Betrages durch Verwaltungsakt fest. \u00a7 31a Abs. 2 bis 5 gilt entsprechend.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE005700377",
+        "name": "\u00a7 31d",
+        "title": "Strafvorschriften",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000900377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE005700377",
-        "type": "article",
-        "name": "\u00a7 31d",
-        "title": "Strafvorschriften",
+        },
         "body": {
           "content": "<P>(1) Wer in der Absicht, die Herkunft oder die Verwendung der Mittel der Partei oder des Verm\u00f6gens zu verschleiern oder die \u00f6ffentliche Rechenschaftslegung zu umgehen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">unrichtige Angaben \u00fcber die Einnahmen oder \u00fcber das Verm\u00f6gen der Partei in einem beim Pr\u00e4sidenten des Deutschen Bundestages eingereichten Rechenschaftsbericht bewirkt oder einen unrichtigen Rechenschaftsbericht beim Pr\u00e4sidenten des Deutschen Bundestages einreicht oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Empf\u00e4nger eine Spende in Teilbetr\u00e4ge zerlegt und verbucht oder verbuchen l\u00e4sst oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 25 Abs. 1 Satz 3 eine Spende nicht weiterleitet,</LA></DD> </DL>wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Nach Satz 1 wird nicht bestraft, wer unter den Voraussetzungen des \u00a7 23b Abs. 2 eine Selbstanzeige nach \u00a7 23b Abs. 1 f\u00fcr die Partei abgibt oder an der Abgabe mitwirkt.</P><P>(2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Pr\u00fcfer oder Gehilfe eines Pr\u00fcfers \u00fcber das Ergebnis der Pr\u00fcfung eines Rechenschaftsberichts unrichtig berichtet, im Pr\u00fcfungsbericht erhebliche Umst\u00e4nde verschweigt oder einen inhaltlich unrichtigen Best\u00e4tigungsvermerk erteilt. Handelt der T\u00e4ter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu sch\u00e4digen, so ist die Strafe Freiheitsstrafe bis zu f\u00fcnf Jahren oder Geldstrafe.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR007730967BJNG000900377"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR007730967BJNG000506377",
         "type": "heading",
+        "id": "BJNR007730967BJNG000506377",
         "name": "Siebter Abschnitt",
         "title": "Vollzug des Verbots\nverfassungswidriger Parteien",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR007730967BJNE004004311",
         "type": "article",
+        "id": "BJNR007730967BJNE004004311",
         "name": "\u00a7 32",
         "title": "Vollstreckung",
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007730967BJNG000506377"
+        },
         "body": {
           "content": "<P>(1) Wird eine Partei oder eine Teilorganisation einer Partei nach Artikel 21 Abs. 2 des Grundgesetzes f\u00fcr verfassungswidrig erkl\u00e4rt, so treffen die von den Landesregierungen bestimmten Beh\u00f6rden im Rahmen der Gesetze alle Ma\u00dfnahmen, die zur Vollstreckung des Urteils und etwaiger zus\u00e4tzlicher Vollstreckungsregelungen des Bundesverfassungsgerichts erforderlich sind. Die obersten Landesbeh\u00f6rden haben zu diesem Zweck unbeschr\u00e4nktes Weisungsrecht gegen\u00fcber den Beh\u00f6rden und Dienststellen des Landes, die f\u00fcr die Wahrung der \u00f6ffentlichen Sicherheit oder Ordnung zust\u00e4ndig sind.</P><P>(2) Erstreckt sich die Organisation oder die T\u00e4tigkeit der Partei oder des f\u00fcr verfassungswidrig erkl\u00e4rten Teils der Partei \u00fcber das Gebiet eines Landes hinaus, so trifft der Bundesminister des Innern, f\u00fcr Bau und Heimat die f\u00fcr eine einheitliche Vollstreckung erforderlichen Anordnungen.</P><P>(3) Das Bundesverfassungsgericht kann die Vollstreckung nach \u00a7 35 des Gesetzes \u00fcber das Bundesverfassungsgericht abweichend von den Vorschriften der Abs\u00e4tze 1 und 2 regeln.</P><P>(4) Widerspruch und Anfechtungsklage gegen Vollstreckungsma\u00dfnahmen haben keine aufschiebende Wirkung. Betrifft ein verwaltungsgerichtliches Verfahren eine Frage, die f\u00fcr die Vollstreckung des Urteils von grunds\u00e4tzlicher Bedeutung ist, so ist das Verfahren auszusetzen und die Entscheidung des Bundesverfassungsgerichts einzuholen. Das Bundesverfassungsgericht entscheidet auch \u00fcber Einwendungen gegen die Art und Weise der Durchf\u00fchrung der von ihm angeordneten besonderen Vollstreckungsma\u00dfnahmen.</P><P>(5) Im Falle der Verm\u00f6genseinziehung werden die \u00a7\u00a7 10 bis 13 des Vereinsgesetzes vom 5. August 1964 (BGBl. I S. 593) entsprechend angewendet. Verbotsbeh\u00f6rde ist die oberste Landesbeh\u00f6rde, im Fall des Absatzes 2 der Bundesminister des Innern, f\u00fcr Bau und Heimat.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE004103307",
+        "name": "\u00a7 33",
+        "title": "Verbot von Ersatzorganisationen",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000506377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE004103307",
-        "type": "article",
-        "name": "\u00a7 33",
-        "title": "Verbot von Ersatzorganisationen",
+        },
         "body": {
           "content": "<P>(1) Es ist verboten, Organisationen zu bilden, die verfassungswidrige Bestrebungen einer nach Artikel 21 Abs. 2 des Grundgesetzes in Verbindung mit \u00a7 46 des Gesetzes \u00fcber das Bundesverfassungsgericht verbotenen Partei an deren Stelle weiter verfolgen (Ersatzorganisation) oder bestehende Organisationen als Ersatzorganisationen fortzuf\u00fchren.</P><P>(2) Ist die Ersatzorganisation eine Partei, die bereits vor dem Verbot der urspr\u00fcnglichen Partei bestanden hat oder im Bundestag oder in einem Landtag vertreten ist, so stellt das Bundesverfassungsgericht fest, da\u00df es sich um eine verbotene Ersatzorganisation handelt; die \u00a7\u00a7 38, 41, 43, 44 und 46 Abs. 3 des Gesetzes \u00fcber das Bundesverfassungsgericht und \u00a7 32 dieses Gesetzes gelten entsprechend.</P><P>(3) Auf andere Parteien und auf Vereine im Sinne des \u00a7 2 des Vereinsgesetzes, die Ersatzorganisationen einer verbotenen Partei sind, wird \u00a7 8 Abs. 2 des Vereinsgesetzes entsprechend angewandt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR007730967BJNG000506377"
-        }
+        "documentaryFootnotes": null
       },
       {
-        "id": "BJNR007730967BJNG000606377",
         "type": "heading",
+        "id": "BJNR007730967BJNG000606377",
         "name": "Achter Abschnitt",
         "title": "Schlu\u00dfbestimmungen",
         "contentLevel": 0,
         "parent": null
       },
       {
-        "id": "BJNR007730967BJNE004203307",
         "type": "article",
+        "id": "BJNR007730967BJNE004203307",
         "name": "\u00a7 34",
         "title": null,
+        "contentLevel": 1,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007730967BJNG000606377"
+        },
         "body": {
           "content": "<P>(\u00c4nderung des Einkommensteuergesetzes)</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE005102307",
+        "name": "\u00a7 35",
+        "title": null,
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000606377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE005102307",
-        "type": "article",
-        "name": "\u00a7 35",
-        "title": null,
+        },
         "body": {
           "content": "<P>(\u00c4nderung des K\u00f6rperschaftsteuergesetzes)</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE005202307",
+        "name": "\u00a7 36",
+        "title": null,
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000606377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE005202307",
-        "type": "article",
-        "name": "\u00a7 36",
-        "title": null,
+        },
         "body": {
           "content": "<P>(Anwendung steuerrechtlicher Vorschriften)</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE004305377",
+        "name": "\u00a7 37",
+        "title": "Nichtanwendbarkeit einer Vorschrift des B\u00fcrgerlichen Gesetzbuchs",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000606377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE004305377",
-        "type": "article",
-        "name": "\u00a7 37",
-        "title": "Nichtanwendbarkeit einer Vorschrift des B\u00fcrgerlichen Gesetzbuchs",
+        },
         "body": {
           "content": "<P>\u00a7 54 Satz 2 des B\u00fcrgerlichen Gesetzbuchs wird bei Parteien nicht angewandt.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE004405377",
+        "name": "\u00a7 38",
+        "title": "Zwangsmittel",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000606377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE004405377",
-        "type": "article",
-        "name": "\u00a7 38",
-        "title": "Zwangsmittel",
+        },
         "body": {
           "content": "<P>(1) Der Bundeswahlleiter kann den Vorstand der Partei zur Vornahme der Handlungen nach \u00a7 6 Abs. 3 durch ein Zwangsgeld anhalten. Die Vorschriften des Verwaltungs-Vollstreckungsgesetzes gelten sinngem\u00e4\u00df; der Bundeswahlleiter handelt insoweit als Vollstreckungs- und Vollzugsbeh\u00f6rde. Die H\u00f6he des Zwangsgeldes betr\u00e4gt mindestens 250 Euro und h\u00f6chstens 1\u00a0500 Euro.</P><P>(2) Der Pr\u00e4sident des Deutschen Bundestages kann den Vorstand der Partei zur Einreichung eines Rechenschaftsberichts, der den Vorschriften des F\u00fcnften Abschnitts entspricht, durch ein Zwangsgeld anhalten. Die Vorschriften des Verwaltungs-Vollstreckungsgesetzes gelten sinngem\u00e4\u00df; der Pr\u00e4sident des Deutschen Bundestages handelt insoweit als Vollstreckungs- und Vollzugsbeh\u00f6rde. Die H\u00f6he des Zwangsgeldes betr\u00e4gt mindestens 500 Euro und h\u00f6chstens 10\u00a0000 Euro.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE004509377",
+        "name": "\u00a7 39",
+        "title": "Abschluss- und \u00dcbergangsregelungen",
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000606377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE004509377",
-        "type": "article",
-        "name": "\u00a7 39",
-        "title": "Abschluss- und \u00dcbergangsregelungen",
+        },
         "body": {
           "content": "<P>(1) Landesgesetzliche Regelungen auf der Grundlage des bis zum 1. Januar 1994 geltenden \u00a7 22 Satz 1 dieses Gesetzes haben keine Geltung mehr.</P><P>(2) F\u00fcr die Berechnung der staatlichen Mittel nach \u00a7 18 Abs. 3 Nr. 3 sowie f\u00fcr die Errechnung der relativen Obergrenze sind bei den Festsetzungen f\u00fcr die Jahre 2003 und 2004 der Ausweis der Zuwendungen in den Rechenschaftsberichten gem\u00e4\u00df \u00a7 24 Abs. 2 Nr. 1 und 2 dieses Gesetzes in der bis zum Ablauf des 31. Dezember 2002 geltenden Fassung zugrunde zu legen. Gleiches gilt f\u00fcr die Erstellung der Rechenschaftsberichte \u00fcber das Jahr 2002.</P><P>(3) \u00a7 23a Abs. 3 findet auf die Pr\u00fcfung von Rechenschaftsberichten ab dem Rechenschaftsjahr 2002 Anwendung. Rechenschaftsberichte f\u00fcr das Jahr 2003 k\u00f6nnen auf der Grundlage der \u00a7\u00a7 24, 26, 26a und 28 in ihrer ab 1. Januar 2004 geltenden Fassung erstellt werden.</P><P>(4) Sind bei der erstmaligen Anwendung des \u00a7 28 Abs. 2 in seiner ab 1. Januar 2003 geltenden Fassung die Anschaffungs- oder Herstellungskosten eines Verm\u00f6gensgegenstandes nicht ohne unverh\u00e4ltnism\u00e4\u00dfige Kosten oder Verz\u00f6gerungen feststellbar, so d\u00fcrfen die Buchwerte dieser Verm\u00f6gensgegenst\u00e4nde aus dem Rechenschaftsbericht f\u00fcr das Rechnungsjahr 2002 als urspr\u00fcngliche Anschaffungs- oder Herstellungskosten \u00fcbernommen und fortgef\u00fchrt werden. Dasselbe gilt f\u00fcr Verm\u00f6gensgegenst\u00e4nde, bei denen nach \u00a7 28 Abs. 2 keine planm\u00e4\u00dfigen Abschreibungen vorzunehmen sind, sofern die Buchwerte nach handelsrechtlichen Grundlagen ermittelt worden sind. Im Erl\u00e4uterungsteil ist hierauf hinzuweisen.</P><P>(5) \u00a7 2 Absatz 2 Satz 2 findet auf in der Frist des \u00a7 19a Absatz 3 Satz 1 und 2 einzureichende Rechenschaftsberichte ab dem Rechenschaftsjahr 2016 Anwendung. \u00a7 19a Absatz 4 Satz 2 findet auf in der Frist des \u00a7 19a Absatz 3 Satz 1 und 2 einzureichende Rechenschaftsberichte ab dem Rechenschaftsjahr 2015 Anwendung. F\u00fcr die Berechnung des Gesamtwertes der Zuwendungen nach \u00a7 25 Absatz 3 Satz 1 sind f\u00fcr das Rechenschaftsjahr 2015 Zuwendungen gem\u00e4\u00df \u00a7 25 Absatz 3 Satz 1 in der bis zum Ablauf des 31. Dezember 2015 geltenden Fassung zugrunde zu legen.</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE004607377",
+        "name": "\u00a7 40",
+        "title": null,
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000606377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE004607377",
-        "type": "article",
-        "name": "\u00a7 40",
-        "title": null,
+        },
         "body": {
           "content": "<P>(weggefallen)</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007730967BJNE004703307",
+        "name": "\u00a7 41",
+        "title": null,
         "contentLevel": 1,
         "parent": {
           "type": "heading",
           "id": "BJNR007730967BJNG000606377"
-        }
-      },
-      {
-        "id": "BJNR007730967BJNE004703307",
-        "type": "article",
-        "name": "\u00a7 41",
-        "title": null,
+        },
         "body": {
           "content": "<P>(Inkrafttreten)</P>",
           "footnotes": null
         },
-        "documentaryFootnotes": null,
-        "contentLevel": 1,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR007730967BJNG000606377"
-        }
+        "documentaryFootnotes": null
       }
     ]
   }
