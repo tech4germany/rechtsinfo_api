@@ -26,3 +26,19 @@ def test_happy_path(client, law):
 
     assert response.status_code == 200
     assert response.json() == example_json
+
+
+def test_law_not_found(client):
+    with mock.patch('rip_api.db.find_law_by_slug', return_value=None):
+        response = client.get('/laws/unknown_slug')
+
+    assert response.status_code == 404
+    assert response.json() == {
+        'errors': [
+            {
+                "code": 404,
+                "title":  "Resource not found",
+                "detail": "Could not find a law for this slug."
+            }
+        ]
+    }
