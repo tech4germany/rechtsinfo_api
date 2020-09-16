@@ -18,7 +18,7 @@ def law():
     return load_law_from_xml_fixture('skaufg')
 
 
-def test_happy_path(client, law):
+def test_law_happy_path(client, law):
     example_json = load_example_json('skaufg')
 
     with mock.patch('rip_api.db.find_law_by_slug', return_value=law):
@@ -39,6 +39,19 @@ def test_law_not_found(client):
                 "code": 404,
                 "title":  "Resource not found",
                 "detail": "Could not find a law for this slug."
+            }
+        ]
+    }
+
+def test_generic_http_error(client):
+    response = client.get('/foo')
+
+    assert response.status_code == 404
+    assert response.json() == {
+        'errors': [
+            {
+                "code": 404,
+                "title":  "Not Found",
             }
         ]
     }

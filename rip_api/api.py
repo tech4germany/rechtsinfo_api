@@ -1,5 +1,6 @@
 import fastapi
 from fastapi.middleware.gzip import GZipMiddleware
+import starlette
 
 from . import db
 from .api_schemas import LawResponse
@@ -15,18 +16,45 @@ class ApiException(Exception):
         self.detail = detail
 
 
-@app.exception_handler(ApiException)
-def exception_handler(request: fastapi.Request, exc: ApiException):
+def build_error_response(status_code, title, detail=None):
+    error = {
+        'code': status_code,
+        'title': title
+    }
+    if detail:
+        error['detail'] = detail
+
+
     return fastapi.responses.JSONResponse(
-        status_code=exc.status_code,
+        status_code=status_code,
         content={
-            'errors': [{
-                'code': exc.status_code,
-                'title': exc.title,
-                'detail': exc.detail
-            }]
+            'errors': [error]
         }
     )
+
+
+@app.exception_handler(ApiException)
+async def api_exception_handler(request: fastapi.Request, exc: ApiException):
+    return build_error_response(exc.status_code, exc.title, exc.detail)
+
+
+@app.exception_handler(Exception)
+async def generic_exception_handler(request: fastapi.Request, exc: Exception):
+    return build_error_response(
+        status_code=500,
+        title='Internal Server Error',
+        detail='Something went wrong while processing your request.'
+    )
+
+
+@app.exception_handler(starlette.exceptions.HTTPException)
+async def http_exception_handler(request: fastapi.Request, exc: starlette.exceptions.HTTPException):
+    response = build_error_response(status_code=exc.status_code, title=exc.detail)
+    headers = getattr(exc, "headers", None)
+    if headers:
+        response.init_headers(headers)
+
+    return response
 
 
 @app.get('/laws/{slug}', response_model=LawResponse)
