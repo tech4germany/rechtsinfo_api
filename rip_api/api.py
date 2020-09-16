@@ -1,9 +1,11 @@
 import fastapi
+from fastapi.middleware.gzip import GZipMiddleware
 
 from . import db
 from .api_schemas import LawResponse
 
 app = fastapi.FastAPI()
+app.add_middleware(GZipMiddleware)
 
 
 class ApiException(Exception):
