@@ -18,6 +18,7 @@ pytest-cov = "*"
 tqdm = "*"
 requests = "*"
 fastapi = "*"
+uvicorn = "*"
 
 [requires]
 python_version = "3.8"

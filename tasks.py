@@ -3,8 +3,9 @@ import os
 
 from invoke import task
 import tqdm
+import uvicorn
 
-from rip_api import gesetze_im_internet
+from rip_api import api, gesetze_im_internet
 from rip_api.db import session_scope
 
 
@@ -12,6 +13,9 @@ from rip_api.db import session_scope
     'data-dir': 'Path where to store downloaded law data'
 })
 def update_all_laws(c, data_dir):
+    """
+    Run the full import pipeline for gesetze-im-internet.de.
+    """
     with session_scope() as session:
         gesetze_im_internet.update_all(session, data_dir)
 
@@ -77,3 +81,9 @@ def generate_json_examples(c):
         'vgv', 'vvg_infov', 'vwvfg', 'waffg', 'wistrg_1954', 'wogg', 'zpo', 'zvg', 'zwvwv'
     ]:
         generate_json_example(c, law_abbr)
+
+
+@task
+def start_api_server_dev(c):
+    """Start API server in development mode."""
+    uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
