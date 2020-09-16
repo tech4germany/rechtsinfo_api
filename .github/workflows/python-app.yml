@@ -12,7 +12,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: python:3.8-alpine
+    container: python:3.8
 
     services:
       postgres:
