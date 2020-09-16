@@ -6,10 +6,7 @@ import pytest
 
 from rip_api import gesetze_im_internet
 from rip_api.db import session_scope
-
-tests_dir = os.path.join(os.path.dirname(__file__))
-example_json_dir = os.path.join(tests_dir, '..', 'example_json')
-xml_fixtures_dir = os.path.join(tests_dir, 'fixtures', 'gii_xml')
+from .utils import load_example_json, xml_fixtures_dir
 
 example_law_slugs = [
     'alg', 'ifsg', 'jfdg', 'skaufg'
@@ -21,8 +18,8 @@ def test_examples(slug):
     with session_scope() as session:
         gesetze_im_internet.ingest_law(session, xml_fixtures_dir, slug)
 
-    with open(os.path.join(example_json_dir, slug + '.json')) as f:
-        with session_scope() as session:
-            parsed = json.loads(gesetze_im_internet.law_json_from_slug(session, slug))
-        expected = json.load(f)
-        assert parsed == expected
+    with session_scope() as session:
+        parsed = json.loads(gesetze_im_internet.law_json_from_slug(session, slug))
+
+    expected = load_example_json(slug)
+    assert parsed == expected

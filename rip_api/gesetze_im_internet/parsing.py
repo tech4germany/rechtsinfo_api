@@ -1,3 +1,4 @@
+import glob
 import itertools
 
 from lxml import etree
@@ -33,7 +34,7 @@ def _parse_abbrs(norm):
 def _parse_publication_info(norm):
     elements = norm.xpath('metadaten/fundstelle')
     if not elements:
-        return None
+        return []
     return [
         {
             'periodical': _text(el.xpath('periodikum')),
@@ -46,7 +47,7 @@ def _parse_publication_info(norm):
 def _parse_status_info(norm):
     elements = norm.xpath('metadaten/standangabe')
     if not elements:
-        return None
+        return []
     return [
         {
             'category': _text(el.xpath('standtyp')),
@@ -240,3 +241,10 @@ def parse_law_xml_to_dict(path_to_xml_file):
 
     return law_attrs
 
+
+def parse_law(law_dir):
+    xml_files = glob.glob(f'{law_dir}/*.xml')
+    assert len(xml_files) == 1, f'Expected 1 XML file in {law_dir}, got {len(xml_files)}'
+
+    filepath = xml_files[0]
+    return parse_law_xml_to_dict(filepath)

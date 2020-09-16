@@ -1,11 +1,11 @@
 import glob
+import json
 import os
 
 import tqdm
 
-import rip_api.db
-from rip_api.models import law_to_api_json, Law
-from .parsing import parse_law_xml_to_dict
+from rip_api import api_schemas, db, models
+from .parsing import parse_law
 from .download import create_or_replace_law_dir, fetch_toc, has_update, remove_law_dir
 
 
@@ -18,7 +18,7 @@ def find_models_for_laws(session, slugs):
     removed = set()
     removed_slugs = set()
 
-    laws = rip_api.db.all_laws_load_only_gii_slug_and_source_timestamp(session)
+    laws = db.all_laws_load_only_gii_slug_and_source_timestamp(session)
 
     for law in laws:
         if law.gii_slug in slugs:
@@ -34,7 +34,7 @@ def find_models_for_laws(session, slugs):
 
 
 def _verify_db_and_data_dir_sync(session, data_dir):
-    db_slugs = { res[0] for res in rip_api.db.all_gii_slugs(session) }
+    db_slugs = { res[0] for res in db.all_gii_slugs(session) }
     data_dir_slugs = { path.split('/')[-2] for path in glob.glob(f'{data_dir}/*/') }
 
     difference = data_dir_slugs - db_slugs
@@ -76,20 +76,12 @@ def update_all(session, data_dir):
     _verify_db_and_data_dir_sync(session, data_dir)
 
 
-def parse_law(law_dir):
-    xml_files = glob.glob(f'{law_dir}/*.xml')
-    assert len(xml_files) == 1, f'Expected 1 XML file in {law_dir}, got {len(xml_files)}'
-
-    filepath = xml_files[0]
-    return parse_law_xml_to_dict(filepath)
-
-
 def ingest_law(session, data_dir, gii_slug):
     law_dir = os.path.join(data_dir, gii_slug)
     law_dict = parse_law(law_dir)
-    law = Law.from_dict(law_dict, gii_slug)
+    law = models.Law.from_dict(law_dict, gii_slug)
 
-    existing_law = rip_api.db.find_law_by_doknr(session, law.doknr)
+    existing_law = db.find_law_by_doknr(session, law.doknr)
     if existing_law:
         session.delete(existing_law)
         session.flush()
@@ -99,8 +91,12 @@ def ingest_law(session, data_dir, gii_slug):
 
 
 def law_json_from_slug(session, slug, pretty=False):
-    law = rip_api.db.find_law_by_slug(session, slug)
+    law = db.find_law_by_slug(session, slug)
     if not law:
         raise Exception(f'Could not find law by slug "{slug}". Has it been ingested yet?')
 
-    return law_to_api_json(law, pretty=pretty)
+    json_kwargs = {}
+    if pretty:
+        json_kwargs = {'indent': 2}
+
+    return api_schemas.LawResponse.from_law(law).json(**json_kwargs)

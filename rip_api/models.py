@@ -1,7 +1,5 @@
-import json
 import re
 
-import humps
 from sqlalchemy import Column, ForeignKey, Integer, String
 from sqlalchemy.dialects import postgresql
 from sqlalchemy.ext.declarative import declarative_base
@@ -83,49 +81,3 @@ class ContentItem(Base):
 
     law = relationship('Law', back_populates='contents')
     parent = relationship('ContentItem', remote_side=[id], uselist=False)
-
-
-def law_to_api_json(law, pretty=False):
-    json_kwargs = {}
-    if pretty:
-        json_kwargs = {'indent': 2}
-
-    law_dict = {
-        'data': {
-            'type': 'law',
-            'id': law.doknr,
-            'abbreviation': law.abbreviation,
-            'extraAbbreviations': law.extra_abbreviations,
-            'firstPublished': law.first_published,
-            'sourceTimestamp': law.source_timestamp,
-            'headingShort': law.heading_short,
-            'headingLong': law.heading_long,
-            'publicationInfo': law.publication_info,
-            'statusInfo': law.status_info,
-            'notes': humps.camelize(law.notes),
-            'contents': []
-        }
-    }
-
-    for item in law.contents:
-        item_dict = {
-            'id': item.doknr,
-            'type': humps.camelize(item.item_type),
-            'name': item.name,
-            'title': item.title
-        }
-
-        if item.item_type in ('article', 'heading_article'):
-            item_dict.update({
-                'body': item.body,
-                'documentaryFootnotes': item.documentary_footnotes
-            })
-
-        item_dict.update({
-            'contentLevel': item.content_level,
-            'parent': item.parent and { 'type': humps.camelize(item.parent.item_type), 'id': item.parent.doknr }
-        })
-
-        law_dict['data']['contents'].append(item_dict)
-
-    return json.dumps(law_dict, **json_kwargs)

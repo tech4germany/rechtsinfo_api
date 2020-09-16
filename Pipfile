@@ -17,6 +17,7 @@ psycopg2 = "*"
 pytest-cov = "*"
 tqdm = "*"
 requests = "*"
+fastapi = "*"
 
 [requires]
 python_version = "3.8"

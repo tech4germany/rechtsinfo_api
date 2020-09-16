@@ -1,6 +1,6 @@
 from unittest import mock
 
-from rip_api.gesetze_im_internet import parse_law_xml_to_dict
+from rip_api.gesetze_im_internet.parsing import parse_law_xml_to_dict
 
 
 def test_parser():
