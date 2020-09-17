@@ -130,3 +130,8 @@ dmypy.json
 
 # Editors/IDEs
 .vscode/
+
+# infrastructure tools and build artefacts
+.terraform
+lambda_deps.zip
+lambda_function.zip
