@@ -1,5 +1,6 @@
 import glob
 
+import boto3
 from invoke import task
 import tqdm
 import uvicorn
@@ -90,3 +91,22 @@ def generate_json_examples(c):
 def start_api_server_dev(c):
     """Start API server in development mode."""
     uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
+
+
+LAMBDA_ASSET_BUCKET = "2020-rechtsinfo-lambda-assets"
+
+
+@task
+def build_and_upload_lambda_deps_layer(c):
+    """Build and package all Python dependencies in a docker container and upload to S3."""
+    c.run("./build_lambda_deps_layer_zip.sh")
+    boto3.client("s3").upload_file("./lambda_deps.zip", LAMBDA_ASSET_BUCKET, "lambda_deps_layer.zip")
+    c.run("rm ./lambda_deps.zip")
+
+
+@task
+def build_and_upload_lambda_function(c):
+    """Create zip file containing application code and upload to S3."""
+    c.run("./build_lambda_function_zip.sh")
+    boto3.client("s3").upload_file("./lambda_function.zip", LAMBDA_ASSET_BUCKET, "lambda_function.zip")
+    c.run("rm ./lambda_function.zip")

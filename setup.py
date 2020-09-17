@@ -16,5 +16,5 @@ setup(
     author_email="niko.felger@gmail.com",
     url="https://github.com/tech4germany/rechtsinfo_api",
     license=license,
-    packages=find_packages(exclude=("tests", "docs")),
+    packages=find_packages(exclude=("tests", "docs", "example_json")),
 )
