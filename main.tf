@@ -12,6 +12,9 @@ provider "aws" {
   region  = "eu-central-1"
 }
 
+
+### Lambda ###
+
 # The main api lambda function, sitting behind API Gateway.
 resource "aws_lambda_function" "api" {
   function_name = "2020-rechtsinfo-Api"
@@ -47,7 +50,7 @@ resource "aws_lambda_layer_version" "deps_layer" {
   layer_name = "2020-rechtsinfo-lambda-deps"
 }
 
-# IAM Role allowing the lambda function to access AWS services.
+# Create IAM Role and allow Lambda to assume it.
 resource "aws_iam_role" "lambda_exec" {
   name = "2020-rechtsinfo-lambda-exec-role"
 
@@ -68,7 +71,16 @@ resource "aws_iam_role" "lambda_exec" {
 EOF
 }
 
-# API Gateway
+# Allow the role access to VPC.
+resource "aws_iam_policy_attachment" "default" {
+  name       = "2020-rechtsinfo-lambda-exec-role-vpc-access"
+  roles      = [aws_iam_role.lambda_exec.name]
+  policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+}
+
+
+### API Gateway ###
+
 resource "aws_api_gateway_rest_api" "api_gateway" {
   name        = "2020-rechtsinfo-api-gateway"
   description = "API Gateway for the RIP API"
@@ -138,6 +150,32 @@ resource "aws_lambda_permission" "apigw" {
   source_arn = "${aws_api_gateway_rest_api.api_gateway.execution_arn}/*/*"
 }
 
-output "base_url" {
+output "api_base_url" {
   value = aws_api_gateway_deployment.api.invoke_url
+}
+
+
+### RDS ###
+
+# Create parameter group, so that parameters can be changed later without recreating the DB instance.
+resource "aws_db_parameter_group" "default" {
+  name   = "2020-rechtsinfo-rds-pg"
+  family = "postgres12.3"
+}
+
+resource "aws_db_instance" "default" {
+  allocated_storage    = 20
+  engine               = "postgres"
+  engine_version       = "12.3"
+  instance_class       = "db.t3.small"
+  name                 = "2020-rechtsinfo"
+  username             = "rip"
+  password             = "NNfLV9~}8xe64ws4P4nt"
+  parameter_group_name = aws_db_parameter_group.default.name
+
+  apply_immediately = true
+}
+
+output "db_url" {
+  aws_db_instance.default.endpoint
 }
