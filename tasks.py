@@ -1,8 +1,5 @@
-import glob
-
 import boto3
 from invoke import task
-import tqdm
 import uvicorn
 
 from rip_api import gesetze_im_internet
@@ -11,26 +8,26 @@ from rip_api.db import session_scope
 
 @task(
     help={
-        "data-dir": "Path where to store downloaded law data"
+        "data-dir": "Where to store downloaded law data (local path or S3 prefix url)"
     }
 )
-def update_all_laws(c, data_dir):
+def download_laws(c, data_dir):
     """
-    Run the full import pipeline for gesetze-im-internet.de.
+    Check for updates to law zip files on gesetze-im-internet.de and download them.
     """
     with session_scope() as session:
-        gesetze_im_internet.update_all(session, data_dir)
+        gesetze_im_internet.download_laws(session, data_dir)
 
 
 @task(
     help={
-        "data-dir": "Path where law data has been downloaded",
+        "data-dir": "Where law data has been downloaded (local path or S3 prefix url)",
         "gii-slug": "The slug of the law you want to ingest (as used in gesetze-im-internet.de URLs)",
     }
 )
 def ingest_law(c, data_dir, gii_slug):
     """
-    Process a single law's directory and store it in the DB.
+    Process a single law's directory and store/update it in the DB.
     """
     with session_scope() as session:
         gesetze_im_internet.ingest_law(session, data_dir, gii_slug)
@@ -38,18 +35,28 @@ def ingest_law(c, data_dir, gii_slug):
 
 @task(
     help={
-       "data-dir": "Path where law data has been downloaded"
+       "data-dir": "Where law data has been downloaded (local path or S3 prefix url)"
     }
 )
 def ingest_data_dir(c, data_dir):
     """
-    Process a whole data directory of laws and store them in the DB.
+    Process downloaded laws and store/update them in the DB.
     """
     with session_scope() as session:
-        for law_dir in tqdm.tqdm(glob.glob(f"{data_dir}/*/")):
-            gii_slug = law_dir.split("/")[-2]
-            gesetze_im_internet.ingest_law(session, data_dir, gii_slug)
-            session.flush()
+        gesetze_im_internet.ingest_data_dir(session, data_dir)
+
+
+@task(
+    help={
+        "data-dir": "Where to store downloaded law data (local path or S3 prefix url)"
+    }
+)
+def update_all_laws(c, data_dir):
+    """
+    Run the full import pipeline for gesetze-im-internet.de.
+    """
+    download_laws(c, data_dir)
+    ingest_data_dir(c, data_dir)
 
 
 @task(
@@ -93,14 +100,11 @@ def start_api_server_dev(c):
     uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
 
 
-LAMBDA_ASSET_BUCKET = "fellows-2020-rechtsinfo-assets"
-
-
 @task
 def build_and_upload_lambda_deps_layer(c):
     """Build and package all Python dependencies in a docker container and upload to S3."""
     c.run("./build_lambda_deps_layer_zip.sh")
-    boto3.client("s3").upload_file("./lambda_deps.zip", LAMBDA_ASSET_BUCKET, "lambda_deps_layer.zip")
+    boto3.client("s3").upload_file("./lambda_deps.zip", gesetze_im_internet.ASSET_BUCKET, "lambda_deps_layer.zip")
     c.run("rm ./lambda_deps.zip")
 
 
@@ -108,5 +112,5 @@ def build_and_upload_lambda_deps_layer(c):
 def build_and_upload_lambda_function(c):
     """Create zip file containing application code and upload to S3."""
     c.run("./build_lambda_function_zip.sh")
-    boto3.client("s3").upload_file("./lambda_function.zip", LAMBDA_ASSET_BUCKET, "lambda_function.zip")
+    boto3.client("s3").upload_file("./lambda_function.zip", gesetze_im_internet.ASSET_BUCKET, "lambda_function.zip")
     c.run("rm ./lambda_function.zip")

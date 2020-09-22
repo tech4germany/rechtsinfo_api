@@ -39,3 +39,7 @@ def find_law_by_doknr(session, doknr):
 
 def find_law_by_slug(session, slug):
     return session.query(Law).filter_by(slug=slug).first()
+
+
+def bulk_delete_laws_by_gii_slug(session, gii_slugs):
+    Law.__table__.delete().where(Law.gii_slug.in_(gii_slugs))

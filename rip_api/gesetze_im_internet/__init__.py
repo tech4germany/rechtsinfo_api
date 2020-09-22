@@ -5,74 +5,85 @@ import tqdm
 
 from rip_api import api_schemas, db, models
 from .parsing import parse_law
-from .download import create_or_replace_law_dir, fetch_toc, has_update, remove_law_dir
+from .download import create_or_replace_law_dir, fetch_toc, has_update, remove_law_dir, read_law_dir_slugs_with_timestamps
 
 
-def find_models_for_laws(session, slugs):
-    slugs = set(slugs)
-
-    new_slugs = set()
-    existing = set()
-    existing_slugs = set()
-    removed = set()
-    removed_slugs = set()
-
-    laws = db.all_laws_load_only_gii_slug_and_source_timestamp(session)
-
-    for law in laws:
-        if law.gii_slug in slugs:
-            existing.add(law)
-            existing_slugs.add(law.gii_slug)
-        else:
-            removed.add(law)
-            removed_slugs.add(law.gii_slug)
-
-    new_slugs = slugs - existing_slugs - removed_slugs
-
-    return existing, removed, new_slugs
+ASSET_BUCKET = "fellows-2020-rechtsinfo-assets"
 
 
-def _verify_db_and_data_dir_sync(session, data_dir):
-    db_slugs = {res[0] for res in db.all_gii_slugs(session)}
-    data_dir_slugs = {path.split("/")[-2] for path in glob.glob(f"{data_dir}/*/")}
+def _calculate_diff(previous_slugs, current_slugs):
+    previous_slugs = set(previous_slugs)
+    current_slugs = set(current_slugs)
 
-    difference = data_dir_slugs - db_slugs
-    assert len(difference) == 0, f"Found left-over directories in data dir: {difference}"
-
-
-def update_all(session, data_dir):
-    print("Fetching toc.xml")
-    download_urls = fetch_toc()
-
-    existing, removed, new_slugs = find_models_for_laws(session, download_urls.keys())
+    new = current_slugs - previous_slugs
+    existing = previous_slugs.intersection(current_slugs)
+    removed = previous_slugs - current_slugs
 
     # Avoid accidentally deleting all law data directories in case of errors
     if len(removed) > 250:
         raise Exception(f"Dubious number of laws to remove ({len(removed)}) - aborting")
 
-    updated_slugs = set()
-    with tqdm.tqdm(total=len(existing), desc="Checking which laws have been updated") as pbar:
-        for law in existing:
-            if has_update(download_urls[law.gii_slug], law.source_timestamp):
-                updated_slugs.add(law.gii_slug)
+    return existing, new, removed
+
+
+def _check_for_updates(slugs, check_fn):
+    updated = set()
+    with tqdm.tqdm(total=len(slugs), desc="Checking which laws have been updated") as pbar:
+        for slug in slugs:
+            if check_fn(slug):
+                updated.add(slug)
+            pbar.update()
+    return updated
+
+
+def _add_or_replace(slugs, add_fn):
+    with tqdm.tqdm(total=len(slugs), desc="Adding new and updated laws") as pbar:
+        for slug in slugs:
+            add_fn(slug)
             pbar.update()
 
-    slugs_to_update = updated_slugs | new_slugs
-    with tqdm.tqdm(total=len(slugs_to_update), desc="Updating laws") as pbar:
-        for slug in slugs_to_update:
-            create_or_replace_law_dir(data_dir, slug, download_urls[slug])
-            ingest_law(session, data_dir, slug)
-            session.commit()
+
+def _delete_removed(slugs, delete_fn):
+    with tqdm.tqdm(total=len(slugs), desc="Deleting removed laws") as pbar:
+        for slug in slugs:
+            delete_fn(slug)
             pbar.update()
 
-    with tqdm.tqdm(total=len(removed), desc="Deleting removed laws") as pbar:
-        for law in removed:
-            remove_law_dir(data_dir, law.gii_slug)
-            session.delete(law)
-            session.commit()
-            pbar.update()
 
-    _verify_db_and_data_dir_sync(session, data_dir)
+def download_laws(session, data_dir):
+    print("Fetching toc.xml")
+    download_urls = fetch_toc()
+
+    laws_on_disk = read_law_dir_slugs_with_timestamps(data_dir)
+    existing, new, removed = _calculate_diff(laws_on_disk.keys(), download_urls.keys())
+
+    updated = _check_for_updates(existing, lambda slug: has_update(download_urls[slug], laws_on_disk[slug]))
+    new_or_updated = new.union(updated)
+
+    _add_or_replace(new_or_updated, lambda slug: create_or_replace_law_dir(data_dir, slug, download_urls[slug]))
+
+    _delete_removed(removed, lambda slug: remove_law_dir(data_dir, slug))
+
+
+def ingest_data_dir(session, data_dir):
+    laws_on_disk = read_law_dir_slugs_with_timestamps(data_dir)
+    laws_in_db = {
+        law.gii_slug: law.source_timestamp
+        for law in db.all_laws_load_only_gii_slug_and_source_timestamp()
+    }
+    existing, new, removed = _calculate_diff(laws_in_db.keys(), laws_on_disk.keys())
+
+    updated = _check_for_updates(existing, lambda slug: laws_on_disk[slug] > laws_in_db[slug])
+    new_or_updated = new.union(updated)
+
+    def add_fn(slug):
+        ingest_law(session, data_dir, slug)
+        session.commit()
+    _add_or_replace(new_or_updated, add_fn)
+
+    print("Deleting removed laws")
+    db.bulk_delete_laws_by_gii_slug(removed)
+    session.commit()
 
 
 def ingest_law(session, data_dir, gii_slug):
