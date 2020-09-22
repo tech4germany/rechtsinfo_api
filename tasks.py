@@ -93,7 +93,7 @@ def start_api_server_dev(c):
     uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
 
 
-LAMBDA_ASSET_BUCKET = "2020-rechtsinfo-lambda-assets"
+LAMBDA_ASSET_BUCKET = "fellows-2020-rechtsinfo-assets"
 
 
 @task

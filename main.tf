@@ -13,46 +13,91 @@ provider "aws" {
 }
 
 
+### S3 ###
+
+resource "aws_s3_bucket" "main" {
+  bucket = "fellows-2020-rechtsinfo-assets"
+}
+
+
+### VPC data ###
+
+resource "aws_default_vpc" "default" {
+}
+
+data "aws_subnet_ids" "default_vpc" {
+  vpc_id = aws_default_vpc.default.id
+  filter {
+    name   = "default-for-az"
+    values = ["true"]
+  }
+}
+
+
 ### Lambda ###
 
 # The main api lambda function, sitting behind API Gateway.
 resource "aws_lambda_function" "api" {
-  function_name = "2020-rechtsinfo-Api"
+  function_name = "fellows-2020-rechtsinfo-Api"
 
-  s3_bucket = "2020-rechtsinfo-lambda-assets"
-  s3_key    = "latest/lambda_function.zip"
+  s3_bucket = aws_s3_bucket.main.bucket
+  s3_key    = "lambda_function.zip"
 
   handler = "rip_api.lambda_handlers.api"
   runtime = "python3.8"
   layers  = [aws_lambda_layer_version.deps_layer.arn]
+  timeout = 30
 
   role = aws_iam_role.lambda_exec.arn
+
+  vpc_config {
+    subnet_ids         = data.aws_subnet_ids.default_vpc.ids
+    security_group_ids = ["${aws_default_vpc.default.default_security_group_id}"]
+  }
+
+  environment {
+    variables = {
+      DB_URI = "postgresql://${aws_db_instance.default.username}:${aws_db_instance.default.password}@${aws_db_instance.default.endpoint}/rechtsinfo"
+    }
+  }
 }
 
 # The update function, to be triggered by CloudWatch
 resource "aws_lambda_function" "update_data" {
-  function_name = "2020-rechtsinfo-UpdateData"
+  function_name = "fellows-2020-rechtsinfo-UpdateData"
 
-  s3_bucket = "2020-rechtsinfo-lambda-assets"
-  s3_key    = "latest/lambda_function.zip"
+  s3_bucket = aws_s3_bucket.main.bucket
+  s3_key    = "lambda_function.zip"
 
   handler = "rip_api.lambda_handlers.update_data"
   runtime = "python3.8"
   layers  = [aws_lambda_layer_version.deps_layer.arn]
+  timeout = 900
 
   role = aws_iam_role.lambda_exec.arn
+
+  vpc_config {
+    subnet_ids         = data.aws_subnet_ids.default_vpc.ids
+    security_group_ids = ["${aws_default_vpc.default.default_security_group_id}"]
+  }
+
+  environment {
+    variables = {
+      DB_URI = "postgresql://${aws_db_instance.default.username}:${aws_db_instance.default.password}@${aws_db_instance.default.endpoint}/rechtsinfo"
+    }
+  }
 }
 
 # Lambda layer with all Python dependencies.
 resource "aws_lambda_layer_version" "deps_layer" {
-  s3_bucket  = "2020-rechtsinfo-lambda-assets"
+  s3_bucket  = aws_s3_bucket.main.bucket
   s3_key     = "lambda_deps_layer.zip"
-  layer_name = "2020-rechtsinfo-lambda-deps"
+  layer_name = "fellows-2020-rechtsinfo-lambda-deps"
 }
 
 # Create IAM Role and allow Lambda to assume it.
 resource "aws_iam_role" "lambda_exec" {
-  name = "2020-rechtsinfo-lambda-exec-role"
+  name = "fellows-2020-rechtsinfo-lambda-exec-role"
 
   assume_role_policy = <<EOF
 {
@@ -71,18 +116,18 @@ resource "aws_iam_role" "lambda_exec" {
 EOF
 }
 
-# Allow the role access to VPC.
+# Allow the role access to VPC (and thereby RDS).
 resource "aws_iam_policy_attachment" "default" {
-  name       = "2020-rechtsinfo-lambda-exec-role-vpc-access"
+  name       = "fellows-2020-rechtsinfo-lambda-exec-role-vpc-access"
   roles      = [aws_iam_role.lambda_exec.name]
-  policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+  policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaVPCAccessExecutionRole"
 }
 
 
 ### API Gateway ###
 
 resource "aws_api_gateway_rest_api" "api_gateway" {
-  name        = "2020-rechtsinfo-api-gateway"
+  name        = "fellows-2020-rechtsinfo-api-gateway"
   description = "API Gateway for the RIP API"
 }
 
@@ -159,23 +204,40 @@ output "api_base_url" {
 
 # Create parameter group, so that parameters can be changed later without recreating the DB instance.
 resource "aws_db_parameter_group" "default" {
-  name   = "2020-rechtsinfo-rds-pg"
-  family = "postgres12.3"
+  name   = "fellows-2020-rechtsinfo-rds-pg"
+  family = "postgres12"
 }
 
 resource "aws_db_instance" "default" {
-  allocated_storage    = 20
-  engine               = "postgres"
-  engine_version       = "12.3"
-  instance_class       = "db.t3.small"
-  name                 = "2020-rechtsinfo"
-  username             = "rip"
-  password             = "NNfLV9~}8xe64ws4P4nt"
-  parameter_group_name = aws_db_parameter_group.default.name
+  allocated_storage      = 20
+  engine                 = "postgres"
+  engine_version         = "12.3"
+  instance_class         = "db.t3.small"
+  name                   = "rechtsinfo"
+  username               = "rip"
+  password               = "NNfLV9~}8xe64ws4P4nt"
+  parameter_group_name   = aws_db_parameter_group.default.name
+  vpc_security_group_ids = ["${aws_security_group.allow_db_access.id}"]
 
   apply_immediately = true
 }
 
+# Security group for the DB instance that allows access from the default VPC's
+# default security group.
+resource "aws_security_group" "allow_db_access" {
+  name        = "fellows-2020-rechtsinfo-allow-rds-access"
+  description = "Allow RDS access from the default SG"
+  vpc_id      = aws_default_vpc.default.id
+
+  ingress {
+    description     = "Postgres from the default SG"
+    from_port       = 5432
+    to_port         = 5432
+    protocol        = "tcp"
+    security_groups = ["${aws_default_vpc.default.default_security_group_id}"]
+  }
+}
+
 output "db_url" {
-  aws_db_instance.default.endpoint
+  value = aws_db_instance.default.endpoint
 }
