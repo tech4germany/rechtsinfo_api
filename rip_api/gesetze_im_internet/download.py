@@ -2,6 +2,7 @@ from email.utils import parsedate_to_datetime
 import glob
 from io import BytesIO
 import os
+import re
 import shutil
 from urllib.parse import urlparse
 import zipfile
@@ -100,7 +101,9 @@ class S3Location:
         # resolved to region specific urls. This causes the hanging of the Lambda function until
         # timeout."
         self.s3 = boto3.client(
-            "s3", "eu-central-1", config=botocore.config.Config(s3={"addressing_style": "path"})
+            "s3",
+            "eu-central-1",
+            config=botocore.config.Config(s3={"addressing_style": "path"}),
         )
 
         parsed_url = urlparse(location_string)
@@ -112,12 +115,18 @@ class S3Location:
     def _law_prefix(self, slug):
         return f"{self.key_prefix}{slug}/"
 
-    def _list_keys(self, prefix):
-        paginator = self.s3.get_paginator("list_objects").paginate(Bucket=self.bucket, Prefix=prefix)
-        keys = []
+    def _unpack_pagination(self, paginator, objects_key, element_key):
+        elements = []
         for page in paginator:
-            keys += [{"Key": obj["Key"]} for obj in page.get("Contents", [])]
-        return keys
+            objects = page.get(objects_key, [])
+            elements += [obj[element_key] for obj in objects]
+        return elements
+
+    def _list_keys(self, prefix):
+        paginator = self.s3.get_paginator("list_objects_v2").paginate(
+            Bucket=self.bucket, Prefix=prefix
+        )
+        return self._unpack_pagination(paginator, "Contents", "Key")
 
     def _upload_file(self, slug, name, body):
         prefix = self._law_prefix(slug)
@@ -134,7 +143,9 @@ class S3Location:
         keys = self._list_keys(prefix)
         if keys:
             # NB: `delete_objects` has a limit of 1000 keys, but we are not likely to run into that here.
-            self.s3.delete_objects(Bucket=self.bucket, Delete={"Objects": keys})
+            self.s3.delete_objects(
+                Bucket=self.bucket, Delete={"Objects": [{"Key": key} for key in keys]}
+            )
 
     def create_or_replace_law(self, slug, download_url):
         self.remove_law(slug)
@@ -148,33 +159,30 @@ class S3Location:
             self._upload_file(slug, filename, content_bytes)
 
         timestamp = _parse_last_modified_date_str(response)
-        self._upload_file(slug, ".timestamp", timestamp)
+        self._upload_file(slug, f".last_modified_{timestamp}", "")
 
     def list_slugs_with_timestamps(self):
-        slugs = []
-        paginated = self.s3.get_paginator("list_objects").paginate(Bucket=self.bucket, Prefix=self.key_prefix, Delimiter="/")
-
-        for page in paginated:
-            slugs += [
-                obj["Prefix"].split("/")[-2]
-                for obj in page.get("CommonPrefixes", [])
-            ]
-
+        slugs = set()
         slugs_with_timestamps = {}
 
+        all_keys = self._list_keys(self.key_prefix)
+        for key in all_keys:
+            split = key.split("/")
+            slug = split[2]
+            filename = split[3]
+            slugs.add(slug)
+            if re.match(r"last_modified_\d{8}", filename):
+                slugs_with_timestamps[slug] = filename[-8:]
+
         for slug in slugs:
-            try:
-                key = self._law_prefix(slug) + ".timestamp"
-                timestamp = self._fetch_file(key).getvalue().decode()
-            except botocore.exceptions.ClientError:
-                print(f"Warning: No .timestamp for {slug}")
-                timestamp = "00000000"
-            slugs_with_timestamps[slug] = timestamp
+            if slug not in slugs_with_timestamps:
+                print(f"Warning: No timestamp for {slug}")
+                slugs_with_timestamps[slug] = "00000000"
 
         return slugs_with_timestamps
 
     def xml_file_for(self, slug):
-        all_files = [obj["Key"] for obj in self._list_keys(self._law_prefix(slug))]
+        all_files = self._list_keys(self._law_prefix(slug))
         xml_files = [f for f in all_files if f.endswith(".xml")]
         assert len(xml_files) == 1, f"Expected 1 XML file for {slug}, got {len(xml_files)}"
 
