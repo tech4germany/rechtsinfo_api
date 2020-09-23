@@ -166,12 +166,13 @@ class S3Location:
         slugs_with_timestamps = {}
 
         all_keys = self._list_keys(self.key_prefix)
+
         for key in all_keys:
             split = key.split("/")
             slug = split[2]
             filename = split[3]
             slugs.add(slug)
-            if re.match(r"last_modified_\d{8}", filename):
+            if re.match(r"\.last_modified_\d{8}", filename):
                 slugs_with_timestamps[slug] = filename[-8:]
 
         for slug in slugs:
