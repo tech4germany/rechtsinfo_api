@@ -8,7 +8,10 @@ from .models import Base, Law
 
 _engine = create_engine(os.environ.get("DB_URI") or "postgresql://localhost:5432/rip_api")
 Session = sessionmaker(bind=_engine)
-Base.metadata.create_all(_engine)
+
+
+def init_db():
+    Base.metadata.create_all(_engine)
 
 
 @contextmanager

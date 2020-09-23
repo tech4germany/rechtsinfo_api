@@ -3,60 +3,60 @@ from invoke import task
 import uvicorn
 
 from rip_api import gesetze_im_internet
+from rip_api.gesetze_im_internet.download import location_from_string
 from rip_api.db import session_scope
 
 
 @task(
     help={
-        "data-dir": "Where to store downloaded law data (local path or S3 prefix url)"
+        "data-location": "Where to store downloaded law data (local path or S3 prefix url)"
     }
 )
-def download_laws(c, data_dir):
+def download_laws(c, data_location):
     """
     Check for updates to law zip files on gesetze-im-internet.de and download them.
     """
-    with session_scope() as session:
-        gesetze_im_internet.download_laws(session, data_dir)
+    gesetze_im_internet.download_laws(location_from_string(data_location))
 
 
 @task(
     help={
-        "data-dir": "Where law data has been downloaded (local path or S3 prefix url)",
+        "data-location": "Where law data has been downloaded (local path or S3 prefix url)",
         "gii-slug": "The slug of the law you want to ingest (as used in gesetze-im-internet.de URLs)",
     }
 )
-def ingest_law(c, data_dir, gii_slug):
+def ingest_law(c, data_location, gii_slug):
     """
     Process a single law's directory and store/update it in the DB.
     """
     with session_scope() as session:
-        gesetze_im_internet.ingest_law(session, data_dir, gii_slug)
+        gesetze_im_internet.ingest_law(session, location_from_string(data_location), gii_slug)
 
 
 @task(
     help={
-       "data-dir": "Where law data has been downloaded (local path or S3 prefix url)"
+       "data-location": "Where law data has been downloaded (local path or S3 prefix url)"
     }
 )
-def ingest_data_dir(c, data_dir):
+def ingest_data_from_location(c, data_location):
     """
     Process downloaded laws and store/update them in the DB.
     """
     with session_scope() as session:
-        gesetze_im_internet.ingest_data_dir(session, data_dir)
+        gesetze_im_internet.ingest_data_from_location(session, location_from_string(data_location))
 
 
 @task(
     help={
-        "data-dir": "Where to store downloaded law data (local path or S3 prefix url)"
+        "data-location": "Where to store downloaded law data (local path or S3 prefix url)"
     }
 )
-def update_all_laws(c, data_dir):
+def update_all_laws(c, data_location):
     """
     Run the full import pipeline for gesetze-im-internet.de.
     """
-    download_laws(c, data_dir)
-    ingest_data_dir(c, data_dir)
+    download_laws(c, data_location)
+    ingest_data_from_location(c, data_location)
 
 
 @task(

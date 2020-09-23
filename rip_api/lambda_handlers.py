@@ -5,14 +5,15 @@ from .api import app
 
 api = Mangum(app)
 
-DATA_DIR = f"s3://{gesetze_im_internet.ASSET_BUCKET}/downloads/gesetze_im_internet"
+DATA_LOCATION = f"s3://{gesetze_im_internet.ASSET_BUCKET}/downloads/gesetze_im_internet"
 
 
 def download_laws(event, context):
-    with db.session_scope() as session:
-        gesetze_im_internet.download_laws(session, DATA_DIR)
+    location = gesetze_im_internet.download.location_from_string(DATA_LOCATION)
+    gesetze_im_internet.download_laws(location)
 
 
-def ingest_data_dir(event, context):
+def ingest_laws(event, context):
     with db.session_scope() as session:
-        gesetze_im_internet.ingest_data_dir(session, DATA_DIR)
+        location = gesetze_im_internet.download.location_from_string(DATA_LOCATION)
+        gesetze_im_internet.ingest_data_from_location(session, location)

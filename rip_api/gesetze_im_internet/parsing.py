@@ -1,4 +1,3 @@
-import glob
 import itertools
 
 from lxml import etree
@@ -110,9 +109,12 @@ def _parse_footnotes(norm):
     return _parse_text_content(norm.xpath("textdaten/fussnoten/Content"))
 
 
-def load_norms_from_file(filepath):
-    with open(filepath) as f:
-        doc = etree.parse(f)
+def load_norms_from_file(file_or_filepath):
+    if hasattr(file_or_filepath, "read"):
+        doc = etree.parse(file_or_filepath)
+    else:
+        with open(file_or_filepath) as f:
+            doc = etree.parse(f)
 
     return doc.xpath("/dokumente/norm")
 
@@ -229,18 +231,10 @@ def extract_contents(body_norms):
     return content_items
 
 
-def parse_law_xml_to_dict(path_to_xml_file):
-    header_norm, *body_norms = load_norms_from_file(path_to_xml_file)
+def parse_law(file_or_filepath):
+    header_norm, *body_norms = load_norms_from_file(file_or_filepath)
 
     law_attrs = extract_law_attrs(header_norm)
     law_attrs["contents"] = extract_contents(body_norms)
 
     return law_attrs
-
-
-def parse_law(law_dir):
-    xml_files = glob.glob(f"{law_dir}/*.xml")
-    assert len(xml_files) == 1, f"Expected 1 XML file in {law_dir}, got {len(xml_files)}"
-
-    filepath = xml_files[0]
-    return parse_law_xml_to_dict(filepath)

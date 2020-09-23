@@ -1,11 +1,8 @@
-import glob
-import os
-
 import tqdm
 
 from rip_api import api_schemas, db, models
 from .parsing import parse_law
-from .download import create_or_replace_law_dir, fetch_toc, has_update, remove_law_dir, read_law_dir_slugs_with_timestamps
+from .download import fetch_toc, has_update
 
 
 ASSET_BUCKET = "fellows-2020-rechtsinfo-assets"
@@ -50,26 +47,28 @@ def _delete_removed(slugs, delete_fn):
             pbar.update()
 
 
-def download_laws(session, data_dir):
+def download_laws(location):
     print("Fetching toc.xml")
     download_urls = fetch_toc()
 
-    laws_on_disk = read_law_dir_slugs_with_timestamps(data_dir)
+    print("Loading timestamps")
+    laws_on_disk = location.list_slugs_with_timestamps()
     existing, new, removed = _calculate_diff(laws_on_disk.keys(), download_urls.keys())
 
     updated = _check_for_updates(existing, lambda slug: has_update(download_urls[slug], laws_on_disk[slug]))
     new_or_updated = new.union(updated)
 
-    _add_or_replace(new_or_updated, lambda slug: create_or_replace_law_dir(data_dir, slug, download_urls[slug]))
+    _add_or_replace(new_or_updated, lambda slug: location.create_or_replace_law(slug, download_urls[slug]))
 
-    _delete_removed(removed, lambda slug: remove_law_dir(data_dir, slug))
+    _delete_removed(removed, lambda slug: location.remove_law(slug))
 
 
-def ingest_data_dir(session, data_dir):
-    laws_on_disk = read_law_dir_slugs_with_timestamps(data_dir)
+def ingest_data_from_location(session, location):
+    print("Loading timestamps")
+    laws_on_disk = location.list_slugs_with_timestamps()
     laws_in_db = {
         law.gii_slug: law.source_timestamp
-        for law in db.all_laws_load_only_gii_slug_and_source_timestamp()
+        for law in db.all_laws_load_only_gii_slug_and_source_timestamp(session)
     }
     existing, new, removed = _calculate_diff(laws_in_db.keys(), laws_on_disk.keys())
 
@@ -77,18 +76,18 @@ def ingest_data_dir(session, data_dir):
     new_or_updated = new.union(updated)
 
     def add_fn(slug):
-        ingest_law(session, data_dir, slug)
+        ingest_law(session, location, slug)
         session.commit()
+
     _add_or_replace(new_or_updated, add_fn)
 
     print("Deleting removed laws")
-    db.bulk_delete_laws_by_gii_slug(removed)
+    db.bulk_delete_laws_by_gii_slug(session, removed)
     session.commit()
 
 
-def ingest_law(session, data_dir, gii_slug):
-    law_dir = os.path.join(data_dir, gii_slug)
-    law_dict = parse_law(law_dir)
+def ingest_law(session, location, gii_slug):
+    law_dict = parse_law(location.xml_file_for(gii_slug))
     law = models.Law.from_dict(law_dict, gii_slug)
 
     existing_law = db.find_law_by_doknr(session, law.doknr)
