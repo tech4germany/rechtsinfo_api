@@ -132,10 +132,21 @@ EOF
 }
 
 # Allow the role access to VPC (and thereby RDS).
-resource "aws_iam_policy_attachment" "default" {
-  name       = "fellows-2020-rechtsinfo-lambda-exec-role-vpc-access"
-  roles      = [aws_iam_role.lambda_exec.name]
+resource "aws_iam_role_policy_attachment" "rds-access" {
+  role       = aws_iam_role.lambda_exec.name
   policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaVPCAccessExecutionRole"
+}
+
+# Allow the role access to S3.
+resource "aws_iam_role_policy_attachment" "s3-access" {
+  role       = aws_iam_role.lambda_exec.name
+  policy_arn = "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+}
+
+# Allow the role to invoke Lambda functions.
+resource "aws_iam_role_policy_attachment" "lambda-access" {
+  role       = aws_iam_role.lambda_exec.name
+  policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaRole"
 }
 
 
