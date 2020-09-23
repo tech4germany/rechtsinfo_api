@@ -62,14 +62,29 @@ resource "aws_lambda_function" "api" {
   }
 }
 
-# The update function, to be triggered by CloudWatch
-resource "aws_lambda_function" "update_data" {
-  function_name = "fellows-2020-rechtsinfo-UpdateData"
+# Update function to download law data, triggered by CloudWatch
+resource "aws_lambda_function" "download_laws" {
+  function_name = "fellows-2020-rechtsinfo-DownloadLaws"
 
   s3_bucket = aws_s3_bucket.main.bucket
   s3_key    = "lambda_function.zip"
 
-  handler = "rip_api.lambda_handlers.update_data"
+  handler = "rip_api.lambda_handlers.download_laws"
+  runtime = "python3.8"
+  layers  = [aws_lambda_layer_version.deps_layer.arn]
+  timeout = 900
+
+  role = aws_iam_role.lambda_exec.arn
+}
+
+# Function to ingest downloaded laws, connected to the VPC for RDS access, triggered by the download function.
+resource "aws_lambda_function" "ingest_laws" {
+  function_name = "fellows-2020-rechtsinfo-IngestLaws"
+
+  s3_bucket = aws_s3_bucket.main.bucket
+  s3_key    = "lambda_function.zip"
+
+  handler = "rip_api.lambda_handlers.ingest_laws"
   runtime = "python3.8"
   layers  = [aws_lambda_layer_version.deps_layer.arn]
   timeout = 900
