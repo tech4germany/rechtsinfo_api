@@ -30,7 +30,7 @@ def _loop_with_progress(slugs, desc):
     if sys.stdout.isatty():
         pbar = tqdm.tqdm(total=len(slugs), desc=desc)
     else:
-        print(desc)
+        print(desc, '-', len(slugs))
 
     for slug in slugs:
         yield slug
