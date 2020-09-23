@@ -1,3 +1,5 @@
+import sys
+
 import tqdm
 
 from rip_api import api_schemas, db, models
@@ -23,28 +25,40 @@ def _calculate_diff(previous_slugs, current_slugs):
     return existing, new, removed
 
 
+def _loop_with_progress(slugs, desc):
+    pbar = None
+    if sys.stdout.isatty():
+        pbar = tqdm.tqdm(total=len(slugs), desc=desc)
+    else:
+        print(desc)
+
+    for slug in slugs:
+        yield slug
+        if pbar:
+            pbar.update()
+
+    if pbar:
+        pbar.close()
+
+
 def _check_for_updates(slugs, check_fn):
     updated = set()
-    with tqdm.tqdm(total=len(slugs), desc="Checking which laws have been updated") as pbar:
-        for slug in slugs:
-            if check_fn(slug):
-                updated.add(slug)
-            pbar.update()
+
+    for slug in _loop_with_progress(slugs, "Checking which laws have been updated"):
+        if check_fn(slug):
+            updated.add(slug)
+
     return updated
 
 
 def _add_or_replace(slugs, add_fn):
-    with tqdm.tqdm(total=len(slugs), desc="Adding new and updated laws") as pbar:
-        for slug in slugs:
-            add_fn(slug)
-            pbar.update()
+    for slug in _loop_with_progress(slugs, "Adding new and updated laws"):
+        add_fn(slug)
 
 
 def _delete_removed(slugs, delete_fn):
-    with tqdm.tqdm(total=len(slugs), desc="Deleting removed laws") as pbar:
-        for slug in slugs:
-            delete_fn(slug)
-            pbar.update()
+    for slug in _loop_with_progress(slugs, "Deleting removed laws"):
+        delete_fn(slug)
 
 
 def download_laws(location):
