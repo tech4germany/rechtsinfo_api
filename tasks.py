@@ -100,17 +100,41 @@ def start_api_server_dev(c):
     uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
 
 
+def update_lambda_fn(function_name, s3_key):
+    boto3.client("lambda").update_function_code(
+        FunctionName=function_name, S3Bucket=gesetze_im_internet.ASSET_BUCKET, S3Key=s3_key
+    )
+
+
 @task
 def build_and_upload_lambda_deps_layer(c):
     """Build and package all Python dependencies in a docker container and upload to S3."""
+    print("Warning! This will run `terraform apply`. Abort if this is not what you want!")
+    prompt = input("Proceed? [Y/n]")
+    if prompt.strip() in ('n', 'N'):
+        exit(1)
+
+    # Build local zip file.
     c.run("./build_lambda_deps_layer_zip.sh")
+    # Upload to s3.
     boto3.client("s3").upload_file("./lambda_deps.zip", gesetze_im_internet.ASSET_BUCKET, "lambda_deps_layer.zip")
+    # Rm local file.
     c.run("rm ./lambda_deps.zip")
+    # Use terraform to create new layer version (layers are immutable and can only be replaced, not updated).
+    c.run("terraform taint aws_lambda_layer_version.deps_layer")
+    c.run("terraform apply")
 
 
 @task
 def build_and_upload_lambda_function(c):
     """Create zip file containing application code and upload to S3."""
+    s3_key = "lambda_function.zip"
+    # Build local zip file.
     c.run("./build_lambda_function_zip.sh")
-    boto3.client("s3").upload_file("./lambda_function.zip", gesetze_im_internet.ASSET_BUCKET, "lambda_function.zip")
+    # Upload to s3.
+    boto3.client("s3").upload_file("./lambda_function.zip", gesetze_im_internet.ASSET_BUCKET, s3_key)
+    # Rm local file.
     c.run("rm ./lambda_function.zip")
+    # Update Lambda functions.
+    for fn in ("fellows-2020-rechtsinfo-Api", "fellows-2020-rechtsinfo-DownloadLaws", "fellows-2020-rechtsinfo-IngestLaws"):
+        update_lambda_fn(fn, s3_key)
