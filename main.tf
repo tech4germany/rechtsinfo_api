@@ -33,6 +33,13 @@ data "aws_subnet_ids" "default_vpc" {
   }
 }
 
+# Add VPC Endpoint for VPC-connected Lambdas to access S3
+resource "aws_vpc_endpoint" "s3" {
+  vpc_id          = aws_default_vpc.default.id
+  service_name    = "com.amazonaws.eu-central-1.s3"
+  route_table_ids = [aws_default_vpc.default.default_route_table_id]
+}
+
 
 ### Lambda ###
 
