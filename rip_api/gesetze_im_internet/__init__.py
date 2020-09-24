@@ -44,7 +44,7 @@ def _loop_with_progress(slugs, desc):
 def _check_for_updates(slugs, check_fn):
     updated = set()
 
-    for slug in _loop_with_progress(slugs, "Checking which laws have been updated"):
+    for slug in _loop_with_progress(slugs, "Checking existing laws for updates"):
         if check_fn(slug):
             updated.add(slug)
 
