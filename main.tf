@@ -54,6 +54,7 @@ resource "aws_lambda_function" "api" {
   runtime = "python3.8"
   layers  = [aws_lambda_layer_version.deps_layer.arn]
   timeout = 30
+  memory_size = 2048
 
   role = aws_iam_role.lambda_exec.arn
 
