@@ -91,10 +91,11 @@ resource "aws_lambda_function" "ingest_laws" {
   s3_bucket = aws_s3_bucket.main.bucket
   s3_key    = "lambda_function.zip"
 
-  handler = "rip_api.lambda_handlers.ingest_laws"
-  runtime = "python3.8"
-  layers  = [aws_lambda_layer_version.deps_layer.arn]
-  timeout = 900
+  handler     = "rip_api.lambda_handlers.ingest_laws"
+  runtime     = "python3.8"
+  layers      = [aws_lambda_layer_version.deps_layer.arn]
+  timeout     = 900
+  memory_size = 2048
 
   role = aws_iam_role.lambda_exec.arn
 
@@ -154,6 +155,25 @@ resource "aws_iam_role_policy_attachment" "s3-access" {
 resource "aws_iam_role_policy_attachment" "lambda-access" {
   role       = aws_iam_role.lambda_exec.name
   policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaRole"
+}
+
+# Schedule the update functions to run daily.
+resource "aws_cloudwatch_event_rule" "daily_import" {
+  name = "fellows-2020-rechtsinfo-daily-import"
+  schedule_expression = "cron(0 6 * * ? *)"
+}
+
+resource "aws_cloudwatch_event_target" "daily_import" {
+  rule = aws_cloudwatch_event_rule.daily_import.name
+  arn  = aws_lambda_function.download_laws.arn
+}
+
+# Allow lambda funtion to be triggered by CloudWatch Events.
+resource "aws_lambda_permission" "allow_cloudwatch_invoke" {
+  action        = "lambda:InvokeFunction"
+  function_name = aws_lambda_function.download_laws.function_name
+  principal     = "events.amazonaws.com"
+  source_arn    = aws_cloudwatch_event_rule.daily_import.arn
 }
 
 
