@@ -2,9 +2,8 @@ import boto3
 from invoke import task
 import uvicorn
 
-from rip_api import gesetze_im_internet
+from rip_api import db, gesetze_im_internet
 from rip_api.gesetze_im_internet.download import location_from_string
-from rip_api.db import session_scope
 
 
 @task(
@@ -29,7 +28,7 @@ def ingest_law(c, data_location, gii_slug):
     """
     Process a single law's directory and store/update it in the DB.
     """
-    with session_scope() as session:
+    with db.session_scope() as session:
         gesetze_im_internet.ingest_law(session, location_from_string(data_location), gii_slug)
 
 
@@ -42,7 +41,7 @@ def ingest_data_from_location(c, data_location):
     """
     Process downloaded laws and store/update them in the DB.
     """
-    with session_scope() as session:
+    with db.session_scope() as session:
         gesetze_im_internet.ingest_data_from_location(session, location_from_string(data_location))
 
 
@@ -68,11 +67,11 @@ def generate_json_example(c, law_abbr):
     """
     Generate JSON response for a single law and store it in the `example_json` directory.
     """
-    with session_scope() as session:
-        json = gesetze_im_internet.law_json_from_slug(session, law_abbr.lower(), pretty=True)
-
-    with open(f"example_json/{law_abbr.lower()}.json", "w") as f:
-        f.write(json + "\n")
+    with db.session_scope() as session:
+        law = db.find_law_by_slug(session, law_abbr)
+        if not law:
+            raise Exception(f'Could not find law by slug "{law_abbr}". Has it been ingested yet?')
+        gesetze_im_internet.write_law_json_file(session, law, "example_json")
 
 
 @task
@@ -92,6 +91,12 @@ def generate_json_examples(c):
         "wogg", "zpo", "zvg", "zwvwv"
     ]:
         generate_json_example(c, law_abbr)
+
+
+@task
+def generate_and_upload_bulk_law_files(c):
+    with db.session_scope() as session:
+        gesetze_im_internet.generate_and_upload_bulk_law_files(session)
 
 
 @task
@@ -117,7 +122,7 @@ def build_and_upload_lambda_deps_layer(c):
     # Build local zip file.
     c.run("./build_lambda_deps_layer_zip.sh")
     # Upload to s3.
-    boto3.client("s3").upload_file("./lambda_deps.zip", gesetze_im_internet.ASSET_BUCKET, "lambda_deps_layer.zip")
+    gesetze_im_internet.upload_file_to_s3("./lambda_deps.zip", "lambda_deps_layer.zip")
     # Rm local file.
     c.run("rm ./lambda_deps.zip")
     # Use terraform to create new layer version (layers are immutable and can only be replaced, not updated).
@@ -128,13 +133,14 @@ def build_and_upload_lambda_deps_layer(c):
 @task
 def build_and_upload_lambda_function(c):
     """Create zip file containing application code and upload to S3."""
-    s3_key = "lambda_function.zip"
+    function_s3_key = "lambda_function.zip"
+
     # Build local zip file.
     c.run("./build_lambda_function_zip.sh")
     # Upload to s3.
-    boto3.client("s3").upload_file("./lambda_function.zip", gesetze_im_internet.ASSET_BUCKET, s3_key)
+    gesetze_im_internet.upload_file_to_s3("./lambda_function.zip", function_s3_key)
     # Rm local file.
     c.run("rm ./lambda_function.zip")
     # Update Lambda functions.
     for fn in ("fellows-2020-rechtsinfo-Api", "fellows-2020-rechtsinfo-DownloadLaws", "fellows-2020-rechtsinfo-IngestLaws"):
-        update_lambda_fn(fn, s3_key)
+        update_lambda_fn(fn, function_s3_key)

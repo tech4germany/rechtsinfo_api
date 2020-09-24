@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from rip_api import db, gesetze_im_internet
+from rip_api import api_schemas, db, gesetze_im_internet
 from rip_api.gesetze_im_internet.download import location_from_string
 from .utils import load_example_json, xml_fixtures_dir
 
@@ -21,7 +21,8 @@ def test_examples(slug):
         gesetze_im_internet.ingest_law(session, data_location, slug)
 
     with db.session_scope() as session:
-        parsed = json.loads(gesetze_im_internet.law_json_from_slug(session, slug))
+        law = db.find_law_by_slug(session, slug)
+        parsed = json.loads(api_schemas.LawResponse.from_law(law).json(indent=2))
 
     expected = load_example_json(slug)
     assert parsed == expected

@@ -28,6 +28,10 @@ def session_scope():
         session.close()
 
 
+def all_laws(session):
+    return session.query(Law).all()
+
+
 def all_gii_slugs(session):
     return session.query(Law.gii_slug).all()
 

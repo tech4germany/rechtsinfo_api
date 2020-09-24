@@ -19,3 +19,4 @@ def ingest_laws(event, context):
     with db.session_scope() as session:
         location = gesetze_im_internet.download.location_from_string(DATA_LOCATION)
         gesetze_im_internet.ingest_data_from_location(session, location)
+        gesetze_im_internet.generate_and_upload_bulk_law_files(session)
