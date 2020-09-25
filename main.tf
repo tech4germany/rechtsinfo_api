@@ -12,11 +12,22 @@ provider "aws" {
   region  = "eu-central-1"
 }
 
+provider "aws" {
+  alias  = "cloudfront-acm-certs"
+  region = "us-east-1"
+}
 
 ### S3 ###
 
 resource "aws_s3_bucket" "main" {
   bucket = "fellows-2020-rechtsinfo-assets"
+}
+
+resource "aws_s3_bucket" "clickdummy_redirect" {
+  bucket = "clickdummy.rechtsinformationsportal.de"
+  website {
+    redirect_all_requests_to = "https://rechtsinformationsportal.webflow.io"
+  }
 }
 
 
@@ -50,10 +61,10 @@ resource "aws_lambda_function" "api" {
   s3_bucket = aws_s3_bucket.main.bucket
   s3_key    = "lambda_function.zip"
 
-  handler = "rip_api.lambda_handlers.api"
-  runtime = "python3.8"
-  layers  = [aws_lambda_layer_version.deps_layer.arn]
-  timeout = 30
+  handler     = "rip_api.lambda_handlers.api"
+  runtime     = "python3.8"
+  layers      = [aws_lambda_layer_version.deps_layer.arn]
+  timeout     = 30
   memory_size = 2048
 
   role = aws_iam_role.lambda_exec.arn
@@ -160,7 +171,7 @@ resource "aws_iam_role_policy_attachment" "lambda-access" {
 
 # Schedule the update functions to run daily.
 resource "aws_cloudwatch_event_rule" "daily_import" {
-  name = "fellows-2020-rechtsinfo-daily-import"
+  name                = "fellows-2020-rechtsinfo-daily-import"
   schedule_expression = "cron(0 6 * * ? *)"
 }
 
@@ -249,10 +260,6 @@ resource "aws_lambda_permission" "apigw" {
   source_arn = "${aws_api_gateway_rest_api.api_gateway.execution_arn}/*/*"
 }
 
-output "api_base_url" {
-  value = aws_api_gateway_deployment.api.invoke_url
-}
-
 
 ### RDS ###
 
@@ -292,6 +299,77 @@ resource "aws_security_group" "allow_db_access" {
   }
 }
 
-output "db_url" {
-  value = aws_db_instance.default.endpoint
+
+### DNS and related ###
+
+resource "aws_route53_zone" "rip" {
+  name = "rechtsinformationsportal.de"
+}
+
+resource "aws_route53_record" "clickdummy" {
+  name    = "clickdummy.rechtsinformationsportal.de"
+  zone_id = aws_route53_zone.rip.zone_id
+  type    = "A"
+
+  alias {
+    name                   = aws_s3_bucket.clickdummy_redirect.website_domain
+    zone_id                = aws_s3_bucket.clickdummy_redirect.hosted_zone_id
+    evaluate_target_health = false
+  }
+}
+
+resource "aws_api_gateway_domain_name" "api" {
+  domain_name     = "api.rechtsinformationsportal.de"
+  certificate_arn = aws_acm_certificate_validation.api.certificate_arn
+}
+
+resource "aws_api_gateway_base_path_mapping" "api" {
+  api_id      = aws_api_gateway_rest_api.api_gateway.id
+  stage_name  = aws_api_gateway_deployment.api.stage_name
+  domain_name = aws_api_gateway_domain_name.api.domain_name
+}
+
+resource "aws_route53_record" "api" {
+  name    = aws_api_gateway_domain_name.api.domain_name
+  zone_id = aws_route53_zone.rip.zone_id
+  type    = "A"
+
+  alias {
+    name                   = aws_api_gateway_domain_name.api.cloudfront_domain_name
+    zone_id                = aws_api_gateway_domain_name.api.cloudfront_zone_id
+    evaluate_target_health = true
+  }
+}
+
+
+### SSL certificates and validation ###
+
+resource "aws_acm_certificate" "api" {
+  # cf. https://github.com/terraform-providers/terraform-provider-aws/issues/5146
+  provider          = aws.cloudfront-acm-certs
+  domain_name       = "api.rechtsinformationsportal.de"
+  validation_method = "DNS"
+}
+
+resource "aws_route53_record" "api_cert_validation" {
+  for_each = {
+    for dvo in aws_acm_certificate.api.domain_validation_options : dvo.domain_name => {
+      name   = dvo.resource_record_name
+      record = dvo.resource_record_value
+      type   = dvo.resource_record_type
+    }
+  }
+
+  allow_overwrite = true
+  name            = each.value.name
+  records         = [each.value.record]
+  ttl             = 60
+  type            = each.value.type
+  zone_id         = aws_route53_zone.rip.zone_id
+}
+
+resource "aws_acm_certificate_validation" "api" {
+  provider                = aws.cloudfront-acm-certs
+  certificate_arn         = aws_acm_certificate.api.arn
+  validation_record_fqdns = [for record in aws_route53_record.api_cert_validation : record.fqdn]
 }
