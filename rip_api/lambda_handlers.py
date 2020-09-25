@@ -6,7 +6,7 @@ from .api import app
 
 api = Mangum(app)
 
-DATA_LOCATION = f"s3://{gesetze_im_internet.ASSET_BUCKET}/downloads/gesetze_im_internet"
+DATA_LOCATION = f"s3://{gesetze_im_internet.ASSET_BUCKET}/public/gesetze_im_internet"
 
 
 def download_laws(event, context):

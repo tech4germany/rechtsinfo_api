@@ -160,5 +160,5 @@ def generate_and_upload_bulk_law_files(session):
 
         print("Uploading")
         jsonfilename = f"{dir_path}/all_laws.json"
-        upload_file_to_s3(tarfilename, "all_laws.tar.gz")
-        upload_file_to_s3(jsonfilename, "all_laws.json")
+        upload_file_to_s3(tarfilename, "public/all_laws.tar.gz")
+        upload_file_to_s3(jsonfilename, "public/all_laws.json")

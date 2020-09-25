@@ -61,12 +61,12 @@ def read_law(slug: str):
 @app.get("/bulk_downloads/all_laws.json")
 async def bulk_download_laws_json():
     return fastapi.responses.RedirectResponse(
-        url="https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/all_laws.json",
+        url="https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/all_laws.json",
         status_code=302)
 
 
 @app.get("/bulk_downloads/all_laws.tar.gz")
 async def bulk_download_laws_json():
     return fastapi.responses.RedirectResponse(
-        url="https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/all_laws.tar.gz",
+        url="https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/all_laws.tar.gz",
         status_code=302)

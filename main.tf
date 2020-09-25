@@ -23,6 +23,26 @@ resource "aws_s3_bucket" "main" {
   bucket = "fellows-2020-rechtsinfo-assets"
 }
 
+# Allow public access to public/
+resource "aws_s3_bucket_policy" "main_public" {
+  bucket = aws_s3_bucket.main.id
+
+  policy = <<POLICY
+{
+  "Version":"2012-10-17",
+  "Statement":[
+    {
+      "Sid":"AddPerm",
+      "Effect":"Allow",
+      "Principal": "*",
+      "Action":["s3:GetObject"],
+      "Resource":["arn:aws:s3:::${aws_s3_bucket.main.bucket}/public/*"]
+      }
+  ]
+}
+POLICY
+}
+
 resource "aws_s3_bucket" "clickdummy_redirect" {
   bucket = "clickdummy.rechtsinformationsportal.de"
   website {
