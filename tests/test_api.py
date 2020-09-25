@@ -13,46 +13,64 @@ def client():
     return TestClient(api.app)
 
 
-@pytest.fixture(scope='module')
+@pytest.fixture(scope="module")
 def law():
-    return load_law_from_xml_fixture('skaufg')
+    return load_law_from_xml_fixture("skaufg")
 
 
-def test_law_happy_path(client, law):
-    example_json = load_example_json('skaufg')
+class TestGetLaw:
+    def test_law_happy_path(self, client, law):
+        example_json = load_example_json("skaufg")
 
-    with mock.patch('rip_api.db.find_law_by_slug', return_value=law):
-        response = client.get('/laws/skaufg')
+        with mock.patch("rip_api.db.find_law_by_slug", return_value=law):
+            response = client.get("/laws/skaufg")
 
-    assert response.status_code == 200
-    assert response.json() == example_json
+        assert response.status_code == 200
+        assert response.json() == example_json
+
+    def test_law_not_found(self, client):
+        with mock.patch("rip_api.db.find_law_by_slug", return_value=None):
+            response = client.get("/laws/unknown_slug")
+
+        assert response.status_code == 404
+        assert response.json() == {
+            "errors": [
+                {
+                    "code": 404,
+                    "title": "Resource not found",
+                    "detail": "Could not find a law for this slug."
+                }
+            ]
+        }
 
 
-def test_law_not_found(client):
-    with mock.patch('rip_api.db.find_law_by_slug', return_value=None):
-        response = client.get('/laws/unknown_slug')
+class TestBulkDownloads:
+    def test_get_all_laws_json(self, client):
+        response = client.get("/bulk_downloads/all_laws.json", allow_redirects=False)
 
-    assert response.status_code == 404
-    assert response.json() == {
-        'errors': [
-            {
-                "code": 404,
-                "title":  "Resource not found",
-                "detail": "Could not find a law for this slug."
-            }
-        ]
-    }
+        assert response.status_code == 302
+        location = response.headers["Location"]
+        assert "s3" in location
+        assert location.endswith("all_laws.json")
+
+    def test_get_all_laws_tarball(self, client):
+        response = client.get("/bulk_downloads/all_laws.tar.gz", allow_redirects=False)
+
+        assert response.status_code == 302
+        location = response.headers["Location"]
+        assert "s3" in location
+        assert location.endswith("all_laws.tar.gz")
 
 
 def test_generic_http_error(client):
-    response = client.get('/foo')
+    response = client.get("/foo")
 
     assert response.status_code == 404
     assert response.json() == {
-        'errors': [
+        "errors": [
             {
                 "code": 404,
-                "title":  "Not Found",
+                "title": "Not Found"
             }
         ]
     }
