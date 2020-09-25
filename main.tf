@@ -17,6 +17,7 @@ provider "aws" {
   region = "us-east-1"
 }
 
+
 ### S3 ###
 
 resource "aws_s3_bucket" "main" {
@@ -258,6 +259,12 @@ resource "aws_api_gateway_integration" "lambda_root" {
   uri                     = aws_lambda_function.api.invoke_arn
 }
 
+resource "aws_api_gateway_stage" "prod" {
+  stage_name    = "prod"
+  rest_api_id   = aws_api_gateway_rest_api.api_gateway.id
+  deployment_id = aws_api_gateway_deployment.api.id
+}
+
 resource "aws_api_gateway_deployment" "api" {
   depends_on = [
     aws_api_gateway_integration.lambda,
@@ -266,6 +273,10 @@ resource "aws_api_gateway_deployment" "api" {
 
   rest_api_id = aws_api_gateway_rest_api.api_gateway.id
   stage_name  = "prod"
+
+  lifecycle {
+    create_before_destroy = true
+  }
 }
 
 # Permission for the API Gateway to invoke the api Lambda function.
