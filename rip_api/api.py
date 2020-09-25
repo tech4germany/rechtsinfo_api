@@ -1,4 +1,5 @@
 import fastapi
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 import starlette
 
@@ -7,6 +8,7 @@ from .api_schemas import LawResponse
 
 app = fastapi.FastAPI()
 app.add_middleware(GZipMiddleware)
+app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 
 class ApiException(Exception):
