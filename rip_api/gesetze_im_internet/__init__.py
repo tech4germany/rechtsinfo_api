@@ -8,12 +8,9 @@ import tempfile
 import boto3
 import tqdm
 
-from rip_api import api_schemas, db, models
+from rip_api import ASSET_BUCKET, api_schemas, db, models
 from .parsing import parse_law
 from .download import fetch_toc, has_update
-
-
-ASSET_BUCKET = "fellows-2020-rechtsinfo-assets"
 
 
 def _calculate_diff(previous_slugs, current_slugs):
@@ -108,7 +105,9 @@ def ingest_data_from_location(session, location):
 
 def ingest_law(session, location, gii_slug):
     law_dict = parse_law(location.xml_file_for(gii_slug))
+    attachment_names = location.attachment_names(gii_slug)
     law = models.Law.from_dict(law_dict, gii_slug)
+    law.attachment_names = attachment_names
 
     existing_law = db.find_law_by_doknr(session, law.doknr)
     if existing_law:

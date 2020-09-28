@@ -93,6 +93,12 @@ class LocalPathLocation:
 
         return xml_files[0]
 
+    def attachment_names(self, slug):
+        law_dir = os.path.join(self.data_dir, slug)
+        all_files = glob.glob(f"{law_dir}/*")
+        attachments = [os.path.basename(path) for path in all_files if not path.endswith(".xml")]
+        return attachments
+
 
 class S3Location:
     def __init__(self, location_string):
@@ -188,3 +194,11 @@ class S3Location:
         assert len(xml_files) == 1, f"Expected 1 XML file for {slug}, got {len(xml_files)}"
 
         return self._fetch_file(xml_files[0])
+
+    def attachment_names(self, slug):
+        all_files = self._list_keys(self._law_prefix(slug))
+        attachments = [
+            os.path.basename(key) for key in all_files
+            if not os.path.basename(key).startswith(".") and not key.endswith(".xml")
+        ]
+        return attachments

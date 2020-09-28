@@ -3,6 +3,8 @@ from typing import List, Optional, Union
 import humps
 import pydantic
 
+from . import PUBLIC_ASSET_ROOT
+
 
 class TextBody(pydantic.BaseModel):
     content: Optional[str]
@@ -91,10 +93,16 @@ class Law(pydantic.BaseModel):
     publicationInfo: List[PublicationInfoItem]
     statusInfo: List[StatusInfoItem]
     notes: TextContent
+    attachments: dict
     contents: List[Union[Article, Heading, HeadingArticle]]
 
     @classmethod
     def from_law(cls, law):
+        attachments = {
+            name: f"{PUBLIC_ASSET_ROOT}/gesetze-im-internet/{law.gii_slug}/{name}"
+            for name in law.attachment_names
+        }
+
         return cls(
             id=law.doknr,
             abbreviation=law.abbreviation,
@@ -106,6 +114,7 @@ class Law(pydantic.BaseModel):
             publicationInfo=pydantic.parse_obj_as(List[PublicationInfoItem], law.publication_info),
             statusInfo=pydantic.parse_obj_as(List[StatusInfoItem], law.status_info),
             notes=TextContent(**humps.camelize(law.notes)),
+            attachments=attachments,
             contents=[content_item_from_db_model(ci) for ci in law.contents],
         )
 

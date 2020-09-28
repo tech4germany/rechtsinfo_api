@@ -5,7 +5,7 @@ import pytest
 from fastapi.testclient import TestClient
 
 from rip_api import api
-from .utils import load_example_json, load_law_from_xml_fixture
+from .utils import load_example_json, load_law_from_fixture
 
 
 @pytest.fixture
@@ -15,7 +15,7 @@ def client():
 
 @pytest.fixture(scope="module")
 def law():
-    return load_law_from_xml_fixture("skaufg")
+    return load_law_from_fixture("skaufg")
 
 
 class TestGetLaw:

@@ -6,7 +6,7 @@ from rip_api import api_schemas, db, gesetze_im_internet
 from rip_api.gesetze_im_internet.download import location_from_string
 from .utils import load_example_json, xml_fixtures_dir
 
-example_law_slugs = ["alg", "ifsg", "jfdg", "skaufg"]
+example_law_slugs = ["alg", "ifsg", "jfdg", "skaufg", "estg"]
 
 
 @pytest.fixture(autouse=True, scope="module")

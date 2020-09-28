@@ -2,7 +2,7 @@ import boto3
 from invoke import task
 import uvicorn
 
-from rip_api import db, gesetze_im_internet
+from rip_api import ASSET_BUCKET, db, gesetze_im_internet
 from rip_api.gesetze_im_internet.download import location_from_string
 
 
@@ -107,7 +107,7 @@ def start_api_server_dev(c):
 
 def update_lambda_fn(function_name, s3_key):
     boto3.client("lambda").update_function_code(
-        FunctionName=function_name, S3Bucket=gesetze_im_internet.ASSET_BUCKET, S3Key=s3_key
+        FunctionName=function_name, S3Bucket=ASSET_BUCKET, S3Key=s3_key
     )
 
 

@@ -36,6 +36,7 @@ class Law(Base):
     publication_info = Column(postgresql.JSONB, nullable=False)
     status_info = Column(postgresql.JSONB, nullable=False)
     notes = Column(postgresql.JSONB)
+    attachment_names = Column(postgresql.ARRAY(String), nullable=False)
 
     contents = relationship(
         "ContentItem",

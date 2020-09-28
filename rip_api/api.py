@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 import starlette
 
-from . import db
+from . import PUBLIC_ASSET_ROOT, db
 from .api_schemas import LawResponse
 
 app = fastapi.FastAPI()
@@ -63,12 +63,12 @@ def read_law(slug: str):
 @app.get("/bulk_downloads/all_laws.json.gz")
 async def bulk_download_laws_json():
     return fastapi.responses.RedirectResponse(
-        url="https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/all_laws.json.gz",
+        url=f"{PUBLIC_ASSET_ROOT}/all_laws.json.gz",
         status_code=302)
 
 
 @app.get("/bulk_downloads/all_laws.tar.gz")
-async def bulk_download_laws_json():
+async def bulk_download_laws_tarball():
     return fastapi.responses.RedirectResponse(
-        url="https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/all_laws.tar.gz",
+        url=f"{PUBLIC_ASSET_ROOT}/all_laws.tar.gz",
         status_code=302)

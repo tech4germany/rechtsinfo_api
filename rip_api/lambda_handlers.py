@@ -1,12 +1,12 @@
 import boto3
 from mangum import Mangum
 
-from . import db, gesetze_im_internet
+from . import ASSET_BUCKET, db, gesetze_im_internet
 from .api import app
 
 api = Mangum(app)
 
-DATA_LOCATION = f"s3://{gesetze_im_internet.ASSET_BUCKET}/public/gesetze_im_internet"
+DATA_LOCATION = f"s3://{ASSET_BUCKET}/public/gesetze_im_internet"
 
 
 def download_laws(event, context):
