@@ -95,7 +95,7 @@ class Law(pydantic.BaseModel):
     @classmethod
     def from_law(cls, law):
         attachments = {
-            name: f"{PUBLIC_ASSET_ROOT}/gesetze-im-internet/{law.gii_slug}/{name}"
+            name: f"{PUBLIC_ASSET_ROOT}/gesetze_im_internet/{law.gii_slug}/{name}"
             for name in law.attachment_names
         }
 
