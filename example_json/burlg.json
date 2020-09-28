@@ -6,8 +6,8 @@
     "extraAbbreviations": [],
     "firstPublished": "1963-01-08",
     "sourceTimestamp": "20160826215002",
-    "headingShort": "Bundesurlaubsgesetz",
-    "headingLong": "Mindesturlaubsgesetz f\u00fcr Arbeitnehmer",
+    "titleShort": "Bundesurlaubsgesetz",
+    "titleLong": "Mindesturlaubsgesetz f\u00fcr Arbeitnehmer",
     "publicationInfo": [
       {
         "reference": "1963, 2",
@@ -22,20 +22,19 @@
     ],
     "notes": {
       "body": null,
+      "footnotes": null,
       "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.11.1974 +++)<BR/>(+++ Zur Anwendung vgl. \u00a7 421a SGB 3 +++)<BR/>(+++ Ma\u00dfgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 20 <BR/>     G v. 6.6.1994 I 1170 mWv 1.1.1995 und Art. 109 Nr. 3 Buchst. a<BR/>     DBuchst. cc G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)<BR/><BR/></pre></P>"
     },
+    "attachments": {},
     "contents": [
       {
         "type": "article",
         "id": "BJNR000020963BJNE000100314",
         "name": "Eingangsformel",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
-          "footnotes": null
-        },
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -43,12 +42,9 @@
         "id": "BJNR000020963BJNE000200314",
         "name": "\u00a7 1",
         "title": "Urlaubsanspruch",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Jeder Arbeitnehmer hat in jedem Kalenderjahr Anspruch auf bezahlten Erholungsurlaub.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Jeder Arbeitnehmer hat in jedem Kalenderjahr Anspruch auf bezahlten Erholungsurlaub.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -56,12 +52,9 @@
         "id": "BJNR000020963BJNE000300314",
         "name": "\u00a7 2",
         "title": "Geltungsbereich",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Arbeitnehmer im Sinne des Gesetzes sind Arbeiter und Angestellte sowie die zu ihrer Berufsausbildung Besch\u00e4ftigten. Als Arbeitnehmer gelten auch Personen, die wegen ihrer wirtschaftlichen Unselbst\u00e4ndigkeit als arbeitnehmer\u00e4hnliche Personen anzusehen sind; f\u00fcr den Bereich der Heimarbeit gilt \u00a7 12.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Arbeitnehmer im Sinne des Gesetzes sind Arbeiter und Angestellte sowie die zu ihrer Berufsausbildung Besch\u00e4ftigten. Als Arbeitnehmer gelten auch Personen, die wegen ihrer wirtschaftlichen Unselbst\u00e4ndigkeit als arbeitnehmer\u00e4hnliche Personen anzusehen sind; f\u00fcr den Bereich der Heimarbeit gilt \u00a7 12.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -69,12 +62,9 @@
         "id": "BJNR000020963BJNE000401308",
         "name": "\u00a7 3",
         "title": "Dauer des Urlaubs",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Der Urlaub betr\u00e4gt j\u00e4hrlich mindestens 24 Werktage.</P><P>(2) Als Werktage gelten alle Kalendertage, die nicht Sonn- oder gesetzliche Feiertage sind.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Der Urlaub betr\u00e4gt j\u00e4hrlich mindestens 24 Werktage.</P><P>(2) Als Werktage gelten alle Kalendertage, die nicht Sonn- oder gesetzliche Feiertage sind.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -82,12 +72,9 @@
         "id": "BJNR000020963BJNE000500314",
         "name": "\u00a7 4",
         "title": "Wartezeit",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Der volle Urlaubsanspruch wird erstmalig nach sechsmonatigem Bestehen des Arbeitsverh\u00e4ltnisses erworben.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Der volle Urlaubsanspruch wird erstmalig nach sechsmonatigem Bestehen des Arbeitsverh\u00e4ltnisses erworben.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -95,12 +82,9 @@
         "id": "BJNR000020963BJNE000600314",
         "name": "\u00a7 5",
         "title": "Teilurlaub",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Anspruch auf ein Zw\u00f6lftel des Jahresurlaubs f\u00fcr jeden vollen Monat des Bestehens des Arbeitsverh\u00e4ltnisses hat der Arbeitnehmer <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Zeiten eines Kalenderjahrs, f\u00fcr die er wegen Nichterf\u00fcllung der Wartezeit in diesem Kalenderjahr keinen vollen Urlaubsanspruch erwirbt;</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn er vor erf\u00fcllter Wartezeit aus dem Arbeitsverh\u00e4ltnis ausscheidet;</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn er nach erf\u00fcllter Wartezeit in der ersten H\u00e4lfte eines Kalenderjahrs aus dem Arbeitsverh\u00e4ltnis ausscheidet.</LA></DD> </DL> </P><P>(2) Bruchteile von Urlaubstagen, die mindestens einen halben Tag ergeben, sind auf volle Urlaubstage aufzurunden.</P><P>(3) Hat der Arbeitnehmer im Falle des Absatzes 1 Buchstabe c bereits Urlaub \u00fcber den ihm zustehenden Umfang hinaus erhalten, so kann das daf\u00fcr gezahlte Urlaubsentgelt nicht zur\u00fcckgefordert werden.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Anspruch auf ein Zw\u00f6lftel des Jahresurlaubs f\u00fcr jeden vollen Monat des Bestehens des Arbeitsverh\u00e4ltnisses hat der Arbeitnehmer <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Zeiten eines Kalenderjahrs, f\u00fcr die er wegen Nichterf\u00fcllung der Wartezeit in diesem Kalenderjahr keinen vollen Urlaubsanspruch erwirbt;</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn er vor erf\u00fcllter Wartezeit aus dem Arbeitsverh\u00e4ltnis ausscheidet;</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn er nach erf\u00fcllter Wartezeit in der ersten H\u00e4lfte eines Kalenderjahrs aus dem Arbeitsverh\u00e4ltnis ausscheidet.</LA></DD> </DL> </P><P>(2) Bruchteile von Urlaubstagen, die mindestens einen halben Tag ergeben, sind auf volle Urlaubstage aufzurunden.</P><P>(3) Hat der Arbeitnehmer im Falle des Absatzes 1 Buchstabe c bereits Urlaub \u00fcber den ihm zustehenden Umfang hinaus erhalten, so kann das daf\u00fcr gezahlte Urlaubsentgelt nicht zur\u00fcckgefordert werden.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -108,12 +92,9 @@
         "id": "BJNR000020963BJNE000700314",
         "name": "\u00a7 6",
         "title": "Ausschlu\u00df von Doppelanspr\u00fcchen",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Der Anspruch auf Urlaub besteht nicht, soweit dem Arbeitnehmer f\u00fcr das laufende Kalenderjahr bereits von einem fr\u00fcheren Arbeitgeber Urlaub gew\u00e4hrt worden ist.</P><P>(2) Der Arbeitgeber ist verpflichtet, bei Beendigung des Arbeitsverh\u00e4ltnisses dem Arbeitnehmer eine Bescheinigung \u00fcber den im laufenden Kalenderjahr gew\u00e4hrten oder abgegoltenen Urlaub auszuh\u00e4ndigen.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Der Anspruch auf Urlaub besteht nicht, soweit dem Arbeitnehmer f\u00fcr das laufende Kalenderjahr bereits von einem fr\u00fcheren Arbeitgeber Urlaub gew\u00e4hrt worden ist.</P><P>(2) Der Arbeitgeber ist verpflichtet, bei Beendigung des Arbeitsverh\u00e4ltnisses dem Arbeitnehmer eine Bescheinigung \u00fcber den im laufenden Kalenderjahr gew\u00e4hrten oder abgegoltenen Urlaub auszuh\u00e4ndigen.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -121,12 +102,9 @@
         "id": "BJNR000020963BJNE000801308",
         "name": "\u00a7 7",
         "title": "Zeitpunkt, \u00dcbertragbarkeit und Abgeltung des Urlaubs",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Bei der zeitlichen Festlegung des Urlaubs sind die Urlaubsw\u00fcnsche des Arbeitnehmers zu ber\u00fccksichtigen, es sei denn, da\u00df ihrer Ber\u00fccksichtigung dringende betriebliche Belange oder Urlaubsw\u00fcnsche anderer Arbeitnehmer, die unter sozialen Gesichtspunkten den Vorrang verdienen, entgegenstehen. Der Urlaub ist zu gew\u00e4hren, wenn der Arbeitnehmer dies im Anschlu\u00df an eine Ma\u00dfnahme der medizinischen Vorsorge oder Rehabilitation verlangt.</P><P>(2) Der Urlaub ist zusammenh\u00e4ngend zu gew\u00e4hren, es sei denn, da\u00df dringende betriebliche oder in der Person des Arbeitnehmers liegende Gr\u00fcnde eine Teilung des Urlaubs erforderlich machen. Kann der Urlaub aus diesen Gr\u00fcnden nicht zusammenh\u00e4ngend gew\u00e4hrt werden, und hat der Arbeitnehmer Anspruch auf Urlaub von mehr als zw\u00f6lf Werktagen, so mu\u00df einer der Urlaubsteile mindestens zw\u00f6lf aufeinanderfolgende Werktage umfassen.</P><P>(3) Der Urlaub mu\u00df im laufenden Kalenderjahr gew\u00e4hrt und genommen werden. Eine \u00dcbertragung des Urlaubs auf das n\u00e4chste Kalenderjahr ist nur statthaft, wenn dringende betriebliche oder in der Person des Arbeitnehmers liegende Gr\u00fcnde dies rechtfertigen. Im Fall der \u00dcbertragung mu\u00df der Urlaub in den ersten drei Monaten des folgenden Kalenderjahrs gew\u00e4hrt und genommen werden. Auf Verlangen des Arbeitnehmers ist ein nach \u00a7 5 Abs. 1 Buchstabe a entstehender Teilurlaub jedoch auf das n\u00e4chste Kalenderjahr zu \u00fcbertragen.</P><P>(4) Kann der Urlaub wegen Beendigung des Arbeitsverh\u00e4ltnisses ganz oder teilweise nicht mehr gew\u00e4hrt werden, so ist er abzugelten.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Bei der zeitlichen Festlegung des Urlaubs sind die Urlaubsw\u00fcnsche des Arbeitnehmers zu ber\u00fccksichtigen, es sei denn, da\u00df ihrer Ber\u00fccksichtigung dringende betriebliche Belange oder Urlaubsw\u00fcnsche anderer Arbeitnehmer, die unter sozialen Gesichtspunkten den Vorrang verdienen, entgegenstehen. Der Urlaub ist zu gew\u00e4hren, wenn der Arbeitnehmer dies im Anschlu\u00df an eine Ma\u00dfnahme der medizinischen Vorsorge oder Rehabilitation verlangt.</P><P>(2) Der Urlaub ist zusammenh\u00e4ngend zu gew\u00e4hren, es sei denn, da\u00df dringende betriebliche oder in der Person des Arbeitnehmers liegende Gr\u00fcnde eine Teilung des Urlaubs erforderlich machen. Kann der Urlaub aus diesen Gr\u00fcnden nicht zusammenh\u00e4ngend gew\u00e4hrt werden, und hat der Arbeitnehmer Anspruch auf Urlaub von mehr als zw\u00f6lf Werktagen, so mu\u00df einer der Urlaubsteile mindestens zw\u00f6lf aufeinanderfolgende Werktage umfassen.</P><P>(3) Der Urlaub mu\u00df im laufenden Kalenderjahr gew\u00e4hrt und genommen werden. Eine \u00dcbertragung des Urlaubs auf das n\u00e4chste Kalenderjahr ist nur statthaft, wenn dringende betriebliche oder in der Person des Arbeitnehmers liegende Gr\u00fcnde dies rechtfertigen. Im Fall der \u00dcbertragung mu\u00df der Urlaub in den ersten drei Monaten des folgenden Kalenderjahrs gew\u00e4hrt und genommen werden. Auf Verlangen des Arbeitnehmers ist ein nach \u00a7 5 Abs. 1 Buchstabe a entstehender Teilurlaub jedoch auf das n\u00e4chste Kalenderjahr zu \u00fcbertragen.</P><P>(4) Kann der Urlaub wegen Beendigung des Arbeitsverh\u00e4ltnisses ganz oder teilweise nicht mehr gew\u00e4hrt werden, so ist er abzugelten.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -134,12 +112,9 @@
         "id": "BJNR000020963BJNE000900314",
         "name": "\u00a7 8",
         "title": "Erwerbst\u00e4tigkeit w\u00e4hrend des Urlaubs",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>W\u00e4hrend des Urlaubs darf der Arbeitnehmer keine dem Urlaubszweck widersprechende Erwerbst\u00e4tigkeit leisten.</P>",
-          "footnotes": null
-        },
+        "body": "<P>W\u00e4hrend des Urlaubs darf der Arbeitnehmer keine dem Urlaubszweck widersprechende Erwerbst\u00e4tigkeit leisten.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -147,12 +122,9 @@
         "id": "BJNR000020963BJNE001000314",
         "name": "\u00a7 9",
         "title": "Erkrankung w\u00e4hrend des Urlaubs",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Erkrankt ein Arbeitnehmer w\u00e4hrend des Urlaubs, so werden die durch \u00e4rztliches Zeugnis nachgewiesenen Tage der Arbeitsunf\u00e4higkeit auf den Jahresurlaub nicht angerechnet.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Erkrankt ein Arbeitnehmer w\u00e4hrend des Urlaubs, so werden die durch \u00e4rztliches Zeugnis nachgewiesenen Tage der Arbeitsunf\u00e4higkeit auf den Jahresurlaub nicht angerechnet.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -160,12 +132,9 @@
         "id": "BJNR000020963BJNE001103308",
         "name": "\u00a7 10",
         "title": "Ma\u00dfnahmen der medizinischen Vorsorge oder Rehabilitation",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Ma\u00dfnahmen der medizinischen Vorsorge oder Rehabilitation d\u00fcrfen nicht auf den Urlaub angerechnet werden, soweit ein Anspruch auf Fortzahlung des Arbeitsentgelts nach den gesetzlichen Vorschriften \u00fcber die Entgeltfortzahlung im Krankheitsfall besteht.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Ma\u00dfnahmen der medizinischen Vorsorge oder Rehabilitation d\u00fcrfen nicht auf den Urlaub angerechnet werden, soweit ein Anspruch auf Fortzahlung des Arbeitsentgelts nach den gesetzlichen Vorschriften \u00fcber die Entgeltfortzahlung im Krankheitsfall besteht.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -173,12 +142,9 @@
         "id": "BJNR000020963BJNE001201308",
         "name": "\u00a7 11",
         "title": "Urlaubsentgelt",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Das Urlaubsentgelt bemi\u00dft sich nach dem durchschnittlichen Arbeitsverdienst, das der Arbeitnehmer in den letzten dreizehn Wochen vor dem Beginn des Urlaubs erhalten hat, mit Ausnahme des zus\u00e4tzlich f\u00fcr \u00dcberstunden gezahlten Arbeitsverdienstes. Bei Verdiensterh\u00f6hungen nicht nur vor\u00fcbergehender Natur, die w\u00e4hrend des Berechnungszeitraums oder des Urlaubs eintreten, ist von dem erh\u00f6hten Verdienst auszugehen. Verdienstk\u00fcrzungen, die im Berechnungszeitraum infolge von Kurzarbeit, Arbeitsausf\u00e4llen oder unverschuldeter Arbeitsvers\u00e4umnis eintreten, bleiben f\u00fcr die Berechnung des Urlaubsentgelts au\u00dfer Betracht. Zum Arbeitsentgelt geh\u00f6rende Sachbez\u00fcge, die w\u00e4hrend des Urlaubs nicht weitergew\u00e4hrt werden, sind f\u00fcr die Dauer des Urlaubs angemessen in bar abzugelten.</P><P>(2) Das Urlaubsentgelt ist vor Antritt des Urlaubs auszuzahlen.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Das Urlaubsentgelt bemi\u00dft sich nach dem durchschnittlichen Arbeitsverdienst, das der Arbeitnehmer in den letzten dreizehn Wochen vor dem Beginn des Urlaubs erhalten hat, mit Ausnahme des zus\u00e4tzlich f\u00fcr \u00dcberstunden gezahlten Arbeitsverdienstes. Bei Verdiensterh\u00f6hungen nicht nur vor\u00fcbergehender Natur, die w\u00e4hrend des Berechnungszeitraums oder des Urlaubs eintreten, ist von dem erh\u00f6hten Verdienst auszugehen. Verdienstk\u00fcrzungen, die im Berechnungszeitraum infolge von Kurzarbeit, Arbeitsausf\u00e4llen oder unverschuldeter Arbeitsvers\u00e4umnis eintreten, bleiben f\u00fcr die Berechnung des Urlaubsentgelts au\u00dfer Betracht. Zum Arbeitsentgelt geh\u00f6rende Sachbez\u00fcge, die w\u00e4hrend des Urlaubs nicht weitergew\u00e4hrt werden, sind f\u00fcr die Dauer des Urlaubs angemessen in bar abzugelten.</P><P>(2) Das Urlaubsentgelt ist vor Antritt des Urlaubs auszuzahlen.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -186,12 +152,9 @@
         "id": "BJNR000020963BJNE001301308",
         "name": "\u00a7 12",
         "title": "Urlaub im Bereich der Heimarbeit",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>F\u00fcr die in Heimarbeit Besch\u00e4ftigten und die ihnen nach \u00a7 1 Abs. 2 Buchstaben a bis c des Heimarbeitsgesetzes Gleichgestellten, f\u00fcr die die Urlaubsregelung nicht ausdr\u00fccklich von der Gleichstellung ausgenommen ist, gelten die vorstehenden Bestimmungen mit Ausnahme der \u00a7\u00a7 4 bis 6, 7 Abs. 3 und 4 und \u00a7 11 nach Ma\u00dfgabe der folgenden Bestimmungen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Heimarbeiter (\u00a7 1 Abs. 1 Buchstabe a des Heimarbeitsgesetzes) und nach \u00a7 1 Abs. 2 Buchstabe a des Heimarbeitsgesetzes Gleichgestellte erhalten von ihrem Auftraggeber oder, falls sie von einem Zwischenmeister besch\u00e4ftigt werden, von diesem bei einem Anspruch auf 24 Werktage ein Urlaubsentgelt von 9,1 vom Hundert des in der Zeit vom 1. Mai bis zum 30. April des folgenden Jahres oder bis zur Beendigung des Besch\u00e4ftigungsverh\u00e4ltnisses verdienten Arbeitsentgelts vor Abzug der Steuern und Sozialversicherungsbeitr\u00e4ge ohne Unkostenzuschlag und ohne die f\u00fcr den Lohnausfall an Feiertagen, den Arbeitsausfall infolge Krankheit und den Urlaub zu leistenden Zahlungen.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">War der Anspruchsberechtigte im Berechnungszeitraum nicht st\u00e4ndig besch\u00e4ftigt, so brauchen unbeschadet des Anspruches auf Urlaubsentgelt nach Nummer 1 nur so viele Urlaubstage gegeben zu werden, wie durchschnittliche Tagesverdienste, die er in der Regel erzielt hat, in dem Urlaubsentgelt nach Nummer 1 enthalten sind.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Das Urlaubsentgelt f\u00fcr die in Nummer 1 bezeichneten Personen soll erst bei der letzten Entgeltzahlung vor Antritt des Urlaubs ausgezahlt werden.</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hausgewerbetreibende (\u00a7 1 Abs. 1 Buchstabe b des Heimarbeitsgesetzes) und nach \u00a7 1 Abs. 2 Buchstaben b und c des Heimarbeitsgesetzes Gleichgestellte erhalten von ihrem Auftraggeber oder, falls sie von einem Zwischenmeister besch\u00e4ftigt werden, von diesem als eigenes Urlaubsentgelt und zur Sicherung der Urlaubsanspr\u00fcche der von ihnen Besch\u00e4ftigten einen Betrag von 9,1 vom Hundert des an sie ausgezahlten Arbeitsentgelts vor Abzug der Steuern und Sozialversicherungsbeitr\u00e4ge ohne Unkostenzuschlag und ohne die f\u00fcr den Lohnausfall an Feiertagen, den Arbeitsausfall infolge Krankheit und den Urlaub zu leistenden Zahlungen.</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zwischenmeister, die den in Heimarbeit Besch\u00e4ftigten nach \u00a7 1 Abs. 2 Buchstabe d des Heimarbeitsgesetzes gleichgestellt sind, haben gegen ihren Auftraggeber Anspruch auf die von ihnen nach den Nummern 1 und 4 nachweislich zu zahlenden Betr\u00e4ge.</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Betr\u00e4ge nach den Nummern 1, 4 und 5 sind gesondert im Entgeltbeleg auszuweisen.</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Durch Tarifvertrag kann bestimmt werden, da\u00df Heimarbeiter (\u00a7 1 Abs. 1 Buchstabe a des Heimarbeitsgesetzes), die nur f\u00fcr einen Auftraggeber t\u00e4tig sind und tariflich allgemein wie Betriebsarbeiter behandelt werden, Urlaub nach den allgemeinen Urlaubsbestimmungen erhalten.</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auf die in den Nummern 1, 4 und 5 vorgesehenen Betr\u00e4ge finden die \u00a7\u00a7 23 bis 25, 27 und 28 und auf die in den Nummern 1 und 4 vorgesehenen Betr\u00e4ge au\u00dferdem \u00a7 21 Abs. 2 des Heimarbeitsgesetzes entsprechende Anwendung. F\u00fcr die Urlaubsanspr\u00fcche der fremden Hilfskr\u00e4fte der in Nummer 4 genannten Personen gilt \u00a7 26 des Heimarbeitsgesetzes entsprechend.</LA></DD> </DL></P>",
-          "footnotes": null
-        },
+        "body": "<P>F\u00fcr die in Heimarbeit Besch\u00e4ftigten und die ihnen nach \u00a7 1 Abs. 2 Buchstaben a bis c des Heimarbeitsgesetzes Gleichgestellten, f\u00fcr die die Urlaubsregelung nicht ausdr\u00fccklich von der Gleichstellung ausgenommen ist, gelten die vorstehenden Bestimmungen mit Ausnahme der \u00a7\u00a7 4 bis 6, 7 Abs. 3 und 4 und \u00a7 11 nach Ma\u00dfgabe der folgenden Bestimmungen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Heimarbeiter (\u00a7 1 Abs. 1 Buchstabe a des Heimarbeitsgesetzes) und nach \u00a7 1 Abs. 2 Buchstabe a des Heimarbeitsgesetzes Gleichgestellte erhalten von ihrem Auftraggeber oder, falls sie von einem Zwischenmeister besch\u00e4ftigt werden, von diesem bei einem Anspruch auf 24 Werktage ein Urlaubsentgelt von 9,1 vom Hundert des in der Zeit vom 1. Mai bis zum 30. April des folgenden Jahres oder bis zur Beendigung des Besch\u00e4ftigungsverh\u00e4ltnisses verdienten Arbeitsentgelts vor Abzug der Steuern und Sozialversicherungsbeitr\u00e4ge ohne Unkostenzuschlag und ohne die f\u00fcr den Lohnausfall an Feiertagen, den Arbeitsausfall infolge Krankheit und den Urlaub zu leistenden Zahlungen.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">War der Anspruchsberechtigte im Berechnungszeitraum nicht st\u00e4ndig besch\u00e4ftigt, so brauchen unbeschadet des Anspruches auf Urlaubsentgelt nach Nummer 1 nur so viele Urlaubstage gegeben zu werden, wie durchschnittliche Tagesverdienste, die er in der Regel erzielt hat, in dem Urlaubsentgelt nach Nummer 1 enthalten sind.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Das Urlaubsentgelt f\u00fcr die in Nummer 1 bezeichneten Personen soll erst bei der letzten Entgeltzahlung vor Antritt des Urlaubs ausgezahlt werden.</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hausgewerbetreibende (\u00a7 1 Abs. 1 Buchstabe b des Heimarbeitsgesetzes) und nach \u00a7 1 Abs. 2 Buchstaben b und c des Heimarbeitsgesetzes Gleichgestellte erhalten von ihrem Auftraggeber oder, falls sie von einem Zwischenmeister besch\u00e4ftigt werden, von diesem als eigenes Urlaubsentgelt und zur Sicherung der Urlaubsanspr\u00fcche der von ihnen Besch\u00e4ftigten einen Betrag von 9,1 vom Hundert des an sie ausgezahlten Arbeitsentgelts vor Abzug der Steuern und Sozialversicherungsbeitr\u00e4ge ohne Unkostenzuschlag und ohne die f\u00fcr den Lohnausfall an Feiertagen, den Arbeitsausfall infolge Krankheit und den Urlaub zu leistenden Zahlungen.</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zwischenmeister, die den in Heimarbeit Besch\u00e4ftigten nach \u00a7 1 Abs. 2 Buchstabe d des Heimarbeitsgesetzes gleichgestellt sind, haben gegen ihren Auftraggeber Anspruch auf die von ihnen nach den Nummern 1 und 4 nachweislich zu zahlenden Betr\u00e4ge.</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Betr\u00e4ge nach den Nummern 1, 4 und 5 sind gesondert im Entgeltbeleg auszuweisen.</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Durch Tarifvertrag kann bestimmt werden, da\u00df Heimarbeiter (\u00a7 1 Abs. 1 Buchstabe a des Heimarbeitsgesetzes), die nur f\u00fcr einen Auftraggeber t\u00e4tig sind und tariflich allgemein wie Betriebsarbeiter behandelt werden, Urlaub nach den allgemeinen Urlaubsbestimmungen erhalten.</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auf die in den Nummern 1, 4 und 5 vorgesehenen Betr\u00e4ge finden die \u00a7\u00a7 23 bis 25, 27 und 28 und auf die in den Nummern 1 und 4 vorgesehenen Betr\u00e4ge au\u00dferdem \u00a7 21 Abs. 2 des Heimarbeitsgesetzes entsprechende Anwendung. F\u00fcr die Urlaubsanspr\u00fcche der fremden Hilfskr\u00e4fte der in Nummer 4 genannten Personen gilt \u00a7 26 des Heimarbeitsgesetzes entsprechend.</LA></DD> </DL></P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -199,12 +162,9 @@
         "id": "BJNR000020963BJNE001402308",
         "name": "\u00a7 13",
         "title": "Unabdingbarkeit",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Von den vorstehenden Vorschriften mit Ausnahme der \u00a7\u00a7 1, 2 und 3 Abs. 1 kann in Tarifvertr\u00e4gen abgewichen werden. Die abweichenden Bestimmungen haben zwischen nichttarifgebundenen Arbeitgebern und Arbeitnehmern Geltung, wenn zwischen diesen die Anwendung der einschl\u00e4gigen tariflichen Urlaubsregelung vereinbart ist. Im \u00fcbrigen kann, abgesehen von \u00a7 7 Abs. 2 Satz 2, von den Bestimmungen dieses Gesetzes nicht zuungunsten des Arbeitnehmers abgewichen werden.</P><P>(2) F\u00fcr das Baugewerbe oder sonstige Wirtschaftszweige, in denen als Folge h\u00e4ufigen Ortswechsels der von den Betrieben zu leistenden Arbeit Arbeitsverh\u00e4ltnisse von k\u00fcrzerer Dauer als einem Jahr in erheblichem Umfange \u00fcblich sind, kann durch Tarifvertrag von den vorstehenden Vorschriften \u00fcber die in Absatz 1 Satz 1 vorgesehene Grenze hinaus abgewichen werden, soweit dies zur Sicherung eines zusammenh\u00e4ngenden Jahresurlaubs f\u00fcr alle Arbeitnehmer erforderlich ist. Absatz 1 Satz 2 findet entsprechende Anwendung.</P><P>(3) F\u00fcr den Bereich der Deutsche Bahn Aktiengesellschaft sowie einer gem\u00e4\u00df \u00a7 2 Abs. 1 und \u00a7 3 Abs. 3 des Deutsche Bahn Gr\u00fcndungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) ausgegliederten Gesellschaft und f\u00fcr den Bereich der Nachfolgeunternehmen der Deutschen Bundespost kann von der Vorschrift \u00fcber das Kalenderjahr als Urlaubsjahr (\u00a7 1) in Tarifvertr\u00e4gen abgewichen werden.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Von den vorstehenden Vorschriften mit Ausnahme der \u00a7\u00a7 1, 2 und 3 Abs. 1 kann in Tarifvertr\u00e4gen abgewichen werden. Die abweichenden Bestimmungen haben zwischen nichttarifgebundenen Arbeitgebern und Arbeitnehmern Geltung, wenn zwischen diesen die Anwendung der einschl\u00e4gigen tariflichen Urlaubsregelung vereinbart ist. Im \u00fcbrigen kann, abgesehen von \u00a7 7 Abs. 2 Satz 2, von den Bestimmungen dieses Gesetzes nicht zuungunsten des Arbeitnehmers abgewichen werden.</P><P>(2) F\u00fcr das Baugewerbe oder sonstige Wirtschaftszweige, in denen als Folge h\u00e4ufigen Ortswechsels der von den Betrieben zu leistenden Arbeit Arbeitsverh\u00e4ltnisse von k\u00fcrzerer Dauer als einem Jahr in erheblichem Umfange \u00fcblich sind, kann durch Tarifvertrag von den vorstehenden Vorschriften \u00fcber die in Absatz 1 Satz 1 vorgesehene Grenze hinaus abgewichen werden, soweit dies zur Sicherung eines zusammenh\u00e4ngenden Jahresurlaubs f\u00fcr alle Arbeitnehmer erforderlich ist. Absatz 1 Satz 2 findet entsprechende Anwendung.</P><P>(3) F\u00fcr den Bereich der Deutsche Bahn Aktiengesellschaft sowie einer gem\u00e4\u00df \u00a7 2 Abs. 1 und \u00a7 3 Abs. 3 des Deutsche Bahn Gr\u00fcndungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) ausgegliederten Gesellschaft und f\u00fcr den Bereich der Nachfolgeunternehmen der Deutschen Bundespost kann von der Vorschrift \u00fcber das Kalenderjahr als Urlaubsjahr (\u00a7 1) in Tarifvertr\u00e4gen abgewichen werden.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -212,12 +172,9 @@
         "id": "BJNR000020963BJNE001500314",
         "name": "\u00a7 14",
         "title": "Berlin-Klausel",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -225,12 +182,9 @@
         "id": "BJNR000020963BJNE001602377",
         "name": "\u00a7 15",
         "title": "\u00c4nderung und Aufhebung von Gesetzen",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Unber\u00fchrt bleiben die urlaubsrechtlichen Bestimmungen des Arbeitsplatzschutzgesetzes vom 30. M\u00e4rz 1957 (Bundesgesetzbl. I S. 293), ge\u00e4ndert durch Gesetz vom 22. M\u00e4rz 1962 (Bundesgesetzbl. I S. 169), des Neunten Buches Sozialgesetzbuch des Jugendarbeitsschutzgesetzes vom 9. August 1960 (Bundesgesetzbl. I S. 665), ge\u00e4ndert durch Gesetz vom 20. Juli 1962 (Bundesgesetzbl. I S. 449), und des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868), jedoch wird <BR/>a) und b) ...</P><P>(2) Mit dem Inkrafttreten dieses Gesetzes treten die landesrechtlichen Vorschriften \u00fcber den Erholungsurlaub au\u00dfer Kraft. In Kraft bleiben jedoch die landesrechtlichen Bestimmungen \u00fcber den Urlaub f\u00fcr Opfer des Nationalsozialismus und f\u00fcr solche Arbeitnehmer, die geistig oder k\u00f6rperlich in ihrer Erwerbsf\u00e4higkeit behindert sind.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Unber\u00fchrt bleiben die urlaubsrechtlichen Bestimmungen des Arbeitsplatzschutzgesetzes vom 30. M\u00e4rz 1957 (Bundesgesetzbl. I S. 293), ge\u00e4ndert durch Gesetz vom 22. M\u00e4rz 1962 (Bundesgesetzbl. I S. 169), des Neunten Buches Sozialgesetzbuch des Jugendarbeitsschutzgesetzes vom 9. August 1960 (Bundesgesetzbl. I S. 665), ge\u00e4ndert durch Gesetz vom 20. Juli 1962 (Bundesgesetzbl. I S. 449), und des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868), jedoch wird <BR/>a) und b) ...</P><P>(2) Mit dem Inkrafttreten dieses Gesetzes treten die landesrechtlichen Vorschriften \u00fcber den Erholungsurlaub au\u00dfer Kraft. In Kraft bleiben jedoch die landesrechtlichen Bestimmungen \u00fcber den Urlaub f\u00fcr Opfer des Nationalsozialismus und f\u00fcr solche Arbeitnehmer, die geistig oder k\u00f6rperlich in ihrer Erwerbsf\u00e4higkeit behindert sind.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -238,12 +192,9 @@
         "id": "BJNR000020963BJNE001801308",
         "name": "\u00a7 15a",
         "title": "\u00dcbergangsvorschrift",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Befindet sich der Arbeitnehmer von einem Tag nach dem 9. Dezember 1998 bis zum 1. Januar 1999 oder dar\u00fcber hinaus in einer Ma\u00dfnahme der medizinischen Vorsorge oder Rehabilitation, sind f\u00fcr diesen Zeitraum die seit dem 1. Januar 1999 geltenden Vorschriften ma\u00dfgebend, es sei denn, da\u00df diese f\u00fcr den Arbeitnehmer ung\u00fcnstiger sind.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Befindet sich der Arbeitnehmer von einem Tag nach dem 9. Dezember 1998 bis zum 1. Januar 1999 oder dar\u00fcber hinaus in einer Ma\u00dfnahme der medizinischen Vorsorge oder Rehabilitation, sind f\u00fcr diesen Zeitraum die seit dem 1. Januar 1999 geltenden Vorschriften ma\u00dfgebend, es sei denn, da\u00df diese f\u00fcr den Arbeitnehmer ung\u00fcnstiger sind.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -251,12 +202,9 @@
         "id": "BJNR000020963BJNE001700314",
         "name": "\u00a7 16",
         "title": "Inkrafttreten",
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       }
     ]

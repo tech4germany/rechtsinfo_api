@@ -6,8 +6,8 @@
     "extraAbbreviations": [],
     "firstPublished": "1871-06-07",
     "sourceTimestamp": "20170721221540",
-    "headingShort": null,
-    "headingLong": "Haftpflichtgesetz",
+    "titleShort": null,
+    "titleLong": "Haftpflichtgesetz",
     "publicationInfo": [
       {
         "reference": "1871, 207",
@@ -26,20 +26,19 @@
     ],
     "notes": {
       "body": null,
+      "footnotes": null,
       "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1978 +++)<BR/>(+++ Ma\u00dfgaben aufgrund EinigVtr vgl. HaftPflG Anhang EV;<BR/>     die Ma\u00dfgaben sind nicht mehr anzuwenden +++)<BR/><BR/></pre></P>"
     },
+    "attachments": {},
     "contents": [
       {
         "type": "article",
         "id": "BJNR002070871BJNE000101308",
         "name": "\u00a7 1",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Wird bei dem Betrieb einer Schienenbahn oder einer Schwebebahn ein Mensch get\u00f6tet, der K\u00f6rper oder die Gesundheit eines Menschen verletzt oder eine Sache besch\u00e4digt, so ist der Betriebsunternehmer dem Gesch\u00e4digten zum Ersatz des daraus entstehenden Schadens verpflichtet.</P><P>(2) Die Ersatzpflicht ist ausgeschlossen, wenn der Unfall durch h\u00f6here Gewalt verursacht ist.</P><P>(3) Die Ersatzpflicht ist ferner ausgeschlossen, wenn eine <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Aufbewahrung angenommene Sache besch\u00e4digt wird;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bef\u00f6rderte Sache besch\u00e4digt wird, es sei denn, da\u00df ein Fahrgast sie an sich tr\u00e4gt oder mit sich f\u00fchrt.</LA></DD> </DL></P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Wird bei dem Betrieb einer Schienenbahn oder einer Schwebebahn ein Mensch get\u00f6tet, der K\u00f6rper oder die Gesundheit eines Menschen verletzt oder eine Sache besch\u00e4digt, so ist der Betriebsunternehmer dem Gesch\u00e4digten zum Ersatz des daraus entstehenden Schadens verpflichtet.</P><P>(2) Die Ersatzpflicht ist ausgeschlossen, wenn der Unfall durch h\u00f6here Gewalt verursacht ist.</P><P>(3) Die Ersatzpflicht ist ferner ausgeschlossen, wenn eine <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Aufbewahrung angenommene Sache besch\u00e4digt wird;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bef\u00f6rderte Sache besch\u00e4digt wird, es sei denn, da\u00df ein Fahrgast sie an sich tr\u00e4gt oder mit sich f\u00fchrt.</LA></DD> </DL></P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -47,12 +46,9 @@
         "id": "BJNR002070871BJNE000200300",
         "name": "\u00a7 2",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Wird durch die Wirkungen von Elektrizit\u00e4t, Gasen, D\u00e4mpfen oder Fl\u00fcssigkeiten, die von einer Stromleitungs- oder Rohrleitungsanlage oder einer Anlage zur Abgabe der bezeichneten Energien oder Stoffe ausgehen, ein Mensch get\u00f6tet, der K\u00f6rper oder die Gesundheit eines Menschen verletzt oder eine Sache besch\u00e4digt, so ist der Inhaber der Anlage verpflichtet, den daraus entstehenden Schaden zu ersetzen. Das gleiche gilt, wenn der Schaden, ohne auf den Wirkungen der Elektrizit\u00e4t, der Gase, D\u00e4mpfe oder Fl\u00fcssigkeiten zu beruhen, auf das Vorhandensein einer solchen Anlage zur\u00fcckzuf\u00fchren ist, es sei denn, da\u00df sich diese zur Zeit der Schadensverursachung in ordnungsm\u00e4\u00dfigem Zustand befand. Ordnungsm\u00e4\u00dfig ist eine Anlage, solange sie den anerkannten Regeln der Technik entspricht und unversehrt ist.</P><P>(2) Absatz 1 gilt nicht f\u00fcr Anlagen, die lediglich der \u00dcbertragung von Zeichen oder Lauten dienen.</P><P>(3) Die Ersatzpflicht nach Absatz 1 ist ausgeschlossen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Schaden innerhalb eines Geb\u00e4udes entstanden und auf eine darin befindliche Anlage (Absatz 1) zur\u00fcckzuf\u00fchren oder wenn er innerhalb eines im Besitz des Inhabers der Anlage stehenden befriedeten Grundst\u00fccks entstanden ist;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn ein Energieverbrauchger\u00e4t oder eine sonstige Einrichtung zum Verbrauch oder zur Abnahme der in Absatz 1 bezeichneten Stoffe besch\u00e4digt oder durch eine solche Einrichtung ein Schaden verursacht worden ist;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Schaden durch h\u00f6here Gewalt verursacht worden ist, es sei denn, da\u00df er auf das Herabfallen von Leitungsdr\u00e4hten zur\u00fcckzuf\u00fchren ist.</LA></DD> </DL></P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Wird durch die Wirkungen von Elektrizit\u00e4t, Gasen, D\u00e4mpfen oder Fl\u00fcssigkeiten, die von einer Stromleitungs- oder Rohrleitungsanlage oder einer Anlage zur Abgabe der bezeichneten Energien oder Stoffe ausgehen, ein Mensch get\u00f6tet, der K\u00f6rper oder die Gesundheit eines Menschen verletzt oder eine Sache besch\u00e4digt, so ist der Inhaber der Anlage verpflichtet, den daraus entstehenden Schaden zu ersetzen. Das gleiche gilt, wenn der Schaden, ohne auf den Wirkungen der Elektrizit\u00e4t, der Gase, D\u00e4mpfe oder Fl\u00fcssigkeiten zu beruhen, auf das Vorhandensein einer solchen Anlage zur\u00fcckzuf\u00fchren ist, es sei denn, da\u00df sich diese zur Zeit der Schadensverursachung in ordnungsm\u00e4\u00dfigem Zustand befand. Ordnungsm\u00e4\u00dfig ist eine Anlage, solange sie den anerkannten Regeln der Technik entspricht und unversehrt ist.</P><P>(2) Absatz 1 gilt nicht f\u00fcr Anlagen, die lediglich der \u00dcbertragung von Zeichen oder Lauten dienen.</P><P>(3) Die Ersatzpflicht nach Absatz 1 ist ausgeschlossen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Schaden innerhalb eines Geb\u00e4udes entstanden und auf eine darin befindliche Anlage (Absatz 1) zur\u00fcckzuf\u00fchren oder wenn er innerhalb eines im Besitz des Inhabers der Anlage stehenden befriedeten Grundst\u00fccks entstanden ist;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn ein Energieverbrauchger\u00e4t oder eine sonstige Einrichtung zum Verbrauch oder zur Abnahme der in Absatz 1 bezeichneten Stoffe besch\u00e4digt oder durch eine solche Einrichtung ein Schaden verursacht worden ist;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Schaden durch h\u00f6here Gewalt verursacht worden ist, es sei denn, da\u00df er auf das Herabfallen von Leitungsdr\u00e4hten zur\u00fcckzuf\u00fchren ist.</LA></DD> </DL></P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -60,12 +56,9 @@
         "id": "BJNR002070871BJNE000300300",
         "name": "\u00a7 3",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Wer ein Bergwerk, einen Steinbruch, eine Gr\u00e4berei (Grube) oder eine Fabrik betreibt, haftet, wenn ein Bevollm\u00e4chtigter oder ein Repr\u00e4sentant oder eine zur Leitung oder Beaufsichtigung des Betriebes oder der Arbeiter angenommene Person durch ein Verschulden in Ausf\u00fchrung der Dienstverrichtungen den Tod oder die K\u00f6rperverletzung eines Menschen herbeigef\u00fchrt hat, f\u00fcr den dadurch entstandenen Schaden.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Wer ein Bergwerk, einen Steinbruch, eine Gr\u00e4berei (Grube) oder eine Fabrik betreibt, haftet, wenn ein Bevollm\u00e4chtigter oder ein Repr\u00e4sentant oder eine zur Leitung oder Beaufsichtigung des Betriebes oder der Arbeiter angenommene Person durch ein Verschulden in Ausf\u00fchrung der Dienstverrichtungen den Tod oder die K\u00f6rperverletzung eines Menschen herbeigef\u00fchrt hat, f\u00fcr den dadurch entstandenen Schaden.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -73,12 +66,9 @@
         "id": "BJNR002070871BJNE000400300",
         "name": "\u00a7 4",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Hat bei der Entstehung des Schadens ein Verschulden des Gesch\u00e4digten mitgewirkt, so gilt \u00a7 254 des B\u00fcrgerlichen Gesetzbuchs; bei Besch\u00e4digung einer Sache steht das Verschulden desjenigen, der die tats\u00e4chliche Gewalt \u00fcber die Sache aus\u00fcbt, dem Verschulden des Gesch\u00e4digten gleich.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Hat bei der Entstehung des Schadens ein Verschulden des Gesch\u00e4digten mitgewirkt, so gilt \u00a7 254 des B\u00fcrgerlichen Gesetzbuchs; bei Besch\u00e4digung einer Sache steht das Verschulden desjenigen, der die tats\u00e4chliche Gewalt \u00fcber die Sache aus\u00fcbt, dem Verschulden des Gesch\u00e4digten gleich.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -86,12 +76,9 @@
         "id": "BJNR002070871BJNE000502311",
         "name": "\u00a7 5",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Im Falle der T\u00f6tung ist der Schadensersatz (\u00a7\u00a7 1, 2 und 3) durch Ersatz der Kosten einer versuchten Heilung sowie des Verm\u00f6gensnachteils zu leisten, den der Get\u00f6tete dadurch erlitten hat, da\u00df w\u00e4hrend der Krankheit seine Erwerbsf\u00e4higkeit aufgehoben oder gemindert oder eine Vermehrung seiner Bed\u00fcrfnisse eingetreten war. Der Ersatzpflichtige hat au\u00dferdem die Kosten der Beerdigung demjenigen zu ersetzen, dem die Verpflichtung obliegt, diese Kosten zu tragen.</P><P>(2) Stand der Get\u00f6tete zur Zeit der Verletzung zu einem Dritten in einem Verh\u00e4ltnisse, verm\u00f6ge dessen er diesem gegen\u00fcber kraft Gesetzes unterhaltspflichtig war oder unterhaltspflichtig werden konnte, und ist dem Dritten infolge der T\u00f6tung das Recht auf den Unterhalt entzogen, so hat der Ersatzpflichtige dem Dritten insoweit Schadensersatz zu leisten, als der Get\u00f6tete w\u00e4hrend der mutma\u00dflichen Dauer seines Lebens zur Gew\u00e4hrung des Unterhalts verpflichtet gewesen sein w\u00fcrde. Die Ersatzpflicht tritt auch dann ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.</P><P>(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der Verletzung zu dem Get\u00f6teten in einem besonderen pers\u00f6nlichen N\u00e4heverh\u00e4ltnis stand, f\u00fcr das dem Hinterbliebenen zugef\u00fcgte seelische Leid eine angemessene Entsch\u00e4digung in Geld zu leisten. Ein besonderes pers\u00f6nliches N\u00e4heverh\u00e4ltnis wird vermutet, wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des Get\u00f6teten war.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Im Falle der T\u00f6tung ist der Schadensersatz (\u00a7\u00a7 1, 2 und 3) durch Ersatz der Kosten einer versuchten Heilung sowie des Verm\u00f6gensnachteils zu leisten, den der Get\u00f6tete dadurch erlitten hat, da\u00df w\u00e4hrend der Krankheit seine Erwerbsf\u00e4higkeit aufgehoben oder gemindert oder eine Vermehrung seiner Bed\u00fcrfnisse eingetreten war. Der Ersatzpflichtige hat au\u00dferdem die Kosten der Beerdigung demjenigen zu ersetzen, dem die Verpflichtung obliegt, diese Kosten zu tragen.</P><P>(2) Stand der Get\u00f6tete zur Zeit der Verletzung zu einem Dritten in einem Verh\u00e4ltnisse, verm\u00f6ge dessen er diesem gegen\u00fcber kraft Gesetzes unterhaltspflichtig war oder unterhaltspflichtig werden konnte, und ist dem Dritten infolge der T\u00f6tung das Recht auf den Unterhalt entzogen, so hat der Ersatzpflichtige dem Dritten insoweit Schadensersatz zu leisten, als der Get\u00f6tete w\u00e4hrend der mutma\u00dflichen Dauer seines Lebens zur Gew\u00e4hrung des Unterhalts verpflichtet gewesen sein w\u00fcrde. Die Ersatzpflicht tritt auch dann ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.</P><P>(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der Verletzung zu dem Get\u00f6teten in einem besonderen pers\u00f6nlichen N\u00e4heverh\u00e4ltnis stand, f\u00fcr das dem Hinterbliebenen zugef\u00fcgte seelische Leid eine angemessene Entsch\u00e4digung in Geld zu leisten. Ein besonderes pers\u00f6nliches N\u00e4heverh\u00e4ltnis wird vermutet, wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des Get\u00f6teten war.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -99,12 +86,9 @@
         "id": "BJNR002070871BJNE000601308",
         "name": "\u00a7 6",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Im Falle einer K\u00f6rperverletzung ist der Schadensersatz (\u00a7\u00a7 1, 2 und 3) durch Ersatz der Kosten der Heilung sowie des Verm\u00f6gensnachteils zu leisten, den der Verletzte dadurch erleidet, da\u00df infolge der Verletzung zeitweise oder dauernd seine Erwerbsf\u00e4higkeit aufgehoben oder gemindert oder eine Vermehrung seiner Bed\u00fcrfnisse eingetreten ist. Wegen des Schadens, der nicht Verm\u00f6gensschaden ist, kann auch eine billige Entsch\u00e4digung in Geld gefordert werden.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Im Falle einer K\u00f6rperverletzung ist der Schadensersatz (\u00a7\u00a7 1, 2 und 3) durch Ersatz der Kosten der Heilung sowie des Verm\u00f6gensnachteils zu leisten, den der Verletzte dadurch erleidet, da\u00df infolge der Verletzung zeitweise oder dauernd seine Erwerbsf\u00e4higkeit aufgehoben oder gemindert oder eine Vermehrung seiner Bed\u00fcrfnisse eingetreten ist. Wegen des Schadens, der nicht Verm\u00f6gensschaden ist, kann auch eine billige Entsch\u00e4digung in Geld gefordert werden.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -112,12 +96,9 @@
         "id": "BJNR002070871BJNE000700300",
         "name": "\u00a7 7",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Die Ersatzpflicht nach den \u00a7\u00a7 1 bis 3 dieses Gesetzes darf, soweit es sich um Personensch\u00e4den handelt, im voraus weder ausgeschlossen noch beschr\u00e4nkt werden. Das gleiche gilt f\u00fcr die Ersatzpflicht nach \u00a7 2 dieses Gesetzes wegen Sachsch\u00e4den, es sei denn, da\u00df der Haftungsausschlu\u00df oder die Haftungsbeschr\u00e4nkung zwischen dem Inhaber der Anlage und einer juristischen Person des \u00f6ffentlichen Rechts, einem \u00f6ffentlich-rechtlichen Sonderverm\u00f6gen oder einem Kaufmann im Rahmen eines zum Betriebe seines Handelsgewerbes geh\u00f6renden Vertrages vereinbart worden ist. Entgegenstehende Bestimmungen und Vereinbarungen sind nichtig.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Die Ersatzpflicht nach den \u00a7\u00a7 1 bis 3 dieses Gesetzes darf, soweit es sich um Personensch\u00e4den handelt, im voraus weder ausgeschlossen noch beschr\u00e4nkt werden. Das gleiche gilt f\u00fcr die Ersatzpflicht nach \u00a7 2 dieses Gesetzes wegen Sachsch\u00e4den, es sei denn, da\u00df der Haftungsausschlu\u00df oder die Haftungsbeschr\u00e4nkung zwischen dem Inhaber der Anlage und einer juristischen Person des \u00f6ffentlichen Rechts, einem \u00f6ffentlich-rechtlichen Sonderverm\u00f6gen oder einem Kaufmann im Rahmen eines zum Betriebe seines Handelsgewerbes geh\u00f6renden Vertrages vereinbart worden ist. Entgegenstehende Bestimmungen und Vereinbarungen sind nichtig.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -125,12 +106,9 @@
         "id": "BJNR002070871BJNE000800300",
         "name": "\u00a7 8",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Der Schadensersatz wegen Aufhebung oder Minderung der Erwerbsf\u00e4higkeit und wegen Vermehrung der Bed\u00fcrfnisse des Verletzten sowie der nach \u00a7 5 Abs. 2 einem Dritten zu gew\u00e4hrende Schadensersatz ist f\u00fcr die Zukunft durch Entrichtung einer Geldrente zu leisten.</P><P>(2) Die Vorschriften des \u00a7 843 Abs. 2 bis 4 des B\u00fcrgerlichen Gesetzbuchs finden entsprechende Anwendung.</P><P>(3) Ist bei der Verurteilung des Verpflichteten zur Entrichtung einer Geldrente nicht auf Sicherheitsleistung erkannt worden, so kann der Berechtigte gleichwohl Sicherheitsleistung verlangen, wenn die Verm\u00f6gensverh\u00e4ltnisse des Verpflichteten sich erheblich verschlechtert haben; unter der gleichen Voraussetzung kann er eine Erh\u00f6hung der in dem Urteile bestimmten Sicherheit verlangen.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Der Schadensersatz wegen Aufhebung oder Minderung der Erwerbsf\u00e4higkeit und wegen Vermehrung der Bed\u00fcrfnisse des Verletzten sowie der nach \u00a7 5 Abs. 2 einem Dritten zu gew\u00e4hrende Schadensersatz ist f\u00fcr die Zukunft durch Entrichtung einer Geldrente zu leisten.</P><P>(2) Die Vorschriften des \u00a7 843 Abs. 2 bis 4 des B\u00fcrgerlichen Gesetzbuchs finden entsprechende Anwendung.</P><P>(3) Ist bei der Verurteilung des Verpflichteten zur Entrichtung einer Geldrente nicht auf Sicherheitsleistung erkannt worden, so kann der Berechtigte gleichwohl Sicherheitsleistung verlangen, wenn die Verm\u00f6gensverh\u00e4ltnisse des Verpflichteten sich erheblich verschlechtert haben; unter der gleichen Voraussetzung kann er eine Erh\u00f6hung der in dem Urteile bestimmten Sicherheit verlangen.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -138,12 +116,9 @@
         "id": "BJNR002070871BJNE000901308",
         "name": "\u00a7 9",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Der Unternehmer oder der in \u00a7 2 bezeichnete Inhaber der Anlage haftet im Falle der T\u00f6tung oder Verletzung eines Menschen f\u00fcr jede Person bis zu einem Kapitalbetrag von 600.000 Euro oder bis zu einem Rentenbetrag von j\u00e4hrlich 36.000 Euro.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Der Unternehmer oder der in \u00a7 2 bezeichnete Inhaber der Anlage haftet im Falle der T\u00f6tung oder Verletzung eines Menschen f\u00fcr jede Person bis zu einem Kapitalbetrag von 600.000 Euro oder bis zu einem Rentenbetrag von j\u00e4hrlich 36.000 Euro.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -151,12 +126,9 @@
         "id": "BJNR002070871BJNE001001308",
         "name": "\u00a7 10",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Der Unternehmer oder der in \u00a7 2 bezeichnete Inhaber der Anlage haftet f\u00fcr Sachsch\u00e4den nur bis zum Betrag von 300.000 Euro, auch wenn durch dasselbe Ereignis mehrere Sachen besch\u00e4digt werden.</P><P>(2) Sind auf Grund desselben Ereignisses an mehrere Personen Entsch\u00e4digungen zu leisten, die insgesamt den H\u00f6chstbetrag von 300.000 Euro \u00fcbersteigen, so verringern sich die einzelnen Entsch\u00e4digungen in dem Verh\u00e4ltnis, in dem ihr Gesamtbetrag zu dem H\u00f6chstbetrag steht.</P><P>(3) Die Abs\u00e4tze 1 und 2 gelten nicht f\u00fcr die Besch\u00e4digung von Grundst\u00fccken.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Der Unternehmer oder der in \u00a7 2 bezeichnete Inhaber der Anlage haftet f\u00fcr Sachsch\u00e4den nur bis zum Betrag von 300.000 Euro, auch wenn durch dasselbe Ereignis mehrere Sachen besch\u00e4digt werden.</P><P>(2) Sind auf Grund desselben Ereignisses an mehrere Personen Entsch\u00e4digungen zu leisten, die insgesamt den H\u00f6chstbetrag von 300.000 Euro \u00fcbersteigen, so verringern sich die einzelnen Entsch\u00e4digungen in dem Verh\u00e4ltnis, in dem ihr Gesamtbetrag zu dem H\u00f6chstbetrag steht.</P><P>(3) Die Abs\u00e4tze 1 und 2 gelten nicht f\u00fcr die Besch\u00e4digung von Grundst\u00fccken.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -164,12 +136,9 @@
         "id": "BJNR002070871BJNE001100300",
         "name": "\u00a7 11",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Auf die Verj\u00e4hrung finden die f\u00fcr unerlaubte Handlungen geltenden Verj\u00e4hrungsvorschriften des B\u00fcrgerlichen Gesetzbuchs entsprechende Anwendung.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Auf die Verj\u00e4hrung finden die f\u00fcr unerlaubte Handlungen geltenden Verj\u00e4hrungsvorschriften des B\u00fcrgerlichen Gesetzbuchs entsprechende Anwendung.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -177,12 +146,9 @@
         "id": "BJNR002070871BJNE001200300",
         "name": "\u00a7 12",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>Unber\u00fchrt bleiben gesetzliche Vorschriften, nach denen ein Ersatzpflichtiger in weiterem Umfang als nach den Vorschriften dieses Gesetzes haftet oder nach denen ein anderer f\u00fcr den Schaden verantwortlich ist.</P>",
-          "footnotes": null
-        },
+        "body": "<P>Unber\u00fchrt bleiben gesetzliche Vorschriften, nach denen ein Ersatzpflichtiger in weiterem Umfang als nach den Vorschriften dieses Gesetzes haftet oder nach denen ein anderer f\u00fcr den Schaden verantwortlich ist.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -190,12 +156,9 @@
         "id": "BJNR002070871BJNE001301308",
         "name": "\u00a7 13",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>(1) Sind nach den \u00a7\u00a7 1, 2 mehrere einem Dritten zum Schadensersatz verpflichtet, so h\u00e4ngt im Verh\u00e4ltnis der Ersatzpflichtigen untereinander Pflicht und Umfang zum Ersatz von den Umst\u00e4nden, insbesondere davon ab, wie weit der Schaden \u00fcberwiegend von dem einen oder dem anderen verursacht worden ist.</P><P>(2) Wenn der Schaden einem der nach \u00a7\u00a7 1, 2 Ersatzpflichtigen entstanden ist, gilt Absatz 1 auch f\u00fcr die Haftung der Ersatzpflichtigen untereinander.</P><P>(3) Die Verpflichtung zum Ersatz nach den Abs\u00e4tzen 1 und 2 ist f\u00fcr den nach \u00a7 1 zum Schadensersatz Verpflichteten ausgeschlossen, soweit die Schienenbahn innerhalb des Verkehrsraumes einer \u00f6ffentlichen Stra\u00dfe betrieben wird und wenn der Unfall durch ein unabwendbares Ereignis verursacht ist, das weder auf einem Fehler in der Beschaffenheit der Fahrzeuge oder Anlagen der Schienenbahn noch auf einem Versagen ihrer Vorrichtungen beruht. Als unabwendbar gilt ein Ereignis nur dann, wenn sowohl der Betriebsunternehmer als auch die beim Betrieb t\u00e4tigen Personen jede nach den Umst\u00e4nden des Falles gebotene Sorgfalt beobachtet haben. Der Ausschluss gilt auch f\u00fcr die Ersatzpflicht gegen\u00fcber dem Eigent\u00fcmer einer Schienenbahn, der nicht Betriebsunternehmer ist.</P><P>(4) Die Abs\u00e4tze 1 bis 3 gelten entsprechend, wenn neben den nach den \u00a7\u00a7 1, 2 Ersatzpflichtigen ein anderer f\u00fcr den Schaden kraft Gesetzes verantwortlich ist.</P>",
-          "footnotes": null
-        },
+        "body": "<P>(1) Sind nach den \u00a7\u00a7 1, 2 mehrere einem Dritten zum Schadensersatz verpflichtet, so h\u00e4ngt im Verh\u00e4ltnis der Ersatzpflichtigen untereinander Pflicht und Umfang zum Ersatz von den Umst\u00e4nden, insbesondere davon ab, wie weit der Schaden \u00fcberwiegend von dem einen oder dem anderen verursacht worden ist.</P><P>(2) Wenn der Schaden einem der nach \u00a7\u00a7 1, 2 Ersatzpflichtigen entstanden ist, gilt Absatz 1 auch f\u00fcr die Haftung der Ersatzpflichtigen untereinander.</P><P>(3) Die Verpflichtung zum Ersatz nach den Abs\u00e4tzen 1 und 2 ist f\u00fcr den nach \u00a7 1 zum Schadensersatz Verpflichteten ausgeschlossen, soweit die Schienenbahn innerhalb des Verkehrsraumes einer \u00f6ffentlichen Stra\u00dfe betrieben wird und wenn der Unfall durch ein unabwendbares Ereignis verursacht ist, das weder auf einem Fehler in der Beschaffenheit der Fahrzeuge oder Anlagen der Schienenbahn noch auf einem Versagen ihrer Vorrichtungen beruht. Als unabwendbar gilt ein Ereignis nur dann, wenn sowohl der Betriebsunternehmer als auch die beim Betrieb t\u00e4tigen Personen jede nach den Umst\u00e4nden des Falles gebotene Sorgfalt beobachtet haben. Der Ausschluss gilt auch f\u00fcr die Ersatzpflicht gegen\u00fcber dem Eigent\u00fcmer einer Schienenbahn, der nicht Betriebsunternehmer ist.</P><P>(4) Die Abs\u00e4tze 1 bis 3 gelten entsprechend, wenn neben den nach den \u00a7\u00a7 1, 2 Ersatzpflichtigen ein anderer f\u00fcr den Schaden kraft Gesetzes verantwortlich ist.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       },
       {
@@ -203,12 +166,9 @@
         "id": "BJNR002070871BJNE001400300",
         "name": "\u00a7 14",
         "title": null,
-        "contentLevel": 0,
         "parent": null,
-        "body": {
-          "content": "<P>F\u00fcr Klagen, die auf Grund dieses Gesetzes erhoben werden, ist auch das Gericht zust\u00e4ndig, in dessen Bezirk das sch\u00e4digende Ereignis stattgefunden hat.</P>",
-          "footnotes": null
-        },
+        "body": "<P>F\u00fcr Klagen, die auf Grund dieses Gesetzes erhoben werden, ist auch das Gericht zust\u00e4ndig, in dessen Bezirk das sch\u00e4digende Ereignis stattgefunden hat.</P>",
+        "footnotes": null,
         "documentaryFootnotes": null
       }
     ]
