@@ -1,3 +1,4 @@
+import gzip
 import json
 import os
 import sys
@@ -118,9 +119,14 @@ def ingest_law(session, location, gii_slug):
     return law
 
 
-def _write_json_file(filepath, content):
+def _write_file(filepath, content):
     with open(filepath, "w") as f:
         f.write(content + "\n")
+
+
+def _write_gzipped_file(filepath, content):
+    with gzip.open(filepath, "wb") as f:
+        f.write((content + "\n").encode("utf-8"))
 
 
 def write_all_law_json_files(session, dir_path):
@@ -132,16 +138,16 @@ def write_all_law_json_files(session, dir_path):
     for law in db.all_laws(session):
         law_api_model = api_schemas.Law.from_law(law)
         single_law_response = api_schemas.LawResponse(data=law_api_model)
-        _write_json_file(f"{laws_path}/{law.slug}.json", single_law_response.json(indent=2))
+        _write_file(f"{laws_path}/{law.slug}.json", single_law_response.json(indent=2))
 
         all_laws.append(law_api_model.dict())
 
-    _write_json_file(f"{dir_path}/all_laws.json", json.dumps({'data': all_laws}, indent=2))
+    _write_gzipped_file(f"{dir_path}/all_laws.json.gz", json.dumps({'data': all_laws}, indent=2))
 
 
 def write_law_json_file(session, law, dir_path):
     filepath = f"{dir_path}/{law.slug}.json"
-    _write_json_file(filepath, api_schemas.LawResponse.from_law(law).json(indent=2))
+    _write_file(filepath, api_schemas.LawResponse.from_law(law).json(indent=2))
 
 
 def upload_file_to_s3(local_path, s3_key):
@@ -150,15 +156,18 @@ def upload_file_to_s3(local_path, s3_key):
 
 
 def generate_and_upload_bulk_law_files(session):
+    tarfilename = "all_laws.tar.gz"
+    jsonfilename = "all_laws.json.gz"
+
     with tempfile.TemporaryDirectory() as dir_path:
         print("Generating json files")
         write_all_law_json_files(session, dir_path)
 
-        tarfilename = f"{dir_path}/all_laws.tar.gz"
-        with tarfile.open(tarfilename, "w:gz") as tf:
+        print("Creating tarball")
+        tarfilepath = f"{dir_path}/{tarfilename}"
+        with tarfile.open(tarfilepath, "w:gz") as tf:
             tf.add(dir_path + "/laws", arcname="laws")
 
         print("Uploading")
-        jsonfilename = f"{dir_path}/all_laws.json"
-        upload_file_to_s3(tarfilename, "public/all_laws.tar.gz")
-        upload_file_to_s3(jsonfilename, "public/all_laws.json")
+        upload_file_to_s3(tarfilepath, f"public/{tarfilename}")
+        upload_file_to_s3(f"{dir_path}/{jsonfilename}", f"public/{jsonfilename}")
