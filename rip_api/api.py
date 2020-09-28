@@ -60,10 +60,10 @@ def read_law(slug: str):
         return response_model
 
 
-@app.get("/bulk_downloads/all_laws.json")
+@app.get("/bulk_downloads/all_laws.json.gz")
 async def bulk_download_laws_json():
     return fastapi.responses.RedirectResponse(
-        url="https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/all_laws.json",
+        url="https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/all_laws.json.gz",
         status_code=302)
 
 
