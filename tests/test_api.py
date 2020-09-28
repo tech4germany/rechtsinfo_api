@@ -46,12 +46,12 @@ class TestGetLaw:
 
 class TestBulkDownloads:
     def test_get_all_laws_json(self, client):
-        response = client.get("/bulk_downloads/all_laws.json", allow_redirects=False)
+        response = client.get("/bulk_downloads/all_laws.json.gz", allow_redirects=False)
 
         assert response.status_code == 302
         location = response.headers["Location"]
         assert "s3" in location
-        assert location.endswith("all_laws.json")
+        assert location.endswith("all_laws.json.gz")
 
     def test_get_all_laws_tarball(self, client):
         response = client.get("/bulk_downloads/all_laws.tar.gz", allow_redirects=False)
