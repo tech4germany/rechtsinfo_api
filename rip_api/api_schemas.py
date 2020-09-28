@@ -6,13 +6,9 @@ import pydantic
 from . import PUBLIC_ASSET_ROOT
 
 
-class TextBody(pydantic.BaseModel):
-    content: Optional[str]
-    footnotes: Optional[str]
-
-
 class TextContent(pydantic.BaseModel):
-    body: Optional[TextBody] = ...
+    body: Optional[str] = ...
+    footnotes: Optional[str] = ...
     documentaryFootnotes: Optional[str] = ...
 
 
@@ -26,7 +22,6 @@ class ContentItem(pydantic.BaseModel):
     id: str
     name: str
     title: Optional[str]
-    contentLevel: int
     parent: Optional[ContentItemReference]
 
     @pydantic.validator("type", allow_reuse=True, check_fields=False)
@@ -37,7 +32,8 @@ class ContentItem(pydantic.BaseModel):
 
 
 class ContentItemWithTextContent(ContentItem):
-    body: Optional[TextBody] = ...
+    body: Optional[str] = ...
+    footnotes: Optional[str] = ...
     documentaryFootnotes: Optional[str] = ...
 
 
@@ -60,12 +56,12 @@ def content_item_from_db_model(item):
         "id": item.doknr,
         "name": item.name,
         "title": item.title,
-        "contentLevel": item.content_level,
         "parent": item.parent and ContentItemReference(type=humps.camelize(item.parent.item_type), id=item.parent.doknr),
     }
 
     if model_type in (Article, HeadingArticle):
-        attrs["body"] = item.body and TextBody(**item.body)
+        attrs["body"] = item.body
+        attrs["footnotes"] = item.footnotes
         attrs["documentaryFootnotes"] = item.documentary_footnotes
 
     return model_type(**attrs)
@@ -88,8 +84,8 @@ class Law(pydantic.BaseModel):
     extraAbbreviations: List[str]
     firstPublished: str
     sourceTimestamp: str
-    headingShort: Optional[str]
-    headingLong: str
+    titleShort: Optional[str]
+    titleLong: str
     publicationInfo: List[PublicationInfoItem]
     statusInfo: List[StatusInfoItem]
     notes: TextContent
@@ -103,17 +99,23 @@ class Law(pydantic.BaseModel):
             for name in law.attachment_names
         }
 
+        notes = {
+            "body": law.notes_body,
+            "footnotes": law.notes_footnotes,
+            "documentaryFootnotes": law.notes_documentary_footnotes
+        }
+
         return cls(
             id=law.doknr,
             abbreviation=law.abbreviation,
             extraAbbreviations=law.extra_abbreviations,
             firstPublished=law.first_published,
             sourceTimestamp=law.source_timestamp,
-            headingShort=law.heading_short,
-            headingLong=law.heading_long,
+            titleShort=law.title_short,
+            titleLong=law.title_long,
             publicationInfo=pydantic.parse_obj_as(List[PublicationInfoItem], law.publication_info),
             statusInfo=pydantic.parse_obj_as(List[StatusInfoItem], law.status_info),
-            notes=TextContent(**humps.camelize(law.notes)),
+            notes=notes,
             attachments=attachments,
             contents=[content_item_from_db_model(ci) for ci in law.contents],
         )

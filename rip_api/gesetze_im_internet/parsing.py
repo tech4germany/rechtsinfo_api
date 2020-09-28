@@ -71,7 +71,7 @@ def _parse_text(norm):
     elements = norm.xpath("textdaten/text")
 
     if not elements:
-        return None
+        return {}
 
     assert len(elements) == 1, 'Found multiple elements matching "textdaten/text"'
     text = elements[0]
@@ -79,7 +79,7 @@ def _parse_text(norm):
     text_format = text.get("format")
     if text_format == "decorated":
         assert _text(text) is None, "Found text[@format=decorated] with unexpected text content."
-        return None
+        return {}
 
     assert text_format == "XML", f'Unknown text format {text["format"]}'
 
@@ -87,10 +87,7 @@ def _parse_text(norm):
     toc = _text(text.xpath("TOC"))
     assert not (content and toc), "Found norm with both TOC and Content."
 
-    data = {"content": content or toc, "footnotes": _text(text.xpath("Footnotes"))}
-
-    if not any(data.values()):
-        return None
+    data = {"body": content or toc, "footnotes": _text(text.xpath("Footnotes"))}
 
     return data
 
@@ -105,7 +102,7 @@ def _parse_text_content(content):
 EMPTY_CONTENT_PATTERNS = ["<P/>", "<P>-</P>"]
 
 
-def _parse_footnotes(norm):
+def _parse_documentary_footnotes(norm):
     return _parse_text_content(norm.xpath("textdaten/fussnoten/Content"))
 
 
@@ -121,35 +118,37 @@ def load_norms_from_file(file_or_filepath):
 
 def extract_law_attrs(header_norm):
     abbrs = _parse_abbrs(header_norm)
+    notes_text = _parse_text(header_norm)
     return {
         "doknr": header_norm.get("doknr"),
         **abbrs,
         "first_published": _text(header_norm.xpath("metadaten/ausfertigung-datum")),
         "source_timestamp": header_norm.get("builddate"),
-        "heading_long": _text(header_norm.xpath("metadaten/langue")),
-        "heading_short": _text(header_norm.xpath("metadaten/kurzue")),
+        "title_long": _text(header_norm.xpath("metadaten/langue")),
+        "title_short": _text(header_norm.xpath("metadaten/kurzue")),
         "publication_info": _parse_publication_info(header_norm),
         "status_info": _parse_status_info(header_norm),
-        "notes": {
-            "body": _parse_text(header_norm),
-            "documentary_footnotes": _parse_footnotes(header_norm)
-        }
+        "notes_body": notes_text.get("body"),
+        "notes_footnotes": notes_text.get("footnotes"),
+        "notes_documentary_footnotes": _parse_documentary_footnotes(header_norm)
     }
 
 
 def extract_contents(body_norms):
     def _extract_common_attrs(norm):
+        text = _parse_text(norm)
         return {
             "doknr": norm.get("doknr"),
-            "body": _parse_text(norm),
-            "documentary_footnotes": _parse_footnotes(norm)
+            "body": text.get("body"),
+            "footnotes": text.get("footnotes"),
+            "documentary_footnotes": _parse_documentary_footnotes(norm)
         }
 
     def _set_item_type(item, norm):
         if "NE" in item["doknr"]:
             item["item_type"] = "article"
         elif "NG" in item["doknr"]:
-            if item["body"] or item["documentary_footnotes"]:
+            if item["body"] or item["footnotes"] or item["documentary_footnotes"]:
                 item["item_type"] = "heading_article"
             else:
                 item["item_type"] = "heading"
@@ -201,12 +200,6 @@ def extract_contents(body_norms):
         if item["parent"]:
             parser_state["items_with_children"].add(item["parent"]["doknr"])
 
-    def _set_content_level(item):
-        if not item["parent"]:
-            item["content_level"] = 0
-        else:
-            item["content_level"] = item["parent"]["content_level"] + 1
-
     content_items = []
 
     parser_state = {
@@ -220,7 +213,6 @@ def extract_contents(body_norms):
         _set_item_type(item, norm)
         _set_name_and_title(item, norm)
         _set_parent(item, norm, parser_state)
-        _set_content_level(item)
         content_items.append(item)
 
     # Convert empty heading articles to articles
