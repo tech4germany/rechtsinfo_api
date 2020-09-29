@@ -1,10 +1,13 @@
+from enum import Enum
+from typing import Optional
+
 import fastapi
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 import starlette
 
 from . import PUBLIC_ASSET_ROOT, db
-from .api_schemas import LawResponse
+from . import api_schemas
 
 app = fastapi.FastAPI()
 app.add_middleware(GZipMiddleware)
@@ -48,16 +51,25 @@ async def http_exception_handler(request: fastapi.Request, exc: starlette.except
     return response
 
 
-@app.get("/laws/{slug}", response_model=LawResponse)
-def read_law(slug: str):
+class LawIncludeOptions(Enum):
+    contents = "contents"
+
+
+@app.get("/laws/{slug}", response_model=api_schemas.LawResponse)
+def read_law(slug: str, include: Optional[LawIncludeOptions] = None):
     with db.session_scope() as session:
         law = db.find_law_by_slug(session, slug)
         if not law:
             raise ApiException(
                 status_code=404, title="Resource not found", detail="Could not find a law for this slug."
             )
-        response_model = LawResponse.from_law(law)
-        return response_model
+
+        if include == LawIncludeOptions.contents:
+            law_schema = api_schemas.LawWithContents.from_law(law)
+        else:
+            law_schema = api_schemas.Law.from_law(law)
+
+        return api_schemas.LawResponse(data=law_schema)
 
 
 @app.get("/bulk_downloads/all_laws.json.gz")

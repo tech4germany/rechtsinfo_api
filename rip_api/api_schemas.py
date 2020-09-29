@@ -90,10 +90,9 @@ class Law(pydantic.BaseModel):
     statusInfo: List[StatusInfoItem]
     notes: TextContent
     attachments: dict
-    contents: List[Union[Article, Heading, HeadingArticle]]
 
-    @classmethod
-    def from_law(cls, law):
+    @staticmethod
+    def _attrs_dict_from_law(law):
         attachments = {
             name: f"{PUBLIC_ASSET_ROOT}/gesetze_im_internet/{law.gii_slug}/{name}"
             for name in law.attachment_names
@@ -105,7 +104,7 @@ class Law(pydantic.BaseModel):
             "documentaryFootnotes": law.notes_documentary_footnotes
         }
 
-        return cls(
+        return dict(
             id=law.doknr,
             abbreviation=law.abbreviation,
             extraAbbreviations=law.extra_abbreviations,
@@ -116,13 +115,30 @@ class Law(pydantic.BaseModel):
             publicationInfo=pydantic.parse_obj_as(List[PublicationInfoItem], law.publication_info),
             statusInfo=pydantic.parse_obj_as(List[StatusInfoItem], law.status_info),
             notes=notes,
-            attachments=attachments,
-            contents=[content_item_from_db_model(ci) for ci in law.contents],
+            attachments=attachments
+        )
+
+    @classmethod
+    def from_law(cls, law):
+        return cls(**cls._attrs_dict_from_law(law))
+
+
+class LawWithContents(Law):
+    contents: List[Union[Article, Heading, HeadingArticle]]
+
+    @classmethod
+    def from_law(cls, law):
+        attrs = super()._attrs_dict_from_law(law)
+        return cls(
+            **attrs,
+            contents=[content_item_from_db_model(ci) for ci in law.contents]
         )
 
 
 class LawResponse(pydantic.BaseModel):
-    data: Law
+    # LawWithContents must come first in the Union: FastAPI tries them in order and only skips
+    # types if there's a validation error.
+    data: Union[LawWithContents, Law]
 
     @classmethod
     def from_law(cls, law):

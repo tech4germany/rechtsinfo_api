@@ -21,9 +21,19 @@ def law():
 class TestGetLaw:
     def test_law_happy_path(self, client, law):
         example_json = load_example_json("skaufg")
+        del example_json["data"]["contents"]  # contents are not included by default
 
         with mock.patch("rip_api.db.find_law_by_slug", return_value=law):
             response = client.get("/laws/skaufg")
+
+        assert response.status_code == 200
+        assert response.json() == example_json
+
+    def test_law_include_contents(self, client, law):
+        example_json = load_example_json("skaufg")
+
+        with mock.patch("rip_api.db.find_law_by_slug", return_value=law):
+            response = client.get("/laws/skaufg?include=contents")
 
         assert response.status_code == 200
         assert response.json() == example_json
