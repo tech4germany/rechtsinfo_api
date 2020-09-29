@@ -6,23 +6,16 @@ import pydantic
 from . import PUBLIC_ASSET_ROOT
 
 
-class TextContent(pydantic.BaseModel):
-    body: Optional[str] = ...
-    footnotes: Optional[str] = ...
-    documentaryFootnotes: Optional[str] = ...
-
-
-class ContentItemReference(pydantic.BaseModel):
-    type: str
-    id: str
-
-
 class ContentItem(pydantic.BaseModel):
     type: str
     id: str
     name: str
     title: Optional[str]
-    parent: Optional[ContentItemReference]
+    parent: Optional[pydantic.create_model(
+        'ContentItemReference',
+        type=(str, ...),
+        id=(str, ...)
+    )]
 
     @pydantic.validator("type", allow_reuse=True, check_fields=False)
     def type_string_must_match_model_type(cls, v):
@@ -56,7 +49,10 @@ def content_item_from_db_model(item):
         "id": item.doknr,
         "name": item.name,
         "title": item.title,
-        "parent": item.parent and ContentItemReference(type=humps.camelize(item.parent.item_type), id=item.parent.doknr),
+        "parent": item.parent and {
+            "type": humps.camelize(item.parent.item_type),
+            "id": item.parent.doknr
+        }
     }
 
     if model_type in (Article, HeadingArticle):
@@ -65,16 +61,6 @@ def content_item_from_db_model(item):
         attrs["documentaryFootnotes"] = item.documentary_footnotes
 
     return model_type(**attrs)
-
-
-class PublicationInfoItem(pydantic.BaseModel):
-    reference: str
-    periodical: str
-
-
-class StatusInfoItem(pydantic.BaseModel):
-    comment: str
-    category: str
 
 
 class LawBasicFields(pydantic.BaseModel):
@@ -112,9 +98,22 @@ class LawAllFields(LawBasicFields):
     sourceTimestamp: str
     titleShort: Optional[str]
     titleLong: str
-    publicationInfo: List[PublicationInfoItem]
-    statusInfo: List[StatusInfoItem]
-    notes: TextContent
+    publicationInfo: List[pydantic.create_model(
+        'PublicationInfoItem',
+        reference=(str, ...),
+        periodical=(str, ...)
+    )]
+    statusInfo: List[pydantic.create_model(
+        'StatusInfoItem',
+        comment=(str, ...),
+        category=(str, ...)
+    )]
+    notes: pydantic.create_model(
+        'TextContent',
+        body=(Optional[str], ...),
+        footnotes=(Optional[str], ...),
+        documentaryFootnotes=(Optional[str], ...)
+    )
     attachments: dict
 
     @classmethod
@@ -122,8 +121,8 @@ class LawAllFields(LawBasicFields):
         attrs = super()._attrs_dict_from_law(law)
 
         attrs["extraAbbreviations"] = law.extra_abbreviations
-        attrs["publicationInfo"] = pydantic.parse_obj_as(List[PublicationInfoItem], law.publication_info)
-        attrs["statusInfo"] = pydantic.parse_obj_as(List[StatusInfoItem], law.status_info)
+        attrs["publicationInfo"] = law.publication_info
+        attrs["statusInfo"] = law.status_info
 
         attrs["notes"] = {
             "body": law.notes_body,
