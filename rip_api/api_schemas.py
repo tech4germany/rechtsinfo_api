@@ -77,7 +77,33 @@ class StatusInfoItem(pydantic.BaseModel):
     category: str
 
 
-class Law(pydantic.BaseModel):
+class LawBasicFields(pydantic.BaseModel):
+    type: str = "law"
+    id: str
+    abbreviation: str
+    firstPublished: str
+    sourceTimestamp: str
+    titleShort: Optional[str]
+    titleLong: str
+
+    @classmethod
+    def _attrs_dict_from_law(cls, law):
+        return dict(
+            id=law.doknr,
+            abbreviation=law.abbreviation,
+            firstPublished=law.first_published,
+            sourceTimestamp=law.source_timestamp,
+            titleShort=law.title_short,
+            titleLong=law.title_long
+        )
+
+    @classmethod
+    def from_law(cls, law):
+        return cls(**cls._attrs_dict_from_law(law))
+
+
+class LawAllFields(LawBasicFields):
+    # Repeating all fields to ensure desired ordering.
     type: str = "law"
     id: str
     abbreviation: str
@@ -91,58 +117,61 @@ class Law(pydantic.BaseModel):
     notes: TextContent
     attachments: dict
 
-    @staticmethod
-    def _attrs_dict_from_law(law):
-        attachments = {
-            name: f"{PUBLIC_ASSET_ROOT}/gesetze_im_internet/{law.gii_slug}/{name}"
-            for name in law.attachment_names
-        }
+    @classmethod
+    def _attrs_dict_from_law(cls, law):
+        attrs = super()._attrs_dict_from_law(law)
 
-        notes = {
+        attrs["extraAbbreviations"] = law.extra_abbreviations
+        attrs["publicationInfo"] = pydantic.parse_obj_as(List[PublicationInfoItem], law.publication_info)
+        attrs["statusInfo"] = pydantic.parse_obj_as(List[StatusInfoItem], law.status_info)
+
+        attrs["notes"] = {
             "body": law.notes_body,
             "footnotes": law.notes_footnotes,
             "documentaryFootnotes": law.notes_documentary_footnotes
         }
 
-        return dict(
-            id=law.doknr,
-            abbreviation=law.abbreviation,
-            extraAbbreviations=law.extra_abbreviations,
-            firstPublished=law.first_published,
-            sourceTimestamp=law.source_timestamp,
-            titleShort=law.title_short,
-            titleLong=law.title_long,
-            publicationInfo=pydantic.parse_obj_as(List[PublicationInfoItem], law.publication_info),
-            statusInfo=pydantic.parse_obj_as(List[StatusInfoItem], law.status_info),
-            notes=notes,
-            attachments=attachments
-        )
+        attrs["attachments"] = {
+            name: f"{PUBLIC_ASSET_ROOT}/gesetze_im_internet/{law.gii_slug}/{name}"
+            for name in law.attachment_names
+        }
 
-    @classmethod
-    def from_law(cls, law):
-        return cls(**cls._attrs_dict_from_law(law))
+        return attrs
 
 
-class LawWithContents(Law):
+class LawAllFieldsWithContents(LawAllFields):
     contents: List[Union[Article, Heading, HeadingArticle]]
 
     @classmethod
-    def from_law(cls, law):
+    def _attrs_dict_from_law(cls, law):
         attrs = super()._attrs_dict_from_law(law)
-        return cls(
-            **attrs,
-            contents=[content_item_from_db_model(ci) for ci in law.contents]
-        )
+        attrs["contents"] = [content_item_from_db_model(ci) for ci in law.contents]
+        return attrs
 
 
 class LawResponse(pydantic.BaseModel):
     # LawWithContents must come first in the Union: FastAPI tries them in order and only skips
     # types if there's a validation error.
-    data: Union[LawWithContents, Law]
+    data: Union[LawAllFieldsWithContents, LawAllFields]
 
     @classmethod
     def from_law(cls, law):
-        return cls(data=Law.from_law(law))
+        return cls(data=LawAllFields.from_law(law))
+
+
+class LawsResponse(pydantic.BaseModel):
+    data: list
+    links: pydantic.create_model(
+        'PaginationLinks',
+        prev=(str, None),
+        next=(str, None)
+    )
+    pagination: pydantic.create_model(
+        'Pagination',
+        total=(int, ...),
+        page=(int, ...),
+        per_page=(int, ...)
+    )
 
 
 ITEM_TYPE_TO_MODEL_TYPE = {

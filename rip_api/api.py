@@ -14,6 +14,9 @@ app.add_middleware(GZipMiddleware)
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 
+API_BASE_URL = "https://api.rechtsinformationsportal.de"
+
+
 class ApiException(Exception):
     def __init__(self, status_code, title, detail):
         self.status_code = status_code
@@ -56,7 +59,14 @@ class LawIncludeOptions(Enum):
 
 
 @app.get("/laws/{slug}", response_model=api_schemas.LawResponse)
-def read_law(slug: str, include: Optional[LawIncludeOptions] = None):
+def get_law(
+    slug: str,
+    include: Optional[LawIncludeOptions] = None
+):
+    schema_class = api_schemas.LawAllFields
+    if include == LawIncludeOptions.contents:
+        schema_class = api_schemas.LawAllFieldsWithContents
+
     with db.session_scope() as session:
         law = db.find_law_by_slug(session, slug)
         if not law:
@@ -64,12 +74,47 @@ def read_law(slug: str, include: Optional[LawIncludeOptions] = None):
                 status_code=404, title="Resource not found", detail="Could not find a law for this slug."
             )
 
-        if include == LawIncludeOptions.contents:
-            law_schema = api_schemas.LawWithContents.from_law(law)
-        else:
-            law_schema = api_schemas.Law.from_law(law)
+        return {"data": schema_class.from_law(law)}
 
-        return api_schemas.LawResponse(data=law_schema)
+
+class LawsIncludeOptions(Enum):
+    all_fields = "all_fields"
+
+
+@app.get("/laws", response_model=api_schemas.LawsResponse)
+def get_laws(
+    page: int = fastapi.Query(1, gt=0),
+    per_page: int = fastapi.Query(10, gt=0, le=100),
+    include: Optional[LawsIncludeOptions] = None
+):
+    def _generate_pagination_url(page=page):
+        if not page:
+            return None
+        url = f"{API_BASE_URL}/laws?page={page}&per_page={per_page}"
+        if include:
+            url += f"&include={include.value}"
+        return url
+
+    schema_class = api_schemas.LawBasicFields
+    if include == LawsIncludeOptions.all_fields:
+        schema_class = api_schemas.LawAllFields
+
+    with db.session_scope() as session:
+        pagination = db.all_laws_paginated(session, page, per_page)
+        data = [schema_class.from_law(law) for law in pagination.items]
+
+    return {
+        "data": data,
+        "pagination": {
+            "total": pagination.total,
+            "page": pagination.page,
+            "per_page": pagination.per_page
+        },
+        "links": {
+            "prev": _generate_pagination_url(pagination.prev_page),
+            "next": _generate_pagination_url(pagination.next_page)
+        }
+    }
 
 
 @app.get("/bulk_downloads/all_laws.json.gz")
