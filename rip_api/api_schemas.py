@@ -12,7 +12,7 @@ class ContentItem(pydantic.BaseModel):
     name: str
     title: Optional[str]
     parent: Optional[pydantic.create_model(
-        'ContentItemReference',
+        'ContentItemReference',  # noqa
         type=(str, ...),
         id=(str, ...)
     )]
@@ -93,17 +93,17 @@ class LawBasicFields(pydantic.BaseModel):
 class LawAllFields(LawBasicFields):
     extraAbbreviations: List[str]
     publicationInfo: List[pydantic.create_model(
-        'PublicationInfoItem',
+        'PublicationInfoItem',  # noqa
         reference=(str, ...),
         periodical=(str, ...)
     )]
     statusInfo: List[pydantic.create_model(
-        'StatusInfoItem',
+        'StatusInfoItem',  # noqa
         comment=(str, ...),
         category=(str, ...)
     )]
     notes: pydantic.create_model(
-        'TextContent',
+        'TextContent',  # noqa
         body=(Optional[str], ...),
         footnotes=(Optional[str], ...),
         documentaryFootnotes=(Optional[str], ...)
@@ -133,6 +133,7 @@ class LawAllFields(LawBasicFields):
 
 
 class LawAllFieldsWithContents(LawAllFields):
+    # Ordering in the Union matters, cf. LawResponse.
     contents: List[Union[Article, Heading, HeadingArticle]]
 
     @classmethod
@@ -155,16 +156,21 @@ class LawResponse(pydantic.BaseModel):
 class LawsResponse(pydantic.BaseModel):
     data: list
     links: pydantic.create_model(
-        'PaginationLinks',
+        'PaginationLinks',  # noqa
         prev=(str, None),
         next=(str, None)
     )
     pagination: pydantic.create_model(
-        'Pagination',
+        'Pagination',  # noqa
         total=(int, ...),
         page=(int, ...),
         per_page=(int, ...)
     )
+
+
+class ContentItemResponse(pydantic.BaseModel):
+    # Ordering in the Union matters, cf. LawResponse.
+    data: Union[Article, Heading, HeadingArticle]
 
 
 ITEM_TYPE_TO_MODEL_TYPE = {

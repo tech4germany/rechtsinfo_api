@@ -29,7 +29,8 @@ def test_parser():
     ]
     assert law["notes_body"] is None
     assert law["notes_footnotes"] is None
-    assert law["notes_documentary_footnotes"] == '<P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 27.7.1995 +++)<BR/><BR/></pre></P>'
+    assert law["notes_documentary_footnotes"] == \
+        '<P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 27.7.1995 +++)<BR/><BR/></pre></P>'
 
     assert len(law["contents"]) == 9
 
@@ -190,4 +191,4 @@ vorübergehenden Aufenthalten in der Bundesrepublik Deutschland</langue><standan
 <norm builddate="20200722212521" doknr="BJNR055429995BJNE002801311"><metadaten><jurabk>SkAufG</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Art 3</gliederungsbez><gliederungstitel/></gliederungseinheit><enbez>§ 1</enbez></metadaten><textdaten><text format="XML"><Content><P>Das Bundesministerium der Verteidigung erläßt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat allgemeine Verwaltungsvorschriften zur Ausführung des Artikels 2 § 5 über Besitz und Führen von Schußwaffen der diesem Gesetz unterfallenden ausländischen Militärangehörigen.</P></Content></text><fussnoten/></textdaten></norm>
 <norm builddate="20200722212521" doknr="BJNR055429995BJNE002900305"><metadaten><jurabk>SkAufG</jurabk><gliederungseinheit><gliederungskennzahl>030</gliederungskennzahl><gliederungsbez>Art 3</gliederungsbez></gliederungseinheit><enbez>§ 2</enbez></metadaten><textdaten><text format="XML"><Content><P>Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit gemäß Artikel 2 § 7 Abs. 2 wird von der Staatsanwaltschaft erklärt.</P></Content></text></textdaten></norm>
 <norm builddate="20200722212521" doknr="BJNR055429995BJNG000400305"><metadaten><jurabk>SkAufG</jurabk><gliederungseinheit><gliederungskennzahl>040</gliederungskennzahl><gliederungsbez>Art 4</gliederungsbez></gliederungseinheit></metadaten><textdaten><text format="XML"><Content><P>Dieses Gesetz findet keine Anwendung auf <ABWFORMAT typ="A"/>Militärattaches eines ausländischen Staates in der Bundesrepublik Deutschland, die Mitglieder ihrer Stäbe sowie andere Militärpersonen, die in der Bundesrepublik Deutschland einen diplomatischen oder konsularischen Status haben.</P></Content></text></textdaten></norm>
-</dokumente>"""
+</dokumente>"""  # noqa

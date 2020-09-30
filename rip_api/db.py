@@ -5,11 +5,13 @@ import os
 import typing
 
 from sqlalchemy import create_engine
-from sqlalchemy.orm import load_only, sessionmaker
+from sqlalchemy.orm import joinedload, load_only, sessionmaker
 
-from .models import Base, Law
+from .models import Base, Law, ContentItem
 
-_engine = create_engine(os.environ.get("DB_URI") or "postgresql://localhost:5432/rip_api")
+_engine = create_engine(
+    os.environ.get("DB_URI") or "postgresql://localhost:5432/rip_api"
+)
 Session = sessionmaker(bind=_engine)
 
 
@@ -24,7 +26,7 @@ def session_scope():
     try:
         yield session
         session.commit()
-    except:
+    except:  # noqa
         session.rollback()
         raise
     finally:
@@ -89,6 +91,15 @@ def find_law_by_doknr(session, doknr):
 
 def find_law_by_slug(session, slug):
     return session.query(Law).filter_by(slug=slug).first()
+
+
+def find_content_item_by_id_and_law_slug(session, content_item_id, law_slug):
+    return (
+        session.query(ContentItem)
+        .options(joinedload(ContentItem.law), joinedload(ContentItem.parent).load_only("doknr", "item_type"))
+        .filter(ContentItem.doknr == content_item_id, Law.slug == law_slug)
+        .first()
+    )
 
 
 def bulk_delete_laws_by_gii_slug(session, gii_slugs):

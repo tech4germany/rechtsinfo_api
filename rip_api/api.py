@@ -106,6 +106,23 @@ def list_laws(
     }
 
 
+@app.get("/laws/{slug}/articles/{article_id}", response_model=api_schemas.ContentItemResponse)
+def get_article(
+    slug: str,
+    article_id: str
+):
+    with db.session_scope() as session:
+        content_item = db.find_content_item_by_id_and_law_slug(session, article_id, slug)
+        if not content_item:
+            raise ApiException(
+                status_code=404, title="Resource not found", detail="Could not find article."
+            )
+
+    return {
+        "data": api_schemas.content_item_from_db_model(content_item)
+    }
+
+
 @app.get("/bulk_downloads/all_laws.json.gz")
 async def bulk_download_laws_json():
     return fastapi.responses.RedirectResponse(

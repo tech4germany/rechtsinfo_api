@@ -141,6 +141,48 @@ class TestListLaws:
         assert response.json()["data"][0] == law_full_response_dict
 
 
+class TestGetArticle:
+    def test_happy_path(self, client):
+        content_item = mock.Mock()
+        content_item.configure_mock(
+            item_type="article",
+            doknr="BJNR001950896BJNE000102377",
+            name="§ 1",
+            title="Beginn der Rechtsfähigkeit",
+            parent=mock.Mock(
+                item_type="heading",
+                doknr="BJNR001950896BJNG000302377"
+            ),
+            body="<P>Die Rechtsfähigkeit des Menschen beginnt mit der Vollendung der Geburt.</P>",
+            footnotes=None,
+            documentary_footnotes=None
+        )
+        with mock.patch("rip_api.db.find_content_item_by_id_and_law_slug", return_value=content_item):
+            response = client.get("/laws/bgb/articles/BJNR001950896BJNE000102377")
+
+        assert response.json() == {
+            "data": {
+                "type": "article",
+                "id": "BJNR001950896BJNE000102377",
+                "name": "§ 1",
+                "title": "Beginn der Rechtsfähigkeit",
+                "parent": {
+                    "type": "heading",
+                    "id": "BJNR001950896BJNG000302377"
+                },
+                "body": "<P>Die Rechtsfähigkeit des Menschen beginnt mit der Vollendung der Geburt.</P>",
+                "footnotes": None,
+                "documentaryFootnotes": None
+            }
+        }
+
+    def test_not_found(self, client):
+        with mock.patch("rip_api.db.find_content_item_by_id_and_law_slug", return_value=None):
+            response = client.get("/laws/bgb/articles/asd")
+
+        assert response.status_code == 404
+
+
 class TestBulkDownloads:
     def test_get_all_laws_json(self, client):
         response = client.get("/bulk_downloads/all_laws.json.gz", allow_redirects=False)
