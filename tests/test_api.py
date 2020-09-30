@@ -48,6 +48,29 @@ class TestGetLaw:
         assert response.status_code == 200
         assert response.json()["data"] == law_response_dict_with_contents
 
+    def test_unsupported_include_value(self, client):
+        response = client.get("/laws/skaufg?include=unsupported")
+
+        assert response.status_code == 422
+        assert response.json() == {
+            "errors": [
+                {
+                    "code": 422,
+                    "title": "Unprocessable Entity",
+                    "detail":[
+                        {
+                            "loc": ["query", "include"],
+                            "msg": "value is not a valid enumeration member; permitted: 'contents'",
+                            "type": "type_error.enum",
+                            "ctx": {
+                                "enum_values": ["contents"]
+                            }
+                        }
+                    ]
+                }
+            ]
+    }
+
     def test_law_not_found(self, client):
         with mock.patch("rip_api.db.find_law_by_slug", return_value=None):
             response = client.get("/laws/unknown_slug")
@@ -139,6 +162,29 @@ class TestListLaws:
 
         assert response.status_code == 200
         assert response.json()["data"][0] == law_full_response_dict
+
+    def test_unsupported_include_value(self, client):
+        response = client.get("/laws?include=unsupported")
+
+        assert response.status_code == 422
+        assert response.json() == {
+            "errors": [
+                {
+                    "code": 422,
+                    "title": "Unprocessable Entity",
+                    "detail":[
+                        {
+                            "loc": ["query", "include"],
+                            "msg": "value is not a valid enumeration member; permitted: 'all_fields'",
+                            "type": "type_error.enum",
+                            "ctx": {
+                                "enum_values": ["all_fields"]
+                            }
+                        }
+                    ]
+                }
+            ]
+    }
 
 
 class TestGetArticle:

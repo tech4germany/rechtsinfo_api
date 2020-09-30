@@ -51,6 +51,12 @@ async def http_exception_handler(request: fastapi.Request, exc: starlette.except
     return response
 
 
+@app.exception_handler(fastapi.exceptions.RequestValidationError)
+async def validation_error_handler(request: fastapi.Request, exc: fastapi.exceptions.RequestValidationError):
+    detail = fastapi.encoders.jsonable_encoder(exc.errors())
+    return build_error_response(status_code=422, title="Unprocessable Entity", detail=detail)
+
+
 class GetLawIncludeOptions(Enum):
     contents = "contents"
 
