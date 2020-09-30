@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR004990951",
-    "abbreviation": "KSchG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/kschg",
     "firstPublished": "1951-08-10",
     "sourceTimestamp": "20171122221016",
     "titleShort": null,
     "titleLong": "K\u00fcndigungsschutzgesetz",
+    "abbreviation": "KSchG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1951, 499",

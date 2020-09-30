@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR167400996",
-    "abbreviation": "AA\u00dcG-\u00c4ndG",
-    "extraAbbreviations": [
-      "AA\u00dcG\u00c4ndG"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/aaueg_aendg",
     "firstPublished": "1996-11-11",
     "sourceTimestamp": "20120625150544",
     "titleShort": "AA\u00dcG-\u00c4nderungsgesetz",
     "titleLong": "Gesetz zur \u00c4nderung und Erg\u00e4nzung des\nAnspruchs- und Anwartschafts\u00fcberf\u00fchrungsgesetzes",
+    "abbreviation": "AA\u00dcG-\u00c4ndG",
+    "extraAbbreviations": [
+      "AA\u00dcG\u00c4ndG"
+    ],
     "publicationInfo": [
       {
         "reference": "1996, 1674",

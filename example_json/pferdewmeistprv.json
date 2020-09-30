@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR182500015",
-    "abbreviation": "PferdewMeistPrV",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv",
     "firstPublished": "2015-10-27",
     "sourceTimestamp": "20160818215559",
     "titleShort": "Pferdewirtmeisterpr\u00fcfungsverordnung",
     "titleLong": "Verordnung \u00fcber die Meisterpr\u00fcfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin",
+    "abbreviation": "PferdewMeistPrV",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2015, 1825 (1934)",

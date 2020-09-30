@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR001270871",
-    "abbreviation": "StGB",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/stgb",
     "firstPublished": "1871-05-15",
     "sourceTimestamp": "20200831213003",
     "titleShort": null,
     "titleLong": "Strafgesetzbuch",
+    "abbreviation": "StGB",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1871, 127",

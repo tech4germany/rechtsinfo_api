@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR000970897",
-    "abbreviation": "ZVG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/zvg",
     "firstPublished": "1897-03-24",
     "sourceTimestamp": "20191212212502",
     "titleShort": null,
     "titleLong": "Gesetz \u00fcber die Zwangsversteigerung und die Zwangsverwaltung",
+    "abbreviation": "ZVG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1897, 97",

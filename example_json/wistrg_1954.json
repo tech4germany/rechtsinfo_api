@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR001750954",
-    "abbreviation": "WiStrG 1954",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954",
     "firstPublished": "1954-07-09",
     "sourceTimestamp": "20200103213013",
     "titleShort": "Wirtschaftsstrafgesetz 1954",
     "titleLong": "Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts",
+    "abbreviation": "WiStrG 1954",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1954, 175",

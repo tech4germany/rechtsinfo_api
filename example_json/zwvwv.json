@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR280400003",
-    "abbreviation": "ZwVwV",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/zwvwv",
     "firstPublished": "2003-12-19",
     "sourceTimestamp": "20130405132628",
     "titleShort": null,
     "titleLong": "Zwangsverwalterverordnung",
+    "abbreviation": "ZwVwV",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2003, 2804",

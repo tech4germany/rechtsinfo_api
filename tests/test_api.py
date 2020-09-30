@@ -4,7 +4,7 @@ import pytest
 
 from fastapi.testclient import TestClient
 
-from rip_api import api
+from rip_api import api, api_schemas
 from .utils import load_example_json, load_law_from_fixture
 
 
@@ -25,10 +25,7 @@ def law_full_response_dict(law_response_dict_with_contents):
 
 @pytest.fixture
 def law_basic_response_dict(law_full_response_dict):
-    included_fields = (
-        "type", "id", "abbreviation", "firstPublished", "sourceTimestamp", "titleLong", "titleShort"
-    )
-    return {k: v for (k, v) in law_full_response_dict.items() if k in included_fields}
+    return {k: v for (k, v) in law_full_response_dict.items() if k in api_schemas.LawBasicFields.__fields__}
 
 
 @pytest.fixture
@@ -78,7 +75,7 @@ def make_pagination_mock(items, total=1, page=1, per_page=10, prev_page=None, ne
     )
 
 
-class TestGetLaws:
+class TestListLaws:
     def test_happy_path(self, client, law, law_basic_response_dict):
         with mock.patch("rip_api.db.all_laws_paginated", return_value=make_pagination_mock(items=[law])):
             response = client.get("/laws")

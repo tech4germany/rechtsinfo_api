@@ -3,7 +3,7 @@ from typing import List, Optional, Union
 import humps
 import pydantic
 
-from . import PUBLIC_ASSET_ROOT
+from . import PUBLIC_ASSET_ROOT, urls
 
 
 class ContentItem(pydantic.BaseModel):
@@ -66,16 +66,18 @@ def content_item_from_db_model(item):
 class LawBasicFields(pydantic.BaseModel):
     type: str = "law"
     id: str
-    abbreviation: str
+    url: str
     firstPublished: str
     sourceTimestamp: str
     titleShort: Optional[str]
     titleLong: str
+    abbreviation: str
 
     @classmethod
     def _attrs_dict_from_law(cls, law):
         return dict(
             id=law.doknr,
+            url=urls.get_law(law.slug),
             abbreviation=law.abbreviation,
             firstPublished=law.first_published,
             sourceTimestamp=law.source_timestamp,
@@ -89,15 +91,7 @@ class LawBasicFields(pydantic.BaseModel):
 
 
 class LawAllFields(LawBasicFields):
-    # Repeating all fields to ensure desired ordering.
-    type: str = "law"
-    id: str
-    abbreviation: str
     extraAbbreviations: List[str]
-    firstPublished: str
-    sourceTimestamp: str
-    titleShort: Optional[str]
-    titleLong: str
     publicationInfo: List[pydantic.create_model(
         'PublicationInfoItem',
         reference=(str, ...),

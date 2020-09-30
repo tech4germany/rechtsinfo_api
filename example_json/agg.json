@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR189710006",
-    "abbreviation": "AGG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/agg",
     "firstPublished": "2006-08-14",
     "sourceTimestamp": "20141120220509",
     "titleShort": null,
     "titleLong": "Allgemeines Gleichbehandlungsgesetz",
+    "abbreviation": "AGG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2006, 1897",

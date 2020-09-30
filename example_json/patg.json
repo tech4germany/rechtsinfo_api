@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR201170936",
-    "abbreviation": "PatG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/patg",
     "firstPublished": "1936-05-05",
     "sourceTimestamp": "20180524213042",
     "titleShort": null,
     "titleLong": "Patentgesetz",
+    "abbreviation": "PatG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1936, 117",

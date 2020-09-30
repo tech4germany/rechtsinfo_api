@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR114210001",
-    "abbreviation": "PUAG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/puag",
     "firstPublished": "2001-06-19",
     "sourceTimestamp": "20130405131121",
     "titleShort": "Untersuchungsausschussgesetz",
     "titleLong": "Gesetz zur Regelung des Rechts der Untersuchungsaussch\u00fcsse des Deutschen Bundestages",
+    "abbreviation": "PUAG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2001, 1142",

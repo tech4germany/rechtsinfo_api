@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR182210017",
-    "abbreviation": "GwG",
-    "extraAbbreviations": [
-      "GwG 2017"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/gwg",
     "firstPublished": "2017-06-23",
     "sourceTimestamp": "20200714212517",
     "titleShort": "Geldw\u00e4schegesetz",
     "titleLong": "Gesetz \u00fcber das Aufsp\u00fcren von Gewinnen aus schweren Straftaten",
+    "abbreviation": "GwG",
+    "extraAbbreviations": [
+      "GwG 2017"
+    ],
     "publicationInfo": [
       {
         "reference": "2017, 1822",

@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR397010002",
-    "abbreviation": "WaffG",
-    "extraAbbreviations": [
-      "WaffG 2002"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/waffg",
     "firstPublished": "2002-10-11",
     "sourceTimestamp": "20200925212510",
     "titleShort": null,
     "titleLong": "Waffengesetz",
+    "abbreviation": "WaffG",
+    "extraAbbreviations": [
+      "WaffG 2002"
+    ],
     "publicationInfo": [
       {
         "reference": "2002, 3970 (4592) (2003 I 1957)",

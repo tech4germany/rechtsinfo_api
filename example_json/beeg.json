@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR274810006",
-    "abbreviation": "BEEG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/beeg",
     "firstPublished": "2006-12-05",
     "sourceTimestamp": "20200609212517",
     "titleShort": "Bundeselterngeld- und Elternzeitgesetz",
     "titleLong": "Gesetz zum Elterngeld und zur Elternzeit",
+    "abbreviation": "BEEG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2006, 2748",

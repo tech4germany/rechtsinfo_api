@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR111260992",
-    "abbreviation": "AsylG",
-    "extraAbbreviations": [
-      "AsylVfG 1992"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/asylg",
     "firstPublished": "1992-06-26",
     "sourceTimestamp": "20200709212518",
     "titleShort": null,
     "titleLong": "Asylgesetz",
+    "abbreviation": "AsylG",
+    "extraAbbreviations": [
+      "AsylVfG 1992"
+    ],
     "publicationInfo": [
       {
         "reference": "1992, 1126",

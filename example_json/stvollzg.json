@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR005810976",
-    "abbreviation": "StVollzG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/stvollzg",
     "firstPublished": "1976-03-16",
     "sourceTimestamp": "20200415212502",
     "titleShort": "Strafvollzugsgesetz",
     "titleLong": "Gesetz \u00fcber den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Ma\u00dfregeln der Besserung und Sicherung",
+    "abbreviation": "StVollzG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1976, 581 (2088) (1977 I 436)",

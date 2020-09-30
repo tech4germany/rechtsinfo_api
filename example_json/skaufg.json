@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR055429995",
-    "abbreviation": "SkAufG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/skaufg",
     "firstPublished": "1995-07-20",
     "sourceTimestamp": "20200909212501",
     "titleShort": "Streitkr\u00e4fteaufenthaltsgesetz",
     "titleLong": "Gesetz \u00fcber die Rechtsstellung ausl\u00e4ndischer Streitkr\u00e4fte bei\nvor\u00fcbergehenden Aufenthalten in der Bundesrepublik Deutschland",
+    "abbreviation": "SkAufG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1995, 554",

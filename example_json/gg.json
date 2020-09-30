@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR000010949",
-    "abbreviation": "GG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/gg",
     "firstPublished": "1949-05-23",
     "sourceTimestamp": "20191120212501",
     "titleShort": null,
     "titleLong": "Grundgesetz f\u00fcr die Bundesrepublik Deutschland",
+    "abbreviation": "GG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1949, 1",

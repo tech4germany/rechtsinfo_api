@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR010890965",
-    "abbreviation": "AktG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/aktg",
     "firstPublished": "1965-09-06",
     "sourceTimestamp": "20200916213503",
     "titleShort": null,
     "titleLong": "Aktiengesetz",
+    "abbreviation": "AktG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1965, 1089",

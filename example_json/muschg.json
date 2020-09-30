@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR122810017",
-    "abbreviation": "MuSchG",
-    "extraAbbreviations": [
-      "MuSchG 2018"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/muschg",
     "firstPublished": "2017-05-23",
     "sourceTimestamp": "20200527212517",
     "titleShort": "Mutterschutzgesetz",
     "titleLong": "Gesetz zum Schutz von M\u00fcttern bei der Arbeit, in der Ausbildung und im Studium",
+    "abbreviation": "MuSchG",
+    "extraAbbreviations": [
+      "MuSchG 2018"
+    ],
     "publicationInfo": [
       {
         "reference": "2017, 1228",

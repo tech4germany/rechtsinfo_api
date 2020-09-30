@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR012730965",
-    "abbreviation": "UrhG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/urhg",
     "firstPublished": "1965-09-09",
     "sourceTimestamp": "20181231212033",
     "titleShort": "Urheberrechtsgesetz",
     "titleLong": "Gesetz \u00fcber Urheberrecht und verwandte Schutzrechte",
+    "abbreviation": "UrhG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1965, 1273",

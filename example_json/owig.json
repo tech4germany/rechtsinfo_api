@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR004810968",
-    "abbreviation": "OWiG",
-    "extraAbbreviations": [
-      "OWiG 1968"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/owig",
     "firstPublished": "1968-05-24",
     "sourceTimestamp": "20200812212526",
     "titleShort": null,
     "titleLong": "Gesetz \u00fcber Ordnungswidrigkeiten",
+    "abbreviation": "OWiG",
+    "extraAbbreviations": [
+      "OWiG 1968"
+    ],
     "publicationInfo": [
       {
         "reference": "1968, 481",

@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR003410960",
-    "abbreviation": "BauGB",
-    "extraAbbreviations": [
-      "BBauG"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/baugb",
     "firstPublished": "1960-06-23",
     "sourceTimestamp": "20200818213008",
     "titleShort": null,
     "titleLong": "Baugesetzbuch <FnR ID=\"F2415_BJNR003410960\"/>",
+    "abbreviation": "BauGB",
+    "extraAbbreviations": [
+      "BBauG"
+    ],
     "publicationInfo": [
       {
         "reference": "1960, 341",

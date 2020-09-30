@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR368610005",
-    "abbreviation": "AAG",
-    "extraAbbreviations": [
-      "AufAG"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/aag",
     "firstPublished": "2005-12-22",
     "sourceTimestamp": "20200703213054",
     "titleShort": "Aufwendungsausgleichsgesetz",
     "titleLong": "Gesetz \u00fcber den Ausgleich der Arbeitgeberaufwendungen f\u00fcr Entgeltfortzahlung",
+    "abbreviation": "AAG",
+    "extraAbbreviations": [
+      "AufAG"
+    ],
     "publicationInfo": [
       {
         "reference": "2005, 3686",

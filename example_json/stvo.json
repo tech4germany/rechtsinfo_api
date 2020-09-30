@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "DDNR002570977",
-    "abbreviation": "StVO",
-    "extraAbbreviations": [
-      "StVO DDR"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/stvo",
     "firstPublished": "1977-05-26",
     "sourceTimestamp": "20130405133144",
     "titleShort": "Stra\u00dfenverkehrs-Ordnung",
     "titleLong": "Verordnung \u00fcber das Verhalten im Stra\u00dfenverkehr",
+    "abbreviation": "StVO",
+    "extraAbbreviations": [
+      "StVO DDR"
+    ],
     "publicationInfo": [
       {
         "reference": "1977, 257",

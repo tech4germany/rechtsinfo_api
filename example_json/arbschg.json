@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR124610996",
-    "abbreviation": "ArbSchG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/arbschg",
     "firstPublished": "1996-08-07",
     "sourceTimestamp": "20200814212518",
     "titleShort": "Arbeitsschutzgesetz",
     "titleLong": "Gesetz \u00fcber die Durchf\u00fchrung von Ma\u00dfnahmen des Arbeitsschutzes zur Verbesserung der Sicherheit und des Gesundheitsschutzes der Besch\u00e4ftigten bei der Arbeit",
+    "abbreviation": "ArbSchG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1996, 1246",

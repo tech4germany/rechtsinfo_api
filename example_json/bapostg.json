@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR232510994",
-    "abbreviation": "BAPostG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/bapostg",
     "firstPublished": "1994-09-14",
     "sourceTimestamp": "20171231215324",
     "titleShort": "Bundesanstalt-Post-Gesetz",
     "titleLong": "Gesetz \u00fcber die Errichtung einer Bundesanstalt f\u00fcr Post und Telekommunikation Deutsche Bundespost",
+    "abbreviation": "BAPostG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1994, 2325",

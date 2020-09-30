@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR000130972",
-    "abbreviation": "BetrVG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/betrvg",
     "firstPublished": "1972-01-15",
     "sourceTimestamp": "20200529212502",
     "titleShort": null,
     "titleLong": "Betriebsverfassungsgesetz",
+    "abbreviation": "BetrVG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1972, 13",

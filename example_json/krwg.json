@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR021210012",
-    "abbreviation": "KrWG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/krwg",
     "firstPublished": "2012-02-24",
     "sourceTimestamp": "20180117214002",
     "titleShort": "Kreislaufwirtschaftsgesetz",
     "titleLong": "Gesetz zur F\u00f6rderung der Kreislaufwirtschaft und Sicherung der umweltvertr\u00e4glichen Bewirtschaftung von Abf\u00e4llen",
+    "abbreviation": "KrWG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2012, 212",

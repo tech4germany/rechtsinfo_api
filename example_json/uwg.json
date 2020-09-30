@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR141400004",
-    "abbreviation": "UWG",
-    "extraAbbreviations": [
-      "UWG 2004"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/uwg",
     "firstPublished": "2004-07-03",
     "sourceTimestamp": "20190425212014",
     "titleShort": null,
     "titleLong": "Gesetz gegen den unlauteren Wettbewerb",
+    "abbreviation": "UWG",
+    "extraAbbreviations": [
+      "UWG 2004"
+    ],
     "publicationInfo": [
       {
         "reference": "2004, 1414",

@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR025810005",
-    "abbreviation": "BArtSchV",
-    "extraAbbreviations": [
-      "BArtSchV 2005"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/bartschv",
     "firstPublished": "2005-02-16",
     "sourceTimestamp": "20200910212502",
     "titleShort": "Bundesartenschutzverordnung",
     "titleLong": "Verordnung zum Schutz wild lebender Tier- und Pflanzenarten",
+    "abbreviation": "BArtSchV",
+    "extraAbbreviations": [
+      "BArtSchV 2005"
+    ],
     "publicationInfo": [
       {
         "reference": "2005, 258 (896)",

@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR138450976",
-    "abbreviation": "SGB 4",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/sgb_4",
     "firstPublished": "1976-12-23",
     "sourceTimestamp": "20200703213036",
     "titleShort": null,
     "titleLong": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften f\u00fcr die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
+    "abbreviation": "SGB 4",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1976, 3845",

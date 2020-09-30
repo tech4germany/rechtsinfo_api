@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR017910007",
-    "abbreviation": "TMG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/tmg",
     "firstPublished": "2007-02-26",
     "sourceTimestamp": "20190717212515",
     "titleShort": null,
     "titleLong": "Telemediengesetz",
+    "abbreviation": "TMG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2007, 179",

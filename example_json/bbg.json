@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR016010009",
-    "abbreviation": "BBG",
-    "extraAbbreviations": [
-      "BBG 2009"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/bbg",
     "firstPublished": "2009-02-05",
     "sourceTimestamp": "20191127213100",
     "titleShort": null,
     "titleLong": "Bundesbeamtengesetz",
+    "abbreviation": "BBG",
+    "extraAbbreviations": [
+      "BBG 2009"
+    ],
     "publicationInfo": [
       {
         "reference": "2009, 160",

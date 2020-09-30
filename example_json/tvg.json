@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR700550949",
-    "abbreviation": "TVG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/tvg",
     "firstPublished": "1949-04-09",
     "sourceTimestamp": "20200529212524",
     "titleShort": null,
     "titleLong": "Tarifvertragsgesetz",
+    "abbreviation": "TVG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1949, 55, 68",

@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR006049896",
-    "abbreviation": "BGBEG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/bgbeg",
     "firstPublished": "1896-08-18",
     "sourceTimestamp": "20200813213005",
     "titleShort": null,
     "titleLong": "Einf\u00fchrungsgesetz zum B\u00fcrgerlichen Gesetzbuche",
+    "abbreviation": "BGBEG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1896, 604",

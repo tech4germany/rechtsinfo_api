@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR012770972",
-    "abbreviation": "TierSchG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/tierschg",
     "firstPublished": "1972-07-24",
     "sourceTimestamp": "20200818213021",
     "titleShort": null,
     "titleLong": "Tierschutzgesetz",
+    "abbreviation": "TierSchG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1972, 1277",

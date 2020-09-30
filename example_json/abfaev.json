@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR404310013",
-    "abbreviation": "AbfAEV",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/abfaev",
     "firstPublished": "2013-12-05",
     "sourceTimestamp": "20191201213510",
     "titleShort": "Anzeige- und Erlaubnisverordnung",
     "titleLong": "Verordnung \u00fcber das Anzeige- und Erlaubnisverfahren f\u00fcr Sammler, Bef\u00f6rderer, H\u00e4ndler und Makler von Abf\u00e4llen",
+    "abbreviation": "AbfAEV",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2013, 4043",

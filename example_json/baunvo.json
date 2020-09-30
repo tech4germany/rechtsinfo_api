@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR004290962",
-    "abbreviation": "BauNVO",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/baunvo",
     "firstPublished": "1962-06-26",
     "sourceTimestamp": "20180416214507",
     "titleShort": "Baunutzungsverordnung",
     "titleLong": "Verordnung \u00fcber die bauliche Nutzung der Grundst\u00fccke",
+    "abbreviation": "BauNVO",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1962, 429",

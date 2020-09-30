@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR030150975",
-    "abbreviation": "SGB 1",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/sgb_1",
     "firstPublished": "1975-12-11",
     "sourceTimestamp": "20200703213015",
     "titleShort": null,
     "titleLong": "Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des Gesetzes vom 11. Dezember 1975, BGBl. I S. 3015)",
+    "abbreviation": "SGB 1",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1975, 3015",

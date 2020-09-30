@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR020710982",
-    "abbreviation": "IRG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/irg",
     "firstPublished": "1982-12-23",
     "sourceTimestamp": "20200227213514",
     "titleShort": null,
     "titleLong": "Gesetz \u00fcber die internationale Rechtshilfe in Strafsachen",
+    "abbreviation": "IRG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1982, 2071",

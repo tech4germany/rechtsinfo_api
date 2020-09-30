@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR006290950",
-    "abbreviation": "StPO",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/stpo",
     "firstPublished": "1950-09-12",
     "sourceTimestamp": "20200831213013",
     "titleShort": null,
     "titleLong": "Strafproze\u00dfordnung",
+    "abbreviation": "StPO",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1950, 455, 629",

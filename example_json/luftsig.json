@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR007810005",
-    "abbreviation": "LuftSiG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/luftsig",
     "firstPublished": "2005-01-11",
     "sourceTimestamp": "20200602212501",
     "titleShort": null,
     "titleLong": "Luftsicherheitsgesetz",
+    "abbreviation": "LuftSiG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2005, 78",

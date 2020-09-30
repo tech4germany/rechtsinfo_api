@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR189100994",
-    "abbreviation": "ALG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/alg",
     "firstPublished": "1994-07-29",
     "sourceTimestamp": "20200729212525",
     "titleShort": null,
     "titleLong": "Gesetz \u00fcber die Alterssicherung der Landwirte",
+    "abbreviation": "ALG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1994, 1890, 1891",

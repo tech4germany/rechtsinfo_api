@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR295500003",
-    "abbreviation": "SGB 2",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/sgb_2",
     "firstPublished": "2003-12-24",
     "sourceTimestamp": "20200818213046",
     "titleShort": null,
     "titleLong": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung f\u00fcr Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)",
+    "abbreviation": "SGB 2",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2003, 2954, 2955",

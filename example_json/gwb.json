@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR252110998",
-    "abbreviation": "GWB",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/gwb",
     "firstPublished": "1998-08-26",
     "sourceTimestamp": "20200706212535",
     "titleShort": null,
     "titleLong": "Gesetz gegen Wettbewerbsbeschr\u00e4nkungen",
+    "abbreviation": "GWB",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1998, 2521",

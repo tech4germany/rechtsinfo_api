@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR071810004",
-    "abbreviation": "GKG",
-    "extraAbbreviations": [
-      "GKG 2004"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/gkg",
     "firstPublished": "2004-05-05",
     "sourceTimestamp": "20200701212535",
     "titleShort": null,
     "titleLong": "Gerichtskostengesetz",
+    "abbreviation": "GKG",
+    "extraAbbreviations": [
+      "GKG 2004"
+    ],
     "publicationInfo": [
       {
         "reference": "2004, 718",

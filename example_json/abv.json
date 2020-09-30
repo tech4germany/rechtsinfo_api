@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR010880989",
-    "abbreviation": "ABV",
-    "extraAbbreviations": [
-      "BLGABV"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/abv",
     "firstPublished": "1989-06-12",
     "sourceTimestamp": "20161111221503",
     "titleShort": "Anforderungsbeh\u00f6rden- und Bedarfstr\u00e4gerverordnung",
     "titleLong": "Verordnung \u00fcber Anforderungsbeh\u00f6rden und Bedarfstr\u00e4ger nach dem\nBundesleistungsgesetz",
+    "abbreviation": "ABV",
+    "extraAbbreviations": [
+      "BLGABV"
+    ],
     "publicationInfo": [
       {
         "reference": "1989, 1088",

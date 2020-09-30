@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR013140974",
-    "abbreviation": "MaBV",
-    "extraAbbreviations": [
-      "GewO\u00a734cDV"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/mabv",
     "firstPublished": "1974-06-20",
     "sourceTimestamp": "20180801214503",
     "titleShort": "Makler- und Bautr\u00e4gerverordnung",
     "titleLong": "Verordnung \u00fcber die Pflichten der Immobilienmakler, Darlehensvermittler, Bautr\u00e4ger, Baubetreuer und Wohnimmobilienverwalter",
+    "abbreviation": "MaBV",
+    "extraAbbreviations": [
+      "GewO\u00a734cDV"
+    ],
     "publicationInfo": [
       {
         "reference": "1974, 1314",

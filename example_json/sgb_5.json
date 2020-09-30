@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR024820988",
-    "abbreviation": "SGB 5",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/sgb_5",
     "firstPublished": "1988-12-20",
     "sourceTimestamp": "20200924212508",
     "titleShort": null,
     "titleLong": "Sozialgesetzbuch (SGB) F\u00fcnftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",
+    "abbreviation": "SGB 5",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1988, 2477, 2482",

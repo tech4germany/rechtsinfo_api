@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR004770892",
-    "abbreviation": "GmbHG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/gmbhg",
     "firstPublished": "1892-04-20",
     "sourceTimestamp": "20171019221044",
     "titleShort": null,
     "titleLong": "Gesetz betreffend die Gesellschaften mit beschr\u00e4nkter Haftung",
+    "abbreviation": "GmbHG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1892, 477",

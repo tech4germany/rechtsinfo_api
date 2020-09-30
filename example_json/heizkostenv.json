@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR002610981",
-    "abbreviation": "HeizkostenV",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/heizkostenv",
     "firstPublished": "1981-02-23",
     "sourceTimestamp": "20130405124644",
     "titleShort": "Verordnung \u00fcber Heizkostenabrechnung",
     "titleLong": "Verordnung \u00fcber die verbrauchsabh\u00e4ngige Abrechnung der Heiz- und Warmwasserkosten",
+    "abbreviation": "HeizkostenV",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1981, 261 (296)",

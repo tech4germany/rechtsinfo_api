@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR014110953",
-    "abbreviation": "HwO",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/hwo",
     "firstPublished": "1953-09-17",
     "sourceTimestamp": "20200907213003",
     "titleShort": "Handwerksordnung",
     "titleLong": "Gesetz zur Ordnung des Handwerks",
+    "abbreviation": "HwO",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1953, 1411",

@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR043410015",
-    "abbreviation": "VAG",
-    "extraAbbreviations": [
-      "VAG 2016"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/vag",
     "firstPublished": "2015-04-01",
     "sourceTimestamp": "20200703213019",
     "titleShort": "Versicherungsaufsichtsgesetz",
     "titleLong": "Gesetz \u00fcber die Beaufsichtigung der Versicherungsunternehmen<FnR ID=\"f788994_01_BJNR043410015\"/>",
+    "abbreviation": "VAG",
+    "extraAbbreviations": [
+      "VAG 2016"
+    ],
     "publicationInfo": [
       {
         "reference": "2015, 434",

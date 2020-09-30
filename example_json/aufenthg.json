@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR195010004",
-    "abbreviation": "AufenthG",
-    "extraAbbreviations": [
-      "AufenthG 2004"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/aufenthg",
     "firstPublished": "2004-07-30",
     "sourceTimestamp": "20200709212524",
     "titleShort": "Aufenthaltsgesetz",
     "titleLong": "Gesetz<BR/> \u00fcber den Aufenthalt, die Erwerbst\u00e4tigkeit<BR/> und die Integration von Ausl\u00e4ndern im Bundesgebiet<FnR ID=\"f770910_01_BJNR195010004\"/>",
+    "abbreviation": "AufenthG",
+    "extraAbbreviations": [
+      "AufenthG 2004"
+    ],
     "publicationInfo": [
       {
         "reference": "2004, 1950",

@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR169710000",
-    "abbreviation": "BAKredSitzBek",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/bakredsitzbek",
     "firstPublished": "2000-11-10",
     "sourceTimestamp": "20131008093806",
     "titleShort": null,
     "titleLong": "Bekanntmachung \u00fcber den Dienstsitz des Bundesaufsichtsamtes\nf\u00fcr das Kreditwesen",
+    "abbreviation": "BAKredSitzBek",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2000, 1697",

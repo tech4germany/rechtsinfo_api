@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR286600994",
-    "abbreviation": "InsO",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/inso",
     "firstPublished": "1994-10-05",
     "sourceTimestamp": "20180821214512",
     "titleShort": null,
     "titleLong": "Insolvenzordnung",
+    "abbreviation": "InsO",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1994, 2866",

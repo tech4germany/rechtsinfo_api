@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR006130976",
-    "abbreviation": "AO",
-    "extraAbbreviations": [
-      "AO 1977"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/ao",
     "firstPublished": "1976-03-16",
     "sourceTimestamp": "20200831213008",
     "titleShort": null,
     "titleLong": "Abgabenordnung",
+    "abbreviation": "AO",
+    "extraAbbreviations": [
+      "AO 1977"
+    ],
     "publicationInfo": [
       {
         "reference": "1976, 613 (1977 I 269)",

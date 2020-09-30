@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR185610008",
-    "abbreviation": "WoGG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/wogg",
     "firstPublished": "2008-09-24",
     "sourceTimestamp": "20200819213018",
     "titleShort": null,
     "titleLong": "Wohngeldgesetz",
+    "abbreviation": "WoGG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2008, 1856",

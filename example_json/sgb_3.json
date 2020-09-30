@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR059500997",
-    "abbreviation": "SGB 3",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/sgb_3",
     "firstPublished": "1997-03-24",
     "sourceTimestamp": "20200812212533",
     "titleShort": null,
     "titleLong": "Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsf\u00f6rderung - (Artikel 1 des Gesetzes vom 24. M\u00e4rz 1997, BGBl. I S. 594)",
+    "abbreviation": "SGB 3",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1997, 594, 595",

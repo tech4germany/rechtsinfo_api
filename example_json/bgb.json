@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR001950896",
-    "abbreviation": "BGB",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/bgb",
     "firstPublished": "1896-08-18",
     "sourceTimestamp": "20200812212514",
     "titleShort": null,
     "titleLong": "B\u00fcrgerliches Gesetzbuch",
+    "abbreviation": "BGB",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1896, 195",

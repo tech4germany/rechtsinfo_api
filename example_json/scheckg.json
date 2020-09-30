@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR005970933",
-    "abbreviation": "ScheckG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/scheckg",
     "firstPublished": "1933-08-14",
     "sourceTimestamp": "20180125214003",
     "titleShort": null,
     "titleLong": "Scheckgesetz",
+    "abbreviation": "ScheckG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1933, 597",

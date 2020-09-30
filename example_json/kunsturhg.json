@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR000070907",
-    "abbreviation": "KunstUrhG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/kunsturhg",
     "firstPublished": "1907-01-09",
     "sourceTimestamp": "20180425212501",
     "titleShort": null,
     "titleLong": "Gesetz betreffend das Urheberrecht an Werken der bildenden K\u00fcnste und der Photographie",
+    "abbreviation": "KunstUrhG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1907, 7",

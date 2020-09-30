@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR208110934",
-    "abbreviation": "BahnVorschrAnwG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/bahnvorschranwg",
     "firstPublished": "1934-09-26",
     "sourceTimestamp": "20120625151842",
     "titleShort": null,
     "titleLong": "Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften \u00fcber\nBahneinheiten",
+    "abbreviation": "BahnVorschrAnwG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1934, 811",

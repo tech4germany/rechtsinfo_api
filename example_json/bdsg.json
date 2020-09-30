@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR209710017",
-    "abbreviation": "BDSG",
-    "extraAbbreviations": [
-      "BDSG 2018"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/bdsg",
     "firstPublished": "2017-06-30",
     "sourceTimestamp": "20191204212556",
     "titleShort": null,
     "titleLong": "Bundesdatenschutzgesetz",
+    "abbreviation": "BDSG",
+    "extraAbbreviations": [
+      "BDSG 2018"
+    ],
     "publicationInfo": [
       {
         "reference": "2017, 2097",

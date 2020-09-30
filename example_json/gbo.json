@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR001390897",
-    "abbreviation": "GBO",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/gbo",
     "firstPublished": "1897-03-24",
     "sourceTimestamp": "20200422212502",
     "titleShort": null,
     "titleLong": "Grundbuchordnung",
+    "abbreviation": "GBO",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1897, 139",

@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR023590979",
-    "abbreviation": "UStDV",
-    "extraAbbreviations": [
-      "UStDV 1980"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/ustdv",
     "firstPublished": "1979-12-21",
     "sourceTimestamp": "20200731212506",
     "titleShort": null,
     "titleLong": "Umsatzsteuer-Durchf\u00fchrungsverordnung",
+    "abbreviation": "UStDV",
+    "extraAbbreviations": [
+      "UStDV 1980"
+    ],
     "publicationInfo": [
       {
         "reference": "1979, 2359",

@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR021980989",
-    "abbreviation": "ProdHaftG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg",
     "firstPublished": "1989-12-15",
     "sourceTimestamp": "20170811221042",
     "titleShort": "Produkthaftungsgesetz",
     "titleLong": "Gesetz \u00fcber die Haftung f\u00fcr fehlerhafte Produkte",
+    "abbreviation": "ProdHaftG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1989, 2198",

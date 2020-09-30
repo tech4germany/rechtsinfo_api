@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR119000004",
-    "abbreviation": "TKG",
-    "extraAbbreviations": [
-      "TKG 2004"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/tkg",
     "firstPublished": "2004-06-22",
     "sourceTimestamp": "20200908213515",
     "titleShort": null,
     "titleLong": "Telekommunikationsgesetz",
+    "abbreviation": "TKG",
+    "extraAbbreviations": [
+      "TKG 2004"
+    ],
     "publicationInfo": [
       {
         "reference": "2004, 1190",

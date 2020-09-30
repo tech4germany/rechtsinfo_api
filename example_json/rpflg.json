@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR020650969",
-    "abbreviation": "RPflG",
-    "extraAbbreviations": [
-      "RPflG 1969"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/rpflg",
     "firstPublished": "1969-11-05",
     "sourceTimestamp": "20200505212505",
     "titleShort": null,
     "titleLong": "Rechtspflegergesetz",
+    "abbreviation": "RPflG",
+    "extraAbbreviations": [
+      "RPflG 1969"
+    ],
     "publicationInfo": [
       {
         "reference": "1969, 2065",

@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR012670953",
-    "abbreviation": "ArbGG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/arbgg",
     "firstPublished": "1953-09-03",
     "sourceTimestamp": "20200625213010",
     "titleShort": null,
     "titleLong": "Arbeitsgerichtsgesetz",
+    "abbreviation": "ArbGG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1953, 1267",

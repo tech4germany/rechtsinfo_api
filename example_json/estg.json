@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR010050934",
-    "abbreviation": "EStG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/estg",
     "firstPublished": "1934-10-16",
     "sourceTimestamp": "20200818213018",
     "titleShort": null,
     "titleLong": "Einkommensteuergesetz",
+    "abbreviation": "EStG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1934, 1005",

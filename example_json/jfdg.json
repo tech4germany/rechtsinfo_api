@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR084210008",
-    "abbreviation": "JFDG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/jfdg",
     "firstPublished": "2008-05-16",
     "sourceTimestamp": "20200403212528",
     "titleShort": "Jugendfreiwilligendienstegesetz",
     "titleLong": "Gesetz zur F\u00f6rderung von Jugendfreiwilligendiensten",
+    "abbreviation": "JFDG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2008, 842",

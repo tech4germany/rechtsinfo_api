@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR014090971",
-    "abbreviation": "BAf\u00f6G",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/bafoeg",
     "firstPublished": "1971-08-26",
     "sourceTimestamp": "20200731212503",
     "titleShort": "Bundesausbildungsf\u00f6rderungsgesetz",
     "titleLong": "Bundesgesetz \u00fcber individuelle F\u00f6rderung der Ausbildung",
+    "abbreviation": "BAf\u00f6G",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1971, 1409",

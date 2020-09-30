@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR002070871",
-    "abbreviation": "HaftPflG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/haftpflg",
     "firstPublished": "1871-06-07",
     "sourceTimestamp": "20170721221540",
     "titleShort": null,
     "titleLong": "Haftpflichtgesetz",
+    "abbreviation": "HaftPflG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1871, 207",

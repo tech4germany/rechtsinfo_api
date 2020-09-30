@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR024480976",
-    "abbreviation": "AMG",
-    "extraAbbreviations": [
-      "AMG 1976"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/amg",
     "firstPublished": "1976-08-24",
     "sourceTimestamp": "20200814212508",
     "titleShort": "Arzneimittelgesetz",
     "titleLong": "Gesetz \u00fcber den Verkehr mit Arzneimitteln",
+    "abbreviation": "AMG",
+    "extraAbbreviations": [
+      "AMG 1976"
+    ],
     "publicationInfo": [
       {
         "reference": "1976, 2445 (2448)",

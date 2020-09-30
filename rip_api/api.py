@@ -6,15 +6,12 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 import starlette
 
-from . import PUBLIC_ASSET_ROOT, db
+from . import PUBLIC_ASSET_ROOT, db, urls
 from . import api_schemas
 
 app = fastapi.FastAPI()
 app.add_middleware(GZipMiddleware)
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
-
-
-API_BASE_URL = "https://api.rechtsinformationsportal.de"
 
 
 class ApiException(Exception):
@@ -54,17 +51,17 @@ async def http_exception_handler(request: fastapi.Request, exc: starlette.except
     return response
 
 
-class LawIncludeOptions(Enum):
+class GetLawIncludeOptions(Enum):
     contents = "contents"
 
 
 @app.get("/laws/{slug}", response_model=api_schemas.LawResponse)
 def get_law(
     slug: str,
-    include: Optional[LawIncludeOptions] = None
+    include: Optional[GetLawIncludeOptions] = None
 ):
     schema_class = api_schemas.LawAllFields
-    if include == LawIncludeOptions.contents:
+    if include == GetLawIncludeOptions.contents:
         schema_class = api_schemas.LawAllFieldsWithContents
 
     with db.session_scope() as session:
@@ -77,26 +74,18 @@ def get_law(
         return {"data": schema_class.from_law(law)}
 
 
-class LawsIncludeOptions(Enum):
+class ListLawsIncludeOptions(Enum):
     all_fields = "all_fields"
 
 
 @app.get("/laws", response_model=api_schemas.LawsResponse)
-def get_laws(
+def list_laws(
     page: int = fastapi.Query(1, gt=0),
     per_page: int = fastapi.Query(10, gt=0, le=100),
-    include: Optional[LawsIncludeOptions] = None
+    include: Optional[ListLawsIncludeOptions] = None
 ):
-    def _generate_pagination_url(page=page):
-        if not page:
-            return None
-        url = f"{API_BASE_URL}/laws?page={page}&per_page={per_page}"
-        if include:
-            url += f"&include={include.value}"
-        return url
-
     schema_class = api_schemas.LawBasicFields
-    if include == LawsIncludeOptions.all_fields:
+    if include == ListLawsIncludeOptions.all_fields:
         schema_class = api_schemas.LawAllFields
 
     with db.session_scope() as session:
@@ -111,8 +100,8 @@ def get_laws(
             "per_page": pagination.per_page
         },
         "links": {
-            "prev": _generate_pagination_url(pagination.prev_page),
-            "next": _generate_pagination_url(pagination.next_page)
+            "prev": urls.list_laws(pagination.prev_page, per_page, include),
+            "next": urls.list_laws(pagination.next_page, per_page, include)
         }
     }
 

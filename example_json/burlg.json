@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR000020963",
-    "abbreviation": "BUrlG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/burlg",
     "firstPublished": "1963-01-08",
     "sourceTimestamp": "20160826215002",
     "titleShort": "Bundesurlaubsgesetz",
     "titleLong": "Mindesturlaubsgesetz f\u00fcr Arbeitnehmer",
+    "abbreviation": "BUrlG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1963, 2",

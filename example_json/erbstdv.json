@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR265800998",
-    "abbreviation": "ErbStDV",
-    "extraAbbreviations": [
-      "ErbStDV 1998"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/erbstdv",
     "firstPublished": "1998-09-08",
     "sourceTimestamp": "20200707212513",
     "titleShort": null,
     "titleLong": "Erbschaftsteuer-Durchf\u00fchrungsverordnung",
+    "abbreviation": "ErbStDV",
+    "extraAbbreviations": [
+      "ErbStDV 1998"
+    ],
     "publicationInfo": [
       {
         "reference": "1998, 2658",

@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR122610989",
-    "abbreviation": "SGB 6",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/sgb_6",
     "firstPublished": "1989-12-18",
     "sourceTimestamp": "20200820213015",
     "titleShort": null,
     "titleLong": "Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)",
+    "abbreviation": "SGB 6",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1989, 2261 (1990 I 1337)",

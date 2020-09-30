@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR308210994",
-    "abbreviation": "MarkenG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/markeng",
     "firstPublished": "1994-10-25",
     "sourceTimestamp": "20200430212522",
     "titleShort": "Markengesetz",
     "titleLong": "Gesetz \u00fcber den Schutz von Marken und sonstigen Kennzeichen",
+    "abbreviation": "MarkenG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1994, 3082 (1995 I 156); 1996, 682",

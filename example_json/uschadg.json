@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR066610007",
-    "abbreviation": "USchadG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/uschadg",
     "firstPublished": "2007-05-10",
     "sourceTimestamp": "20190630212534",
     "titleShort": "Umweltschadensgesetz",
     "titleLong": "Gesetz \u00fcber die Vermeidung und Sanierung von Umweltsch\u00e4den",
+    "abbreviation": "USchadG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2007, 666",

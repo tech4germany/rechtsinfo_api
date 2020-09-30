@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR074000997",
-    "abbreviation": "B\u00e4derFAngAusbV",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/baederfangausbv",
     "firstPublished": "1997-03-26",
     "sourceTimestamp": "20130405130709",
     "titleShort": null,
     "titleLong": "Verordnung \u00fcber die Berufsausbildung zum/zur\nFachangestellten f\u00fcr B\u00e4derbetriebe",
+    "abbreviation": "B\u00e4derFAngAusbV",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1997, 740",

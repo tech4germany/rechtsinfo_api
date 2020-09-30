@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR294510004",
-    "abbreviation": "AufenthV",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/aufenthv",
     "firstPublished": "2004-11-25",
     "sourceTimestamp": "20200709212532",
     "titleShort": null,
     "titleLong": "Aufenthaltsverordnung",
+    "abbreviation": "AufenthV",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2004, 2945",

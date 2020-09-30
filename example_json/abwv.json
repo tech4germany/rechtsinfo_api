@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR056610997",
-    "abbreviation": "AbwV",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/abwv",
     "firstPublished": "1997-03-21",
     "sourceTimestamp": "20200828213007",
     "titleShort": "Abwasserverordnung",
     "titleLong": "Verordnung \u00fcber Anforderungen an das Einleiten von Abwasser in Gew\u00e4sser",
+    "abbreviation": "AbwV",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1997, 566",

@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR012530976",
-    "abbreviation": "VwVfG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/vwvfg",
     "firstPublished": "1976-05-25",
     "sourceTimestamp": "20200528213007",
     "titleShort": null,
     "titleLong": "Verwaltungsverfahrensgesetz",
+    "abbreviation": "VwVfG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1976, 1253",

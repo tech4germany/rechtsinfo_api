@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR104510000",
-    "abbreviation": "IfSG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/ifsg",
     "firstPublished": "2000-07-20",
     "sourceTimestamp": "20200722212523",
     "titleShort": "Infektionsschutzgesetz",
     "titleLong": "Gesetz zur Verh\u00fctung und Bek\u00e4mpfung von Infektionskrankheiten beim Menschen",
+    "abbreviation": "IfSG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2000, 1045",

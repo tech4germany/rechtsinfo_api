@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR272200005",
-    "abbreviation": "IFG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/ifg",
     "firstPublished": "2005-09-05",
     "sourceTimestamp": "20200911213503",
     "titleShort": "Informationsfreiheitsgesetz",
     "titleLong": "Gesetz zur Regelung des Zugangs zu Informationen des Bundes",
+    "abbreviation": "IFG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2005, 2722",

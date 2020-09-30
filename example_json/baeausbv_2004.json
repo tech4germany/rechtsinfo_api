@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR063200004",
-    "abbreviation": "B\u00e4AusbV 2004",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004",
     "firstPublished": "2004-04-21",
     "sourceTimestamp": "20160215215504",
     "titleShort": null,
     "titleLong": "Verordnung \u00fcber die Berufsausbildung zum B\u00e4cker/zur B\u00e4ckerin",
+    "abbreviation": "B\u00e4AusbV 2004",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2004, 632",

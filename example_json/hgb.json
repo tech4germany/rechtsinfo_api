@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR002190897",
-    "abbreviation": "HGB",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/hgb",
     "firstPublished": "1897-05-10",
     "sourceTimestamp": "20200820213006",
     "titleShort": null,
     "titleLong": "Handelsgesetzbuch",
+    "abbreviation": "HGB",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1897, 219",

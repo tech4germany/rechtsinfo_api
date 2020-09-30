@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR007730967",
-    "abbreviation": "PartG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/partg",
     "firstPublished": "1967-07-24",
     "sourceTimestamp": "20200722212509",
     "titleShort": "Parteiengesetz",
     "titleLong": "Gesetz \u00fcber die politischen Parteien",
+    "abbreviation": "PartG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1967, 773",

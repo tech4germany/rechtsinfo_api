@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR273000002",
-    "abbreviation": "JuSchG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/juschg",
     "firstPublished": "2002-07-23",
     "sourceTimestamp": "20200214213006",
     "titleShort": null,
     "titleLong": "Jugendschutzgesetz",
+    "abbreviation": "JuSchG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "2002, 2730",

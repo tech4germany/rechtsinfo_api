@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR117100994",
-    "abbreviation": "ArbZG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/arbzg",
     "firstPublished": "1994-06-06",
     "sourceTimestamp": "20200729212520",
     "titleShort": null,
     "titleLong": "Arbeitszeitgesetz",
+    "abbreviation": "ArbZG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1994, 1170, 1171",

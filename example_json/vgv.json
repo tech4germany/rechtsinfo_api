@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR062410016",
-    "abbreviation": "VgV",
-    "extraAbbreviations": [
-      "VgV 2016"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/vgv",
     "firstPublished": "2016-04-12",
     "sourceTimestamp": "20200514213016",
     "titleShort": "Vergabeverordnung",
     "titleLong": "Verordnung \u00fcber die Vergabe \u00f6ffentlicher Auftr\u00e4ge",
+    "abbreviation": "VgV",
+    "extraAbbreviations": [
+      "VgV 2016"
+    ],
     "publicationInfo": [
       {
         "reference": "2016, 624",

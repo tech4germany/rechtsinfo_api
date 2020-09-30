@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR005930964",
-    "abbreviation": "VereinsG",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/vereinsg",
     "firstPublished": "1964-08-05",
     "sourceTimestamp": "20200704213002",
     "titleShort": "Vereinsgesetz",
     "titleLong": "Gesetz zur Regelung des \u00f6ffentlichen Vereinsrechts",
+    "abbreviation": "VereinsG",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1964, 593",

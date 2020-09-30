@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR507500943",
-    "abbreviation": "A/KAE",
-    "extraAbbreviations": [
-      "KAEAAnO"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/a_kae",
     "firstPublished": "1943-02-27",
     "sourceTimestamp": "20130405133058",
     "titleShort": null,
     "titleLong": "Ausf\u00fchrungsanordnung zur Konzessionsabgabenanordnung",
+    "abbreviation": "A/KAE",
+    "extraAbbreviations": [
+      "KAEAAnO"
+    ],
     "publicationInfo": [
       {
         "reference": "1943, Nr 75",

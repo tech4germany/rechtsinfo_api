@@ -2,14 +2,15 @@
   "data": {
     "type": "law",
     "id": "BJNR008810961",
-    "abbreviation": "KWG",
-    "extraAbbreviations": [
-      "KredWG"
-    ],
+    "url": "https://api.rechtsinformationsportal.de/laws/kwg",
     "firstPublished": "1961-07-10",
     "sourceTimestamp": "20200716212520",
     "titleShort": "Kreditwesengesetz",
     "titleLong": "Gesetz \u00fcber das Kreditwesen",
+    "abbreviation": "KWG",
+    "extraAbbreviations": [
+      "KredWG"
+    ],
     "publicationInfo": [
       {
         "reference": "1961, 881",

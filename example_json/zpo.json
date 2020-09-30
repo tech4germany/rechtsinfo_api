@@ -2,12 +2,13 @@
   "data": {
     "type": "law",
     "id": "BJNR005330950",
-    "abbreviation": "ZPO",
-    "extraAbbreviations": [],
+    "url": "https://api.rechtsinformationsportal.de/laws/zpo",
     "firstPublished": "1950-09-12",
     "sourceTimestamp": "20200908213506",
     "titleShort": null,
     "titleLong": "Zivilprozessordnung",
+    "abbreviation": "ZPO",
+    "extraAbbreviations": [],
     "publicationInfo": [
       {
         "reference": "1950, 455, 533",
