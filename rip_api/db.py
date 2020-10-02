@@ -9,9 +9,8 @@ from sqlalchemy.orm import joinedload, load_only, sessionmaker
 
 from .models import Base, Law, ContentItem
 
-_engine = create_engine(
-    os.environ.get("DB_URI") or "postgresql://localhost:5432/rip_api"
-)
+db_uri = os.environ.get("DB_URI") or "postgresql://localhost:5432/rip_api"
+_engine = create_engine(db_uri)
 Session = sessionmaker(bind=_engine)
 
 

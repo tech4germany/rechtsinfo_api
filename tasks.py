@@ -1,9 +1,24 @@
 import boto3
-from invoke import task
+from sqlalchemy.exc import OperationalError
+import sqlalchemy_utils
 import uvicorn
 
 from rip_api import ASSET_BUCKET, db, gesetze_im_internet
 from rip_api.gesetze_im_internet.download import location_from_string
+
+
+@task
+def db_init(c):
+    """
+    Create database (if needed) and run migrations.
+    (You can set the database url with the DB_URI environment variable.)
+    """
+    try:
+        db._engine.connect().execute('select 1')
+    except OperationalError:
+        sqlalchemy_utils.create_database(db.db_uri)
+
+    c.run("alembic upgrade head")
 
 
 @task(

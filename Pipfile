@@ -21,6 +21,8 @@ fastapi = "*"
 uvicorn = "*"
 mangum = "*"
 boto3 = "*"
+alembic = "*"
+sqlalchemy-utils = "*"
 
 [requires]
 python_version = "3.8"
