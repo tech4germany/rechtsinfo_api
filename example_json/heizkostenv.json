@@ -8,6 +8,7 @@
     "titleShort": "Verordnung \u00fcber Heizkostenabrechnung",
     "titleLong": "Verordnung \u00fcber die verbrauchsabh\u00e4ngige Abrechnung der Heiz- und Warmwasserkosten",
     "abbreviation": "HeizkostenV",
+    "slug": "heizkostenv",
     "extraAbbreviations": [],
     "publicationInfo": [
       {

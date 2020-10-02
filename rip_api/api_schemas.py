@@ -72,6 +72,7 @@ class LawBasicFields(pydantic.BaseModel):
     titleShort: Optional[str]
     titleLong: str
     abbreviation: str
+    slug: str
 
     @classmethod
     def _attrs_dict_from_law(cls, law):
@@ -79,6 +80,7 @@ class LawBasicFields(pydantic.BaseModel):
             id=law.doknr,
             url=urls.get_law(law.slug),
             abbreviation=law.abbreviation,
+            slug=law.slug,
             firstPublished=law.first_published,
             sourceTimestamp=law.source_timestamp,
             titleShort=law.title_short,

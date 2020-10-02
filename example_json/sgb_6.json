@@ -4,10 +4,11 @@
     "id": "BJNR122610989",
     "url": "https://api.rechtsinformationsportal.de/laws/sgb_6",
     "firstPublished": "1989-12-18",
-    "sourceTimestamp": "20200820213015",
+    "sourceTimestamp": "20201001213009",
     "titleShort": null,
     "titleLong": "Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)",
     "abbreviation": "SGB 6",
+    "slug": "sgb_6",
     "extraAbbreviations": [],
     "publicationInfo": [
       {
@@ -21,24 +22,8 @@
         "category": "Neuf"
       },
       {
-        "comment": "Zuletzt ge\u00e4ndert durch Art. 14 G v. 20.5.2020 I 1055",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 9 G v. 8.8.2020 I 1818",
         "category": "Stand"
-      },
-      {
-        "comment": "\u00c4nderung durch Art. 6 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
-        "category": "Hinweis"
-      },
-      {
-        "comment": "Mittelbare \u00c4nderung durch Art. 17 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
-        "category": "Hinweis"
-      },
-      {
-        "comment": "\u00c4nderung durch Art. 312 V v. 19.6.2020 I 1328 (Nr. 29) ist ber\u00fccksichtigt",
-        "category": "Hinweis"
-      },
-      {
-        "comment": "\u00c4nderung durch Art. 9 G v. 8.8.2020 I 1818 (Nr. 37) ist ber\u00fccksichtigt",
-        "category": "Hinweis"
       },
       {
         "comment": "\u00c4nderung durch Art. 1 G v. 12.8.2020 I 1879 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",

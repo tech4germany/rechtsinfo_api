@@ -4,10 +4,11 @@
     "id": "BJNR138450976",
     "url": "https://api.rechtsinformationsportal.de/laws/sgb_4",
     "firstPublished": "1976-12-23",
-    "sourceTimestamp": "20200703213036",
+    "sourceTimestamp": "20200930212514",
     "titleShort": null,
     "titleLong": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften f\u00fcr die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
     "abbreviation": "SGB 4",
+    "slug": "sgb_4",
     "extraAbbreviations": [],
     "publicationInfo": [
       {
@@ -1662,14 +1663,14 @@
       },
       {
         "type": "article",
-        "id": "BJNR138450976BJNE008805126",
+        "id": "BJNR138450976BJNE008806126",
         "name": "\u00a7 64",
         "title": "Beschlussfassung",
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG001205308"
         },
-        "body": "<P>(1) Soweit Gesetz oder sonstiges f\u00fcr den Versicherungstr\u00e4ger ma\u00dfgebendes Recht nichts Abweichendes bestimmt, sind die Selbstverwaltungsorgane beschlussf\u00e4hig, wenn s\u00e4mtliche Mitglieder ordnungsgem\u00e4\u00df geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist. Ist ein Selbstverwaltungsorgan nicht beschlussf\u00e4hig, kann der Vorsitzende anordnen, dass in der n\u00e4chsten Sitzung \u00fcber den Gegenstand der Abstimmung auch dann beschlossen werden kann, wenn die in Satz 1 bestimmte Mehrheit nicht vorliegt; hierauf ist in der Ladung zur n\u00e4chsten Sitzung hinzuweisen.</P><P>(2) Die Beschl\u00fcsse werden, soweit Gesetz oder sonstiges Recht nichts Abweichendes bestimmt, mit der Mehrheit der abgegebenen Stimmen gefasst. Bei Stimmengleichheit wird die Abstimmung nach erneuter Beratung wiederholt; bei erneuter Stimmengleichheit gilt der Antrag als abgelehnt.</P><P>(3) Der Vorstand kann in eiligen F\u00e4llen ohne Sitzung schriftlich abstimmen. Die Vertreterversammlung kann schriftlich abstimmen, soweit die Satzung es zul\u00e4sst. Wenn ein F\u00fcnftel der Mitglieder des Selbstverwaltungsorgans der schriftlichen Abstimmung widerspricht, ist \u00fcber die Angelegenheit in der n\u00e4chsten Sitzung zu beraten und abzustimmen.</P><P>(3a) Abweichend von Absatz 3 k\u00f6nnen die Selbstverwaltungsorgane und besonderen Aussch\u00fcsse nach \u00a7 36a aus wichtigen Gr\u00fcnden ohne Sitzung schriftlich abstimmen.</P><P>(4) Beschl\u00fcsse der Bundesvertreterversammlung und des Bundesvorstandes der Deutschen Rentenversicherung Bund in Grundsatz- und Querschnittsaufgaben und in gemeinsamen Angelegenheiten der Tr\u00e4ger der Rentenversicherung werden mit der Mehrheit von mindestens zwei Dritteln aller gewichteten Stimmen der satzungsm\u00e4\u00dfigen Mitgliederzahl getroffen. Bei Beschl\u00fcssen der Bundesvertreterversammlung und des Bundesvorstandes werden die Stimmen der Regionaltr\u00e4ger mit insgesamt 55 vom Hundert und die der Bundestr\u00e4ger mit insgesamt 45 vom Hundert gewichtet. In der Bundesvertreterversammlung orientiert sich die Gewichtung innerhalb der Regionaltr\u00e4ger und innerhalb der Bundestr\u00e4ger jeweils an der Anzahl der Versicherten der einzelnen Tr\u00e4ger. Im Bundesvorstand gilt Entsprechendes innerhalb der Bundestr\u00e4ger. Das N\u00e4here zur Stimmengewichtung nach Satz 1 bis 4 regelt die Satzung.</P>",
+        "body": "<P>(1) Soweit Gesetz oder sonstiges f\u00fcr den Versicherungstr\u00e4ger ma\u00dfgebendes Recht nichts Abweichendes bestimmt, sind die Selbstverwaltungsorgane beschlussf\u00e4hig, wenn s\u00e4mtliche Mitglieder ordnungsgem\u00e4\u00df geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist. Ist ein Selbstverwaltungsorgan nicht beschlussf\u00e4hig, kann der Vorsitzende anordnen, dass in der n\u00e4chsten Sitzung \u00fcber den Gegenstand der Abstimmung auch dann beschlossen werden kann, wenn die in Satz 1 bestimmte Mehrheit nicht vorliegt; hierauf ist in der Ladung zur n\u00e4chsten Sitzung hinzuweisen.</P><P>(2) Die Beschl\u00fcsse werden, soweit Gesetz oder sonstiges Recht nichts Abweichendes bestimmt, mit der Mehrheit der abgegebenen Stimmen gefasst. Bei Stimmengleichheit wird die Abstimmung nach erneuter Beratung wiederholt; bei erneuter Stimmengleichheit gilt der Antrag als abgelehnt.</P><P>(3) Der Vorstand kann in eiligen F\u00e4llen ohne Sitzung schriftlich abstimmen. Die Vertreterversammlung kann schriftlich abstimmen, soweit die Satzung es zul\u00e4sst. Wenn ein F\u00fcnftel der Mitglieder des Selbstverwaltungsorgans der schriftlichen Abstimmung widerspricht, ist \u00fcber die Angelegenheit in der n\u00e4chsten Sitzung zu beraten und abzustimmen.</P><P>(3a) (weggefallen)</P><P>(4) Beschl\u00fcsse der Bundesvertreterversammlung und des Bundesvorstandes der Deutschen Rentenversicherung Bund in Grundsatz- und Querschnittsaufgaben und in gemeinsamen Angelegenheiten der Tr\u00e4ger der Rentenversicherung werden mit der Mehrheit von mindestens zwei Dritteln aller gewichteten Stimmen der satzungsm\u00e4\u00dfigen Mitgliederzahl getroffen. Bei Beschl\u00fcssen der Bundesvertreterversammlung und des Bundesvorstandes werden die Stimmen der Regionaltr\u00e4ger mit insgesamt 55 vom Hundert und die der Bundestr\u00e4ger mit insgesamt 45 vom Hundert gewichtet. In der Bundesvertreterversammlung orientiert sich die Gewichtung innerhalb der Regionaltr\u00e4ger und innerhalb der Bundestr\u00e4ger jeweils an der Anzahl der Versicherten der einzelnen Tr\u00e4ger. Im Bundesvorstand gilt Entsprechendes innerhalb der Bundestr\u00e4ger. Das N\u00e4here zur Stimmengewichtung nach Satz 1 bis 4 regelt die Satzung.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },
