@@ -19,6 +19,14 @@ def db_init(c):
     except OperationalError:
         sqlalchemy_utils.create_database(db.db_uri)
 
+    db_migrate(c)
+
+
+@task
+def db_migrate(c):
+    """
+    Bring database up to date with the latest schema.
+    """
     c.run("alembic upgrade head")
 
 
@@ -165,6 +173,7 @@ ns = Collection()
 
 database = Collection('database')
 database.add_task(db_init, 'init')
+database.add_task(db_migrate, 'migrate')
 ns.add_collection(database)
 
 ingest = Collection('ingest')
