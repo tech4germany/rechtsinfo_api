@@ -4,7 +4,7 @@ import math
 import os
 import typing
 
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, func, text
 from sqlalchemy.orm import joinedload, load_only, sessionmaker
 
 from .models import Base, Law, ContentItem
@@ -104,3 +104,22 @@ def find_content_item_by_id_and_law_slug(session, content_item_id, law_slug):
 
 def bulk_delete_laws_by_gii_slug(session, gii_slugs):
     Law.__table__.delete().where(Law.gii_slug.in_(gii_slugs))
+
+
+def _full_text_search_query(session, model, tsquery):
+    rank = func.ts_rank_cd(model.search_tsv, tsquery).label("rank")
+    return (
+        session.query(model, rank)
+        .filter(model.search_tsv.op('@@')(tsquery))
+        .order_by(text("rank desc"))
+    )
+
+
+def fulltext_search_laws_content_items(session, query, offset=0, limit=10):
+    tsquery = func.websearch_to_tsquery("german", query)
+    laws = _full_text_search_query(session, Law, tsquery).limit(limit).all()
+    content_items = _full_text_search_query(session, ContentItem, tsquery).limit(limit).all()
+    combined = laws + content_items
+    combined.sort(key=lambda it: it[1], reverse=True)
+
+    return combined[:limit]

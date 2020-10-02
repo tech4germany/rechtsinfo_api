@@ -1,6 +1,6 @@
 import re
 
-from sqlalchemy import Column, ForeignKey, Integer, String
+from sqlalchemy import Column, Computed, ForeignKey, Index, Integer, String
 from sqlalchemy.dialects import postgresql
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
@@ -39,6 +39,17 @@ class Law(Base):
     notes_footnotes = Column(String)
     notes_documentary_footnotes = Column(String)
     attachment_names = Column(postgresql.ARRAY(String), nullable=False)
+    # Search index. Cf. https://www.postgresql.org/docs/current/textsearch-controls.html
+    search_tsv = Column(postgresql.TSVECTOR, Computed("""
+        setweight(to_tsvector('german',
+           coalesce(laws.title_long, '') ||
+           coalesce(laws.title_short, '') ||
+           coalesce(laws.abbreviation, '')),
+       'A') ||
+       setweight(to_tsvector('german',
+           coalesce(laws.notes_body, '')),
+       'B')
+    """))
 
     contents = relationship(
         "ContentItem",
@@ -46,6 +57,10 @@ class Law(Base):
         order_by="ContentItem.order",
         cascade="all, delete, delete-orphan",
         passive_deletes=True
+    )
+
+    __table_args = (
+        Index('ix_laws_search_tsv', search_tsv, postgresql_using='gin')
     )
 
     @staticmethod
@@ -59,13 +74,9 @@ class Law(Base):
         content_item_dicts = law_dict["contents"]
         content_items_by_doknr = {}
         for idx, content_item_dict in enumerate(content_item_dicts):
-            parent_dict = content_item_dict["parent"]
-            parent = parent_dict and content_items_by_doknr[parent_dict["doknr"]]
-
-            content_item_attrs = {k: v for k, v in content_item_dict.items() if k != "parent"}
-            content_item = ContentItem(parent=parent, order=idx, **content_item_attrs)
-            law.contents.append(content_item)
+            content_item = ContentItem.from_dict(content_item_dict, idx, content_items_by_doknr)
             content_items_by_doknr[content_item.doknr] = content_item
+            law.contents.append(content_item)
 
         return law
 
@@ -84,6 +95,29 @@ class ContentItem(Base):
     law_id = Column(Integer, ForeignKey("laws.id", ondelete="CASCADE"), index=True)
     parent_id = Column(Integer, ForeignKey("content_items.id"))
     order = Column(Integer, nullable=False)
+    # Search index. Cf. https://www.postgresql.org/docs/current/textsearch-controls.html
+    search_tsv = Column(postgresql.TSVECTOR, Computed("""
+        setweight(to_tsvector('german',
+           coalesce(content_items.name, '') ||
+           coalesce(content_items.title, '')),
+       'A') ||
+       setweight(to_tsvector('german',
+           coalesce(content_items.body, '')),
+       'B')
+    """))
 
     law = relationship("Law", back_populates="contents")
     parent = relationship("ContentItem", remote_side=[id], uselist=False)
+
+    __table_args = (
+        Index('ix_content_items_search_tsv', search_tsv, postgresql_using='gin')
+    )
+
+    @staticmethod
+    def from_dict(content_item_dict, order, content_items_by_doknr):
+        parent_dict = content_item_dict["parent"]
+        parent = parent_dict and content_items_by_doknr[parent_dict["doknr"]]
+
+        content_item_attrs = {k: v for k, v in content_item_dict.items() if k != "parent"}
+        content_item = ContentItem(parent=parent, order=order, **content_item_attrs)
+        return content_item
