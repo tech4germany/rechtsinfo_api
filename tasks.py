@@ -1,4 +1,5 @@
 import boto3
+from invoke import task, Collection
 from sqlalchemy.exc import OperationalError
 import sqlalchemy_utils
 import uvicorn
@@ -159,3 +160,30 @@ def build_and_upload_lambda_function(c):
     # Update Lambda functions.
     for fn in ("fellows-2020-rechtsinfo-Api", "fellows-2020-rechtsinfo-DownloadLaws", "fellows-2020-rechtsinfo-IngestLaws"):
         update_lambda_fn(fn, function_s3_key)
+
+ns = Collection()
+
+database = Collection('database')
+database.add_task(db_init, 'init')
+ns.add_collection(database)
+
+ingest = Collection('ingest')
+ingest.add_task(download_laws)
+ingest.add_task(ingest_data_from_location)
+ingest.add_task(update_all_laws)
+ns.add_collection(ingest)
+
+examples = Collection('examples')
+examples.add_task(generate_json_example)
+examples.add_task(generate_json_examples)
+ns.add_collection(examples)
+
+dev = Collection('dev')
+dev.add_task(start_api_server_dev)
+ns.add_collection(dev)
+
+deploy = Collection('deploy')
+deploy.add_task(generate_and_upload_bulk_law_files)
+deploy.add_task(build_and_upload_lambda_deps_layer)
+deploy.add_task(build_and_upload_lambda_function)
+ns.add_collection(deploy)
