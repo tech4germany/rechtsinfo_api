@@ -124,9 +124,9 @@ def get_article(
                 status_code=404, title="Resource not found", detail="Could not find article."
             )
 
-    return {
-        "data": api_schemas.ContentItemAllFields.from_orm_model(content_item)
-    }
+        return {
+            "data": api_schemas.ContentItemAllFields.from_orm_model(content_item)
+        }
 
 
 @app.get("/search", response_model=api_schemas.SearchResultsResponse)
