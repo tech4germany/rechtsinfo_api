@@ -22,7 +22,7 @@ def test_examples(slug):
 
     with db.session_scope() as session:
         law = db.find_law_by_slug(session, slug)
-        parsed = json.loads(api_schemas.LawAllFieldsWithContents.from_law(law).json(indent=2))
+        parsed = json.loads(api_schemas.LawAllFieldsWithContents.from_orm_model(law).json(indent=2))
 
     expected = load_example_json(slug)["data"]
     assert parsed == expected

@@ -6,7 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 import starlette
 
-from . import PUBLIC_ASSET_ROOT, db, urls
+from . import PUBLIC_ASSET_ROOT, db, models, urls
 from . import api_schemas
 
 app = fastapi.FastAPI()
@@ -77,7 +77,7 @@ def get_law(
                 status_code=404, title="Resource not found", detail="Could not find a law for this slug."
             )
 
-        return {"data": schema_class.from_law(law)}
+        return {"data": schema_class.from_orm_model(law)}
 
 
 class ListLawsIncludeOptions(Enum):
@@ -96,7 +96,7 @@ def list_laws(
 
     with db.session_scope() as session:
         pagination = db.all_laws_paginated(session, page, per_page)
-        data = [schema_class.from_law(law) for law in pagination.items]
+        data = [schema_class.from_orm_model(law) for law in pagination.items]
 
     return {
         "data": data,
@@ -125,7 +125,35 @@ def get_article(
             )
 
     return {
-        "data": api_schemas.content_item_from_db_model(content_item)
+        "data": api_schemas.ContentItemAllFields.from_orm_model(content_item)
+    }
+
+
+@app.get("/search", response_model=api_schemas.SearchResultsResponse)
+def get_search_results(
+    q: str,
+    page: int = fastapi.Query(1, gt=0),
+    per_page: int = fastapi.Query(10, gt=0, le=100),
+):
+    orm_type_to_schema = {
+        models.Law: api_schemas.LawBasicFields,
+        models.ContentItem: api_schemas.ContentItemBasicFields
+    }
+    with db.session_scope() as session:
+        pagination = db.fulltext_search_laws_content_items(session, q, page, per_page)
+        data = [orm_type_to_schema[type(item)].from_orm_model(item) for item in pagination.items]
+
+    return {
+        "data": data,
+        "pagination": {
+            "total": pagination.total,
+            "page": pagination.page,
+            "per_page": pagination.per_page
+        },
+        "links": {
+            "prev": urls.search(q, pagination.prev_page, per_page),
+            "next": urls.search(q, pagination.next_page, per_page)
+        }
     }
 
 

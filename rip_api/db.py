@@ -4,7 +4,7 @@ import math
 import os
 import typing
 
-from sqlalchemy import create_engine, func, text
+from sqlalchemy import create_engine, func, literal, text
 from sqlalchemy.orm import joinedload, load_only, sessionmaker
 
 from .models import Base, Law, ContentItem
@@ -106,19 +106,41 @@ def bulk_delete_laws_by_gii_slug(session, gii_slugs):
 
 
 def _full_text_search_query(session, model, tsquery):
-    rank = func.ts_rank_cd(model.search_tsv, tsquery).label("rank")
-    return (
-        session.query(model, rank)
-        .filter(model.search_tsv.op('@@')(tsquery))
-        .order_by(text("rank desc"))
-    )
+    normalisation = 2  # TODO tweak
+    rank = func.ts_rank_cd(model.search_tsv, tsquery, normalisation)
+    fields = [
+        literal(model.__table__.name[:-1]).label("type"),
+        model.id.label("id"),
+        rank.label("rank")
+    ]
+    return session.query(*fields).filter(model.search_tsv.op('@@')(tsquery))
 
 
-def fulltext_search_laws_content_items(session, query, offset=0, limit=10):
+def _map_search_results_to_models(session, items):
+    # Collect ids.
+    item_ids = {'law': [], 'content_item': []}
+    for item_type, item_id, _ in items:
+        item_ids[item_type].append(item_id)
+
+    # Bulk load and map models.
+    mapped = {'law': {}, 'content_item': {}}
+    for law in session.query(Law).filter(Law.id.in_(item_ids['law'])):
+        mapped['law'][law.id] = law
+    for content_item in session.query(ContentItem).filter(ContentItem.id.in_(item_ids['content_item'])):
+        mapped['content_item'][content_item.id] = content_item
+
+    # Build list in original order.
+    return [mapped[item_type][item_id] for item_type, item_id, _ in items]
+
+
+def fulltext_search_laws_content_items(session, query, page, per_page):
     tsquery = func.websearch_to_tsquery("german", query)
-    laws = _full_text_search_query(session, Law, tsquery).limit(limit).all()
-    content_items = _full_text_search_query(session, ContentItem, tsquery).limit(limit).all()
-    combined = laws + content_items
-    combined.sort(key=lambda it: it[1], reverse=True)
 
-    return combined[:limit]
+    law_query = _full_text_search_query(session, Law, tsquery)
+    content_items_query = _full_text_search_query(session, ContentItem, tsquery).filter(ContentItem.item_type.in_(['article', 'heading_article'])).filter(ContentItem.body != None)
+    combined_query = law_query.union(content_items_query).order_by(text("rank desc"))
+
+    pagination = paginate(combined_query, page, per_page)
+    pagination.items = _map_search_results_to_models(session, pagination.items)
+
+    return pagination

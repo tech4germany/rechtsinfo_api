@@ -6,11 +6,38 @@ import pydantic
 from . import PUBLIC_ASSET_ROOT, urls
 
 
-class ContentItem(pydantic.BaseModel):
+class ContentItemBasicFields(pydantic.BaseModel):
     type: str
     id: str
+    url: str
     name: str
     title: Optional[str]
+
+    @classmethod
+    def _attrs_dict_from_item(cls, item):
+        return {
+            "id": item.doknr,
+            "url": urls.get_article(item.law.slug, item.doknr),
+            "name": item.name,
+            "title": item.title,
+        }
+
+    @staticmethod
+    def model_class_from_item_type(item_type):
+        return {
+            "article": ArticleBasicFields,
+            "heading": HeadingBasicFields,
+            "heading_article": HeadingArticleBasicFields,
+        }[item_type]
+
+    @classmethod
+    def from_orm_model(cls, item):
+        model_type = cls.model_class_from_item_type(item.item_type)
+        attrs = cls._attrs_dict_from_item(item)
+        return model_type(**attrs)
+
+
+class ContentItemAllFields(ContentItemBasicFields):
     parent: Optional[pydantic.create_model(
         'ContentItemReference',  # noqa
         type=(str, ...),
@@ -23,44 +50,58 @@ class ContentItem(pydantic.BaseModel):
             raise ValueError("type string must match model type")
         return v
 
+    @staticmethod
+    def model_class_from_item_type(item_type):
+        return {
+            "article": ArticleAllFields,
+            "heading": HeadingAllFields,
+            "heading_article": HeadingArticleAllFields,
+        }[item_type]
 
-class ContentItemWithTextContent(ContentItem):
+    @classmethod
+    def _attrs_dict_from_item(cls, item):
+        attrs = super()._attrs_dict_from_item(item)
+        attrs["parent"] = item.parent and {
+            "type": humps.camelize(item.parent.item_type),
+            "id": item.parent.doknr
+        }
+
+        if item.item_type in ('article', 'heading_article'):
+            attrs["body"] = item.body
+            attrs["footnotes"] = item.footnotes
+            attrs["documentaryFootnotes"] = item.documentary_footnotes
+
+        return attrs
+
+
+class ContentItemWithTextContent(ContentItemAllFields):
     body: Optional[str] = ...
     footnotes: Optional[str] = ...
     documentaryFootnotes: Optional[str] = ...
 
 
-class Heading(ContentItem):
+class HeadingBasicFields(ContentItemBasicFields):
     type: str = "heading"
 
 
-class Article(ContentItemWithTextContent):
+class HeadingAllFields(ContentItemAllFields):
+    type: str = "heading"
+
+
+class ArticleBasicFields(ContentItemBasicFields):
     type: str = "article"
 
 
-class HeadingArticle(ContentItemWithTextContent):
+class ArticleAllFields(ContentItemWithTextContent):
+    type: str = "article"
+
+
+class HeadingArticleBasicFields(ContentItemBasicFields):
     type: str = "headingArticle"
 
 
-def content_item_from_db_model(item):
-    model_type = ITEM_TYPE_TO_MODEL_TYPE[item.item_type]
-
-    attrs = {
-        "id": item.doknr,
-        "name": item.name,
-        "title": item.title,
-        "parent": item.parent and {
-            "type": humps.camelize(item.parent.item_type),
-            "id": item.parent.doknr
-        }
-    }
-
-    if model_type in (Article, HeadingArticle):
-        attrs["body"] = item.body
-        attrs["footnotes"] = item.footnotes
-        attrs["documentaryFootnotes"] = item.documentary_footnotes
-
-    return model_type(**attrs)
+class HeadingArticleAllFields(ContentItemWithTextContent):
+    type: str = "headingArticle"
 
 
 class LawBasicFields(pydantic.BaseModel):
@@ -88,7 +129,7 @@ class LawBasicFields(pydantic.BaseModel):
         )
 
     @classmethod
-    def from_law(cls, law):
+    def from_orm_model(cls, law):
         return cls(**cls._attrs_dict_from_law(law))
 
 
@@ -136,12 +177,12 @@ class LawAllFields(LawBasicFields):
 
 class LawAllFieldsWithContents(LawAllFields):
     # Ordering in the Union matters, cf. LawResponse.
-    contents: List[Union[Article, Heading, HeadingArticle]]
+    contents: List[Union[ArticleAllFields, HeadingAllFields, HeadingArticleAllFields]]
 
     @classmethod
     def _attrs_dict_from_law(cls, law):
         attrs = super()._attrs_dict_from_law(law)
-        attrs["contents"] = [content_item_from_db_model(ci) for ci in law.contents]
+        attrs["contents"] = [ContentItemAllFields.from_orm_model(ci) for ci in law.contents]
         return attrs
 
 
@@ -151,32 +192,32 @@ class LawResponse(pydantic.BaseModel):
     data: Union[LawAllFieldsWithContents, LawAllFields]
 
     @classmethod
-    def from_law(cls, law):
-        return cls(data=LawAllFields.from_law(law))
+    def from_orm_model(cls, law):
+        return cls(data=LawAllFields.from_orm_model(law))
+
+
+class PaginationLinks(pydantic.BaseModel):
+    prev: Optional[str]
+    next: Optional[str]
+
+
+class Pagination(pydantic.BaseModel):
+    total: int
+    page: int
+    per_page: int
 
 
 class LawsResponse(pydantic.BaseModel):
     data: list
-    links: pydantic.create_model(
-        'PaginationLinks',  # noqa
-        prev=(str, None),
-        next=(str, None)
-    )
-    pagination: pydantic.create_model(
-        'Pagination',  # noqa
-        total=(int, ...),
-        page=(int, ...),
-        per_page=(int, ...)
-    )
+    links: PaginationLinks
+    pagination: Pagination
 
 
 class ContentItemResponse(pydantic.BaseModel):
-    # Ordering in the Union matters, cf. LawResponse.
-    data: Union[Article, Heading, HeadingArticle]
+    data: Union[LawAllFields, ArticleAllFields, HeadingArticleAllFields]
 
 
-ITEM_TYPE_TO_MODEL_TYPE = {
-    "article": Article,
-    "heading": Heading,
-    "heading_article": HeadingArticle,
-}
+class SearchResultsResponse(pydantic.BaseModel):
+    data: List[Union[LawBasicFields, ArticleBasicFields, HeadingArticleBasicFields]]
+    links: PaginationLinks
+    pagination: Pagination
