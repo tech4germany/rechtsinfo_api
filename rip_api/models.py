@@ -8,7 +8,7 @@ from sqlalchemy.orm import relationship
 Base = declarative_base()
 
 
-def _slugify(string):
+def slugify(string):
     string = string.lower()
     # Transcribe umlauts etc.
     for orig, repl in [("ß", "ss"), ("ä", "ae"), ("ö", "oe"), ("ü", "ue")]:
@@ -66,7 +66,7 @@ class Law(Base):
     @staticmethod
     def from_dict(law_dict, gii_slug):
         law = Law(
-            slug=_slugify(law_dict["abbreviation"]),
+            slug=slugify(law_dict["abbreviation"]),
             gii_slug=gii_slug,
             **{k: v for k, v in law_dict.items() if k != "contents"}
         )

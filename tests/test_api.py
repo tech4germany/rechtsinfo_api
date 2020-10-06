@@ -204,7 +204,7 @@ class TestGetArticle:
             documentary_footnotes=None,
             law=mock.Mock(
                 slug='bgb'
-        )
+            )
         )
         with mock.patch("rip_api.db.find_content_item_by_id_and_law_slug", return_value=content_item):
             response = client.get("/laws/bgb/articles/BJNR001950896BJNE000102377")

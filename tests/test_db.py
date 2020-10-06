@@ -19,7 +19,7 @@ class TestPaginate:
         page = 1
         per_page = 1
 
-        pagination = db.paginate(mock_query, page, per_page)
+        pagination = db.paginate(db.QueryItemProvider(mock_query), page, per_page)
 
         mock_query.offset.assert_called_with(0)
         mock_query.offset().limit.assert_called_with(1)
@@ -37,7 +37,7 @@ class TestPaginate:
         page = 1
         per_page = 3
 
-        pagination = db.paginate(mock_query, page, per_page)
+        pagination = db.paginate(db.QueryItemProvider(mock_query), page, per_page)
 
         mock_query.offset.assert_called_with(0)
         mock_query.offset().limit.assert_called_with(3)
@@ -55,7 +55,7 @@ class TestPaginate:
         page = 2
         per_page = 3
 
-        pagination = db.paginate(mock_query, page, per_page)
+        pagination = db.paginate(db.QueryItemProvider(mock_query), page, per_page)
 
         mock_query.offset.assert_called_with(3)
         mock_query.offset().limit.assert_called_with(3)
@@ -70,7 +70,7 @@ class TestPaginate:
         items = mock.Mock()
         mock_query = make_mock_query(page_items=items, total=10)
 
-        pagination = db.paginate(mock_query, page=2000, per_page=5)
+        pagination = db.paginate(db.QueryItemProvider(mock_query), page=2000, per_page=5)
 
         assert pagination.page == 2000
         assert pagination.prev_page == 2
