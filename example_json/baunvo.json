@@ -32,6 +32,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE000606116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE000606116",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -42,6 +43,7 @@
       {
         "type": "heading",
         "id": "BJNR004290962BJNG000102116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNG000102116",
         "name": "Erster Abschnitt",
         "title": "Art der baulichen Nutzung",
         "parent": null
@@ -49,6 +51,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE000705116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE000705116",
         "name": "\u00a7 1",
         "title": "Allgemeine Vorschriften f\u00fcr Baufl\u00e4chen und Baugebiete",
         "parent": {
@@ -62,6 +65,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE000803116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE000803116",
         "name": "\u00a7 2",
         "title": "Kleinsiedlungsgebiete",
         "parent": {
@@ -75,6 +79,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE000904116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE000904116",
         "name": "\u00a7 3",
         "title": "Reine Wohngebiete",
         "parent": {
@@ -88,6 +93,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001003116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001003116",
         "name": "\u00a7 4",
         "title": "Allgemeine Wohngebiete",
         "parent": {
@@ -101,6 +107,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001103116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001103116",
         "name": "\u00a7 4a",
         "title": "Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)",
         "parent": {
@@ -114,6 +121,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001203116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001203116",
         "name": "\u00a7 5",
         "title": "Dorfgebiete",
         "parent": {
@@ -127,6 +135,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001303116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001303116",
         "name": "\u00a7 6",
         "title": "Mischgebiete",
         "parent": {
@@ -140,6 +149,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE004101116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE004101116",
         "name": "\u00a7 6a",
         "title": "Urbane Gebiete",
         "parent": {
@@ -153,6 +163,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001403116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001403116",
         "name": "\u00a7 7",
         "title": "Kerngebiete",
         "parent": {
@@ -166,6 +177,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001503116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001503116",
         "name": "\u00a7 8",
         "title": "Gewerbegebiete",
         "parent": {
@@ -179,6 +191,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001603116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001603116",
         "name": "\u00a7 9",
         "title": "Industriegebiete",
         "parent": {
@@ -192,6 +205,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001702116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001702116",
         "name": "\u00a7 10",
         "title": "Sondergebiete, die der Erholung dienen",
         "parent": {
@@ -205,6 +219,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001805116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001805116",
         "name": "\u00a7 11",
         "title": "Sonstige Sondergebiete",
         "parent": {
@@ -218,6 +233,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE001903116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE001903116",
         "name": "\u00a7 12",
         "title": "Stellpl\u00e4tze und Garagen",
         "parent": {
@@ -231,6 +247,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002002116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002002116",
         "name": "\u00a7 13",
         "title": "Geb\u00e4ude und R\u00e4ume f\u00fcr freie Berufe",
         "parent": {
@@ -244,6 +261,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE004201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE004201116",
         "name": "\u00a7 13a",
         "title": "Ferienwohnungen",
         "parent": {
@@ -257,6 +275,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002104116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002104116",
         "name": "\u00a7 14",
         "title": "Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-W\u00e4rme-Kopplungsanlagen",
         "parent": {
@@ -270,6 +289,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002203116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002203116",
         "name": "\u00a7 15",
         "title": "Allgemeine Voraussetzungen f\u00fcr die Zul\u00e4ssigkeit baulicher und sonstiger Anlagen",
         "parent": {
@@ -283,6 +303,7 @@
       {
         "type": "heading",
         "id": "BJNR004290962BJNG000202116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNG000202116",
         "name": "Zweiter Abschnitt",
         "title": "Ma\u00df der baulichen Nutzung",
         "parent": null
@@ -290,6 +311,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002303116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002303116",
         "name": "\u00a7 16",
         "title": "Bestimmung des Ma\u00dfes der baulichen Nutzung",
         "parent": {
@@ -303,6 +325,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002405116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002405116",
         "name": "\u00a7 17",
         "title": "Obergrenzen f\u00fcr die Bestimmung des Ma\u00dfes der baulichen Nutzung",
         "parent": {
@@ -316,6 +339,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002503116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002503116",
         "name": "\u00a7 18",
         "title": "H\u00f6he baulicher Anlagen",
         "parent": {
@@ -329,6 +353,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002603116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002603116",
         "name": "\u00a7 19",
         "title": "Grundfl\u00e4chenzahl, zul\u00e4ssige Grundfl\u00e4che",
         "parent": {
@@ -342,6 +367,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002703116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002703116",
         "name": "\u00a7 20",
         "title": "Vollgeschosse, Geschossfl\u00e4chenzahl, Geschossfl\u00e4che",
         "parent": {
@@ -355,6 +381,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002803116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002803116",
         "name": "\u00a7 21",
         "title": "Baumassenzahl, Baumasse",
         "parent": {
@@ -368,6 +395,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE002903116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE002903116",
         "name": "\u00a7 21a",
         "title": "Stellpl\u00e4tze, Garagen und Gemeinschaftsanlagen",
         "parent": {
@@ -381,6 +409,7 @@
       {
         "type": "heading",
         "id": "BJNR004290962BJNG000302116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNG000302116",
         "name": "Dritter Abschnitt",
         "title": "Bauweise, \u00fcberbaubare Grundst\u00fccksfl\u00e4che",
         "parent": null
@@ -388,6 +417,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003003116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003003116",
         "name": "\u00a7 22",
         "title": "Bauweise",
         "parent": {
@@ -401,6 +431,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003103116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003103116",
         "name": "\u00a7 23",
         "title": "\u00dcberbaubare Grundst\u00fccksfl\u00e4che",
         "parent": {
@@ -414,6 +445,7 @@
       {
         "type": "heading",
         "id": "BJNR004290962BJNG000402116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNG000402116",
         "name": "Vierter Abschnitt",
         "title": null,
         "parent": null
@@ -421,6 +453,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003203116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003203116",
         "name": "\u00a7 24",
         "title": "(weggefallen)",
         "parent": {
@@ -434,6 +467,7 @@
       {
         "type": "heading",
         "id": "BJNR004290962BJNG000502116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNG000502116",
         "name": "F\u00fcnfter Abschnitt",
         "title": "\u00dcberleitungs- und Schlussvorschriften",
         "parent": null
@@ -441,6 +475,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003302116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003302116",
         "name": "\u00a7 25",
         "title": "Fortf\u00fchrung eingeleiteter Verfahren<FnR ID=\"f800128_01_BJNR004290962BJNE003302116\"/>",
         "parent": {
@@ -454,6 +489,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003402116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003402116",
         "name": "\u00a7 25a",
         "title": "\u00dcberleitungsvorschriften aus Anla\u00df der zweiten \u00c4nderungsverordnung",
         "parent": {
@@ -467,6 +503,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003702116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003702116",
         "name": "\u00a7 25b",
         "title": "\u00dcberleitungsvorschrift aus Anlass der dritten \u00c4nderungsverordnung",
         "parent": {
@@ -480,6 +517,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003803116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003803116",
         "name": "\u00a7 25c",
         "title": "\u00dcberleitungsvorschrift aus Anlass der vierten \u00c4nderungsverordnung",
         "parent": {
@@ -493,6 +531,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE004001116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE004001116",
         "name": "\u00a7 25d",
         "title": "\u00dcberleitungsvorschrift aus Anlass des Gesetzes zur St\u00e4rkung der Innenentwicklung in den St\u00e4dten und Gemeinden und weiteren Fortentwicklung des St\u00e4dtebaurechts",
         "parent": {
@@ -506,6 +545,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003503116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003503116",
         "name": "\u00a7 26",
         "title": "(Berlin-Klausel)",
         "parent": {
@@ -519,6 +559,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003902116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003902116",
         "name": "\u00a7 26a",
         "title": "\u00dcberleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands",
         "parent": {
@@ -532,6 +573,7 @@
       {
         "type": "article",
         "id": "BJNR004290962BJNE003602116",
+        "url": "https://api.rechtsinformationsportal.de/laws/baunvo/articles/BJNR004290962BJNE003602116",
         "name": "\u00a7 27",
         "title": "(Inkrafttreten)",
         "parent": {

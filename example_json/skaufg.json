@@ -32,6 +32,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE000600305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE000600305",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -42,6 +43,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNG000100305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNG000100305",
         "name": "Art 1",
         "title": null,
         "parent": null,
@@ -52,6 +54,7 @@
       {
         "type": "headingArticle",
         "id": "BJNR055429995BJNG000200305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNG000200305",
         "name": "Art 2",
         "title": null,
         "parent": null,
@@ -62,6 +65,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE000700305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE000700305",
         "name": "\u00a7 1",
         "title": "Allgemeine Voraussetzungen",
         "parent": {
@@ -75,6 +79,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE000801310",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE000801310",
         "name": "\u00a7 2",
         "title": "Grenz\u00fcbertritt, Einreise",
         "parent": {
@@ -88,6 +93,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE000900305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE000900305",
         "name": "\u00a7 3",
         "title": "Meldewesen",
         "parent": {
@@ -101,6 +107,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001000305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001000305",
         "name": "\u00a7 4",
         "title": "Kriegswaffen",
         "parent": {
@@ -114,6 +121,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001100305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001100305",
         "name": "\u00a7 5",
         "title": "Waffen",
         "parent": {
@@ -127,6 +135,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001200305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001200305",
         "name": "\u00a7 6",
         "title": "Uniformtragen",
         "parent": {
@@ -140,6 +149,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001300305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001300305",
         "name": "\u00a7 7",
         "title": "Gerichtsbarkeit",
         "parent": {
@@ -153,6 +163,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001400305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001400305",
         "name": "\u00a7 8",
         "title": "Disziplinargewalt",
         "parent": {
@@ -166,6 +177,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001500305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001500305",
         "name": "\u00a7 9",
         "title": "Zwangsma\u00dfnahmen",
         "parent": {
@@ -179,6 +191,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001604116",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001604116",
         "name": "\u00a7 10",
         "title": "Telekommunikation",
         "parent": {
@@ -192,6 +205,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001700305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001700305",
         "name": "\u00a7 11",
         "title": "Gesundheitswesen",
         "parent": {
@@ -205,6 +219,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001800305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001800305",
         "name": "\u00a7 12",
         "title": "Umweltschutz",
         "parent": {
@@ -218,6 +233,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE001900305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE001900305",
         "name": "\u00a7 13",
         "title": "F\u00fchrerscheine, Luftfahrerscheine, Bef\u00e4higungszeugnisse f\u00fcr\nmilit\u00e4rische Wasserfahrzeuge",
         "parent": {
@@ -231,6 +247,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002000305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002000305",
         "name": "\u00a7 14",
         "title": "Verkehr mit eigenen Fahrzeugen des ausl\u00e4ndischen Staates",
         "parent": {
@@ -244,6 +261,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002100305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002100305",
         "name": "\u00a7 15",
         "title": "Haftpflichtversicherung",
         "parent": {
@@ -257,6 +275,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002200305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002200305",
         "name": "\u00a7 16",
         "title": "Haftung",
         "parent": {
@@ -270,6 +289,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002300305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002300305",
         "name": "\u00a7 17",
         "title": "\u00dcbungen zu Lande",
         "parent": {
@@ -283,6 +303,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002400305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002400305",
         "name": "\u00a7 18",
         "title": "\u00dcbungen im Luftraum",
         "parent": {
@@ -296,6 +317,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002500305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002500305",
         "name": "\u00a7 19",
         "title": "\u00dcbungen in deutschen Hoheitsgew\u00e4ssern",
         "parent": {
@@ -309,6 +331,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002600305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002600305",
         "name": "\u00a7 20",
         "title": "Befreiung von Steuern und sonstigen Abgaben",
         "parent": {
@@ -322,6 +345,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002700305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002700305",
         "name": "\u00a7 21",
         "title": "Streitbeilegung",
         "parent": {
@@ -335,6 +359,7 @@
       {
         "type": "heading",
         "id": "BJNR055429995BJNG000300305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNG000300305",
         "name": "Art 3",
         "title": null,
         "parent": null
@@ -342,6 +367,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002801311",
         "name": "\u00a7 1",
         "title": null,
         "parent": {
@@ -355,6 +381,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE002900305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE002900305",
         "name": "\u00a7 2",
         "title": null,
         "parent": {
@@ -368,6 +395,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE003000305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE003000305",
         "name": "\u00a7 3",
         "title": null,
         "parent": {
@@ -381,6 +409,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE003100305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE003100305",
         "name": "\u00a7 4",
         "title": null,
         "parent": {
@@ -394,6 +423,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNE003201320",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNE003201320",
         "name": "\u00a7 5",
         "title": null,
         "parent": {
@@ -407,6 +437,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNG000400305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNG000400305",
         "name": "Art 4",
         "title": null,
         "parent": null,
@@ -417,6 +448,7 @@
       {
         "type": "article",
         "id": "BJNR055429995BJNG000500305",
+        "url": "https://api.rechtsinformationsportal.de/laws/skaufg/articles/BJNR055429995BJNG000500305",
         "name": "Art 5",
         "title": null,
         "parent": null,

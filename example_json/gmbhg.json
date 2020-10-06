@@ -34,6 +34,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE014803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE014803123",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -44,6 +45,7 @@
       {
         "type": "heading",
         "id": "BJNR004770892BJNG000201140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNG000201140",
         "name": "Abschnitt 1",
         "title": "Errichtung der Gesellschaft",
         "parent": null
@@ -51,6 +53,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE000301140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE000301140",
         "name": "\u00a7 1",
         "title": "Zweck; Gr\u00fcnderzahl",
         "parent": {
@@ -64,6 +67,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE000401140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE000401140",
         "name": "\u00a7 2",
         "title": "Form des Gesellschaftsvertrags",
         "parent": {
@@ -77,6 +81,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE000501140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE000501140",
         "name": "\u00a7 3",
         "title": "Inhalt des Gesellschaftsvertrags",
         "parent": {
@@ -90,6 +95,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE000603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE000603308",
         "name": "\u00a7 4",
         "title": "Firma",
         "parent": {
@@ -103,6 +109,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE014601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE014601140",
         "name": "\u00a7 4a",
         "title": "Sitz der Gesellschaft",
         "parent": {
@@ -116,6 +123,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE000702140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE000702140",
         "name": "\u00a7 5",
         "title": "Stammkapital; Gesch\u00e4ftsanteil",
         "parent": {
@@ -129,6 +137,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE014900140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE014900140",
         "name": "\u00a7 5a",
         "title": "Unternehmergesellschaft",
         "parent": {
@@ -142,6 +151,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE000802140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE000802140",
         "name": "\u00a7 6",
         "title": "Gesch\u00e4ftsf\u00fchrer",
         "parent": {
@@ -155,6 +165,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE009302140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE009302140",
         "name": "\u00a7 7",
         "title": "Anmeldung der Gesellschaft",
         "parent": {
@@ -168,6 +179,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE009405123",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE009405123",
         "name": "\u00a7 8",
         "title": "Inhalt der Anmeldung",
         "parent": {
@@ -181,6 +193,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE009502140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE009502140",
         "name": "\u00a7 9",
         "title": "\u00dcberbewertung der Sacheinlagen",
         "parent": {
@@ -194,6 +207,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE009601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE009601140",
         "name": "\u00a7 9a",
         "title": "Ersatzanspr\u00fcche der Gesellschaft",
         "parent": {
@@ -207,6 +221,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE009702140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE009702140",
         "name": "\u00a7 9b",
         "title": "Verzicht auf Ersatzanspr\u00fcche",
         "parent": {
@@ -220,6 +235,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE009802140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE009802140",
         "name": "\u00a7 9c",
         "title": "Ablehnung der Eintragung",
         "parent": {
@@ -233,6 +249,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE001203140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE001203140",
         "name": "\u00a7 10",
         "title": "Inhalt der Eintragung",
         "parent": {
@@ -246,6 +263,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE001301140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE001301140",
         "name": "\u00a7 11",
         "title": "Rechtszustand vor der Eintragung",
         "parent": {
@@ -259,6 +277,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE001404360",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE001404360",
         "name": "\u00a7 12",
         "title": "Bekanntmachungen der Gesellschaft",
         "parent": {
@@ -272,6 +291,7 @@
       {
         "type": "heading",
         "id": "BJNR004770892BJNG001501140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNG001501140",
         "name": "Abschnitt 2",
         "title": "Rechtsverh\u00e4ltnisse der Gesellschaft und der Gesellschafter",
         "parent": null
@@ -279,6 +299,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE001601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE001601140",
         "name": "\u00a7 13",
         "title": "Juristische Person; Handelsgesellschaft",
         "parent": {
@@ -292,6 +313,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE001701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE001701140",
         "name": "\u00a7 14",
         "title": "Einlagepflicht",
         "parent": {
@@ -305,6 +327,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE001801140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE001801140",
         "name": "\u00a7 15",
         "title": "\u00dcbertragung von Gesch\u00e4ftsanteilen",
         "parent": {
@@ -318,6 +341,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE001901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE001901140",
         "name": "\u00a7 16",
         "title": "Rechtsstellung bei Wechsel der Gesellschafter oder Ver\u00e4nderung des Umfangs ihrer Beteiligung; Erwerb vom Nichtberechtigten",
         "parent": {
@@ -331,6 +355,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002001140",
         "name": "\u00a7 17",
         "title": "(weggefallen)",
         "parent": {
@@ -344,6 +369,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002101140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002101140",
         "name": "\u00a7 18",
         "title": "Mitberechtigung am Gesch\u00e4ftsanteil",
         "parent": {
@@ -357,6 +383,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE009903140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE009903140",
         "name": "\u00a7 19",
         "title": "Leistung der Einlagen",
         "parent": {
@@ -370,6 +397,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002301140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002301140",
         "name": "\u00a7 20",
         "title": "Verzugszinsen",
         "parent": {
@@ -383,6 +411,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002401140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002401140",
         "name": "\u00a7 21",
         "title": "Kaduzierung",
         "parent": {
@@ -396,6 +425,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002501140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002501140",
         "name": "\u00a7 22",
         "title": "Haftung der Rechtsvorg\u00e4nger",
         "parent": {
@@ -409,6 +439,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002601140",
         "name": "\u00a7 23",
         "title": "Versteigerung des Gesch\u00e4ftsanteils",
         "parent": {
@@ -422,6 +453,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002701140",
         "name": "\u00a7 24",
         "title": "Aufbringung von Fehlbetr\u00e4gen",
         "parent": {
@@ -435,6 +467,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002801140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002801140",
         "name": "\u00a7 25",
         "title": "Zwingende Vorschriften",
         "parent": {
@@ -448,6 +481,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE002901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE002901140",
         "name": "\u00a7 26",
         "title": "Nachschusspflicht",
         "parent": {
@@ -461,6 +495,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE003001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE003001140",
         "name": "\u00a7 27",
         "title": "Unbeschr\u00e4nkte Nachschusspflicht",
         "parent": {
@@ -474,6 +509,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE003101140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE003101140",
         "name": "\u00a7 28",
         "title": "Beschr\u00e4nkte Nachschusspflicht",
         "parent": {
@@ -487,6 +523,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010002360",
         "name": "\u00a7 29",
         "title": "Ergebnisverwendung",
         "parent": {
@@ -500,6 +537,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE003302140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE003302140",
         "name": "\u00a7 30",
         "title": "Kapitalerhaltung",
         "parent": {
@@ -513,6 +551,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE003402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE003402140",
         "name": "\u00a7 31",
         "title": "Erstattung verbotener R\u00fcckzahlungen",
         "parent": {
@@ -526,6 +565,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE003501140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE003501140",
         "name": "\u00a7 32",
         "title": "R\u00fcckzahlung von Gewinn",
         "parent": {
@@ -539,6 +579,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010107140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010107140",
         "name": "\u00a7 32a",
         "title": "(weggefallen)",
         "parent": {
@@ -552,6 +593,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010202140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010202140",
         "name": "\u00a7 32b",
         "title": "(weggefallen)",
         "parent": {
@@ -565,6 +607,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010304140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010304140",
         "name": "\u00a7 33",
         "title": "Erwerb eigener Gesch\u00e4ftsanteile",
         "parent": {
@@ -578,6 +621,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE003701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE003701140",
         "name": "\u00a7 34",
         "title": "Einziehung von Gesch\u00e4ftsanteilen",
         "parent": {
@@ -591,6 +635,7 @@
       {
         "type": "heading",
         "id": "BJNR004770892BJNG003801140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNG003801140",
         "name": "Abschnitt 3",
         "title": "Vertretung und Gesch\u00e4ftsf\u00fchrung",
         "parent": null
@@ -598,6 +643,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE003902140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE003902140",
         "name": "\u00a7 35",
         "title": "Vertretung der Gesellschaft",
         "parent": {
@@ -611,6 +657,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE004003140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE004003140",
         "name": "\u00a7 35a",
         "title": "Angaben auf Gesch\u00e4ftsbriefen",
         "parent": {
@@ -624,6 +671,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE004102360",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE004102360",
         "name": "\u00a7 36",
         "title": "Zielgr\u00f6\u00dfen und Fristen zur gleichberechtigten Teilhabe von Frauen und M\u00e4nnern",
         "parent": {
@@ -637,6 +685,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE004201140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE004201140",
         "name": "\u00a7 37",
         "title": "Beschr\u00e4nkungen der Vertretungsbefugnis",
         "parent": {
@@ -650,6 +699,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE004301140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE004301140",
         "name": "\u00a7 38",
         "title": "Widerruf der Bestellung",
         "parent": {
@@ -663,6 +713,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE004403140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE004403140",
         "name": "\u00a7 39",
         "title": "Anmeldung der Gesch\u00e4ftsf\u00fchrer",
         "parent": {
@@ -676,6 +727,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE004504123",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE004504123",
         "name": "\u00a7 40",
         "title": "Liste der Gesellschafter, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -689,6 +741,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE004601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE004601140",
         "name": "\u00a7 41",
         "title": "Buchf\u00fchrung",
         "parent": {
@@ -702,6 +755,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010401140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010401140",
         "name": "\u00a7 42",
         "title": "Bilanz",
         "parent": {
@@ -715,6 +769,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010503140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010503140",
         "name": "\u00a7 42a",
         "title": "Vorlage des Jahresabschlusses und des Lageberichts",
         "parent": {
@@ -728,6 +783,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE004901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE004901140",
         "name": "\u00a7 43",
         "title": "Haftung der Gesch\u00e4ftsf\u00fchrer",
         "parent": {
@@ -741,6 +797,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010601140",
         "name": "\u00a7 43a",
         "title": "Kreditgew\u00e4hrung aus Gesellschaftsverm\u00f6gen",
         "parent": {
@@ -754,6 +811,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005001140",
         "name": "\u00a7 44",
         "title": "Stellvertreter von Gesch\u00e4ftsf\u00fchrern",
         "parent": {
@@ -767,6 +825,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005101140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005101140",
         "name": "\u00a7 45",
         "title": "Rechte der Gesellschafter",
         "parent": {
@@ -780,6 +839,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005202140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005202140",
         "name": "\u00a7 46",
         "title": "Aufgabenkreis der Gesellschafter",
         "parent": {
@@ -793,6 +853,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005303140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005303140",
         "name": "\u00a7 47",
         "title": "Abstimmung",
         "parent": {
@@ -806,6 +867,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005402140",
         "name": "\u00a7 48",
         "title": "Gesellschafterversammlung",
         "parent": {
@@ -819,6 +881,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005501140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005501140",
         "name": "\u00a7 49",
         "title": "Einberufung der Versammlung",
         "parent": {
@@ -832,6 +895,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005601140",
         "name": "\u00a7 50",
         "title": "Minderheitsrechte",
         "parent": {
@@ -845,6 +909,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005701140",
         "name": "\u00a7 51",
         "title": "Form der Einberufung",
         "parent": {
@@ -858,6 +923,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010701140",
         "name": "\u00a7 51a",
         "title": "Auskunfts- und Einsichtsrecht",
         "parent": {
@@ -871,6 +937,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010802301",
         "name": "\u00a7 51b",
         "title": "Gerichtliche Entscheidung \u00fcber das Auskunfts- und Einsichtsrecht",
         "parent": {
@@ -884,6 +951,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE005809123",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE005809123",
         "name": "\u00a7 52",
         "title": "Aufsichtsrat",
         "parent": {
@@ -897,6 +965,7 @@
       {
         "type": "heading",
         "id": "BJNR004770892BJNG005901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNG005901140",
         "name": "Abschnitt 4",
         "title": "Ab\u00e4nderungen des Gesellschaftsvertrags",
         "parent": null
@@ -904,6 +973,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE006001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE006001140",
         "name": "\u00a7 53",
         "title": "Form der Satzungs\u00e4nderung",
         "parent": {
@@ -917,6 +987,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE006103140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE006103140",
         "name": "\u00a7 54",
         "title": "Anmeldung und Eintragung der Satzungs\u00e4nderung",
         "parent": {
@@ -930,6 +1001,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE006202140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE006202140",
         "name": "\u00a7 55",
         "title": "Erh\u00f6hung des Stammkapitals",
         "parent": {
@@ -943,6 +1015,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE015000140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE015000140",
         "name": "\u00a7 55a",
         "title": "Genehmigtes Kapital",
         "parent": {
@@ -956,6 +1029,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE010901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE010901140",
         "name": "\u00a7 56",
         "title": "Kapitalerh\u00f6hung mit Sacheinlagen",
         "parent": {
@@ -969,6 +1043,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011001140",
         "name": "\u00a7 56a",
         "title": "Leistungen auf das neue Stammkapital",
         "parent": {
@@ -982,6 +1057,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE006401140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE006401140",
         "name": "\u00a7 57",
         "title": "Anmeldung der Erh\u00f6hung",
         "parent": {
@@ -995,6 +1071,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011102140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011102140",
         "name": "\u00a7 57a",
         "title": "Ablehnung der Eintragung",
         "parent": {
@@ -1008,6 +1085,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011201140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011201140",
         "name": "\u00a7 57b",
         "title": "(weggefallen)",
         "parent": {
@@ -1021,6 +1099,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE012601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE012601140",
         "name": "\u00a7 57c",
         "title": "Kapitalerh\u00f6hung aus Gesellschaftsmitteln",
         "parent": {
@@ -1034,6 +1113,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE012701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE012701140",
         "name": "\u00a7 57d",
         "title": "Ausweisung von Kapital- und Gewinnr\u00fccklagen",
         "parent": {
@@ -1047,6 +1127,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE012801140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE012801140",
         "name": "\u00a7 57e",
         "title": "Zugrundelegung der letzten Jahresbilanz; Pr\u00fcfung",
         "parent": {
@@ -1060,6 +1141,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE012904140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE012904140",
         "name": "\u00a7 57f",
         "title": "Anforderungen an die Bilanz",
         "parent": {
@@ -1073,6 +1155,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013001140",
         "name": "\u00a7 57g",
         "title": "Vorherige Bekanntgabe des Jahresabschlusses",
         "parent": {
@@ -1086,6 +1169,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013102140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013102140",
         "name": "\u00a7 57h",
         "title": "Arten der Kapitalerh\u00f6hung",
         "parent": {
@@ -1099,6 +1183,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013202140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013202140",
         "name": "\u00a7 57i",
         "title": "Anmeldung und Eintragung des Erh\u00f6hungsbeschlusses",
         "parent": {
@@ -1112,6 +1197,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013301140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013301140",
         "name": "\u00a7 57j",
         "title": "Verteilung der Gesch\u00e4ftsanteile",
         "parent": {
@@ -1125,6 +1211,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013401140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013401140",
         "name": "\u00a7 57k",
         "title": "Teilrechte; Aus\u00fcbung der Rechte",
         "parent": {
@@ -1138,6 +1225,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013501140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013501140",
         "name": "\u00a7 57l",
         "title": "Teilnahme an der Erh\u00f6hung des Stammkapitals",
         "parent": {
@@ -1151,6 +1239,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013601140",
         "name": "\u00a7 57m",
         "title": "Verh\u00e4ltnis der Rechte; Beziehungen zu Dritten",
         "parent": {
@@ -1164,6 +1253,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013702140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013702140",
         "name": "\u00a7 57n",
         "title": "Gewinnbeteiligung der neuen Gesch\u00e4ftsanteile",
         "parent": {
@@ -1177,6 +1267,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013801140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013801140",
         "name": "\u00a7 57o",
         "title": "Anschaffungskosten",
         "parent": {
@@ -1190,6 +1281,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE006503140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE006503140",
         "name": "\u00a7 58",
         "title": "Herabsetzung des Stammkapitals",
         "parent": {
@@ -1203,6 +1295,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE013903140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE013903140",
         "name": "\u00a7 58a",
         "title": "Vereinfachte Kapitalherabsetzung",
         "parent": {
@@ -1216,6 +1309,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE014001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE014001140",
         "name": "\u00a7 58b",
         "title": "Betr\u00e4ge aus R\u00fccklagenaufl\u00f6sung und Kapitalherabsetzung",
         "parent": {
@@ -1229,6 +1323,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE014101140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE014101140",
         "name": "\u00a7 58c",
         "title": "Nichteintritt angenommener Verluste",
         "parent": {
@@ -1242,6 +1337,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE014202140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE014202140",
         "name": "\u00a7 58d",
         "title": "Gewinnaussch\u00fcttung",
         "parent": {
@@ -1255,6 +1351,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE014302140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE014302140",
         "name": "\u00a7 58e",
         "title": "Beschluss \u00fcber die Kapitalherabsetzung",
         "parent": {
@@ -1268,6 +1365,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE014402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE014402140",
         "name": "\u00a7 58f",
         "title": "Kapitalherabsetzung bei gleichzeitiger Erh\u00f6hung des Stammkapitals",
         "parent": {
@@ -1281,6 +1379,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE006601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE006601377",
         "name": "\u00a7 59",
         "title": "(weggefallen)",
         "parent": {
@@ -1294,6 +1393,7 @@
       {
         "type": "heading",
         "id": "BJNR004770892BJNG006701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNG006701140",
         "name": "Abschnitt 5",
         "title": "Aufl\u00f6sung und Nichtigkeit der Gesellschaft",
         "parent": null
@@ -1301,6 +1401,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE006804140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE006804140",
         "name": "\u00a7 60",
         "title": "Aufl\u00f6sungsgr\u00fcnde",
         "parent": {
@@ -1314,6 +1415,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE006901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE006901140",
         "name": "\u00a7 61",
         "title": "Aufl\u00f6sung durch Urteil",
         "parent": {
@@ -1327,6 +1429,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007001140",
         "name": "\u00a7 62",
         "title": "Aufl\u00f6sung durch eine Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -1340,6 +1443,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007101307",
         "name": "\u00a7 63",
         "title": "(weggefallen)",
         "parent": {
@@ -1353,6 +1457,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007202140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007202140",
         "name": "\u00a7 64",
         "title": "Haftung f\u00fcr Zahlungen nach Zahlungsunf\u00e4higkeit oder \u00dcberschuldung",
         "parent": {
@@ -1366,6 +1471,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007305140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007305140",
         "name": "\u00a7 65",
         "title": "Anmeldung und Eintragung der Aufl\u00f6sung",
         "parent": {
@@ -1379,6 +1485,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007404140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007404140",
         "name": "\u00a7 66",
         "title": "Liquidatoren",
         "parent": {
@@ -1392,6 +1499,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007503140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007503140",
         "name": "\u00a7 67",
         "title": "Anmeldung der Liquidatoren",
         "parent": {
@@ -1405,6 +1513,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007601140",
         "name": "\u00a7 68",
         "title": "Zeichnung der Liquidatoren",
         "parent": {
@@ -1418,6 +1527,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007701140",
         "name": "\u00a7 69",
         "title": "Rechtsverh\u00e4ltnisse von Gesellschaft und Gesellschaftern",
         "parent": {
@@ -1431,6 +1541,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE007801140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE007801140",
         "name": "\u00a7 70",
         "title": "Aufgaben der Liquidatoren",
         "parent": {
@@ -1444,6 +1555,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011302140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011302140",
         "name": "\u00a7 71",
         "title": "Er\u00f6ffnungsbilanz; Rechte und Pflichten",
         "parent": {
@@ -1457,6 +1569,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE008001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE008001140",
         "name": "\u00a7 72",
         "title": "Verm\u00f6gensverteilung",
         "parent": {
@@ -1470,6 +1583,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE008103140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE008103140",
         "name": "\u00a7 73",
         "title": "Sperrjahr",
         "parent": {
@@ -1483,6 +1597,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE008203140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE008203140",
         "name": "\u00a7 74",
         "title": "Schluss der Liquidation",
         "parent": {
@@ -1496,6 +1611,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE008302140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE008302140",
         "name": "\u00a7 75",
         "title": "Nichtigkeitsklage",
         "parent": {
@@ -1509,6 +1625,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE008401140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE008401140",
         "name": "\u00a7 76",
         "title": "Heilung von M\u00e4ngeln durch Gesellschafterbeschluss",
         "parent": {
@@ -1522,6 +1639,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE008501140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE008501140",
         "name": "\u00a7 77",
         "title": "Wirkung der Nichtigkeit",
         "parent": {
@@ -1535,6 +1653,7 @@
       {
         "type": "heading",
         "id": "BJNR004770892BJNG008601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNG008601140",
         "name": "Abschnitt 6",
         "title": "Ordnungs-, Straf- und Bu\u00dfgeldvorschriften",
         "parent": null
@@ -1542,6 +1661,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE008702140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE008702140",
         "name": "\u00a7 78",
         "title": "Anmeldepflichtige",
         "parent": {
@@ -1555,6 +1675,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE008802140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE008802140",
         "name": "\u00a7 79",
         "title": "Zwangsgelder",
         "parent": {
@@ -1568,6 +1689,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011400308",
         "name": "\u00a7 80",
         "title": "(weggefallen)",
         "parent": {
@@ -1581,6 +1703,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011800308",
         "name": "\u00a7 81",
         "title": "(weggefallen)",
         "parent": {
@@ -1594,6 +1717,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011503140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011503140",
         "name": "\u00a7 82",
         "title": "Falsche Angaben",
         "parent": {
@@ -1607,6 +1731,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE009000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE009000308",
         "name": "\u00a7 83",
         "title": "(weggefallen)",
         "parent": {
@@ -1620,6 +1745,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011603140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011603140",
         "name": "\u00a7 84",
         "title": "Verletzung der Verlustanzeigepflicht",
         "parent": {
@@ -1633,6 +1759,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE011701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE011701140",
         "name": "\u00a7 85",
         "title": "Verletzung der Geheimhaltungspflicht",
         "parent": {
@@ -1646,6 +1773,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE015201123",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE015201123",
         "name": "\u00a7 86",
         "title": "Verletzung der Pflichten bei Abschlusspr\u00fcfungen",
         "parent": {
@@ -1659,6 +1787,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE015301123",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE015301123",
         "name": "\u00a7 87",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -1672,6 +1801,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE015400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE015400123",
         "name": "\u00a7 88",
         "title": "Mitteilungen an die Abschlusspr\u00fcferaufsichtsstelle",
         "parent": {
@@ -1685,6 +1815,7 @@
       {
         "type": "article",
         "id": "BJNR004770892BJNE015100140",
+        "url": "https://api.rechtsinformationsportal.de/laws/gmbhg/articles/BJNR004770892BJNE015100140",
         "name": "Anlage",
         "title": "(zu \u00a7 2 Abs. 1a)",
         "parent": {

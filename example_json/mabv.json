@@ -38,6 +38,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000104118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000104118",
         "name": "\u00a7 1",
         "title": "Anwendungsbereich",
         "parent": null,
@@ -48,6 +49,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000206360",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000206360",
         "name": "\u00a7 2",
         "title": "Sicherheitsleistung, Versicherung",
         "parent": null,
@@ -58,6 +60,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000306360",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000306360",
         "name": "\u00a7 3",
         "title": "Besondere Sicherungspflichten f\u00fcr Bautr\u00e4ger",
         "parent": null,
@@ -68,6 +71,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000404360",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000404360",
         "name": "\u00a7 4",
         "title": "Verwendung von Verm\u00f6genswerten des Auftraggebers",
         "parent": null,
@@ -78,6 +82,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000501309",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000501309",
         "name": "\u00a7 5",
         "title": "Hilfspersonal",
         "parent": null,
@@ -88,6 +93,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000603377",
         "name": "\u00a7 6",
         "title": "Getrennte Verm\u00f6gensverwaltung",
         "parent": null,
@@ -98,6 +104,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000704360",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000704360",
         "name": "\u00a7 7",
         "title": "Ausnahmevorschrift",
         "parent": null,
@@ -108,6 +115,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000801309",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000801309",
         "name": "\u00a7 8",
         "title": "Rechnungslegung",
         "parent": null,
@@ -118,6 +126,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE000901309",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE000901309",
         "name": "\u00a7 9",
         "title": "Anzeigepflicht",
         "parent": null,
@@ -128,6 +137,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001010360",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001010360",
         "name": "\u00a7 10",
         "title": "Buchf\u00fchrungspflicht",
         "parent": null,
@@ -138,6 +148,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001107118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001107118",
         "name": "\u00a7 11",
         "title": "Informationspflicht und Werbung",
         "parent": null,
@@ -148,6 +159,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001201309",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001201309",
         "name": "\u00a7 12",
         "title": "Unzul\u00e4ssigkeit abweichender Vereinbarungen",
         "parent": null,
@@ -158,6 +170,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001304308",
         "name": "\u00a7 13",
         "title": "(weggefallen)",
         "parent": null,
@@ -168,6 +181,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001402308",
         "name": "\u00a7 14",
         "title": "Aufbewahrung",
         "parent": null,
@@ -178,6 +192,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001503118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001503118",
         "name": "\u00a7 15",
         "title": "Umfang der Versicherung",
         "parent": null,
@@ -188,6 +203,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE002300118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE002300118",
         "name": "\u00a7 15a",
         "title": "Versicherungsbest\u00e4tigung; Anzeigepflicht des Versicherungsunternehmens",
         "parent": null,
@@ -198,6 +214,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE002400118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE002400118",
         "name": "\u00a7 15b",
         "title": "Weiterbildung",
         "parent": null,
@@ -208,6 +225,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001610118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001610118",
         "name": "\u00a7 16",
         "title": "Pr\u00fcfungen",
         "parent": null,
@@ -218,6 +236,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001701309",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001701309",
         "name": "\u00a7 17",
         "title": "Rechte und Pflichten der an der Pr\u00fcfung Beteiligten",
         "parent": null,
@@ -228,6 +247,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001809118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001809118",
         "name": "\u00a7 18",
         "title": "Ordnungswidrigkeiten",
         "parent": null,
@@ -238,6 +258,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE001904118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE001904118",
         "name": "\u00a7 19",
         "title": "Anwendung bei grenz\u00fcberschreitender Dienstleistungserbringung",
         "parent": null,
@@ -248,6 +269,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE002003360",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE002003360",
         "name": "\u00a7 20",
         "title": "\u00dcbergangsvorschriften",
         "parent": null,
@@ -258,6 +280,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE002101309",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE002101309",
         "name": "\u00a7 21",
         "title": "Berlin-Klausel",
         "parent": null,
@@ -268,6 +291,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE002201309",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE002201309",
         "name": "\u00a7 22",
         "title": "Inkrafttreten",
         "parent": null,
@@ -278,6 +302,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE002500118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE002500118",
         "name": "Anlage 1",
         "title": "(zu \u00a7 15b Absatz 1)",
         "parent": null,
@@ -288,6 +313,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE002600118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE002600118",
         "name": "Anlage 2",
         "title": "(zu \u00a7 15b Absatz 1)",
         "parent": null,
@@ -298,6 +324,7 @@
       {
         "type": "article",
         "id": "BJNR013140974BJNE002700118",
+        "url": "https://api.rechtsinformationsportal.de/laws/mabv/articles/BJNR013140974BJNE002700118",
         "name": "Anlage 3",
         "title": "(zu \u00a7 15b Absatz 3)",
         "parent": null,

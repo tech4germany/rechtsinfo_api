@@ -295,6 +295,7 @@
       {
         "type": "heading",
         "id": "BJNR036710013BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNG000100000",
         "name": "I.",
         "title": "Allgemeine Verkehrsregeln",
         "parent": null
@@ -302,6 +303,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000100000",
         "name": "\u00a7 1",
         "title": "Grundregeln",
         "parent": {
@@ -315,6 +317,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000203124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000203124",
         "name": "\u00a7 2",
         "title": "Stra\u00dfenbenutzung durch Fahrzeuge",
         "parent": {
@@ -328,6 +331,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000300000",
         "name": "\u00a7 3",
         "title": "Geschwindigkeit",
         "parent": {
@@ -341,6 +345,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000400000",
         "name": "\u00a7 4",
         "title": "Abstand",
         "parent": {
@@ -354,6 +359,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000502124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000502124",
         "name": "\u00a7 5",
         "title": "\u00dcberholen",
         "parent": {
@@ -367,6 +373,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000600000",
         "name": "\u00a7 6",
         "title": "Vorbeifahren",
         "parent": {
@@ -380,6 +387,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000700000",
         "name": "\u00a7 7",
         "title": "Benutzung von Fahrstreifen durch Kraftfahrzeuge",
         "parent": {
@@ -393,6 +401,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000800000",
         "name": "\u00a7 7a",
         "title": "Abgehende Fahrstreifen, Einf\u00e4delungs- und Ausf\u00e4delungsstreifen",
         "parent": {
@@ -406,6 +415,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE000900000",
         "name": "\u00a7 8",
         "title": "Vorfahrt",
         "parent": {
@@ -419,6 +429,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001002124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001002124",
         "name": "\u00a7 9",
         "title": "Abbiegen, Wenden und R\u00fcckw\u00e4rtsfahren",
         "parent": {
@@ -432,6 +443,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001100000",
         "name": "\u00a7 10",
         "title": "Einfahren und Anfahren",
         "parent": {
@@ -445,6 +457,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001201123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001201123",
         "name": "\u00a7 11",
         "title": "Besondere Verkehrslagen",
         "parent": {
@@ -458,6 +471,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001301124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001301124",
         "name": "\u00a7 12",
         "title": "Halten und Parken",
         "parent": {
@@ -471,6 +485,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001401124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001401124",
         "name": "\u00a7 13",
         "title": "Einrichtungen zur \u00dcberwachung der Parkzeit",
         "parent": {
@@ -484,6 +499,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001500000",
         "name": "\u00a7 14",
         "title": "Sorgfaltspflichten beim Ein- und Aussteigen",
         "parent": {
@@ -497,6 +513,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001600000",
         "name": "\u00a7 15",
         "title": "Liegenbleiben von Fahrzeugen",
         "parent": {
@@ -510,6 +527,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001700000",
         "name": "\u00a7 15a",
         "title": "Abschleppen von Fahrzeugen",
         "parent": {
@@ -523,6 +541,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001801124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001801124",
         "name": "\u00a7 16",
         "title": "Warnzeichen",
         "parent": {
@@ -536,6 +555,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE001900000",
         "name": "\u00a7 17",
         "title": "Beleuchtung",
         "parent": {
@@ -549,6 +569,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002000000",
         "name": "\u00a7 18",
         "title": "Autobahnen und Kraftfahrstra\u00dfen",
         "parent": {
@@ -562,6 +583,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002100000",
         "name": "\u00a7 19",
         "title": "Bahn\u00fcberg\u00e4nge",
         "parent": {
@@ -575,6 +597,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002200000",
         "name": "\u00a7 20",
         "title": "\u00d6ffentliche Verkehrsmittel und Schulbusse",
         "parent": {
@@ -588,6 +611,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002302124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002302124",
         "name": "\u00a7 21",
         "title": "Personenbef\u00f6rderung",
         "parent": {
@@ -601,6 +625,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002402123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002402123",
         "name": "\u00a7 21a",
         "title": "Sicherheitsgurte, Rollstuhl-R\u00fcckhaltesysteme, Rollstuhlnutzer-R\u00fcckhaltesysteme, Schutzhelme",
         "parent": {
@@ -614,6 +639,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002500000",
         "name": "\u00a7 22",
         "title": "Ladung",
         "parent": {
@@ -627,6 +653,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002603124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002603124",
         "name": "\u00a7 23",
         "title": "Sonstige Pflichten von Fahrzeugf\u00fchrenden",
         "parent": {
@@ -640,6 +667,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002700000",
         "name": "\u00a7 24",
         "title": "Besondere Fortbewegungsmittel",
         "parent": {
@@ -653,6 +681,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002801360",
         "name": "\u00a7 25",
         "title": "Fu\u00dfg\u00e4nger",
         "parent": {
@@ -666,6 +695,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE002900000",
         "name": "\u00a7 26",
         "title": "Fu\u00dfg\u00e4nger\u00fcberwege",
         "parent": {
@@ -679,6 +709,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003000000",
         "name": "\u00a7 27",
         "title": "Verb\u00e4nde",
         "parent": {
@@ -692,6 +723,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003100000",
         "name": "\u00a7 28",
         "title": "Tiere",
         "parent": {
@@ -705,6 +737,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003201360",
         "name": "\u00a7 29",
         "title": "\u00dcberm\u00e4\u00dfige Stra\u00dfenbenutzung",
         "parent": {
@@ -718,6 +751,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003302124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003302124",
         "name": "\u00a7 30",
         "title": "Umweltschutz, Sonn- und Feiertagsfahrverbot",
         "parent": {
@@ -731,6 +765,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003400000",
         "name": "\u00a7 31",
         "title": "Sport und Spiel",
         "parent": {
@@ -744,6 +779,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003500000",
         "name": "\u00a7 32",
         "title": "Verkehrshindernisse",
         "parent": {
@@ -757,6 +793,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003600000",
         "name": "\u00a7 33",
         "title": "Verkehrsbeeintr\u00e4chtigungen",
         "parent": {
@@ -770,6 +807,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003700000",
         "name": "\u00a7 34",
         "title": "Unfall",
         "parent": {
@@ -783,6 +821,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003802124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003802124",
         "name": "\u00a7 35",
         "title": "Sonderrechte",
         "parent": {
@@ -796,6 +835,7 @@
       {
         "type": "heading",
         "id": "BJNR036710013BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNG000200000",
         "name": "II.",
         "title": "Zeichen und Verkehrseinrichtungen",
         "parent": null
@@ -803,6 +843,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE003900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE003900000",
         "name": "\u00a7 36",
         "title": "Zeichen und Weisungen der Polizeibeamten",
         "parent": {
@@ -816,6 +857,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004001124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004001124",
         "name": "\u00a7 37",
         "title": "Wechsellichtzeichen, Dauerlichtzeichen und Gr\u00fcnpfeil",
         "parent": {
@@ -829,6 +871,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004100000",
         "name": "\u00a7 38",
         "title": "Blaues Blinklicht und gelbes Blinklicht",
         "parent": {
@@ -842,6 +885,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004204124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004204124",
         "name": "\u00a7 39",
         "title": "Verkehrszeichen",
         "parent": {
@@ -855,6 +899,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004300000",
         "name": "\u00a7 40",
         "title": "Gefahrzeichen",
         "parent": {
@@ -868,6 +913,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004400000",
         "name": "\u00a7 41",
         "title": "Vorschriftzeichen",
         "parent": {
@@ -881,6 +927,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004500000",
         "name": "\u00a7 42",
         "title": "Richtzeichen",
         "parent": {
@@ -894,6 +941,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004600000",
         "name": "\u00a7 43",
         "title": "Verkehrseinrichtungen",
         "parent": {
@@ -907,6 +955,7 @@
       {
         "type": "heading",
         "id": "BJNR036710013BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNG000300000",
         "name": "III.",
         "title": "Durchf\u00fchrungs-, Bu\u00dfgeld- und Schlussvorschriften",
         "parent": null
@@ -914,6 +963,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004701124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004701124",
         "name": "\u00a7 44",
         "title": "Sachliche Zust\u00e4ndigkeit",
         "parent": {
@@ -927,6 +977,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004804124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004804124",
         "name": "\u00a7 45",
         "title": "Verkehrszeichen und Verkehrseinrichtungen",
         "parent": {
@@ -940,6 +991,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE004904124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE004904124",
         "name": "\u00a7 46",
         "title": "Ausnahmegenehmigung und Erlaubnis",
         "parent": {
@@ -953,6 +1005,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005000000",
         "name": "\u00a7 47",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -966,6 +1019,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005100000",
         "name": "\u00a7 48",
         "title": "Verkehrsunterricht",
         "parent": {
@@ -979,6 +1033,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005205124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005205124",
         "name": "\u00a7 49",
         "title": "Ordnungswidrigkeiten",
         "parent": {
@@ -992,6 +1047,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005300000",
         "name": "\u00a7 50",
         "title": "Sonderregelung f\u00fcr die Insel Helgoland",
         "parent": {
@@ -1005,6 +1061,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005400000",
         "name": "\u00a7 51",
         "title": "Besondere Kostenregelung",
         "parent": {
@@ -1018,6 +1075,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE006202360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE006202360",
         "name": "\u00a7 52",
         "title": "\u00dcbergangs- und Anwendungsbestimmungen",
         "parent": {
@@ -1031,6 +1089,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005600000",
         "name": "\u00a7 53",
         "title": "Inkrafttreten, Au\u00dferkrafttreten",
         "parent": {
@@ -1044,6 +1103,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE006100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE006100000",
         "name": "Schlussformel",
         "title": null,
         "parent": {
@@ -1057,6 +1117,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005700000",
         "name": "Anlage 1",
         "title": "(zu \u00a7 40 Absatz 6 und 7)<BR/>Allgemeine und Besondere Gefahrzeichen",
         "parent": {
@@ -1070,6 +1131,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005803124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005803124",
         "name": "Anlage 2",
         "title": "(zu \u00a7 41 Absatz 1)<BR/>Vorschriftzeichen",
         "parent": {
@@ -1083,6 +1145,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE005902124",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE005902124",
         "name": "Anlage 3",
         "title": "(zu \u00a7 42 Absatz 2)<BR/>Richtzeichen",
         "parent": {
@@ -1096,6 +1159,7 @@
       {
         "type": "article",
         "id": "BJNR036710013BJNE006000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/stvo/articles/BJNR036710013BJNE006000000",
         "name": "Anlage 4",
         "title": "(zu \u00a7 43 Absatz 3)<BR/>Verkehrseinrichtungen",
         "parent": {

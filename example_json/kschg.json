@@ -36,6 +36,7 @@
       {
         "type": "heading",
         "id": "BJNR004990951BJNG000100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNG000100311",
         "name": "Erster Abschnitt",
         "title": "Allgemeiner K\u00fcndigungsschutz",
         "parent": null
@@ -43,6 +44,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE000503308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE000503308",
         "name": "\u00a7 1",
         "title": "Sozial ungerechtfertigte K\u00fcndigungen",
         "parent": {
@@ -56,6 +58,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE003300308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE003300308",
         "name": "\u00a7 1a",
         "title": "Abfindungsanspruch bei betriebsbedingter K\u00fcndigung",
         "parent": {
@@ -69,6 +72,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE000600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE000600311",
         "name": "\u00a7 2",
         "title": "\u00c4nderungsk\u00fcndigung",
         "parent": {
@@ -82,6 +86,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE000700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE000700311",
         "name": "\u00a7 3",
         "title": "K\u00fcndigungseinspruch",
         "parent": {
@@ -95,6 +100,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE000801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE000801308",
         "name": "\u00a7 4",
         "title": "Anrufung des Arbeitsgerichts",
         "parent": {
@@ -108,6 +114,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE000903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE000903308",
         "name": "\u00a7 5",
         "title": "Zulassung versp\u00e4teter Klagen",
         "parent": {
@@ -121,6 +128,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001001308",
         "name": "\u00a7 6",
         "title": "Verl\u00e4ngerte Anrufungsfrist",
         "parent": {
@@ -134,6 +142,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001101308",
         "name": "\u00a7 7",
         "title": "Wirksamwerden der K\u00fcndigung",
         "parent": {
@@ -147,6 +156,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001200311",
         "name": "\u00a7 8",
         "title": "Wiederherstellung der fr\u00fcheren Arbeitsbedingungen",
         "parent": {
@@ -160,6 +170,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001300311",
         "name": "\u00a7 9",
         "title": "Aufl\u00f6sung des Arbeitsverh\u00e4ltnisses durch Urteil des\nGerichts, Abfindung des Arbeitnehmers",
         "parent": {
@@ -173,6 +184,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001401308",
         "name": "\u00a7 10",
         "title": "H\u00f6he der Abfindung",
         "parent": {
@@ -186,6 +198,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001501308",
         "name": "\u00a7 11",
         "title": "Anrechnung auf entgangenen Zwischenverdienst",
         "parent": {
@@ -199,6 +212,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001600311",
         "name": "\u00a7 12",
         "title": "Neues Arbeitsverh\u00e4ltnis des Arbeitnehmers, Aufl\u00f6sung des\nalten Arbeitsverh\u00e4ltnisses",
         "parent": {
@@ -212,6 +226,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001701308",
         "name": "\u00a7 13",
         "title": "Au\u00dferordentliche, sittenwidrige und sonstige K\u00fcndigungen",
         "parent": {
@@ -225,6 +240,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001800311",
         "name": "\u00a7 14",
         "title": "Angestellte in leitender Stellung",
         "parent": {
@@ -238,6 +254,7 @@
       {
         "type": "heading",
         "id": "BJNR004990951BJNG000200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNG000200311",
         "name": "Zweiter Abschnitt",
         "title": "K\u00fcndigungsschutz im Rahmen der\nBetriebsverfassung und Personalvertretung",
         "parent": null
@@ -245,6 +262,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE001903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE001903308",
         "name": "\u00a7 15",
         "title": "Unzul\u00e4ssigkeit der K\u00fcndigung",
         "parent": {
@@ -258,6 +276,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002001308",
         "name": "\u00a7 16",
         "title": "Neues Arbeitsverh\u00e4ltnis, Aufl\u00f6sung des alten\nArbeitsverh\u00e4ltnisses",
         "parent": {
@@ -271,6 +290,7 @@
       {
         "type": "heading",
         "id": "BJNR004990951BJNG000300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNG000300311",
         "name": "Dritter Abschnitt",
         "title": "Anzeigepflichtige Entlassungen",
         "parent": null
@@ -278,6 +298,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002103308",
         "name": "\u00a7 17",
         "title": "Anzeigepflicht",
         "parent": {
@@ -291,6 +312,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002202308",
         "name": "\u00a7 18",
         "title": "Entlassungssperre",
         "parent": {
@@ -304,6 +326,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002301308",
         "name": "\u00a7 19",
         "title": "Zul\u00e4ssigkeit von Kurzarbeit",
         "parent": {
@@ -317,6 +340,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002405308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002405308",
         "name": "\u00a7 20",
         "title": "Entscheidungen der Agentur f\u00fcr Arbeit",
         "parent": {
@@ -330,6 +354,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002503308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002503308",
         "name": "\u00a7 21",
         "title": "Entscheidungen der Zentrale der Bundesagentur f\u00fcr Arbeit",
         "parent": {
@@ -343,6 +368,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002604308",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002604308",
         "name": "\u00a7 22",
         "title": "Ausnahmebetriebe",
         "parent": {
@@ -356,6 +382,7 @@
       {
         "type": "heading",
         "id": "BJNR004990951BJNG000400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNG000400311",
         "name": "Vierter Abschnitt",
         "title": "Schlu\u00dfbestimmungen",
         "parent": null
@@ -363,6 +390,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002805360",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002805360",
         "name": "\u00a7 23",
         "title": "Geltungsbereich",
         "parent": {
@@ -376,6 +404,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE002902360",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE002902360",
         "name": "\u00a7 24",
         "title": "Anwendung des Gesetzes auf Betriebe der Schifffahrt und des Luftverkehrs",
         "parent": {
@@ -389,6 +418,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE003000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE003000311",
         "name": "\u00a7 25",
         "title": "K\u00fcndigung in Arbeitsk\u00e4mpfen",
         "parent": {
@@ -402,6 +432,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE003200314",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE003200314",
         "name": "\u00a7 25a",
         "title": "Berlin-Klausel",
         "parent": {
@@ -415,6 +446,7 @@
       {
         "type": "article",
         "id": "BJNR004990951BJNE003100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/kschg/articles/BJNR004990951BJNE003100311",
         "name": "\u00a7 26",
         "title": "Inkrafttreten",
         "parent": {

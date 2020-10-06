@@ -38,6 +38,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE008310311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE008310311",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -48,6 +49,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000101311",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -55,6 +57,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE000230125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE000230125",
         "name": "\u00a7 1",
         "title": "Geltungsbereich",
         "parent": {
@@ -68,6 +71,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE000302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE000302311",
         "name": "\u00a7 2",
         "title": "Kostenfreiheit",
         "parent": {
@@ -81,6 +85,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE000401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE000401311",
         "name": "\u00a7 3",
         "title": "H\u00f6he der Kosten",
         "parent": {
@@ -94,6 +99,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE000501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE000501311",
         "name": "\u00a7 4",
         "title": "Verweisungen",
         "parent": {
@@ -107,6 +113,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE000606311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE000606311",
         "name": "\u00a7 5",
         "title": "Verj\u00e4hrung, Verzinsung",
         "parent": {
@@ -120,6 +127,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007702311",
         "name": "\u00a7 5a",
         "title": "Elektronische Akte, elektronisches Dokument",
         "parent": {
@@ -133,6 +141,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE009101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE009101311",
         "name": "\u00a7 5b",
         "title": "Rechtsbehelfsbelehrung",
         "parent": {
@@ -146,6 +155,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000201311",
         "name": "Abschnitt 2",
         "title": "F\u00e4lligkeit",
         "parent": null
@@ -153,6 +163,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE000705311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE000705311",
         "name": "\u00a7 6",
         "title": "F\u00e4lligkeit der Geb\u00fchren im Allgemeinen",
         "parent": {
@@ -166,6 +177,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE000802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE000802311",
         "name": "\u00a7 7",
         "title": "Zwangsversteigerung und Zwangsverwaltung",
         "parent": {
@@ -179,6 +191,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE000901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE000901311",
         "name": "\u00a7 8",
         "title": "Strafsachen, Bu\u00dfgeldsachen",
         "parent": {
@@ -192,6 +205,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001007311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001007311",
         "name": "\u00a7 9",
         "title": "F\u00e4lligkeit der Geb\u00fchren in sonstigen F\u00e4llen, F\u00e4lligkeit der Auslagen",
         "parent": {
@@ -205,6 +219,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000301311",
         "name": "Abschnitt 3",
         "title": "Vorschuss und Vorauszahlung",
         "parent": null
@@ -212,6 +227,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001102311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001102311",
         "name": "\u00a7 10",
         "title": "Grundsatz f\u00fcr die Abh\u00e4ngigmachung",
         "parent": {
@@ -225,6 +241,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001202311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001202311",
         "name": "\u00a7 11",
         "title": "Verfahren nach dem Arbeitsgerichtsgesetz",
         "parent": {
@@ -238,6 +255,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001309311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001309311",
         "name": "\u00a7 12",
         "title": "Verfahren nach der Zivilprozessordnung",
         "parent": {
@@ -251,6 +269,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE008902311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE008902311",
         "name": "\u00a7 12a",
         "title": "Verfahren wegen \u00fcberlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren",
         "parent": {
@@ -264,6 +283,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001401311",
         "name": "\u00a7 13",
         "title": "Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung",
         "parent": {
@@ -277,6 +297,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001502311",
         "name": "\u00a7 14",
         "title": "Ausnahmen von der Abh\u00e4ngigmachung",
         "parent": {
@@ -290,6 +311,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001601311",
         "name": "\u00a7 15",
         "title": "Zwangsversteigerungs- und Zwangsverwaltungsverfahren",
         "parent": {
@@ -303,6 +325,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001702311",
         "name": "\u00a7 16",
         "title": "Privatklage, Nebenklage",
         "parent": {
@@ -316,6 +339,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001806311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001806311",
         "name": "\u00a7 17",
         "title": "Auslagen",
         "parent": {
@@ -329,6 +353,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE001901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE001901311",
         "name": "\u00a7 18",
         "title": "Fortdauer der Vorschusspflicht",
         "parent": {
@@ -342,6 +367,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000401311",
         "name": "Abschnitt 4",
         "title": "Kostenansatz",
         "parent": null
@@ -349,6 +375,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002003311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002003311",
         "name": "\u00a7 19",
         "title": "Kostenansatz",
         "parent": {
@@ -362,6 +389,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002103311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002103311",
         "name": "\u00a7 20",
         "title": "Nachforderung",
         "parent": {
@@ -375,6 +403,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002202311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002202311",
         "name": "\u00a7 21",
         "title": "Nichterhebung von Kosten",
         "parent": {
@@ -388,6 +417,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000501311",
         "name": "Abschnitt 5",
         "title": "Kostenhaftung",
         "parent": null
@@ -395,6 +425,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002317311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002317311",
         "name": "\u00a7 22",
         "title": "Streitverfahren, Best\u00e4tigungen und Bescheinigungen zu inl\u00e4ndischen Titeln",
         "parent": {
@@ -408,6 +439,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE008408311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE008408311",
         "name": "\u00a7 23",
         "title": "Insolvenzverfahren",
         "parent": {
@@ -421,6 +453,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE008101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE008101311",
         "name": "\u00a7 23a",
         "title": "Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz",
         "parent": {
@@ -434,6 +467,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002501311",
         "name": "\u00a7 24",
         "title": "\u00d6ffentliche Bekanntmachung in ausl\u00e4ndischen Insolvenzverfahren",
         "parent": {
@@ -447,6 +481,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002601311",
         "name": "\u00a7 25",
         "title": "Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung",
         "parent": {
@@ -460,6 +495,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002701311",
         "name": "\u00a7 26",
         "title": "Zwangsversteigerungs- und Zwangsverwaltungsverfahren",
         "parent": {
@@ -473,6 +509,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002801311",
         "name": "\u00a7 27",
         "title": "Bu\u00dfgeldsachen",
         "parent": {
@@ -486,6 +523,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE002904311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE002904311",
         "name": "\u00a7 28",
         "title": "Auslagen in weiteren F\u00e4llen",
         "parent": {
@@ -499,6 +537,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003001311",
         "name": "\u00a7 29",
         "title": "Weitere F\u00e4lle der Kostenhaftung",
         "parent": {
@@ -512,6 +551,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003101311",
         "name": "\u00a7 30",
         "title": "Erl\u00f6schen der Zahlungspflicht",
         "parent": {
@@ -525,6 +565,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003203311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003203311",
         "name": "\u00a7 31",
         "title": "Mehrere Kostenschuldner",
         "parent": {
@@ -538,6 +579,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003301311",
         "name": "\u00a7 32",
         "title": "Haftung von Streitgenossen und Beigeladenen",
         "parent": {
@@ -551,6 +593,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003401311",
         "name": "\u00a7 33",
         "title": "Verpflichtung zur Zahlung von Kosten in besonderen F\u00e4llen",
         "parent": {
@@ -564,6 +607,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000601311",
         "name": "Abschnitt 6",
         "title": "Geb\u00fchrenvorschriften",
         "parent": null
@@ -571,6 +615,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003502311",
         "name": "\u00a7 34",
         "title": "Wertgeb\u00fchren",
         "parent": {
@@ -584,6 +629,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003601311",
         "name": "\u00a7 35",
         "title": "Einmalige Erhebung der Geb\u00fchren",
         "parent": {
@@ -597,6 +643,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003701311",
         "name": "\u00a7 36",
         "title": "Teile des Streitgegenstands",
         "parent": {
@@ -610,6 +657,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003801311",
         "name": "\u00a7 37",
         "title": "Zur\u00fcckverweisung",
         "parent": {
@@ -623,6 +671,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE003902311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE003902311",
         "name": "\u00a7 38",
         "title": "Verz\u00f6gerung des Rechtsstreits",
         "parent": {
@@ -636,6 +685,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000701311",
         "name": "Abschnitt 7",
         "title": "Wertvorschriften",
         "parent": null
@@ -643,6 +693,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000801311",
         "name": "Unterabschnitt 1",
         "title": "Allgemeine Wertvorschriften",
         "parent": {
@@ -653,6 +704,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004002311",
         "name": "\u00a7 39",
         "title": "Grundsatz",
         "parent": {
@@ -666,6 +718,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004101311",
         "name": "\u00a7 40",
         "title": "Zeitpunkt der Wertberechnung",
         "parent": {
@@ -679,6 +732,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004201311",
         "name": "\u00a7 41",
         "title": "Miet-, Pacht- und \u00e4hnliche Nutzungsverh\u00e4ltnisse",
         "parent": {
@@ -692,6 +746,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004304311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004304311",
         "name": "\u00a7 42",
         "title": "Wiederkehrende Leistungen",
         "parent": {
@@ -705,6 +760,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004401311",
         "name": "\u00a7 43",
         "title": "Nebenforderungen",
         "parent": {
@@ -718,6 +774,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004501311",
         "name": "\u00a7 44",
         "title": "Stufenklage",
         "parent": {
@@ -731,6 +788,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004601311",
         "name": "\u00a7 45",
         "title": "Klage und Widerklage, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung",
         "parent": {
@@ -744,6 +802,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004702311",
         "name": "\u00a7 46",
         "title": "(weggefallen)",
         "parent": {
@@ -757,6 +816,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004801311",
         "name": "\u00a7 47",
         "title": "Rechtsmittelverfahren",
         "parent": {
@@ -770,6 +830,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG000901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG000901311",
         "name": "Unterabschnitt 2",
         "title": "Besondere Wertvorschriften",
         "parent": {
@@ -780,6 +841,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE004905311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE004905311",
         "name": "\u00a7 48",
         "title": "B\u00fcrgerliche Rechtsstreitigkeiten",
         "parent": {
@@ -793,6 +855,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005002311",
         "name": "\u00a7 49",
         "title": "(weggefallen)",
         "parent": {
@@ -806,6 +869,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007901311",
         "name": "\u00a7 49a",
         "title": "Wohnungseigentumssachen",
         "parent": {
@@ -819,6 +883,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005113125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005113125",
         "name": "\u00a7 50",
         "title": "Bestimmte Beschwerdeverfahren",
         "parent": {
@@ -832,6 +897,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005205125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005205125",
         "name": "\u00a7 51",
         "title": "Gewerblicher Rechtsschutz",
         "parent": {
@@ -845,6 +911,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007804311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007804311",
         "name": "\u00a7 51a",
         "title": "Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz",
         "parent": {
@@ -858,6 +925,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005306125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005306125",
         "name": "\u00a7 52",
         "title": "Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit",
         "parent": {
@@ -871,6 +939,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005408377",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005408377",
         "name": "\u00a7 53",
         "title": "Einstweiliger Rechtsschutz und Verfahren nach \u00a7 148 Absatz 1 und 2 des Aktiengesetzes",
         "parent": {
@@ -884,6 +953,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE008201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE008201311",
         "name": "\u00a7 53a",
         "title": "Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz",
         "parent": {
@@ -897,6 +967,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005501311",
         "name": "\u00a7 54",
         "title": "Zwangsversteigerung",
         "parent": {
@@ -910,6 +981,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005601311",
         "name": "\u00a7 55",
         "title": "Zwangsverwaltung",
         "parent": {
@@ -923,6 +995,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005701311",
         "name": "\u00a7 56",
         "title": "Zwangsversteigerung von Schiffen, Schiffsbauwerken, Luftfahrzeugen und grundst\u00fccksgleichen Rechten",
         "parent": {
@@ -936,6 +1009,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005801311",
         "name": "\u00a7 57",
         "title": "Zwangsliquidation einer Bahneinheit",
         "parent": {
@@ -949,6 +1023,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE005902311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE005902311",
         "name": "\u00a7 58",
         "title": "Insolvenzverfahren",
         "parent": {
@@ -962,6 +1037,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006001311",
         "name": "\u00a7 59",
         "title": "Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung",
         "parent": {
@@ -975,6 +1051,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006102311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006102311",
         "name": "\u00a7 60",
         "title": "Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit \u00a7 92 des Jugendgerichtsgesetzes",
         "parent": {
@@ -988,6 +1065,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG001001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG001001311",
         "name": "Unterabschnitt 3",
         "title": "Wertfestsetzung",
         "parent": {
@@ -998,6 +1076,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006202311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006202311",
         "name": "\u00a7 61",
         "title": "Angabe des Werts",
         "parent": {
@@ -1011,6 +1090,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006301311",
         "name": "\u00a7 62",
         "title": "Wertfestsetzung f\u00fcr die Zust\u00e4ndigkeit des Prozessgerichts oder die Zul\u00e4ssigkeit des Rechtsmittels",
         "parent": {
@@ -1024,6 +1104,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006404311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006404311",
         "name": "\u00a7 63",
         "title": "Wertfestsetzung f\u00fcr die Gerichtsgeb\u00fchren",
         "parent": {
@@ -1037,6 +1118,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006501311",
         "name": "\u00a7 64",
         "title": "Sch\u00e4tzung des Werts",
         "parent": {
@@ -1050,6 +1132,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006602311",
         "name": "\u00a7 65",
         "title": "Wertfestsetzung in gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit \u00a7 92 des Jugendgerichtsgesetzes",
         "parent": {
@@ -1063,6 +1146,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG001101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG001101311",
         "name": "Abschnitt 8",
         "title": "Erinnerung und Beschwerde",
         "parent": null
@@ -1070,6 +1154,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006709311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006709311",
         "name": "\u00a7 66",
         "title": "Erinnerung gegen den Kostenansatz, Beschwerde",
         "parent": {
@@ -1083,6 +1168,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006803311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006803311",
         "name": "\u00a7 67",
         "title": "Beschwerde gegen die Anordnung einer Vorauszahlung",
         "parent": {
@@ -1096,6 +1182,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE006904311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE006904311",
         "name": "\u00a7 68",
         "title": "Beschwerde gegen die Festsetzung des Streitwerts",
         "parent": {
@@ -1109,6 +1196,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007002311",
         "name": "\u00a7 69",
         "title": "Beschwerde gegen die Auferlegung einer Verz\u00f6gerungsgeb\u00fchr",
         "parent": {
@@ -1122,6 +1210,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007602311",
         "name": "\u00a7 69a",
         "title": "Abhilfe bei Verletzung des Anspruchs auf rechtliches Geh\u00f6r",
         "parent": {
@@ -1135,6 +1224,7 @@
       {
         "type": "heading",
         "id": "BJNR071810004BJNG001202311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNG001202311",
         "name": "Abschnitt 9",
         "title": "Schluss- und \u00dcbergangsvorschriften",
         "parent": null
@@ -1142,6 +1232,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE009001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE009001311",
         "name": "\u00a7 69b",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1155,6 +1246,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007104311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007104311",
         "name": "\u00a7 70",
         "title": "(weggefallen)",
         "parent": {
@@ -1168,6 +1260,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE008701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE008701311",
         "name": "\u00a7 70a",
         "title": "Bekanntmachung von Neufassungen",
         "parent": {
@@ -1181,6 +1274,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007202311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007202311",
         "name": "\u00a7 71",
         "title": "\u00dcbergangsvorschrift",
         "parent": {
@@ -1194,6 +1288,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007301311",
         "name": "\u00a7 72",
         "title": "\u00dcbergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes",
         "parent": {
@@ -1207,6 +1302,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE008801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE008801311",
         "name": "\u00a7 73",
         "title": "\u00dcbergangsvorschrift f\u00fcr die Erhebung von Haftkosten",
         "parent": {
@@ -1220,6 +1316,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE008657125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE008657125",
         "name": "Anlage 1",
         "title": "(zu \u00a7 3 Abs. 2)<BR/>Kostenverzeichnis",
         "parent": {
@@ -1233,6 +1330,7 @@
       {
         "type": "article",
         "id": "BJNR071810004BJNE007502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gkg/articles/BJNR071810004BJNE007502311",
         "name": "Anlage 2",
         "title": "(zu \u00a7 34 Absatz 1 Satz 3)",
         "parent": {

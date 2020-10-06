@@ -36,6 +36,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE000122360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE000122360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -46,6 +47,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG018500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG018500000",
         "name": "Teil 1",
         "title": "Anwendungsbereich",
         "parent": null
@@ -53,6 +55,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE000200000",
         "name": "\u00a7 1",
         "title": "Gesch\u00fctzte Marken und sonstige Kennzeichen",
         "parent": {
@@ -66,6 +69,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE000300000",
         "name": "\u00a7 2",
         "title": "Anwendung anderer Vorschriften",
         "parent": {
@@ -79,6 +83,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG018600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG018600000",
         "name": "Teil 2",
         "title": "Voraussetzungen, Inhalt und Schranken des Schutzes\nvon Marken und gesch\u00e4ftlichen Bezeichnungen, \u00dcbertragung\nund Lizenz",
         "parent": null
@@ -86,6 +91,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG000400000",
         "name": "Abschnitt 1",
         "title": "Marken und gesch\u00e4ftliche Bezeichnungen, Vorrang\nund Zeitrang",
         "parent": {
@@ -96,6 +102,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE000501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE000501360",
         "name": "\u00a7 3",
         "title": "Als Marke schutzf\u00e4hige Zeichen",
         "parent": {
@@ -109,6 +116,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE000601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE000601360",
         "name": "\u00a7 4",
         "title": "Entstehung des Markenschutzes",
         "parent": {
@@ -122,6 +130,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE000700000",
         "name": "\u00a7 5",
         "title": "Gesch\u00e4ftliche Bezeichnungen",
         "parent": {
@@ -135,6 +144,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE000800000",
         "name": "\u00a7 6",
         "title": "Vorrang und Zeitrang",
         "parent": {
@@ -148,6 +158,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG000900000",
         "name": "Abschnitt 2",
         "title": "Voraussetzungen f\u00fcr den Schutz von Marken durch\nEintragung",
         "parent": {
@@ -158,6 +169,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001000000",
         "name": "\u00a7 7",
         "title": "Inhaberschaft",
         "parent": {
@@ -171,6 +183,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001104360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001104360",
         "name": "\u00a7 8",
         "title": "Absolute Schutzhindernisse",
         "parent": {
@@ -184,6 +197,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001202360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001202360",
         "name": "\u00a7 9",
         "title": "Angemeldete oder eingetragene Marken als relative Schutzhindernisse",
         "parent": {
@@ -197,6 +211,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001300000",
         "name": "\u00a7 10",
         "title": "Notorisch bekannte Marken",
         "parent": {
@@ -210,6 +225,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001401360",
         "name": "\u00a7 11",
         "title": "Agentenmarken",
         "parent": {
@@ -223,6 +239,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001500000",
         "name": "\u00a7 12",
         "title": "Durch Benutzung erworbene Marken und gesch\u00e4ftliche\nBezeichnungen mit \u00e4lterem Zeitrang",
         "parent": {
@@ -236,6 +253,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001600000",
         "name": "\u00a7 13",
         "title": "Sonstige \u00e4ltere Rechte",
         "parent": {
@@ -249,6 +267,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG001700000",
         "name": "Abschnitt 3",
         "title": "Schutzinhalt, Rechtsverletzungen",
         "parent": {
@@ -259,6 +278,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001802360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001802360",
         "name": "\u00a7 14",
         "title": "Ausschlie\u00dfliches Recht des Inhabers einer Marke, Unterlassungsanspruch, Schadensersatzanspruch",
         "parent": {
@@ -272,6 +292,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021000360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021000360",
         "name": "\u00a7 14a",
         "title": "Waren unter zollamtlicher \u00dcberwachung",
         "parent": {
@@ -285,6 +306,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE001901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE001901140",
         "name": "\u00a7 15",
         "title": "Ausschlie\u00dfliches Recht des Inhabers einer gesch\u00e4ftlichen Bezeichnung, Unterlassungsanspruch, Schadensersatzanspruch",
         "parent": {
@@ -298,6 +320,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002000000",
         "name": "\u00a7 16",
         "title": "Wiedergabe einer eingetragenen Marke in Nachschlagewerken",
         "parent": {
@@ -311,6 +334,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002101360",
         "name": "\u00a7 17",
         "title": "Anspr\u00fcche gegen Agenten oder Vertreter",
         "parent": {
@@ -324,6 +348,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002201140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002201140",
         "name": "\u00a7 18",
         "title": "Vernichtungs- und R\u00fcckrufanspr\u00fcche",
         "parent": {
@@ -337,6 +362,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002302140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002302140",
         "name": "\u00a7 19",
         "title": "Auskunftsanspruch",
         "parent": {
@@ -350,6 +376,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020300140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020300140",
         "name": "\u00a7 19a",
         "title": "Vorlage- und Besichtigungsanspr\u00fcche",
         "parent": {
@@ -363,6 +390,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020400140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020400140",
         "name": "\u00a7 19b",
         "title": "Sicherung von Schadensersatzanspr\u00fcchen",
         "parent": {
@@ -376,6 +404,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020500140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020500140",
         "name": "\u00a7 19c",
         "title": "Urteilsbekanntmachung",
         "parent": {
@@ -389,6 +418,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020600140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020600140",
         "name": "\u00a7 19d",
         "title": "Anspr\u00fcche aus anderen gesetzlichen Vorschriften",
         "parent": {
@@ -402,6 +432,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG002400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG002400000",
         "name": "Abschnitt 4",
         "title": "Schranken des Schutzes",
         "parent": {
@@ -412,6 +443,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002502140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002502140",
         "name": "\u00a7 20",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -425,6 +457,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002600000",
         "name": "\u00a7 21",
         "title": "Verwirkung von Anspr\u00fcchen",
         "parent": {
@@ -438,6 +471,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002701360",
         "name": "\u00a7 22",
         "title": "Ausschlu\u00df von Anspr\u00fcchen bei Bestandskraft der Eintragung einer Marke mit j\u00fcngerem Zeitrang",
         "parent": {
@@ -451,6 +485,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002801360",
         "name": "\u00a7 23",
         "title": "Benutzung von Namen und beschreibenden Angaben; Ersatzteilgesch\u00e4ft",
         "parent": {
@@ -464,6 +499,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE002900000",
         "name": "\u00a7 24",
         "title": "Ersch\u00f6pfung",
         "parent": {
@@ -477,6 +513,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE003002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE003002360",
         "name": "\u00a7 25",
         "title": "Ausschluss von Anspr\u00fcchen bei mangelnder Benutzung",
         "parent": {
@@ -490,6 +527,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE003101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE003101360",
         "name": "\u00a7 26",
         "title": "Benutzung der Marke",
         "parent": {
@@ -503,6 +541,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG003200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG003200000",
         "name": "Abschnitt 5",
         "title": "Marken als Gegenstand des Verm\u00f6gens",
         "parent": {
@@ -513,6 +552,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE003304360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE003304360",
         "name": "\u00a7 27",
         "title": "Rechts\u00fcbergang",
         "parent": {
@@ -526,6 +566,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE003402360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE003402360",
         "name": "\u00a7 28",
         "title": "Vermutung der Rechtsinhaberschaft, Zustellungen an den Inhaber",
         "parent": {
@@ -539,6 +580,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE003503360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE003503360",
         "name": "\u00a7 29",
         "title": "Dingliche Rechte, Zwangsvollstreckung, Insolvenzverfahren",
         "parent": {
@@ -552,6 +594,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE003601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE003601360",
         "name": "\u00a7 30",
         "title": "Lizenzen",
         "parent": {
@@ -565,6 +608,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE003700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE003700000",
         "name": "\u00a7 31",
         "title": "Angemeldete Marken",
         "parent": {
@@ -578,6 +622,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG018700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG018700000",
         "name": "Teil 3",
         "title": "Verfahren in Markenangelegenheiten",
         "parent": null
@@ -585,6 +630,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG003800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG003800000",
         "name": "Abschnitt 1",
         "title": "Eintragungsverfahren",
         "parent": {
@@ -595,6 +641,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE003904360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE003904360",
         "name": "\u00a7 32",
         "title": "Erfordernisse der Anmeldung",
         "parent": {
@@ -608,6 +655,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004005360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004005360",
         "name": "\u00a7 33",
         "title": "Anmeldetag, Anspruch auf Eintragung, Ver\u00f6ffentlichung der Anmeldung",
         "parent": {
@@ -621,6 +669,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004102360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004102360",
         "name": "\u00a7 34",
         "title": "Ausl\u00e4ndische Priorit\u00e4t",
         "parent": {
@@ -634,6 +683,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004203360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004203360",
         "name": "\u00a7 35",
         "title": "Ausstellungspriorit\u00e4t",
         "parent": {
@@ -647,6 +697,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004302360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004302360",
         "name": "\u00a7 36",
         "title": "Pr\u00fcfung der Anmeldungserfordernisse",
         "parent": {
@@ -660,6 +711,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004402360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004402360",
         "name": "\u00a7 37",
         "title": "Pr\u00fcfung auf absolute Schutzhindernisse; Bemerkungen Dritter",
         "parent": {
@@ -673,6 +725,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004501377",
         "name": "\u00a7 38",
         "title": "Beschleunigte Pr\u00fcfung",
         "parent": {
@@ -686,6 +739,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004600000",
         "name": "\u00a7 39",
         "title": "Zur\u00fccknahme, Einschr\u00e4nkung und Berichtigung der\nAnmeldung",
         "parent": {
@@ -699,6 +753,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004702123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004702123",
         "name": "\u00a7 40",
         "title": "Teilung der Anmeldung",
         "parent": {
@@ -712,6 +767,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004801123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004801123",
         "name": "\u00a7 41",
         "title": "Eintragung, Ver\u00f6ffentlichung und Markeninformation",
         "parent": {
@@ -725,6 +781,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE004904360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE004904360",
         "name": "\u00a7 42",
         "title": "Widerspruch",
         "parent": {
@@ -738,6 +795,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE005001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE005001360",
         "name": "\u00a7 43",
         "title": "Einrede mangelnder Benutzung, Entscheidung \u00fcber den Widerspruch",
         "parent": {
@@ -751,6 +809,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE005100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE005100000",
         "name": "\u00a7 44",
         "title": "Eintragungsbewilligungsklage",
         "parent": {
@@ -764,6 +823,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG005200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG005200000",
         "name": "Abschnitt 2",
         "title": "Berichtigung, Teilung, Schutzdauer und Verl\u00e4ngerung",
         "parent": {
@@ -774,6 +834,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE005300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE005300000",
         "name": "\u00a7 45",
         "title": "Berichtigung des Registers und von Ver\u00f6ffentlichungen",
         "parent": {
@@ -787,6 +848,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE005403360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE005403360",
         "name": "\u00a7 46",
         "title": "Teilung der Eintragung",
         "parent": {
@@ -800,6 +862,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE005502360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE005502360",
         "name": "\u00a7 47",
         "title": "Schutzdauer und Verl\u00e4ngerung",
         "parent": {
@@ -813,6 +876,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG005601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG005601360",
         "name": "Abschnitt 3",
         "title": "Verzicht; Verfalls- und Nichtigkeitsverfahren",
         "parent": {
@@ -823,6 +887,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE005700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE005700000",
         "name": "\u00a7 48",
         "title": "Verzicht",
         "parent": {
@@ -836,6 +901,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE005801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE005801360",
         "name": "\u00a7 49",
         "title": "Verfall",
         "parent": {
@@ -849,6 +915,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE005902360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE005902360",
         "name": "\u00a7 50",
         "title": "Nichtigkeit wegen absoluter Schutzhindernisse",
         "parent": {
@@ -862,6 +929,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006001360",
         "name": "\u00a7 51",
         "title": "Nichtigkeit wegen des Bestehens \u00e4lterer Rechte",
         "parent": {
@@ -875,6 +943,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006101360",
         "name": "\u00a7 52",
         "title": "Wirkungen des Verfalls und der Nichtigkeit",
         "parent": {
@@ -888,6 +957,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006201360",
         "name": "\u00a7 53",
         "title": "Verfalls- und Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt",
         "parent": {
@@ -901,6 +971,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006302360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006302360",
         "name": "\u00a7 54",
         "title": "Beitritt zum Verfalls- und Nichtigkeitsverfahren",
         "parent": {
@@ -914,6 +985,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006402360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006402360",
         "name": "\u00a7 55",
         "title": "Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten",
         "parent": {
@@ -927,6 +999,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG006501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG006501360",
         "name": "Abschnitt 4",
         "title": "Allgemeine Vorschriften f\u00fcr das Verfahren vor dem Deutschen Patent- und Markenamt",
         "parent": {
@@ -937,6 +1010,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006601360",
         "name": "\u00a7 56",
         "title": "Zust\u00e4ndigkeiten im Deutschen Patent- und Markenamt",
         "parent": {
@@ -950,6 +1024,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006701360",
         "name": "\u00a7 57",
         "title": "Ausschlie\u00dfung und Ablehnung",
         "parent": {
@@ -963,6 +1038,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006802360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006802360",
         "name": "\u00a7 58",
         "title": "Gutachten",
         "parent": {
@@ -976,6 +1052,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE006901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE006901360",
         "name": "\u00a7 59",
         "title": "Ermittlung des Sachverhalts, rechtliches Geh\u00f6r",
         "parent": {
@@ -989,6 +1066,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007001360",
         "name": "\u00a7 60",
         "title": "Ermittlungen, Anh\u00f6rungen, Niederschrift",
         "parent": {
@@ -1002,6 +1080,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007102123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007102123",
         "name": "\u00a7 61",
         "title": "Beschl\u00fcsse, Rechtsmittelbelehrung",
         "parent": {
@@ -1015,6 +1094,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007204360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007204360",
         "name": "\u00a7 62",
         "title": "Akteneinsicht, Registereinsicht",
         "parent": {
@@ -1028,6 +1108,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020900123",
         "name": "\u00a7 62a",
         "title": "Datenschutz",
         "parent": {
@@ -1041,6 +1122,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007305360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007305360",
         "name": "\u00a7 63",
         "title": "Kosten der Verfahren",
         "parent": {
@@ -1054,6 +1136,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007403360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007403360",
         "name": "\u00a7 64",
         "title": "Erinnerung",
         "parent": {
@@ -1067,6 +1150,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019501360",
         "name": "\u00a7 64a",
         "title": "Kostenregelungen im Verfahren vor dem Deutschen Patent- und Markenamt",
         "parent": {
@@ -1080,6 +1164,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007507360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007507360",
         "name": "\u00a7 65",
         "title": "Rechtsverordnungserm\u00e4chtigung",
         "parent": {
@@ -1093,6 +1178,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021100360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021100360",
         "name": "\u00a7 65a",
         "title": "Verwaltungszusammenarbeit",
         "parent": {
@@ -1106,6 +1192,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG007601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG007601360",
         "name": "Abschnitt 5",
         "title": "Verfahren vor dem Bundespatentgericht",
         "parent": {
@@ -1116,6 +1203,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007704360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007704360",
         "name": "\u00a7 66",
         "title": "Beschwerde",
         "parent": {
@@ -1129,6 +1217,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007801360",
         "name": "\u00a7 67",
         "title": "Beschwerdesenate, \u00d6ffentlichkeit der Verhandlung",
         "parent": {
@@ -1142,6 +1231,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE007901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE007901360",
         "name": "\u00a7 68",
         "title": "Beteiligung des Pr\u00e4sidenten oder der Pr\u00e4sidentin des Deutschen Patent- und Markenamts",
         "parent": {
@@ -1155,6 +1245,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008001360",
         "name": "\u00a7 69",
         "title": "M\u00fcndliche Verhandlung",
         "parent": {
@@ -1168,6 +1259,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008101360",
         "name": "\u00a7 70",
         "title": "Entscheidung \u00fcber die Beschwerde",
         "parent": {
@@ -1181,6 +1273,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008203360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008203360",
         "name": "\u00a7 71",
         "title": "Kosten des Beschwerdeverfahrens",
         "parent": {
@@ -1194,6 +1287,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008301360",
         "name": "\u00a7 72",
         "title": "Ausschlie\u00dfung und Ablehnung",
         "parent": {
@@ -1207,6 +1301,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008401360",
         "name": "\u00a7 73",
         "title": "Ermittlung des Sachverhalts, Vorbereitung der m\u00fcndlichen Verhandlung",
         "parent": {
@@ -1220,6 +1315,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008501360",
         "name": "\u00a7 74",
         "title": "Beweiserhebung",
         "parent": {
@@ -1233,6 +1329,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008600000",
         "name": "\u00a7 75",
         "title": "Ladungen",
         "parent": {
@@ -1246,6 +1343,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008701360",
         "name": "\u00a7 76",
         "title": "Gang der Verhandlung",
         "parent": {
@@ -1259,6 +1357,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008800000",
         "name": "\u00a7 77",
         "title": "Niederschrift",
         "parent": {
@@ -1272,6 +1371,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE008901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE008901360",
         "name": "\u00a7 78",
         "title": "Beweisw\u00fcrdigung, rechtliches Geh\u00f6r",
         "parent": {
@@ -1285,6 +1385,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009001360",
         "name": "\u00a7 79",
         "title": "Verk\u00fcndung, Zustellung, Begr\u00fcndung",
         "parent": {
@@ -1298,6 +1399,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009101360",
         "name": "\u00a7 80",
         "title": "Berichtigungen",
         "parent": {
@@ -1311,6 +1413,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009202360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009202360",
         "name": "\u00a7 81",
         "title": "Vertretung, Vollmacht",
         "parent": {
@@ -1324,6 +1427,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020801360",
         "name": "\u00a7 81a",
         "title": "Verfahrenskostenhilfe",
         "parent": {
@@ -1337,6 +1441,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009304360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009304360",
         "name": "\u00a7 82",
         "title": "Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht",
         "parent": {
@@ -1350,6 +1455,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG009400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG009400000",
         "name": "Abschnitt 6",
         "title": "Verfahren vor dem Bundesgerichtshof",
         "parent": {
@@ -1360,6 +1466,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009501360",
         "name": "\u00a7 83",
         "title": "Zugelassene und zulassungsfreie Rechtsbeschwerde",
         "parent": {
@@ -1373,6 +1480,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009601377",
         "name": "\u00a7 84",
         "title": "Beschwerdeberechtigung, Beschwerdegr\u00fcnde",
         "parent": {
@@ -1386,6 +1494,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009704377",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009704377",
         "name": "\u00a7 85",
         "title": "F\u00f6rmliche Voraussetzungen",
         "parent": {
@@ -1399,6 +1508,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009800000",
         "name": "\u00a7 86",
         "title": "Pr\u00fcfung der Zul\u00e4ssigkeit",
         "parent": {
@@ -1412,6 +1522,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE009901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE009901360",
         "name": "\u00a7 87",
         "title": "Mehrere Beteiligte",
         "parent": {
@@ -1425,6 +1536,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010002310",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010002310",
         "name": "\u00a7 88",
         "title": "Anwendung weiterer Vorschriften",
         "parent": {
@@ -1438,6 +1550,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010101360",
         "name": "\u00a7 89",
         "title": "Entscheidung \u00fcber die Rechtsbeschwerde",
         "parent": {
@@ -1451,6 +1564,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020200301",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020200301",
         "name": "\u00a7 89a",
         "title": "Abhilfe bei Verletzung des Anspruchs auf rechtliches Geh\u00f6r",
         "parent": {
@@ -1464,6 +1578,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010202360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010202360",
         "name": "\u00a7 90",
         "title": "Kostenentscheidung",
         "parent": {
@@ -1477,6 +1592,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG010300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG010300000",
         "name": "Abschnitt 7",
         "title": "Gemeinsame Vorschriften",
         "parent": {
@@ -1487,6 +1603,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010402360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010402360",
         "name": "\u00a7 91",
         "title": "Wiedereinsetzung",
         "parent": {
@@ -1500,6 +1617,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019802360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019802360",
         "name": "\u00a7 91a",
         "title": "Weiterbehandlung der Anmeldung",
         "parent": {
@@ -1513,6 +1631,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010501360",
         "name": "\u00a7 92",
         "title": "Wahrheitspflicht",
         "parent": {
@@ -1526,6 +1645,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010601360",
         "name": "\u00a7 93",
         "title": "Amtssprache und Gerichtssprache",
         "parent": {
@@ -1539,6 +1659,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020000377",
         "name": "\u00a7 93a",
         "title": "Entsch\u00e4digung von Zeugen, Verg\u00fctung von Sachverst\u00e4ndigen",
         "parent": {
@@ -1552,6 +1673,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010705360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010705360",
         "name": "\u00a7 94",
         "title": "Zustellungen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1565,6 +1687,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010801360",
         "name": "\u00a7 95",
         "title": "Rechtshilfe",
         "parent": {
@@ -1578,6 +1701,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019907360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019907360",
         "name": "\u00a7 95a",
         "title": "Elektronische Verfahrensf\u00fchrung, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1591,6 +1715,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE010904360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE010904360",
         "name": "\u00a7 96",
         "title": "Inlandsvertreter",
         "parent": {
@@ -1604,6 +1729,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE020701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE020701360",
         "name": "\u00a7 96a",
         "title": "Rechtsschutz bei \u00fcberlangen Gerichtsverfahren",
         "parent": {
@@ -1617,6 +1743,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG018800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG018800000",
         "name": "Teil 4",
         "title": "Kollektivmarken",
         "parent": null
@@ -1624,6 +1751,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011001360",
         "name": "\u00a7 97",
         "title": "Kollektivmarken",
         "parent": {
@@ -1637,6 +1765,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011101360",
         "name": "\u00a7 98",
         "title": "Inhaberschaft",
         "parent": {
@@ -1650,6 +1779,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011200000",
         "name": "\u00a7 99",
         "title": "Eintragbarkeit von geographischen Herkunftsangaben\nals Kollektivmarken",
         "parent": {
@@ -1663,6 +1793,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011301360",
         "name": "\u00a7 100",
         "title": "Schranken des Schutzes, Benutzung",
         "parent": {
@@ -1676,6 +1807,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011401360",
         "name": "\u00a7 101",
         "title": "Klagebefugnis, Schadensersatz",
         "parent": {
@@ -1689,6 +1821,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011501360",
         "name": "\u00a7 102",
         "title": "Kollektivmarkensatzung",
         "parent": {
@@ -1702,6 +1835,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011601360",
         "name": "\u00a7 103",
         "title": "Pr\u00fcfung der Anmeldung",
         "parent": {
@@ -1715,6 +1849,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011701360",
         "name": "\u00a7 104",
         "title": "\u00c4nderung der Kollektivmarkensatzung",
         "parent": {
@@ -1728,6 +1863,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011801360",
         "name": "\u00a7 105",
         "title": "Verfall",
         "parent": {
@@ -1741,6 +1877,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE011901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE011901360",
         "name": "\u00a7 106",
         "title": "Nichtigkeit wegen absoluter Schutzhindernisse",
         "parent": {
@@ -1754,6 +1891,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG018902360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG018902360",
         "name": "Teil 5",
         "title": "Gew\u00e4hrleistungsmarken",
         "parent": null
@@ -1761,6 +1899,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021200360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021200360",
         "name": "\u00a7 106a",
         "title": "Gew\u00e4hrleistungsmarken",
         "parent": {
@@ -1774,6 +1913,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021300360",
         "name": "\u00a7 106b",
         "title": "Inhaberschaft und ernsthafte Benutzung",
         "parent": {
@@ -1787,6 +1927,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021500360",
         "name": "\u00a7 106c",
         "title": "Klagebefugnis; Schadensersatz",
         "parent": {
@@ -1800,6 +1941,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021400360",
         "name": "\u00a7 106d",
         "title": "Gew\u00e4hrleistungsmarkensatzung",
         "parent": {
@@ -1813,6 +1955,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021600360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021600360",
         "name": "\u00a7 106e",
         "title": "Pr\u00fcfung der Anmeldung",
         "parent": {
@@ -1826,6 +1969,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021700360",
         "name": "\u00a7 106f",
         "title": "\u00c4nderung der Gew\u00e4hrleistungsmarkensatzung",
         "parent": {
@@ -1839,6 +1983,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021800360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021800360",
         "name": "\u00a7 106g",
         "title": "Verfall",
         "parent": {
@@ -1852,6 +1997,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE021900360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE021900360",
         "name": "\u00a7 106h",
         "title": "Nichtigkeit wegen absoluter Schutzhindernisse",
         "parent": {
@@ -1865,6 +2011,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG018901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG018901360",
         "name": "Teil 6",
         "title": "Schutz von Marken nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken",
         "parent": null
@@ -1872,6 +2019,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG012000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG012000000",
         "name": "Abschnitt 1",
         "title": "Schutz von Marken nach dem Madrider Markenabkommen",
         "parent": {
@@ -1882,6 +2030,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012103360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012103360",
         "name": "\u00a7 107",
         "title": "Entsprechende Anwendung der Vorschriften dieses Gesetzes; Sprache",
         "parent": {
@@ -1895,6 +2044,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012202360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012202360",
         "name": "\u00a7 108",
         "title": "Antrag auf internationale Registrierung",
         "parent": {
@@ -1908,6 +2058,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012302377",
         "name": "\u00a7 109",
         "title": "Geb\u00fchren",
         "parent": {
@@ -1921,6 +2072,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012400000",
         "name": "\u00a7 110",
         "title": "Eintragung im Register",
         "parent": {
@@ -1934,6 +2086,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012503360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012503360",
         "name": "\u00a7 111",
         "title": "Nachtr\u00e4gliche Schutzerstreckung",
         "parent": {
@@ -1947,6 +2100,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012601360",
         "name": "\u00a7 112",
         "title": "Wirkung der internationalen Registrierung",
         "parent": {
@@ -1960,6 +2114,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012700000",
         "name": "\u00a7 113",
         "title": "Pr\u00fcfung auf absolute Schutzhindernisse",
         "parent": {
@@ -1973,6 +2128,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012802360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012802360",
         "name": "\u00a7 114",
         "title": "Widerspruch gegen eine international registrierte Marke",
         "parent": {
@@ -1986,6 +2142,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE012902360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE012902360",
         "name": "\u00a7 115",
         "title": "Schutzentziehung",
         "parent": {
@@ -1999,6 +2156,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013001360",
         "name": "\u00a7 116",
         "title": "Widerspruch aufgrund einer international registrierten Marke und Antrag auf Erkl\u00e4rung der Nichtigkeit aufgrund einer international registrierten Marke",
         "parent": {
@@ -2012,6 +2170,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013102360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013102360",
         "name": "\u00a7 117",
         "title": "Ausschlu\u00df von Anspr\u00fcchen wegen mangelnder Benutzung",
         "parent": {
@@ -2025,6 +2184,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013201360",
         "name": "\u00a7 118",
         "title": "Zustimmung bei \u00dcbertragungen international registrierter Marken",
         "parent": {
@@ -2038,6 +2198,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG013300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG013300000",
         "name": "Abschnitt 2",
         "title": "Schutz von Marken nach dem Protokoll zum Madrider\nMarkenabkommen",
         "parent": {
@@ -2048,6 +2209,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013402360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013402360",
         "name": "\u00a7 119",
         "title": "Anwendung der Vorschriften dieses Gesetzes; Sprachen",
         "parent": {
@@ -2061,6 +2223,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013502360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013502360",
         "name": "\u00a7 120",
         "title": "Antrag auf internationale Registrierung",
         "parent": {
@@ -2074,6 +2237,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013602377",
         "name": "\u00a7 121",
         "title": "Geb\u00fchren",
         "parent": {
@@ -2087,6 +2251,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013700000",
         "name": "\u00a7 122",
         "title": "Vermerk in den Akten, Eintragung im Register",
         "parent": {
@@ -2100,6 +2265,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013803360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013803360",
         "name": "\u00a7 123",
         "title": "Nachtr\u00e4gliche Schutzerstreckung",
         "parent": {
@@ -2113,6 +2279,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE013900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE013900000",
         "name": "\u00a7 124",
         "title": "Entsprechende Anwendung der Vorschriften \u00fcber die\nWirkung der nach dem Madrider Markenabkommen international\nregistrierten Marken",
         "parent": {
@@ -2126,6 +2293,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE014004360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE014004360",
         "name": "\u00a7 125",
         "title": "Umwandlung einer internationalen Registrierung",
         "parent": {
@@ -2139,6 +2307,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG019500301",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG019500301",
         "name": "Abschnitt 3",
         "title": "Gemeinschaftsmarken",
         "parent": {
@@ -2149,6 +2318,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE018602360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE018602360",
         "name": "\u00a7 125a",
         "title": "(weggefallen)",
         "parent": {
@@ -2162,6 +2332,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE018702360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE018702360",
         "name": "\u00a7 125b",
         "title": "Anwendung der Vorschriften dieses Gesetzes",
         "parent": {
@@ -2175,6 +2346,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE018801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE018801360",
         "name": "\u00a7 125c",
         "title": "Nachtr\u00e4gliche Feststellung der Ung\u00fcltigkeit einer Marke",
         "parent": {
@@ -2188,6 +2360,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE018904360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE018904360",
         "name": "\u00a7 125d",
         "title": "Umwandlung von Unionsmarken",
         "parent": {
@@ -2201,6 +2374,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019002360",
         "name": "\u00a7 125e",
         "title": "Unionsmarkenstreitsachen; Unionsmarkengerichte",
         "parent": {
@@ -2214,6 +2388,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019102360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019102360",
         "name": "\u00a7 125f",
         "title": "Unterrichtung der Kommission",
         "parent": {
@@ -2227,6 +2402,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019201360",
         "name": "\u00a7 125g",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit der Unionsmarkengerichte",
         "parent": {
@@ -2240,6 +2416,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019301360",
         "name": "\u00a7 125h",
         "title": "Insolvenzverfahren",
         "parent": {
@@ -2253,6 +2430,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019601360",
         "name": "\u00a7 125i",
         "title": "Erteilung der Vollstreckungsklausel",
         "parent": {
@@ -2266,6 +2444,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG019001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG019001360",
         "name": "Teil 7",
         "title": "Geographische Herkunftsangaben",
         "parent": null
@@ -2273,6 +2452,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG014100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG014100000",
         "name": "Abschnitt 1",
         "title": "Schutz geographischer Herkunftsangaben",
         "parent": {
@@ -2283,6 +2463,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE014200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE014200000",
         "name": "\u00a7 126",
         "title": "Als geographische Herkunftsangaben gesch\u00fctzte Namen,\nAngaben oder Zeichen",
         "parent": {
@@ -2296,6 +2477,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE014300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE014300000",
         "name": "\u00a7 127",
         "title": "Schutzinhalt",
         "parent": {
@@ -2309,6 +2491,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE014402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE014402140",
         "name": "\u00a7 128",
         "title": "Anspr\u00fcche wegen Verletzung",
         "parent": {
@@ -2322,6 +2505,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE014500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE014500000",
         "name": "\u00a7 129",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -2335,6 +2519,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG019402123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG019402123",
         "name": "Abschnitt 2",
         "title": "Schutz von geographischen Angaben und Ursprungsbezeichnungen gem\u00e4\u00df der Verordnung (EU) Nr. 1151/2012",
         "parent": {
@@ -2345,6 +2530,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE014707123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE014707123",
         "name": "\u00a7 130",
         "title": "Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren",
         "parent": {
@@ -2358,6 +2544,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE014805123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE014805123",
         "name": "\u00a7 131",
         "title": "Zwischenstaatliches Einspruchsverfahren",
         "parent": {
@@ -2371,6 +2558,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE014904123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE014904123",
         "name": "\u00a7 132",
         "title": "Antrag auf \u00c4nderung der Spezifikation, L\u00f6schungsverfahren",
         "parent": {
@@ -2384,6 +2572,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015003123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015003123",
         "name": "\u00a7 133",
         "title": "Rechtsmittel",
         "parent": {
@@ -2397,6 +2586,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015102123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015102123",
         "name": "\u00a7 134",
         "title": "\u00dcberwachung",
         "parent": {
@@ -2410,6 +2600,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015203123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015203123",
         "name": "\u00a7 135",
         "title": "Anspr\u00fcche wegen Verletzung",
         "parent": {
@@ -2423,6 +2614,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015301140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015301140",
         "name": "\u00a7 136",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -2436,6 +2628,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG015401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG015401360",
         "name": "Abschnitt 3",
         "title": "Unionsmarken",
         "parent": {
@@ -2446,6 +2639,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015504301",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015504301",
         "name": "\u00a7 137",
         "title": "N\u00e4here Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben",
         "parent": {
@@ -2459,6 +2653,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015605123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015605123",
         "name": "\u00a7 138",
         "title": "Sonstige Vorschriften f\u00fcr das Verfahren bei Antr\u00e4gen und Einspr\u00fcchen nach der Verordnung (EU) Nr. 1151/2012",
         "parent": {
@@ -2472,6 +2667,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015706123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015706123",
         "name": "\u00a7 139",
         "title": "Durchf\u00fchrungsbestimmungen zur Verordnung (EU) Nr. 1151/2012; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2485,6 +2681,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG019101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG019101360",
         "name": "Teil 8",
         "title": "Verfahren in Kennzeichenstreitsachen",
         "parent": null
@@ -2492,6 +2689,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015806360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015806360",
         "name": "\u00a7 140",
         "title": "Kennzeichenstreitsachen",
         "parent": {
@@ -2505,6 +2703,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE015901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE015901377",
         "name": "\u00a7 141",
         "title": "Gerichtsstand bei Anspr\u00fcchen nach diesem Gesetz\nund dem Gesetz gegen den unlauteren Wettbewerb",
         "parent": {
@@ -2518,6 +2717,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE016000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE016000000",
         "name": "\u00a7 142",
         "title": "Streitwertbeg\u00fcnstigung",
         "parent": {
@@ -2531,6 +2731,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG019201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG019201360",
         "name": "Teil 9",
         "title": "Straf- und Bu\u00dfgeldvorschriften, Beschlagnahme bei der Einfuhr und Ausfuhr",
         "parent": null
@@ -2538,6 +2739,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG016100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG016100000",
         "name": "Abschnitt 1",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2548,6 +2750,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE016205360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE016205360",
         "name": "\u00a7 143",
         "title": "Strafbare Kennzeichenverletzung",
         "parent": {
@@ -2561,6 +2764,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE019702360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE019702360",
         "name": "\u00a7 143a",
         "title": "Strafbare Verletzung der Unionsmarke",
         "parent": {
@@ -2574,6 +2778,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE016304123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE016304123",
         "name": "\u00a7 144",
         "title": "Strafbare Benutzung geographischer Herkunftsangaben",
         "parent": {
@@ -2587,6 +2792,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE016403377",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE016403377",
         "name": "\u00a7 145",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2600,6 +2806,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG016500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG016500000",
         "name": "Abschnitt 2",
         "title": "Beschlagnahme von Waren bei der Einfuhr und Ausfuhr",
         "parent": {
@@ -2610,6 +2817,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE016603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE016603123",
         "name": "\u00a7 146",
         "title": "Beschlagnahme bei der Verletzung von Kennzeichenrechten",
         "parent": {
@@ -2623,6 +2831,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE016700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE016700000",
         "name": "\u00a7 147",
         "title": "Einziehung, Widerspruch, Aufhebung der Beschlagnahme",
         "parent": {
@@ -2636,6 +2845,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE016803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE016803123",
         "name": "\u00a7 148",
         "title": "Zust\u00e4ndigkeiten, Rechtsmittel",
         "parent": {
@@ -2649,6 +2859,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE016900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE016900000",
         "name": "\u00a7 149",
         "title": "Schadensersatz bei ungerechtfertigter Beschlagnahme",
         "parent": {
@@ -2662,6 +2873,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017003123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017003123",
         "name": "\u00a7 150",
         "title": "Verfahren nach der Verordnung (EU) Nr. 608/2013",
         "parent": {
@@ -2675,6 +2887,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017102123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017102123",
         "name": "\u00a7 151",
         "title": "Verfahren nach deutschem Recht bei geographischen Herkunftsangaben",
         "parent": {
@@ -2688,6 +2901,7 @@
       {
         "type": "heading",
         "id": "BJNR308210994BJNG019301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNG019301360",
         "name": "Teil 10",
         "title": "\u00dcbergangsvorschriften",
         "parent": null
@@ -2695,6 +2909,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017200000",
         "name": "\u00a7 152",
         "title": "Anwendung dieses Gesetzes",
         "parent": {
@@ -2708,6 +2923,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017300000",
         "name": "\u00a7 153",
         "title": "Schranken f\u00fcr die Geltendmachung von Verletzungsanspr\u00fcchen",
         "parent": {
@@ -2721,6 +2937,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017400000",
         "name": "\u00a7 154",
         "title": "Dingliche Rechte, Zwangsvollstreckung, Konkursverfahren",
         "parent": {
@@ -2734,6 +2951,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017500000",
         "name": "\u00a7 155",
         "title": "Lizenzen",
         "parent": {
@@ -2747,6 +2965,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017601123",
         "name": "\u00a7 156",
         "title": "L\u00f6schung einer eingetragenen Marke wegen absoluter Schutzhindernisse",
         "parent": {
@@ -2760,6 +2979,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017702360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017702360",
         "name": "\u00a7 157",
         "title": "L\u00f6schung einer eingetragenen Marke wegen des Bestehens \u00e4lterer Rechte",
         "parent": {
@@ -2773,6 +2993,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017802360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017802360",
         "name": "\u00a7 158",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -2786,6 +3007,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017803360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017803360",
         "name": "\u00a7 159",
         "title": "Schutzdauer und Verl\u00e4ngerung",
         "parent": {
@@ -2799,6 +3021,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE017902360",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE017902360",
         "name": "(XXXX) \u00a7\u00a7 160 bis 163",
         "title": "(weggefallen)",
         "parent": {
@@ -2812,6 +3035,7 @@
       {
         "type": "article",
         "id": "BJNR308210994BJNE018401140",
+        "url": "https://api.rechtsinformationsportal.de/laws/markeng/articles/BJNR308210994BJNE018401140",
         "name": "\u00a7 164",
         "title": "(weggefallen)",
         "parent": {

@@ -34,6 +34,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE000400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE000400311",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -44,6 +45,7 @@
       {
         "type": "heading",
         "id": "BJNR265800998BJNG000100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNG000100311",
         "name": "Zu \u00a7 33 ErbStG",
         "title": null,
         "parent": null
@@ -51,6 +53,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE000503140",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE000503140",
         "name": "\u00a7 1",
         "title": "Anzeigepflicht der Verm\u00f6gensverwahrer und der Verm\u00f6gensverwalter",
         "parent": {
@@ -64,6 +67,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE000602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE000602377",
         "name": "\u00a7 2",
         "title": "Anzeigepflicht derjenigen, die auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben haben",
         "parent": {
@@ -77,6 +81,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE000703377",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE000703377",
         "name": "\u00a7 3",
         "title": "Anzeigepflicht der Versicherungsunternehmen",
         "parent": {
@@ -90,6 +95,7 @@
       {
         "type": "heading",
         "id": "BJNR265800998BJNG000200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNG000200311",
         "name": "Zu \u00a7 34 ErbStG",
         "title": null,
         "parent": null
@@ -97,6 +103,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE000801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE000801301",
         "name": "\u00a7 4",
         "title": "Anzeigepflicht der Standes\u00e4mter",
         "parent": {
@@ -110,6 +117,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE000900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE000900311",
         "name": "\u00a7 5",
         "title": "Verzeichnis der Standes\u00e4mter",
         "parent": {
@@ -123,6 +131,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001000311",
         "name": "\u00a7 6",
         "title": "Anzeigepflicht der Gerichte bei Todeserkl\u00e4rungen",
         "parent": {
@@ -136,6 +145,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001107116",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001107116",
         "name": "\u00a7 7",
         "title": "Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen in Erbf\u00e4llen",
         "parent": {
@@ -149,6 +159,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001203140",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001203140",
         "name": "\u00a7 8",
         "title": "Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden",
         "parent": {
@@ -162,6 +173,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001303140",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001303140",
         "name": "\u00a7 9",
         "title": "Anzeigepflicht der Auslandsstellen",
         "parent": {
@@ -175,6 +187,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001405377",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001405377",
         "name": "\u00a7 10",
         "title": "Anzeigepflicht der Genehmigungsbeh\u00f6rden",
         "parent": {
@@ -188,6 +201,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001500311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001500311",
         "name": "\u00a7 11",
         "title": "Anzeigen im automatisierten Verfahren",
         "parent": {
@@ -201,6 +215,7 @@
       {
         "type": "heading",
         "id": "BJNR265800998BJNG000300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNG000300311",
         "name": "Schlu\u00dfvorschriften",
         "title": null,
         "parent": null
@@ -208,6 +223,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001607116",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001607116",
         "name": "\u00a7 12",
         "title": "Anwendung der Verordnung",
         "parent": {
@@ -221,6 +237,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001700311",
         "name": "\u00a7 13",
         "title": "Inkrafttreten, Au\u00dferkrafttreten",
         "parent": {
@@ -234,6 +251,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001800311",
         "name": "Schlu\u00dfformel",
         "title": null,
         "parent": {
@@ -247,6 +265,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE001904377",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE001904377",
         "name": "Muster 1",
         "title": "(\u00a7 1 ErbStDV)",
         "parent": {
@@ -260,6 +279,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE002005123",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE002005123",
         "name": "Muster 2",
         "title": "(\u00a7 3 ErbStDV)",
         "parent": {
@@ -273,6 +293,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE002102118",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE002102118",
         "name": "Muster 3",
         "title": "(\u00a7 4 ErbStDV)",
         "parent": {
@@ -286,6 +307,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE002201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE002201301",
         "name": "Muster 4",
         "title": "(\u00a7 4 ErbStDV)",
         "parent": {
@@ -299,6 +321,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE002306116",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE002306116",
         "name": "Muster 5",
         "title": "(\u00a7 7 ErbStDV)",
         "parent": {
@@ -312,6 +335,7 @@
       {
         "type": "article",
         "id": "BJNR265800998BJNE002403377",
+        "url": "https://api.rechtsinformationsportal.de/laws/erbstdv/articles/BJNR265800998BJNE002403377",
         "name": "Muster 6",
         "title": "(\u00a7 8 ErbStDV)",
         "parent": {

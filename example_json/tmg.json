@@ -32,6 +32,7 @@
       {
         "type": "heading",
         "id": "BJNR017910007BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Bestimmungen",
         "parent": null
@@ -39,6 +40,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000101360",
         "name": "\u00a7 1",
         "title": "Anwendungsbereich",
         "parent": {
@@ -52,6 +54,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000202123",
         "name": "\u00a7 2",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -65,6 +68,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001801123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001801123",
         "name": "\u00a7 2a",
         "title": "Europ\u00e4isches Sitzland",
         "parent": {
@@ -78,6 +82,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000302118",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000302118",
         "name": "\u00a7 3",
         "title": "Herkunftslandprinzip",
         "parent": {
@@ -91,6 +96,7 @@
       {
         "type": "heading",
         "id": "BJNR017910007BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Zulassungsfreiheit und Informationspflichten",
         "parent": null
@@ -98,6 +104,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000400000",
         "name": "\u00a7 4",
         "title": "Zulassungsfreiheit",
         "parent": {
@@ -111,6 +118,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000500000",
         "name": "\u00a7 5",
         "title": "Allgemeine Informationspflichten",
         "parent": {
@@ -124,6 +132,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000600000",
         "name": "\u00a7 6",
         "title": "Besondere Informationspflichten bei kommerziellen Kommunikationen",
         "parent": {
@@ -137,6 +146,7 @@
       {
         "type": "heading",
         "id": "BJNR017910007BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Verantwortlichkeit",
         "parent": null
@@ -144,6 +154,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000701124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000701124",
         "name": "\u00a7 7",
         "title": "Allgemeine Grunds\u00e4tze",
         "parent": {
@@ -157,6 +168,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000802124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000802124",
         "name": "\u00a7 8",
         "title": "Durchleitung von Informationen",
         "parent": {
@@ -170,6 +182,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE000900000",
         "name": "\u00a7 9",
         "title": "Zwischenspeicherung zur beschleunigten \u00dcbermittlung von Informationen",
         "parent": {
@@ -183,6 +196,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001000000",
         "name": "\u00a7 10",
         "title": "Speicherung von Informationen",
         "parent": {
@@ -196,6 +210,7 @@
       {
         "type": "heading",
         "id": "BJNR017910007BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Datenschutz",
         "parent": null
@@ -203,6 +218,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001101377",
         "name": "\u00a7 11",
         "title": "Anbieter-Nutzer-Verh\u00e4ltnis",
         "parent": {
@@ -216,6 +232,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001201377",
         "name": "\u00a7 12",
         "title": "Grunds\u00e4tze",
         "parent": {
@@ -229,6 +246,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001301118",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001301118",
         "name": "\u00a7 13",
         "title": "Pflichten des Diensteanbieters",
         "parent": {
@@ -242,6 +260,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001403119",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001403119",
         "name": "\u00a7 14",
         "title": "Bestandsdaten",
         "parent": {
@@ -255,6 +274,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001501124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001501124",
         "name": "\u00a7 15",
         "title": "Nutzungsdaten",
         "parent": {
@@ -268,6 +288,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001700377",
         "name": "\u00a7 15a",
         "title": "Informationspflicht bei unrechtm\u00e4\u00dfiger Kenntniserlangung von Daten",
         "parent": {
@@ -281,6 +302,7 @@
       {
         "type": "heading",
         "id": "BJNR017910007BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": null
@@ -288,6 +310,7 @@
       {
         "type": "article",
         "id": "BJNR017910007BJNE001602118",
+        "url": "https://api.rechtsinformationsportal.de/laws/tmg/articles/BJNR017910007BJNE001602118",
         "name": "\u00a7 16",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {

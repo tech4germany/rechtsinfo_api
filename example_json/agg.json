@@ -32,6 +32,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeiner Teil",
         "parent": null
@@ -39,6 +40,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000100000",
         "name": "\u00a7 1",
         "title": "Ziel des Gesetzes",
         "parent": {
@@ -52,6 +54,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000200000",
         "name": "\u00a7 2",
         "title": "Anwendungsbereich",
         "parent": {
@@ -65,6 +68,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000300000",
         "name": "\u00a7 3",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -78,6 +82,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000400000",
         "name": "\u00a7 4",
         "title": "Unterschiedliche Behandlung wegen mehrerer Gr\u00fcnde",
         "parent": {
@@ -91,6 +96,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000500000",
         "name": "\u00a7 5",
         "title": "Positive Ma\u00dfnahmen",
         "parent": {
@@ -104,6 +110,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Schutz der Besch\u00e4ftigten vor Benachteiligung",
         "parent": null
@@ -111,6 +118,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000300000",
         "name": "Unterabschnitt 1",
         "title": "Verbot der Benachteiligung",
         "parent": {
@@ -121,6 +129,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000600000",
         "name": "\u00a7 6",
         "title": "Pers\u00f6nlicher Anwendungsbereich",
         "parent": {
@@ -134,6 +143,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000700000",
         "name": "\u00a7 7",
         "title": "Benachteiligungsverbot",
         "parent": {
@@ -147,6 +157,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000800000",
         "name": "\u00a7 8",
         "title": "Zul\u00e4ssige unterschiedliche Behandlung wegen beruflicher Anforderungen",
         "parent": {
@@ -160,6 +171,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE000900000",
         "name": "\u00a7 9",
         "title": "Zul\u00e4ssige unterschiedliche Behandlung wegen der Religion oder\nWeltanschauung",
         "parent": {
@@ -173,6 +185,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001001377",
         "name": "\u00a7 10",
         "title": "Zul\u00e4ssige unterschiedliche Behandlung wegen des Alters",
         "parent": {
@@ -186,6 +199,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000400000",
         "name": "Unterabschnitt 2",
         "title": "Organisationspflichten des\nArbeitgebers",
         "parent": {
@@ -196,6 +210,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001100000",
         "name": "\u00a7 11",
         "title": "Ausschreibung",
         "parent": {
@@ -209,6 +224,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001200000",
         "name": "\u00a7 12",
         "title": "Ma\u00dfnahmen und Pflichten des Arbeitgebers",
         "parent": {
@@ -222,6 +238,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000500000",
         "name": "Unterabschnitt 3",
         "title": "Rechte der Besch\u00e4ftigten",
         "parent": {
@@ -232,6 +249,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001300000",
         "name": "\u00a7 13",
         "title": "Beschwerderecht",
         "parent": {
@@ -245,6 +263,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001400000",
         "name": "\u00a7 14",
         "title": "Leistungsverweigerungsrecht",
         "parent": {
@@ -258,6 +277,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001500000",
         "name": "\u00a7 15",
         "title": "Entsch\u00e4digung und Schadensersatz",
         "parent": {
@@ -271,6 +291,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001600000",
         "name": "\u00a7 16",
         "title": "Ma\u00dfregelungsverbot",
         "parent": {
@@ -284,6 +305,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000600000",
         "name": "Unterabschnitt 4",
         "title": "Erg\u00e4nzende Vorschriften",
         "parent": {
@@ -294,6 +316,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001700000",
         "name": "\u00a7 17",
         "title": "Soziale Verantwortung der Beteiligten",
         "parent": {
@@ -307,6 +330,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001800000",
         "name": "\u00a7 18",
         "title": "Mitgliedschaft in Vereinigungen",
         "parent": {
@@ -320,6 +344,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000700000",
         "name": "Abschnitt 3",
         "title": "Schutz vor Benachteiligung im Zivilrechtsverkehr",
         "parent": null
@@ -327,6 +352,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE001900000",
         "name": "\u00a7 19",
         "title": "Zivilrechtliches Benachteiligungsverbot",
         "parent": {
@@ -340,6 +366,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002002377",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002002377",
         "name": "\u00a7 20",
         "title": "Zul\u00e4ssige unterschiedliche Behandlung",
         "parent": {
@@ -353,6 +380,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002100000",
         "name": "\u00a7 21",
         "title": "Anspr\u00fcche",
         "parent": {
@@ -366,6 +394,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000800000",
         "name": "Abschnitt 4",
         "title": "Rechtsschutz",
         "parent": null
@@ -373,6 +402,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002200000",
         "name": "\u00a7 22",
         "title": "Beweislast",
         "parent": {
@@ -386,6 +416,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002301377",
         "name": "\u00a7 23",
         "title": "Unterst\u00fctzung durch Antidiskriminierungsverb\u00e4nde",
         "parent": {
@@ -399,6 +430,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG000900000",
         "name": "Abschnitt 5",
         "title": "Sonderregelungen f\u00fcr \u00f6ffentlich-rechtliche\nDienstverh\u00e4ltnisse",
         "parent": null
@@ -406,6 +438,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002400000",
         "name": "\u00a7 24",
         "title": "Sonderregelung f\u00fcr \u00f6ffentlich-rechtliche Dienstverh\u00e4ltnisse",
         "parent": {
@@ -419,6 +452,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG001000000",
         "name": "Abschnitt 6",
         "title": "Antidiskriminierungsstelle",
         "parent": null
@@ -426,6 +460,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002500000",
         "name": "\u00a7 25",
         "title": "Antidiskriminierungsstelle des Bundes",
         "parent": {
@@ -439,6 +474,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002601140",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002601140",
         "name": "\u00a7 26",
         "title": "Rechtsstellung der Leitung der Antidiskriminierungsstelle des Bundes",
         "parent": {
@@ -452,6 +488,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002700000",
         "name": "\u00a7 27",
         "title": "Aufgaben",
         "parent": {
@@ -465,6 +502,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002800000",
         "name": "\u00a7 28",
         "title": "Befugnisse",
         "parent": {
@@ -478,6 +516,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE002900000",
         "name": "\u00a7 29",
         "title": "Zusammenarbeit mit Nichtregierungsorganisationen und anderen\nEinrichtungen",
         "parent": {
@@ -491,6 +530,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE003000000",
         "name": "\u00a7 30",
         "title": "Beirat",
         "parent": {
@@ -504,6 +544,7 @@
       {
         "type": "heading",
         "id": "BJNR189710006BJNG001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNG001100000",
         "name": "Abschnitt 7",
         "title": "Schlussvorschriften",
         "parent": null
@@ -511,6 +552,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE003100000",
         "name": "\u00a7 31",
         "title": "Unabdingbarkeit",
         "parent": {
@@ -524,6 +566,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE003200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE003200000",
         "name": "\u00a7 32",
         "title": "Schlussbestimmung",
         "parent": {
@@ -537,6 +580,7 @@
       {
         "type": "article",
         "id": "BJNR189710006BJNE003301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/agg/articles/BJNR189710006BJNE003301377",
         "name": "\u00a7 33",
         "title": "\u00dcbergangsbestimmungen",
         "parent": {

@@ -42,6 +42,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000100000",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -52,6 +53,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000215124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000215124",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -62,6 +64,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000100000",
         "name": "Teil 1",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -69,6 +72,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000300000",
         "name": "\u00a7 1",
         "title": "Zweck des Gesetzes",
         "parent": {
@@ -82,6 +86,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000401308",
         "name": "\u00a7 2",
         "title": "Regulierung, Ziele und Grunds\u00e4tze",
         "parent": {
@@ -95,6 +100,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000507123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000507123",
         "name": "\u00a7 3",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -108,6 +114,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000602308",
         "name": "\u00a7 4",
         "title": "Internationale Berichtspflichten",
         "parent": {
@@ -121,6 +128,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000701308",
         "name": "\u00a7 5",
         "title": "Medien der Ver\u00f6ffentlichung",
         "parent": {
@@ -134,6 +142,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000802308",
         "name": "\u00a7 6",
         "title": "Meldepflicht",
         "parent": {
@@ -147,6 +156,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE000901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE000901308",
         "name": "\u00a7 7",
         "title": "Strukturelle Separierung",
         "parent": {
@@ -160,6 +170,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001000000",
         "name": "\u00a7 8",
         "title": "Internationaler Status",
         "parent": {
@@ -173,6 +184,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000200000",
         "name": "Teil 2",
         "title": "Marktregulierung",
         "parent": null
@@ -180,6 +192,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000300000",
         "name": "Abschnitt 1",
         "title": "Verfahren der Marktregulierung",
         "parent": {
@@ -190,6 +203,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001101308",
         "name": "\u00a7 9",
         "title": "Grundsatz",
         "parent": {
@@ -203,6 +217,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015501308",
         "name": "\u00a7 9a",
         "title": "(weggefallen)",
         "parent": {
@@ -216,6 +231,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001202308",
         "name": "\u00a7 10",
         "title": "Marktdefinition",
         "parent": {
@@ -229,6 +245,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001302308",
         "name": "\u00a7 11",
         "title": "Marktanalyse",
         "parent": {
@@ -242,6 +259,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001404123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001404123",
         "name": "\u00a7 12",
         "title": "Konsultations- und Konsolidierungsverfahren",
         "parent": {
@@ -255,6 +273,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001502308",
         "name": "\u00a7 13",
         "title": "Rechtsfolgen der Marktanalyse",
         "parent": {
@@ -268,6 +287,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001602308",
         "name": "\u00a7 14",
         "title": "\u00dcberpr\u00fcfung von Marktdefinition, Marktanalyse und Regulierungsverf\u00fcgung",
         "parent": {
@@ -281,6 +301,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001702308",
         "name": "\u00a7 15",
         "title": "Verfahren bei sonstigen marktrelevanten Ma\u00dfnahmen",
         "parent": {
@@ -294,6 +315,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019100308",
         "name": "\u00a7 15a",
         "title": "Regulierungskonzepte und Antrag auf Auskunft \u00fcber den Regulierungsrahmen f\u00fcr Netze der n\u00e4chsten Generation",
         "parent": {
@@ -307,6 +329,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000400000",
         "name": "Abschnitt 2",
         "title": "Zugangsregulierung",
         "parent": {
@@ -317,6 +340,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001801308",
         "name": "\u00a7 16",
         "title": "Vertr\u00e4ge \u00fcber Zusammenschaltung",
         "parent": {
@@ -330,6 +354,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE001901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE001901308",
         "name": "\u00a7 17",
         "title": "Vertraulichkeit von Informationen",
         "parent": {
@@ -343,6 +368,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002002308",
         "name": "\u00a7 18",
         "title": "Kontrolle \u00fcber Zugang zu Endnutzern",
         "parent": {
@@ -356,6 +382,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002101308",
         "name": "\u00a7 19",
         "title": "Diskriminierungsverbot",
         "parent": {
@@ -369,6 +396,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002202308",
         "name": "\u00a7 20",
         "title": "Transparenzverpflichtung",
         "parent": {
@@ -382,6 +410,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002302308",
         "name": "\u00a7 21",
         "title": "Zugangsverpflichtungen",
         "parent": {
@@ -395,6 +424,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002402308",
         "name": "\u00a7 22",
         "title": "Zugangsvereinbarungen",
         "parent": {
@@ -408,6 +438,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002502308",
         "name": "\u00a7 23",
         "title": "Standardangebot",
         "parent": {
@@ -421,6 +452,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002602308",
         "name": "\u00a7 24",
         "title": "Getrennte Rechnungsf\u00fchrung",
         "parent": {
@@ -434,6 +466,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002702308",
         "name": "\u00a7 25",
         "title": "Anordnungen durch die Bundesnetzagentur",
         "parent": {
@@ -447,6 +480,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002801308",
         "name": "\u00a7 26",
         "title": "Ver\u00f6ffentlichung",
         "parent": {
@@ -460,6 +494,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000500000",
         "name": "Abschnitt 3",
         "title": "Entgeltregulierung",
         "parent": {
@@ -470,6 +505,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000600000",
         "name": "Unterabschnitt 1",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -480,6 +516,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE002902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE002902308",
         "name": "\u00a7 27",
         "title": "Ziel der Entgeltregulierung",
         "parent": {
@@ -493,6 +530,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003002308",
         "name": "\u00a7 28",
         "title": "Missbr\u00e4uchliches Verhalten eines Unternehmens mit betr\u00e4chtlicher Marktmacht bei der Forderung und Vereinbarung von Entgelten",
         "parent": {
@@ -506,6 +544,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003102308",
         "name": "\u00a7 29",
         "title": "Anordnungen im Rahmen der Entgeltregulierung",
         "parent": {
@@ -519,6 +558,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000700000",
         "name": "Unterabschnitt 2",
         "title": "Regulierung von Entgelten f\u00fcr\nZugangsleistungen",
         "parent": {
@@ -529,6 +569,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003202308",
         "name": "\u00a7 30",
         "title": "Entgeltregulierung",
         "parent": {
@@ -542,6 +583,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003402308",
         "name": "\u00a7 31",
         "title": "Entgeltgenehmigung",
         "parent": {
@@ -555,6 +597,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003302308",
         "name": "\u00a7 32",
         "title": "Kosten der effizienten Leistungsbereitstellung",
         "parent": {
@@ -568,6 +611,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003602308",
         "name": "\u00a7 33",
         "title": "Price-Cap-Verfahren",
         "parent": {
@@ -581,6 +625,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003502308",
         "name": "\u00a7 34",
         "title": "Kostenunterlagen",
         "parent": {
@@ -594,6 +639,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003703124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003703124",
         "name": "\u00a7 35",
         "title": "Verfahren der Entgeltgenehmigung",
         "parent": {
@@ -607,6 +653,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003802308",
         "name": "\u00a7 36",
         "title": "Ver\u00f6ffentlichung",
         "parent": {
@@ -620,6 +667,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE003901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE003901308",
         "name": "\u00a7 37",
         "title": "Abweichung von genehmigten Entgelten",
         "parent": {
@@ -633,6 +681,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004002308",
         "name": "\u00a7 38",
         "title": "Nachtr\u00e4gliche Regulierung von Entgelten",
         "parent": {
@@ -646,6 +695,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000800000",
         "name": "Unterabschnitt 3",
         "title": "Regulierung von Entgelten f\u00fcr\nEndnutzerleistungen",
         "parent": {
@@ -656,6 +706,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004102308",
         "name": "\u00a7 39",
         "title": "Entgeltregulierung bei Endnutzerleistungen",
         "parent": {
@@ -669,6 +720,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG000900000",
         "name": "Abschnitt 4",
         "title": "Sonstige Verpflichtungen",
         "parent": {
@@ -679,6 +731,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004203308",
         "name": "\u00a7 40",
         "title": "Funktionelle Trennung",
         "parent": {
@@ -692,6 +745,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004302308",
         "name": "\u00a7 41",
         "title": "Freiwillige Trennung durch ein vertikal integriertes Unternehmen",
         "parent": {
@@ -705,6 +759,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019201123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019201123",
         "name": "\u00a7 41a",
         "title": "(weggefallen)",
         "parent": {
@@ -718,6 +773,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE022500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE022500123",
         "name": "\u00a7 41b",
         "title": "Anschluss von Telekommunikationsendeinrichtungen",
         "parent": {
@@ -731,6 +787,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE022600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE022600123",
         "name": "\u00a7 41c",
         "title": "Schnittstellenbeschreibungen der Betreiber \u00f6ffentlicher Telekommunikationsnetze",
         "parent": {
@@ -744,6 +801,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001000000",
         "name": "Abschnitt 5",
         "title": "Besondere Missbrauchsaufsicht",
         "parent": {
@@ -754,6 +812,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004403308",
         "name": "\u00a7 42",
         "title": "Missbr\u00e4uchliches Verhalten eines Unternehmens mit betr\u00e4chtlicher Marktmacht",
         "parent": {
@@ -767,6 +826,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004502116",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004502116",
         "name": "\u00a7 43",
         "title": "Vorteilsabsch\u00f6pfung durch die Bundesnetzagentur",
         "parent": {
@@ -780,6 +840,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001101308",
         "name": "Teil 3",
         "title": "Kundenschutz",
         "parent": null
@@ -787,6 +848,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015603124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015603124",
         "name": "\u00a7 43a",
         "title": "Vertr\u00e4ge",
         "parent": {
@@ -800,6 +862,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019300308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019300308",
         "name": "\u00a7 43b",
         "title": "Vertragslaufzeit",
         "parent": {
@@ -813,6 +876,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004601308",
         "name": "\u00a7 44",
         "title": "Anspruch auf Schadensersatz und Unterlassung",
         "parent": {
@@ -826,6 +890,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015701308",
         "name": "\u00a7 44a",
         "title": "Haftung",
         "parent": {
@@ -839,6 +904,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004704123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004704123",
         "name": "\u00a7 45",
         "title": "Ber\u00fccksichtigung der Interessen behinderter Endnutzer",
         "parent": {
@@ -852,6 +918,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015801308",
         "name": "\u00a7 45a",
         "title": "Nutzung von Grundst\u00fccken",
         "parent": {
@@ -865,6 +932,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015901308",
         "name": "\u00a7 45b",
         "title": "Entst\u00f6rungsdienst",
         "parent": {
@@ -878,6 +946,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016001308",
         "name": "\u00a7 45c",
         "title": "Normgerechte technische Dienstleistung",
         "parent": {
@@ -891,6 +960,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016104123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016104123",
         "name": "\u00a7 45d",
         "title": "Netzzugang",
         "parent": {
@@ -904,6 +974,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016201308",
         "name": "\u00a7 45e",
         "title": "Anspruch auf Einzelverbindungsnachweis",
         "parent": {
@@ -917,6 +988,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016301308",
         "name": "\u00a7 45f",
         "title": "Vorausbezahlte Leistung",
         "parent": {
@@ -930,6 +1002,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016401308",
         "name": "\u00a7 45g",
         "title": "Verbindungspreisberechnung",
         "parent": {
@@ -943,6 +1016,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016502311",
         "name": "\u00a7 45h",
         "title": "Rechnungsinhalt, Teilzahlungen",
         "parent": {
@@ -956,6 +1030,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016601308",
         "name": "\u00a7 45i",
         "title": "Beanstandungen",
         "parent": {
@@ -969,6 +1044,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016701308",
         "name": "\u00a7 45j",
         "title": "Entgeltpflicht bei unrichtiger Ermittlung des Verbindungsaufkommens",
         "parent": {
@@ -982,6 +1058,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016801308",
         "name": "\u00a7 45k",
         "title": "Sperre",
         "parent": {
@@ -995,6 +1072,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE016902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE016902308",
         "name": "\u00a7 45l",
         "title": "Dauerschuldverh\u00e4ltnisse bei Kurzwahldiensten",
         "parent": {
@@ -1008,6 +1086,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017001308",
         "name": "\u00a7 45m",
         "title": "Aufnahme in \u00f6ffentliche Teilnehmerverzeichnisse",
         "parent": {
@@ -1021,6 +1100,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017105124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017105124",
         "name": "\u00a7 45n",
         "title": "Transparenz, Ver\u00f6ffentlichung von Informationen und zus\u00e4tzliche Dienstemerkmale zur Kostenkontrolle",
         "parent": {
@@ -1034,6 +1114,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017200308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017200308",
         "name": "\u00a7 45o",
         "title": "Rufnummernmissbrauch",
         "parent": {
@@ -1047,6 +1128,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017301308",
         "name": "\u00a7 45p",
         "title": "Auskunftsanspruch \u00fcber zus\u00e4tzliche Leistungen",
         "parent": {
@@ -1060,6 +1142,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004802308",
         "name": "\u00a7 46",
         "title": "Anbieterwechsel und Umzug",
         "parent": {
@@ -1073,6 +1156,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE004901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE004901308",
         "name": "\u00a7 47",
         "title": "Bereitstellen von Teilnehmerdaten",
         "parent": {
@@ -1086,6 +1170,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017406124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017406124",
         "name": "\u00a7 47a",
         "title": "Schlichtung",
         "parent": {
@@ -1099,6 +1184,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017501308",
         "name": "\u00a7 47b",
         "title": "Abweichende Vereinbarungen",
         "parent": {
@@ -1112,6 +1198,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001200000",
         "name": "Teil 4",
         "title": "Rundfunk\u00fcbertragung",
         "parent": null
@@ -1119,6 +1206,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005003124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005003124",
         "name": "\u00a7 48",
         "title": "Interoperabilit\u00e4t von Fernseh- und Radioger\u00e4ten",
         "parent": {
@@ -1132,6 +1220,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005101308",
         "name": "\u00a7 49",
         "title": "Interoperabilit\u00e4t der \u00dcbertragung digitaler Fernsehsignale",
         "parent": {
@@ -1145,6 +1234,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005201308",
         "name": "\u00a7 50",
         "title": "Zugangsberechtigungssysteme",
         "parent": {
@@ -1158,6 +1248,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005301308",
         "name": "\u00a7 51",
         "title": "Streitschlichtung",
         "parent": {
@@ -1171,6 +1262,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001300000",
         "name": "Teil 5",
         "title": "Vergabe von Frequenzen, Nummern und Wegerechten",
         "parent": null
@@ -1178,6 +1270,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001400000",
         "name": "Abschnitt 1",
         "title": "Frequenzordnung",
         "parent": {
@@ -1188,6 +1281,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005404123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005404123",
         "name": "\u00a7 52",
         "title": "Aufgaben",
         "parent": {
@@ -1201,6 +1295,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005501308",
         "name": "\u00a7 53",
         "title": "Frequenzzuweisung",
         "parent": {
@@ -1214,6 +1309,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005602308",
         "name": "\u00a7 54",
         "title": "Frequenznutzung",
         "parent": {
@@ -1227,6 +1323,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005702308",
         "name": "\u00a7 55",
         "title": "Frequenzzuteilung",
         "parent": {
@@ -1240,6 +1337,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005802308",
         "name": "\u00a7 56",
         "title": "Orbitpositionen und Frequenznutzungen durch Satelliten",
         "parent": {
@@ -1253,6 +1351,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE005904124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE005904124",
         "name": "\u00a7 57",
         "title": "Frequenzzuteilung f\u00fcr Rundfunk, Luftfahrt, Seeschifffahrt, Binnenschifffahrt und sicherheitsrelevante Funkanwendungen",
         "parent": {
@@ -1266,6 +1365,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006001308",
         "name": "\u00a7 58",
         "title": "Gemeinsame Frequenznutzung, Erprobung innovativer Technologien, kurzfristig auftretender Frequenzbedarf",
         "parent": {
@@ -1279,6 +1379,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006101308",
         "name": "\u00a7 59",
         "title": "(weggefallen)",
         "parent": {
@@ -1292,6 +1393,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006202308",
         "name": "\u00a7 60",
         "title": "Bestandteile der Frequenzzuteilung",
         "parent": {
@@ -1305,6 +1407,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006302308",
         "name": "\u00a7 61",
         "title": "Vergabeverfahren",
         "parent": {
@@ -1318,6 +1421,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006402308",
         "name": "\u00a7 62",
         "title": "Flexibilisierung",
         "parent": {
@@ -1331,6 +1435,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006502308",
         "name": "\u00a7 63",
         "title": "Widerruf der Frequenzzuteilung, Verzicht",
         "parent": {
@@ -1344,6 +1449,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006601308",
         "name": "\u00a7 64",
         "title": "\u00dcberwachung, Anordnung der Au\u00dferbetriebnahme",
         "parent": {
@@ -1357,6 +1463,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006700000",
         "name": "\u00a7 65",
         "title": "Einschr\u00e4nkung der Frequenzzuteilung",
         "parent": {
@@ -1370,6 +1477,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001500000",
         "name": "Abschnitt 2",
         "title": "Nummerierung",
         "parent": {
@@ -1380,6 +1488,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006802308",
         "name": "\u00a7 66",
         "title": "Nummerierung",
         "parent": {
@@ -1393,6 +1502,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017701308",
         "name": "\u00a7 66a",
         "title": "Preisangabe",
         "parent": {
@@ -1406,6 +1516,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017803308",
         "name": "\u00a7 66b",
         "title": "Preisansage",
         "parent": {
@@ -1419,6 +1530,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017900308",
         "name": "\u00a7 66c",
         "title": "Preisanzeige",
         "parent": {
@@ -1432,6 +1544,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018002308",
         "name": "\u00a7 66d",
         "title": "Preish\u00f6chstgrenzen",
         "parent": {
@@ -1445,6 +1558,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018100308",
         "name": "\u00a7 66e",
         "title": "Verbindungstrennung",
         "parent": {
@@ -1458,6 +1572,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018800308",
         "name": "\u00a7 66f",
         "title": "Anw\u00e4hlprogramme (Dialer)",
         "parent": {
@@ -1471,6 +1586,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020100308",
         "name": "\u00a7 66g",
         "title": "Warteschleifen",
         "parent": {
@@ -1484,6 +1600,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018202308",
         "name": "\u00a7 66h",
         "title": "Wegfall des Entgeltanspruchs",
         "parent": {
@@ -1497,6 +1614,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018302308",
         "name": "\u00a7 66i",
         "title": "Auskunftsanspruch, Datenbank f\u00fcr (0)900er Rufnummern",
         "parent": {
@@ -1510,6 +1628,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018402308",
         "name": "\u00a7 66j",
         "title": "R-Gespr\u00e4che",
         "parent": {
@@ -1523,6 +1642,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018501308",
         "name": "\u00a7 66k",
         "title": "Rufnummern\u00fcbermittlung",
         "parent": {
@@ -1536,6 +1656,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018601308",
         "name": "\u00a7 66l",
         "title": "Internationaler entgeltfreier Telefondienst",
         "parent": {
@@ -1549,6 +1670,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018701308",
         "name": "\u00a7 66m",
         "title": "Umgehungsverbot",
         "parent": {
@@ -1562,6 +1684,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE006903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE006903308",
         "name": "\u00a7 67",
         "title": "Befugnisse der Bundesnetzagentur",
         "parent": {
@@ -1575,6 +1698,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001601123",
         "name": "Abschnitt 3",
         "title": "Wegerechte und Mitnutzung",
         "parent": {
@@ -1585,6 +1709,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG003200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG003200123",
         "name": "Unterabschnitt 1",
         "title": "Wegerechte",
         "parent": {
@@ -1595,6 +1720,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007002123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007002123",
         "name": "\u00a7 68",
         "title": "Grundsatz der Benutzung \u00f6ffentlicher Wege",
         "parent": {
@@ -1608,6 +1734,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007103123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007103123",
         "name": "\u00a7 69",
         "title": "\u00dcbertragung des Wegerechts",
         "parent": {
@@ -1621,6 +1748,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007201123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007201123",
         "name": "\u00a7 70",
         "title": "Mitnutzung und Wegerecht",
         "parent": {
@@ -1634,6 +1762,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007300000",
         "name": "\u00a7 71",
         "title": "R\u00fccksichtnahme auf Wegeunterhaltung und Widmungszweck",
         "parent": {
@@ -1647,6 +1776,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007400000",
         "name": "\u00a7 72",
         "title": "Gebotene \u00c4nderung",
         "parent": {
@@ -1660,6 +1790,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007500000",
         "name": "\u00a7 73",
         "title": "Schonung der Baumpflanzungen",
         "parent": {
@@ -1673,6 +1804,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007600000",
         "name": "\u00a7 74",
         "title": "Besondere Anlagen",
         "parent": {
@@ -1686,6 +1818,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007701123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007701123",
         "name": "\u00a7 75",
         "title": "Sp\u00e4tere besondere Anlagen",
         "parent": {
@@ -1699,6 +1832,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007802123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007802123",
         "name": "\u00a7 76",
         "title": "Beeintr\u00e4chtigung von Grundst\u00fccken und Geb\u00e4uden",
         "parent": {
@@ -1712,6 +1846,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE007900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE007900000",
         "name": "\u00a7 77",
         "title": "Ersatzanspr\u00fcche",
         "parent": {
@@ -1725,6 +1860,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG003300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG003300123",
         "name": "Unterabschnitt 2",
         "title": "Mitnutzung \u00f6ffentlicher Versorgungsnetze",
         "parent": {
@@ -1735,6 +1871,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020202124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020202124",
         "name": "\u00a7 77a",
         "title": "Infrastrukturatlas der zentralen Informationsstelle des Bundes",
         "parent": {
@@ -1748,6 +1885,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020301123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020301123",
         "name": "\u00a7 77b",
         "title": "Informationen \u00fcber passive Netzinfrastrukturen",
         "parent": {
@@ -1761,6 +1899,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019401123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019401123",
         "name": "\u00a7 77c",
         "title": "Vor-Ort-Untersuchung passiver Netzinfrastrukturen",
         "parent": {
@@ -1774,6 +1913,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019501123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019501123",
         "name": "\u00a7 77d",
         "title": "Mitnutzung \u00f6ffentlicher Versorgungsnetze",
         "parent": {
@@ -1787,6 +1927,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019601123",
         "name": "\u00a7 77e",
         "title": "Umfang des Mitnutzungsanspruchs",
         "parent": {
@@ -1800,6 +1941,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021000123",
         "name": "\u00a7 77f",
         "title": "Einnahmen aus Mitnutzungen",
         "parent": {
@@ -1813,6 +1955,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021100123",
         "name": "\u00a7 77g",
         "title": "Ablehnung der Mitnutzung, Versagungsgr\u00fcnde",
         "parent": {
@@ -1826,6 +1969,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021200123",
         "name": "\u00a7 77h",
         "title": "Informationen \u00fcber Bauarbeiten an \u00f6ffentlichen Versorgungsnetzen",
         "parent": {
@@ -1839,6 +1983,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021301124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021301124",
         "name": "\u00a7 77i",
         "title": "Koordinierung von Bauarbeiten und Mitverlegung",
         "parent": {
@@ -1852,6 +1997,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021400123",
         "name": "\u00a7 77j",
         "title": "Allgemeine Informationen \u00fcber Verfahrensbedingungen bei Bauarbeiten",
         "parent": {
@@ -1865,6 +2011,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021500123",
         "name": "\u00a7 77k",
         "title": "Netzinfrastruktur von Geb\u00e4uden",
         "parent": {
@@ -1878,6 +2025,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021600123",
         "name": "\u00a7 77l",
         "title": "Antragsform und Reihenfolge der Verfahren",
         "parent": {
@@ -1891,6 +2039,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021701124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021701124",
         "name": "\u00a7 77m",
         "title": "Vertraulichkeit der Verfahren",
         "parent": {
@@ -1904,6 +2053,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021800123",
         "name": "\u00a7 77n",
         "title": "Fristen, Entgeltma\u00dfst\u00e4be und Regulierungsziele der nationalen Streitbeilegung",
         "parent": {
@@ -1917,6 +2067,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE021901124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE021901124",
         "name": "\u00a7 77o",
         "title": "Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -1930,6 +2081,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE022000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE022000123",
         "name": "\u00a7 77p",
         "title": "Genehmigungsfristen f\u00fcr Bauarbeiten",
         "parent": {
@@ -1943,6 +2095,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE023000124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE023000124",
         "name": "\u00a7 77q",
         "title": "Vorausschau zum Mobilfunknetzausbau",
         "parent": {
@@ -1956,6 +2109,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE023100124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE023100124",
         "name": "\u00a7 77r",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1969,6 +2123,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001700000",
         "name": "Teil 6",
         "title": "Universaldienst",
         "parent": null
@@ -1976,6 +2131,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008002308",
         "name": "\u00a7 78",
         "title": "Universaldienstleistungen",
         "parent": {
@@ -1989,6 +2145,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008101308",
         "name": "\u00a7 79",
         "title": "Erschwinglichkeit der Entgelte",
         "parent": {
@@ -2002,6 +2159,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008200000",
         "name": "\u00a7 80",
         "title": "Verpflichtung zur Erbringung des Universaldienstes",
         "parent": {
@@ -2015,6 +2173,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008301308",
         "name": "\u00a7 81",
         "title": "Auferlegung von Universaldienstverpflichtungen",
         "parent": {
@@ -2028,6 +2187,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008401308",
         "name": "\u00a7 82",
         "title": "Ausgleich f\u00fcr Universaldienstleistungen",
         "parent": {
@@ -2041,6 +2201,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008501308",
         "name": "\u00a7 83",
         "title": "Universaldienstleistungsabgabe",
         "parent": {
@@ -2054,6 +2215,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008602308",
         "name": "\u00a7 84",
         "title": "Verf\u00fcgbarkeit, Entb\u00fcndelung und Qualit\u00e4t von Universaldienstleistungen",
         "parent": {
@@ -2067,6 +2229,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008700000",
         "name": "\u00a7 85",
         "title": "Leistungseinstellungen",
         "parent": {
@@ -2080,6 +2243,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008801308",
         "name": "\u00a7 86",
         "title": "Sicherheitsleistungen",
         "parent": {
@@ -2093,6 +2257,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE008901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE008901308",
         "name": "\u00a7 87",
         "title": "Umsatzmeldungen",
         "parent": {
@@ -2106,6 +2271,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001800000",
         "name": "Teil 7",
         "title": "Fernmeldegeheimnis, Datenschutz, \u00d6ffentliche Sicherheit",
         "parent": null
@@ -2113,6 +2279,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG001900000",
         "name": "Abschnitt 1",
         "title": "Fernmeldegeheimnis",
         "parent": {
@@ -2123,6 +2290,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009001308",
         "name": "\u00a7 88",
         "title": "Fernmeldegeheimnis",
         "parent": {
@@ -2136,6 +2304,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009101123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009101123",
         "name": "\u00a7 89",
         "title": "Abh\u00f6rverbot, Geheimhaltungspflicht der Betreiber von Empfangsanlagen",
         "parent": {
@@ -2149,6 +2318,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009202308",
         "name": "\u00a7 90",
         "title": "Missbrauch von Sende- oder sonstigen Telekommunikationsanlagen",
         "parent": {
@@ -2162,6 +2332,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002000000",
         "name": "Abschnitt 2",
         "title": "Datenschutz",
         "parent": {
@@ -2172,6 +2343,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009301308",
         "name": "\u00a7 91",
         "title": "Anwendungsbereich",
         "parent": {
@@ -2185,6 +2357,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009401308",
         "name": "\u00a7 92",
         "title": "(weggefallen)",
         "parent": {
@@ -2198,6 +2371,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009503308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009503308",
         "name": "\u00a7 93",
         "title": "Informationspflichten",
         "parent": {
@@ -2211,6 +2385,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009600000",
         "name": "\u00a7 94",
         "title": "Einwilligung im elektronischen Verfahren",
         "parent": {
@@ -2224,6 +2399,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009704123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009704123",
         "name": "\u00a7 95",
         "title": "Vertragsverh\u00e4ltnisse",
         "parent": {
@@ -2237,6 +2413,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009804308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009804308",
         "name": "\u00a7 96",
         "title": "Verkehrsdaten",
         "parent": {
@@ -2250,6 +2427,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE009902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE009902308",
         "name": "\u00a7 97",
         "title": "Entgeltermittlung und Entgeltabrechnung",
         "parent": {
@@ -2263,6 +2441,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010003308",
         "name": "\u00a7 98",
         "title": "Standortdaten",
         "parent": {
@@ -2276,6 +2455,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010103123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010103123",
         "name": "\u00a7 99",
         "title": "Einzelverbindungsnachweis",
         "parent": {
@@ -2289,6 +2469,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010204123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010204123",
         "name": "\u00a7 100",
         "title": "St\u00f6rungen von Telekommunikationsanlagen und Missbrauch von Telekommunikationsdiensten",
         "parent": {
@@ -2302,6 +2483,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010301308",
         "name": "\u00a7 101",
         "title": "Mitteilen ankommender Verbindungen",
         "parent": {
@@ -2315,6 +2497,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010402308",
         "name": "\u00a7 102",
         "title": "Rufnummernanzeige und -unterdr\u00fcckung",
         "parent": {
@@ -2328,6 +2511,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010500000",
         "name": "\u00a7 103",
         "title": "Automatische Anrufweiterschaltung",
         "parent": {
@@ -2341,6 +2525,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010600000",
         "name": "\u00a7 104",
         "title": "Teilnehmerverzeichnisse",
         "parent": {
@@ -2354,6 +2539,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010700000",
         "name": "\u00a7 105",
         "title": "Auskunftserteilung",
         "parent": {
@@ -2367,6 +2553,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010800000",
         "name": "\u00a7 106",
         "title": "Telegrammdienst",
         "parent": {
@@ -2380,6 +2567,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE010900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE010900000",
         "name": "\u00a7 107",
         "title": "Nachrichten\u00fcbermittlungssysteme mit Zwischenspeicherung",
         "parent": {
@@ -2393,6 +2581,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002100000",
         "name": "Abschnitt 3",
         "title": "\u00d6ffentliche Sicherheit",
         "parent": {
@@ -2403,6 +2592,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011005124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011005124",
         "name": "\u00a7 108",
         "title": "Notruf",
         "parent": {
@@ -2416,6 +2606,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011105123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011105123",
         "name": "\u00a7 109",
         "title": "Technische Schutzma\u00dfnahmen",
         "parent": {
@@ -2429,6 +2620,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019702123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019702123",
         "name": "\u00a7 109a",
         "title": "Daten- und Informationssicherheit",
         "parent": {
@@ -2442,6 +2634,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011209123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011209123",
         "name": "\u00a7 110",
         "title": "Umsetzung von \u00dcberwachungsma\u00dfnahmen, Erteilung von Ausk\u00fcnften",
         "parent": {
@@ -2455,6 +2648,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011304124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011304124",
         "name": "\u00a7 111",
         "title": "Daten f\u00fcr Auskunftsersuchen der Sicherheitsbeh\u00f6rden",
         "parent": {
@@ -2468,6 +2662,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011411124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011411124",
         "name": "\u00a7 112",
         "title": "Automatisiertes Auskunftsverfahren",
         "parent": {
@@ -2481,6 +2676,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011504311",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011504311",
         "name": "\u00a7 113",
         "title": "Manuelles Auskunftsverfahren",
         "parent": {
@@ -2494,6 +2690,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE018901305",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE018901305",
         "name": "\u00a7 113a",
         "title": "Verpflichtete; Entsch\u00e4digung",
         "parent": {
@@ -2507,6 +2704,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019001305",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019001305",
         "name": "\u00a7 113b",
         "title": "Pflichten zur Speicherung von Verkehrsdaten",
         "parent": {
@@ -2520,6 +2718,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020500305",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020500305",
         "name": "\u00a7 113c",
         "title": "Verwendung der Daten",
         "parent": {
@@ -2533,6 +2732,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020600305",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020600305",
         "name": "\u00a7 113d",
         "title": "Gew\u00e4hrleistung der Sicherheit der Daten",
         "parent": {
@@ -2546,6 +2746,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020700305",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020700305",
         "name": "\u00a7 113e",
         "title": "Protokollierung",
         "parent": {
@@ -2559,6 +2760,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020800305",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020800305",
         "name": "\u00a7 113f",
         "title": "Anforderungskatalog",
         "parent": {
@@ -2572,6 +2774,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020900305",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020900305",
         "name": "\u00a7 113g",
         "title": "Sicherheitskonzept",
         "parent": {
@@ -2585,6 +2788,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011603123",
         "name": "\u00a7 114",
         "title": "Auskunftsersuchen des Bundesnachrichtendienstes",
         "parent": {
@@ -2598,6 +2802,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011705123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011705123",
         "name": "\u00a7 115",
         "title": "Kontrolle und Durchsetzung von Verpflichtungen",
         "parent": {
@@ -2611,6 +2816,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002201308",
         "name": "Teil 8",
         "title": "Bundesnetzagentur",
         "parent": null
@@ -2618,6 +2824,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002300000",
         "name": "Abschnitt 1",
         "title": "Organisation",
         "parent": {
@@ -2628,6 +2835,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011805124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011805124",
         "name": "\u00a7 116",
         "title": "Aufgaben und Befugnisse",
         "parent": {
@@ -2641,6 +2849,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE011903123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE011903123",
         "name": "\u00a7 117",
         "title": "Ver\u00f6ffentlichung von Weisungen",
         "parent": {
@@ -2654,6 +2863,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012001308",
         "name": "\u00a7 118",
         "title": null,
         "parent": {
@@ -2667,6 +2877,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012101308",
         "name": "\u00a7 119",
         "title": null,
         "parent": {
@@ -2680,6 +2891,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012203308",
         "name": "\u00a7 120",
         "title": "Aufgaben des Beirates",
         "parent": {
@@ -2693,6 +2905,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012302305",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012302305",
         "name": "\u00a7 121",
         "title": "T\u00e4tigkeitsbericht",
         "parent": {
@@ -2706,6 +2919,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012402308",
         "name": "\u00a7 122",
         "title": "Jahresbericht",
         "parent": {
@@ -2719,6 +2933,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012504123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012504123",
         "name": "\u00a7 123",
         "title": "Zusammenarbeit mit anderen Beh\u00f6rden auf nationaler Ebene",
         "parent": {
@@ -2732,6 +2947,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019800308",
         "name": "\u00a7 123a",
         "title": "Zusammenarbeit mit anderen Beh\u00f6rden auf der Ebene der Europ\u00e4ischen Union",
         "parent": {
@@ -2745,6 +2961,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE019900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE019900308",
         "name": "\u00a7 123b",
         "title": "Bereitstellung von Informationen",
         "parent": {
@@ -2758,6 +2975,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012601308",
         "name": "\u00a7 124",
         "title": "Mediation",
         "parent": {
@@ -2771,6 +2989,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012701308",
         "name": "\u00a7 125",
         "title": "Wissenschaftliche Beratung",
         "parent": {
@@ -2784,6 +3003,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002400000",
         "name": "Abschnitt 2",
         "title": "Befugnisse",
         "parent": {
@@ -2794,6 +3014,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012807124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012807124",
         "name": "\u00a7 126",
         "title": "Untersagung",
         "parent": {
@@ -2807,6 +3028,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE012905124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE012905124",
         "name": "\u00a7 127",
         "title": "Auskunftsverlangen",
         "parent": {
@@ -2820,6 +3042,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013001308",
         "name": "\u00a7 128",
         "title": "Ermittlungen",
         "parent": {
@@ -2833,6 +3056,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013101308",
         "name": "\u00a7 129",
         "title": "Beschlagnahme",
         "parent": {
@@ -2846,6 +3070,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013201308",
         "name": "\u00a7 130",
         "title": "Vorl\u00e4ufige Anordnungen",
         "parent": {
@@ -2859,6 +3084,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013301308",
         "name": "\u00a7 131",
         "title": "Abschluss des Verfahrens",
         "parent": {
@@ -2872,6 +3098,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002500000",
         "name": "Abschnitt 3",
         "title": "Verfahren",
         "parent": {
@@ -2882,6 +3109,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002600000",
         "name": "Unterabschnitt 1",
         "title": "Beschlusskammern",
         "parent": {
@@ -2892,6 +3120,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013404123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013404123",
         "name": "\u00a7 132",
         "title": "Beschlusskammerentscheidungen",
         "parent": {
@@ -2905,6 +3134,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013502308",
         "name": "\u00a7 133",
         "title": "Sonstige Streitigkeiten zwischen Unternehmen",
         "parent": {
@@ -2918,6 +3148,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013602308",
         "name": "\u00a7 134",
         "title": "Einleitung, Beteiligte",
         "parent": {
@@ -2931,6 +3162,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE022100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE022100123",
         "name": "\u00a7 134a",
         "title": "Verfahren der nationalen Streitbeilegung",
         "parent": {
@@ -2944,6 +3176,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013700000",
         "name": "\u00a7 135",
         "title": "Anh\u00f6rung, m\u00fcndliche Verhandlung",
         "parent": {
@@ -2957,6 +3190,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013800000",
         "name": "\u00a7 136",
         "title": "Betriebs- oder Gesch\u00e4ftsgeheimnisse",
         "parent": {
@@ -2970,6 +3204,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002700000",
         "name": "Unterabschnitt 2",
         "title": "Gerichtsverfahren",
         "parent": {
@@ -2980,6 +3215,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE013902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE013902308",
         "name": "\u00a7 137",
         "title": "Rechtsmittel",
         "parent": {
@@ -2993,6 +3229,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014002308",
         "name": "\u00a7 138",
         "title": "Vorlage- und Auskunftspflicht der Bundesnetzagentur",
         "parent": {
@@ -3006,6 +3243,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE020000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE020000308",
         "name": "\u00a7 138a",
         "title": "Informationssystem zu eingelegten Rechtsbehelfen",
         "parent": {
@@ -3019,6 +3257,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014101308",
         "name": "\u00a7 139",
         "title": "Beteiligung der Bundesnetzagentur bei b\u00fcrgerlichen\nRechtsstreitigkeiten",
         "parent": {
@@ -3032,6 +3271,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002800000",
         "name": "Unterabschnitt 3",
         "title": "Internationale Aufgaben",
         "parent": {
@@ -3042,6 +3282,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014204123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014204123",
         "name": "\u00a7 140",
         "title": "Internationale Aufgaben",
         "parent": {
@@ -3055,6 +3296,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014303308",
         "name": "\u00a7 141",
         "title": "Anerkannte Abrechnungsstelle f\u00fcr den Seefunkverkehr",
         "parent": {
@@ -3068,6 +3310,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG002900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG002900000",
         "name": "Teil 9",
         "title": "Abgaben",
         "parent": null
@@ -3075,6 +3318,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014408123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014408123",
         "name": "\u00a7 142",
         "title": "Geb\u00fchren und Auslagen",
         "parent": {
@@ -3088,6 +3332,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014507123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014507123",
         "name": "\u00a7 143",
         "title": "Frequenznutzungsbeitrag",
         "parent": {
@@ -3101,6 +3346,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014603308",
         "name": "\u00a7 144",
         "title": "(weggefallen)",
         "parent": {
@@ -3114,6 +3360,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE022400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE022400123",
         "name": "\u00a7 145",
         "title": "Kosten von au\u00dfergerichtlichen Streitbeilegungsverfahren",
         "parent": {
@@ -3127,6 +3374,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014802123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014802123",
         "name": "\u00a7 146",
         "title": "Kosten des Vorverfahrens",
         "parent": {
@@ -3140,6 +3388,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE014901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE014901308",
         "name": "\u00a7 147",
         "title": "Mitteilung der Bundesnetzagentur",
         "parent": {
@@ -3153,6 +3402,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG003000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG003000000",
         "name": "Teil 10",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null
@@ -3160,6 +3410,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015002123",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015002123",
         "name": "\u00a7 148",
         "title": "Strafvorschriften",
         "parent": {
@@ -3173,6 +3424,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015123124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015123124",
         "name": "\u00a7 149",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -3186,6 +3438,7 @@
       {
         "type": "heading",
         "id": "BJNR119000004BJNG003100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNG003100000",
         "name": "Teil 11",
         "title": "\u00dcbergangs- und Schlussvorschriften",
         "parent": null
@@ -3193,6 +3446,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015208124",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015208124",
         "name": "\u00a7 150",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -3206,6 +3460,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015300000",
         "name": "\u00a7 151",
         "title": null,
         "parent": {
@@ -3219,6 +3474,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE015401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE015401308",
         "name": "\u00a7 152",
         "title": "Inkrafttreten, Au\u00dferkrafttreten",
         "parent": {
@@ -3232,6 +3488,7 @@
       {
         "type": "article",
         "id": "BJNR119000004BJNE017600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/tkg/articles/BJNR119000004BJNE017600308",
         "name": "Anlage",
         "title": "(zu \u00a7 45a)",
         "parent": {

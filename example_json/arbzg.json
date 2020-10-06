@@ -32,6 +32,7 @@
       {
         "type": "heading",
         "id": "BJNR117100994BJNG000100307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNG000100307",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -39,6 +40,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE000901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE000901377",
         "name": "\u00a7 1",
         "title": "Zweck des Gesetzes",
         "parent": {
@@ -52,6 +54,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001001308",
         "name": "\u00a7 2",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -65,6 +68,7 @@
       {
         "type": "heading",
         "id": "BJNR117100994BJNG000200307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNG000200307",
         "name": "Zweiter Abschnitt",
         "title": "Werkt\u00e4gliche Arbeitszeit\nund arbeitsfreie Zeiten",
         "parent": null
@@ -72,6 +76,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001100307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001100307",
         "name": "\u00a7 3",
         "title": "Arbeitszeit der Arbeitnehmer",
         "parent": {
@@ -85,6 +90,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001200307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001200307",
         "name": "\u00a7 4",
         "title": "Ruhepausen",
         "parent": {
@@ -98,6 +104,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001302308",
         "name": "\u00a7 5",
         "title": "Ruhezeit",
         "parent": {
@@ -111,6 +118,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001400307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001400307",
         "name": "\u00a7 6",
         "title": "Nacht- und Schichtarbeit",
         "parent": {
@@ -124,6 +132,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001501308",
         "name": "\u00a7 7",
         "title": "Abweichende Regelungen",
         "parent": {
@@ -137,6 +146,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001600307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001600307",
         "name": "\u00a7 8",
         "title": "Gef\u00e4hrliche Arbeiten",
         "parent": {
@@ -150,6 +160,7 @@
       {
         "type": "heading",
         "id": "BJNR117100994BJNG000300307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNG000300307",
         "name": "Dritter Abschnitt",
         "title": "Sonn- und Feiertagsruhe",
         "parent": null
@@ -157,6 +168,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001700307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001700307",
         "name": "\u00a7 9",
         "title": "Sonn- und Feiertagsruhe",
         "parent": {
@@ -170,6 +182,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001802308",
         "name": "\u00a7 10",
         "title": "Sonn- und Feiertagsbesch\u00e4ftigung",
         "parent": {
@@ -183,6 +196,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE001901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE001901308",
         "name": "\u00a7 11",
         "title": "Ausgleich f\u00fcr Sonn- und Feiertagsbesch\u00e4ftigung",
         "parent": {
@@ -196,6 +210,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002001308",
         "name": "\u00a7 12",
         "title": "Abweichende Regelungen",
         "parent": {
@@ -209,6 +224,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002100307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002100307",
         "name": "\u00a7 13",
         "title": "Erm\u00e4chtigung, Anordnung, Bewilligung",
         "parent": {
@@ -222,6 +238,7 @@
       {
         "type": "heading",
         "id": "BJNR117100994BJNG000400307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNG000400307",
         "name": "Vierter Abschnitt",
         "title": "Ausnahmen in besonderen F\u00e4llen",
         "parent": null
@@ -229,6 +246,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002202126",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002202126",
         "name": "\u00a7 14",
         "title": "Au\u00dfergew\u00f6hnliche F\u00e4lle",
         "parent": {
@@ -242,6 +260,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002305377",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002305377",
         "name": "\u00a7 15",
         "title": "Bewilligung, Erm\u00e4chtigung",
         "parent": {
@@ -255,6 +274,7 @@
       {
         "type": "heading",
         "id": "BJNR117100994BJNG000500307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNG000500307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Durchf\u00fchrung des Gesetzes",
         "parent": null
@@ -262,6 +282,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002402308",
         "name": "\u00a7 16",
         "title": "Aushang und Arbeitszeitnachweise",
         "parent": {
@@ -275,6 +296,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002502308",
         "name": "\u00a7 17",
         "title": "Aufsichtsbeh\u00f6rde",
         "parent": {
@@ -288,6 +310,7 @@
       {
         "type": "heading",
         "id": "BJNR117100994BJNG000600307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNG000600307",
         "name": "Sechster Abschnitt",
         "title": "Sonderregelungen",
         "parent": null
@@ -295,6 +318,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002602377",
         "name": "\u00a7 18",
         "title": "Nichtanwendung des Gesetzes",
         "parent": {
@@ -308,6 +332,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002700307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002700307",
         "name": "\u00a7 19",
         "title": "Besch\u00e4ftigung im \u00f6ffentlichen Dienst",
         "parent": {
@@ -321,6 +346,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002800307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002800307",
         "name": "\u00a7 20",
         "title": "Besch\u00e4ftigung in der Luftfahrt",
         "parent": {
@@ -334,6 +360,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE002902119",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE002902119",
         "name": "\u00a7 21",
         "title": "Besch\u00e4ftigung in der Binnenschifffahrt",
         "parent": {
@@ -347,6 +374,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE003501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE003501308",
         "name": "\u00a7 21a",
         "title": "Besch\u00e4ftigung im Stra\u00dfentransport",
         "parent": {
@@ -360,6 +388,7 @@
       {
         "type": "heading",
         "id": "BJNR117100994BJNG000700307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNG000700307",
         "name": "Siebter Abschnitt",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null
@@ -367,6 +396,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE003004119",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE003004119",
         "name": "\u00a7 22",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -380,6 +410,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE003100307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE003100307",
         "name": "\u00a7 23",
         "title": "Strafvorschriften",
         "parent": {
@@ -393,6 +424,7 @@
       {
         "type": "heading",
         "id": "BJNR117100994BJNG000800307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNG000800307",
         "name": "Achter Abschnitt",
         "title": "Schlu\u00dfvorschriften",
         "parent": null
@@ -400,6 +432,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE003200307",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE003200307",
         "name": "\u00a7 24",
         "title": "Umsetzung von zwischenstaatlichen Vereinbarungen\nund Rechtsakten der EG",
         "parent": {
@@ -413,6 +446,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE003302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE003302308",
         "name": "\u00a7 25",
         "title": "\u00dcbergangsregelung f\u00fcr Tarifvertr\u00e4ge",
         "parent": {
@@ -426,6 +460,7 @@
       {
         "type": "article",
         "id": "BJNR117100994BJNE003401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/arbzg/articles/BJNR117100994BJNE003401308",
         "name": "\u00a7 26",
         "title": null,
         "parent": {

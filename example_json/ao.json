@@ -38,6 +38,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE009356123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE009356123",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -48,6 +49,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000101301",
         "name": "Erster Teil",
         "title": "Einleitende Vorschriften",
         "parent": null
@@ -55,6 +57,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000201301",
         "name": "Erster Abschnitt",
         "title": "Anwendungsbereich",
         "parent": {
@@ -65,6 +68,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE009404360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE009404360",
         "name": "\u00a7 1",
         "title": "Anwendungsbereich",
         "parent": {
@@ -78,6 +82,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE009503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE009503377",
         "name": "\u00a7 2",
         "title": "Vorrang v\u00f6lkerrechtlicher Vereinbarungen",
         "parent": {
@@ -91,6 +96,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056101123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056101123",
         "name": "\u00a7 2a",
         "title": "Anwendungsbereich der Vorschriften \u00fcber die Verarbeitung personenbezogener Daten",
         "parent": {
@@ -104,6 +110,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000301301",
         "name": "Zweiter Abschnitt",
         "title": "Steuerliche Begriffsbestimmungen",
         "parent": {
@@ -114,6 +121,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE009608377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE009608377",
         "name": "\u00a7 3",
         "title": "Steuern, steuerliche Nebenleistungen",
         "parent": {
@@ -127,6 +135,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE009701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE009701301",
         "name": "\u00a7 4",
         "title": "Gesetz",
         "parent": {
@@ -140,6 +149,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE009801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE009801301",
         "name": "\u00a7 5",
         "title": "Ermessen",
         "parent": {
@@ -153,6 +163,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE009920360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE009920360",
         "name": "\u00a7 6",
         "title": "Beh\u00f6rden, \u00f6ffentliche und nicht-\u00f6ffentliche Stellen, Finanzbeh\u00f6rden",
         "parent": {
@@ -166,6 +177,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010002360",
         "name": "\u00a7 7",
         "title": "Amtstr\u00e4ger",
         "parent": {
@@ -179,6 +191,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010101301",
         "name": "\u00a7 8",
         "title": "Wohnsitz",
         "parent": {
@@ -192,6 +205,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010201301",
         "name": "\u00a7 9",
         "title": "Gew\u00f6hnlicher Aufenthalt",
         "parent": {
@@ -205,6 +219,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010301301",
         "name": "\u00a7 10",
         "title": "Gesch\u00e4ftsleitung",
         "parent": {
@@ -218,6 +233,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010401301",
         "name": "\u00a7 11",
         "title": "Sitz",
         "parent": {
@@ -231,6 +247,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010501301",
         "name": "\u00a7 12",
         "title": "Betriebst\u00e4tte",
         "parent": {
@@ -244,6 +261,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010601301",
         "name": "\u00a7 13",
         "title": "St\u00e4ndiger Vertreter",
         "parent": {
@@ -257,6 +275,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010701301",
         "name": "\u00a7 14",
         "title": "Wirtschaftlicher Gesch\u00e4ftsbetrieb",
         "parent": {
@@ -270,6 +289,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010803123",
         "name": "\u00a7 15",
         "title": "Angeh\u00f6rige",
         "parent": {
@@ -283,6 +303,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000401301",
         "name": "Dritter Abschnitt",
         "title": "Zust\u00e4ndigkeit der Finanzbeh\u00f6rden",
         "parent": {
@@ -293,6 +314,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE010901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE010901301",
         "name": "\u00a7 16",
         "title": "Sachliche Zust\u00e4ndigkeit",
         "parent": {
@@ -306,6 +328,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011001301",
         "name": "\u00a7 17",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -319,6 +342,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011103377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011103377",
         "name": "\u00a7 18",
         "title": "Gesonderte Feststellungen",
         "parent": {
@@ -332,6 +356,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011206119",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011206119",
         "name": "\u00a7 19",
         "title": "Steuern vom Einkommen und Verm\u00f6gen nat\u00fcrlicher Personen",
         "parent": {
@@ -345,6 +370,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011301301",
         "name": "\u00a7 20",
         "title": "Steuern vom Einkommen und Verm\u00f6gen der K\u00f6rperschaften,\nPersonenvereinigungen, Verm\u00f6gensmassen",
         "parent": {
@@ -358,6 +384,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052102301",
         "name": "\u00a7 20a",
         "title": "Steuern vom Einkommen bei Bauleistungen",
         "parent": {
@@ -371,6 +398,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011407377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011407377",
         "name": "\u00a7 21",
         "title": "Umsatzsteuer",
         "parent": {
@@ -384,6 +412,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011502301",
         "name": "\u00a7 22",
         "title": "Realsteuern",
         "parent": {
@@ -397,6 +426,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053900119",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053900119",
         "name": "\u00a7 22a",
         "title": "Zust\u00e4ndigkeit auf dem Festlandsockel oder an der ausschlie\u00dflichen Wirtschaftszone",
         "parent": {
@@ -410,6 +440,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011605377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011605377",
         "name": "\u00a7 23",
         "title": "Einfuhr- und Ausfuhrabgaben und Verbrauchsteuern",
         "parent": {
@@ -423,6 +454,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011701301",
         "name": "\u00a7 24",
         "title": "Ersatzzust\u00e4ndigkeit",
         "parent": {
@@ -436,6 +468,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011801301",
         "name": "\u00a7 25",
         "title": "Mehrfache \u00f6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -449,6 +482,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE011902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE011902301",
         "name": "\u00a7 26",
         "title": "Zust\u00e4ndigkeitswechsel",
         "parent": {
@@ -462,6 +496,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012003123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012003123",
         "name": "\u00a7 27",
         "title": "Zust\u00e4ndigkeitsvereinbarung",
         "parent": {
@@ -475,6 +510,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012101301",
         "name": "\u00a7 28",
         "title": "Zust\u00e4ndigkeitsstreit",
         "parent": {
@@ -488,6 +524,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012201301",
         "name": "\u00a7 29",
         "title": "Gefahr im Verzug",
         "parent": {
@@ -501,6 +538,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054000377",
         "name": "\u00a7 29a",
         "title": "Unterst\u00fctzung des \u00f6rtlich zust\u00e4ndigen Finanzamts auf Anweisung der vorgesetzten Finanzbeh\u00f6rde",
         "parent": {
@@ -514,6 +552,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000502360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000502360",
         "name": "Vierter Abschnitt",
         "title": "Verarbeitung gesch\u00fctzter Daten und Steuergeheimnis",
         "parent": {
@@ -524,6 +563,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056200360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056200360",
         "name": "\u00a7 29b",
         "title": "Verarbeitung personenbezogener Daten durch Finanzbeh\u00f6rden",
         "parent": {
@@ -537,6 +577,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056300360",
         "name": "\u00a7 29c",
         "title": "Verarbeitung personenbezogener Daten durch Finanzbeh\u00f6rden zu anderen Zwecken",
         "parent": {
@@ -550,6 +591,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012312123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012312123",
         "name": "\u00a7 30",
         "title": "Steuergeheimnis",
         "parent": {
@@ -563,6 +605,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051402116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051402116",
         "name": "\u00a7 30a",
         "title": "(weggefallen)",
         "parent": {
@@ -576,6 +619,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012407123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012407123",
         "name": "\u00a7 31",
         "title": "Mitteilung von Besteuerungsgrundlagen",
         "parent": {
@@ -589,6 +633,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051107123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051107123",
         "name": "\u00a7 31a",
         "title": "Mitteilungen zur Bek\u00e4mpfung der illegalen Besch\u00e4ftigung und des Leistungsmissbrauchs",
         "parent": {
@@ -602,6 +647,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052309123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052309123",
         "name": "\u00a7 31b",
         "title": "Mitteilungen zur Bek\u00e4mpfung der Geldw\u00e4sche und der Terrorismusfinanzierung",
         "parent": {
@@ -615,6 +661,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056400360",
         "name": "\u00a7 31c",
         "title": "Verarbeitung besonderer Kategorien personenbezogener Daten durch Finanzbeh\u00f6rden zu statistischen Zwecken",
         "parent": {
@@ -628,6 +675,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000601301",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Haftungsbeschr\u00e4nkung f\u00fcr Amtstr\u00e4ger",
         "parent": {
@@ -638,6 +686,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012501301",
         "name": "\u00a7 32",
         "title": "Haftungsbeschr\u00e4nkung f\u00fcr Amtstr\u00e4ger",
         "parent": {
@@ -651,6 +700,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG009400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG009400360",
         "name": "Sechster Abschnitt",
         "title": "Rechte der betroffenen Person",
         "parent": {
@@ -661,6 +711,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056501123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056501123",
         "name": "\u00a7 32a",
         "title": "Informationspflicht der Finanzbeh\u00f6rde bei Erhebung personenbezogener Daten bei betroffenen Personen",
         "parent": {
@@ -674,6 +725,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056600360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056600360",
         "name": "\u00a7 32b",
         "title": "Informationspflicht der Finanzbeh\u00f6rde, wenn personenbezogene Daten nicht bei der betroffenen Person erhoben wurden",
         "parent": {
@@ -687,6 +739,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056700360",
         "name": "\u00a7 32c",
         "title": "Auskunftsrecht der betroffenen Person",
         "parent": {
@@ -700,6 +753,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056800360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056800360",
         "name": "\u00a7 32d",
         "title": "Form der Information oder Auskunftserteilung",
         "parent": {
@@ -713,6 +767,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE056900360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE056900360",
         "name": "\u00a7 32e",
         "title": "Verh\u00e4ltnis zu anderen Auskunfts- und Informationszugangsanspr\u00fcchen",
         "parent": {
@@ -726,6 +781,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057001123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057001123",
         "name": "\u00a7 32f",
         "title": "Recht auf Berichtigung und L\u00f6schung, Widerspruchsrecht",
         "parent": {
@@ -739,6 +795,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG009500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG009500360",
         "name": "Siebter Abschnitt",
         "title": "Datenschutzaufsicht, Gerichtlicher Rechtsschutz in datenschutzrechtlichen Angelegenheiten",
         "parent": {
@@ -749,6 +806,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057100360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057100360",
         "name": "\u00a7 32g",
         "title": "Datenschutzbeauftragte der Finanzbeh\u00f6rden",
         "parent": {
@@ -762,6 +820,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057200360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057200360",
         "name": "\u00a7 32h",
         "title": "Datenschutzrechtliche Aufsicht, Datenschutz-Folgenabsch\u00e4tzung",
         "parent": {
@@ -775,6 +834,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057300360",
         "name": "\u00a7 32i",
         "title": "Gerichtlicher Rechtsschutz",
         "parent": {
@@ -788,6 +848,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057400360",
         "name": "\u00a7 32j",
         "title": "Antrag auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Angemessenheitsbeschlusses der Europ\u00e4ischen Kommission",
         "parent": {
@@ -801,6 +862,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000701301",
         "name": "Zweiter Teil",
         "title": "Steuerschuldrecht",
         "parent": null
@@ -808,6 +870,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000801301",
         "name": "Erster Abschnitt",
         "title": "Steuerpflichtiger",
         "parent": {
@@ -818,6 +881,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012601301",
         "name": "\u00a7 33",
         "title": "Steuerpflichtiger",
         "parent": {
@@ -831,6 +895,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012701301",
         "name": "\u00a7 34",
         "title": "Pflichten der gesetzlichen Vertreter und der Verm\u00f6gensverwalter",
         "parent": {
@@ -844,6 +909,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012801301",
         "name": "\u00a7 35",
         "title": "Pflichten des Verf\u00fcgungsberechtigten",
         "parent": {
@@ -857,6 +923,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE012901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE012901301",
         "name": "\u00a7 36",
         "title": "Erl\u00f6schen der Vertretungsmacht",
         "parent": {
@@ -870,6 +937,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG000901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG000901301",
         "name": "Zweiter Abschnitt",
         "title": "Steuerschuldverh\u00e4ltnis",
         "parent": {
@@ -880,6 +948,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013002301",
         "name": "\u00a7 37",
         "title": "Anspr\u00fcche aus dem Steuerschuldverh\u00e4ltnis",
         "parent": {
@@ -893,6 +962,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013101301",
         "name": "\u00a7 38",
         "title": "Entstehung der Anspr\u00fcche aus dem Steuerschuldverh\u00e4ltnis",
         "parent": {
@@ -906,6 +976,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013201301",
         "name": "\u00a7 39",
         "title": "Zurechnung",
         "parent": {
@@ -919,6 +990,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013301301",
         "name": "\u00a7 40",
         "title": "Gesetz- oder sittenwidriges Handeln",
         "parent": {
@@ -932,6 +1004,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013401301",
         "name": "\u00a7 41",
         "title": "Unwirksame Rechtsgesch\u00e4fte",
         "parent": {
@@ -945,6 +1018,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013503301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013503301",
         "name": "\u00a7 42",
         "title": "Missbrauch von rechtlichen Gestaltungsm\u00f6glichkeiten",
         "parent": {
@@ -958,6 +1032,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013601301",
         "name": "\u00a7 43",
         "title": "Steuerschuldner, Steuerverg\u00fctungsgl\u00e4ubiger",
         "parent": {
@@ -971,6 +1046,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013701301",
         "name": "\u00a7 44",
         "title": "Gesamtschuldner",
         "parent": {
@@ -984,6 +1060,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013801301",
         "name": "\u00a7 45",
         "title": "Gesamtrechtsnachfolge",
         "parent": {
@@ -997,6 +1074,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE013901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE013901301",
         "name": "\u00a7 46",
         "title": "Abtretung, Verpf\u00e4ndung, Pf\u00e4ndung",
         "parent": {
@@ -1010,6 +1088,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014002301",
         "name": "\u00a7 47",
         "title": "Erl\u00f6schen",
         "parent": {
@@ -1023,6 +1102,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014101301",
         "name": "\u00a7 48",
         "title": "Leistung durch Dritte, Haftung Dritter",
         "parent": {
@@ -1036,6 +1116,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014201301",
         "name": "\u00a7 49",
         "title": "Verschollenheit",
         "parent": {
@@ -1049,6 +1130,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014301301",
         "name": "\u00a7 50",
         "title": "Erl\u00f6schen und Unbedingtwerden der Verbrauchsteuer,\n\u00dcbergang der bedingten Verbrauchsteuerschuld",
         "parent": {
@@ -1062,6 +1144,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001001301",
         "name": "Dritter Abschnitt",
         "title": "Steuerbeg\u00fcnstigte Zwecke",
         "parent": {
@@ -1072,6 +1155,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014403140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014403140",
         "name": "\u00a7 51",
         "title": "Allgemeines",
         "parent": {
@@ -1085,6 +1169,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014505301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014505301",
         "name": "\u00a7 52",
         "title": "Gemeinn\u00fctzige Zwecke",
         "parent": {
@@ -1098,6 +1183,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014605140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014605140",
         "name": "\u00a7 53",
         "title": "Mildt\u00e4tige Zwecke",
         "parent": {
@@ -1111,6 +1197,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014701301",
         "name": "\u00a7 54",
         "title": "Kirchliche Zwecke",
         "parent": {
@@ -1124,6 +1211,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014809140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014809140",
         "name": "\u00a7 55",
         "title": "Selbstlosigkeit",
         "parent": {
@@ -1137,6 +1225,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE014901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE014901301",
         "name": "\u00a7 56",
         "title": "Ausschlie\u00dflichkeit",
         "parent": {
@@ -1150,6 +1239,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015001301",
         "name": "\u00a7 57",
         "title": "Unmittelbarkeit",
         "parent": {
@@ -1163,6 +1253,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015111140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015111140",
         "name": "\u00a7 58",
         "title": "Steuerlich unsch\u00e4dliche Bet\u00e4tigungen",
         "parent": {
@@ -1176,6 +1267,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015201301",
         "name": "\u00a7 59",
         "title": "Voraussetzung der Steuerverg\u00fcnstigung",
         "parent": {
@@ -1189,6 +1281,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015302140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015302140",
         "name": "\u00a7 60",
         "title": "Anforderungen an die Satzung",
         "parent": {
@@ -1202,6 +1295,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053700140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053700140",
         "name": "\u00a7 60a",
         "title": "Feststellung der satzungsm\u00e4\u00dfigen Voraussetzungen",
         "parent": {
@@ -1215,6 +1309,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015404301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015404301",
         "name": "\u00a7 61",
         "title": "Satzungsm\u00e4\u00dfige Verm\u00f6gensbindung",
         "parent": {
@@ -1228,6 +1323,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015504140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015504140",
         "name": "\u00a7 62",
         "title": "R\u00fccklagen und Verm\u00f6gensbildung",
         "parent": {
@@ -1241,6 +1337,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015604119",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015604119",
         "name": "\u00a7 63",
         "title": "Anforderungen an die tats\u00e4chliche Gesch\u00e4ftsf\u00fchrung",
         "parent": {
@@ -1254,6 +1351,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015707301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015707301",
         "name": "\u00a7 64",
         "title": "Steuerpflichtige wirtschaftliche Gesch\u00e4ftsbetriebe",
         "parent": {
@@ -1267,6 +1365,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015801301",
         "name": "\u00a7 65",
         "title": "Zweckbetrieb",
         "parent": {
@@ -1280,6 +1379,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE015901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE015901301",
         "name": "\u00a7 66",
         "title": "Wohlfahrtspflege",
         "parent": {
@@ -1293,6 +1393,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016005301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016005301",
         "name": "\u00a7 67",
         "title": "Krankenh\u00e4user",
         "parent": {
@@ -1306,6 +1407,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051205140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051205140",
         "name": "\u00a7 67a",
         "title": "Sportliche Veranstaltungen",
         "parent": {
@@ -1319,6 +1421,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016112377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016112377",
         "name": "\u00a7 68",
         "title": "Einzelne Zweckbetriebe",
         "parent": {
@@ -1332,6 +1435,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001101301",
         "name": "Vierter Abschnitt",
         "title": "Haftung",
         "parent": {
@@ -1342,6 +1446,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016202301",
         "name": "\u00a7 69",
         "title": "Haftung der Vertreter",
         "parent": {
@@ -1355,6 +1460,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016301301",
         "name": "\u00a7 70",
         "title": "Haftung des Vertretenen",
         "parent": {
@@ -1368,6 +1474,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016402377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016402377",
         "name": "\u00a7 71",
         "title": "Haftung des Steuerhinterziehers und des Steuerhehlers",
         "parent": {
@@ -1381,6 +1488,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016501301",
         "name": "\u00a7 72",
         "title": "Haftung bei Verletzung der Pflicht zur Kontenwahrheit",
         "parent": {
@@ -1394,6 +1502,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054101360",
         "name": "\u00a7 72a",
         "title": "Haftung Dritter bei Daten\u00fcbermittlungen an Finanzbeh\u00f6rden",
         "parent": {
@@ -1407,6 +1516,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016602123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016602123",
         "name": "\u00a7 73",
         "title": "Haftung bei Organschaft",
         "parent": {
@@ -1420,6 +1530,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016701301",
         "name": "\u00a7 74",
         "title": "Haftung des Eigent\u00fcmers von Gegenst\u00e4nden",
         "parent": {
@@ -1433,6 +1544,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016802301",
         "name": "\u00a7 75",
         "title": "Haftung des Betriebs\u00fcbernehmers",
         "parent": {
@@ -1446,6 +1558,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE016903301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE016903301",
         "name": "\u00a7 76",
         "title": "Sachhaftung",
         "parent": {
@@ -1459,6 +1572,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017001301",
         "name": "\u00a7 77",
         "title": "Duldungspflicht",
         "parent": {
@@ -1472,6 +1586,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001201301",
         "name": "Dritter Teil",
         "title": "Allgemeine Verfahrensvorschriften",
         "parent": null
@@ -1479,6 +1594,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001301301",
         "name": "Erster Abschnitt",
         "title": "Verfahrensgrunds\u00e4tze",
         "parent": {
@@ -1489,6 +1605,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001401301",
         "name": "1. Unterabschnitt",
         "title": "Beteiligung am Verfahren",
         "parent": {
@@ -1499,6 +1616,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017101301",
         "name": "\u00a7 78",
         "title": "Beteiligte",
         "parent": {
@@ -1512,6 +1630,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017202301",
         "name": "\u00a7 79",
         "title": "Handlungsf\u00e4higkeit",
         "parent": {
@@ -1525,6 +1644,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017306123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017306123",
         "name": "\u00a7 80",
         "title": "Bevollm\u00e4chtigte und Beist\u00e4nde",
         "parent": {
@@ -1538,6 +1658,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054200377",
         "name": "\u00a7 80a",
         "title": "Elektronische \u00dcbermittlung von Vollmachtsdaten an Landesfinanzbeh\u00f6rden",
         "parent": {
@@ -1551,6 +1672,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017504377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017504377",
         "name": "\u00a7 81",
         "title": "Bestellung eines Vertreters von Amts wegen",
         "parent": {
@@ -1564,6 +1686,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001501301",
         "name": "2. Unterabschnitt",
         "title": "Ausschlie\u00dfung und Ablehnung\nvon Amtstr\u00e4gern und anderen Personen",
         "parent": {
@@ -1574,6 +1697,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017602123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017602123",
         "name": "\u00a7 82",
         "title": "Ausgeschlossene Personen",
         "parent": {
@@ -1587,6 +1711,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017701301",
         "name": "\u00a7 83",
         "title": "Besorgnis der Befangenheit",
         "parent": {
@@ -1600,6 +1725,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017801301",
         "name": "\u00a7 84",
         "title": "Ablehnung von Mitgliedern eines Ausschusses",
         "parent": {
@@ -1613,6 +1739,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001601301",
         "name": "3. Unterabschnitt",
         "title": "Besteuerungsgrunds\u00e4tze,\nBeweismittel",
         "parent": {
@@ -1623,6 +1750,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001701301",
         "name": "I.",
         "title": "Allgemeines",
         "parent": {
@@ -1633,6 +1761,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE017901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE017901301",
         "name": "\u00a7 85",
         "title": "Besteuerungsgrunds\u00e4tze",
         "parent": {
@@ -1646,6 +1775,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018001301",
         "name": "\u00a7 86",
         "title": "Beginn des Verfahrens",
         "parent": {
@@ -1659,6 +1789,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018103301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018103301",
         "name": "\u00a7 87",
         "title": "Amtssprache",
         "parent": {
@@ -1672,6 +1803,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052509123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052509123",
         "name": "\u00a7 87a",
         "title": "Elektronische Kommunikation",
         "parent": {
@@ -1685,6 +1817,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054300377",
         "name": "\u00a7 87b",
         "title": "Bedingungen f\u00fcr die elektronische \u00dcbermittlung von Daten an Finanzbeh\u00f6rden",
         "parent": {
@@ -1698,6 +1831,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054401360",
         "name": "\u00a7 87c",
         "title": "Nicht amtliche Datenverarbeitungsprogramme f\u00fcr das Besteuerungsverfahren",
         "parent": {
@@ -1711,6 +1845,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054500377",
         "name": "\u00a7 87d",
         "title": "Daten\u00fcbermittlungen an Finanzbeh\u00f6rden im Auftrag",
         "parent": {
@@ -1724,6 +1859,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054600377",
         "name": "\u00a7 87e",
         "title": "Ausnahmeregelung f\u00fcr Einfuhr- und Ausfuhrabgaben, Verbrauchsteuern und die Luftverkehrsteuer",
         "parent": {
@@ -1737,6 +1873,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018205360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018205360",
         "name": "\u00a7 88",
         "title": "Untersuchungsgrundsatz",
         "parent": {
@@ -1750,6 +1887,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051702360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051702360",
         "name": "\u00a7 88a",
         "title": "Sammlung von gesch\u00fctzten Daten",
         "parent": {
@@ -1763,6 +1901,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054700377",
         "name": "\u00a7 88b",
         "title": "L\u00e4nder\u00fcbergreifender Abruf und Verwendung von Daten zur Verh\u00fctung, Ermittlung und Verfolgung von Steuerverk\u00fcrzungen",
         "parent": {
@@ -1776,6 +1915,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018307377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018307377",
         "name": "\u00a7 89",
         "title": "Beratung, Auskunft",
         "parent": {
@@ -1789,6 +1929,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018406377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018406377",
         "name": "\u00a7 90",
         "title": "Mitwirkungspflichten der Beteiligten",
         "parent": {
@@ -1802,6 +1943,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018501301",
         "name": "\u00a7 91",
         "title": "Anh\u00f6rung Beteiligter",
         "parent": {
@@ -1815,6 +1957,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018601301",
         "name": "\u00a7 92",
         "title": "Beweismittel",
         "parent": {
@@ -1828,6 +1971,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001801301",
         "name": "II.",
         "title": "Beweis durch Ausk\u00fcnfte und\nSachverst\u00e4ndigengutachten",
         "parent": {
@@ -1838,6 +1982,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018714123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018714123",
         "name": "\u00a7 93",
         "title": "Auskunftspflicht der Beteiligten und anderer Personen",
         "parent": {
@@ -1851,6 +1996,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051306123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051306123",
         "name": "\u00a7 93a",
         "title": "Allgemeine Mitteilungspflichten",
         "parent": {
@@ -1864,6 +2010,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053004360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053004360",
         "name": "\u00a7 93b",
         "title": "Automatisierter Abruf von Kontoinformationen",
         "parent": {
@@ -1877,6 +2024,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054801360",
         "name": "\u00a7 93c",
         "title": "Daten\u00fcbermittlung durch Dritte",
         "parent": {
@@ -1890,6 +2038,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE054900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE054900377",
         "name": "\u00a7 93d",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1903,6 +2052,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018801301",
         "name": "\u00a7 94",
         "title": "Eidliche Vernehmung",
         "parent": {
@@ -1916,6 +2066,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE018901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE018901301",
         "name": "\u00a7 95",
         "title": "Versicherung an Eides statt",
         "parent": {
@@ -1929,6 +2080,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019001301",
         "name": "\u00a7 96",
         "title": "Hinzuziehung von Sachverst\u00e4ndigen",
         "parent": {
@@ -1942,6 +2094,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG001901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG001901301",
         "name": "III.",
         "title": "Beweis durch Urkunden und Augenschein",
         "parent": {
@@ -1952,6 +2105,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019102140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019102140",
         "name": "\u00a7 97",
         "title": "Vorlage von Urkunden",
         "parent": {
@@ -1965,6 +2119,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019201301",
         "name": "\u00a7 98",
         "title": "Einnahme des Augenscheins",
         "parent": {
@@ -1978,6 +2133,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019301301",
         "name": "\u00a7 99",
         "title": "Betreten von Grundst\u00fccken und R\u00e4umen",
         "parent": {
@@ -1991,6 +2147,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019401301",
         "name": "\u00a7 100",
         "title": "Vorlage von Wertsachen",
         "parent": {
@@ -2004,6 +2161,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002001301",
         "name": "IV.",
         "title": "Auskunfts- und Vorlageverweigerungsrechte",
         "parent": {
@@ -2014,6 +2172,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019501301",
         "name": "\u00a7 101",
         "title": "Auskunfts- und Eidesverweigerungsrecht der Angeh\u00f6rigen",
         "parent": {
@@ -2027,6 +2186,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057800123",
         "name": "\u00a7 102",
         "title": "Auskunftsverweigerungsrecht zum Schutz bestimmter Berufsgeheimnisse",
         "parent": {
@@ -2040,6 +2200,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019702360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019702360",
         "name": "\u00a7 103",
         "title": "Auskunftsverweigerungsrecht bei Gefahr der Verfolgung wegen einer Straftat oder einer Ordnungswidrigkeit",
         "parent": {
@@ -2053,6 +2214,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019801301",
         "name": "\u00a7 104",
         "title": "Verweigerung der Erstattung eines Gutachtens und der\nVorlage von Urkunden",
         "parent": {
@@ -2066,6 +2228,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE019903301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE019903301",
         "name": "\u00a7 105",
         "title": "Verh\u00e4ltnis der Auskunfts- und Vorlagepflicht zur\nSchweigepflicht \u00f6ffentlicher Stellen",
         "parent": {
@@ -2079,6 +2242,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020001301",
         "name": "\u00a7 106",
         "title": "Beschr\u00e4nkung der Auskunfts- und Vorlagepflicht bei\nBeeintr\u00e4chtigung des staatlichen Wohls",
         "parent": {
@@ -2092,6 +2256,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002101301",
         "name": "V.",
         "title": "Entsch\u00e4digung der Auskunftspflichtigen\nund der Sachverst\u00e4ndigen",
         "parent": {
@@ -2102,6 +2267,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020103140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020103140",
         "name": "\u00a7 107",
         "title": "Entsch\u00e4digung der Auskunftspflichtigen und der Sachverst\u00e4ndigen",
         "parent": {
@@ -2115,6 +2281,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002201301",
         "name": "4. Unterabschnitt",
         "title": "Fristen, Termine, Wiedereinsetzung",
         "parent": {
@@ -2125,6 +2292,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020202123",
         "name": "\u00a7 108",
         "title": "Fristen und Termine",
         "parent": {
@@ -2138,6 +2306,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020303123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020303123",
         "name": "\u00a7 109",
         "title": "Verl\u00e4ngerung von Fristen",
         "parent": {
@@ -2151,6 +2320,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020401301",
         "name": "\u00a7 110",
         "title": "Wiedereinsetzung in den vorigen Stand",
         "parent": {
@@ -2164,6 +2334,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002301301",
         "name": "5. Unterabschnitt",
         "title": "Rechts- und Amtshilfe",
         "parent": {
@@ -2174,6 +2345,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020504301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020504301",
         "name": "\u00a7 111",
         "title": "Amtshilfepflicht",
         "parent": {
@@ -2187,6 +2359,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020601301",
         "name": "\u00a7 112",
         "title": "Voraussetzungen und Grenzen der Amtshilfe",
         "parent": {
@@ -2200,6 +2373,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020701301",
         "name": "\u00a7 113",
         "title": "Auswahl der Beh\u00f6rde",
         "parent": {
@@ -2213,6 +2387,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020801301",
         "name": "\u00a7 114",
         "title": "Durchf\u00fchrung der Amtshilfe",
         "parent": {
@@ -2226,6 +2401,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE020902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE020902301",
         "name": "\u00a7 115",
         "title": "Kosten der Amtshilfe",
         "parent": {
@@ -2239,6 +2415,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021004301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021004301",
         "name": "\u00a7 116",
         "title": "Anzeige von Steuerstraftaten",
         "parent": {
@@ -2252,6 +2429,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021105140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021105140",
         "name": "\u00a7 117",
         "title": "Zwischenstaatliche Rechts- und Amtshilfe in Steuersachen",
         "parent": {
@@ -2265,6 +2443,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053500377",
         "name": "\u00a7 117a",
         "title": "\u00dcbermittlung personenbezogener Daten an Mitgliedstaaten der Europ\u00e4ischen Union",
         "parent": {
@@ -2278,6 +2457,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053600377",
         "name": "\u00a7 117b",
         "title": "Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates \u00fcbermittelten Daten",
         "parent": {
@@ -2291,6 +2471,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053805116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053805116",
         "name": "\u00a7 117c",
         "title": "Umsetzung innerstaatlich anwendbarer v\u00f6lkerrechtlicher Vereinbarungen zur F\u00f6rderung der Steuerehrlichkeit bei internationalen Sachverhalten",
         "parent": {
@@ -2304,6 +2485,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057700123",
         "name": "\u00a7 117d",
         "title": "Statistiken \u00fcber die zwischenstaatliche Amts- und Rechtshilfe",
         "parent": {
@@ -2317,6 +2499,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002401301",
         "name": "Zweiter Abschnitt",
         "title": "Verwaltungsakte",
         "parent": {
@@ -2327,6 +2510,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021201301",
         "name": "\u00a7 118",
         "title": "Begriff des Verwaltungsakts",
         "parent": {
@@ -2340,6 +2524,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021304123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021304123",
         "name": "\u00a7 119",
         "title": "Bestimmtheit und Form des Verwaltungsakts",
         "parent": {
@@ -2353,6 +2538,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021401301",
         "name": "\u00a7 120",
         "title": "Nebenbestimmungen zum Verwaltungsakt",
         "parent": {
@@ -2366,6 +2552,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021502301",
         "name": "\u00a7 121",
         "title": "Begr\u00fcndung des Verwaltungsakts",
         "parent": {
@@ -2379,6 +2566,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021606377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021606377",
         "name": "\u00a7 122",
         "title": "Bekanntgabe des Verwaltungsakts",
         "parent": {
@@ -2392,6 +2580,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055000377",
         "name": "\u00a7 122a",
         "title": "Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf",
         "parent": {
@@ -2405,6 +2594,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021704116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021704116",
         "name": "\u00a7 123",
         "title": "Bestellung eines Empfangsbevollm\u00e4chtigten",
         "parent": {
@@ -2418,6 +2608,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021801301",
         "name": "\u00a7 124",
         "title": "Wirksamkeit des Verwaltungsakts",
         "parent": {
@@ -2431,6 +2622,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE021902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE021902301",
         "name": "\u00a7 125",
         "title": "Nichtigkeit des Verwaltungsakts",
         "parent": {
@@ -2444,6 +2636,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022003301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022003301",
         "name": "\u00a7 126",
         "title": "Heilung von Verfahrens- und Formfehlern",
         "parent": {
@@ -2457,6 +2650,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022101301",
         "name": "\u00a7 127",
         "title": "Folgen von Verfahrens- und Formfehlern",
         "parent": {
@@ -2470,6 +2664,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022202123",
         "name": "\u00a7 128",
         "title": "Umdeutung eines fehlerhaften Verwaltungsakts",
         "parent": {
@@ -2483,6 +2678,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022302301",
         "name": "\u00a7 129",
         "title": "Offenbare Unrichtigkeiten beim Erlass eines Verwaltungsakts",
         "parent": {
@@ -2496,6 +2692,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022401301",
         "name": "\u00a7 130",
         "title": "R\u00fccknahme eines rechtswidrigen Verwaltungsakts",
         "parent": {
@@ -2509,6 +2706,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022501301",
         "name": "\u00a7 131",
         "title": "Widerruf eines rechtm\u00e4\u00dfigen Verwaltungsakts",
         "parent": {
@@ -2522,6 +2720,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022602301",
         "name": "\u00a7 132",
         "title": "R\u00fccknahme, Widerruf, Aufhebung und \u00c4nderung im\nRechtsbehelfsverfahren",
         "parent": {
@@ -2535,6 +2734,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022701301",
         "name": "\u00a7 133",
         "title": "R\u00fcckgabe von Urkunden und Sachen",
         "parent": {
@@ -2548,6 +2748,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002501301",
         "name": "Vierter Teil",
         "title": "Durchf\u00fchrung der Besteuerung",
         "parent": null
@@ -2555,6 +2756,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002601301",
         "name": "Erster Abschnitt",
         "title": "Erfassung der Steuerpflichtigen",
         "parent": {
@@ -2565,6 +2767,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002701301",
         "name": "1. Unterabschnitt",
         "title": "Personenstands- und Betriebsaufnahme",
         "parent": {
@@ -2575,6 +2778,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE022803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE022803377",
         "name": "(XXXX) \u00a7\u00a7 134 bis 136",
         "title": "(weggefallen)",
         "parent": {
@@ -2588,6 +2792,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002801301",
         "name": "2. Unterabschnitt",
         "title": "Anzeigepflichten",
         "parent": {
@@ -2598,6 +2803,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023101301",
         "name": "\u00a7 137",
         "title": "Steuerliche Erfassung von K\u00f6rperschaften, Vereinigungen\nund Verm\u00f6gensmassen",
         "parent": {
@@ -2611,6 +2817,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023211123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023211123",
         "name": "\u00a7 138",
         "title": "Anzeigen \u00fcber die Erwerbst\u00e4tigkeit",
         "parent": {
@@ -2624,6 +2831,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055501123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055501123",
         "name": "\u00a7 138a",
         "title": "L\u00e4nderbezogener Bericht multinationaler Unternehmensgruppen",
         "parent": {
@@ -2637,6 +2845,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055801360",
         "name": "\u00a7 138b",
         "title": "Mitteilungspflicht Dritter \u00fcber Beziehungen inl\u00e4ndischer Steuerpflichtiger zu Drittstaat-Gesellschaften",
         "parent": {
@@ -2650,6 +2859,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055900116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055900116",
         "name": "\u00a7 138c",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2663,6 +2873,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057900123",
         "name": "\u00a7 138d",
         "title": "Pflicht zur Mitteilung grenz\u00fcberschreitender Steuergestaltungen",
         "parent": {
@@ -2676,6 +2887,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE058000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE058000123",
         "name": "\u00a7 138e",
         "title": "Kennzeichen grenz\u00fcberschreitender Steuergestaltungen",
         "parent": {
@@ -2689,6 +2901,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE058100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE058100123",
         "name": "\u00a7 138f",
         "title": "Verfahren zur Mitteilung grenz\u00fcberschreitender Steuergestaltungen durch Intermedi\u00e4re",
         "parent": {
@@ -2702,6 +2915,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE058200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE058200123",
         "name": "\u00a7 138g",
         "title": "Verfahren zur Mitteilung grenz\u00fcberschreitender Steuergestaltungen durch Nutzer",
         "parent": {
@@ -2715,6 +2929,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE058300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE058300123",
         "name": "\u00a7 138h",
         "title": "Mitteilungen bei marktf\u00e4higen grenz\u00fcberschreitenden Steuergestaltungen",
         "parent": {
@@ -2728,6 +2943,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE058400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE058400123",
         "name": "\u00a7 138i",
         "title": "Information der Landesfinanzbeh\u00f6rden",
         "parent": {
@@ -2741,6 +2957,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE058500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE058500123",
         "name": "\u00a7 138j",
         "title": "Auswertung der Mitteilungen grenz\u00fcberschreitender Steuergestaltungen",
         "parent": {
@@ -2754,6 +2971,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE058600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE058600123",
         "name": "\u00a7 138k",
         "title": "Angabe der grenz\u00fcberschreitenden Steuergestaltung in der Steuererkl\u00e4rung",
         "parent": {
@@ -2767,6 +2985,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023303140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023303140",
         "name": "\u00a7 139",
         "title": "Anmeldung von Betrieben in besonderen F\u00e4llen",
         "parent": {
@@ -2780,6 +2999,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG009300301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG009300301",
         "name": "3. Unterabschnitt",
         "title": "Identifikationsmerkmal",
         "parent": {
@@ -2790,6 +3010,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052602377",
         "name": "\u00a7 139a",
         "title": "Identifikationsmerkmal",
         "parent": {
@@ -2803,6 +3024,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052711360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052711360",
         "name": "\u00a7 139b",
         "title": "Identifikationsnummer",
         "parent": {
@@ -2816,6 +3038,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052805360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052805360",
         "name": "\u00a7 139c",
         "title": "Wirtschafts-Identifikationsnummer",
         "parent": {
@@ -2829,6 +3052,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052901301",
         "name": "\u00a7 139d",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2842,6 +3066,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG002901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG002901301",
         "name": "Zweiter Abschnitt",
         "title": "Mitwirkungspflichten",
         "parent": {
@@ -2852,6 +3077,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003001301",
         "name": "1. Unterabschnitt",
         "title": "F\u00fchrung von B\u00fcchern und\nAufzeichnungen",
         "parent": {
@@ -2862,6 +3088,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023401301",
         "name": "\u00a7 140",
         "title": "Buchf\u00fchrungs- und Aufzeichnungspflichten nach anderen Gesetzen",
         "parent": {
@@ -2875,6 +3102,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023514123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023514123",
         "name": "\u00a7 141",
         "title": "Buchf\u00fchrungspflicht bestimmter Steuerpflichtiger",
         "parent": {
@@ -2888,6 +3116,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023601301",
         "name": "\u00a7 142",
         "title": "Erg\u00e4nzende Vorschriften f\u00fcr Land- und Forstwirte",
         "parent": {
@@ -2901,6 +3130,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023701301",
         "name": "\u00a7 143",
         "title": "Aufzeichnung des Wareneingangs",
         "parent": {
@@ -2914,6 +3144,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023804123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023804123",
         "name": "\u00a7 144",
         "title": "Aufzeichnung des Warenausgangs",
         "parent": {
@@ -2927,6 +3158,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE023902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE023902301",
         "name": "\u00a7 145",
         "title": "Allgemeine Anforderungen an Buchf\u00fchrung und Aufzeichnungen",
         "parent": {
@@ -2940,6 +3172,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024005377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024005377",
         "name": "\u00a7 146",
         "title": "Ordnungsvorschriften f\u00fcr die Buchf\u00fchrung und f\u00fcr Aufzeichnungen",
         "parent": {
@@ -2953,6 +3186,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055601123",
         "name": "\u00a7 146a",
         "title": "Ordnungsvorschrift f\u00fcr die Buchf\u00fchrung und f\u00fcr Aufzeichnungen mittels elektronischer Aufzeichnungssysteme; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2966,6 +3200,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055700377",
         "name": "\u00a7 146b",
         "title": "Kassen-Nachschau",
         "parent": {
@@ -2979,6 +3214,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024109123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024109123",
         "name": "\u00a7 147",
         "title": "Ordnungsvorschriften f\u00fcr die Aufbewahrung von Unterlagen",
         "parent": {
@@ -2992,6 +3228,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053302116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053302116",
         "name": "\u00a7 147a",
         "title": "Vorschriften f\u00fcr die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger",
         "parent": {
@@ -3005,6 +3242,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024201301",
         "name": "\u00a7 148",
         "title": "Bewilligung von Erleichterungen",
         "parent": {
@@ -3018,6 +3256,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003101301",
         "name": "2. Unterabschnitt",
         "title": "Steuererkl\u00e4rungen",
         "parent": {
@@ -3028,6 +3267,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024306123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024306123",
         "name": "\u00a7 149",
         "title": "Abgabe der Steuererkl\u00e4rungen",
         "parent": {
@@ -3041,6 +3281,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024410377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024410377",
         "name": "\u00a7 150",
         "title": "Form und Inhalt der Steuererkl\u00e4rungen",
         "parent": {
@@ -3054,6 +3295,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024502377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024502377",
         "name": "\u00a7 151",
         "title": "Aufnahme der Steuererkl\u00e4rung an Amtsstelle",
         "parent": {
@@ -3067,6 +3309,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024611123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024611123",
         "name": "\u00a7 152",
         "title": "Versp\u00e4tungszuschlag",
         "parent": {
@@ -3080,6 +3323,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024701301",
         "name": "\u00a7 153",
         "title": "Berichtigung von Erkl\u00e4rungen",
         "parent": {
@@ -3093,6 +3337,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003201301",
         "name": "3. Unterabschnitt",
         "title": "Kontenwahrheit",
         "parent": {
@@ -3103,6 +3348,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024805123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024805123",
         "name": "\u00a7 154",
         "title": "Kontenwahrheit",
         "parent": {
@@ -3116,6 +3362,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003301301",
         "name": "Dritter Abschnitt",
         "title": "Festsetzungs- und\nFeststellungsverfahren",
         "parent": {
@@ -3126,6 +3373,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003401301",
         "name": "1. Unterabschnitt",
         "title": "Steuerfestsetzung",
         "parent": {
@@ -3136,6 +3384,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003501301",
         "name": "I.",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -3146,6 +3395,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE024904377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE024904377",
         "name": "\u00a7 155",
         "title": "Steuerfestsetzung",
         "parent": {
@@ -3159,6 +3409,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025007377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025007377",
         "name": "\u00a7 156",
         "title": "Absehen von der Steuerfestsetzung",
         "parent": {
@@ -3172,6 +3423,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025102377",
         "name": "\u00a7 157",
         "title": "Form und Inhalt der Steuerbescheide",
         "parent": {
@@ -3185,6 +3437,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025201301",
         "name": "\u00a7 158",
         "title": "Beweiskraft der Buchf\u00fchrung",
         "parent": {
@@ -3198,6 +3451,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025301301",
         "name": "\u00a7 159",
         "title": "Nachweis der Treuh\u00e4nderschaft",
         "parent": {
@@ -3211,6 +3465,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025402301",
         "name": "\u00a7 160",
         "title": "Benennung von Gl\u00e4ubigern und Zahlungsempf\u00e4ngern",
         "parent": {
@@ -3224,6 +3479,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025501301",
         "name": "\u00a7 161",
         "title": "Fehlmengen bei Bestandsaufnahmen",
         "parent": {
@@ -3237,6 +3493,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025607377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025607377",
         "name": "\u00a7 162",
         "title": "Sch\u00e4tzung von Besteuerungsgrundlagen",
         "parent": {
@@ -3250,6 +3507,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025703377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025703377",
         "name": "\u00a7 163",
         "title": "Abweichende Festsetzung von Steuern aus Billigkeitsgr\u00fcnden",
         "parent": {
@@ -3263,6 +3521,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025802377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025802377",
         "name": "\u00a7 164",
         "title": "Steuerfestsetzung unter Vorbehalt der Nachpr\u00fcfung",
         "parent": {
@@ -3276,6 +3535,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE025906377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE025906377",
         "name": "\u00a7 165",
         "title": "Vorl\u00e4ufige Steuerfestsetzung, Aussetzung der Steuerfestsetzung",
         "parent": {
@@ -3289,6 +3549,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026001301",
         "name": "\u00a7 166",
         "title": "Drittwirkung der Steuerfestsetzung",
         "parent": {
@@ -3302,6 +3563,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026106301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026106301",
         "name": "\u00a7 167",
         "title": "Steueranmeldung, Verwendung von Steuerzeichen oder\nSteuerstemplern",
         "parent": {
@@ -3315,6 +3577,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026201301",
         "name": "\u00a7 168",
         "title": "Wirkung einer Steueranmeldung",
         "parent": {
@@ -3328,6 +3591,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003601301",
         "name": "II.",
         "title": "Festsetzungsverj\u00e4hrung",
         "parent": {
@@ -3338,6 +3602,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026305377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026305377",
         "name": "\u00a7 169",
         "title": "Festsetzungsfrist",
         "parent": {
@@ -3351,6 +3616,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026407116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026407116",
         "name": "\u00a7 170",
         "title": "Beginn der Festsetzungsfrist",
         "parent": {
@@ -3364,6 +3630,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026513123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026513123",
         "name": "\u00a7 171",
         "title": "Ablaufhemmung",
         "parent": {
@@ -3377,6 +3644,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003701301",
         "name": "III.",
         "title": "Bestandskraft",
         "parent": {
@@ -3387,6 +3655,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026608377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026608377",
         "name": "\u00a7 172",
         "title": "Aufhebung und \u00c4nderung von Steuerbescheiden",
         "parent": {
@@ -3400,6 +3669,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026703301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026703301",
         "name": "\u00a7 173",
         "title": "Aufhebung oder \u00c4nderung von Steuerbescheiden wegen neuer\nTatsachen oder Beweismittel",
         "parent": {
@@ -3413,6 +3683,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055100377",
         "name": "\u00a7 173a",
         "title": "Schreib- oder Rechenfehler bei Erstellung einer Steuererkl\u00e4rung",
         "parent": {
@@ -3426,6 +3697,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026802301",
         "name": "\u00a7 174",
         "title": "Widerstreitende Steuerfestsetzungen",
         "parent": {
@@ -3439,6 +3711,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE026904377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE026904377",
         "name": "\u00a7 175",
         "title": "\u00c4nderung von Steuerbescheiden auf Grund von Grundlagenbescheiden und bei r\u00fcckwirkenden Ereignissen",
         "parent": {
@@ -3452,6 +3725,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051801301",
         "name": "\u00a7 175a",
         "title": "Umsetzung von Verst\u00e4ndigungsvereinbarungen",
         "parent": {
@@ -3465,6 +3739,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055201116",
         "name": "\u00a7 175b",
         "title": "\u00c4nderung von Steuerbescheiden bei Daten\u00fcbermittlung durch Dritte",
         "parent": {
@@ -3478,6 +3753,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027002301",
         "name": "\u00a7 176",
         "title": "Vertrauensschutz bei der Aufhebung und \u00c4nderung von\nSteuerbescheiden",
         "parent": {
@@ -3491,6 +3767,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027102301",
         "name": "\u00a7 177",
         "title": "Berichtigung von materiellen Fehlern",
         "parent": {
@@ -3504,6 +3781,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003801301",
         "name": "IV.",
         "title": "Kosten",
         "parent": {
@@ -3514,6 +3792,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027207377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027207377",
         "name": "\u00a7 178",
         "title": "Kosten bei besonderer Inanspruchnahme der Zollbeh\u00f6rden",
         "parent": {
@@ -3527,6 +3806,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053200301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053200301",
         "name": "\u00a7 178a",
         "title": "Kosten bei besonderer Inanspruchnahme der Finanzbeh\u00f6rden",
         "parent": {
@@ -3540,6 +3820,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG003901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG003901301",
         "name": "2. Unterabschnitt",
         "title": "Gesonderte Feststellung\nvon Besteuerungsgrundlagen, Festsetzung von Steuermessbetr\u00e4gen",
         "parent": {
@@ -3550,6 +3831,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004001301",
         "name": "I.",
         "title": "Gesonderte Feststellungen",
         "parent": {
@@ -3560,6 +3842,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027302301",
         "name": "\u00a7 179",
         "title": "Feststellung von Besteuerungsgrundlagen",
         "parent": {
@@ -3573,6 +3856,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027409377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027409377",
         "name": "\u00a7 180",
         "title": "Gesonderte Feststellung von Besteuerungsgrundlagen",
         "parent": {
@@ -3586,6 +3870,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027505377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027505377",
         "name": "\u00a7 181",
         "title": "Verfahrensvorschriften f\u00fcr die gesonderte Feststellung, Feststellungsfrist, Erkl\u00e4rungspflicht",
         "parent": {
@@ -3599,6 +3884,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027605377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027605377",
         "name": "\u00a7 182",
         "title": "Wirkungen der gesonderten Feststellung",
         "parent": {
@@ -3612,6 +3898,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027707119",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027707119",
         "name": "\u00a7 183",
         "title": "Empfangsbevollm\u00e4chtigte bei der einheitlichen Feststellung",
         "parent": {
@@ -3625,6 +3912,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004101301",
         "name": "II.",
         "title": "Festsetzung von Steuermessbetr\u00e4gen",
         "parent": {
@@ -3635,6 +3923,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027805377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027805377",
         "name": "\u00a7 184",
         "title": "Festsetzung von Steuermessbetr\u00e4gen",
         "parent": {
@@ -3648,6 +3937,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004201301",
         "name": "3. Unterabschnitt",
         "title": "Zerlegung und Zuteilung",
         "parent": {
@@ -3658,6 +3948,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE027902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE027902301",
         "name": "\u00a7 185",
         "title": "Geltung der allgemeinen Vorschriften",
         "parent": {
@@ -3671,6 +3962,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028001301",
         "name": "\u00a7 186",
         "title": "Beteiligte",
         "parent": {
@@ -3684,6 +3976,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028101301",
         "name": "\u00a7 187",
         "title": "Akteneinsicht",
         "parent": {
@@ -3697,6 +3990,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028201301",
         "name": "\u00a7 188",
         "title": "Zerlegungsbescheid",
         "parent": {
@@ -3710,6 +4004,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028301301",
         "name": "\u00a7 189",
         "title": "\u00c4nderung der Zerlegung",
         "parent": {
@@ -3723,6 +4018,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028401301",
         "name": "\u00a7 190",
         "title": "Zuteilungsverfahren",
         "parent": {
@@ -3736,6 +4032,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004301301",
         "name": "4. Unterabschnitt",
         "title": "Haftung",
         "parent": {
@@ -3746,6 +4043,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028503140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028503140",
         "name": "\u00a7 191",
         "title": "Haftungsbescheide, Duldungsbescheide",
         "parent": {
@@ -3759,6 +4057,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028601301",
         "name": "\u00a7 192",
         "title": "Vertragliche Haftung",
         "parent": {
@@ -3772,6 +4071,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004401301",
         "name": "Vierter Abschnitt",
         "title": "Au\u00dfenpr\u00fcfung",
         "parent": {
@@ -3782,6 +4082,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004501301",
         "name": "1. Unterabschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -3792,6 +4093,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028702377",
         "name": "\u00a7 193",
         "title": "Zul\u00e4ssigkeit einer Au\u00dfenpr\u00fcfung",
         "parent": {
@@ -3805,6 +4107,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028801301",
         "name": "\u00a7 194",
         "title": "Sachlicher Umfang einer Au\u00dfenpr\u00fcfung",
         "parent": {
@@ -3818,6 +4121,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE028901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE028901301",
         "name": "\u00a7 195",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -3831,6 +4135,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029003377",
         "name": "\u00a7 196",
         "title": "Pr\u00fcfungsanordnung",
         "parent": {
@@ -3844,6 +4149,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029101301",
         "name": "\u00a7 197",
         "title": "Bekanntgabe der Pr\u00fcfungsanordnung",
         "parent": {
@@ -3857,6 +4163,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029201301",
         "name": "\u00a7 198",
         "title": "Ausweispflicht, Beginn der Au\u00dfenpr\u00fcfung",
         "parent": {
@@ -3870,6 +4177,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029301301",
         "name": "\u00a7 199",
         "title": "Pr\u00fcfungsgrunds\u00e4tze",
         "parent": {
@@ -3883,6 +4191,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029403140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029403140",
         "name": "\u00a7 200",
         "title": "Mitwirkungspflichten des Steuerpflichtigen",
         "parent": {
@@ -3896,6 +4205,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029501301",
         "name": "\u00a7 201",
         "title": "Schlussbesprechung",
         "parent": {
@@ -3909,6 +4219,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029601301",
         "name": "\u00a7 202",
         "title": "Inhalt und Bekanntgabe des Pr\u00fcfungsberichts",
         "parent": {
@@ -3922,6 +4233,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029701301",
         "name": "\u00a7 203",
         "title": "Abgek\u00fcrzte Au\u00dfenpr\u00fcfung",
         "parent": {
@@ -3935,6 +4247,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055300377",
         "name": "\u00a7 203a",
         "title": "Au\u00dfenpr\u00fcfung bei Daten\u00fcbermittlung durch Dritte",
         "parent": {
@@ -3948,6 +4261,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004601301",
         "name": "2. Unterabschnitt",
         "title": "Verbindliche Zusagen auf\nGrund einer Au\u00dfenpr\u00fcfung",
         "parent": {
@@ -3958,6 +4272,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029802301",
         "name": "\u00a7 204",
         "title": "Voraussetzung der verbindlichen Zusage",
         "parent": {
@@ -3971,6 +4286,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE029901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE029901301",
         "name": "\u00a7 205",
         "title": "Form der verbindlichen Zusage",
         "parent": {
@@ -3984,6 +4300,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030001301",
         "name": "\u00a7 206",
         "title": "Bindungswirkung",
         "parent": {
@@ -3997,6 +4314,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030102301",
         "name": "\u00a7 207",
         "title": "Au\u00dferkrafttreten, Aufhebung und \u00c4nderung der verbindlichen\nZusage",
         "parent": {
@@ -4010,6 +4328,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004701301",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Steuerfahndung (Zollfahndung)",
         "parent": {
@@ -4020,6 +4339,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030203123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030203123",
         "name": "\u00a7 208",
         "title": "Steuerfahndung (Zollfahndung)",
         "parent": {
@@ -4033,6 +4353,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004801301",
         "name": "Sechster Abschnitt",
         "title": "Steueraufsicht in besonderen\nF\u00e4llen",
         "parent": {
@@ -4043,6 +4364,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030303301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030303301",
         "name": "\u00a7 209",
         "title": "Gegenstand der Steueraufsicht",
         "parent": {
@@ -4056,6 +4378,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030403123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030403123",
         "name": "\u00a7 210",
         "title": "Befugnisse der Finanzbeh\u00f6rde",
         "parent": {
@@ -4069,6 +4392,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030503123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030503123",
         "name": "\u00a7 211",
         "title": "Pflichten der betroffenen Person",
         "parent": {
@@ -4082,6 +4406,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030603301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030603301",
         "name": "\u00a7 212",
         "title": "Durchf\u00fchrungsvorschriften",
         "parent": {
@@ -4095,6 +4420,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030701301",
         "name": "\u00a7 213",
         "title": "Besondere Aufsichtsma\u00dfnahmen",
         "parent": {
@@ -4108,6 +4434,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030803377",
         "name": "\u00a7 214",
         "title": "Beauftragte",
         "parent": {
@@ -4121,6 +4448,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE030902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE030902301",
         "name": "\u00a7 215",
         "title": "Sicherstellung im Aufsichtsweg",
         "parent": {
@@ -4134,6 +4462,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031003123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031003123",
         "name": "\u00a7 216",
         "title": "\u00dcberf\u00fchrung in das Eigentum des Bundes",
         "parent": {
@@ -4147,6 +4476,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031101301",
         "name": "\u00a7 217",
         "title": "Steuerhilfspersonen",
         "parent": {
@@ -4160,6 +4490,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG004901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG004901301",
         "name": "F\u00fcnfter Teil",
         "title": "Erhebungsverfahren",
         "parent": null
@@ -4167,6 +4498,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005001301",
         "name": "Erster Abschnitt",
         "title": "Verwirklichung, F\u00e4lligkeit und\nErl\u00f6schen von Anspr\u00fcchen aus dem Steuerschuldverh\u00e4ltnis",
         "parent": {
@@ -4177,6 +4509,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005101301",
         "name": "1. Unterabschnitt",
         "title": "Verwirklichung und F\u00e4lligkeit\nvon Anspr\u00fcchen aus dem Steuerschuldverh\u00e4ltnis",
         "parent": {
@@ -4187,6 +4520,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031202377",
         "name": "\u00a7 218",
         "title": "Verwirklichung von Anspr\u00fcchen aus dem Steuerschuldverh\u00e4ltnis",
         "parent": {
@@ -4200,6 +4534,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031302301",
         "name": "\u00a7 219",
         "title": "Zahlungsaufforderung bei Haftungsbescheiden",
         "parent": {
@@ -4213,6 +4548,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031402301",
         "name": "\u00a7 220",
         "title": "F\u00e4lligkeit",
         "parent": {
@@ -4226,6 +4562,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031501301",
         "name": "\u00a7 221",
         "title": "Abweichende F\u00e4lligkeitsbestimmung",
         "parent": {
@@ -4239,6 +4576,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031602301",
         "name": "\u00a7 222",
         "title": "Stundung",
         "parent": {
@@ -4252,6 +4590,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031703377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031703377",
         "name": "\u00a7 223",
         "title": "(weggefallen)",
         "parent": {
@@ -4265,6 +4604,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005201301",
         "name": "2. Unterabschnitt",
         "title": "Zahlung, Aufrechnung, Erlass",
         "parent": {
@@ -4275,6 +4615,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031805140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031805140",
         "name": "\u00a7 224",
         "title": "Leistungsort, Tag der Zahlung",
         "parent": {
@@ -4288,6 +4629,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051602301",
         "name": "\u00a7 224a",
         "title": "Hingabe von Kunstgegenst\u00e4nden an Zahlungs statt",
         "parent": {
@@ -4301,6 +4643,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE031901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE031901301",
         "name": "\u00a7 225",
         "title": "Reihenfolge der Tilgung",
         "parent": {
@@ -4314,6 +4657,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032002301",
         "name": "\u00a7 226",
         "title": "Aufrechnung",
         "parent": {
@@ -4327,6 +4671,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032102301",
         "name": "\u00a7 227",
         "title": "Erlass",
         "parent": {
@@ -4340,6 +4685,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005301301",
         "name": "3. Unterabschnitt",
         "title": "Zahlungsverj\u00e4hrung",
         "parent": {
@@ -4350,6 +4696,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032202116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032202116",
         "name": "\u00a7 228",
         "title": "Gegenstand der Verj\u00e4hrung, Verj\u00e4hrungsfrist",
         "parent": {
@@ -4363,6 +4710,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032302301",
         "name": "\u00a7 229",
         "title": "Beginn der Verj\u00e4hrung",
         "parent": {
@@ -4376,6 +4724,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032401301",
         "name": "\u00a7 230",
         "title": "Hemmung der Verj\u00e4hrung",
         "parent": {
@@ -4389,6 +4738,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032505116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032505116",
         "name": "\u00a7 231",
         "title": "Unterbrechung der Verj\u00e4hrung",
         "parent": {
@@ -4402,6 +4752,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032601301",
         "name": "\u00a7 232",
         "title": "Wirkung der Verj\u00e4hrung",
         "parent": {
@@ -4415,6 +4766,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005401301",
         "name": "Zweiter Abschnitt",
         "title": "Verzinsung, S\u00e4umniszuschl\u00e4ge",
         "parent": {
@@ -4425,6 +4777,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005501301",
         "name": "1. Unterabschnitt",
         "title": "Verzinsung",
         "parent": {
@@ -4435,6 +4788,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032703301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032703301",
         "name": "\u00a7 233",
         "title": "Grundsatz",
         "parent": {
@@ -4448,6 +4802,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051507140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051507140",
         "name": "\u00a7 233a",
         "title": "Verzinsung von Steuernachforderungen und Steuererstattungen",
         "parent": {
@@ -4461,6 +4816,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032802301",
         "name": "\u00a7 234",
         "title": "Stundungszinsen",
         "parent": {
@@ -4474,6 +4830,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE032903301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE032903301",
         "name": "\u00a7 235",
         "title": "Verzinsung von hinterzogenen Steuern",
         "parent": {
@@ -4487,6 +4844,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033004301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033004301",
         "name": "\u00a7 236",
         "title": "Prozesszinsen auf Erstattungsbetr\u00e4ge",
         "parent": {
@@ -4500,6 +4858,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033106301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033106301",
         "name": "\u00a7 237",
         "title": "Zinsen bei Aussetzung der Vollziehung",
         "parent": {
@@ -4513,6 +4872,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033204301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033204301",
         "name": "\u00a7 238",
         "title": "H\u00f6he und Berechnung der Zinsen",
         "parent": {
@@ -4526,6 +4886,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033306377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033306377",
         "name": "\u00a7 239",
         "title": "Festsetzung der Zinsen",
         "parent": {
@@ -4539,6 +4900,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005601301",
         "name": "2. Unterabschnitt",
         "title": "S\u00e4umniszuschl\u00e4ge",
         "parent": {
@@ -4549,6 +4911,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033408301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033408301",
         "name": "\u00a7 240",
         "title": "S\u00e4umniszuschl\u00e4ge",
         "parent": {
@@ -4562,6 +4925,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005701301",
         "name": "Dritter Abschnitt",
         "title": "Sicherheitsleistung",
         "parent": {
@@ -4572,6 +4936,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033503301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033503301",
         "name": "\u00a7 241",
         "title": "Art der Sicherheitsleistung",
         "parent": {
@@ -4585,6 +4950,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033601301",
         "name": "\u00a7 242",
         "title": "Wirkung der Hinterlegung von Zahlungsmitteln",
         "parent": {
@@ -4598,6 +4964,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033701301",
         "name": "\u00a7 243",
         "title": "Verpf\u00e4ndung von Wertpapieren",
         "parent": {
@@ -4611,6 +4978,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033807123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033807123",
         "name": "\u00a7 244",
         "title": "Taugliche Steuerb\u00fcrgen",
         "parent": {
@@ -4624,6 +4992,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE033901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE033901301",
         "name": "\u00a7 245",
         "title": "Sicherheitsleistung durch andere Werte",
         "parent": {
@@ -4637,6 +5006,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034001301",
         "name": "\u00a7 246",
         "title": "Annahmewerte",
         "parent": {
@@ -4650,6 +5020,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034101301",
         "name": "\u00a7 247",
         "title": "Austausch von Sicherheiten",
         "parent": {
@@ -4663,6 +5034,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034201301",
         "name": "\u00a7 248",
         "title": "Nachschusspflicht",
         "parent": {
@@ -4676,6 +5048,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005801301",
         "name": "Sechster Teil",
         "title": "Vollstreckung",
         "parent": null
@@ -4683,6 +5056,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG005901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG005901301",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -4693,6 +5067,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034303116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034303116",
         "name": "\u00a7 249",
         "title": "Vollstreckungsbeh\u00f6rden",
         "parent": {
@@ -4706,6 +5081,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034401301",
         "name": "\u00a7 250",
         "title": "Vollstreckungsersuchen",
         "parent": {
@@ -4719,6 +5095,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034505377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034505377",
         "name": "\u00a7 251",
         "title": "Vollstreckbare Verwaltungsakte",
         "parent": {
@@ -4732,6 +5109,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034601301",
         "name": "\u00a7 252",
         "title": "Vollstreckungsgl\u00e4ubiger",
         "parent": {
@@ -4745,6 +5123,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034701301",
         "name": "\u00a7 253",
         "title": "Vollstreckungsschuldner",
         "parent": {
@@ -4758,6 +5137,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034802123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034802123",
         "name": "\u00a7 254",
         "title": "Voraussetzungen f\u00fcr den Beginn der Vollstreckung",
         "parent": {
@@ -4771,6 +5151,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE034901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE034901301",
         "name": "\u00a7 255",
         "title": "Vollstreckung gegen juristische Personen des \u00f6ffentlichen\nRechts",
         "parent": {
@@ -4784,6 +5165,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035001301",
         "name": "\u00a7 256",
         "title": "Einwendungen gegen die Vollstreckung",
         "parent": {
@@ -4797,6 +5179,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035101301",
         "name": "\u00a7 257",
         "title": "Einstellung und Beschr\u00e4nkung der Vollstreckung",
         "parent": {
@@ -4810,6 +5193,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035201301",
         "name": "\u00a7 258",
         "title": "Einstweilige Einstellung oder Beschr\u00e4nkung der Vollstreckung",
         "parent": {
@@ -4823,6 +5207,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006001301",
         "name": "Zweiter Abschnitt",
         "title": "Vollstreckung wegen Geldforderungen",
         "parent": {
@@ -4833,6 +5218,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006101301",
         "name": "1. Unterabschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -4843,6 +5229,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035302140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035302140",
         "name": "\u00a7 259",
         "title": "Mahnung",
         "parent": {
@@ -4856,6 +5243,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035401301",
         "name": "\u00a7 260",
         "title": "Angabe des Schuldgrundes",
         "parent": {
@@ -4869,6 +5257,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035502377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035502377",
         "name": "\u00a7 261",
         "title": "Niederschlagung",
         "parent": {
@@ -4882,6 +5271,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035601301",
         "name": "\u00a7 262",
         "title": "Rechte Dritter",
         "parent": {
@@ -4895,6 +5285,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035703119",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035703119",
         "name": "\u00a7 263",
         "title": "Vollstreckung gegen Ehegatten oder Lebenspartner",
         "parent": {
@@ -4908,6 +5299,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035801301",
         "name": "\u00a7 264",
         "title": "Vollstreckung gegen Nie\u00dfbraucher",
         "parent": {
@@ -4921,6 +5313,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE035901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE035901301",
         "name": "\u00a7 265",
         "title": "Vollstreckung gegen Erben",
         "parent": {
@@ -4934,6 +5327,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036002301",
         "name": "\u00a7 266",
         "title": "Sonstige F\u00e4lle beschr\u00e4nkter Haftung",
         "parent": {
@@ -4947,6 +5341,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036101301",
         "name": "\u00a7 267",
         "title": "Vollstreckungsverfahren gegen nicht rechtsf\u00e4hige Personenvereinigungen",
         "parent": {
@@ -4960,6 +5355,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006201301",
         "name": "2. Unterabschnitt",
         "title": "Aufteilung einer Gesamtschuld",
         "parent": {
@@ -4970,6 +5366,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036201301",
         "name": "\u00a7 268",
         "title": "Grundsatz",
         "parent": {
@@ -4983,6 +5380,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036302377",
         "name": "\u00a7 269",
         "title": "Antrag",
         "parent": {
@@ -4996,6 +5394,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036402140",
         "name": "\u00a7 270",
         "title": "Allgemeiner Aufteilungsma\u00dfstab",
         "parent": {
@@ -5009,6 +5408,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036502119",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036502119",
         "name": "\u00a7 271",
         "title": "Aufteilungsma\u00dfstab f\u00fcr die Verm\u00f6gensteuer",
         "parent": {
@@ -5022,6 +5422,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036601301",
         "name": "\u00a7 272",
         "title": "Aufteilungsma\u00dfstab f\u00fcr Vorauszahlungen",
         "parent": {
@@ -5035,6 +5436,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036703140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036703140",
         "name": "\u00a7 273",
         "title": "Aufteilungsma\u00dfstab f\u00fcr Steuernachforderungen",
         "parent": {
@@ -5048,6 +5450,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036801301",
         "name": "\u00a7 274",
         "title": "Besonderer Aufteilungsma\u00dfstab",
         "parent": {
@@ -5061,6 +5464,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE036903140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE036903140",
         "name": "\u00a7 275",
         "title": "(weggefallen)",
         "parent": {
@@ -5074,6 +5478,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037001301",
         "name": "\u00a7 276",
         "title": "R\u00fcckst\u00e4ndige Steuer, Einleitung der Vollstreckung",
         "parent": {
@@ -5087,6 +5492,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037101301",
         "name": "\u00a7 277",
         "title": "Vollstreckung",
         "parent": {
@@ -5100,6 +5506,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037202140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037202140",
         "name": "\u00a7 278",
         "title": "Beschr\u00e4nkung der Vollstreckung",
         "parent": {
@@ -5113,6 +5520,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037303377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037303377",
         "name": "\u00a7 279",
         "title": "Form und Inhalt des Aufteilungsbescheids",
         "parent": {
@@ -5126,6 +5534,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037402301",
         "name": "\u00a7 280",
         "title": "\u00c4nderung des Aufteilungsbescheids",
         "parent": {
@@ -5139,6 +5548,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006301301",
         "name": "3. Unterabschnitt",
         "title": "Vollstreckung in das\nbewegliche Verm\u00f6gen",
         "parent": {
@@ -5149,6 +5559,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006401301",
         "name": "I.",
         "title": "Allgemeines",
         "parent": {
@@ -5159,6 +5570,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037501301",
         "name": "\u00a7 281",
         "title": "Pf\u00e4ndung",
         "parent": {
@@ -5172,6 +5584,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037602301",
         "name": "\u00a7 282",
         "title": "Wirkung der Pf\u00e4ndung",
         "parent": {
@@ -5185,6 +5598,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037701301",
         "name": "\u00a7 283",
         "title": "Ausschluss von Gew\u00e4hrleistungsanspr\u00fcchen",
         "parent": {
@@ -5198,6 +5612,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037811140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037811140",
         "name": "\u00a7 284",
         "title": "Verm\u00f6gensauskunft des Vollstreckungsschuldners",
         "parent": {
@@ -5211,6 +5626,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006501301",
         "name": "II.",
         "title": "Vollstreckung in Sachen",
         "parent": {
@@ -5221,6 +5637,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE037902140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE037902140",
         "name": "\u00a7 285",
         "title": "Vollziehungsbeamte",
         "parent": {
@@ -5234,6 +5651,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038001301",
         "name": "\u00a7 286",
         "title": "Vollstreckung in Sachen",
         "parent": {
@@ -5247,6 +5665,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038102301",
         "name": "\u00a7 287",
         "title": "Befugnisse des Vollziehungsbeamten",
         "parent": {
@@ -5260,6 +5679,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038202140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038202140",
         "name": "\u00a7 288",
         "title": "Zuziehung von Zeugen",
         "parent": {
@@ -5273,6 +5693,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038304140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038304140",
         "name": "\u00a7 289",
         "title": "Zeit der Vollstreckung",
         "parent": {
@@ -5286,6 +5707,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038401301",
         "name": "\u00a7 290",
         "title": "Aufforderungen und Mitteilungen des Vollziehungsbeamten",
         "parent": {
@@ -5299,6 +5721,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038502140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038502140",
         "name": "\u00a7 291",
         "title": "Niederschrift",
         "parent": {
@@ -5312,6 +5735,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038601301",
         "name": "\u00a7 292",
         "title": "Abwendung der Pf\u00e4ndung",
         "parent": {
@@ -5325,6 +5749,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038701301",
         "name": "\u00a7 293",
         "title": "Pfand- und Vorzugsrechte Dritter",
         "parent": {
@@ -5338,6 +5763,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038801301",
         "name": "\u00a7 294",
         "title": "Ungetrennte Fr\u00fcchte",
         "parent": {
@@ -5351,6 +5777,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE038901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE038901301",
         "name": "\u00a7 295",
         "title": "Unpf\u00e4ndbarkeit von Sachen",
         "parent": {
@@ -5364,6 +5791,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039002377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039002377",
         "name": "\u00a7 296",
         "title": "Verwertung",
         "parent": {
@@ -5377,6 +5805,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039101301",
         "name": "\u00a7 297",
         "title": "Aussetzung der Verwertung",
         "parent": {
@@ -5390,6 +5819,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039202377",
         "name": "\u00a7 298",
         "title": "Versteigerung",
         "parent": {
@@ -5403,6 +5833,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039303140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039303140",
         "name": "\u00a7 299",
         "title": "Zuschlag",
         "parent": {
@@ -5416,6 +5847,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039401301",
         "name": "\u00a7 300",
         "title": "Mindestgebot",
         "parent": {
@@ -5429,6 +5861,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039502377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039502377",
         "name": "\u00a7 301",
         "title": "Einstellung der Versteigerung",
         "parent": {
@@ -5442,6 +5875,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039601301",
         "name": "\u00a7 302",
         "title": "Wertpapiere",
         "parent": {
@@ -5455,6 +5889,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039701301",
         "name": "\u00a7 303",
         "title": "Namenspapiere",
         "parent": {
@@ -5468,6 +5903,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039801301",
         "name": "\u00a7 304",
         "title": "Versteigerung ungetrennter Fr\u00fcchte",
         "parent": {
@@ -5481,6 +5917,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE039901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE039901301",
         "name": "\u00a7 305",
         "title": "Besondere Verwertung",
         "parent": {
@@ -5494,6 +5931,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040001301",
         "name": "\u00a7 306",
         "title": "Vollstreckung in Ersatzteile von Luftfahrzeugen",
         "parent": {
@@ -5507,6 +5945,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040101301",
         "name": "\u00a7 307",
         "title": "Anschlusspf\u00e4ndung",
         "parent": {
@@ -5520,6 +5959,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040201301",
         "name": "\u00a7 308",
         "title": "Verwertung bei mehrfacher Pf\u00e4ndung",
         "parent": {
@@ -5533,6 +5973,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006601301",
         "name": "III.",
         "title": "Vollstreckung in Forderungen und\nandere Verm\u00f6gensrechte",
         "parent": {
@@ -5543,6 +5984,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040305140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040305140",
         "name": "\u00a7 309",
         "title": "Pf\u00e4ndung einer Geldforderung",
         "parent": {
@@ -5556,6 +5998,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040401301",
         "name": "\u00a7 310",
         "title": "Pf\u00e4ndung einer durch Hypothek gesicherten Forderung",
         "parent": {
@@ -5569,6 +6012,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040501301",
         "name": "\u00a7 311",
         "title": "Pf\u00e4ndung einer durch Schiffshypothek oder Registerpfandrecht\nan einem Luftfahrzeug gesicherten Forderung",
         "parent": {
@@ -5582,6 +6026,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040602301",
         "name": "\u00a7 312",
         "title": "Pf\u00e4ndung einer Forderung aus indossablen Papieren",
         "parent": {
@@ -5595,6 +6040,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040702301",
         "name": "\u00a7 313",
         "title": "Pf\u00e4ndung fortlaufender Bez\u00fcge",
         "parent": {
@@ -5608,6 +6054,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040803140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040803140",
         "name": "\u00a7 314",
         "title": "Einziehungsverf\u00fcgung",
         "parent": {
@@ -5621,6 +6068,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE040903377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE040903377",
         "name": "\u00a7 315",
         "title": "Wirkung der Einziehungsverf\u00fcgung",
         "parent": {
@@ -5634,6 +6082,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041003140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041003140",
         "name": "\u00a7 316",
         "title": "Erkl\u00e4rungspflicht des Drittschuldners",
         "parent": {
@@ -5647,6 +6096,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041101301",
         "name": "\u00a7 317",
         "title": "Andere Art der Verwertung",
         "parent": {
@@ -5660,6 +6110,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041202301",
         "name": "\u00a7 318",
         "title": "Anspr\u00fcche auf Herausgabe oder Leistung von Sachen",
         "parent": {
@@ -5673,6 +6124,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041301301",
         "name": "\u00a7 319",
         "title": "Unpf\u00e4ndbarkeit von Forderungen",
         "parent": {
@@ -5686,6 +6138,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041401301",
         "name": "\u00a7 320",
         "title": "Mehrfache Pf\u00e4ndung einer Forderung",
         "parent": {
@@ -5699,6 +6152,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041501301",
         "name": "\u00a7 321",
         "title": "Vollstreckung in andere Verm\u00f6gensrechte",
         "parent": {
@@ -5712,6 +6166,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006701301",
         "name": "4. Unterabschnitt",
         "title": "Vollstreckung in das\nunbewegliche Verm\u00f6gen",
         "parent": {
@@ -5722,6 +6177,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041601301",
         "name": "\u00a7 322",
         "title": "Verfahren",
         "parent": {
@@ -5735,6 +6191,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041701301",
         "name": "\u00a7 323",
         "title": "Vollstreckung gegen den Rechtsnachfolger",
         "parent": {
@@ -5748,6 +6205,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006801301",
         "name": "5. Unterabschnitt",
         "title": "Arrest",
         "parent": {
@@ -5758,6 +6216,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041802301",
         "name": "\u00a7 324",
         "title": "Dinglicher Arrest",
         "parent": {
@@ -5771,6 +6230,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE041901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE041901301",
         "name": "\u00a7 325",
         "title": "Aufhebung des dinglichen Arrestes",
         "parent": {
@@ -5784,6 +6244,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042003377",
         "name": "\u00a7 326",
         "title": "Pers\u00f6nlicher Sicherheitsarrest",
         "parent": {
@@ -5797,6 +6258,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG006901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG006901301",
         "name": "6. Unterabschnitt",
         "title": "Verwertung von Sicherheiten",
         "parent": {
@@ -5807,6 +6269,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042101301",
         "name": "\u00a7 327",
         "title": "Verwertung von Sicherheiten",
         "parent": {
@@ -5820,6 +6283,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007001301",
         "name": "Dritter Abschnitt",
         "title": "Vollstreckung wegen anderer\nLeistungen als Geldforderungen",
         "parent": {
@@ -5830,6 +6294,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007101301",
         "name": "1. Unterabschnitt",
         "title": "Vollstreckung wegen\nHandlungen, Duldungen oder Unterlassungen",
         "parent": {
@@ -5840,6 +6305,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042201301",
         "name": "\u00a7 328",
         "title": "Zwangsmittel",
         "parent": {
@@ -5853,6 +6319,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042303301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042303301",
         "name": "\u00a7 329",
         "title": "Zwangsgeld",
         "parent": {
@@ -5866,6 +6333,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042401301",
         "name": "\u00a7 330",
         "title": "Ersatzvornahme",
         "parent": {
@@ -5879,6 +6347,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042501301",
         "name": "\u00a7 331",
         "title": "Unmittelbarer Zwang",
         "parent": {
@@ -5892,6 +6361,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042602301",
         "name": "\u00a7 332",
         "title": "Androhung der Zwangsmittel",
         "parent": {
@@ -5905,6 +6375,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042701301",
         "name": "\u00a7 333",
         "title": "Festsetzung der Zwangsmittel",
         "parent": {
@@ -5918,6 +6389,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042806123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042806123",
         "name": "\u00a7 334",
         "title": "Ersatzzwangshaft",
         "parent": {
@@ -5931,6 +6403,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE042901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE042901301",
         "name": "\u00a7 335",
         "title": "Beendigung des Zwangsverfahrens",
         "parent": {
@@ -5944,6 +6417,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007201301",
         "name": "2. Unterabschnitt",
         "title": "Erzwingung von Sicherheiten",
         "parent": {
@@ -5954,6 +6428,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043001301",
         "name": "\u00a7 336",
         "title": "Erzwingung von Sicherheiten",
         "parent": {
@@ -5967,6 +6442,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007301301",
         "name": "Vierter Abschnitt",
         "title": "Kosten",
         "parent": {
@@ -5977,6 +6453,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043103140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043103140",
         "name": "\u00a7 337",
         "title": "Kosten der Vollstreckung",
         "parent": {
@@ -5990,6 +6467,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043201301",
         "name": "\u00a7 338",
         "title": "Geb\u00fchrenarten",
         "parent": {
@@ -6003,6 +6481,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043310377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043310377",
         "name": "\u00a7 339",
         "title": "Pf\u00e4ndungsgeb\u00fchr",
         "parent": {
@@ -6016,6 +6495,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043406377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043406377",
         "name": "\u00a7 340",
         "title": "Wegnahmegeb\u00fchr",
         "parent": {
@@ -6029,6 +6509,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043505377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043505377",
         "name": "\u00a7 341",
         "title": "Verwertungsgeb\u00fchr",
         "parent": {
@@ -6042,6 +6523,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043602301",
         "name": "\u00a7 342",
         "title": "Mehrheit von Schuldnern",
         "parent": {
@@ -6055,6 +6537,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043704301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043704301",
         "name": "\u00a7 343",
         "title": null,
         "parent": {
@@ -6068,6 +6551,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043805377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043805377",
         "name": "\u00a7 344",
         "title": "Auslagen",
         "parent": {
@@ -6081,6 +6565,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE043901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE043901301",
         "name": "\u00a7 345",
         "title": "Reisekosten und Aufwandsentsch\u00e4digungen",
         "parent": {
@@ -6094,6 +6579,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044001301",
         "name": "\u00a7 346",
         "title": "Unrichtige Sachbehandlung, Festsetzungsfrist",
         "parent": {
@@ -6107,6 +6593,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007401301",
         "name": "Siebenter Teil",
         "title": "Au\u00dfergerichtliches Rechtsbehelfsverfahren",
         "parent": null
@@ -6114,6 +6601,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007502301",
         "name": "Erster Abschnitt",
         "title": "Zul\u00e4ssigkeit",
         "parent": {
@@ -6124,6 +6612,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044103301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044103301",
         "name": "\u00a7 347",
         "title": "Statthaftigkeit des Einspruchs",
         "parent": {
@@ -6137,6 +6626,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044205140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044205140",
         "name": "\u00a7 348",
         "title": "Ausschluss des Einspruchs",
         "parent": {
@@ -6150,6 +6640,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044304301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044304301",
         "name": "\u00a7 349",
         "title": null,
         "parent": {
@@ -6163,6 +6654,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044402301",
         "name": "\u00a7 350",
         "title": "Beschwer",
         "parent": {
@@ -6176,6 +6668,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044501301",
         "name": "\u00a7 351",
         "title": "Bindungswirkung anderer Verwaltungsakte",
         "parent": {
@@ -6189,6 +6682,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044602301",
         "name": "\u00a7 352",
         "title": "Einspruchsbefugnis bei der einheitlichen Feststellung",
         "parent": {
@@ -6202,6 +6696,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044703301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044703301",
         "name": "\u00a7 353",
         "title": "Einspruchsbefugnis des Rechtsnachfolgers",
         "parent": {
@@ -6215,6 +6710,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044803301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044803301",
         "name": "\u00a7 354",
         "title": "Einspruchsverzicht",
         "parent": {
@@ -6228,6 +6724,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007602301",
         "name": "Zweiter Abschnitt",
         "title": "Verfahrensvorschriften",
         "parent": {
@@ -6238,6 +6735,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE044902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE044902301",
         "name": "\u00a7 355",
         "title": "Einspruchsfrist",
         "parent": {
@@ -6251,6 +6749,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045003301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045003301",
         "name": "\u00a7 356",
         "title": "Rechtsbehelfsbelehrung",
         "parent": {
@@ -6264,6 +6763,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045104377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045104377",
         "name": "\u00a7 357",
         "title": "Einlegung des Einspruchs",
         "parent": {
@@ -6277,6 +6777,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045202301",
         "name": "\u00a7 358",
         "title": "Pr\u00fcfung der Zul\u00e4ssigkeitsvoraussetzungen",
         "parent": {
@@ -6290,6 +6791,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045302301",
         "name": "\u00a7 359",
         "title": "Beteiligte",
         "parent": {
@@ -6303,6 +6805,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045404140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045404140",
         "name": "\u00a7 360",
         "title": "Hinzuziehung zum Verfahren",
         "parent": {
@@ -6316,6 +6819,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045506123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045506123",
         "name": "\u00a7 361",
         "title": "Aussetzung der Vollziehung",
         "parent": {
@@ -6329,6 +6833,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045603301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045603301",
         "name": "\u00a7 362",
         "title": "R\u00fccknahme des Einspruchs",
         "parent": {
@@ -6342,6 +6847,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045704140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045704140",
         "name": "\u00a7 363",
         "title": "Aussetzung und Ruhen des Verfahrens",
         "parent": {
@@ -6355,6 +6861,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045803123",
         "name": "\u00a7 364",
         "title": "Offenlegung der Besteuerungsunterlagen",
         "parent": {
@@ -6368,6 +6875,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051901301",
         "name": "\u00a7 364a",
         "title": "Er\u00f6rterung des Sach- und Rechtsstands",
         "parent": {
@@ -6381,6 +6889,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052001301",
         "name": "\u00a7 364b",
         "title": "Fristsetzung",
         "parent": {
@@ -6394,6 +6903,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE045903301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE045903301",
         "name": "\u00a7 365",
         "title": "Anwendung von Verfahrensvorschriften",
         "parent": {
@@ -6407,6 +6917,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046005377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046005377",
         "name": "\u00a7 366",
         "title": "Form, Inhalt und Erteilung der Einspruchsentscheidung",
         "parent": {
@@ -6420,6 +6931,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046104140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046104140",
         "name": "\u00a7 367",
         "title": "Entscheidung \u00fcber den Einspruch",
         "parent": {
@@ -6433,6 +6945,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046202301",
         "name": "\u00a7 368",
         "title": null,
         "parent": {
@@ -6446,6 +6959,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007801301",
         "name": "Achter Teil",
         "title": "Straf- und Bu\u00dfgeldvorschriften,\n<BR/>\nStraf- und Bu\u00dfgeldverfahren",
         "parent": null
@@ -6453,6 +6967,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG007901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG007901301",
         "name": "Erster Abschnitt",
         "title": "Strafvorschriften",
         "parent": {
@@ -6463,6 +6978,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046301301",
         "name": "\u00a7 369",
         "title": "Steuerstraftaten",
         "parent": {
@@ -6476,6 +6992,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046411116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046411116",
         "name": "\u00a7 370",
         "title": "Steuerhinterziehung",
         "parent": {
@@ -6489,6 +7006,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE052203301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE052203301",
         "name": "\u00a7 370a",
         "title": "(weggefallen)",
         "parent": {
@@ -6502,6 +7020,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046504116",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046504116",
         "name": "\u00a7 371",
         "title": "Selbstanzeige bei Steuerhinterziehung",
         "parent": {
@@ -6515,6 +7034,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046602301",
         "name": "\u00a7 372",
         "title": "Bannbruch",
         "parent": {
@@ -6528,6 +7048,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046703301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046703301",
         "name": "\u00a7 373",
         "title": "Gewerbsm\u00e4\u00dfiger, gewaltsamer und bandenm\u00e4\u00dfiger Schmuggel",
         "parent": {
@@ -6541,6 +7062,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046806377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046806377",
         "name": "\u00a7 374",
         "title": "Steuerhehlerei",
         "parent": {
@@ -6554,6 +7076,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE046903377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE046903377",
         "name": "\u00a7 375",
         "title": "Nebenfolgen",
         "parent": {
@@ -6567,6 +7090,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE058700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE058700123",
         "name": "\u00a7 375a",
         "title": "Verh\u00e4ltnis zur strafrechtlichen Einziehung",
         "parent": {
@@ -6580,6 +7104,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047004123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047004123",
         "name": "\u00a7 376",
         "title": "Verfolgungsverj\u00e4hrung",
         "parent": {
@@ -6593,6 +7118,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008001301",
         "name": "Zweiter Abschnitt",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -6603,6 +7129,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047102360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047102360",
         "name": "\u00a7 377",
         "title": "Steuerordnungswidrigkeiten",
         "parent": {
@@ -6616,6 +7143,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047205377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047205377",
         "name": "\u00a7 378",
         "title": "Leichtfertige Steuerverk\u00fcrzung",
         "parent": {
@@ -6629,6 +7157,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047315123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047315123",
         "name": "\u00a7 379",
         "title": "Steuergef\u00e4hrdung",
         "parent": {
@@ -6642,6 +7171,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047404301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047404301",
         "name": "\u00a7 380",
         "title": "Gef\u00e4hrdung der Abzugsteuern",
         "parent": {
@@ -6655,6 +7185,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047502301",
         "name": "\u00a7 381",
         "title": "Verbrauchsteuergef\u00e4hrdung",
         "parent": {
@@ -6668,6 +7199,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047609119",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047609119",
         "name": "\u00a7 382",
         "title": "Gef\u00e4hrdung der Einfuhr- und Ausfuhrabgaben",
         "parent": {
@@ -6681,6 +7213,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047702301",
         "name": "\u00a7 383",
         "title": "Unzul\u00e4ssiger Erwerb von Steuererstattungs- und\nVerg\u00fctungsanspr\u00fcchen",
         "parent": {
@@ -6694,6 +7227,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053101360",
         "name": "\u00a7 383a",
         "title": "(weggefallen)",
         "parent": {
@@ -6707,6 +7241,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE055400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE055400377",
         "name": "\u00a7 383b",
         "title": "Pflichtverletzung bei \u00dcbermittlung von Vollmachtsdaten",
         "parent": {
@@ -6720,6 +7255,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047801301",
         "name": "\u00a7 384",
         "title": "Verfolgungsverj\u00e4hrung",
         "parent": {
@@ -6733,6 +7269,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE057500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE057500360",
         "name": "\u00a7 384a",
         "title": "Verst\u00f6\u00dfe nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU) 2016/679",
         "parent": {
@@ -6746,6 +7283,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008101301",
         "name": "Dritter Abschnitt",
         "title": "Strafverfahren",
         "parent": {
@@ -6756,6 +7294,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008201301",
         "name": "1. Unterabschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -6766,6 +7305,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE047901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE047901301",
         "name": "\u00a7 385",
         "title": "Geltung von Verfahrensvorschriften",
         "parent": {
@@ -6779,6 +7319,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048003308",
         "name": "\u00a7 386",
         "title": "Zust\u00e4ndigkeit der Finanzbeh\u00f6rde bei Steuerstraftaten",
         "parent": {
@@ -6792,6 +7333,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048103377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048103377",
         "name": "\u00a7 387",
         "title": "Sachlich zust\u00e4ndige Finanzbeh\u00f6rde",
         "parent": {
@@ -6805,6 +7347,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048201301",
         "name": "\u00a7 388",
         "title": "\u00d6rtlich zust\u00e4ndige Finanzbeh\u00f6rde",
         "parent": {
@@ -6818,6 +7361,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048301301",
         "name": "\u00a7 389",
         "title": "Zusammenh\u00e4ngende Strafsachen",
         "parent": {
@@ -6831,6 +7375,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048401301",
         "name": "\u00a7 390",
         "title": "Mehrfache Zust\u00e4ndigkeit",
         "parent": {
@@ -6844,6 +7389,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048502301",
         "name": "\u00a7 391",
         "title": "Zust\u00e4ndiges Gericht",
         "parent": {
@@ -6857,6 +7403,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048602301",
         "name": "\u00a7 392",
         "title": "Verteidigung",
         "parent": {
@@ -6870,6 +7417,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048702301",
         "name": "\u00a7 393",
         "title": "Verh\u00e4ltnis des Strafverfahrens zum Besteuerungsverfahren",
         "parent": {
@@ -6883,6 +7431,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048802301",
         "name": "\u00a7 394",
         "title": "\u00dcbergang des Eigentums",
         "parent": {
@@ -6896,6 +7445,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE048901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE048901301",
         "name": "\u00a7 395",
         "title": "Akteneinsicht der Finanzbeh\u00f6rde",
         "parent": {
@@ -6909,6 +7459,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049001301",
         "name": "\u00a7 396",
         "title": "Aussetzung des Verfahrens",
         "parent": {
@@ -6922,6 +7473,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008301301",
         "name": "2. Unterabschnitt",
         "title": "Ermittlungsverfahren",
         "parent": {
@@ -6932,6 +7484,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008401301",
         "name": "I.",
         "title": "Allgemeines",
         "parent": {
@@ -6942,6 +7495,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049102301",
         "name": "\u00a7 397",
         "title": "Einleitung des Strafverfahrens",
         "parent": {
@@ -6955,6 +7509,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049201301",
         "name": "\u00a7 398",
         "title": "Einstellung wegen Geringf\u00fcgigkeit",
         "parent": {
@@ -6968,6 +7523,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE053401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE053401377",
         "name": "\u00a7 398a",
         "title": "Absehen von Verfolgung in besonderen F\u00e4llen",
         "parent": {
@@ -6981,6 +7537,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008501301",
         "name": "II.",
         "title": "Verfahren der Finanzbeh\u00f6rde bei\nSteuerstraftaten",
         "parent": {
@@ -6991,6 +7548,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049302301",
         "name": "\u00a7 399",
         "title": "Rechte und Pflichten der Finanzbeh\u00f6rde",
         "parent": {
@@ -7004,6 +7562,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049401301",
         "name": "\u00a7 400",
         "title": "Antrag auf Erlass eines Strafbefehls",
         "parent": {
@@ -7017,6 +7576,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049502360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049502360",
         "name": "\u00a7 401",
         "title": "Antrag auf Anordnung von Nebenfolgen im selbst\u00e4ndigen Verfahren",
         "parent": {
@@ -7030,6 +7590,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008601301",
         "name": "III.",
         "title": "Stellung der Finanzbeh\u00f6rde im\nVerfahren der Staatsanwaltschaft",
         "parent": {
@@ -7040,6 +7601,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049601301",
         "name": "\u00a7 402",
         "title": "Allgemeine Rechte und Pflichten der Finanzbeh\u00f6rde",
         "parent": {
@@ -7053,6 +7615,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049701301",
         "name": "\u00a7 403",
         "title": "Beteiligung der Finanzbeh\u00f6rde",
         "parent": {
@@ -7066,6 +7629,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008701301",
         "name": "IV.",
         "title": "Steuer- und Zollfahndung",
         "parent": {
@@ -7076,6 +7640,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049803123",
         "name": "\u00a7 404",
         "title": "Steuer- und Zollfahndung",
         "parent": {
@@ -7089,6 +7654,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008801301",
         "name": "V.",
         "title": "Entsch\u00e4digung der Zeugen und der\nSachverst\u00e4ndigen",
         "parent": {
@@ -7099,6 +7665,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE049902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE049902301",
         "name": "\u00a7 405",
         "title": "Entsch\u00e4digung der Zeugen und der Sachverst\u00e4ndigen",
         "parent": {
@@ -7112,6 +7679,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG008901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG008901301",
         "name": "3. Unterabschnitt",
         "title": "Gerichtliches Verfahren",
         "parent": {
@@ -7122,6 +7690,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050003360",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050003360",
         "name": "\u00a7 406",
         "title": "Mitwirkung der Finanzbeh\u00f6rde im Strafbefehlsverfahren und im selbst\u00e4ndigen Verfahren",
         "parent": {
@@ -7135,6 +7704,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050101301",
         "name": "\u00a7 407",
         "title": "Beteiligung der Finanzbeh\u00f6rde in sonstigen F\u00e4llen",
         "parent": {
@@ -7148,6 +7718,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG009001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG009001301",
         "name": "4. Unterabschnitt",
         "title": "Kosten des Verfahrens",
         "parent": {
@@ -7158,6 +7729,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050201301",
         "name": "\u00a7 408",
         "title": "Kosten des Verfahrens",
         "parent": {
@@ -7171,6 +7743,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG009101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG009101301",
         "name": "Vierter Abschnitt",
         "title": "Bu\u00dfgeldverfahren",
         "parent": {
@@ -7181,6 +7754,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050301301",
         "name": "\u00a7 409",
         "title": "Zust\u00e4ndige Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -7194,6 +7768,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050401301",
         "name": "\u00a7 410",
         "title": "Erg\u00e4nzende Vorschriften f\u00fcr das Bu\u00dfgeldverfahren",
         "parent": {
@@ -7207,6 +7782,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050501301",
         "name": "\u00a7 411",
         "title": "Bu\u00dfgeldverfahren gegen Rechtsanw\u00e4lte, Steuerberater,\nSteuerbevollm\u00e4chtigte, Wirtschaftspr\u00fcfer oder vereidigte Buchpr\u00fcfer",
         "parent": {
@@ -7220,6 +7796,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050602118",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050602118",
         "name": "\u00a7 412",
         "title": "Zustellung, Vollstreckung, Kosten",
         "parent": {
@@ -7233,6 +7810,7 @@
       {
         "type": "heading",
         "id": "BJNR006130976BJNG009201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNG009201301",
         "name": "Neunter Teil",
         "title": "Schlussvorschriften",
         "parent": null
@@ -7240,6 +7818,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050701301",
         "name": "\u00a7 413",
         "title": "Einschr\u00e4nkung von Grundrechten",
         "parent": {
@@ -7253,6 +7832,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050801301",
         "name": "\u00a7 414",
         "title": null,
         "parent": {
@@ -7266,6 +7846,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE050902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE050902301",
         "name": "\u00a7 415",
         "title": null,
         "parent": {
@@ -7279,6 +7860,7 @@
       {
         "type": "article",
         "id": "BJNR006130976BJNE051005140",
+        "url": "https://api.rechtsinformationsportal.de/laws/ao/articles/BJNR006130976BJNE051005140",
         "name": "Anlage 1",
         "title": "(zu \u00a7 60)<BR/>Mustersatzung f\u00fcr Vereine, Stiftungen, Betriebe gewerblicher Art von juristischen Personen des \u00f6ffentlichen Rechts, geistliche Genossenschaften und Kapitalgesellschaften<BR/>(nur aus steuerlichen Gr\u00fcnden notwendige Bestimmungen)",
         "parent": {

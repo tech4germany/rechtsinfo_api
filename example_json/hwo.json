@@ -36,6 +36,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE002711360",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE002711360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -46,6 +47,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000102377",
         "name": "Erster Teil",
         "title": "Aus\u00fcbung eines Handwerks\nund eines handwerks\u00e4hnlichen Gewerbes",
         "parent": null
@@ -53,6 +55,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000202377",
         "name": "Erster Abschnitt",
         "title": "Berechtigung zum selbst\u00e4ndigen\nBetrieb eines zulassungspflichtigen Handwerks",
         "parent": {
@@ -63,6 +66,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE002808118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE002808118",
         "name": "\u00a7 1",
         "title": null,
         "parent": {
@@ -76,6 +80,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE002902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE002902377",
         "name": "\u00a7 2",
         "title": null,
         "parent": {
@@ -89,6 +94,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003003377",
         "name": "\u00a7 3",
         "title": null,
         "parent": {
@@ -102,6 +108,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003104377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003104377",
         "name": "\u00a7 4",
         "title": null,
         "parent": {
@@ -115,6 +122,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003203377",
         "name": "\u00a7 5",
         "title": null,
         "parent": {
@@ -128,6 +136,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017005116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017005116",
         "name": "\u00a7 5a",
         "title": null,
         "parent": {
@@ -141,6 +150,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020700377",
         "name": "\u00a7 5b",
         "title": "Verfahren \u00fcber eine einheitliche Stelle",
         "parent": {
@@ -154,6 +164,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000301308",
         "name": "Zweiter Abschnitt",
         "title": "Handwerksrolle",
         "parent": {
@@ -164,6 +175,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003307116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003307116",
         "name": "\u00a7 6",
         "title": null,
         "parent": {
@@ -177,6 +189,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003410118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003410118",
         "name": "\u00a7 7",
         "title": null,
         "parent": {
@@ -190,6 +203,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017102308",
         "name": "\u00a7 7a",
         "title": null,
         "parent": {
@@ -203,6 +217,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018001360",
         "name": "\u00a7 7b",
         "title": null,
         "parent": {
@@ -216,6 +231,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003505377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003505377",
         "name": "\u00a7 8",
         "title": null,
         "parent": {
@@ -229,6 +245,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003610118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003610118",
         "name": "\u00a7 9",
         "title": null,
         "parent": {
@@ -242,6 +259,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003705377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003705377",
         "name": "\u00a7 10",
         "title": null,
         "parent": {
@@ -255,6 +273,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003802308",
         "name": "\u00a7 11",
         "title": null,
         "parent": {
@@ -268,6 +287,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE003901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE003901308",
         "name": "\u00a7 12",
         "title": null,
         "parent": {
@@ -281,6 +301,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004003116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004003116",
         "name": "\u00a7 13",
         "title": null,
         "parent": {
@@ -294,6 +315,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004102377",
         "name": "\u00a7 14",
         "title": null,
         "parent": {
@@ -307,6 +329,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004201308",
         "name": "\u00a7 15",
         "title": null,
         "parent": {
@@ -320,6 +343,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004304118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004304118",
         "name": "\u00a7 16",
         "title": null,
         "parent": {
@@ -333,6 +357,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004406118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004406118",
         "name": "\u00a7 17",
         "title": null,
         "parent": {
@@ -346,6 +371,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000402377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000402377",
         "name": "Dritter Abschnitt",
         "title": "Zulassungsfreie Handwerke\nund handwerks\u00e4hnliche Gewerbe",
         "parent": {
@@ -356,6 +382,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004506118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004506118",
         "name": "\u00a7 18",
         "title": null,
         "parent": {
@@ -369,6 +396,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004603377",
         "name": "\u00a7 19",
         "title": null,
         "parent": {
@@ -382,6 +410,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004704377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004704377",
         "name": "\u00a7 20",
         "title": null,
         "parent": {
@@ -395,6 +424,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000501308",
         "name": "Zweiter Teil",
         "title": "Berufsbildung im Handwerk",
         "parent": null
@@ -402,6 +432,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000601308",
         "name": "Erster Abschnitt",
         "title": "Berechtigung zum Einstellen und Ausbilden",
         "parent": {
@@ -412,6 +443,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE004804377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE004804377",
         "name": "\u00a7 21",
         "title": null,
         "parent": {
@@ -425,6 +457,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE005003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE005003377",
         "name": "\u00a7 22",
         "title": null,
         "parent": {
@@ -438,6 +471,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018500377",
         "name": "\u00a7 22a",
         "title": null,
         "parent": {
@@ -451,6 +485,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018604118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018604118",
         "name": "\u00a7 22b",
         "title": null,
         "parent": {
@@ -464,6 +499,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020601128",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020601128",
         "name": "\u00a7 22c",
         "title": null,
         "parent": {
@@ -477,6 +513,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018101377",
         "name": "\u00a7 23",
         "title": null,
         "parent": {
@@ -490,6 +527,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE005203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE005203377",
         "name": "\u00a7 24",
         "title": null,
         "parent": {
@@ -503,6 +541,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000701308",
         "name": "Zweiter Abschnitt",
         "title": "Ausbildungsordnung, \u00c4nderung der\nAusbildungszeit",
         "parent": {
@@ -513,6 +552,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE005310116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE005310116",
         "name": "\u00a7 25",
         "title": null,
         "parent": {
@@ -526,6 +566,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE005405116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE005405116",
         "name": "\u00a7 26",
         "title": null,
         "parent": {
@@ -539,6 +580,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE005609116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE005609116",
         "name": "\u00a7 27",
         "title": null,
         "parent": {
@@ -552,6 +594,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE005708116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE005708116",
         "name": "\u00a7 27a",
         "title": null,
         "parent": {
@@ -565,6 +608,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018701116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018701116",
         "name": "\u00a7 27b",
         "title": null,
         "parent": {
@@ -578,6 +622,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021100116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021100116",
         "name": "\u00a7 27c",
         "title": null,
         "parent": {
@@ -591,6 +636,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE005809116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE005809116",
         "name": "\u00a7 27d",
         "title": null,
         "parent": {
@@ -604,6 +650,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000801308",
         "name": "Dritter Abschnitt",
         "title": "Verzeichnis der\nBerufsausbildungsverh\u00e4ltnisse",
         "parent": {
@@ -614,6 +661,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE005906116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE005906116",
         "name": "\u00a7 28",
         "title": null,
         "parent": {
@@ -627,6 +675,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006003377",
         "name": "\u00a7 29",
         "title": null,
         "parent": {
@@ -640,6 +689,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006102301",
         "name": "\u00a7 30",
         "title": null,
         "parent": {
@@ -653,6 +703,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG000901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG000901308",
         "name": "Vierter Abschnitt",
         "title": "Pr\u00fcfungswesen",
         "parent": {
@@ -663,6 +714,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006205116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006205116",
         "name": "\u00a7 31",
         "title": null,
         "parent": {
@@ -676,6 +728,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006302377",
         "name": "\u00a7 32",
         "title": null,
         "parent": {
@@ -689,6 +742,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006403116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006403116",
         "name": "\u00a7 33",
         "title": null,
         "parent": {
@@ -702,6 +756,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006505116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006505116",
         "name": "\u00a7 34",
         "title": null,
         "parent": {
@@ -715,6 +770,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006601308",
         "name": "\u00a7 35",
         "title": null,
         "parent": {
@@ -728,6 +784,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018801116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018801116",
         "name": "\u00a7 35a",
         "title": null,
         "parent": {
@@ -741,6 +798,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006705116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006705116",
         "name": "\u00a7 36",
         "title": null,
         "parent": {
@@ -754,6 +812,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018901116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018901116",
         "name": "\u00a7 36a",
         "title": null,
         "parent": {
@@ -767,6 +826,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006807116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006807116",
         "name": "\u00a7 37",
         "title": null,
         "parent": {
@@ -780,6 +840,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019000377",
         "name": "\u00a7 37a",
         "title": null,
         "parent": {
@@ -793,6 +854,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE006903377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE006903377",
         "name": "\u00a7 38",
         "title": null,
         "parent": {
@@ -806,6 +868,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007003116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007003116",
         "name": "\u00a7 39",
         "title": null,
         "parent": {
@@ -819,6 +882,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019100377",
         "name": "\u00a7 39a",
         "title": null,
         "parent": {
@@ -832,6 +896,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007109118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007109118",
         "name": "\u00a7 40",
         "title": null,
         "parent": {
@@ -845,6 +910,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020800360",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020800360",
         "name": "\u00a7 40a",
         "title": null,
         "parent": {
@@ -858,6 +924,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001001308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Regelung und \u00dcberwachung der\nBerufsausbildung",
         "parent": {
@@ -868,6 +935,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007201308",
         "name": "\u00a7 41",
         "title": null,
         "parent": {
@@ -881,6 +949,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007304116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007304116",
         "name": "\u00a7 41a",
         "title": null,
         "parent": {
@@ -894,6 +963,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001101308",
         "name": "Sechster Abschnitt",
         "title": "Berufliche Fortbildung, berufliche\nUmschulung",
         "parent": {
@@ -904,6 +974,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007409116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007409116",
         "name": "\u00a7 42",
         "title": null,
         "parent": {
@@ -917,6 +988,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007507116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007507116",
         "name": "\u00a7 42a",
         "title": null,
         "parent": {
@@ -930,6 +1002,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007605116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007605116",
         "name": "\u00a7 42b",
         "title": null,
         "parent": {
@@ -943,6 +1016,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017805116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017805116",
         "name": "\u00a7 42c",
         "title": null,
         "parent": {
@@ -956,6 +1030,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017907116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017907116",
         "name": "\u00a7 42d",
         "title": null,
         "parent": {
@@ -969,6 +1044,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021200116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021200116",
         "name": "\u00a7 42e",
         "title": null,
         "parent": {
@@ -982,6 +1058,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021300116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021300116",
         "name": "\u00a7 42f",
         "title": null,
         "parent": {
@@ -995,6 +1072,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021400116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021400116",
         "name": "\u00a7 42g",
         "title": null,
         "parent": {
@@ -1008,6 +1086,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021500116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021500116",
         "name": "\u00a7 42h",
         "title": null,
         "parent": {
@@ -1021,6 +1100,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021600116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021600116",
         "name": "\u00a7 42i",
         "title": null,
         "parent": {
@@ -1034,6 +1114,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007707116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007707116",
         "name": "\u00a7 42j",
         "title": null,
         "parent": {
@@ -1047,6 +1128,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019201116",
         "name": "\u00a7 42k",
         "title": null,
         "parent": {
@@ -1060,6 +1142,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019301116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019301116",
         "name": "\u00a7 42l",
         "title": null,
         "parent": {
@@ -1073,6 +1156,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019401116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019401116",
         "name": "\u00a7 42m",
         "title": null,
         "parent": {
@@ -1086,6 +1170,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019501116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019501116",
         "name": "\u00a7 42n",
         "title": null,
         "parent": {
@@ -1099,6 +1184,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019603116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019603116",
         "name": "\u00a7 42o",
         "title": null,
         "parent": {
@@ -1112,6 +1198,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001205116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001205116",
         "name": "Siebenter Abschnitt",
         "title": "Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung",
         "parent": {
@@ -1122,6 +1209,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019701116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019701116",
         "name": "\u00a7 42p",
         "title": null,
         "parent": {
@@ -1135,6 +1223,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019801116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019801116",
         "name": "\u00a7 42q",
         "title": null,
         "parent": {
@@ -1148,6 +1237,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE019901116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE019901116",
         "name": "\u00a7 42r",
         "title": null,
         "parent": {
@@ -1161,6 +1251,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020001116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020001116",
         "name": "\u00a7 42s",
         "title": null,
         "parent": {
@@ -1174,6 +1265,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020101116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020101116",
         "name": "\u00a7 42t",
         "title": null,
         "parent": {
@@ -1187,6 +1279,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020203116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020203116",
         "name": "\u00a7 42u",
         "title": null,
         "parent": {
@@ -1200,6 +1293,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020303116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020303116",
         "name": "\u00a7 42v",
         "title": null,
         "parent": {
@@ -1213,6 +1307,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001301308",
         "name": "Achter Abschnitt",
         "title": "Berufsbildungsausschu\u00df",
         "parent": {
@@ -1223,6 +1318,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007805116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007805116",
         "name": "\u00a7 43",
         "title": null,
         "parent": {
@@ -1236,6 +1332,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE007904116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE007904116",
         "name": "\u00a7 44",
         "title": null,
         "parent": {
@@ -1249,6 +1346,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008001308",
         "name": "\u00a7 44a",
         "title": null,
         "parent": {
@@ -1262,6 +1360,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008101308",
         "name": "\u00a7 44b",
         "title": null,
         "parent": {
@@ -1275,6 +1374,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001401308",
         "name": "Dritter Teil",
         "title": "Meisterpr\u00fcfung, Meistertitel",
         "parent": null
@@ -1282,6 +1382,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001502377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001502377",
         "name": "Erster Abschnitt",
         "title": "Meisterpr\u00fcfung in einem\nzulassungspflichtigen Handwerk",
         "parent": {
@@ -1292,6 +1393,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008210116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008210116",
         "name": "\u00a7 45",
         "title": null,
         "parent": {
@@ -1305,6 +1407,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008308377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008308377",
         "name": "\u00a7 46",
         "title": null,
         "parent": {
@@ -1318,6 +1421,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008402308",
         "name": "\u00a7 47",
         "title": null,
         "parent": {
@@ -1331,6 +1435,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008504116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008504116",
         "name": "\u00a7 48",
         "title": null,
         "parent": {
@@ -1344,6 +1449,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008605360",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008605360",
         "name": "\u00a7 49",
         "title": null,
         "parent": {
@@ -1357,6 +1463,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008708118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008708118",
         "name": "\u00a7 50",
         "title": null,
         "parent": {
@@ -1370,6 +1477,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017208118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017208118",
         "name": "\u00a7 50a",
         "title": null,
         "parent": {
@@ -1383,6 +1491,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020901118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020901118",
         "name": "\u00a7 50b",
         "title": null,
         "parent": {
@@ -1396,6 +1505,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008805116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008805116",
         "name": "\u00a7 51",
         "title": null,
         "parent": {
@@ -1409,6 +1519,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG002700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG002700377",
         "name": "Zweiter Abschnitt",
         "title": "Meisterpr\u00fcfung in einem zulassungsfreien Handwerk oder in einem handwerks\u00e4hnlichen Gewerbe",
         "parent": {
@@ -1419,6 +1530,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018208116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018208116",
         "name": "\u00a7 51a",
         "title": null,
         "parent": {
@@ -1432,6 +1544,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020401116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020401116",
         "name": "\u00a7 51b",
         "title": null,
         "parent": {
@@ -1445,6 +1558,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE020502118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE020502118",
         "name": "\u00a7 51c",
         "title": null,
         "parent": {
@@ -1458,6 +1572,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018302116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018302116",
         "name": "\u00a7 51d",
         "title": null,
         "parent": {
@@ -1471,6 +1586,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021000360",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021000360",
         "name": "\u00a7 51e",
         "title": null,
         "parent": {
@@ -1484,6 +1600,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001701308",
         "name": "Vierter Teil",
         "title": "Organisation des Handwerks",
         "parent": null
@@ -1491,6 +1608,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001801308",
         "name": "Erster Abschnitt",
         "title": "Handwerksinnungen",
         "parent": {
@@ -1501,6 +1619,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE008903377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE008903377",
         "name": "\u00a7 52",
         "title": null,
         "parent": {
@@ -1514,6 +1633,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009001308",
         "name": "\u00a7 53",
         "title": null,
         "parent": {
@@ -1527,6 +1647,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009101308",
         "name": "\u00a7 54",
         "title": null,
         "parent": {
@@ -1540,6 +1661,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009201308",
         "name": "\u00a7 55",
         "title": null,
         "parent": {
@@ -1553,6 +1675,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009301308",
         "name": "\u00a7 56",
         "title": null,
         "parent": {
@@ -1566,6 +1689,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009402308",
         "name": "\u00a7 57",
         "title": null,
         "parent": {
@@ -1579,6 +1703,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009503377",
         "name": "\u00a7 58",
         "title": null,
         "parent": {
@@ -1592,6 +1717,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009602308",
         "name": "\u00a7 59",
         "title": null,
         "parent": {
@@ -1605,6 +1731,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009701308",
         "name": "\u00a7 60",
         "title": null,
         "parent": {
@@ -1618,6 +1745,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009802308",
         "name": "\u00a7 61",
         "title": null,
         "parent": {
@@ -1631,6 +1759,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE009901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE009901308",
         "name": "\u00a7 62",
         "title": null,
         "parent": {
@@ -1644,6 +1773,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010002308",
         "name": "\u00a7 63",
         "title": null,
         "parent": {
@@ -1657,6 +1787,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010101308",
         "name": "\u00a7 64",
         "title": null,
         "parent": {
@@ -1670,6 +1801,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010201308",
         "name": "\u00a7 65",
         "title": null,
         "parent": {
@@ -1683,6 +1815,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010301308",
         "name": "\u00a7 66",
         "title": null,
         "parent": {
@@ -1696,6 +1829,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010402308",
         "name": "\u00a7 67",
         "title": null,
         "parent": {
@@ -1709,6 +1843,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010501308",
         "name": "\u00a7 68",
         "title": null,
         "parent": {
@@ -1722,6 +1857,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010602308",
         "name": "\u00a7 69",
         "title": null,
         "parent": {
@@ -1735,6 +1871,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010701308",
         "name": "\u00a7 70",
         "title": null,
         "parent": {
@@ -1748,6 +1885,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010802308",
         "name": "\u00a7 71",
         "title": null,
         "parent": {
@@ -1761,6 +1899,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017301308",
         "name": "\u00a7 71a",
         "title": null,
         "parent": {
@@ -1774,6 +1913,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE010902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE010902308",
         "name": "\u00a7 72",
         "title": null,
         "parent": {
@@ -1787,6 +1927,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011003377",
         "name": "\u00a7 73",
         "title": null,
         "parent": {
@@ -1800,6 +1941,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011101308",
         "name": "\u00a7 74",
         "title": null,
         "parent": {
@@ -1813,6 +1955,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011201308",
         "name": "\u00a7 75",
         "title": null,
         "parent": {
@@ -1826,6 +1969,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011301308",
         "name": "\u00a7 76",
         "title": null,
         "parent": {
@@ -1839,6 +1983,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011402333",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011402333",
         "name": "\u00a7 77",
         "title": null,
         "parent": {
@@ -1852,6 +1997,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011501308",
         "name": "\u00a7 78",
         "title": null,
         "parent": {
@@ -1865,6 +2011,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG001901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG001901308",
         "name": "Zweiter Abschnitt",
         "title": "Innungsverb\u00e4nde",
         "parent": {
@@ -1875,6 +2022,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011602308",
         "name": "\u00a7 79",
         "title": null,
         "parent": {
@@ -1888,6 +2036,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011702308",
         "name": "\u00a7 80",
         "title": null,
         "parent": {
@@ -1901,6 +2050,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011801308",
         "name": "\u00a7 81",
         "title": null,
         "parent": {
@@ -1914,6 +2064,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE011901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE011901308",
         "name": "\u00a7 82",
         "title": null,
         "parent": {
@@ -1927,6 +2078,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012002308",
         "name": "\u00a7 83",
         "title": null,
         "parent": {
@@ -1940,6 +2092,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012101308",
         "name": "\u00a7 84",
         "title": null,
         "parent": {
@@ -1953,6 +2106,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012204118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012204118",
         "name": "\u00a7 85",
         "title": null,
         "parent": {
@@ -1966,6 +2120,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG002001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG002001308",
         "name": "Dritter Abschnitt",
         "title": "Kreishandwerkerschaften",
         "parent": {
@@ -1976,6 +2131,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012301308",
         "name": "\u00a7 86",
         "title": null,
         "parent": {
@@ -1989,6 +2145,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012401308",
         "name": "\u00a7 87",
         "title": null,
         "parent": {
@@ -2002,6 +2159,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012501308",
         "name": "\u00a7 88",
         "title": null,
         "parent": {
@@ -2015,6 +2173,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012601308",
         "name": "\u00a7 89",
         "title": null,
         "parent": {
@@ -2028,6 +2187,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG002101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG002101308",
         "name": "Vierter Abschnitt",
         "title": "Handwerkskammern",
         "parent": {
@@ -2038,6 +2198,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012706360",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012706360",
         "name": "\u00a7 90",
         "title": null,
         "parent": {
@@ -2051,6 +2212,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012809118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012809118",
         "name": "\u00a7 91",
         "title": null,
         "parent": {
@@ -2064,6 +2226,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE012901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE012901308",
         "name": "\u00a7 92",
         "title": null,
         "parent": {
@@ -2077,6 +2240,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013004377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013004377",
         "name": "\u00a7 93",
         "title": null,
         "parent": {
@@ -2090,6 +2254,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013102308",
         "name": "\u00a7 94",
         "title": null,
         "parent": {
@@ -2103,6 +2268,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013202377",
         "name": "\u00a7 95",
         "title": null,
         "parent": {
@@ -2116,6 +2282,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013304377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013304377",
         "name": "\u00a7 96",
         "title": null,
         "parent": {
@@ -2129,6 +2296,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013404377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013404377",
         "name": "\u00a7 97",
         "title": null,
         "parent": {
@@ -2142,6 +2310,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013503377",
         "name": "\u00a7 98",
         "title": null,
         "parent": {
@@ -2155,6 +2324,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013603377",
         "name": "\u00a7 99",
         "title": null,
         "parent": {
@@ -2168,6 +2338,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013701308",
         "name": "\u00a7 100",
         "title": null,
         "parent": {
@@ -2181,6 +2352,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013803377",
         "name": "\u00a7 101",
         "title": null,
         "parent": {
@@ -2194,6 +2366,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE013901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE013901308",
         "name": "\u00a7 102",
         "title": null,
         "parent": {
@@ -2207,6 +2380,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014003377",
         "name": "\u00a7 103",
         "title": null,
         "parent": {
@@ -2220,6 +2394,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014103377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014103377",
         "name": "\u00a7 104",
         "title": null,
         "parent": {
@@ -2233,6 +2408,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014204118",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014204118",
         "name": "\u00a7 105",
         "title": null,
         "parent": {
@@ -2246,6 +2422,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014307128",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014307128",
         "name": "\u00a7 106",
         "title": null,
         "parent": {
@@ -2259,6 +2436,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014401308",
         "name": "\u00a7 107",
         "title": null,
         "parent": {
@@ -2272,6 +2450,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014502308",
         "name": "\u00a7 108",
         "title": null,
         "parent": {
@@ -2285,6 +2464,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014601308",
         "name": "\u00a7 109",
         "title": null,
         "parent": {
@@ -2298,6 +2478,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014701308",
         "name": "\u00a7 110",
         "title": null,
         "parent": {
@@ -2311,6 +2492,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014803377",
         "name": "\u00a7 111",
         "title": null,
         "parent": {
@@ -2324,6 +2506,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE014902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE014902377",
         "name": "\u00a7 112",
         "title": null,
         "parent": {
@@ -2337,6 +2520,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015008116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015008116",
         "name": "\u00a7 113",
         "title": null,
         "parent": {
@@ -2350,6 +2534,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015102308",
         "name": "\u00a7 114",
         "title": null,
         "parent": {
@@ -2363,6 +2548,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015201308",
         "name": "\u00a7 115",
         "title": null,
         "parent": {
@@ -2376,6 +2562,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015302308",
         "name": "\u00a7 116",
         "title": null,
         "parent": {
@@ -2389,6 +2576,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG002201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG002201308",
         "name": "F\u00fcnfter Teil",
         "title": "Bu\u00dfgeld-, \u00dcbergangs- und Schlu\u00dfvorschriften",
         "parent": null
@@ -2396,6 +2584,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG002301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG002301308",
         "name": "Erster Abschnitt",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2406,6 +2595,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015407116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015407116",
         "name": "\u00a7 117",
         "title": null,
         "parent": {
@@ -2419,6 +2609,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015506377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015506377",
         "name": "\u00a7 118",
         "title": null,
         "parent": {
@@ -2432,6 +2623,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017401308",
         "name": "\u00a7 118a",
         "title": null,
         "parent": {
@@ -2445,6 +2637,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG002401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG002401308",
         "name": "Zweiter Abschnitt",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -2455,6 +2648,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015704377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015704377",
         "name": "\u00a7 119",
         "title": "*)",
         "parent": {
@@ -2468,6 +2662,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015803377",
         "name": "\u00a7 120",
         "title": null,
         "parent": {
@@ -2481,6 +2676,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE015902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE015902377",
         "name": "\u00a7 121",
         "title": null,
         "parent": {
@@ -2494,6 +2690,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE016004377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE016004377",
         "name": "\u00a7 122",
         "title": null,
         "parent": {
@@ -2507,6 +2704,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE016103377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE016103377",
         "name": "\u00a7 123",
         "title": null,
         "parent": {
@@ -2520,6 +2718,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE016201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE016201308",
         "name": "\u00a7 124",
         "title": null,
         "parent": {
@@ -2533,6 +2732,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017503116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017503116",
         "name": "\u00a7 124a",
         "title": null,
         "parent": {
@@ -2546,6 +2746,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE018403116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE018403116",
         "name": "\u00a7 124b",
         "title": null,
         "parent": {
@@ -2559,6 +2760,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021800360",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021800360",
         "name": "\u00a7 124c",
         "title": null,
         "parent": {
@@ -2572,6 +2774,7 @@
       {
         "type": "heading",
         "id": "BJNR014110953BJNG002501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNG002501308",
         "name": "Dritter Abschnitt",
         "title": "Schlu\u00dfvorschriften",
         "parent": {
@@ -2582,6 +2785,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE016705116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE016705116",
         "name": "\u00a7 125",
         "title": null,
         "parent": {
@@ -2595,6 +2799,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE021700116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE021700116",
         "name": "\u00a7 126",
         "title": null,
         "parent": {
@@ -2608,6 +2813,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE016809116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE016809116",
         "name": "Anlage A",
         "title": "Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden k\u00f6nnen (\u00a7 1 Absatz 2)",
         "parent": {
@@ -2621,6 +2827,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE016906116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE016906116",
         "name": "Anlage B",
         "title": "Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerks\u00e4hnliche Gewerbe betrieben werden k\u00f6nnen (\u00a7 18 Absatz 2)",
         "parent": {
@@ -2634,6 +2841,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017703377",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017703377",
         "name": "Anlage C",
         "title": "zu dem Gesetz zur Ordnung des Handwerks\n(Handwerksordnung)",
         "parent": {
@@ -2647,6 +2855,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE017609116",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE017609116",
         "name": "Anlage D",
         "title": "zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)<BR/>Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerks\u00e4hnlichen Gewerbes und in der Lehrlingsrolle",
         "parent": {
@@ -2660,6 +2869,7 @@
       {
         "type": "article",
         "id": "BJNR014110953BJNE888800301",
+        "url": "https://api.rechtsinformationsportal.de/laws/hwo/articles/BJNR014110953BJNE888800301",
         "name": "Anhang EV",
         "title": "Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III\n<BR/>\n(BGBl. II 1990, 889, 998)",
         "parent": {

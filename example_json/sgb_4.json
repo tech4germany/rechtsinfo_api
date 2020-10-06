@@ -56,6 +56,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024630124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024630124",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -66,6 +67,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG000303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG000303308",
         "name": "Erster Abschnitt",
         "title": "Grunds\u00e4tze und Begriffsbestimmungen",
         "parent": null
@@ -73,6 +75,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG000403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG000403308",
         "name": "Erster Titel",
         "title": "Geltungsbereich und Umfang der Versicherung",
         "parent": {
@@ -83,6 +86,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE002316308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE002316308",
         "name": "\u00a7 1",
         "title": "Sachlicher Geltungsbereich",
         "parent": {
@@ -96,6 +100,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE002411377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE002411377",
         "name": "\u00a7 2",
         "title": "Versicherter Personenkreis",
         "parent": {
@@ -109,6 +114,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE002504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE002504308",
         "name": "\u00a7 3",
         "title": "Pers\u00f6nlicher und r\u00e4umlicher Geltungsbereich",
         "parent": {
@@ -122,6 +128,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE002603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE002603308",
         "name": "\u00a7 4",
         "title": "Ausstrahlung",
         "parent": {
@@ -135,6 +142,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE002702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE002702308",
         "name": "\u00a7 5",
         "title": "Einstrahlung",
         "parent": {
@@ -148,6 +156,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE002803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE002803308",
         "name": "\u00a7 6",
         "title": "Vorbehalt abweichender Regelungen",
         "parent": {
@@ -161,6 +170,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG000503308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG000503308",
         "name": "Zweiter Titel",
         "title": "Besch\u00e4ftigung und selbst\u00e4ndige T\u00e4tigkeit",
         "parent": {
@@ -171,6 +181,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE022107126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE022107126",
         "name": "\u00a7 7",
         "title": "Besch\u00e4ftigung",
         "parent": {
@@ -184,6 +195,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE018407301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE018407301",
         "name": "\u00a7 7a",
         "title": "Anfrageverfahren",
         "parent": {
@@ -197,6 +209,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE018108308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE018108308",
         "name": "\u00a7 7b",
         "title": "Wertguthabenvereinbarung",
         "parent": {
@@ -210,6 +223,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE022203126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE022203126",
         "name": "\u00a7 7c",
         "title": "Verwendung von Wertguthaben",
         "parent": {
@@ -223,6 +237,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE022301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE022301308",
         "name": "\u00a7 7d",
         "title": "F\u00fchrung und Verwaltung von Wertguthaben",
         "parent": {
@@ -236,6 +251,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE022401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE022401308",
         "name": "\u00a7 7e",
         "title": "Insolvenzschutz",
         "parent": {
@@ -249,6 +265,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE022502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE022502308",
         "name": "\u00a7 7f",
         "title": "\u00dcbertragung von Wertguthaben",
         "parent": {
@@ -262,6 +279,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003011126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003011126",
         "name": "\u00a7 8",
         "title": "Geringf\u00fcgige Besch\u00e4ftigung und geringf\u00fcgige selbst\u00e4ndige T\u00e4tigkeit",
         "parent": {
@@ -275,6 +293,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE020602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE020602308",
         "name": "\u00a7 8a",
         "title": "Geringf\u00fcgige Besch\u00e4ftigung in Privathaushalten",
         "parent": {
@@ -288,6 +307,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003103308",
         "name": "\u00a7 9",
         "title": "Besch\u00e4ftigungsort",
         "parent": {
@@ -301,6 +321,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003206308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003206308",
         "name": "\u00a7 10",
         "title": "Besch\u00e4ftigungsort f\u00fcr besondere Personengruppen",
         "parent": {
@@ -314,6 +335,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003302308",
         "name": "\u00a7 11",
         "title": "T\u00e4tigkeitsort",
         "parent": {
@@ -327,6 +349,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003404308",
         "name": "\u00a7 12",
         "title": "Hausgewerbetreibende, Heimarbeiter und Zwischenmeister",
         "parent": {
@@ -340,6 +363,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003504377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003504377",
         "name": "\u00a7 13",
         "title": "Reeder, Seeleute und Deutsche Seeschiffe",
         "parent": {
@@ -353,6 +377,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG000603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG000603308",
         "name": "Dritter Titel",
         "title": "Arbeitsentgelt und sonstiges Einkommen",
         "parent": {
@@ -363,6 +388,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003615119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003615119",
         "name": "\u00a7 14",
         "title": "Arbeitsentgelt",
         "parent": {
@@ -376,6 +402,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003703308",
         "name": "\u00a7 15",
         "title": "Arbeitseinkommen",
         "parent": {
@@ -389,6 +416,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003802308",
         "name": "\u00a7 16",
         "title": "Gesamteinkommen",
         "parent": {
@@ -402,6 +430,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE003910308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE003910308",
         "name": "\u00a7 17",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -415,6 +444,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE013105308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE013105308",
         "name": "\u00a7 17a",
         "title": "Umrechnung von ausl\u00e4ndischem Einkommen",
         "parent": {
@@ -428,6 +458,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004011119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004011119",
         "name": "\u00a7 18",
         "title": "Bezugsgr\u00f6\u00dfe",
         "parent": {
@@ -441,6 +472,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001804308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001804308",
         "name": "Vierter Titel",
         "title": "Einkommen beim Zusammentreffen mit Renten wegen Todes",
         "parent": {
@@ -451,6 +483,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE013234119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE013234119",
         "name": "\u00a7 18a",
         "title": "Art des zu ber\u00fccksichtigenden Einkommens",
         "parent": {
@@ -464,6 +497,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE013323119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE013323119",
         "name": "\u00a7 18b",
         "title": "H\u00f6he des zu ber\u00fccksichtigenden Einkommens",
         "parent": {
@@ -477,6 +511,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE013404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE013404308",
         "name": "\u00a7 18c",
         "title": "Erstmalige Ermittlung des Einkommens",
         "parent": {
@@ -490,6 +525,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE013507119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE013507119",
         "name": "\u00a7 18d",
         "title": "Einkommens\u00e4nderungen",
         "parent": {
@@ -503,6 +539,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE013607119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE013607119",
         "name": "\u00a7 18e",
         "title": "Ermittlung von Einkommens\u00e4nderungen",
         "parent": {
@@ -516,6 +553,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001905126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001905126",
         "name": "F\u00fcnfter Titel",
         "title": "Verarbeitung der Versicherungsnummer",
         "parent": {
@@ -526,6 +564,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE013714126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE013714126",
         "name": "\u00a7 18f",
         "title": "Zul\u00e4ssigkeit der Verarbeitung",
         "parent": {
@@ -539,6 +578,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE013804126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE013804126",
         "name": "\u00a7 18g",
         "title": "Angabe der Versicherungsnummer",
         "parent": {
@@ -552,6 +592,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG002803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG002803308",
         "name": "Sechster Titel",
         "title": "Sozialversicherungsausweis",
         "parent": {
@@ -562,6 +603,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE021807124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE021807124",
         "name": "\u00a7 18h",
         "title": "Ausstellung des Sozialversicherungsausweises",
         "parent": {
@@ -575,6 +617,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG003900119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG003900119",
         "name": "Siebter Titel",
         "title": "Betriebsnummer",
         "parent": {
@@ -585,6 +628,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE025301126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE025301126",
         "name": "\u00a7 18i",
         "title": "Betriebsnummer f\u00fcr Besch\u00e4ftigungsbetriebe der Arbeitgeber",
         "parent": {
@@ -598,6 +642,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE025401124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE025401124",
         "name": "\u00a7 18k",
         "title": "Betriebsnummer f\u00fcr Besch\u00e4ftigungsbetriebe weiterer Meldepflichtiger",
         "parent": {
@@ -611,6 +656,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE025500119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE025500119",
         "name": "\u00a7 18l",
         "title": "Identifikation weiterer Verfahrensbeteiligter in elektronischen Meldeverfahren",
         "parent": {
@@ -624,6 +670,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE025601126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE025601126",
         "name": "\u00a7 18m",
         "title": "Verarbeitung der Betriebsnummer",
         "parent": {
@@ -637,6 +684,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE025700119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE025700119",
         "name": "\u00a7 18n",
         "title": "Absendernummer",
         "parent": {
@@ -650,6 +698,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG000703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG000703308",
         "name": "Zweiter Abschnitt",
         "title": "Leistungen und Beitr\u00e4ge",
         "parent": null
@@ -657,6 +706,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG000803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG000803308",
         "name": "Erster Titel",
         "title": "Leistungen",
         "parent": {
@@ -667,6 +717,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004106308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004106308",
         "name": "\u00a7 19",
         "title": "Leistungen auf Antrag oder von Amts wegen",
         "parent": {
@@ -680,6 +731,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE021101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE021101308",
         "name": "\u00a7 19a",
         "title": "Benachteiligungsverbot",
         "parent": {
@@ -693,6 +745,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG000903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG000903308",
         "name": "Zweiter Titel",
         "title": "Beitr\u00e4ge",
         "parent": {
@@ -703,6 +756,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004211126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004211126",
         "name": "\u00a7 20",
         "title": "Aufbringung der Mittel, \u00dcbergangsbereich",
         "parent": {
@@ -716,6 +770,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004302308",
         "name": "\u00a7 21",
         "title": "Bemessung der Beitr\u00e4ge",
         "parent": {
@@ -729,6 +784,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004413124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004413124",
         "name": "\u00a7 22",
         "title": "Entstehen der Beitragsanspr\u00fcche, Zusammentreffen mehrerer Versicherungsverh\u00e4ltnisse",
         "parent": {
@@ -742,6 +798,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004526124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004526124",
         "name": "\u00a7 23",
         "title": "F\u00e4lligkeit",
         "parent": {
@@ -755,6 +812,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017507124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017507124",
         "name": "\u00a7 23a",
         "title": "Einmalig gezahltes Arbeitsentgelt als beitragspflichtige Einnahmen",
         "parent": {
@@ -768,6 +826,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE018210124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE018210124",
         "name": "\u00a7 23b",
         "title": "Beitragspflichtige Einnahmen bei flexiblen Arbeitszeitregelungen",
         "parent": {
@@ -781,6 +840,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE020820124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE020820124",
         "name": "\u00a7 23c",
         "title": "Sonstige nicht beitragspflichtige Einnahmen",
         "parent": {
@@ -794,6 +854,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004609119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004609119",
         "name": "\u00a7 24",
         "title": "S\u00e4umniszuschlag",
         "parent": {
@@ -807,6 +868,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004709124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004709124",
         "name": "\u00a7 25",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -820,6 +882,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004806119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004806119",
         "name": "\u00a7 26",
         "title": "Beanstandung und Erstattung zu Unrecht entrichteter Beitr\u00e4ge",
         "parent": {
@@ -833,6 +896,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE004905308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE004905308",
         "name": "\u00a7 27",
         "title": "Verzinsung und Verj\u00e4hrung des Erstattungsanspruchs",
         "parent": {
@@ -846,6 +910,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005003308",
         "name": "\u00a7 28",
         "title": "Verrechnung und Aufrechnung des Erstattungsanspruchs",
         "parent": {
@@ -859,6 +924,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG002003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG002003308",
         "name": "Dritter Abschnitt",
         "title": "Meldepflichten des Arbeitgebers, Gesamtsozialversicherungsbeitrag",
         "parent": null
@@ -866,6 +932,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG002103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG002103308",
         "name": "Erster Titel",
         "title": "Meldungen des Arbeitgebers und ihre Weiterleitung",
         "parent": {
@@ -876,6 +943,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE022921124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE022921124",
         "name": "\u00a7 28a",
         "title": "Meldepflicht",
         "parent": {
@@ -889,6 +957,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE021512124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE021512124",
         "name": "\u00a7 28b",
         "title": "Inhalte und Verfahren f\u00fcr die Gemeinsamen Grunds\u00e4tze und die Datenfeldbeschreibung",
         "parent": {
@@ -902,6 +971,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014111308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014111308",
         "name": "\u00a7 28c",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -915,6 +985,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG002203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG002203308",
         "name": "Zweiter Titel",
         "title": "Verfahren und Haftung bei der Beitragszahlung",
         "parent": {
@@ -925,6 +996,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014206308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014206308",
         "name": "\u00a7 28d",
         "title": "Gesamtsozialversicherungsbeitrag",
         "parent": {
@@ -938,6 +1010,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014316124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014316124",
         "name": "\u00a7 28e",
         "title": "Zahlungspflicht, Vorschuss",
         "parent": {
@@ -951,6 +1024,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014434126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014434126",
         "name": "\u00a7 28f",
         "title": "Aufzeichnungspflicht, Nachweise der Beitragsabrechnung und der Beitragszahlung",
         "parent": {
@@ -964,6 +1038,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014506308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014506308",
         "name": "\u00a7 28g",
         "title": "Beitragsabzug",
         "parent": {
@@ -977,6 +1052,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014618119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014618119",
         "name": "\u00a7 28h",
         "title": "Einzugsstellen",
         "parent": {
@@ -990,6 +1066,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014715308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014715308",
         "name": "\u00a7 28i",
         "title": "Zust\u00e4ndige Einzugsstelle",
         "parent": {
@@ -1003,6 +1080,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014825308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014825308",
         "name": "\u00a7 28k",
         "title": "Weiterleitung von Beitr\u00e4gen",
         "parent": {
@@ -1016,6 +1094,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE014917124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE014917124",
         "name": "\u00a7 28l",
         "title": "Verg\u00fctung",
         "parent": {
@@ -1029,6 +1108,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE015003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE015003308",
         "name": "\u00a7 28m",
         "title": "Sonderregelungen f\u00fcr bestimmte Personengruppen",
         "parent": {
@@ -1042,6 +1122,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE015116308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE015116308",
         "name": "\u00a7 28n",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1055,6 +1136,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG002303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG002303308",
         "name": "Dritter Titel",
         "title": "Auskunfts- und Vorlagepflicht, Pr\u00fcfung, Schadensersatzpflicht und Verzinsung",
         "parent": {
@@ -1065,6 +1147,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE015209308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE015209308",
         "name": "\u00a7 28o",
         "title": "Auskunfts- und Vorlagepflicht des Besch\u00e4ftigten",
         "parent": {
@@ -1078,6 +1161,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE015329124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE015329124",
         "name": "\u00a7 28p",
         "title": "Pr\u00fcfung bei den Arbeitgebern",
         "parent": {
@@ -1091,6 +1175,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE015419126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE015419126",
         "name": "\u00a7 28q",
         "title": "Pr\u00fcfung bei den Einzugsstellen und den Tr\u00e4gern der Rentenversicherung",
         "parent": {
@@ -1104,6 +1189,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE022001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE022001308",
         "name": "\u00a7 28r",
         "title": "Schadensersatzpflicht, Verzinsung",
         "parent": {
@@ -1117,6 +1203,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001004308",
         "name": "Vierter Abschnitt",
         "title": "Tr\u00e4ger der Sozialversicherung",
         "parent": null
@@ -1124,6 +1211,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001104308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001104308",
         "name": "Erster Titel",
         "title": "Verfassung",
         "parent": {
@@ -1134,6 +1222,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005104308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005104308",
         "name": "\u00a7 29",
         "title": "Rechtsstellung",
         "parent": {
@@ -1147,6 +1236,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005203308",
         "name": "\u00a7 30",
         "title": "Eigene und \u00fcbertragene Aufgaben",
         "parent": {
@@ -1160,6 +1250,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005306308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005306308",
         "name": "\u00a7 31",
         "title": "Organe",
         "parent": {
@@ -1173,6 +1264,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005405308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005405308",
         "name": "\u00a7 32",
         "title": "(weggefallen)",
         "parent": {
@@ -1186,6 +1278,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005505308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005505308",
         "name": "\u00a7 33",
         "title": "Vertreterversammlung, Verwaltungsrat",
         "parent": {
@@ -1199,6 +1292,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005602308",
         "name": "\u00a7 34",
         "title": "Satzung",
         "parent": {
@@ -1212,6 +1306,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005704308",
         "name": "\u00a7 35",
         "title": "Vorstand",
         "parent": {
@@ -1225,6 +1320,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017308126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017308126",
         "name": "\u00a7 35a",
         "title": "Vorstand bei Orts-, Betriebs- und Innungskrankenkassen sowie Ersatzkassen",
         "parent": {
@@ -1238,6 +1334,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005818377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005818377",
         "name": "\u00a7 36",
         "title": "Gesch\u00e4ftsf\u00fchrer",
         "parent": {
@@ -1251,6 +1348,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE005906308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE005906308",
         "name": "\u00a7 36a",
         "title": "Besondere Aussch\u00fcsse",
         "parent": {
@@ -1264,6 +1362,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006002308",
         "name": "\u00a7 37",
         "title": "Verhinderung von Organen",
         "parent": {
@@ -1277,6 +1376,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006102308",
         "name": "\u00a7 38",
         "title": "Beanstandung von Rechtsverst\u00f6\u00dfen",
         "parent": {
@@ -1290,6 +1390,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006207308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006207308",
         "name": "\u00a7 39",
         "title": "Versicherten\u00e4lteste und Vertrauenspersonen",
         "parent": {
@@ -1303,6 +1404,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006303308",
         "name": "\u00a7 40",
         "title": "Ehren\u00e4mter",
         "parent": {
@@ -1316,6 +1418,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006404308",
         "name": "\u00a7 41",
         "title": "Entsch\u00e4digung der ehrenamtlich T\u00e4tigen",
         "parent": {
@@ -1329,6 +1432,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006505308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006505308",
         "name": "\u00a7 42",
         "title": "Haftung",
         "parent": {
@@ -1342,6 +1446,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001205308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001205308",
         "name": "Zweiter Titel",
         "title": "Zusammensetzung, Wahl und Verfahren der Selbstverwaltungsorgane, Versicherten\u00e4ltesten und Vertrauenspersonen",
         "parent": {
@@ -1352,6 +1457,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006608308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006608308",
         "name": "\u00a7 43",
         "title": "Mitglieder der Selbstverwaltungsorgane",
         "parent": {
@@ -1365,6 +1471,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006730124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006730124",
         "name": "\u00a7 44",
         "title": "Zusammensetzung der Selbstverwaltungsorgane",
         "parent": {
@@ -1378,6 +1485,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006803124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006803124",
         "name": "\u00a7 45",
         "title": "Sozialversicherungswahlen",
         "parent": {
@@ -1391,6 +1499,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE006905308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE006905308",
         "name": "\u00a7 46",
         "title": "Wahl der Vertreterversammlung",
         "parent": {
@@ -1404,6 +1513,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007009119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007009119",
         "name": "\u00a7 47",
         "title": "Gruppenzugeh\u00f6rigkeit",
         "parent": {
@@ -1417,6 +1527,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007108126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007108126",
         "name": "\u00a7 48",
         "title": "Vorschlagslisten",
         "parent": {
@@ -1430,6 +1541,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE012702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE012702308",
         "name": "\u00a7 48a",
         "title": "Vorschlagsrecht der Arbeitnehmervereinigungen",
         "parent": {
@@ -1443,6 +1555,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE012803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE012803308",
         "name": "\u00a7 48b",
         "title": "Feststellungsverfahren",
         "parent": {
@@ -1456,6 +1569,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE012902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE012902308",
         "name": "\u00a7 48c",
         "title": "Feststellung der allgemeinen Vorschlagsberechtigung",
         "parent": {
@@ -1469,6 +1583,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007204308",
         "name": "\u00a7 49",
         "title": "Stimmenzahl",
         "parent": {
@@ -1482,6 +1597,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007307308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007307308",
         "name": "\u00a7 50",
         "title": "Wahlrecht",
         "parent": {
@@ -1495,6 +1611,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007414119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007414119",
         "name": "\u00a7 51",
         "title": "W\u00e4hlbarkeit",
         "parent": {
@@ -1508,6 +1625,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007505308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007505308",
         "name": "\u00a7 52",
         "title": "Wahl des Vorstandes",
         "parent": {
@@ -1521,6 +1639,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007605308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007605308",
         "name": "\u00a7 53",
         "title": "Wahlorgane",
         "parent": {
@@ -1534,6 +1653,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007707308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007707308",
         "name": "\u00a7 54",
         "title": "Durchf\u00fchrung der Wahl",
         "parent": {
@@ -1547,6 +1667,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE007905308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE007905308",
         "name": "\u00a7 55",
         "title": "Wahlunterlagen und Mitwirkung der Arbeitgeber",
         "parent": {
@@ -1560,6 +1681,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008006308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008006308",
         "name": "\u00a7 56",
         "title": "Wahlordnung",
         "parent": {
@@ -1573,6 +1695,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008104308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008104308",
         "name": "\u00a7 57",
         "title": "Rechtsbehelfe im Wahlverfahren",
         "parent": {
@@ -1586,6 +1709,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008203308",
         "name": "\u00a7 58",
         "title": "Amtsdauer",
         "parent": {
@@ -1599,6 +1723,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008303119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008303119",
         "name": "\u00a7 59",
         "title": "Verlust der Mitgliedschaft",
         "parent": {
@@ -1612,6 +1737,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008405308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008405308",
         "name": "\u00a7 60",
         "title": "Erg\u00e4nzung der Selbstverwaltungsorgane",
         "parent": {
@@ -1625,6 +1751,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008504308",
         "name": "\u00a7 61",
         "title": "Wahl der Versicherten\u00e4ltesten und der Vertrauenspersonen",
         "parent": {
@@ -1638,6 +1765,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008606308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008606308",
         "name": "\u00a7 62",
         "title": "Vorsitzende der Selbstverwaltungsorgane",
         "parent": {
@@ -1651,6 +1779,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008703308",
         "name": "\u00a7 63",
         "title": "Beratung",
         "parent": {
@@ -1664,6 +1793,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008806126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008806126",
         "name": "\u00a7 64",
         "title": "Beschlussfassung",
         "parent": {
@@ -1677,6 +1807,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE008905308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE008905308",
         "name": "\u00a7 65",
         "title": "Getrennte Abstimmung",
         "parent": {
@@ -1690,6 +1821,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009002308",
         "name": "\u00a7 66",
         "title": "Erledigungsaussch\u00fcsse",
         "parent": {
@@ -1703,6 +1835,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001304308",
         "name": "Dritter Titel",
         "title": "Haushalts- und Rechnungswesen",
         "parent": {
@@ -1713,6 +1846,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009102308",
         "name": "\u00a7 67",
         "title": "Aufstellung des Haushaltsplans",
         "parent": {
@@ -1726,6 +1860,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009202308",
         "name": "\u00a7 68",
         "title": "Bedeutung und Wirkung des Haushaltsplans",
         "parent": {
@@ -1739,6 +1874,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009310308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009310308",
         "name": "\u00a7 69",
         "title": "Ausgleich, Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung, Personalbedarfsermittlung",
         "parent": {
@@ -1752,6 +1888,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009418377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009418377",
         "name": "\u00a7 70",
         "title": "Haushaltsplan",
         "parent": {
@@ -1765,6 +1902,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009507308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009507308",
         "name": "\u00a7 71",
         "title": "Haushaltsplan der Deutschen Rentenversicherung Knappschaft-Bahn-See",
         "parent": {
@@ -1778,6 +1916,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017607308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017607308",
         "name": "\u00a7 71a",
         "title": "Haushaltsplan der Bundesagentur f\u00fcr Arbeit",
         "parent": {
@@ -1791,6 +1930,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017713140",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017713140",
         "name": "\u00a7 71b",
         "title": "Veranschlagung der Arbeitsmarktmittel der Bundesagentur f\u00fcr Arbeit",
         "parent": {
@@ -1804,6 +1944,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017804308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017804308",
         "name": "\u00a7 71c",
         "title": "Eingliederungsr\u00fccklage der Bundesagentur f\u00fcr Arbeit",
         "parent": {
@@ -1817,6 +1958,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE019007119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE019007119",
         "name": "\u00a7 71d",
         "title": "Haushaltsplan und Kostenverteilungsverfahren der Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau",
         "parent": {
@@ -1830,6 +1972,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024403126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024403126",
         "name": "\u00a7 71e",
         "title": "Ausweisung der Schiffssicherheitsabteilung im Haushaltsplan",
         "parent": {
@@ -1843,6 +1986,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024804126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024804126",
         "name": "\u00a7 71f",
         "title": "Haushaltsplan der Unfallversicherung Bund und Bahn",
         "parent": {
@@ -1856,6 +2000,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009613119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009613119",
         "name": "\u00a7 72",
         "title": "Vorl\u00e4ufige Haushaltsf\u00fchrung",
         "parent": {
@@ -1869,6 +2014,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009723126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009723126",
         "name": "\u00a7 73",
         "title": "\u00dcberplanm\u00e4\u00dfige und au\u00dferplanm\u00e4\u00dfige Ausgaben",
         "parent": {
@@ -1882,6 +2028,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009803308",
         "name": "\u00a7 74",
         "title": "Nachtragshaushalt",
         "parent": {
@@ -1895,6 +2042,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE009903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE009903308",
         "name": "\u00a7 75",
         "title": "Verpflichtungserm\u00e4chtigungen",
         "parent": {
@@ -1908,6 +2056,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010008308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010008308",
         "name": "\u00a7 76",
         "title": "Erhebung der Einnahmen",
         "parent": {
@@ -1921,6 +2070,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010114308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010114308",
         "name": "\u00a7 77",
         "title": "Rechnungsabschluss, Jahresrechnung und Entlastung",
         "parent": {
@@ -1934,6 +2084,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017903308",
         "name": "\u00a7 77a",
         "title": "Geltung von Haushaltsvorschriften des Bundes f\u00fcr die Bundesagentur f\u00fcr Arbeit",
         "parent": {
@@ -1947,6 +2098,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010207308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010207308",
         "name": "\u00a7 78",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1960,6 +2112,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010313119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010313119",
         "name": "\u00a7 79",
         "title": "Gesch\u00e4fts\u00fcbersichten und Statistiken der Sozialversicherung",
         "parent": {
@@ -1973,6 +2126,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001404308",
         "name": "Vierter Titel",
         "title": "Verm\u00f6gen",
         "parent": {
@@ -1983,6 +2137,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010402308",
         "name": "\u00a7 80",
         "title": "Verwaltung der Mittel",
         "parent": {
@@ -1996,6 +2151,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010502308",
         "name": "\u00a7 81",
         "title": "Betriebsmittel",
         "parent": {
@@ -2009,6 +2165,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010602308",
         "name": "\u00a7 82",
         "title": "R\u00fccklage",
         "parent": {
@@ -2022,6 +2179,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010705308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010705308",
         "name": "\u00a7 83",
         "title": "Anlegung der R\u00fccklage",
         "parent": {
@@ -2035,6 +2193,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010802308",
         "name": "\u00a7 84",
         "title": "Beleihung von Grundst\u00fccken",
         "parent": {
@@ -2048,6 +2207,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE010913124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE010913124",
         "name": "\u00a7 85",
         "title": "Genehmigungs- und anzeigepflichtige Verm\u00f6gensanlagen",
         "parent": {
@@ -2061,6 +2221,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011002308",
         "name": "\u00a7 86",
         "title": "Ausnahmegenehmigung",
         "parent": {
@@ -2074,6 +2235,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001504308",
         "name": "F\u00fcnfter Titel",
         "title": "Aufsicht",
         "parent": {
@@ -2084,6 +2246,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011105126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011105126",
         "name": "\u00a7 87",
         "title": "Umfang der Aufsicht",
         "parent": {
@@ -2097,6 +2260,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011209126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011209126",
         "name": "\u00a7 88",
         "title": "Pr\u00fcfung und Unterrichtung",
         "parent": {
@@ -2110,6 +2274,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011304308",
         "name": "\u00a7 89",
         "title": "Aufsichtsmittel",
         "parent": {
@@ -2123,6 +2288,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011419124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011419124",
         "name": "\u00a7 90",
         "title": "Aufsichtsbeh\u00f6rden",
         "parent": {
@@ -2136,6 +2302,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017404126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017404126",
         "name": "\u00a7 90a",
         "title": "Zust\u00e4ndigkeitsbereich",
         "parent": {
@@ -2149,6 +2316,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG001604308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG001604308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Versicherungsbeh\u00f6rden",
         "parent": null
@@ -2156,6 +2324,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011504126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011504126",
         "name": "\u00a7 91",
         "title": "Arten",
         "parent": {
@@ -2169,6 +2338,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011602308",
         "name": "\u00a7 92",
         "title": "Versicherungs\u00e4mter",
         "parent": {
@@ -2182,6 +2352,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011703308",
         "name": "\u00a7 93",
         "title": "Aufgaben der Versicherungs\u00e4mter",
         "parent": {
@@ -2195,6 +2366,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE011809126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE011809126",
         "name": "\u00a7 94",
         "title": "Bundesamt f\u00fcr Soziale Sicherung",
         "parent": {
@@ -2208,6 +2380,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG003701126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG003701126",
         "name": "Sechster Abschnitt",
         "title": "Verarbeitung von elektronischen Daten in der Sozialversicherung",
         "parent": null
@@ -2215,6 +2388,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG003102119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG003102119",
         "name": "Erster Titel",
         "title": "\u00dcbermittlung von Daten zur und innerhalb der Sozialversicherung",
         "parent": {
@@ -2225,6 +2399,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024902124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024902124",
         "name": "\u00a7 95",
         "title": "Gemeinsame Grunds\u00e4tze Technik",
         "parent": {
@@ -2238,6 +2413,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE026300124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE026300124",
         "name": "\u00a7 95a",
         "title": "Ausf\u00fcllhilfe zum elektronischen Datenaustausch mit Sozialversicherungstr\u00e4gern",
         "parent": {
@@ -2251,6 +2427,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE026400124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE026400124",
         "name": "\u00a7 95b",
         "title": "Systempr\u00fcfung",
         "parent": {
@@ -2264,6 +2441,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE026500124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE026500124",
         "name": "\u00a7 95c",
         "title": "Datenaustausch zwischen den Sozialversicherungstr\u00e4gern",
         "parent": {
@@ -2277,6 +2455,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG002604126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG002604126",
         "name": "Zweiter Titel",
         "title": "Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungstr\u00e4ger",
         "parent": {
@@ -2287,6 +2466,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE023304126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE023304126",
         "name": "\u00a7 96",
         "title": "Kommunikationsserver",
         "parent": {
@@ -2300,6 +2480,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE023405124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE023405124",
         "name": "\u00a7 97",
         "title": "Annahmestellen",
         "parent": {
@@ -2313,6 +2494,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE023504124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE023504124",
         "name": "\u00a7 98",
         "title": "Weiterleitung der Daten durch die Einzugsstellen",
         "parent": {
@@ -2326,6 +2508,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG003800119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG003800119",
         "name": "Dritter Titel",
         "title": "\u00dcbermittlung von Daten im Lohnnachweisverfahren der Unfallversicherung",
         "parent": {
@@ -2336,6 +2519,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE023603119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE023603119",
         "name": "\u00a7 99",
         "title": "\u00dcbermittlung von Daten durch den Unternehmer im Lohnnachweisverfahren",
         "parent": {
@@ -2349,6 +2533,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE023703119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE023703119",
         "name": "\u00a7 100",
         "title": "Inhalt des elektronischen Lohnnachweises",
         "parent": {
@@ -2362,6 +2547,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE023804126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE023804126",
         "name": "\u00a7 101",
         "title": "Stammdatendatei",
         "parent": {
@@ -2375,6 +2561,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE023904126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE023904126",
         "name": "\u00a7 102",
         "title": "Annahme, Pr\u00fcfung und Weiterleitung der Daten zum Lohnnachweisverfahren",
         "parent": {
@@ -2388,6 +2575,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024002119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024002119",
         "name": "\u00a7 103",
         "title": "Gemeinsame Grunds\u00e4tze zur Daten\u00fcbermittlung an die Unfallversicherung",
         "parent": {
@@ -2401,6 +2589,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG004000119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG004000119",
         "name": "Siebter Abschnitt",
         "title": "Informationsangebote in den Meldeverfahren der sozialen Sicherung",
         "parent": null
@@ -2408,6 +2597,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024102119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024102119",
         "name": "\u00a7 104",
         "title": "Informations- und Beratungsanspruch",
         "parent": {
@@ -2421,6 +2611,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE016404119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE016404119",
         "name": "\u00a7 105",
         "title": "Informationsportal",
         "parent": {
@@ -2434,6 +2625,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG004100119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG004100119",
         "name": "Achter Abschnitt",
         "title": "Elektronisches Antrags- und Bescheinigungsverfahren",
         "parent": null
@@ -2441,6 +2633,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE016508126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE016508126",
         "name": "\u00a7 106",
         "title": "Elektronischer Antrag auf Ausstellung einer Bescheinigung \u00fcber die anzuwendenden Rechtsvorschriften bei Besch\u00e4ftigung nach Artikel 12 Absatz 1 der Verordnung (EG) Nr. 883/2004 und bei Ausnahmevereinbarungen nach Artikel 16 der Verordnung (EG) Nr. 883/2004",
         "parent": {
@@ -2454,6 +2647,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE016617126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE016617126",
         "name": "\u00a7 107",
         "title": "Elektronische \u00dcbermittlung von Bescheinigungen f\u00fcr Entgeltersatzleistungen",
         "parent": {
@@ -2467,6 +2661,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE016706124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE016706124",
         "name": "\u00a7 108",
         "title": "Elektronische \u00dcbermittlung von sonstigen Bescheinigungen an die Sozialversicherungstr\u00e4ger",
         "parent": {
@@ -2480,6 +2675,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE023205119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE023205119",
         "name": "(XXXX) \u00a7\u00a7 109 und 110",
         "title": "(weggefallen)",
         "parent": {
@@ -2493,6 +2689,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG003005119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG003005119",
         "name": "Neunter Abschnitt",
         "title": "Aufbewahrung von Unterlagen",
         "parent": null
@@ -2500,6 +2697,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE020203119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE020203119",
         "name": "\u00a7 110a",
         "title": "Aufbewahrungspflicht",
         "parent": {
@@ -2513,6 +2711,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE020302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE020302308",
         "name": "\u00a7 110b",
         "title": "R\u00fcckgabe, Vernichtung und Archivierung von Unterlagen",
         "parent": {
@@ -2526,6 +2725,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE020405119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE020405119",
         "name": "\u00a7 110c",
         "title": "Verwaltungsvereinbarungen, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2539,6 +2739,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG002706119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG002706119",
         "name": "Zehnter Abschnitt",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": null
@@ -2546,6 +2747,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017035124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017035124",
         "name": "\u00a7 111",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2559,6 +2761,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017120119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017120119",
         "name": "\u00a7 112",
         "title": "Allgemeines \u00fcber Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2572,6 +2775,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE017207308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE017207308",
         "name": "\u00a7 113",
         "title": "Zusammenarbeit mit anderen Beh\u00f6rden",
         "parent": {
@@ -2585,6 +2789,7 @@
       {
         "type": "heading",
         "id": "BJNR138450976BJNG002907119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNG002907119",
         "name": "Elfter Abschnitt",
         "title": "\u00dcbergangsvorschriften",
         "parent": null
@@ -2592,6 +2797,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE018806119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE018806119",
         "name": "\u00a7 114",
         "title": "Einkommen beim Zusammentreffen mit Renten wegen Todes",
         "parent": {
@@ -2605,6 +2811,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE018911126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE018911126",
         "name": "\u00a7 115",
         "title": "Geringf\u00fcgige Besch\u00e4ftigung und geringf\u00fcgige selbst\u00e4ndige T\u00e4tigkeit",
         "parent": {
@@ -2618,6 +2825,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE022701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE022701308",
         "name": "\u00a7 116",
         "title": "\u00dcbergangsregelungen f\u00fcr bestehende Wertguthaben",
         "parent": {
@@ -2631,6 +2839,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024500308",
         "name": "\u00a7 116a",
         "title": "\u00dcbergangsregelung zur Beitragshaftung",
         "parent": {
@@ -2644,6 +2853,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE020707308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE020707308",
         "name": "\u00a7 117",
         "title": "Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner",
         "parent": {
@@ -2657,6 +2867,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE020906301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE020906301",
         "name": "\u00a7 118",
         "title": "\u00dcbergangsregelung f\u00fcr T\u00e4tigkeiten als Not\u00e4rztin oder Notarzt im Rettungsdienst",
         "parent": {
@@ -2670,6 +2881,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024701126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024701126",
         "name": "\u00a7 119",
         "title": "(weggefallen)",
         "parent": {
@@ -2683,6 +2895,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE024203119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE024203119",
         "name": "\u00a7 120",
         "title": "\u00dcbergangsregelung zur \u00c4nderung der W\u00e4hlbarkeitsvoraussetzungen",
         "parent": {
@@ -2696,6 +2909,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE025800124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE025800124",
         "name": "\u00a7 121",
         "title": "\u00dcbergangsregelung zur Verg\u00fctung der Vorstandsmitglieder der gesetzlichen Krankenkassen",
         "parent": {
@@ -2709,6 +2923,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE026800124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE026800124",
         "name": "\u00a7 123",
         "title": "\u00dcbergangsregelung zur Struktur der Einrichtungen",
         "parent": {
@@ -2722,6 +2937,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE027100124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE027100124",
         "name": "\u00a7 127",
         "title": "Bericht \u00fcber die Untersuchung zur strukturierten \u00dcbermittlung der Daten f\u00fcr die elektronisch unterst\u00fctzte Pr\u00fcfung bei den Arbeitgebern",
         "parent": {
@@ -2735,6 +2951,7 @@
       {
         "type": "article",
         "id": "BJNR138450976BJNE888800301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_4/articles/BJNR138450976BJNE888800301",
         "name": "Anhang EV",
         "title": "Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III\n<BR/>\n(BGBl. II 1990, 889, 1046)\n<BR/>\n- Ma\u00dfgaben f\u00fcr das beigetretene Gebiet (Art. 3 EinigVtr) -",
         "parent": {

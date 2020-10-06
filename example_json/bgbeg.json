@@ -74,6 +74,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG000103377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG000103377",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -81,6 +82,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG001602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG001602377",
         "name": "Erstes Kapitel",
         "title": "Inkrafttreten. Vorbehalt f\u00fcr Landesrecht. Gesetzesbegriff",
         "parent": {
@@ -91,6 +93,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG030900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030900377",
         "name": "Art 1",
         "title": null,
         "parent": {
@@ -104,6 +107,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031000377",
         "name": "Art 2",
         "title": null,
         "parent": {
@@ -117,6 +121,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG000702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG000702377",
         "name": "Zweites Kapitel",
         "title": "Internationales Privatrecht",
         "parent": {
@@ -127,6 +132,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG000803140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG000803140",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -137,6 +143,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031108360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031108360",
         "name": "Art 3",
         "title": "Anwendungsbereich; Verh\u00e4ltnis zu Regelungen der Europ\u00e4ischen Union und zu v\u00f6lkerrechtlichen Vereinbarungen",
         "parent": {
@@ -150,6 +157,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031201360",
         "name": "Art 4",
         "title": "Verweisung",
         "parent": {
@@ -163,6 +171,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031300377",
         "name": "Art 5",
         "title": "Personalstatut",
         "parent": {
@@ -176,6 +185,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031400377",
         "name": "Art 6",
         "title": "\u00d6ffentliche Ordnung (ordre public)",
         "parent": {
@@ -189,6 +199,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG000902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG000902377",
         "name": "Zweiter Abschnitt",
         "title": "Recht der nat\u00fcrlichen Personen und der Rechtsgesch\u00e4fte",
         "parent": {
@@ -199,6 +210,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031500377",
         "name": "Art 7",
         "title": "Rechtsf\u00e4higkeit und Gesch\u00e4ftsf\u00e4higkeit",
         "parent": {
@@ -212,6 +224,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031601123",
         "name": "Art 8",
         "title": "Gewillk\u00fcrte Stellvertretung",
         "parent": {
@@ -225,6 +238,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031700377",
         "name": "Art 9",
         "title": "Todeserkl\u00e4rung",
         "parent": {
@@ -238,6 +252,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031801377",
         "name": "Art 10",
         "title": "Name",
         "parent": {
@@ -251,6 +266,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG031901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG031901140",
         "name": "Art 11",
         "title": "Form von Rechtsgesch\u00e4ften",
         "parent": {
@@ -264,6 +280,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG032000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032000377",
         "name": "Art 12",
         "title": "Schutz des anderen Vertragsteils",
         "parent": {
@@ -277,6 +294,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG001002377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG001002377",
         "name": "Dritter Abschnitt",
         "title": "Familienrecht",
         "parent": {
@@ -287,6 +305,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG032101123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032101123",
         "name": "Art 13",
         "title": "Eheschlie\u00dfung",
         "parent": {
@@ -300,6 +319,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG032201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032201360",
         "name": "Art 14",
         "title": "Allgemeine Ehewirkungen",
         "parent": {
@@ -313,6 +333,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG032301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032301360",
         "name": "Art 15",
         "title": "(weggefallen)",
         "parent": {
@@ -323,6 +344,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG032401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032401360",
         "name": "Art 16",
         "title": "(weggefallen)",
         "parent": {
@@ -333,6 +355,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG032504360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032504360",
         "name": "Art 17",
         "title": "Sonderregelungen zur Scheidung",
         "parent": {
@@ -346,6 +369,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG032602360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032602360",
         "name": "Art 17a",
         "title": "Ehewohnung",
         "parent": {
@@ -359,6 +383,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG032710360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032710360",
         "name": "Art 17b",
         "title": "Eingetragene Lebenspartnerschaft und gleichgeschlechtliche Ehe",
         "parent": {
@@ -372,6 +397,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG032801160",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032801160",
         "name": "Art 18",
         "title": "(weggefallen)",
         "parent": {
@@ -382,6 +408,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG032901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG032901360",
         "name": "Art 19",
         "title": "Abstammung",
         "parent": {
@@ -395,6 +422,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG033000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG033000377",
         "name": "Art 20",
         "title": "Anfechtung der Abstammung",
         "parent": {
@@ -408,6 +436,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG033100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG033100377",
         "name": "Art 21",
         "title": "Wirkungen des Eltern-Kind-Verh\u00e4ltnisses",
         "parent": {
@@ -421,6 +450,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG033203360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG033203360",
         "name": "Art 22",
         "title": "Annahme als Kind",
         "parent": {
@@ -434,6 +464,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG033301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG033301360",
         "name": "Art 23",
         "title": "Zustimmung",
         "parent": {
@@ -447,6 +478,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG033400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG033400377",
         "name": "Art 24",
         "title": "Vormundschaft, Betreuung und Pflegschaft",
         "parent": {
@@ -460,6 +492,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG001102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG001102377",
         "name": "Vierter Abschnitt",
         "title": "Erbrecht",
         "parent": {
@@ -470,6 +503,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG033501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG033501360",
         "name": "Art 25",
         "title": "Rechtsnachfolge von Todes wegen",
         "parent": {
@@ -483,6 +517,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG033601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG033601360",
         "name": "Art 26",
         "title": "Form von Verf\u00fcgungen von Todes wegen",
         "parent": {
@@ -496,6 +531,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG001203140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG001203140",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Au\u00dfervertragliche Schuldverh\u00e4ltnisse",
         "parent": {
@@ -506,6 +542,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG033701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG033701140",
         "name": "Art 27 bis 37",
         "title": "(weggefallen)",
         "parent": {
@@ -516,6 +553,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG034900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG034900377",
         "name": "Art 38",
         "title": "Ungerechtfertigte Bereicherung",
         "parent": {
@@ -529,6 +567,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035000377",
         "name": "Art 39",
         "title": "Gesch\u00e4ftsf\u00fchrung ohne Auftrag",
         "parent": {
@@ -542,6 +581,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035100377",
         "name": "Art 40",
         "title": "Unerlaubte Handlung",
         "parent": {
@@ -555,6 +595,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035200377",
         "name": "Art 41",
         "title": "Wesentlich engere Verbindung",
         "parent": {
@@ -568,6 +609,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035300377",
         "name": "Art 42",
         "title": "Rechtswahl",
         "parent": {
@@ -581,6 +623,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG029201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG029201377",
         "name": "Sechster Abschnitt",
         "title": "Sachenrecht",
         "parent": {
@@ -591,6 +634,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035400377",
         "name": "Art 43",
         "title": "Rechte an einer Sache",
         "parent": {
@@ -604,6 +648,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035502140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035502140",
         "name": "Art 44",
         "title": "Von Grundst\u00fccken ausgehende Einwirkungen",
         "parent": {
@@ -617,6 +662,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035600377",
         "name": "Art 45",
         "title": "Transportmittel",
         "parent": {
@@ -630,6 +676,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035702140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035702140",
         "name": "Art 46",
         "title": "Wesentlich engere Verbindung",
         "parent": {
@@ -643,6 +690,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG052602123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052602123",
         "name": "Siebter Abschnitt",
         "title": "Besondere Vorschriften zur Durchf\u00fchrung und Umsetzung international-privatrechtlicher Regelungen der Europ\u00e4ischen Union",
         "parent": {
@@ -653,6 +701,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG052800140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052800140",
         "name": "Erster Unterabschnitt",
         "title": "Durchf\u00fchrung der Verordnung (EG) Nr. 864/2007",
         "parent": {
@@ -663,6 +712,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG052702140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052702140",
         "name": "Art 46a",
         "title": "Umweltsch\u00e4digungen",
         "parent": {
@@ -676,6 +726,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG052901123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052901123",
         "name": "Zweiter Unterabschnitt",
         "title": "Umsetzung international-privatrechtlicher Regelungen im Verbraucherschutz",
         "parent": {
@@ -686,6 +737,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG053002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053002360",
         "name": "Art 46b",
         "title": "Verbraucherschutz f\u00fcr besondere Gebiete",
         "parent": {
@@ -699,6 +751,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG054700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054700123",
         "name": "Art 46c",
         "title": "Pauschalreisen und verbundene Reiseleistungen",
         "parent": {
@@ -712,6 +765,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG054800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054800123",
         "name": "Dritter Unterabschnitt",
         "title": "Durchf\u00fchrung der Verordnung (EG) Nr. 593/2008",
         "parent": {
@@ -722,6 +776,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG053101123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053101123",
         "name": "Art 46d",
         "title": "Pflichtversicherungsvertr\u00e4ge",
         "parent": {
@@ -735,6 +790,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG053901123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053901123",
         "name": "Vierter Unterabschnitt",
         "title": "Durchf\u00fchrung der Verordnung (EU) Nr. 1259/2010",
         "parent": {
@@ -745,6 +801,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG054001123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054001123",
         "name": "Art 46e",
         "title": "Rechtswahl",
         "parent": {
@@ -758,6 +815,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG052301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052301377",
         "name": "Drittes Kapitel",
         "title": "Angleichung; Wahl eines in einem anderen Mitgliedstaat der Europ\u00e4ischen Union erworbenen Namens",
         "parent": {
@@ -768,6 +826,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG052501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052501377",
         "name": "Art 47",
         "title": "Vor- und Familiennamen",
         "parent": {
@@ -781,6 +840,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035803377",
         "name": "Art 48",
         "title": "Wahl eines in einem anderen Mitgliedstaat der Europ\u00e4ischen Union erworbenen Namens",
         "parent": {
@@ -794,6 +854,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG054100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054100377",
         "name": "Art 49",
         "title": "(\u00c4nderung anderer Vorschriften)",
         "parent": {
@@ -804,6 +865,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG000203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG000203377",
         "name": "Zweiter Teil",
         "title": "Verh\u00e4ltnis des B\u00fcrgerlichen Gesetzbuchs zu den Reichsgesetzen",
         "parent": null
@@ -811,6 +873,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG035900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG035900377",
         "name": "Art 50",
         "title": null,
         "parent": {
@@ -824,6 +887,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG036000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036000377",
         "name": "Art 51",
         "title": null,
         "parent": {
@@ -837,6 +901,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG036100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036100377",
         "name": "Art 52",
         "title": null,
         "parent": {
@@ -850,6 +915,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG036200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036200377",
         "name": "Art 53",
         "title": null,
         "parent": {
@@ -863,6 +929,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG036300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036300377",
         "name": "Art 53a",
         "title": null,
         "parent": {
@@ -876,6 +943,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG036400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036400377",
         "name": "Art 54",
         "title": "(gegenstandslos)",
         "parent": {
@@ -886,6 +954,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG000303377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG000303377",
         "name": "Dritter Teil",
         "title": "Verh\u00e4ltnis des B\u00fcrgerlichen Gesetzbuchs zu den Landesgesetzen",
         "parent": null
@@ -893,6 +962,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG036500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036500377",
         "name": "Art 55",
         "title": null,
         "parent": {
@@ -906,6 +976,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG036600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036600377",
         "name": "Art 56",
         "title": null,
         "parent": {
@@ -919,6 +990,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG036700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036700377",
         "name": "Art 57 und 58",
         "title": "(gegenstandslos)",
         "parent": {
@@ -929,6 +1001,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG036800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036800377",
         "name": "Art 59",
         "title": null,
         "parent": {
@@ -942,6 +1015,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG036900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG036900377",
         "name": "Art 60",
         "title": null,
         "parent": {
@@ -955,6 +1029,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG037000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037000377",
         "name": "Art 61",
         "title": null,
         "parent": {
@@ -968,6 +1043,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG037100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037100377",
         "name": "Art 62",
         "title": null,
         "parent": {
@@ -981,6 +1057,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG037200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037200377",
         "name": "Art 63",
         "title": null,
         "parent": {
@@ -994,6 +1071,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG037300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037300377",
         "name": "Art 64",
         "title": null,
         "parent": {
@@ -1007,6 +1085,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG037401140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037401140",
         "name": "Art 65",
         "title": "(weggefallen)",
         "parent": {
@@ -1017,6 +1096,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG037500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037500377",
         "name": "Art 66",
         "title": null,
         "parent": {
@@ -1030,6 +1110,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG037600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037600377",
         "name": "Art 67",
         "title": null,
         "parent": {
@@ -1043,6 +1124,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG037700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037700377",
         "name": "Art 68",
         "title": null,
         "parent": {
@@ -1056,6 +1138,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG037800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037800377",
         "name": "Art 69",
         "title": null,
         "parent": {
@@ -1069,6 +1152,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG037900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG037900377",
         "name": "Art 70 bis 72",
         "title": "(weggefallen)",
         "parent": {
@@ -1079,6 +1163,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038000377",
         "name": "Art 73",
         "title": null,
         "parent": {
@@ -1092,6 +1177,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038100377",
         "name": "Art 74",
         "title": null,
         "parent": {
@@ -1105,6 +1191,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG038200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038200377",
         "name": "Art 75",
         "title": "(gegenstandslos)",
         "parent": {
@@ -1115,6 +1202,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038300377",
         "name": "Art 76",
         "title": null,
         "parent": {
@@ -1128,6 +1216,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038400377",
         "name": "Art 77",
         "title": null,
         "parent": {
@@ -1141,6 +1230,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038500377",
         "name": "Art 78",
         "title": null,
         "parent": {
@@ -1154,6 +1244,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038600377",
         "name": "Art 79",
         "title": null,
         "parent": {
@@ -1167,6 +1258,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038700377",
         "name": "Art 80",
         "title": null,
         "parent": {
@@ -1180,6 +1272,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038800377",
         "name": "Art 81",
         "title": null,
         "parent": {
@@ -1193,6 +1286,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG038900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG038900377",
         "name": "Art 82",
         "title": null,
         "parent": {
@@ -1206,6 +1300,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG039000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039000377",
         "name": "Art 83",
         "title": null,
         "parent": {
@@ -1219,6 +1314,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG039100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039100377",
         "name": "Art 84",
         "title": null,
         "parent": {
@@ -1232,6 +1328,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG039200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039200377",
         "name": "Art 85",
         "title": null,
         "parent": {
@@ -1245,6 +1342,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG039301123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039301123",
         "name": "Art 86",
         "title": null,
         "parent": {
@@ -1258,6 +1356,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG039400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039400377",
         "name": "Art 87",
         "title": "(weggefallen)",
         "parent": {
@@ -1268,6 +1367,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG039500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039500377",
         "name": "Art 88",
         "title": "(weggefallen)",
         "parent": {
@@ -1278,6 +1378,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG039600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039600377",
         "name": "Art 89",
         "title": null,
         "parent": {
@@ -1291,6 +1392,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG039700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039700377",
         "name": "Art 90",
         "title": null,
         "parent": {
@@ -1304,6 +1406,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG039800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039800377",
         "name": "Art 91",
         "title": null,
         "parent": {
@@ -1317,6 +1420,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG039900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG039900377",
         "name": "Art 92",
         "title": "(weggefallen)",
         "parent": {
@@ -1327,6 +1431,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040000377",
         "name": "Art 93",
         "title": null,
         "parent": {
@@ -1340,6 +1445,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040101140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040101140",
         "name": "Art 94",
         "title": null,
         "parent": {
@@ -1353,6 +1459,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG040200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040200377",
         "name": "Art 95",
         "title": "(gegenstandslos)",
         "parent": {
@@ -1363,6 +1470,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040300377",
         "name": "Art 96",
         "title": null,
         "parent": {
@@ -1376,6 +1484,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040400377",
         "name": "Art 97",
         "title": null,
         "parent": {
@@ -1389,6 +1498,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040500377",
         "name": "Art 98",
         "title": null,
         "parent": {
@@ -1402,6 +1512,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040600377",
         "name": "Art 99",
         "title": null,
         "parent": {
@@ -1415,6 +1526,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040700377",
         "name": "Art 100",
         "title": null,
         "parent": {
@@ -1428,6 +1540,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040800377",
         "name": "Art 101",
         "title": null,
         "parent": {
@@ -1441,6 +1554,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG040900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG040900377",
         "name": "Art 102",
         "title": null,
         "parent": {
@@ -1454,6 +1568,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG041000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041000377",
         "name": "Art 103",
         "title": "(gegenstandslos)",
         "parent": {
@@ -1464,6 +1579,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041100377",
         "name": "Art 104",
         "title": null,
         "parent": {
@@ -1477,6 +1593,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041200377",
         "name": "Art 105",
         "title": null,
         "parent": {
@@ -1490,6 +1607,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041300377",
         "name": "Art 106",
         "title": null,
         "parent": {
@@ -1503,6 +1621,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041400377",
         "name": "Art 107",
         "title": null,
         "parent": {
@@ -1516,6 +1635,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041500377",
         "name": "Art 108",
         "title": null,
         "parent": {
@@ -1529,6 +1649,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041600377",
         "name": "Art 109",
         "title": null,
         "parent": {
@@ -1542,6 +1663,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041700377",
         "name": "Art 110",
         "title": null,
         "parent": {
@@ -1555,6 +1677,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041800377",
         "name": "Art 111",
         "title": null,
         "parent": {
@@ -1568,6 +1691,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG041900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG041900377",
         "name": "Art 112",
         "title": null,
         "parent": {
@@ -1581,6 +1705,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042000377",
         "name": "Art 113",
         "title": null,
         "parent": {
@@ -1594,6 +1719,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042100377",
         "name": "Art 114",
         "title": null,
         "parent": {
@@ -1607,6 +1733,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042200377",
         "name": "Art 115",
         "title": null,
         "parent": {
@@ -1620,6 +1747,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042300377",
         "name": "Art 116",
         "title": null,
         "parent": {
@@ -1633,6 +1761,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042400377",
         "name": "Art 117",
         "title": null,
         "parent": {
@@ -1646,6 +1775,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042500377",
         "name": "Art 118",
         "title": null,
         "parent": {
@@ -1659,6 +1789,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042601360",
         "name": "Art 119",
         "title": null,
         "parent": {
@@ -1672,6 +1803,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042700377",
         "name": "Art 120",
         "title": null,
         "parent": {
@@ -1685,6 +1817,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042800377",
         "name": "Art 121",
         "title": null,
         "parent": {
@@ -1698,6 +1831,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG042900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG042900377",
         "name": "Art 122",
         "title": null,
         "parent": {
@@ -1711,6 +1845,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043000377",
         "name": "Art 123",
         "title": null,
         "parent": {
@@ -1724,6 +1859,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043100377",
         "name": "Art 124",
         "title": null,
         "parent": {
@@ -1737,6 +1873,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043200377",
         "name": "Art 125",
         "title": null,
         "parent": {
@@ -1750,6 +1887,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043300377",
         "name": "Art 126",
         "title": null,
         "parent": {
@@ -1763,6 +1901,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043400377",
         "name": "Art 127",
         "title": null,
         "parent": {
@@ -1776,6 +1915,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043500377",
         "name": "Art 128",
         "title": null,
         "parent": {
@@ -1789,6 +1929,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043600377",
         "name": "Art 129",
         "title": null,
         "parent": {
@@ -1802,6 +1943,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043700377",
         "name": "Art 130",
         "title": null,
         "parent": {
@@ -1815,6 +1957,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043800377",
         "name": "Art 131",
         "title": null,
         "parent": {
@@ -1828,6 +1971,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG043900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG043900377",
         "name": "Art 132",
         "title": null,
         "parent": {
@@ -1841,6 +1985,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG044000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044000377",
         "name": "Art 133",
         "title": null,
         "parent": {
@@ -1854,6 +1999,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG044100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044100377",
         "name": "Art 134 bis 136",
         "title": "(weggefallen)",
         "parent": {
@@ -1864,6 +2010,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG044200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044200377",
         "name": "Art 137",
         "title": null,
         "parent": {
@@ -1877,6 +2024,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG044300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044300377",
         "name": "Art 138",
         "title": null,
         "parent": {
@@ -1890,6 +2038,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG044400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044400377",
         "name": "Art 139",
         "title": null,
         "parent": {
@@ -1903,6 +2052,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG044500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044500377",
         "name": "Art 140",
         "title": null,
         "parent": {
@@ -1916,6 +2066,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG044600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044600377",
         "name": "Art 141 und 142",
         "title": "(weggefallen)",
         "parent": {
@@ -1926,6 +2077,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG044700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044700377",
         "name": "Art 143",
         "title": null,
         "parent": {
@@ -1939,6 +2091,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG044800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044800377",
         "name": "Art 144",
         "title": null,
         "parent": {
@@ -1952,6 +2105,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG044900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG044900377",
         "name": "Art 145 und 146",
         "title": "(weggefallen)",
         "parent": {
@@ -1962,6 +2116,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG045002140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045002140",
         "name": "Art 147",
         "title": null,
         "parent": {
@@ -1975,6 +2130,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG045101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045101360",
         "name": "Art 148",
         "title": "(weggefallen)",
         "parent": {
@@ -1985,6 +2141,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG045200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045200377",
         "name": "Art 149 bis 151",
         "title": "(weggefallen)",
         "parent": {
@@ -1995,6 +2152,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG045300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045300377",
         "name": "Art 152",
         "title": null,
         "parent": {
@@ -2008,6 +2166,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG000403377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG000403377",
         "name": "Vierter Teil",
         "title": "\u00dcbergangsvorschriften",
         "parent": null
@@ -2015,6 +2174,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG045400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045400377",
         "name": "Art 153 bis 156",
         "title": "(gegenstandslos)",
         "parent": {
@@ -2025,6 +2185,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG045500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045500377",
         "name": "Art 157",
         "title": null,
         "parent": {
@@ -2038,6 +2199,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG045600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045600377",
         "name": "Art 158 bis 162",
         "title": "(gegenstandslos)",
         "parent": {
@@ -2048,6 +2210,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG045700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045700377",
         "name": "Art 163",
         "title": null,
         "parent": {
@@ -2061,6 +2224,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG045800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045800377",
         "name": "Art 164",
         "title": null,
         "parent": {
@@ -2074,6 +2238,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG045900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG045900377",
         "name": "Art 165",
         "title": null,
         "parent": {
@@ -2087,6 +2252,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046000377",
         "name": "Art 166",
         "title": null,
         "parent": {
@@ -2100,6 +2266,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046100377",
         "name": "Art 167",
         "title": null,
         "parent": {
@@ -2113,6 +2280,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046200377",
         "name": "Art 168",
         "title": null,
         "parent": {
@@ -2126,6 +2294,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046300377",
         "name": "Art 169",
         "title": null,
         "parent": {
@@ -2139,6 +2308,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046400377",
         "name": "Art 170",
         "title": null,
         "parent": {
@@ -2152,6 +2322,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046500377",
         "name": "Art 171",
         "title": null,
         "parent": {
@@ -2165,6 +2336,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046600377",
         "name": "Art 172",
         "title": null,
         "parent": {
@@ -2178,6 +2350,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046700377",
         "name": "Art 173",
         "title": null,
         "parent": {
@@ -2191,6 +2364,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046800377",
         "name": "Art 174",
         "title": null,
         "parent": {
@@ -2204,6 +2378,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG046900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG046900377",
         "name": "Art 175",
         "title": null,
         "parent": {
@@ -2217,6 +2392,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047000377",
         "name": "Art 176",
         "title": null,
         "parent": {
@@ -2230,6 +2406,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047100377",
         "name": "Art 177",
         "title": null,
         "parent": {
@@ -2243,6 +2420,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047200377",
         "name": "Art 178",
         "title": null,
         "parent": {
@@ -2256,6 +2434,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047300377",
         "name": "Art 179",
         "title": null,
         "parent": {
@@ -2269,6 +2448,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047400377",
         "name": "Art 180",
         "title": null,
         "parent": {
@@ -2282,6 +2462,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047500377",
         "name": "Art 181",
         "title": null,
         "parent": {
@@ -2295,6 +2476,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047600377",
         "name": "Art 182",
         "title": null,
         "parent": {
@@ -2308,6 +2490,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047700377",
         "name": "Art 183",
         "title": null,
         "parent": {
@@ -2321,6 +2504,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047800377",
         "name": "Art 184",
         "title": null,
         "parent": {
@@ -2334,6 +2518,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG047900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG047900377",
         "name": "Art 185",
         "title": null,
         "parent": {
@@ -2347,6 +2532,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048000377",
         "name": "Art 186",
         "title": null,
         "parent": {
@@ -2360,6 +2546,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048100377",
         "name": "Art 187",
         "title": null,
         "parent": {
@@ -2373,6 +2560,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048200377",
         "name": "Art 188",
         "title": null,
         "parent": {
@@ -2386,6 +2574,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048300377",
         "name": "Art 189",
         "title": null,
         "parent": {
@@ -2399,6 +2588,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048400377",
         "name": "Art 190",
         "title": null,
         "parent": {
@@ -2412,6 +2602,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048500377",
         "name": "Art 191",
         "title": null,
         "parent": {
@@ -2425,6 +2616,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048600377",
         "name": "Art 192",
         "title": null,
         "parent": {
@@ -2438,6 +2630,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048700377",
         "name": "Art 193",
         "title": null,
         "parent": {
@@ -2451,6 +2644,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048800377",
         "name": "Art 194",
         "title": null,
         "parent": {
@@ -2464,6 +2658,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG048900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG048900377",
         "name": "Art 195",
         "title": null,
         "parent": {
@@ -2477,6 +2672,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049000377",
         "name": "Art 196",
         "title": null,
         "parent": {
@@ -2490,6 +2686,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049100377",
         "name": "Art 197",
         "title": null,
         "parent": {
@@ -2503,6 +2700,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049200377",
         "name": "Art 198",
         "title": null,
         "parent": {
@@ -2516,6 +2714,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049300377",
         "name": "Art 199",
         "title": null,
         "parent": {
@@ -2529,6 +2728,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049400377",
         "name": "Art 200",
         "title": null,
         "parent": {
@@ -2542,6 +2742,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049500377",
         "name": "Art 201",
         "title": null,
         "parent": {
@@ -2555,6 +2756,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049600377",
         "name": "Art 202",
         "title": null,
         "parent": {
@@ -2568,6 +2770,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049700377",
         "name": "Art 203",
         "title": null,
         "parent": {
@@ -2581,6 +2784,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG049800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049800377",
         "name": "Art 204 bis 206",
         "title": "(gegenstandslos)",
         "parent": {
@@ -2591,6 +2795,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG049900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG049900377",
         "name": "Art 207",
         "title": null,
         "parent": {
@@ -2604,6 +2809,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG050000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050000377",
         "name": "Art 208",
         "title": null,
         "parent": {
@@ -2617,6 +2823,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG050100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050100377",
         "name": "Art 209",
         "title": null,
         "parent": {
@@ -2630,6 +2837,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG050200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050200377",
         "name": "Art 210",
         "title": null,
         "parent": {
@@ -2643,6 +2851,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG050300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050300377",
         "name": "Art 211",
         "title": "(gegenstandslos)",
         "parent": {
@@ -2653,6 +2862,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG050400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050400377",
         "name": "Art 212",
         "title": null,
         "parent": {
@@ -2666,6 +2876,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG050500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050500377",
         "name": "Art 213",
         "title": null,
         "parent": {
@@ -2679,6 +2890,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG050600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050600377",
         "name": "Art 214",
         "title": null,
         "parent": {
@@ -2692,6 +2904,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG050700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050700377",
         "name": "Art 215",
         "title": null,
         "parent": {
@@ -2705,6 +2918,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG050800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050800377",
         "name": "Art 216",
         "title": "(gegenstandslos)",
         "parent": {
@@ -2715,6 +2929,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG050900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG050900377",
         "name": "Art 217",
         "title": null,
         "parent": {
@@ -2728,6 +2943,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051000377",
         "name": "Art 218",
         "title": null,
         "parent": {
@@ -2741,6 +2957,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG022702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG022702377",
         "name": "F\u00fcnfter Teil",
         "title": "\u00dcbergangsvorschriften aus Anla\u00df j\u00fcngerer \u00c4nderungen des B\u00fcrgerlichen Gesetzbuchs und dieses Einf\u00fchrungsgesetzes",
         "parent": null
@@ -2748,6 +2965,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051100377",
         "name": "Art 219",
         "title": "\u00dcbergangsvorschrift zum Gesetz vom\n8. November 1985 zur Neuordnung des landwirtschaftlichen Pachtrechts",
         "parent": {
@@ -2761,6 +2979,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051201360",
         "name": "Art 220",
         "title": "\u00dcbergangsvorschrift zum Gesetz vom 25. Juli 1986 zur Neuregelung des Internationalen Privatrechts",
         "parent": {
@@ -2774,6 +2993,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051300377",
         "name": "Art 221",
         "title": "\u00dcbergangsvorschrift zum Gesetz vom 26. Juni 1990\nzur \u00c4nderung des Arbeitsgerichtsgesetzes und anderer arbeitsrechtlicher\nVorschriften",
         "parent": {
@@ -2787,6 +3007,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051400377",
         "name": "Art 222",
         "title": "\u00dcbergangsvorschrift zum K\u00fcndigungsfristengesetz\nvom 7. Oktober 1993",
         "parent": {
@@ -2800,6 +3021,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051500377",
         "name": "Art 223",
         "title": "\u00dcbergangsvorschrift zum Beistandschaftsgesetz\nvom 4. Dezember 1997",
         "parent": {
@@ -2813,6 +3035,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051600377",
         "name": "Art 223a",
         "title": "\u00dcbergangsvorschrift aus Anla\u00df der Aufhebung von\n\u00a7 419 des B\u00fcrgerlichen Gesetzbuchs",
         "parent": {
@@ -2826,6 +3049,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG028401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG028401377",
         "name": "Art 224",
         "title": "\u00dcbergangsvorschrift zum Kindschaftsrechtsreformgesetz vom 16. Dezember 1997",
         "parent": {
@@ -2836,6 +3060,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030901377",
         "name": "\u00a7 1",
         "title": "Abstammung",
         "parent": {
@@ -2849,6 +3074,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE031003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE031003377",
         "name": "\u00a7 2",
         "title": "Elterliche Sorge",
         "parent": {
@@ -2862,6 +3088,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE031101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE031101377",
         "name": "\u00a7 3",
         "title": "Name des Kindes",
         "parent": {
@@ -2875,6 +3102,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051700377",
         "name": "Art 225",
         "title": "\u00dcberleitungsvorschrift zum\nWohnraummodernisierungssicherungsgesetz",
         "parent": {
@@ -2888,6 +3116,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051800377",
         "name": "Art 226",
         "title": "\u00dcberleitungsvorschrift zum Gesetz vom 4. Mai 1998\nzur Neuordnung des Eheschlie\u00dfungsrechts",
         "parent": {
@@ -2901,6 +3130,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG051900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG051900377",
         "name": "Art 227",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur\nerbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997",
         "parent": {
@@ -2914,6 +3144,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG052000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052000377",
         "name": "Art 228",
         "title": "\u00dcbergangsvorschrift zum\n\u00dcberweisungsgesetz",
         "parent": {
@@ -2927,6 +3158,7 @@
       {
         "type": "headingArticle",
         "id": "BJNR006049896BJNG030801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030801377",
         "name": "Art 229",
         "title": "Weitere \u00dcberleitungsvorschriften",
         "parent": {
@@ -2940,6 +3172,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE031301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE031301377",
         "name": "\u00a7 1",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Beschleunigung f\u00e4lliger Zahlungen",
         "parent": {
@@ -2953,6 +3186,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE031203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE031203377",
         "name": "\u00a7 2",
         "title": "\u00dcbergangsvorschriften zum Gesetz vom 27. Juni 2000",
         "parent": {
@@ -2966,6 +3200,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE031503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE031503377",
         "name": "\u00a7 3",
         "title": "\u00dcbergangsvorschriften zum Gesetz zur Neugliederung, Vereinfachung und Reform des Mietrechts vom 19. Juni 2001",
         "parent": {
@@ -2979,6 +3214,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE031601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE031601377",
         "name": "\u00a7 4",
         "title": "\u00dcbergangsvorschrift zum Zweiten Gesetz zur \u00c4nderung reiserechtlicher Vorschriften",
         "parent": {
@@ -2992,6 +3228,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE230201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE230201377",
         "name": "\u00a7 5",
         "title": "Allgemeine \u00dcberleitungsvorschrift zum Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001",
         "parent": {
@@ -3005,6 +3242,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE230301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE230301377",
         "name": "\u00a7 6",
         "title": "\u00dcberleitungsvorschrift zum Verj\u00e4hrungsrecht nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001",
         "parent": {
@@ -3018,6 +3256,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE230401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE230401377",
         "name": "\u00a7 7",
         "title": "\u00dcberleitungsvorschrift zu Zinsvorschriften nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001",
         "parent": {
@@ -3031,6 +3270,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE230801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE230801377",
         "name": "\u00a7 8",
         "title": "\u00dcbergangsvorschriften zum Zweiten Gesetz zur \u00c4nderung schadensersatzrechtlicher Vorschriften vom 19. Juli 2002",
         "parent": {
@@ -3044,6 +3284,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE230901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE230901377",
         "name": "\u00a7 9",
         "title": "\u00dcberleitungsvorschrift zum OLG-Vertretungs\u00e4nderungsgesetz vom 23. Juli 2002",
         "parent": {
@@ -3057,6 +3298,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE023102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE023102377",
         "name": "\u00a7 10",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur \u00c4nderung der Vorschriften \u00fcber die Anfechtung der Vaterschaft und das Umgangsrecht von Bezugspersonen des Kindes, zur Registrierung von Vorsorgeverf\u00fcgungen und zur Einf\u00fchrung von Vordrucken f\u00fcr die Verg\u00fctung von Berufsbetreuern vom 23. April 2004",
         "parent": {
@@ -3070,6 +3312,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE231001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE231001377",
         "name": "\u00a7 11",
         "title": "\u00dcberleitungsvorschrift zu dem Gesetz zur \u00c4nderung der Vorschriften \u00fcber Fernabsatzvertr\u00e4ge bei Finanzdienstleistungen vom 2. Dezember 2004",
         "parent": {
@@ -3083,6 +3326,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE231101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE231101377",
         "name": "\u00a7 12",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Anpassung von Verj\u00e4hrungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts",
         "parent": {
@@ -3096,6 +3340,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE231201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE231201377",
         "name": "\u00a7 13",
         "title": null,
         "parent": {
@@ -3109,6 +3354,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE231301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE231301377",
         "name": "\u00a7 14",
         "title": "\u00dcbergangsvorschrift zum Zweiten Betreuungsrechts\u00e4nderungsgesetz vom 21. April 2005",
         "parent": {
@@ -3122,6 +3368,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE232000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE232000377",
         "name": "\u00a7 15",
         "title": "\u00dcbergangsvorschrift zum Minderj\u00e4hrigenhaftungsbeschr\u00e4nkungsgesetz",
         "parent": {
@@ -3135,6 +3382,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237001123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237001123",
         "name": "\u00a7 16",
         "title": "(weggefallen)",
         "parent": {
@@ -3148,6 +3396,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237100140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237100140",
         "name": "\u00a7 17",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Kl\u00e4rung der Vaterschaft unabh\u00e4ngig vom Anfechtungsverfahren",
         "parent": {
@@ -3161,6 +3410,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237200140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237200140",
         "name": "\u00a7 18",
         "title": "\u00dcbergangsvorschrift zum Risikobegrenzungsgesetz",
         "parent": {
@@ -3174,6 +3424,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237300140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237300140",
         "name": "\u00a7 19",
         "title": "\u00dcberleitungsvorschrift zum Forderungssicherungsgesetz",
         "parent": {
@@ -3187,6 +3438,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE232101160",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE232101160",
         "name": "\u00a7 20",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur \u00c4nderung des Zugewinnausgleichs- und Vormundschaftsrechts vom 6. Juli 2009",
         "parent": {
@@ -3200,6 +3452,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236700140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236700140",
         "name": "\u00a7 21",
         "title": "\u00dcbergangsvorschrift f\u00fcr die Gesellschaft b\u00fcrgerlichen Rechts im Grundbuchverfahren",
         "parent": {
@@ -3213,6 +3466,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE232201140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE232201140",
         "name": "\u00a7 22",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften \u00fcber das Widerrufs- und R\u00fcckgaberecht vom 29. Juli 2009",
         "parent": {
@@ -3226,6 +3480,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236800140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236800140",
         "name": "\u00a7 23",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur \u00c4nderung des Erb- und Verj\u00e4hrungsrechts",
         "parent": {
@@ -3239,6 +3494,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236900140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236900140",
         "name": "\u00a7 24",
         "title": "\u00dcbergangsvorschrift zu dem Gesetz zur Erleichterung elektronischer Anmeldungen zum Vereinsregister und anderer vereinsrechtlicher \u00c4nderungen",
         "parent": {
@@ -3252,6 +3508,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237500140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237500140",
         "name": "\u00a7 25",
         "title": "\u00dcbergangsvorschriften zum Gesetz zur Modernisierung der Regelungen \u00fcber Teilzeit-Wohnrechtevertr\u00e4ge, Vertr\u00e4ge \u00fcber langfristige Urlaubsprodukte sowie Vermittlungsvertr\u00e4ge und Tauschsystemvertr\u00e4ge",
         "parent": {
@@ -3265,6 +3522,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237501140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237501140",
         "name": "\u00a7 26",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Bek\u00e4mpfung der Zwangsheirat und zum besseren Schutz der Opfer von Zwangsheirat sowie zur \u00c4nderung weiterer aufenthalts- und asylrechtlicher Vorschriften",
         "parent": {
@@ -3278,6 +3536,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237800140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237800140",
         "name": "\u00a7 27",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Anpassung der Vorschriften \u00fcber den Wertersatz bei Widerruf von Fernabsatzvertr\u00e4gen und \u00fcber verbundene Vertr\u00e4ge vom 27. Juli 2011",
         "parent": {
@@ -3291,6 +3550,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237900377",
         "name": "\u00a7 28",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Anpassung der Vorschriften des Internationalen Privatrechts an die Verordnung (EU) Nr. 1259/2010 und zur \u00c4nderung anderer Vorschriften des Internationalen Privatrechts vom 23. Januar 2013",
         "parent": {
@@ -3304,6 +3564,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238000377",
         "name": "\u00a7 29",
         "title": "\u00dcbergangsvorschriften zum Mietrechts\u00e4nderungsgesetz vom 11. M\u00e4rz 2013",
         "parent": {
@@ -3317,6 +3578,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238100377",
         "name": "\u00a7 30",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Reform der elterlichen Sorge nicht miteinander verheirateter Eltern",
         "parent": {
@@ -3330,6 +3592,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238200360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238200360",
         "name": "\u00a7 31",
         "title": "\u00dcberleitungsvorschrift zur \u00c4nderung der Verj\u00e4hrungsvorschriften des B\u00fcrgerlichen Gesetzbuchs durch das Gesetz zur St\u00e4rkung der Rechte von Opfern sexuellen Missbrauchs",
         "parent": {
@@ -3343,6 +3606,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238300360",
         "name": "\u00a7 32",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherrechterichtlinie und zur \u00c4nderung des Gesetzes zur Regelung der Wohnungsvermittlung",
         "parent": {
@@ -3356,6 +3620,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238302360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238302360",
         "name": "\u00a7 33",
         "title": "\u00dcberleitungsvorschrift zu dem Gesetz gegen unseri\u00f6se Gesch\u00e4ftspraktiken",
         "parent": {
@@ -3369,6 +3634,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239100144",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239100144",
         "name": "\u00a7 34",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Bek\u00e4mpfung von Zahlungsverzug im Gesch\u00e4ftsverkehr",
         "parent": {
@@ -3382,6 +3648,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239200360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239200360",
         "name": "\u00a7 35",
         "title": "\u00dcbergangsvorschriften zum Mietrechtsnovellierungsgesetz vom 21. April 2015",
         "parent": {
@@ -3395,6 +3662,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239300360",
         "name": "\u00a7 36",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zum Internationalen Erbrecht und zur \u00c4nderung von Vorschriften zum Erbschein sowie zur \u00c4nderung sonstiger Vorschriften vom 29. Juni 2015",
         "parent": {
@@ -3408,6 +3676,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239400123",
         "name": "\u00a7 37",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Verbesserung der zivilrechtlichen Durchsetzung von verbrauchersch\u00fctzenden Vorschriften des Datenschutzrechts",
         "parent": {
@@ -3421,6 +3690,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239500123",
         "name": "\u00a7 38",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur \u00c4nderung handelsrechtlicher Vorschriften",
         "parent": {
@@ -3434,6 +3704,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240300123",
         "name": "\u00a7 39",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Reform des Bauvertragsrechts, zur \u00c4nderung der kaufrechtlichen M\u00e4ngelhaftung, zur St\u00e4rkung des zivilprozessualen Rechtsschutzes und zum maschinellen Siegel im Grundbuch- und Schiffsregisterverfahren",
         "parent": {
@@ -3447,6 +3718,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240800123",
         "name": "\u00a7 40",
         "title": "\u00dcbergangsvorschrift zum Finanzaufsichtsrechterg\u00e4nzungsgesetz",
         "parent": {
@@ -3460,6 +3732,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240900123",
         "name": "\u00a7 41",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur \u00c4nderung von Vorschriften im Bereich des Internationalen Privat- und Zivilverfahrensrechts vom 11. Juni 2017",
         "parent": {
@@ -3473,6 +3746,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242400123",
         "name": "\u00a7 42",
         "title": "\u00dcbergangsvorschrift zum Dritten Gesetz zur \u00c4nderung reiserechtlicher Vorschriften",
         "parent": {
@@ -3486,6 +3760,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE241000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE241000123",
         "name": "\u00a7 43",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Einf\u00fchrung eines Anspruchs auf Hinterbliebenengeld",
         "parent": {
@@ -3499,6 +3774,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242000123",
         "name": "\u00a7 44",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Bek\u00e4mpfung von Kinderehen",
         "parent": {
@@ -3512,6 +3788,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242100123",
         "name": "\u00a7 45",
         "title": "\u00dcbergangsvorschriften zum Gesetz zur Umsetzung der Zweiten Zahlungsdiensterichtlinie vom 17. Juli 2017",
         "parent": {
@@ -3525,6 +3802,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244800123",
         "name": "\u00a7 46",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Regelung des Rechts auf Kenntnis der Abstammung bei heterologer Verwendung von Samen",
         "parent": {
@@ -3538,6 +3816,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244900360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244900360",
         "name": "\u00a7 47",
         "title": "\u00dcbergangsvorschrift zum Gesetz zum Internationalen G\u00fcterrecht und zur \u00c4nderung von Vorschriften des Internationalen Privatrechts vom 17. Dezember 2018",
         "parent": {
@@ -3551,6 +3830,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245000360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245000360",
         "name": "\u00a7 48",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Umsetzung des Gesetzes zur Einf\u00fchrung des Rechts auf Eheschlie\u00dfung f\u00fcr Personen gleichen Geschlechts",
         "parent": {
@@ -3564,6 +3844,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245100360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245100360",
         "name": "\u00a7 49",
         "title": "\u00dcbergangsvorschriften zum Mietrechtsanpassungsgesetz vom 18. Dezember 2018",
         "parent": {
@@ -3577,6 +3858,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245200360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245200360",
         "name": "\u00a7 50",
         "title": "\u00dcbergangsvorschriften zum Gesetz zur Verl\u00e4ngerung des Betrachtungszeitraums f\u00fcr die orts\u00fcbliche Vergleichsmiete",
         "parent": {
@@ -3590,6 +3872,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245300360",
         "name": "\u00a7 51",
         "title": "\u00dcbergangsvorschriften zum Gesetz zur Verl\u00e4ngerung und Verbesserung der Regelungen \u00fcber die zul\u00e4ssige Mieth\u00f6he bei Mietbeginn",
         "parent": {
@@ -3603,6 +3886,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245800360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245800360",
         "name": "\u00a7 52",
         "title": "\u00dcberleitungsvorschrift zum Gesetz zur Umsetzung der Entscheidung des Bundesverfassungsgerichts vom 26. M\u00e4rz 2019 zum Ausschluss der Stiefkindadoption in nichtehelichen Familien",
         "parent": {
@@ -3616,6 +3900,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG022802377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG022802377",
         "name": "Sechster Teil",
         "title": "Inkrafttreten und \u00dcbergangsrecht aus Anla\u00df der Einf\u00fchrung des B\u00fcrgerlichen Gesetzbuchs und dieses Einf\u00fchrungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet",
         "parent": null
@@ -3623,6 +3908,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG052100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052100377",
         "name": "Art 230",
         "title": "Inkrafttreten",
         "parent": {
@@ -3636,6 +3922,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG023002377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG023002377",
         "name": "Art 231",
         "title": "Erstes Buch. Allgemeiner Teil des B\u00fcrgerlichen Gesetzbuchs",
         "parent": {
@@ -3646,6 +3933,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE231800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE231800377",
         "name": "\u00a7 1",
         "title": "(weggefallen)",
         "parent": {
@@ -3659,6 +3947,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE023203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE023203377",
         "name": "\u00a7 2",
         "title": "Vereine",
         "parent": {
@@ -3672,6 +3961,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE023302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE023302377",
         "name": "\u00a7 3",
         "title": "Stiftungen",
         "parent": {
@@ -3685,6 +3975,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE023402377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE023402377",
         "name": "\u00a7 4",
         "title": "Haftung juristischer Personen f\u00fcr ihre Organe",
         "parent": {
@@ -3698,6 +3989,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE023506377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE023506377",
         "name": "\u00a7 5",
         "title": "Sachen",
         "parent": {
@@ -3711,6 +4003,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE023602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE023602377",
         "name": "\u00a7 6",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -3724,6 +4017,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028003377",
         "name": "\u00a7 7",
         "title": "Beurkundungen und Beglaubigungen",
         "parent": {
@@ -3737,6 +4031,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030503377",
         "name": "\u00a7 8",
         "title": "Vollmachtsurkunden staatlicher Organe, Falschbezeichnung von Kommunen",
         "parent": {
@@ -3750,6 +4045,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030601377",
         "name": "\u00a7 9",
         "title": "Heilung unwirksamer Verm\u00f6gens\u00fcbertragungen",
         "parent": {
@@ -3763,6 +4059,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE031402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE031402140",
         "name": "\u00a7 10",
         "title": "\u00dcbergang volkseigener Forderungen, Grundpfandrechte und Verbindlichkeiten auf Kreditinstitute",
         "parent": {
@@ -3776,6 +4073,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG023702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG023702377",
         "name": "Art 232",
         "title": "Zweites Buch. Recht der Schuldverh\u00e4ltnisse",
         "parent": {
@@ -3786,6 +4084,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE023802377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE023802377",
         "name": "\u00a7 1",
         "title": "Allgemeine Bestimmungen f\u00fcr Schuldverh\u00e4ltnisse",
         "parent": {
@@ -3799,6 +4098,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030002377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030002377",
         "name": "\u00a7 1a",
         "title": "\u00dcberlassungsvertr\u00e4ge",
         "parent": {
@@ -3812,6 +4112,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE023907377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE023907377",
         "name": "\u00a7 2",
         "title": "Mietvertr\u00e4ge",
         "parent": {
@@ -3825,6 +4126,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024003377",
         "name": "\u00a7 3",
         "title": "Pachtvertr\u00e4ge",
         "parent": {
@@ -3838,6 +4140,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024104377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024104377",
         "name": "\u00a7 4",
         "title": "Nutzung von Bodenfl\u00e4chen zur Erholung",
         "parent": {
@@ -3851,6 +4154,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030102377",
         "name": "\u00a7 4a",
         "title": "Vertrags-Moratorium",
         "parent": {
@@ -3864,6 +4168,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024205377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024205377",
         "name": "\u00a7 5",
         "title": "Arbeitsverh\u00e4ltnisse",
         "parent": {
@@ -3877,6 +4182,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024302377",
         "name": "\u00a7 6",
         "title": "Vertr\u00e4ge \u00fcber wiederkehrende Dienstleistungen",
         "parent": {
@@ -3890,6 +4196,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024402377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024402377",
         "name": "\u00a7 7",
         "title": "Kontovertr\u00e4ge und Sparkontovertr\u00e4ge",
         "parent": {
@@ -3903,6 +4210,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024502377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024502377",
         "name": "\u00a7 8",
         "title": "Kreditvertr\u00e4ge",
         "parent": {
@@ -3916,6 +4224,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024602377",
         "name": "\u00a7 9",
         "title": "Bruchteilsgemeinschaften",
         "parent": {
@@ -3929,6 +4238,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024702377",
         "name": "\u00a7 10",
         "title": "Unerlaubte Handlungen",
         "parent": {
@@ -3942,6 +4252,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG024802377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG024802377",
         "name": "Art 233",
         "title": "Drittes Buch. Sachenrecht",
         "parent": {
@@ -3952,6 +4263,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG027801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG027801377",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -3962,6 +4274,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE024902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE024902377",
         "name": "\u00a7 1",
         "title": "Besitz",
         "parent": {
@@ -3975,6 +4288,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025004377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025004377",
         "name": "\u00a7 2",
         "title": "Inhalt des Eigentums",
         "parent": {
@@ -3988,6 +4302,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028110301",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028110301",
         "name": "\u00a7 2a",
         "title": "Moratorium",
         "parent": {
@@ -4001,6 +4316,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028208377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028208377",
         "name": "\u00a7 2b",
         "title": "Geb\u00e4udeeigentum ohne dingliches Nutzungsrecht",
         "parent": {
@@ -4014,6 +4330,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030203377",
         "name": "\u00a7 2c",
         "title": "Grundbucheintragung",
         "parent": {
@@ -4027,6 +4344,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025104377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025104377",
         "name": "\u00a7 3",
         "title": "Inhalt und Rang beschr\u00e4nkter dinglicher Rechte",
         "parent": {
@@ -4040,6 +4358,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025207377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025207377",
         "name": "\u00a7 4",
         "title": "Sondervorschriften f\u00fcr dingliche Nutzungsrechte und Geb\u00e4udeeigentum",
         "parent": {
@@ -4053,6 +4372,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025306377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025306377",
         "name": "\u00a7 5",
         "title": "Mitbenutzungsrechte",
         "parent": {
@@ -4066,6 +4386,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025402377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025402377",
         "name": "\u00a7 6",
         "title": "Hypotheken",
         "parent": {
@@ -4079,6 +4400,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025503377",
         "name": "\u00a7 7",
         "title": "Am Tag des Wirksamwerdens des Beitritts schwebende Rechts\u00e4nderungen",
         "parent": {
@@ -4092,6 +4414,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025604377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025604377",
         "name": "\u00a7 8",
         "title": "Rechtsverh\u00e4ltnisse nach \u00a7 459 des Zivilgesetzbuchs",
         "parent": {
@@ -4105,6 +4428,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028402377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028402377",
         "name": "\u00a7 9",
         "title": "Rangbestimmung",
         "parent": {
@@ -4118,6 +4442,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028302377",
         "name": "\u00a7 10",
         "title": "Vertretungsbefugnis f\u00fcr Personenzusammenschl\u00fcsse alten Rechts",
         "parent": {
@@ -4131,6 +4456,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG027901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG027901377",
         "name": "Zweiter Abschnitt",
         "title": "Abwicklung der Bodenreform",
         "parent": {
@@ -4141,6 +4467,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028504377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028504377",
         "name": "\u00a7 11",
         "title": "Grundsatz",
         "parent": {
@@ -4154,6 +4481,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028603377",
         "name": "\u00a7 12",
         "title": "Berechtigter",
         "parent": {
@@ -4167,6 +4495,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028704377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028704377",
         "name": "\u00a7 13",
         "title": "Verf\u00fcgungen des Eigent\u00fcmers",
         "parent": {
@@ -4180,6 +4509,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030302377",
         "name": "\u00a7 13a",
         "title": "Vormerkung zugunsten des Fiskus",
         "parent": {
@@ -4193,6 +4523,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028803377",
         "name": "\u00a7 14",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -4206,6 +4537,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE028903140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE028903140",
         "name": "\u00a7 15",
         "title": "Verbindlichkeiten",
         "parent": {
@@ -4219,6 +4551,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE029003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE029003377",
         "name": "\u00a7 16",
         "title": "Verh\u00e4ltnis zu anderen Vorschriften, \u00dcbergangsvorschriften",
         "parent": {
@@ -4232,6 +4565,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG025702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG025702377",
         "name": "Art 234",
         "title": "Viertes Buch. Familienrecht",
         "parent": {
@@ -4242,6 +4576,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025802377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025802377",
         "name": "\u00a7 1",
         "title": "Grundsatz",
         "parent": {
@@ -4255,6 +4590,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE025902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE025902377",
         "name": "\u00a7 2",
         "title": "Verl\u00f6bnis",
         "parent": {
@@ -4268,6 +4604,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE026003123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE026003123",
         "name": "\u00a7 3",
         "title": "(weggefallen)",
         "parent": {
@@ -4281,6 +4618,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE026104140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE026104140",
         "name": "\u00a7 4",
         "title": "Eheliches G\u00fcterrecht",
         "parent": {
@@ -4294,6 +4632,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030403377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030403377",
         "name": "\u00a7 4a",
         "title": "Gemeinschaftliches Eigentum",
         "parent": {
@@ -4307,6 +4646,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE026202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE026202377",
         "name": "\u00a7 5",
         "title": "Unterhalt des geschiedenen Ehegatten",
         "parent": {
@@ -4320,6 +4660,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE231900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE231900377",
         "name": "\u00a7 6",
         "title": "Versorgungsausgleich",
         "parent": {
@@ -4333,6 +4674,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE026402377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE026402377",
         "name": "\u00a7 7",
         "title": "Abstammung",
         "parent": {
@@ -4346,6 +4688,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE026503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE026503377",
         "name": "(XXXX) \u00a7\u00a7 8 und 9",
         "title": "(weggefallen)",
         "parent": {
@@ -4359,6 +4702,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE026702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE026702377",
         "name": "\u00a7 10",
         "title": "Rechtsverh\u00e4ltnis zwischen den Eltern und dem Kind im allgemeinen",
         "parent": {
@@ -4372,6 +4716,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE026803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE026803377",
         "name": "\u00a7 11",
         "title": "(weggefallen)",
         "parent": {
@@ -4385,6 +4730,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE026902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE026902377",
         "name": "\u00a7 12",
         "title": "Legitimation nichtehelicher Kinder",
         "parent": {
@@ -4398,6 +4744,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE027003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE027003377",
         "name": "\u00a7 13",
         "title": "Annahme als Kind",
         "parent": {
@@ -4411,6 +4758,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE027102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE027102377",
         "name": "\u00a7 14",
         "title": "Vormundschaft",
         "parent": {
@@ -4424,6 +4772,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE027202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE027202377",
         "name": "\u00a7 15",
         "title": "Pflegschaft",
         "parent": {
@@ -4437,6 +4786,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG027302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG027302377",
         "name": "Art 235",
         "title": "F\u00fcnftes Buch. Erbrecht",
         "parent": {
@@ -4447,6 +4797,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE027404140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE027404140",
         "name": "\u00a7 1",
         "title": "Erbrechtliche Verh\u00e4ltnisse",
         "parent": {
@@ -4460,6 +4811,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE027502377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE027502377",
         "name": "\u00a7 2",
         "title": "Verf\u00fcgungen von Todes wegen",
         "parent": {
@@ -4473,6 +4825,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG027602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG027602377",
         "name": "Art 236",
         "title": "Einf\u00fchrungsgesetz - Internationales Privatrecht",
         "parent": {
@@ -4483,6 +4836,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE027702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE027702377",
         "name": "\u00a7 1",
         "title": "Abgeschlossene Vorg\u00e4nge",
         "parent": {
@@ -4496,6 +4850,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE027802377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE027802377",
         "name": "\u00a7 2",
         "title": "Wirkungen familienrechtlicher Rechtsverh\u00e4ltnisse",
         "parent": {
@@ -4509,6 +4864,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE027903360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE027903360",
         "name": "\u00a7 3",
         "title": "G\u00fcterstand",
         "parent": {
@@ -4522,6 +4878,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG028101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG028101377",
         "name": "Art 237",
         "title": "Bestandsschutz, Ausschlu\u00dffrist",
         "parent": {
@@ -4532,6 +4889,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030701377",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030701377",
         "name": "\u00a7 1",
         "title": "Bestandsschutz",
         "parent": {
@@ -4545,6 +4903,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE030802140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE030802140",
         "name": "\u00a7 2",
         "title": "Ausschlu\u00dffrist",
         "parent": {
@@ -4558,6 +4917,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG030003360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030003360",
         "name": "Siebter Teil",
         "title": "Durchf\u00fchrung des B\u00fcrgerlichen Gesetzbuchs, Verordnungserm\u00e4chtigungen, L\u00e4nder\u00f6ffnungsklauseln, Informationspflichten",
         "parent": null
@@ -4565,6 +4925,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG052203123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG052203123",
         "name": "Art 238",
         "title": "(weggefallen)",
         "parent": {
@@ -4575,6 +4936,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG030104360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030104360",
         "name": "Art 239",
         "title": "L\u00e4nder\u00f6ffnungsklausel",
         "parent": {
@@ -4588,6 +4950,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG030206360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030206360",
         "name": "Art 240",
         "title": "Vertragsrechtliche Regelungen aus Anlass der COVID-19-Pandemie",
         "parent": {
@@ -4598,6 +4961,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245700360",
         "name": "\u00a7 1",
         "title": "Moratorium",
         "parent": {
@@ -4611,6 +4975,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245400360",
         "name": "\u00a7 2",
         "title": "Beschr\u00e4nkung der K\u00fcndigung von Miet- und Pachtverh\u00e4ltnissen",
         "parent": {
@@ -4624,6 +4989,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245500360",
         "name": "\u00a7 3",
         "title": "Regelungen zum Darlehensrecht",
         "parent": {
@@ -4637,6 +5003,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245600360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245600360",
         "name": "\u00a7 4",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -4650,6 +5017,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE245900360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE245900360",
         "name": "\u00a7 5",
         "title": "Gutschein f\u00fcr Freizeitveranstaltungen und Freizeiteinrichtungen",
         "parent": {
@@ -4663,6 +5031,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE246100125",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE246100125",
         "name": "\u00a7 6",
         "title": "Reisegutschein; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -4676,6 +5045,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG030304123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030304123",
         "name": "Art 241",
         "title": "(weggefallen)",
         "parent": {
@@ -4686,6 +5056,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG030402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030402140",
         "name": "Art 242",
         "title": "Informationspflichten bei Teilzeit-Wohnrechtevertr\u00e4gen, Vertr\u00e4gen \u00fcber langfristige Urlaubsprodukte, Vermittlungsvertr\u00e4gen sowie Tauschsystemvertr\u00e4gen",
         "parent": {
@@ -4696,6 +5067,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237600140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237600140",
         "name": "\u00a7 1",
         "title": "Vorvertragliche und vertragliche Pflichtangaben",
         "parent": {
@@ -4709,6 +5081,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237700140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237700140",
         "name": "\u00a7 2",
         "title": "Informationen \u00fcber das Widerrufsrecht",
         "parent": {
@@ -4722,6 +5095,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG030504301",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030504301",
         "name": "Art 243",
         "title": "Ver- und Entsorgungsbedingungen",
         "parent": {
@@ -4735,6 +5109,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG030606123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030606123",
         "name": "Art 244",
         "title": "Abschlagszahlungen beim Hausbau",
         "parent": {
@@ -4748,6 +5123,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG030704360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG030704360",
         "name": "Art 245",
         "title": "(weggefallen)",
         "parent": {
@@ -4758,6 +5134,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG053202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053202123",
         "name": "Art 246",
         "title": "Informationspflichten beim Verbrauchervertrag",
         "parent": {
@@ -4771,6 +5148,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG054200360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054200360",
         "name": "Art 246a",
         "title": "Informationspflichten bei au\u00dferhalb von Gesch\u00e4ftsr\u00e4umen geschlossenen Vertr\u00e4gen und Fernabsatzvertr\u00e4gen mit Ausnahme von Vertr\u00e4gen \u00fcber Finanzdienstleistungen",
         "parent": {
@@ -4781,6 +5159,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238401123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238401123",
         "name": "\u00a7 1",
         "title": "Informationspflichten",
         "parent": {
@@ -4794,6 +5173,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238500360",
         "name": "\u00a7 2",
         "title": "Erleichterte Informationspflichten bei Reparatur- und Instandhaltungsarbeiten",
         "parent": {
@@ -4807,6 +5187,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238600360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238600360",
         "name": "\u00a7 3",
         "title": "Erleichterte Informationspflichten bei begrenzter Darstellungsm\u00f6glichkeit",
         "parent": {
@@ -4820,6 +5201,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238700360",
         "name": "\u00a7 4",
         "title": "Formale Anforderungen an die Erf\u00fcllung der Informationspflichten",
         "parent": {
@@ -4833,6 +5215,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG054300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054300360",
         "name": "Art 246b",
         "title": "Informationspflichten bei au\u00dferhalb von Gesch\u00e4ftsr\u00e4umen geschlossenen Vertr\u00e4gen und Fernabsatzvertr\u00e4gen \u00fcber Finanzdienstleistungen",
         "parent": {
@@ -4843,6 +5226,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238800360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238800360",
         "name": "\u00a7 1",
         "title": "Informationspflichten",
         "parent": {
@@ -4856,6 +5240,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE238900360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE238900360",
         "name": "\u00a7 2",
         "title": "Weitere Informationspflichten",
         "parent": {
@@ -4869,6 +5254,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG054400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054400360",
         "name": "Art 246c",
         "title": "Informationspflichten bei Vertr\u00e4gen im elektronischen Gesch\u00e4ftsverkehr",
         "parent": {
@@ -4882,6 +5268,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG053300140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053300140",
         "name": "Art 247",
         "title": "Informationspflichten bei Verbraucherdarlehensvertr\u00e4gen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsvertr\u00e4gen",
         "parent": {
@@ -4892,6 +5279,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE232601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE232601123",
         "name": "\u00a7 1",
         "title": "Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensvertr\u00e4gen",
         "parent": {
@@ -4905,6 +5293,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE232703123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE232703123",
         "name": "\u00a7 2",
         "title": "Form, Zeitpunkt und Muster der vorvertraglichen Informationen bei Allgemein-Verbraucherdarlehensvertr\u00e4gen",
         "parent": {
@@ -4918,6 +5307,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE232802123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE232802123",
         "name": "\u00a7 3",
         "title": "Inhalt der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensvertr\u00e4gen",
         "parent": {
@@ -4931,6 +5321,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE232902123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE232902123",
         "name": "\u00a7 4",
         "title": "Weitere Angaben bei der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensvertr\u00e4gen",
         "parent": {
@@ -4944,6 +5335,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233002123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233002123",
         "name": "\u00a7 5",
         "title": "Information bei besonderen Kommunikationsmitteln",
         "parent": {
@@ -4957,6 +5349,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233104123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233104123",
         "name": "\u00a7 6",
         "title": "Vertragsinhalt",
         "parent": {
@@ -4970,6 +5363,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233201123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233201123",
         "name": "\u00a7 7",
         "title": "Weitere Angaben im Vertrag",
         "parent": {
@@ -4983,6 +5377,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233301123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233301123",
         "name": "\u00a7 8",
         "title": "Vertr\u00e4ge mit Zusatzleistungen",
         "parent": {
@@ -4996,6 +5391,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233401123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233401123",
         "name": "\u00a7 9",
         "title": "(weggefallen)",
         "parent": {
@@ -5009,6 +5405,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233503123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233503123",
         "name": "\u00a7 10",
         "title": "Abweichende Mitteilungspflichten bei \u00dcberziehungsm\u00f6glichkeiten gem\u00e4\u00df \u00a7 504 Abs. 2 des B\u00fcrgerlichen Gesetzbuchs",
         "parent": {
@@ -5022,6 +5419,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233603123",
         "name": "\u00a7 11",
         "title": "Abweichende Mitteilungspflichten bei Allgemein-Verbraucherdarlehensvertr\u00e4gen zur Umschuldung gem\u00e4\u00df \u00a7 495 Absatz 2 Nummer 1 des B\u00fcrgerlichen Gesetzbuchs",
         "parent": {
@@ -5035,6 +5433,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233704123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233704123",
         "name": "\u00a7 12",
         "title": "Verbundene Vertr\u00e4ge und entgeltliche Finanzierungshilfen",
         "parent": {
@@ -5048,6 +5447,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233803123",
         "name": "\u00a7 13",
         "title": "Darlehensvermittler bei Verbraucherdarlehensvertr\u00e4gen",
         "parent": {
@@ -5061,6 +5461,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239600123",
         "name": "\u00a7 13a",
         "title": "Besondere Regelungen f\u00fcr Darlehensvermittler bei Allgemein-Verbraucherdarlehensvertr\u00e4gen",
         "parent": {
@@ -5074,6 +5475,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239700123",
         "name": "\u00a7 13b",
         "title": "Besondere Regelungen f\u00fcr Darlehensvermittler bei Immobiliar-Verbraucherdarlehensvertr\u00e4gen",
         "parent": {
@@ -5087,6 +5489,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE233901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE233901360",
         "name": "\u00a7 14",
         "title": "Tilgungsplan",
         "parent": {
@@ -5100,6 +5503,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234001123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234001123",
         "name": "\u00a7 15",
         "title": "Unterrichtungen bei Zinsanpassungen",
         "parent": {
@@ -5113,6 +5517,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234100140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234100140",
         "name": "\u00a7 16",
         "title": "Unterrichtung bei \u00dcberziehungsm\u00f6glichkeiten",
         "parent": {
@@ -5126,6 +5531,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234200140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234200140",
         "name": "\u00a7 17",
         "title": "Angaben bei geduldeten \u00dcberziehungen",
         "parent": {
@@ -5139,6 +5545,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239800123",
         "name": "\u00a7 18",
         "title": "Vorvertragliche Informationen bei Beratungsleistungen f\u00fcr Immobiliar-Verbraucherdarlehensvertr\u00e4ge",
         "parent": {
@@ -5152,6 +5559,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG054500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054500123",
         "name": "Art 247a",
         "title": "Allgemeine Informationspflichten bei Verbraucherdarlehensvertr\u00e4gen, Vertr\u00e4gen \u00fcber entgeltliche Finanzierungshilfen und deren Vermittlung",
         "parent": {
@@ -5162,6 +5570,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239901123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239901123",
         "name": "\u00a7 1",
         "title": "Allgemeine Informationspflichten bei Immobiliar-Verbraucherdarlehensvertr\u00e4gen und entsprechenden Finanzierungshilfen",
         "parent": {
@@ -5175,6 +5584,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240000123",
         "name": "\u00a7 2",
         "title": "Allgemeine Informationspflichten bei \u00dcberziehungsm\u00f6glichkeiten und Entgeltvereinbarungen f\u00fcr die Duldung einer \u00dcberziehung",
         "parent": {
@@ -5188,6 +5598,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG053400140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053400140",
         "name": "Art 248",
         "title": "Informationspflichten bei der Erbringung von Zahlungsdienstleistungen",
         "parent": {
@@ -5198,6 +5609,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG053500140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053500140",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -5208,6 +5620,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234303123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234303123",
         "name": "\u00a7 1",
         "title": "Konkurrierende Informationspflichten",
         "parent": {
@@ -5221,6 +5634,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234401123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234401123",
         "name": "\u00a7 2",
         "title": "Allgemeine Form",
         "parent": {
@@ -5234,6 +5648,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG053600140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053600140",
         "name": "Abschnitt 2",
         "title": "Zahlungsdiensterahmenvertr\u00e4ge",
         "parent": {
@@ -5244,6 +5659,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234501360",
         "name": "\u00a7 3",
         "title": "Besondere Form",
         "parent": {
@@ -5257,6 +5673,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234603123",
         "name": "\u00a7 4",
         "title": "Vorvertragliche Informationen",
         "parent": {
@@ -5270,6 +5687,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234701360",
         "name": "\u00a7 5",
         "title": "Zugang zu Vertragsbedingungen und vorvertraglichen Informationen w\u00e4hrend der Vertragslaufzeit",
         "parent": {
@@ -5283,6 +5701,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234801123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234801123",
         "name": "\u00a7 6",
         "title": "Informationen vor Ausf\u00fchrung einzelner Zahlungsvorg\u00e4nge",
         "parent": {
@@ -5296,6 +5715,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE234901123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE234901123",
         "name": "\u00a7 7",
         "title": "Informationen an den Zahler bei einzelnen Zahlungsvorg\u00e4ngen",
         "parent": {
@@ -5309,6 +5729,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235001123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235001123",
         "name": "\u00a7 8",
         "title": "Informationen an den Zahlungsempf\u00e4nger bei einzelnen Zahlungsvorg\u00e4ngen",
         "parent": {
@@ -5322,6 +5743,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235100140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235100140",
         "name": "\u00a7 9",
         "title": "Sonstige Informationen w\u00e4hrend des Vertragsverh\u00e4ltnisses",
         "parent": {
@@ -5335,6 +5757,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235200140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235200140",
         "name": "\u00a7 10",
         "title": "Abweichende Vereinbarungen",
         "parent": {
@@ -5348,6 +5771,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235302123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235302123",
         "name": "\u00a7 11",
         "title": "Ausnahmen f\u00fcr Kleinbetragsinstrumente und E-Geld",
         "parent": {
@@ -5361,6 +5785,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG053700140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053700140",
         "name": "Abschnitt 3",
         "title": "Einzelzahlungsvertr\u00e4ge",
         "parent": {
@@ -5371,6 +5796,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235402123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235402123",
         "name": "\u00a7 12",
         "title": "Besondere Form",
         "parent": {
@@ -5384,6 +5810,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235501123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235501123",
         "name": "\u00a7 13",
         "title": "Vorvertragliche Informationen",
         "parent": {
@@ -5397,6 +5824,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242200123",
         "name": "\u00a7 13a",
         "title": "Informationen an den Zahler und den Zahlungsempf\u00e4nger nach Ausl\u00f6sung des Zahlungsauftrags \u00fcber einen Zahlungsausl\u00f6sedienstleister",
         "parent": {
@@ -5410,6 +5838,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235601123",
         "name": "\u00a7 14",
         "title": "Informationen an den Zahler nach Zugang des Zahlungsauftrags",
         "parent": {
@@ -5423,6 +5852,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235701123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235701123",
         "name": "\u00a7 15",
         "title": "Informationen an den Zahlungsempf\u00e4nger nach Ausf\u00fchrung des Zahlungsvorgangs",
         "parent": {
@@ -5436,6 +5866,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235801123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235801123",
         "name": "\u00a7 16",
         "title": "Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsinstruments",
         "parent": {
@@ -5449,6 +5880,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG053801123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG053801123",
         "name": "Abschnitt 4",
         "title": "Informationspflichten von Zahlungsempf\u00e4ngern, Bargeldabhebungsdienstleistern und Dritten",
         "parent": {
@@ -5459,6 +5891,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE235901123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE235901123",
         "name": "\u00a7 17",
         "title": "Informationspflichten des Zahlungsempf\u00e4ngers",
         "parent": {
@@ -5472,6 +5905,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242300123",
         "name": "\u00a7 17a",
         "title": "Informationspflichten des Bargeldabhebungsdienstleisters",
         "parent": {
@@ -5485,6 +5919,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236001123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236001123",
         "name": "\u00a7 18",
         "title": "Informationspflichten Dritter",
         "parent": {
@@ -5498,6 +5933,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236100140",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236100140",
         "name": "\u00a7 19",
         "title": "Abweichende Vereinbarungen",
         "parent": {
@@ -5511,6 +5947,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG054600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054600123",
         "name": "Art 249",
         "title": "Informationspflichten bei Verbraucherbauvertr\u00e4gen",
         "parent": {
@@ -5521,6 +5958,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240500123",
         "name": "\u00a7 1",
         "title": "Informationspflichten bei Verbraucherbauvertr\u00e4gen",
         "parent": {
@@ -5534,6 +5972,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240600123",
         "name": "\u00a7 2",
         "title": "Inhalt der Baubeschreibung",
         "parent": {
@@ -5547,6 +5986,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240700123",
         "name": "\u00a7 3",
         "title": "Widerrufsbelehrung",
         "parent": {
@@ -5560,6 +6000,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG054900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG054900123",
         "name": "Art 250",
         "title": "Informationspflichten bei Pauschalreisevertr\u00e4gen",
         "parent": {
@@ -5570,6 +6011,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242500123",
         "name": "\u00a7 1",
         "title": "Form und Zeitpunkt der vorvertraglichen Unterrichtung",
         "parent": {
@@ -5583,6 +6025,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242600123",
         "name": "\u00a7 2",
         "title": "Formblatt f\u00fcr die vorvertragliche Unterrichtung",
         "parent": {
@@ -5596,6 +6039,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242700123",
         "name": "\u00a7 3",
         "title": "Weitere Angaben bei der vorvertraglichen Unterrichtung",
         "parent": {
@@ -5609,6 +6053,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242800123",
         "name": "\u00a7 4",
         "title": "Vorvertragliche Unterrichtung in den F\u00e4llen des \u00a7 651c des B\u00fcrgerlichen Gesetzbuchs",
         "parent": {
@@ -5622,6 +6067,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE242900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE242900123",
         "name": "\u00a7 5",
         "title": "Gestaltung des Vertrags",
         "parent": {
@@ -5635,6 +6081,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243000123",
         "name": "\u00a7 6",
         "title": "Abschrift oder Best\u00e4tigung des Vertrags",
         "parent": {
@@ -5648,6 +6095,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243100123",
         "name": "\u00a7 7",
         "title": "Reiseunterlagen, Unterrichtung vor Reisebeginn",
         "parent": {
@@ -5661,6 +6109,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243200123",
         "name": "\u00a7 8",
         "title": "Mitteilungspflichten anderer Unternehmer und Information des Reisenden nach Vertragsschluss in den F\u00e4llen des \u00a7 651c des B\u00fcrgerlichen Gesetzbuchs",
         "parent": {
@@ -5674,6 +6123,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243300123",
         "name": "\u00a7 9",
         "title": "Weitere Informationspflichten bei Vertr\u00e4gen \u00fcber Gastschulaufenthalte",
         "parent": {
@@ -5687,6 +6137,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243400123",
         "name": "\u00a7 10",
         "title": "Unterrichtung bei erheblichen Vertrags\u00e4nderungen",
         "parent": {
@@ -5700,6 +6151,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG055000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG055000123",
         "name": "Art 251",
         "title": "Informationspflichten bei Vermittlung verbundener Reiseleistungen",
         "parent": {
@@ -5710,6 +6162,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243500123",
         "name": "\u00a7 1",
         "title": "Form und Zeitpunkt der Unterrichtung",
         "parent": {
@@ -5723,6 +6176,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243600123",
         "name": "\u00a7 2",
         "title": "Formblatt f\u00fcr die Unterrichtung des Reisenden",
         "parent": {
@@ -5736,6 +6190,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNG055100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG055100123",
         "name": "Art 252",
         "title": "Sicherungsschein; Mitteilungspflicht des Kundengeldabsicherers",
         "parent": {
@@ -5749,6 +6204,7 @@
       {
         "type": "heading",
         "id": "BJNR006049896BJNG055200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNG055200123",
         "name": "Art 253",
         "title": "Zentrale Kontaktstelle",
         "parent": {
@@ -5759,6 +6215,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243700123",
         "name": "\u00a7 1",
         "title": "Zentrale Kontaktstelle; Informationen \u00fcber die Insolvenzsicherung",
         "parent": {
@@ -5772,6 +6229,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243800123",
         "name": "\u00a7 2",
         "title": "Ausgehende Ersuchen",
         "parent": {
@@ -5785,6 +6243,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE243900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE243900123",
         "name": "\u00a7 3",
         "title": "Eingehende Ersuchen",
         "parent": {
@@ -5798,6 +6257,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236204123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236204123",
         "name": "Anlage 1",
         "title": "(zu Artikel 246a \u00a7 1 Absatz 2 Satz 2)<BR/>Muster f\u00fcr die Widerrufsbelehrung bei au\u00dferhalb von Gesch\u00e4ftsr\u00e4umen geschlossenen Vertr\u00e4gen und bei Fernabsatzvertr\u00e4gen mit Ausnahme von Vertr\u00e4gen \u00fcber Finanzdienstleistungen",
         "parent": null,
@@ -5808,6 +6268,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236302360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236302360",
         "name": "Anlage 2",
         "title": "(zu Artikel 246a \u00a7 1 Absatz 2 Satz 1 Nummer 1 und \u00a7 2 Absatz 2 Nummer 2)<BR/>Muster f\u00fcr das Widerrufsformular",
         "parent": null,
@@ -5818,6 +6279,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE239000360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE239000360",
         "name": "Anlage 3",
         "title": "(zu Artikel 246b \u00a7 2 Absatz 3)<BR/>Muster f\u00fcr die Widerrufsbelehrung bei au\u00dferhalb von Gesch\u00e4ftsr\u00e4umen geschlossenen Vertr\u00e4gen und bei Fernabsatzvertr\u00e4gen \u00fcber Finanzdienstleistungen",
         "parent": null,
@@ -5828,6 +6290,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236403360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236403360",
         "name": "Anlage 4",
         "title": "(zu Artikel 247 \u00a7 2) <BR/> Europ\u00e4ische Standardinformationen f\u00fcr Verbraucherkredite",
         "parent": null,
@@ -5838,6 +6301,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236503360",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236503360",
         "name": "Anlage 5",
         "title": "(zu Artikel 247 \u00a7 2) <BR/> Europ\u00e4ische Verbraucherkreditinformationen bei <BR/> 1. \u00dcberziehungskrediten <BR/> 2. Umschuldungen",
         "parent": null,
@@ -5848,6 +6312,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE236602123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE236602123",
         "name": "Anlage 6",
         "title": "(zu Artikel 247 \u00a7 1 Absatz 2)<BR/> Europ\u00e4isches Standardisiertes Merkblatt (ESIS-Merkblatt)",
         "parent": null,
@@ -5858,6 +6323,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE237403123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE237403123",
         "name": "Anlage 7",
         "title": "(zu Artikel 247 \u00a7 6 Absatz 2 und \u00a7 12 Absatz 1)<BR/>Muster f\u00fcr eine Widerrufsinformation f\u00fcr Allgemein-Verbraucherdarlehensvertr\u00e4ge",
         "parent": null,
@@ -5868,6 +6334,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240100123",
         "name": "Anlage 8",
         "title": "(zu Artikel 247 \u00a7 6 Absatz 2 und \u00a7 12 Absatz 1)<BR/>Muster f\u00fcr eine Widerrufsinformation f\u00fcr Immobiliar-Verbraucherdarlehensvertr\u00e4ge",
         "parent": null,
@@ -5878,6 +6345,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240200123",
         "name": "Anlage 9",
         "title": "(zu Artikel 246 Absatz 3)<BR/>Muster f\u00fcr die Widerrufsbelehrung bei unentgeltlichen Darlehensvertr\u00e4gen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer",
         "parent": null,
@@ -5888,6 +6356,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE240400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE240400123",
         "name": "Anlage 10",
         "title": "(zu Artikel 249 \u00a7 3)<BR/>Muster f\u00fcr die Widerrufsbelehrung bei Verbraucherbauvertr\u00e4gen",
         "parent": null,
@@ -5898,6 +6367,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244000123",
         "name": "Anlage 11",
         "title": "(zu Artikel 250 \u00a7 2 Absatz 1)<BR/>Muster f\u00fcr das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach \u00a7 651a des B\u00fcrgerlichen Gesetzbuchs",
         "parent": null,
@@ -5908,6 +6378,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244100123",
         "name": "Anlage 12",
         "title": "(zu Artikel 250 \u00a7 2 Absatz 2)<BR/>Muster f\u00fcr das Formblatt zur Unterrichtung des Reisenden bei Vertr\u00e4gen \u00fcber Gastschulaufenthalte nach \u00a7 651u des B\u00fcrgerlichen Gesetzbuchs",
         "parent": null,
@@ -5918,6 +6389,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244200123",
         "name": "Anlage 13",
         "title": "(zu Artikel 250 \u00a7 4)<BR/>Muster f\u00fcr das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach \u00a7 651c des B\u00fcrgerlichen Gesetzbuchs",
         "parent": null,
@@ -5928,6 +6400,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244300123",
         "name": "Anlage 14",
         "title": "(zu Artikel 251 \u00a7 2 Satz 1 Nummer 1 Buchstabe a)<BR/>Muster f\u00fcr das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Bef\u00f6rderer ist, mit dem der Reisende einen die R\u00fcckbef\u00f6rderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach \u00a7 651w Absatz 1 Satz 1 Nummer 1 des B\u00fcrgerlichen Gesetzbuchs erfolgt",
         "parent": null,
@@ -5938,6 +6411,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244400123",
         "name": "Anlage 15",
         "title": "(zu Artikel 251 \u00a7 2 Satz 1 Nummer 1 Buchstabe b)<BR/>Muster f\u00fcr das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Bef\u00f6rderer ist, mit dem der Reisende einen die R\u00fcckbef\u00f6rderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach \u00a7 651w Absatz 1 Satz 1 Nummer 2 des B\u00fcrgerlichen Gesetzbuchs erfolgt",
         "parent": null,
@@ -5948,6 +6422,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244500123",
         "name": "Anlage 16",
         "title": "(zu Artikel 251 \u00a7 2 Satz 1 Nummer 2 Buchstabe a)<BR/>Muster f\u00fcr das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Bef\u00f6rderer ist, mit dem der Reisende einen die R\u00fcckbef\u00f6rderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach \u00a7 651w Absatz 1 Satz 1 Nummer 1 des B\u00fcrgerlichen Gesetzbuchs erfolgt",
         "parent": null,
@@ -5958,6 +6433,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244600123",
         "name": "Anlage 17",
         "title": "(zu Artikel 251 \u00a7 2 Satz 1 Nummer 2 Buchstabe b)<BR/>Muster f\u00fcr das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Bef\u00f6rderer ist, mit dem der Reisende einen die R\u00fcckbef\u00f6rderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach \u00a7 651w Absatz 1 Satz 1 Nummer 2 des B\u00fcrgerlichen Gesetzbuchs erfolgt",
         "parent": null,
@@ -5968,6 +6444,7 @@
       {
         "type": "article",
         "id": "BJNR006049896BJNE244700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/bgbeg/articles/BJNR006049896BJNE244700123",
         "name": "Anlage 18",
         "title": "(zu Artikel 252 Absatz 1)<BR/>Muster f\u00fcr den Sicherungsschein",
         "parent": null,

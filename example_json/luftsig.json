@@ -36,6 +36,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000103124",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000103124",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -46,6 +47,7 @@
       {
         "type": "heading",
         "id": "BJNR007810005BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeines",
         "parent": null
@@ -53,6 +55,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000201305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000201305",
         "name": "\u00a7 1",
         "title": "Zweck",
         "parent": {
@@ -66,6 +69,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000301305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000301305",
         "name": "\u00a7 2",
         "title": "Aufgaben",
         "parent": {
@@ -79,6 +83,7 @@
       {
         "type": "heading",
         "id": "BJNR007810005BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Sicherheitsma\u00dfnahmen",
         "parent": null
@@ -86,6 +91,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000401305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000401305",
         "name": "\u00a7 3",
         "title": "Allgemeine Befugnisse der Luftsicherheitsbeh\u00f6rde",
         "parent": {
@@ -99,6 +105,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002300305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002300305",
         "name": "\u00a7 3a",
         "title": "Flugverbot",
         "parent": {
@@ -112,6 +119,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000500000",
         "name": "\u00a7 4",
         "title": "Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit",
         "parent": {
@@ -125,6 +133,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000601305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000601305",
         "name": "\u00a7 5",
         "title": "Besondere Befugnisse der Luftsicherheitsbeh\u00f6rden",
         "parent": {
@@ -138,6 +147,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000701126",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000701126",
         "name": "\u00a7 6",
         "title": "Verarbeitung personenbezogener Daten",
         "parent": {
@@ -151,6 +161,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000805124",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000805124",
         "name": "\u00a7 7",
         "title": "Zuverl\u00e4ssigkeits\u00fcberpr\u00fcfungen",
         "parent": {
@@ -164,6 +175,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002900124",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002900124",
         "name": "\u00a7 7a",
         "title": "Gemeinsames Luftsicherheitsregister",
         "parent": {
@@ -177,6 +189,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE000901305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE000901305",
         "name": "\u00a7 8",
         "title": "Sicherheitsma\u00dfnahmen der Flugplatzbetreiber",
         "parent": {
@@ -190,6 +203,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001001305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001001305",
         "name": "\u00a7 9",
         "title": "Sicherheitsma\u00dfnahmen der Luftfahrtunternehmen",
         "parent": {
@@ -203,6 +217,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002401126",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002401126",
         "name": "\u00a7 9a",
         "title": "Sicherheitsma\u00dfnahmen der Beteiligten an der sicheren Lieferkette",
         "parent": {
@@ -216,6 +231,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001102126",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001102126",
         "name": "\u00a7 10",
         "title": "Zugangsberechtigung",
         "parent": {
@@ -229,6 +245,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002500305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002500305",
         "name": "\u00a7 10a",
         "title": "Sicherheitsausr\u00fcstung",
         "parent": {
@@ -242,6 +259,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001201305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001201305",
         "name": "\u00a7 11",
         "title": "Verbotene Gegenst\u00e4nde",
         "parent": {
@@ -255,6 +273,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001301308",
         "name": "\u00a7 12",
         "title": "Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugf\u00fchrers",
         "parent": {
@@ -268,6 +287,7 @@
       {
         "type": "heading",
         "id": "BJNR007810005BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Unterst\u00fctzung und Amtshilfe durch die Streitkr\u00e4fte",
         "parent": null
@@ -275,6 +295,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001401305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001401305",
         "name": "\u00a7 13",
         "title": "Entscheidung der Bundesregierung",
         "parent": {
@@ -288,6 +309,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001501305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001501305",
         "name": "\u00a7 14",
         "title": "Einsatzma\u00dfnahmen, Anordnungsbefugnis",
         "parent": {
@@ -301,6 +323,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001602305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001602305",
         "name": "\u00a7 15",
         "title": "Sonstige Ma\u00dfnahmen",
         "parent": {
@@ -314,6 +337,7 @@
       {
         "type": "heading",
         "id": "BJNR007810005BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Zust\u00e4ndigkeit und Verfahren",
         "parent": null
@@ -321,6 +345,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001704124",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001704124",
         "name": "\u00a7 16",
         "title": "Zust\u00e4ndigkeiten",
         "parent": {
@@ -334,6 +359,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002601124",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002601124",
         "name": "\u00a7 16a",
         "title": "Beleihung",
         "parent": {
@@ -347,6 +373,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001805126",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001805126",
         "name": "\u00a7 17",
         "title": "Erm\u00e4chtigung zum Erlass von Rechtsverordnungen",
         "parent": {
@@ -360,6 +387,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002701126",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002701126",
         "name": "\u00a7 17a",
         "title": "Geb\u00fchren und Auslagen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -373,6 +401,7 @@
       {
         "type": "heading",
         "id": "BJNR007810005BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Bu\u00dfgeld- und Strafvorschriften",
         "parent": null
@@ -380,6 +409,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE001901305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE001901305",
         "name": "\u00a7 18",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -393,6 +423,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002001305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002001305",
         "name": "\u00a7 19",
         "title": "Strafvorschriften",
         "parent": {
@@ -406,6 +437,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002101305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002101305",
         "name": "\u00a7 20",
         "title": "Bu\u00dfgeld- und Strafvorschriften zu \u00a7 12",
         "parent": {
@@ -419,6 +451,7 @@
       {
         "type": "heading",
         "id": "BJNR007810005BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNG000600000",
         "name": "Abschnitt 6",
         "title": "Schlussbestimmung",
         "parent": null
@@ -426,6 +459,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002200000",
         "name": "\u00a7 21",
         "title": "Grundrechtseinschr\u00e4nkungen",
         "parent": {
@@ -439,6 +473,7 @@
       {
         "type": "article",
         "id": "BJNR007810005BJNE002800305",
+        "url": "https://api.rechtsinformationsportal.de/laws/luftsig/articles/BJNR007810005BJNE002800305",
         "name": "\u00a7 22",
         "title": "\u00dcbergangsregelung",
         "parent": {

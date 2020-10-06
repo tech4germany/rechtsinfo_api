@@ -165,6 +165,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000120311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000120311",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -175,6 +176,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000100000",
         "name": "Kapitel 1",
         "title": "Allgemeine Bestimmungen",
         "parent": null
@@ -182,6 +184,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000203377",
         "name": "\u00a7 1",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -195,6 +198,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000200000",
         "name": "Kapitel 2",
         "title": "Einreise und Aufenthalt im Bundesgebiet",
         "parent": null
@@ -202,6 +206,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000300000",
         "name": "Abschnitt 1",
         "title": "Passpflicht f\u00fcr Ausl\u00e4nder",
         "parent": {
@@ -212,6 +217,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000300000",
         "name": "\u00a7 2",
         "title": "Erf\u00fcllung der Passpflicht durch Eintragung in den Pass\neines gesetzlichen Vertreters",
         "parent": {
@@ -225,6 +231,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000401311",
         "name": "\u00a7 3",
         "title": "Zulassung nichtdeutscher amtlicher Ausweise als Passersatz",
         "parent": {
@@ -238,6 +245,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000505311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000505311",
         "name": "\u00a7 4",
         "title": "Deutsche Passersatzpapiere f\u00fcr Ausl\u00e4nder",
         "parent": {
@@ -251,6 +259,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000602310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000602310",
         "name": "\u00a7 5",
         "title": "Allgemeine Voraussetzungen der Ausstellung des Reiseausweises f\u00fcr Ausl\u00e4nder",
         "parent": {
@@ -264,6 +273,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000703116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000703116",
         "name": "\u00a7 6",
         "title": "Ausstellung des Reiseausweises f\u00fcr Ausl\u00e4nder im Inland",
         "parent": {
@@ -277,6 +287,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000801310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000801310",
         "name": "\u00a7 7",
         "title": "Ausstellung des Reiseausweises f\u00fcr Ausl\u00e4nder im Ausland",
         "parent": {
@@ -290,6 +301,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE000902310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE000902310",
         "name": "\u00a7 8",
         "title": "G\u00fcltigkeitsdauer des Reiseausweises f\u00fcr Ausl\u00e4nder",
         "parent": {
@@ -303,6 +315,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001000000",
         "name": "\u00a7 9",
         "title": "R\u00e4umlicher Geltungsbereich des Reiseausweises f\u00fcr Ausl\u00e4nder",
         "parent": {
@@ -316,6 +329,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001100000",
         "name": "\u00a7 10",
         "title": "Sonstige Beschr\u00e4nkungen im Reiseausweis f\u00fcr Ausl\u00e4nder",
         "parent": {
@@ -329,6 +343,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001203311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001203311",
         "name": "\u00a7 11",
         "title": "Verfahren der Ausstellung oder Verl\u00e4ngerung des Reiseausweises f\u00fcr Ausl\u00e4nder im Ausland",
         "parent": {
@@ -342,6 +357,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001302311",
         "name": "\u00a7 12",
         "title": "Grenzg\u00e4ngerkarte",
         "parent": {
@@ -355,6 +371,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001401311",
         "name": "\u00a7 13",
         "title": "Notreiseausweis",
         "parent": {
@@ -368,6 +385,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001500000",
         "name": "\u00a7 14",
         "title": "Befreiung von der Passpflicht in Rettungsf\u00e4llen",
         "parent": {
@@ -381,6 +399,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000400000",
         "name": "Abschnitt 2",
         "title": "Befreiung vom Erfordernis eines\nAufenthaltstitels",
         "parent": {
@@ -391,6 +410,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000500000",
         "name": "Unterabschnitt 1",
         "title": "Allgemeine Regelungen",
         "parent": {
@@ -401,6 +421,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001601311",
         "name": "\u00a7 15",
         "title": "Gemeinschaftsrechtliche Regelung der Kurzaufenthalte",
         "parent": {
@@ -414,6 +435,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001701310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001701310",
         "name": "\u00a7 16",
         "title": "Vorrang \u00e4lterer Sichtvermerksabkommen",
         "parent": {
@@ -427,6 +449,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001807311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001807311",
         "name": "\u00a7 17",
         "title": "Nichtbestehen der Befreiung bei Erwerbst\u00e4tigkeit w\u00e4hrend eines Kurzaufenthalts",
         "parent": {
@@ -440,6 +463,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE014201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE014201116",
         "name": "\u00a7 17a",
         "title": "Befreiung zur Dienstleistungserbringung f\u00fcr langfristig Aufenthaltsberechtigte",
         "parent": {
@@ -453,6 +477,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000600000",
         "name": "Unterabschnitt 2",
         "title": "Befreiungen f\u00fcr Inhaber bestimmter\nAusweise",
         "parent": {
@@ -463,6 +488,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE001901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE001901311",
         "name": "\u00a7 18",
         "title": "Befreiung f\u00fcr Inhaber von Reiseausweisen f\u00fcr Fl\u00fcchtlinge und Staatenlose",
         "parent": {
@@ -476,6 +502,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002000000",
         "name": "\u00a7 19",
         "title": "Befreiung f\u00fcr Inhaber dienstlicher P\u00e4sse",
         "parent": {
@@ -489,6 +516,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002101116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002101116",
         "name": "\u00a7 20",
         "title": "Befreiung f\u00fcr Inhaber von Ausweisen der Europ\u00e4ischen Union und zwischenstaatlicher Organisationen und der Vatikanstadt",
         "parent": {
@@ -502,6 +530,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002201116",
         "name": "\u00a7 21",
         "title": null,
         "parent": {
@@ -515,6 +544,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002302311",
         "name": "\u00a7 22",
         "title": "Befreiung f\u00fcr Sch\u00fcler auf Sammellisten",
         "parent": {
@@ -528,6 +558,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000700000",
         "name": "Unterabschnitt 3",
         "title": "Befreiungen im grenz\u00fcberschreitenden\nBef\u00f6rderungswesen",
         "parent": {
@@ -538,6 +569,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002400000",
         "name": "\u00a7 23",
         "title": "Befreiung f\u00fcr ziviles Flugpersonal",
         "parent": {
@@ -551,6 +583,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002501311",
         "name": "\u00a7 24",
         "title": "Befreiung f\u00fcr Seeleute",
         "parent": {
@@ -564,6 +597,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002602116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002602116",
         "name": "\u00a7 25",
         "title": "Befreiung in der internationalen zivilen Binnenschifffahrt",
         "parent": {
@@ -577,6 +611,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002702310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002702310",
         "name": "\u00a7 26",
         "title": "Transit ohne Einreise; Flughafentransitvisum",
         "parent": {
@@ -590,6 +625,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000800000",
         "name": "Unterabschnitt 4",
         "title": "Sonstige Befreiungen",
         "parent": {
@@ -600,6 +636,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002800000",
         "name": "\u00a7 27",
         "title": "Befreiung f\u00fcr Personen bei Vertretungen ausl\u00e4ndischer Staaten",
         "parent": {
@@ -613,6 +650,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE002902310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE002902310",
         "name": "\u00a7 28",
         "title": "Befreiung f\u00fcr freiz\u00fcgigkeitsberechtigte Schweizer",
         "parent": {
@@ -626,6 +664,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003000000",
         "name": "\u00a7 29",
         "title": "Befreiung in Rettungsf\u00e4llen",
         "parent": {
@@ -639,6 +678,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003102311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003102311",
         "name": "\u00a7 30",
         "title": "Befreiung f\u00fcr die Durchreise und Durchbef\u00f6rderung",
         "parent": {
@@ -652,6 +692,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG000900000",
         "name": "Abschnitt 3",
         "title": "Visumverfahren",
         "parent": {
@@ -662,6 +703,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011403116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011403116",
         "name": "\u00a7 30a",
         "title": "(weggefallen)",
         "parent": {
@@ -675,6 +717,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003213311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003213311",
         "name": "\u00a7 31",
         "title": "Zustimmung der Ausl\u00e4nderbeh\u00f6rde zur Visumerteilung",
         "parent": {
@@ -688,6 +731,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004807311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004807311",
         "name": "\u00a7 31a",
         "title": "Beschleunigtes Fachkr\u00e4fteverfahren",
         "parent": {
@@ -701,6 +745,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003300000",
         "name": "\u00a7 32",
         "title": "Zustimmung der obersten Landesbeh\u00f6rde",
         "parent": {
@@ -714,6 +759,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003400000",
         "name": "\u00a7 33",
         "title": "Zustimmungsfreiheit bei Sp\u00e4taussiedlern",
         "parent": {
@@ -727,6 +773,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003505311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003505311",
         "name": "\u00a7 34",
         "title": "Zustimmungsfreiheit bei Wissenschaftlern und Studenten",
         "parent": {
@@ -740,6 +787,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003601311",
         "name": "\u00a7 35",
         "title": "Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika",
         "parent": {
@@ -753,6 +801,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003700000",
         "name": "\u00a7 36",
         "title": "Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern\nausl\u00e4ndischer Streitkr\u00e4fte",
         "parent": {
@@ -766,6 +815,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003803116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003803116",
         "name": "\u00a7 37",
         "title": "Zustimmungsfreiheit in sonstigen F\u00e4llen",
         "parent": {
@@ -779,6 +829,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE003900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE003900000",
         "name": "\u00a7 38",
         "title": "Ersatzzust\u00e4ndigkeit der Ausl\u00e4nderbeh\u00f6rde",
         "parent": {
@@ -792,6 +843,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG002100310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG002100310",
         "name": "Abschnitt 3a",
         "title": "Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmevereinbarungen",
         "parent": {
@@ -802,6 +854,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011504311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011504311",
         "name": "\u00a7 38a",
         "title": "Voraussetzungen f\u00fcr die Anerkennung von Forschungseinrichtungen",
         "parent": {
@@ -815,6 +868,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011601311",
         "name": "\u00a7 38b",
         "title": "Aufhebung der Anerkennung",
         "parent": {
@@ -828,6 +882,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011702377",
         "name": "\u00a7 38c",
         "title": "Mitteilungspflichten von Forschungseinrichtungen gegen\u00fcber den Ausl\u00e4nderbeh\u00f6rden",
         "parent": {
@@ -841,6 +896,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011801311",
         "name": "\u00a7 38d",
         "title": "Beirat f\u00fcr Forschungsmigration",
         "parent": {
@@ -854,6 +910,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011901311",
         "name": "\u00a7 38e",
         "title": "Ver\u00f6ffentlichungen durch das Bundesamt f\u00fcr Migration und Fl\u00fcchtlinge",
         "parent": {
@@ -867,6 +924,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012004311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012004311",
         "name": "\u00a7 38f",
         "title": "Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages",
         "parent": {
@@ -880,6 +938,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001000000",
         "name": "Abschnitt 4",
         "title": "Einholung des Aufenthaltstitels im Bundesgebiet",
         "parent": {
@@ -890,6 +949,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004008311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004008311",
         "name": "\u00a7 39",
         "title": "Verl\u00e4ngerung eines Aufenthalts im Bundesgebiet f\u00fcr l\u00e4ngerfristige Zwecke",
         "parent": {
@@ -903,6 +963,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004102311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004102311",
         "name": "\u00a7 40",
         "title": "Verl\u00e4ngerung eines visumfreien Kurzaufenthalts",
         "parent": {
@@ -916,6 +977,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004203311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004203311",
         "name": "\u00a7 41",
         "title": "Verg\u00fcnstigung f\u00fcr Angeh\u00f6rige bestimmter Staaten",
         "parent": {
@@ -929,6 +991,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001100000",
         "name": "Abschnitt 5",
         "title": "Aufenthalt aus v\u00f6lkerrechtlichen,\nhumanit\u00e4ren oder politischen Gr\u00fcnden",
         "parent": {
@@ -939,6 +1002,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004300000",
         "name": "\u00a7 42",
         "title": "Antragstellung auf Verlegung des Wohnsitzes",
         "parent": {
@@ -952,6 +1016,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004400000",
         "name": "\u00a7 43",
         "title": "Verfahren bei Zustimmung des anderen\nMitgliedstaates zur Wohnsitzverlegung",
         "parent": {
@@ -965,6 +1030,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001200000",
         "name": "Kapitel 3",
         "title": "Geb\u00fchren",
         "parent": null
@@ -972,6 +1038,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004503311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004503311",
         "name": "\u00a7 44",
         "title": "Geb\u00fchren f\u00fcr die Niederlassungserlaubnis",
         "parent": {
@@ -985,6 +1052,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012103311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012103311",
         "name": "\u00a7 44a",
         "title": "Geb\u00fchren f\u00fcr die Erlaubnis zum Daueraufenthalt \u2013 EU",
         "parent": {
@@ -998,6 +1066,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE014500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE014500377",
         "name": "\u00a7 45",
         "title": "Geb\u00fchren f\u00fcr die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte",
         "parent": {
@@ -1011,6 +1080,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013300310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013300310",
         "name": "\u00a7 45a",
         "title": "Geb\u00fchren f\u00fcr den elektronischen Identit\u00e4tsnachweis",
         "parent": {
@@ -1024,6 +1094,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013401311",
         "name": "\u00a7 45b",
         "title": "Geb\u00fchren f\u00fcr Aufenthaltstitel in Ausnahmef\u00e4llen",
         "parent": {
@@ -1037,6 +1108,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013502311",
         "name": "\u00a7 45c",
         "title": "Geb\u00fchr bei Neuausstellung",
         "parent": {
@@ -1050,6 +1122,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004706311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004706311",
         "name": "\u00a7 46",
         "title": "Geb\u00fchren f\u00fcr das Visum",
         "parent": {
@@ -1063,6 +1136,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004806311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004806311",
         "name": "\u00a7 47",
         "title": "Geb\u00fchren f\u00fcr sonstige aufenthaltsrechtliche Amtshandlungen",
         "parent": {
@@ -1076,6 +1150,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE004905311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE004905311",
         "name": "\u00a7 48",
         "title": "Geb\u00fchren f\u00fcr pass- und ausweisrechtliche Ma\u00dfnahmen",
         "parent": {
@@ -1089,6 +1164,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005005311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005005311",
         "name": "\u00a7 49",
         "title": "Bearbeitungsgeb\u00fchren",
         "parent": {
@@ -1102,6 +1178,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005106311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005106311",
         "name": "\u00a7 50",
         "title": "Geb\u00fchren f\u00fcr Amtshandlungen zugunsten Minderj\u00e4hriger",
         "parent": {
@@ -1115,6 +1192,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005203311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005203311",
         "name": "\u00a7 51",
         "title": "Widerspruchsgeb\u00fchr",
         "parent": {
@@ -1128,6 +1206,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005306311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005306311",
         "name": "\u00a7 52",
         "title": "Befreiungen und Erm\u00e4\u00dfigungen",
         "parent": {
@@ -1141,6 +1220,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE014400116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE014400116",
         "name": "\u00a7 52a",
         "title": "Befreiung und Erm\u00e4\u00dfigung bei Assoziationsberechtigung",
         "parent": {
@@ -1154,6 +1234,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005401310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005401310",
         "name": "\u00a7 53",
         "title": "Befreiung und Erm\u00e4\u00dfigung aus Billigkeitsgr\u00fcnden",
         "parent": {
@@ -1167,6 +1248,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005501310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005501310",
         "name": "\u00a7 54",
         "title": "Zwischenstaatliche Vereinbarungen",
         "parent": {
@@ -1180,6 +1262,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001300000",
         "name": "Kapitel 4",
         "title": "Ordnungsrechtliche Vorschriften",
         "parent": null
@@ -1187,6 +1270,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005601310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005601310",
         "name": "\u00a7 55",
         "title": "Ausweisersatz",
         "parent": {
@@ -1200,6 +1284,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005702377",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005702377",
         "name": "\u00a7 56",
         "title": "Ausweisrechtliche Pflichten",
         "parent": {
@@ -1213,6 +1298,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005800000",
         "name": "\u00a7 57",
         "title": "Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente",
         "parent": {
@@ -1226,6 +1312,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013600310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013600310",
         "name": "\u00a7 57a",
         "title": "Pflichten der Inhaber von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach \u00a7 78 des Aufenthaltsgesetzes",
         "parent": {
@@ -1239,6 +1326,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001400000",
         "name": "Kapitel 5",
         "title": "Verfahrensvorschriften",
         "parent": null
@@ -1246,6 +1334,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001500000",
         "name": "Abschnitt 1",
         "title": "Muster f\u00fcr Aufenthaltstitel, Pass- und\nAusweisersatz und sonstige Dokumente",
         "parent": {
@@ -1256,6 +1345,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE005905377",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE005905377",
         "name": "\u00a7 58",
         "title": "Vordruckmuster",
         "parent": {
@@ -1269,6 +1359,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006008311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006008311",
         "name": "\u00a7 59",
         "title": "Muster der Aufenthaltstitel",
         "parent": {
@@ -1282,6 +1373,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE014300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE014300311",
         "name": "\u00a7 59a",
         "title": "Hinweis auf Gew\u00e4hrung internationalen Schutzes",
         "parent": {
@@ -1295,6 +1387,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006103311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006103311",
         "name": "\u00a7 60",
         "title": "Lichtbild",
         "parent": {
@@ -1308,6 +1401,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006201311",
         "name": "\u00a7 61",
         "title": "Sicherheitsstandard, Ausstellungstechnik",
         "parent": {
@@ -1321,6 +1415,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001601310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001601310",
         "name": "Abschnitt 2",
         "title": "Datenerfassung, Datenverarbeitung und Datenschutz",
         "parent": {
@@ -1331,6 +1426,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG002201310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG002201310",
         "name": "Unterabschnitt 1",
         "title": "Erfassung und \u00dcbermittlung von Antragsdaten zur Herstellung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach \u00a7 4 sowie nach \u00a7 78 des Aufenthaltsgesetzes",
         "parent": {
@@ -1341,6 +1437,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012501310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012501310",
         "name": "\u00a7 61a",
         "title": "Fingerabdruckerfassung bei der Beantragung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium",
         "parent": {
@@ -1354,6 +1451,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012603311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012603311",
         "name": "\u00a7 61b",
         "title": "Form und Verfahren der Datenerfassung, -pr\u00fcfung sowie der dezentralen Qualit\u00e4tssicherung",
         "parent": {
@@ -1367,6 +1465,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012702311",
         "name": "\u00a7 61c",
         "title": "\u00dcbermittlung der Daten an den Dokumentenhersteller",
         "parent": {
@@ -1380,6 +1479,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012800310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012800310",
         "name": "\u00a7 61d",
         "title": "Nachweis der Erf\u00fcllung der Anforderungen",
         "parent": {
@@ -1393,6 +1493,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012901311",
         "name": "\u00a7 61e",
         "title": "Qualit\u00e4tsstatistik",
         "parent": {
@@ -1406,6 +1507,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013002311",
         "name": "\u00a7 61f",
         "title": "Automatischer Abruf aus Dateisystemen und automatische Speicherung im \u00f6ffentlichen Bereich",
         "parent": {
@@ -1419,6 +1521,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013101311",
         "name": "\u00a7 61g",
         "title": "Verwendung im nicht\u00f6ffentlichen Bereich",
         "parent": {
@@ -1432,6 +1535,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013202310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013202310",
         "name": "\u00a7 61h",
         "title": "Anwendung der Personalausweisverordnung",
         "parent": {
@@ -1445,6 +1549,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001701310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001701310",
         "name": "Unterabschnitt 2",
         "title": "F\u00fchrung von Ausl\u00e4nderdateien durch die Ausl\u00e4nderbeh\u00f6rden und die Auslandsvertretungen",
         "parent": {
@@ -1455,6 +1560,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006301311",
         "name": "\u00a7 62",
         "title": "Dateisystemf\u00fchrungspflicht der Ausl\u00e4nderbeh\u00f6rden",
         "parent": {
@@ -1468,6 +1574,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006402311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006402311",
         "name": "\u00a7 63",
         "title": "Ausl\u00e4nderdatei A",
         "parent": {
@@ -1481,6 +1588,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006503311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006503311",
         "name": "\u00a7 64",
         "title": "Datensatz der Ausl\u00e4nderdatei A",
         "parent": {
@@ -1494,6 +1602,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006607116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006607116",
         "name": "\u00a7 65",
         "title": "Erweiterter Datensatz",
         "parent": {
@@ -1507,6 +1616,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006702311",
         "name": "\u00a7 66",
         "title": "Dateisystem \u00fcber Passersatzpapiere",
         "parent": {
@@ -1520,6 +1630,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006802311",
         "name": "\u00a7 67",
         "title": "Ausl\u00e4nderdatei B",
         "parent": {
@@ -1533,6 +1644,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE006902310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE006902310",
         "name": "\u00a7 68",
         "title": "L\u00f6schung",
         "parent": {
@@ -1546,6 +1658,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007010311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007010311",
         "name": "\u00a7 69",
         "title": "Visadateien der Auslandsvertretungen",
         "parent": {
@@ -1559,6 +1672,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007102310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007102310",
         "name": "\u00a7 70",
         "title": "(weggefallen)",
         "parent": {
@@ -1572,6 +1686,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001801310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001801310",
         "name": "Unterabschnitt 3",
         "title": "Daten\u00fcbermittlungen an die Ausl\u00e4nderbeh\u00f6rden",
         "parent": {
@@ -1582,6 +1697,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007203311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007203311",
         "name": "\u00a7 71",
         "title": "\u00dcbermittlungspflicht",
         "parent": {
@@ -1595,6 +1711,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007303116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007303116",
         "name": "\u00a7 72",
         "title": "Mitteilungen der Meldebeh\u00f6rden",
         "parent": {
@@ -1608,6 +1725,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012201311",
         "name": "\u00a7 72a",
         "title": "Mitteilungen der Pass- und Ausweisbeh\u00f6rden",
         "parent": {
@@ -1621,6 +1739,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007401310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007401310",
         "name": "\u00a7 73",
         "title": "Mitteilungen der\nStaatsangeh\u00f6rigkeits- und Bescheinigungsbeh\u00f6rden nach \u00a7 15\ndes Bundesvertriebenengesetzes",
         "parent": {
@@ -1634,6 +1753,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007500000",
         "name": "\u00a7 74",
         "title": "Mitteilungen der Justizbeh\u00f6rden",
         "parent": {
@@ -1647,6 +1767,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007601311",
         "name": "\u00a7 75",
         "title": "(weggefallen)",
         "parent": {
@@ -1660,6 +1781,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007700000",
         "name": "\u00a7 76",
         "title": "Mitteilungen der Gewerbebeh\u00f6rden",
         "parent": {
@@ -1673,6 +1795,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013701311",
         "name": "\u00a7 76a",
         "title": "Form und Verfahren der Daten\u00fcbermittlung im Ausl\u00e4nderwesen",
         "parent": {
@@ -1686,6 +1809,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG002300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG002300311",
         "name": "Unterabschnitt 4",
         "title": "Erkennungsdienstliche Behandlung nach \u00a7 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes",
         "parent": {
@@ -1696,6 +1820,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE014600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE014600311",
         "name": "\u00a7 76b",
         "title": "Technische Richtlinien des Bundesamtes f\u00fcr Sicherheit in der Informationstechnik",
         "parent": {
@@ -1709,6 +1834,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE014700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE014700311",
         "name": "\u00a7 76c",
         "title": "Qualit\u00e4tssicherung des Lichtbildes und der Fingerabdruckdaten",
         "parent": {
@@ -1722,6 +1848,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG001900000",
         "name": "Kapitel 6",
         "title": "Ordnungswidrigkeiten",
         "parent": null
@@ -1729,6 +1856,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007802310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007802310",
         "name": "\u00a7 77",
         "title": "Ordnungswidrigkeiten",
         "parent": {
@@ -1742,6 +1870,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE007903310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE007903310",
         "name": "\u00a7 78",
         "title": "Verwaltungsbeh\u00f6rden im Sinne des Gesetzes \u00fcber Ordnungswidrigkeiten",
         "parent": {
@@ -1755,6 +1884,7 @@
       {
         "type": "heading",
         "id": "BJNR294510004BJNG002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNG002000000",
         "name": "Kapitel 7",
         "title": "\u00dcbergangs- und Schlussvorschriften",
         "parent": null
@@ -1762,6 +1892,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008001310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008001310",
         "name": "\u00a7 79",
         "title": "Anwendung auf Freiz\u00fcgigkeitsberechtigte",
         "parent": {
@@ -1775,6 +1906,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008106311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008106311",
         "name": "\u00a7 80",
         "title": "\u00dcbergangsregelung f\u00fcr die Verwendung von Mustern",
         "parent": {
@@ -1788,6 +1920,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008202377",
         "name": "\u00a7 81",
         "title": "Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren",
         "parent": {
@@ -1801,6 +1934,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008300000",
         "name": "\u00a7 82",
         "title": "\u00dcbergangsregelung zur F\u00fchrung von Ausl\u00e4nderdateien",
         "parent": {
@@ -1814,6 +1948,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012300310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012300310",
         "name": "\u00a7 82a",
         "title": "\u00dcbergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europ\u00e4ischen Union",
         "parent": {
@@ -1827,6 +1962,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE014100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE014100311",
         "name": "\u00a7 82b",
         "title": "\u00dcbergangsregelung<BR/>zu \u00a7 31 Absatz 1 Satz 1 Nummer 1 und 2",
         "parent": {
@@ -1840,6 +1976,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008400000",
         "name": "\u00a7 83",
         "title": "Erf\u00fcllung ausweisrechtlicher Verpflichtungen",
         "parent": {
@@ -1853,6 +1990,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE012400310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE012400310",
         "name": "\u00a7 84",
         "title": "Beginn der Anerkennung von Forschungseinrichtungen",
         "parent": {
@@ -1866,6 +2004,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008504116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008504116",
         "name": "Anlage A",
         "title": "(zu \u00a7 16)",
         "parent": {
@@ -1879,6 +2018,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008608377",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008608377",
         "name": "Anlage B",
         "title": "(zu \u00a7 19)",
         "parent": {
@@ -1892,6 +2032,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008706116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008706116",
         "name": "Anlage C",
         "title": "(zu \u00a7 26 Absatz 2 Satz 1)",
         "parent": {
@@ -1905,6 +2046,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008801310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008801310",
         "name": "Anlage D1",
         "title": "Ausweisersatz gem\u00e4\u00df \u00a7 48 Absatz 2 des Aufenthaltsgesetzes in Verbindung mit \u00a7 78a Absatz 4 des Aufenthaltsgesetzes",
         "parent": {
@@ -1918,6 +2060,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE008901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE008901311",
         "name": "Anlage D2a",
         "title": "Bescheinigung \u00fcber die Aussetzung der Abschiebung (Duldung) nach \u00a7 60a Abs. 4 Aufenthaltsgesetz",
         "parent": {
@@ -1931,6 +2074,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009000000",
         "name": "Anlage D2b",
         "title": "Bescheinigung \u00fcber die Aussetzung der Abschiebung (Duldung)\nnach \u00a7 60a Abs. 4 Aufenthaltsgesetz",
         "parent": {
@@ -1944,6 +2088,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009101311",
         "name": "Anlage D3",
         "title": "Fiktionsbescheinigung nach \u00a7 81 Abs. 5 Aufenthaltsgesetz",
         "parent": {
@@ -1957,6 +2102,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009201310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009201310",
         "name": "Anlage D4a",
         "title": "(weggefallen)",
         "parent": {
@@ -1970,6 +2116,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009301310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009301310",
         "name": "Anlage D4b",
         "title": "(weggefallen)",
         "parent": {
@@ -1983,6 +2130,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010502116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010502116",
         "name": "Anlage D4c",
         "title": "Ausweismuster Reiseausweis f\u00fcr Ausl\u00e4nder nach \u00a7 4 Absatz 1 Satz 1 Nummer 1",
         "parent": {
@@ -1996,6 +2144,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010600310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010600310",
         "name": "Anlage D4d",
         "title": "Vorl\u00e4ufiger Reiseausweis f\u00fcr Ausl\u00e4nder nach \u00a7 4 Abs. 1 Satz 2",
         "parent": {
@@ -2009,6 +2158,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009401310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009401310",
         "name": "Anlage D5",
         "title": "(weggefallen)",
         "parent": {
@@ -2022,6 +2172,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010700310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010700310",
         "name": "Anlage D5a",
         "title": "Grenzg\u00e4ngerkarte \u00a7 12",
         "parent": {
@@ -2035,6 +2186,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009501310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009501310",
         "name": "Anlage D6",
         "title": "Notreiseausweis nach \u00a7 4 Abs. 1 Nr. 2",
         "parent": {
@@ -2048,6 +2200,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009601310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009601310",
         "name": "Anlage D7",
         "title": "(weggefallen)",
         "parent": {
@@ -2061,6 +2214,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010802116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010802116",
         "name": "Anlage D7a",
         "title": "Ausweismuster Reiseausweis f\u00fcr Fl\u00fcchtlinge nach \u00a7 4 Absatz 1 Satz 1 Nummer 3",
         "parent": {
@@ -2074,6 +2228,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010900310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010900310",
         "name": "Anlage D7b",
         "title": "Vorl\u00e4ufiger Reiseausweis f\u00fcr Fl\u00fcchtlinge nach \u00a7 4 Abs. 1 Satz 2",
         "parent": {
@@ -2087,6 +2242,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009701310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009701310",
         "name": "Anlage D8",
         "title": "(weggefallen)",
         "parent": {
@@ -2100,6 +2256,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011002116",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011002116",
         "name": "Anlage D8a",
         "title": "Ausweismuster Reiseausweis f\u00fcr Staatenlose nach \u00a7 4 Absatz 1 Satz 1 Nummer 4",
         "parent": {
@@ -2113,6 +2270,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011100310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011100310",
         "name": "Anlage D8b",
         "title": "Vorl\u00e4ufiger Reiseausweis f\u00fcr Staatenlose nach \u00a7 4 Abs. 1 Satz 2",
         "parent": {
@@ -2126,6 +2284,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009801310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009801310",
         "name": "Anlage D9",
         "title": "Bescheinigung \u00fcber die Wohnsitzverlegung nach \u00a7 4 Abs. 1 Nr. 6",
         "parent": {
@@ -2139,6 +2298,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE009903311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE009903311",
         "name": "Anlage D10",
         "title": "Europ\u00e4isches Reisedokument f\u00fcr die R\u00fcckkehr nach \u00a7 4 Absatz 1 Satz 1 Nummer 7",
         "parent": {
@@ -2152,6 +2312,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010001311",
         "name": "Anlage D11",
         "title": "Zusatzblatt zum Aufenthaltstitel und zur Bescheinigung \u00fcber die Aussetzung der Abschiebung",
         "parent": {
@@ -2165,6 +2326,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013800310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013800310",
         "name": "Anlage D11a",
         "title": "Zusatzblatt zum Aufenthaltstitel mit elektronischem Speicher- und Verarbeitungsmedium nach \u00a7 78 Absatz 1 des Aufenthaltsgesetzes",
         "parent": {
@@ -2178,6 +2340,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010102311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010102311",
         "name": "Anlage D12",
         "title": "Bescheinigung \u00fcber die Aufenthaltsgestattung (\u00a7 63 des Asylgesetzes)",
         "parent": {
@@ -2191,6 +2354,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010202311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010202311",
         "name": "Anlage D13a",
         "title": "Visum (\u00a7 4 Absatz 1 Satz 2 Nummer 1 Aufenthaltsgesetz)",
         "parent": {
@@ -2204,6 +2368,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010302311",
         "name": "Anlage D13b",
         "title": "Verl\u00e4ngerung des Visums im Inland",
         "parent": {
@@ -2217,6 +2382,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE010403311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE010403311",
         "name": "Anlage D14",
         "title": "Aufenthaltstitel nach \u00a7 4 Abs. 1 Nr. 2 bis 4 Aufenthaltsgesetz",
         "parent": {
@@ -2230,6 +2396,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE013903311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE013903311",
         "name": "Anlage D14a",
         "title": "Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach \u00a7 78 Absatz 1 des Aufenthaltsgesetzes",
         "parent": {
@@ -2243,6 +2410,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011201311",
         "name": "Anlage D15",
         "title": "Aufenthaltskarte (\u00a7 5 Absatz 1 des Freiz\u00fcgigkeitsgesetzes/EU) und Aufenthaltserlaubnis, <BR/>die Ausl\u00e4ndern ausgestellt wird, die auf Grund des Abkommens vom 21. Juni 1999 <BR/>zwischen der Europ\u00e4ischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der <BR/>Schweizerischen Eidgenossenschaft andererseits \u00fcber die Freiz\u00fcgigkeit ein Aufenthaltsrecht besitzen",
         "parent": {
@@ -2256,6 +2424,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE011301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE011301311",
         "name": "Anlage D16",
         "title": "Bescheinigung des Daueraufenthalts und Daueraufenthaltskarte <BR/>(\u00a7 5 Absatz 5 des Freiz\u00fcgigkeitsgesetzes/EU)",
         "parent": {
@@ -2269,6 +2438,7 @@
       {
         "type": "article",
         "id": "BJNR294510004BJNE014000310",
+        "url": "https://api.rechtsinformationsportal.de/laws/aufenthv/articles/BJNR294510004BJNE014000310",
         "name": "Anlage D17",
         "title": "Aufkleber zur Anschriften\u00e4nderung (\u00a7 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes)",
         "parent": {

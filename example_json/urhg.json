@@ -32,6 +32,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022614360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022614360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -42,6 +43,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000101377",
         "name": "Teil 1",
         "title": "Urheberrecht",
         "parent": null
@@ -49,6 +51,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000201377",
         "name": "Abschnitt 1",
         "title": "Allgemeines",
         "parent": {
@@ -59,6 +62,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004101377",
         "name": "\u00a7 1",
         "title": "Allgemeines",
         "parent": {
@@ -72,6 +76,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000301377",
         "name": "Abschnitt 2",
         "title": "Das Werk",
         "parent": {
@@ -82,6 +87,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004202305",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004202305",
         "name": "\u00a7 2",
         "title": "Gesch\u00fctzte Werke",
         "parent": {
@@ -95,6 +101,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004301304",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004301304",
         "name": "\u00a7 3",
         "title": "Bearbeitungen",
         "parent": {
@@ -108,6 +115,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004401307",
         "name": "\u00a7 4",
         "title": "Sammelwerke und Datenbankwerke",
         "parent": {
@@ -121,6 +129,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004501377",
         "name": "\u00a7 5",
         "title": "Amtliche Werke",
         "parent": {
@@ -134,6 +143,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004600315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004600315",
         "name": "\u00a7 6",
         "title": "Ver\u00f6ffentlichte und erschienene Werke",
         "parent": {
@@ -147,6 +157,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000401377",
         "name": "Abschnitt 3",
         "title": "Der Urheber",
         "parent": {
@@ -157,6 +168,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004700315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004700315",
         "name": "\u00a7 7",
         "title": "Urheber",
         "parent": {
@@ -170,6 +182,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004800315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004800315",
         "name": "\u00a7 8",
         "title": "Miturheber",
         "parent": {
@@ -183,6 +196,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE004900315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE004900315",
         "name": "\u00a7 9",
         "title": "Urheber verbundener Werke",
         "parent": {
@@ -196,6 +210,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005001140",
         "name": "\u00a7 10",
         "title": "Vermutung der Urheber- oder Rechtsinhaberschaft",
         "parent": {
@@ -209,6 +224,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000501377",
         "name": "Abschnitt 4",
         "title": "Inhalt des Urheberrechts",
         "parent": {
@@ -219,6 +235,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000601377",
         "name": "Unterabschnitt 1",
         "title": "Allgemeines",
         "parent": {
@@ -229,6 +246,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005102377",
         "name": "\u00a7 11",
         "title": "Allgemeines",
         "parent": {
@@ -242,6 +260,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000701377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000701377",
         "name": "Unterabschnitt 2",
         "title": "Urheberpers\u00f6nlichkeitsrecht",
         "parent": {
@@ -252,6 +271,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005200315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005200315",
         "name": "\u00a7 12",
         "title": "Ver\u00f6ffentlichungsrecht",
         "parent": {
@@ -265,6 +285,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005300315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005300315",
         "name": "\u00a7 13",
         "title": "Anerkennung der Urheberschaft",
         "parent": {
@@ -278,6 +299,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005400315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005400315",
         "name": "\u00a7 14",
         "title": "Entstellung des Werkes",
         "parent": {
@@ -291,6 +313,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000801377",
         "name": "Unterabschnitt 3",
         "title": "Verwertungsrechte",
         "parent": {
@@ -301,6 +324,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005501377",
         "name": "\u00a7 15",
         "title": "Allgemeines",
         "parent": {
@@ -314,6 +338,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005601377",
         "name": "\u00a7 16",
         "title": "Vervielf\u00e4ltigungsrecht",
         "parent": {
@@ -327,6 +352,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005701307",
         "name": "\u00a7 17",
         "title": "Verbreitungsrecht",
         "parent": {
@@ -340,6 +366,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005800315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005800315",
         "name": "\u00a7 18",
         "title": "Ausstellungsrecht",
         "parent": {
@@ -353,6 +380,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE005901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE005901377",
         "name": "\u00a7 19",
         "title": "Vortrags-, Auff\u00fchrungs- und Vorf\u00fchrungsrecht",
         "parent": {
@@ -366,6 +394,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022700377",
         "name": "\u00a7 19a",
         "title": "Recht der \u00f6ffentlichen Zug\u00e4nglichmachung",
         "parent": {
@@ -379,6 +408,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006001307",
         "name": "\u00a7 20",
         "title": "Senderecht",
         "parent": {
@@ -392,6 +422,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021800307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021800307",
         "name": "\u00a7 20a",
         "title": "Europ\u00e4ische Satellitensendung",
         "parent": {
@@ -405,6 +436,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021901377",
         "name": "\u00a7 20b",
         "title": "Kabelweitersendung",
         "parent": {
@@ -418,6 +450,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006100315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006100315",
         "name": "\u00a7 21",
         "title": "Recht der Wiedergabe durch Bild- oder Tontr\u00e4ger",
         "parent": {
@@ -431,6 +464,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006201377",
         "name": "\u00a7 22",
         "title": "Recht der Wiedergabe von Funksendungen und von \u00f6ffentlicher\nZug\u00e4nglichmachung",
         "parent": {
@@ -444,6 +478,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006302123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006302123",
         "name": "\u00a7 23",
         "title": "Bearbeitungen und Umgestaltungen",
         "parent": {
@@ -457,6 +492,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006400315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006400315",
         "name": "\u00a7 24",
         "title": "Freie Benutzung",
         "parent": {
@@ -470,6 +506,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG000901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG000901377",
         "name": "Unterabschnitt 4",
         "title": "Sonstige Rechte des Urhebers",
         "parent": {
@@ -480,6 +517,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006500315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006500315",
         "name": "\u00a7 25",
         "title": "Zugang zu Werkst\u00fccken",
         "parent": {
@@ -493,6 +531,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006603377",
         "name": "\u00a7 26",
         "title": "Folgerecht",
         "parent": {
@@ -506,6 +545,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006701307",
         "name": "\u00a7 27",
         "title": "Verg\u00fctung f\u00fcr Vermietung und Verleihen",
         "parent": {
@@ -519,6 +559,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001001377",
         "name": "Abschnitt 5",
         "title": "Rechtsverkehr im Urheberrecht",
         "parent": {
@@ -529,6 +570,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001101377",
         "name": "Unterabschnitt 1",
         "title": "Rechtsnachfolge in das Urheberrecht",
         "parent": {
@@ -539,6 +581,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006800315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006800315",
         "name": "\u00a7 28",
         "title": "Vererbung des Urheberrechts",
         "parent": {
@@ -552,6 +595,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE006901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE006901377",
         "name": "\u00a7 29",
         "title": "Rechtsgesch\u00e4fte \u00fcber das Urheberrecht",
         "parent": {
@@ -565,6 +609,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007000315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007000315",
         "name": "\u00a7 30",
         "title": "Rechtsnachfolger des Urhebers",
         "parent": {
@@ -578,6 +623,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001201377",
         "name": "Unterabschnitt 2",
         "title": "Nutzungsrechte",
         "parent": {
@@ -588,6 +634,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007102377",
         "name": "\u00a7 31",
         "title": "Einr\u00e4umung von Nutzungsrechten",
         "parent": {
@@ -601,6 +648,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007103377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007103377",
         "name": "\u00a7 31a",
         "title": "Vertr\u00e4ge \u00fcber unbekannte Nutzungsarten",
         "parent": {
@@ -614,6 +662,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007202123",
         "name": "\u00a7 32",
         "title": "Angemessene Verg\u00fctung",
         "parent": {
@@ -627,6 +676,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022202123",
         "name": "\u00a7 32a",
         "title": "Weitere Beteiligung des Urhebers",
         "parent": {
@@ -640,6 +690,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022300377",
         "name": "\u00a7 32b",
         "title": "Zwingende Anwendung",
         "parent": {
@@ -653,6 +704,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024000377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024000377",
         "name": "\u00a7 32c",
         "title": "Verg\u00fctung f\u00fcr sp\u00e4ter bekannte Nutzungsarten",
         "parent": {
@@ -666,6 +718,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025800123",
         "name": "\u00a7 32d",
         "title": "Anspruch auf Auskunft und Rechenschaft",
         "parent": {
@@ -679,6 +732,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025900123",
         "name": "\u00a7 32e",
         "title": "Anspruch auf Auskunft und Rechenschaft in der Lizenzkette",
         "parent": {
@@ -692,6 +746,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007301377",
         "name": "\u00a7 33",
         "title": "Weiterwirkung von Nutzungsrechten",
         "parent": {
@@ -705,6 +760,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007401377",
         "name": "\u00a7 34",
         "title": "\u00dcbertragung von Nutzungsrechten",
         "parent": {
@@ -718,6 +774,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007501377",
         "name": "\u00a7 35",
         "title": "Einr\u00e4umung weiterer Nutzungsrechte",
         "parent": {
@@ -731,6 +788,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007603123",
         "name": "\u00a7 36",
         "title": "Gemeinsame Verg\u00fctungsregeln",
         "parent": {
@@ -744,6 +802,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022403123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022403123",
         "name": "\u00a7 36a",
         "title": "Schlichtungsstelle",
         "parent": {
@@ -757,6 +816,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026000123",
         "name": "\u00a7 36b",
         "title": "Unterlassungsanspruch bei Versto\u00df gegen gemeinsame Verg\u00fctungsregeln",
         "parent": {
@@ -770,6 +830,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026100123",
         "name": "\u00a7 36c",
         "title": "Individualvertragliche Folgen des Versto\u00dfes gegen gemeinsame Verg\u00fctungsregeln",
         "parent": {
@@ -783,6 +844,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007700315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007700315",
         "name": "\u00a7 37",
         "title": "Vertr\u00e4ge \u00fcber die Einr\u00e4umung von Nutzungsrechten",
         "parent": {
@@ -796,6 +858,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007801360",
         "name": "\u00a7 38",
         "title": "Beitr\u00e4ge zu Sammlungen",
         "parent": {
@@ -809,6 +872,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE007900315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE007900315",
         "name": "\u00a7 39",
         "title": "\u00c4nderungen des Werkes",
         "parent": {
@@ -822,6 +886,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008000315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008000315",
         "name": "\u00a7 40",
         "title": "Vertr\u00e4ge \u00fcber k\u00fcnftige Werke",
         "parent": {
@@ -835,6 +900,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026200123",
         "name": "\u00a7 40a",
         "title": "Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Verg\u00fctung",
         "parent": {
@@ -848,6 +914,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008101123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008101123",
         "name": "\u00a7 41",
         "title": "R\u00fcckrufsrecht wegen Nichtaus\u00fcbung",
         "parent": {
@@ -861,6 +928,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008200315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008200315",
         "name": "\u00a7 42",
         "title": "R\u00fcckrufsrecht wegen gewandelter \u00dcberzeugung",
         "parent": {
@@ -874,6 +942,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022802301",
         "name": "\u00a7 42a",
         "title": "Zwangslizenz zur Herstellung von Tontr\u00e4gern",
         "parent": {
@@ -887,6 +956,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008300315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008300315",
         "name": "\u00a7 43",
         "title": "Urheber in Arbeits- oder Dienstverh\u00e4ltnissen",
         "parent": {
@@ -900,6 +970,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008400315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008400315",
         "name": "\u00a7 44",
         "title": "Ver\u00e4u\u00dferung des Originals des Werkes",
         "parent": {
@@ -913,6 +984,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001302123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001302123",
         "name": "Abschnitt 6",
         "title": "Schranken des Urheberrechts durch gesetzlich erlaubte Nutzungen",
         "parent": {
@@ -923,6 +995,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004500123",
         "name": "Unterabschnitt 1",
         "title": "Gesetzlich erlaubte Nutzungen",
         "parent": {
@@ -933,6 +1006,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022900377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022900377",
         "name": "\u00a7 44a",
         "title": "Vor\u00fcbergehende Vervielf\u00e4ltigungshandlungen",
         "parent": {
@@ -946,6 +1020,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008500315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008500315",
         "name": "\u00a7 45",
         "title": "Rechtspflege und \u00f6ffentliche Sicherheit",
         "parent": {
@@ -959,6 +1034,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023001360",
         "name": "\u00a7 45a",
         "title": "Menschen mit Behinderungen",
         "parent": {
@@ -972,6 +1048,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE027500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE027500360",
         "name": "\u00a7 45b",
         "title": "Menschen mit einer Seh- oder Lesebehinderung",
         "parent": {
@@ -985,6 +1062,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE027601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE027601360",
         "name": "\u00a7 45c",
         "title": "Befugte Stellen; Verg\u00fctung; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -998,6 +1076,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE027700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE027700360",
         "name": "\u00a7 45d",
         "title": "Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis",
         "parent": {
@@ -1011,6 +1090,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008603123",
         "name": "\u00a7 46",
         "title": "Sammlungen f\u00fcr den religi\u00f6sen Gebrauch",
         "parent": {
@@ -1024,6 +1104,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008701304",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008701304",
         "name": "\u00a7 47",
         "title": "Schulfunksendungen",
         "parent": {
@@ -1037,6 +1118,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008801377",
         "name": "\u00a7 48",
         "title": "\u00d6ffentliche Reden",
         "parent": {
@@ -1050,6 +1132,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE008902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE008902377",
         "name": "\u00a7 49",
         "title": "Zeitungsartikel und Rundfunkkommentare",
         "parent": {
@@ -1063,6 +1146,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009001377",
         "name": "\u00a7 50",
         "title": "Berichterstattung \u00fcber Tagesereignisse",
         "parent": {
@@ -1076,6 +1160,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009102123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009102123",
         "name": "\u00a7 51",
         "title": "Zitate",
         "parent": {
@@ -1089,6 +1174,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009203123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009203123",
         "name": "\u00a7 52",
         "title": "\u00d6ffentliche Wiedergabe",
         "parent": {
@@ -1102,6 +1188,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023101123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023101123",
         "name": "(XXXX) \u00a7\u00a7 52a und 52b",
         "title": "(weggefallen)",
         "parent": {
@@ -1115,6 +1202,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009306123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009306123",
         "name": "\u00a7 53",
         "title": "Vervielf\u00e4ltigungen zum privaten und sonstigen eigenen Gebrauch",
         "parent": {
@@ -1128,6 +1216,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024201123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024201123",
         "name": "\u00a7 53a",
         "title": "(weggefallen)",
         "parent": {
@@ -1141,6 +1230,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004600123",
         "name": "Unterabschnitt 2",
         "title": "Verg\u00fctung der nach den \u00a7\u00a7 53, 60a bis 60f erlaubten Vervielf\u00e4ltigungen",
         "parent": {
@@ -1151,6 +1241,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009405123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009405123",
         "name": "\u00a7 54",
         "title": "Verg\u00fctungspflicht",
         "parent": {
@@ -1164,6 +1255,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020002123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020002123",
         "name": "\u00a7 54a",
         "title": "Verg\u00fctungsh\u00f6he",
         "parent": {
@@ -1177,6 +1269,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020102140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020102140",
         "name": "\u00a7 54b",
         "title": "Verg\u00fctungspflicht des H\u00e4ndlers oder Importeurs",
         "parent": {
@@ -1190,6 +1283,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020202123",
         "name": "\u00a7 54c",
         "title": "Verg\u00fctungspflicht des Betreibers von Ablichtungsger\u00e4ten",
         "parent": {
@@ -1203,6 +1297,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020301377",
         "name": "\u00a7 54d",
         "title": "Hinweispflicht",
         "parent": {
@@ -1216,6 +1311,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020401377",
         "name": "\u00a7 54e",
         "title": "Meldepflicht",
         "parent": {
@@ -1229,6 +1325,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020502140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020502140",
         "name": "\u00a7 54f",
         "title": "Auskunftspflicht",
         "parent": {
@@ -1242,6 +1339,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020601377",
         "name": "\u00a7 54g",
         "title": "Kontrollbesuch",
         "parent": {
@@ -1255,6 +1353,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020702360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020702360",
         "name": "\u00a7 54h",
         "title": "Verwertungsgesellschaften; Handhabung der Mitteilungen",
         "parent": {
@@ -1268,6 +1367,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004700123",
         "name": "Unterabschnitt 3",
         "title": "Weitere gesetzlich erlaubte Nutzungen",
         "parent": {
@@ -1278,6 +1378,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009500315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009500315",
         "name": "\u00a7 55",
         "title": "Vervielf\u00e4ltigung durch Sendeunternehmen",
         "parent": {
@@ -1291,6 +1392,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021000307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021000307",
         "name": "\u00a7 55a",
         "title": "Benutzung eines Datenbankwerkes",
         "parent": {
@@ -1304,6 +1406,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009601377",
         "name": "\u00a7 56",
         "title": "Vervielf\u00e4ltigung und \u00f6ffentliche Wiedergabe in Gesch\u00e4ftsbetrieben",
         "parent": {
@@ -1317,6 +1420,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009700315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009700315",
         "name": "\u00a7 57",
         "title": "Unwesentliches Beiwerk",
         "parent": {
@@ -1330,6 +1434,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009802123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009802123",
         "name": "\u00a7 58",
         "title": "Werbung f\u00fcr die Ausstellung und den \u00f6ffentlichen Verkauf von Werken",
         "parent": {
@@ -1343,6 +1448,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE009900315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE009900315",
         "name": "\u00a7 59",
         "title": "Werke an \u00f6ffentlichen Pl\u00e4tzen",
         "parent": {
@@ -1356,6 +1462,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010001377",
         "name": "\u00a7 60",
         "title": "Bildnisse",
         "parent": {
@@ -1369,6 +1476,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004800123",
         "name": "Unterabschnitt 4",
         "title": "Gesetzlich erlaubte Nutzungen f\u00fcr Unterricht, Wissenschaft und Institutionen",
         "parent": {
@@ -1379,6 +1487,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026500123",
         "name": "\u00a7 60a",
         "title": "Unterricht und Lehre",
         "parent": {
@@ -1392,6 +1501,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026600123",
         "name": "\u00a7 60b",
         "title": "Unterrichts- und Lehrmedien",
         "parent": {
@@ -1405,6 +1515,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026700123",
         "name": "\u00a7 60c",
         "title": "Wissenschaftliche Forschung",
         "parent": {
@@ -1418,6 +1529,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026800123",
         "name": "\u00a7 60d",
         "title": "Text und Data Mining",
         "parent": {
@@ -1431,6 +1543,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026900123",
         "name": "\u00a7 60e",
         "title": "Bibliotheken",
         "parent": {
@@ -1444,6 +1557,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE027000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE027000123",
         "name": "\u00a7 60f",
         "title": "Archive, Museen und Bildungseinrichtungen",
         "parent": {
@@ -1457,6 +1571,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE027100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE027100123",
         "name": "\u00a7 60g",
         "title": "Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis",
         "parent": {
@@ -1470,6 +1585,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE027200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE027200123",
         "name": "\u00a7 60h",
         "title": "Angemessene Verg\u00fctung der gesetzlich erlaubten Nutzungen",
         "parent": {
@@ -1483,6 +1599,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004900123",
         "name": "Unterabschnitt 5",
         "title": "Besondere gesetzlich erlaubte Nutzungen verwaister Werke",
         "parent": {
@@ -1493,6 +1610,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010102360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010102360",
         "name": "\u00a7 61",
         "title": "Verwaiste Werke",
         "parent": {
@@ -1506,6 +1624,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025401123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025401123",
         "name": "\u00a7 61a",
         "title": "Sorgf\u00e4ltige Suche und Dokumentationspflichten",
         "parent": {
@@ -1519,6 +1638,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025500360",
         "name": "\u00a7 61b",
         "title": "Beendigung der Nutzung und Verg\u00fctungspflicht der nutzenden Institution",
         "parent": {
@@ -1532,6 +1652,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025600360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025600360",
         "name": "\u00a7 61c",
         "title": "Nutzung verwaister Werke durch \u00f6ffentlich-rechtliche Rundfunkanstalten",
         "parent": {
@@ -1545,6 +1666,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG005000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG005000123",
         "name": "Unterabschnitt 6",
         "title": "Gemeinsame Vorschriften f\u00fcr gesetzlich erlaubte Nutzungen",
         "parent": {
@@ -1555,6 +1677,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010203360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010203360",
         "name": "\u00a7 62",
         "title": "\u00c4nderungsverbot",
         "parent": {
@@ -1568,6 +1691,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010305123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010305123",
         "name": "\u00a7 63",
         "title": "Quellenangabe",
         "parent": {
@@ -1581,6 +1705,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022501377",
         "name": "\u00a7 63a",
         "title": "Gesetzliche Verg\u00fctungsanspr\u00fcche",
         "parent": {
@@ -1594,6 +1719,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001401377",
         "name": "Abschnitt 7",
         "title": "Dauer des Urheberrechts",
         "parent": {
@@ -1604,6 +1730,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010401307",
         "name": "\u00a7 64",
         "title": "Allgemeines",
         "parent": {
@@ -1617,6 +1744,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010502360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010502360",
         "name": "\u00a7 65",
         "title": "Miturheber, Filmwerke, Musikkomposition mit Text",
         "parent": {
@@ -1630,6 +1758,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010602377",
         "name": "\u00a7 66",
         "title": "Anonyme und pseudonyme Werke",
         "parent": {
@@ -1643,6 +1772,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010701307",
         "name": "\u00a7 67",
         "title": "Lieferungswerke",
         "parent": {
@@ -1656,6 +1786,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010801304",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010801304",
         "name": "\u00a7 68",
         "title": "(weggefallen)",
         "parent": {
@@ -1669,6 +1800,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE010900315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE010900315",
         "name": "\u00a7 69",
         "title": "Berechnung der Fristen",
         "parent": {
@@ -1682,6 +1814,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004201377",
         "name": "Abschnitt 8",
         "title": "Besondere Bestimmungen\nf\u00fcr Computerprogramme",
         "parent": {
@@ -1692,6 +1825,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019202123",
         "name": "\u00a7 69a",
         "title": "Gegenstand des Schutzes",
         "parent": {
@@ -1705,6 +1839,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019300305",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019300305",
         "name": "\u00a7 69b",
         "title": "Urheber in Arbeits- und Dienstverh\u00e4ltnissen",
         "parent": {
@@ -1718,6 +1853,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019403377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019403377",
         "name": "\u00a7 69c",
         "title": "Zustimmungsbed\u00fcrftige Handlungen",
         "parent": {
@@ -1731,6 +1867,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019500305",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019500305",
         "name": "\u00a7 69d",
         "title": "Ausnahmen von den zustimmungsbed\u00fcrftigen Handlungen",
         "parent": {
@@ -1744,6 +1881,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019600305",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019600305",
         "name": "\u00a7 69e",
         "title": "Dekompilierung",
         "parent": {
@@ -1757,6 +1895,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019701140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019701140",
         "name": "\u00a7 69f",
         "title": "Rechtsverletzungen",
         "parent": {
@@ -1770,6 +1909,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019801307",
         "name": "\u00a7 69g",
         "title": "Anwendung sonstiger Rechtsvorschriften, Vertragsrecht",
         "parent": {
@@ -1783,6 +1923,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001501377",
         "name": "Teil 2",
         "title": "Verwandte Schutzrechte",
         "parent": null
@@ -1790,6 +1931,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001601377",
         "name": "Abschnitt 1",
         "title": "Schutz bestimmter Ausgaben",
         "parent": {
@@ -1800,6 +1942,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011002377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011002377",
         "name": "\u00a7 70",
         "title": "Wissenschaftliche Ausgaben",
         "parent": {
@@ -1813,6 +1956,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011105140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011105140",
         "name": "\u00a7 71",
         "title": "Nachgelassene Werke",
         "parent": {
@@ -1826,6 +1970,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001701377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001701377",
         "name": "Abschnitt 2",
         "title": "Schutz der Lichtbilder",
         "parent": {
@@ -1836,6 +1981,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011203377",
         "name": "\u00a7 72",
         "title": "Lichtbilder",
         "parent": {
@@ -1849,6 +1995,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001801377",
         "name": "Abschnitt 3",
         "title": "Schutz des aus\u00fcbenden K\u00fcnstlers",
         "parent": {
@@ -1859,6 +2006,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011301377",
         "name": "\u00a7 73",
         "title": "Aus\u00fcbender K\u00fcnstler",
         "parent": {
@@ -1872,6 +2020,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011402140",
         "name": "\u00a7 74",
         "title": "Anerkennung als aus\u00fcbender K\u00fcnstler",
         "parent": {
@@ -1885,6 +2034,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011503377",
         "name": "\u00a7 75",
         "title": "Beeintr\u00e4chtigungen der Darbietung",
         "parent": {
@@ -1898,6 +2048,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011602377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011602377",
         "name": "\u00a7 76",
         "title": "Dauer der Pers\u00f6nlichkeitsrechte",
         "parent": {
@@ -1911,6 +2062,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011701377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011701377",
         "name": "\u00a7 77",
         "title": "Aufnahme, Vervielf\u00e4ltigung und Verbreitung",
         "parent": {
@@ -1924,6 +2076,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011802377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011802377",
         "name": "\u00a7 78",
         "title": "\u00d6ffentliche Wiedergabe",
         "parent": {
@@ -1937,6 +2090,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE011904123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE011904123",
         "name": "\u00a7 79",
         "title": "Nutzungsrechte",
         "parent": {
@@ -1950,6 +2104,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025100360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025100360",
         "name": "\u00a7 79a",
         "title": "Verg\u00fctungsanspruch des aus\u00fcbenden K\u00fcnstlers",
         "parent": {
@@ -1963,6 +2118,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026300123",
         "name": "\u00a7 79b",
         "title": "Verg\u00fctung des aus\u00fcbenden K\u00fcnstlers f\u00fcr sp\u00e4ter bekannte Nutzungsarten",
         "parent": {
@@ -1976,6 +2132,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012003360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012003360",
         "name": "\u00a7 80",
         "title": "Gemeinsame Darbietung mehrerer aus\u00fcbender K\u00fcnstler",
         "parent": {
@@ -1989,6 +2146,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012104140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012104140",
         "name": "\u00a7 81",
         "title": "Schutz des Veranstalters",
         "parent": {
@@ -2002,6 +2160,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012204360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012204360",
         "name": "\u00a7 82",
         "title": "Dauer der Verwertungsrechte",
         "parent": {
@@ -2015,6 +2174,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012302377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012302377",
         "name": "\u00a7 83",
         "title": "Schranken der Verwertungsrechte",
         "parent": {
@@ -2028,6 +2188,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012401377",
         "name": "\u00a7 84",
         "title": "(weggefallen)",
         "parent": {
@@ -2041,6 +2202,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG001901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG001901377",
         "name": "Abschnitt 4",
         "title": "Schutz des Herstellers von\nTontr\u00e4gern",
         "parent": {
@@ -2051,6 +2213,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012506360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012506360",
         "name": "\u00a7 85",
         "title": "Verwertungsrechte",
         "parent": {
@@ -2064,6 +2227,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012601377",
         "name": "\u00a7 86",
         "title": "Anspruch auf Beteiligung",
         "parent": {
@@ -2077,6 +2241,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002001377",
         "name": "Abschnitt 5",
         "title": "Schutz des Sendeunternehmens",
         "parent": {
@@ -2087,6 +2252,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012707140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012707140",
         "name": "\u00a7 87",
         "title": "Sendeunternehmen",
         "parent": {
@@ -2100,6 +2266,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004301377",
         "name": "Abschnitt 6",
         "title": "Schutz des Datenbankherstellers",
         "parent": {
@@ -2110,6 +2277,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021100307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021100307",
         "name": "\u00a7 87a",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -2123,6 +2291,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021201140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021201140",
         "name": "\u00a7 87b",
         "title": "Rechte des Datenbankherstellers",
         "parent": {
@@ -2136,6 +2305,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021303360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021303360",
         "name": "\u00a7 87c",
         "title": "Schranken des Rechts des Datenbankherstellers",
         "parent": {
@@ -2149,6 +2319,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021400307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021400307",
         "name": "\u00a7 87d",
         "title": "Dauer der Rechte",
         "parent": {
@@ -2162,6 +2333,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021500307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021500307",
         "name": "\u00a7 87e",
         "title": "Vertr\u00e4ge \u00fcber die Benutzung einer Datenbank",
         "parent": {
@@ -2175,6 +2347,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004400140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004400140",
         "name": "Abschnitt 7",
         "title": "Schutz des Presseverlegers",
         "parent": {
@@ -2185,6 +2358,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024800140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024800140",
         "name": "\u00a7 87f",
         "title": "Presseverleger",
         "parent": {
@@ -2198,6 +2372,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024900140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024900140",
         "name": "\u00a7 87g",
         "title": "\u00dcbertragbarkeit, Dauer und Schranken des Rechts",
         "parent": {
@@ -2211,6 +2386,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025000140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025000140",
         "name": "\u00a7 87h",
         "title": "Beteiligungsanspruch des Urhebers",
         "parent": {
@@ -2224,6 +2400,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002101377",
         "name": "Teil 3",
         "title": "Besondere Bestimmungen f\u00fcr Filme",
         "parent": null
@@ -2231,6 +2408,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002201377",
         "name": "Abschnitt 1",
         "title": "Filmwerke",
         "parent": {
@@ -2241,6 +2419,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012803123",
         "name": "\u00a7 88",
         "title": "Recht zur Verfilmung",
         "parent": {
@@ -2254,6 +2433,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE012902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE012902377",
         "name": "\u00a7 89",
         "title": "Rechte am Filmwerk",
         "parent": {
@@ -2267,6 +2447,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013002123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013002123",
         "name": "\u00a7 90",
         "title": "Einschr\u00e4nkung der Rechte",
         "parent": {
@@ -2280,6 +2461,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013101377",
         "name": "\u00a7 91",
         "title": "(weggefallen)",
         "parent": {
@@ -2293,6 +2475,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013202377",
         "name": "\u00a7 92",
         "title": "Aus\u00fcbende K\u00fcnstler",
         "parent": {
@@ -2306,6 +2489,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013301377",
         "name": "\u00a7 93",
         "title": "Schutz gegen Entstellung; Namensnennung",
         "parent": {
@@ -2319,6 +2503,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013406140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013406140",
         "name": "\u00a7 94",
         "title": "Schutz des Filmherstellers",
         "parent": {
@@ -2332,6 +2517,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002301377",
         "name": "Abschnitt 2",
         "title": "Laufbilder",
         "parent": {
@@ -2342,6 +2528,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013502377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013502377",
         "name": "\u00a7 95",
         "title": "Laufbilder",
         "parent": {
@@ -2355,6 +2542,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002401377",
         "name": "Teil 4",
         "title": "Gemeinsame Bestimmungen f\u00fcr Urheberrecht\nund verwandte Schutzrechte",
         "parent": null
@@ -2362,6 +2550,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002501377",
         "name": "Abschnitt 1",
         "title": "Erg\u00e4nzende Schutzbestimmungen",
         "parent": {
@@ -2372,6 +2561,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023200377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023200377",
         "name": "\u00a7 95a",
         "title": "Schutz technischer Ma\u00dfnahmen",
         "parent": {
@@ -2385,6 +2575,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023303360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023303360",
         "name": "\u00a7 95b",
         "title": "Durchsetzung von Schrankenbestimmungen",
         "parent": {
@@ -2398,6 +2589,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023400377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023400377",
         "name": "\u00a7 95c",
         "title": "Schutz der zur Rechtewahrnehmung erforderlichen Informationen",
         "parent": {
@@ -2411,6 +2603,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023501377",
         "name": "\u00a7 95d",
         "title": "Kennzeichnungspflichten",
         "parent": {
@@ -2424,6 +2617,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013601377",
         "name": "\u00a7 96",
         "title": "Verwertungsverbot",
         "parent": {
@@ -2437,6 +2631,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002601377",
         "name": "Abschnitt 2",
         "title": "Rechtsverletzungen",
         "parent": {
@@ -2447,6 +2642,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002701377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002701377",
         "name": "Unterabschnitt 1",
         "title": "B\u00fcrgerlich-rechtliche Vorschriften;\nRechtsweg",
         "parent": {
@@ -2457,6 +2653,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013702140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013702140",
         "name": "\u00a7 97",
         "title": "Anspruch auf Unterlassung und Schadensersatz",
         "parent": {
@@ -2470,6 +2667,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024401360",
         "name": "\u00a7 97a",
         "title": "Abmahnung",
         "parent": {
@@ -2483,6 +2681,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013802140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013802140",
         "name": "\u00a7 98",
         "title": "Anspruch auf Vernichtung, R\u00fcckruf und \u00dcberlassung",
         "parent": {
@@ -2496,6 +2695,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE013902140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE013902140",
         "name": "\u00a7 99",
         "title": "Haftung des Inhabers eines Unternehmens",
         "parent": {
@@ -2509,6 +2709,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014001140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014001140",
         "name": "\u00a7 100",
         "title": "Entsch\u00e4digung",
         "parent": {
@@ -2522,6 +2723,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014103140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014103140",
         "name": "\u00a7 101",
         "title": "Anspruch auf Auskunft",
         "parent": {
@@ -2535,6 +2737,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018801140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018801140",
         "name": "\u00a7 101a",
         "title": "Anspruch auf Vorlage und Besichtigung",
         "parent": {
@@ -2548,6 +2751,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024500140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024500140",
         "name": "\u00a7 101b",
         "title": "Sicherung von Schadensersatzanspr\u00fcchen",
         "parent": {
@@ -2561,6 +2765,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014202377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014202377",
         "name": "\u00a7 102",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -2574,6 +2779,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024600140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024600140",
         "name": "\u00a7 102a",
         "title": "Anspr\u00fcche aus anderen gesetzlichen Vorschriften",
         "parent": {
@@ -2587,6 +2793,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014301140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014301140",
         "name": "\u00a7 103",
         "title": "Bekanntmachung des Urteils",
         "parent": {
@@ -2600,6 +2807,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014400315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014400315",
         "name": "\u00a7 104",
         "title": "Rechtsweg",
         "parent": {
@@ -2613,6 +2821,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025300360",
         "name": "\u00a7 104a",
         "title": "Gerichtsstand",
         "parent": {
@@ -2626,6 +2835,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014503377",
         "name": "\u00a7 105",
         "title": "Gerichte f\u00fcr Urheberrechtsstreitsachen",
         "parent": {
@@ -2639,6 +2849,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002801377",
         "name": "Unterabschnitt 2",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2649,6 +2860,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014601309",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014601309",
         "name": "\u00a7 106",
         "title": "Unerlaubte Verwertung urheberrechtlich gesch\u00fctzter Werke",
         "parent": {
@@ -2662,6 +2874,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014701309",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014701309",
         "name": "\u00a7 107",
         "title": "Unzul\u00e4ssiges Anbringen der Urheberbezeichnung",
         "parent": {
@@ -2675,6 +2888,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014804377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014804377",
         "name": "\u00a7 108",
         "title": "Unerlaubte Eingriffe in verwandte Schutzrechte",
         "parent": {
@@ -2688,6 +2902,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018501309",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018501309",
         "name": "\u00a7 108a",
         "title": "Gewerbsm\u00e4\u00dfige unerlaubte Verwertung",
         "parent": {
@@ -2701,6 +2916,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023600377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023600377",
         "name": "\u00a7 108b",
         "title": "Unerlaubte Eingriffe in technische Schutzma\u00dfnahmen und\nzur Rechtewahrnehmung erforderliche Informationen",
         "parent": {
@@ -2714,6 +2930,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE014902377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE014902377",
         "name": "\u00a7 109",
         "title": "Strafantrag",
         "parent": {
@@ -2727,6 +2944,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015005140",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015005140",
         "name": "\u00a7 110",
         "title": "Einziehung",
         "parent": {
@@ -2740,6 +2958,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015102377",
         "name": "\u00a7 111",
         "title": "Bekanntgabe der Verurteilung",
         "parent": {
@@ -2753,6 +2972,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023701377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023701377",
         "name": "\u00a7 111a",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2766,6 +2986,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004101377",
         "name": "Unterabschnitt 3",
         "title": "Vorschriften\n\u00fcber Ma\u00dfnahmen der Zollbeh\u00f6rde",
         "parent": {
@@ -2776,6 +2997,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018908123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018908123",
         "name": "\u00a7 111b",
         "title": "Verfahren nach deutschem Recht",
         "parent": {
@@ -2789,6 +3011,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024701123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024701123",
         "name": "\u00a7 111c",
         "title": "Verfahren nach der Verordnung (EU) Nr. 608/2013",
         "parent": {
@@ -2802,6 +3025,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG002901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG002901377",
         "name": "Abschnitt 3",
         "title": "Zwangsvollstreckung",
         "parent": {
@@ -2812,6 +3036,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003001377",
         "name": "Unterabschnitt 1",
         "title": "Allgemeines",
         "parent": {
@@ -2822,6 +3047,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015201377",
         "name": "\u00a7 112",
         "title": "Allgemeines",
         "parent": {
@@ -2835,6 +3061,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003101377",
         "name": "Unterabschnitt 2",
         "title": "Zwangsvollstreckung\nwegen Geldforderungen gegen den Urheber",
         "parent": {
@@ -2845,6 +3072,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015300315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015300315",
         "name": "\u00a7 113",
         "title": "Urheberrecht",
         "parent": {
@@ -2858,6 +3086,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015400315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015400315",
         "name": "\u00a7 114",
         "title": "Originale von Werken",
         "parent": {
@@ -2871,6 +3100,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003201377",
         "name": "Unterabschnitt 3",
         "title": "Zwangsvollstreckung\nwegen Geldforderungen gegen den Rechtsnachfolger des Urhebers",
         "parent": {
@@ -2881,6 +3111,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015500315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015500315",
         "name": "\u00a7 115",
         "title": "Urheberrecht",
         "parent": {
@@ -2894,6 +3125,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015600315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015600315",
         "name": "\u00a7 116",
         "title": "Originale von Werken",
         "parent": {
@@ -2907,6 +3139,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015700315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015700315",
         "name": "\u00a7 117",
         "title": "Testamentsvollstrecker",
         "parent": {
@@ -2920,6 +3153,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003301377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003301377",
         "name": "Unterabschnitt 4",
         "title": "Zwangsvollstreckung\nwegen Geldforderungen gegen den Verfasser wissenschaftlicher Ausgaben\nund gegen den Lichtbildner",
         "parent": {
@@ -2930,6 +3164,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015801377",
         "name": "\u00a7 118",
         "title": "Entsprechende Anwendung",
         "parent": {
@@ -2943,6 +3178,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003401377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003401377",
         "name": "Unterabschnitt 5",
         "title": "Zwangsvollstreckung\nwegen Geldforderungen in bestimmte Vorrichtungen",
         "parent": {
@@ -2953,6 +3189,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE015903377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE015903377",
         "name": "\u00a7 119",
         "title": "Zwangsvollstreckung in bestimmte Vorrichtungen",
         "parent": {
@@ -2966,6 +3203,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003501377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003501377",
         "name": "Teil 5",
         "title": "Anwendungsbereich,\n\u00dcbergangs- und Schlussbestimmungen",
         "parent": null
@@ -2973,6 +3211,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003601377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003601377",
         "name": "Abschnitt 1",
         "title": "Anwendungsbereich des Gesetzes",
         "parent": {
@@ -2983,6 +3222,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003701377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003701377",
         "name": "Unterabschnitt 1",
         "title": "Urheberrecht",
         "parent": {
@@ -2993,6 +3233,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016001307",
         "name": "\u00a7 120",
         "title": "Deutsche Staatsangeh\u00f6rige und Staatsangeh\u00f6rige\nanderer EU-Staaten und EWR-Staaten",
         "parent": {
@@ -3006,6 +3247,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016101301",
         "name": "\u00a7 121",
         "title": "Ausl\u00e4ndische Staatsangeh\u00f6rige",
         "parent": {
@@ -3019,6 +3261,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016200315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016200315",
         "name": "\u00a7 122",
         "title": "Staatenlose",
         "parent": {
@@ -3032,6 +3275,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016300315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016300315",
         "name": "\u00a7 123",
         "title": "Ausl\u00e4ndische Fl\u00fcchtlinge",
         "parent": {
@@ -3045,6 +3289,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003801377",
         "name": "Unterabschnitt 2",
         "title": "Verwandte Schutzrechte",
         "parent": {
@@ -3055,6 +3300,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016400315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016400315",
         "name": "\u00a7 124",
         "title": "Wissenschaftliche Ausgaben und Lichtbilder",
         "parent": {
@@ -3068,6 +3314,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016503377",
         "name": "\u00a7 125",
         "title": "Schutz des aus\u00fcbenden K\u00fcnstlers",
         "parent": {
@@ -3081,6 +3328,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016603377",
         "name": "\u00a7 126",
         "title": "Schutz des Herstellers von Tontr\u00e4gern",
         "parent": {
@@ -3094,6 +3342,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016703377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016703377",
         "name": "\u00a7 127",
         "title": "Schutz des Sendeunternehmens",
         "parent": {
@@ -3107,6 +3356,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021601301",
         "name": "\u00a7 127a",
         "title": "Schutz des Datenbankherstellers",
         "parent": {
@@ -3120,6 +3370,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016801307",
         "name": "\u00a7 128",
         "title": "Schutz des Filmherstellers",
         "parent": {
@@ -3133,6 +3384,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG003901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG003901377",
         "name": "Abschnitt 2",
         "title": "\u00dcbergangsbestimmungen",
         "parent": {
@@ -3143,6 +3395,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE016900315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE016900315",
         "name": "\u00a7 129",
         "title": "Werke",
         "parent": {
@@ -3156,6 +3409,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017000315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017000315",
         "name": "\u00a7 130",
         "title": "\u00dcbersetzungen",
         "parent": {
@@ -3169,6 +3423,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017100315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017100315",
         "name": "\u00a7 131",
         "title": "Vertonte Sprachwerke",
         "parent": {
@@ -3182,6 +3437,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017203123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017203123",
         "name": "\u00a7 132",
         "title": "Vertr\u00e4ge",
         "parent": {
@@ -3195,6 +3451,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017300315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017300315",
         "name": "\u00a7 133",
         "title": "(weggefallen)",
         "parent": {
@@ -3208,6 +3465,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017400315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017400315",
         "name": "\u00a7 134",
         "title": "Urheber",
         "parent": {
@@ -3221,6 +3479,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017500315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017500315",
         "name": "\u00a7 135",
         "title": "Inhaber verwandter Schutzrechte",
         "parent": {
@@ -3234,6 +3493,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017600315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017600315",
         "name": "\u00a7 135a",
         "title": "Berechnung der Schutzfrist",
         "parent": {
@@ -3247,6 +3507,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017700315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017700315",
         "name": "\u00a7 136",
         "title": "Vervielf\u00e4ltigung und Verbreitung",
         "parent": {
@@ -3260,6 +3521,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017800315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017800315",
         "name": "\u00a7 137",
         "title": "\u00dcbertragung von Rechten",
         "parent": {
@@ -3273,6 +3535,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018600304",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018600304",
         "name": "\u00a7 137a",
         "title": "Lichtbildwerke",
         "parent": {
@@ -3286,6 +3549,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019000309",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019000309",
         "name": "\u00a7 137b",
         "title": "Bestimmte Ausgaben",
         "parent": {
@@ -3299,6 +3563,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019100309",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019100309",
         "name": "\u00a7 137c",
         "title": "Aus\u00fcbende K\u00fcnstler",
         "parent": {
@@ -3312,6 +3577,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE019901377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE019901377",
         "name": "\u00a7 137d",
         "title": "Computerprogramme",
         "parent": {
@@ -3325,6 +3591,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020801377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020801377",
         "name": "\u00a7 137e",
         "title": "\u00dcbergangsregelung bei Umsetzung der Richtlinie 92/100/EWG",
         "parent": {
@@ -3338,6 +3605,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE020900307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE020900307",
         "name": "\u00a7 137f",
         "title": "\u00dcbergangsregelung bei Umsetzung der Richtlinie 93/98/EWG",
         "parent": {
@@ -3351,6 +3619,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE021702123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE021702123",
         "name": "\u00a7 137g",
         "title": "\u00dcbergangsregelung bei Umsetzung der Richtlinie 96/9/EG",
         "parent": {
@@ -3364,6 +3633,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022000307",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022000307",
         "name": "\u00a7 137h",
         "title": "\u00dcbergangsregelung bei Umsetzung der Richtlinie 93/83/EWG",
         "parent": {
@@ -3377,6 +3647,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE022100377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE022100377",
         "name": "\u00a7 137i",
         "title": "\u00dcbergangsregelung zum Gesetz zur Modernisierung des Schuldrechts",
         "parent": {
@@ -3390,6 +3661,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023800377",
         "name": "\u00a7 137j",
         "title": "\u00dcbergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG",
         "parent": {
@@ -3403,6 +3675,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE023904360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE023904360",
         "name": "\u00a7 137k",
         "title": "(weggefallen)",
         "parent": {
@@ -3416,6 +3689,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE024300377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE024300377",
         "name": "\u00a7 137l",
         "title": "\u00dcbergangsregelung f\u00fcr neue Nutzungsarten",
         "parent": {
@@ -3429,6 +3703,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025200360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025200360",
         "name": "\u00a7 137m",
         "title": "\u00dcbergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU",
         "parent": {
@@ -3442,6 +3717,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE025700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE025700360",
         "name": "\u00a7 137n",
         "title": "\u00dcbergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU",
         "parent": {
@@ -3455,6 +3731,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE027300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE027300123",
         "name": "\u00a7 137o",
         "title": "\u00dcbergangsregelung zum Urheberrechts-Wissensgesellschafts-Gesetz",
         "parent": {
@@ -3468,6 +3745,7 @@
       {
         "type": "heading",
         "id": "BJNR012730965BJNG004001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNG004001377",
         "name": "Abschnitt 3",
         "title": "Schlussbestimmungen",
         "parent": {
@@ -3478,6 +3756,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE017905301",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE017905301",
         "name": "\u00a7 138",
         "title": "Register anonymer und pseudonymer Werke",
         "parent": {
@@ -3491,6 +3770,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE026400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE026400123",
         "name": "\u00a7 138a",
         "title": "Datenschutz",
         "parent": {
@@ -3504,6 +3784,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018001377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018001377",
         "name": "\u00a7 139",
         "title": "\u00c4nderung der Strafprozessordnung",
         "parent": {
@@ -3517,6 +3798,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018101377",
         "name": "\u00a7 140",
         "title": "\u00c4nderung des Gesetzes \u00fcber das am 6. September 1952\nunterzeichnete Welturheberrechtsabkommen",
         "parent": {
@@ -3530,6 +3812,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018201377",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018201377",
         "name": "\u00a7 141",
         "title": "Aufgehobene Vorschriften",
         "parent": {
@@ -3543,6 +3826,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE027400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE027400123",
         "name": "\u00a7 142",
         "title": "Evaluierung, Befristung",
         "parent": {
@@ -3556,6 +3840,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018400315",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018400315",
         "name": "\u00a7 143",
         "title": "Inkrafttreten",
         "parent": {
@@ -3569,6 +3854,7 @@
       {
         "type": "article",
         "id": "BJNR012730965BJNE018706123",
+        "url": "https://api.rechtsinformationsportal.de/laws/urhg/articles/BJNR012730965BJNE018706123",
         "name": "Anlage (zu \u00a7 61a)",
         "title": "Quellen einer sorgf\u00e4ltigen Suche",
         "parent": {

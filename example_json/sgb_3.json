@@ -44,6 +44,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070082125",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070082125",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -54,6 +55,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG000200000",
         "name": "Erstes Kapitel",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -61,6 +63,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG000300000",
         "name": "Erster Abschnitt",
         "title": "Grunds\u00e4tze",
         "parent": {
@@ -71,6 +74,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE013704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE013704308",
         "name": "\u00a7 1",
         "title": "Ziele der Arbeitsf\u00f6rderung",
         "parent": {
@@ -84,6 +88,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE013806308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE013806308",
         "name": "\u00a7 2",
         "title": "Zusammenwirken mit den Agenturen f\u00fcr Arbeit",
         "parent": {
@@ -97,6 +102,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE013925126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE013925126",
         "name": "\u00a7 3",
         "title": "Leistungen der Arbeitsf\u00f6rderung",
         "parent": {
@@ -110,6 +116,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014001119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014001119",
         "name": "\u00a7 4",
         "title": "Vorrang der Vermittlung",
         "parent": {
@@ -123,6 +130,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014101308",
         "name": "\u00a7 5",
         "title": "Vorrang der aktiven Arbeitsf\u00f6rderung",
         "parent": {
@@ -136,6 +144,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014203308",
         "name": "\u00a7 6",
         "title": "(weggefallen)",
         "parent": {
@@ -149,6 +158,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014303308",
         "name": "\u00a7 7",
         "title": "Auswahl von Leistungen der aktiven Arbeitsf\u00f6rderung",
         "parent": {
@@ -162,6 +172,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014404301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014404301",
         "name": "\u00a7 8",
         "title": "Vereinbarkeit von Familie und Beruf",
         "parent": {
@@ -175,6 +186,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014506119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014506119",
         "name": "\u00a7 9",
         "title": "Ortsnahe Leistungserbringung",
         "parent": {
@@ -188,6 +200,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE066303126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE066303126",
         "name": "\u00a7 9a",
         "title": "Zusammenarbeit mit den f\u00fcr die Wahrnehmung der Aufgaben der Grundsicherung f\u00fcr Arbeitsuchende zust\u00e4ndigen gemeinsamen Einrichtungen und zugelassenen kommunalen Tr\u00e4gern",
         "parent": {
@@ -201,6 +214,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014604308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014604308",
         "name": "\u00a7 10",
         "title": "(weggefallen)",
         "parent": {
@@ -214,6 +228,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014708119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014708119",
         "name": "\u00a7 11",
         "title": "Eingliederungsbilanz",
         "parent": {
@@ -227,6 +242,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG000700000",
         "name": "Zweiter Abschnitt",
         "title": "Berechtigte",
         "parent": {
@@ -237,6 +253,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014800000",
         "name": "\u00a7 12",
         "title": "Geltung der Begriffsbestimmungen",
         "parent": {
@@ -250,6 +267,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE014901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE014901308",
         "name": "\u00a7 13",
         "title": "Heimarbeiterinnen und Heimarbeiter",
         "parent": {
@@ -263,6 +281,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015002308",
         "name": "\u00a7 14",
         "title": "Auszubildende",
         "parent": {
@@ -276,6 +295,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015101308",
         "name": "\u00a7 15",
         "title": "Ausbildung- und Arbeitsuchende",
         "parent": {
@@ -289,6 +309,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015202308",
         "name": "\u00a7 16",
         "title": "Arbeitslose",
         "parent": {
@@ -302,6 +323,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015301308",
         "name": "\u00a7 17",
         "title": "Drohende Arbeitslosigkeit",
         "parent": {
@@ -315,6 +337,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015405119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015405119",
         "name": "\u00a7 18",
         "title": "Langzeitarbeitslose",
         "parent": {
@@ -328,6 +351,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015501308",
         "name": "\u00a7 19",
         "title": "Behinderte Menschen",
         "parent": {
@@ -341,6 +365,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015603301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015603301",
         "name": "\u00a7 20",
         "title": "Berufsr\u00fcckkehrende",
         "parent": {
@@ -354,6 +379,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015701308",
         "name": "\u00a7 21",
         "title": "Tr\u00e4ger",
         "parent": {
@@ -367,6 +393,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG000800000",
         "name": "Dritter Abschnitt",
         "title": "Verh\u00e4ltnis der Leistungen aktiver Arbeitsf\u00f6rderung\nzu anderen Leistungen",
         "parent": {
@@ -377,6 +404,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015823126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015823126",
         "name": "\u00a7 22",
         "title": "Verh\u00e4ltnis zu anderen Leistungen",
         "parent": {
@@ -390,6 +418,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE015902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE015902308",
         "name": "\u00a7 23",
         "title": "Vorleistungspflicht der Arbeitsf\u00f6rderung",
         "parent": {
@@ -403,6 +432,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG016001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG016001308",
         "name": "Zweites Kapitel",
         "title": "Versicherungspflicht",
         "parent": null
@@ -410,6 +440,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056100308",
         "name": "Erster Abschnitt",
         "title": "Besch\u00e4ftigte, Sonstige\nVersicherungspflichtige",
         "parent": {
@@ -420,6 +451,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE016102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE016102308",
         "name": "\u00a7 24",
         "title": "Versicherungspflichtverh\u00e4ltnis",
         "parent": {
@@ -433,6 +465,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE016209360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE016209360",
         "name": "\u00a7 25",
         "title": "Besch\u00e4ftigte",
         "parent": {
@@ -446,6 +479,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE016323126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE016323126",
         "name": "\u00a7 26",
         "title": "Sonstige Versicherungspflichtige",
         "parent": {
@@ -459,6 +493,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE016413126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE016413126",
         "name": "\u00a7 27",
         "title": "Versicherungsfreie Besch\u00e4ftigte",
         "parent": {
@@ -472,6 +507,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE016507308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE016507308",
         "name": "\u00a7 28",
         "title": "Sonstige versicherungsfreie Personen",
         "parent": {
@@ -485,6 +521,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056201308",
         "name": "Zweiter Abschnitt",
         "title": "Versicherungspflichtverh\u00e4ltnis auf Antrag",
         "parent": {
@@ -495,6 +532,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE064010126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE064010126",
         "name": "\u00a7 28a",
         "title": "Versicherungspflichtverh\u00e4ltnis auf Antrag",
         "parent": {
@@ -508,6 +546,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG016601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG016601308",
         "name": "Drittes Kapitel",
         "title": "Aktive Arbeitsf\u00f6rderung",
         "parent": null
@@ -515,6 +554,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG000901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG000901308",
         "name": "Erster Abschnitt",
         "title": "Beratung und Vermittlung",
         "parent": {
@@ -525,6 +565,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056600308",
         "name": "Erster Unterabschnitt",
         "title": "Beratung",
         "parent": {
@@ -535,6 +576,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE016704126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE016704126",
         "name": "\u00a7 29",
         "title": "Beratungsangebot",
         "parent": {
@@ -548,6 +590,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE016803126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE016803126",
         "name": "\u00a7 30",
         "title": "Berufsberatung",
         "parent": {
@@ -561,6 +604,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE016903126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE016903126",
         "name": "\u00a7 31",
         "title": "Grunds\u00e4tze der Berufsberatung",
         "parent": {
@@ -574,6 +618,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE078400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE078400360",
         "name": "\u00a7 31a",
         "title": "Informationen an junge Menschen ohne Anschlussperspektive; erforderliche Datenerhebung und Daten\u00fcbermittlung",
         "parent": {
@@ -587,6 +632,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017002308",
         "name": "\u00a7 32",
         "title": "Eignungsfeststellung",
         "parent": {
@@ -600,6 +646,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017103308",
         "name": "\u00a7 33",
         "title": "Berufsorientierung",
         "parent": {
@@ -613,6 +660,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017204126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017204126",
         "name": "\u00a7 34",
         "title": "Arbeitsmarktberatung",
         "parent": {
@@ -626,6 +674,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG058200308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG058200308",
         "name": "Zweiter Unterabschnitt",
         "title": "Vermittlung",
         "parent": {
@@ -636,6 +685,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017305308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017305308",
         "name": "\u00a7 35",
         "title": "Vermittlungsangebot",
         "parent": {
@@ -649,6 +699,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017405308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017405308",
         "name": "\u00a7 36",
         "title": "Grunds\u00e4tze der Vermittlung",
         "parent": {
@@ -662,6 +713,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017505308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017505308",
         "name": "\u00a7 37",
         "title": "Potenzialanalyse und Eingliederungsvereinbarung",
         "parent": {
@@ -675,6 +727,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE060602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE060602308",
         "name": "\u00a7 37a",
         "title": null,
         "parent": {
@@ -688,6 +741,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE062905308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE062905308",
         "name": "\u00a7 37b",
         "title": "(weggefallen)",
         "parent": {
@@ -701,6 +755,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE063003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE063003308",
         "name": "\u00a7 37c",
         "title": "(weggefallen)",
         "parent": {
@@ -714,6 +769,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017610360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017610360",
         "name": "\u00a7 38",
         "title": "Rechte und Pflichten der Ausbildung- und Arbeitsuchenden",
         "parent": {
@@ -727,6 +783,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017704308",
         "name": "\u00a7 39",
         "title": "Rechte und Pflichten der Arbeitgeber",
         "parent": {
@@ -740,6 +797,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE076500124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE076500124",
         "name": "\u00a7 39a",
         "title": "Fr\u00fchzeitige F\u00f6rderung von Ausl\u00e4nderinnen und Ausl\u00e4ndern mit Aufenthaltsgestattung",
         "parent": {
@@ -753,6 +811,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056800308",
         "name": "Dritter Unterabschnitt",
         "title": "Gemeinsame Vorschriften",
         "parent": {
@@ -763,6 +822,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017805126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017805126",
         "name": "\u00a7 40",
         "title": "Allgemeine Unterrichtung",
         "parent": {
@@ -776,6 +836,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE017906126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE017906126",
         "name": "\u00a7 41",
         "title": "Einschr\u00e4nkung des Fragerechts",
         "parent": {
@@ -789,6 +850,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE018002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE018002308",
         "name": "\u00a7 42",
         "title": "Grundsatz der Unentgeltlichkeit",
         "parent": {
@@ -802,6 +864,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE018103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE018103308",
         "name": "\u00a7 43",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -815,6 +878,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG001001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG001001308",
         "name": "Zweiter Abschnitt",
         "title": "Aktivierung und berufliche Eingliederung",
         "parent": {
@@ -825,6 +889,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE018203124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE018203124",
         "name": "\u00a7 44",
         "title": "F\u00f6rderung aus dem Vermittlungsbudget",
         "parent": {
@@ -838,6 +903,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE018405124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE018405124",
         "name": "\u00a7 45",
         "title": "Ma\u00dfnahmen zur Aktivierung und beruflichen Eingliederung",
         "parent": {
@@ -851,6 +917,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE018506119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE018506119",
         "name": "\u00a7 46",
         "title": "Probebesch\u00e4ftigung und Arbeitshilfe f\u00fcr behinderte Menschen",
         "parent": {
@@ -864,6 +931,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE018603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE018603308",
         "name": "\u00a7 47",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -877,6 +945,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG001101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG001101308",
         "name": "Dritter Abschnitt",
         "title": "Berufswahl und Berufsausbildung",
         "parent": {
@@ -887,6 +956,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056900308",
         "name": "Erster Unterabschnitt",
         "title": "\u00dcbergang von der Schule in die Berufsausbildung",
         "parent": {
@@ -897,6 +967,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE018707308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE018707308",
         "name": "\u00a7 48",
         "title": "Berufsorientierungsma\u00dfnahmen",
         "parent": {
@@ -910,6 +981,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070400308",
         "name": "\u00a7 49",
         "title": "Berufseinstiegsbegleitung",
         "parent": {
@@ -923,6 +995,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070500308",
         "name": "\u00a7 50",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -936,6 +1009,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057000308",
         "name": "Zweiter Unterabschnitt",
         "title": "Berufsvorbereitung",
         "parent": {
@@ -946,6 +1020,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070601124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070601124",
         "name": "\u00a7 51",
         "title": "Berufsvorbereitende Bildungsma\u00dfnahmen",
         "parent": {
@@ -959,6 +1034,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070701124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070701124",
         "name": "\u00a7 52",
         "title": "F\u00f6rderungsberechtigte junge Menschen",
         "parent": {
@@ -972,6 +1048,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070801124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070801124",
         "name": "\u00a7 53",
         "title": "Vorbereitung auf einen Hauptschulabschluss im Rahmen einer berufsvorbereitenden Bildungsma\u00dfnahme",
         "parent": {
@@ -985,6 +1062,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070900308",
         "name": "\u00a7 54",
         "title": "Ma\u00dfnahmekosten",
         "parent": {
@@ -998,6 +1076,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071007126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071007126",
         "name": "\u00a7 54a",
         "title": "Einstiegsqualifizierung",
         "parent": {
@@ -1011,6 +1090,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071100308",
         "name": "\u00a7 55",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -1024,6 +1104,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057100308",
         "name": "Dritter Unterabschnitt",
         "title": "Berufsausbildungsbeihilfe",
         "parent": {
@@ -1034,6 +1115,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE019509126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE019509126",
         "name": "\u00a7 56",
         "title": "Berufsausbildungsbeihilfe",
         "parent": {
@@ -1047,6 +1129,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070303126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070303126",
         "name": "\u00a7 57",
         "title": "F\u00f6rderungsf\u00e4hige Berufsausbildung",
         "parent": {
@@ -1060,6 +1143,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE019705119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE019705119",
         "name": "\u00a7 58",
         "title": "F\u00f6rderung im Ausland",
         "parent": {
@@ -1073,6 +1157,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE019806124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE019806124",
         "name": "\u00a7 59",
         "title": "(weggefallen)",
         "parent": {
@@ -1086,6 +1171,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE019904124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE019904124",
         "name": "\u00a7 60",
         "title": "F\u00f6rderungsberechtigter Personenkreis bei Berufsausbildung",
         "parent": {
@@ -1099,6 +1185,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020013126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020013126",
         "name": "\u00a7 61",
         "title": "Bedarf f\u00fcr den Lebensunterhalt bei Berufsausbildung",
         "parent": {
@@ -1112,6 +1199,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020105124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020105124",
         "name": "\u00a7 62",
         "title": "Bedarf f\u00fcr den Lebensunterhalt bei berufsvorbereitenden Bildungsma\u00dfnahmen",
         "parent": {
@@ -1125,6 +1213,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020207308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020207308",
         "name": "\u00a7 63",
         "title": "Fahrkosten",
         "parent": {
@@ -1138,6 +1227,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020307124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020307124",
         "name": "\u00a7 64",
         "title": "Sonstige Aufwendungen",
         "parent": {
@@ -1151,6 +1241,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020410308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020410308",
         "name": "\u00a7 65",
         "title": "Besonderheiten beim Besuch des Berufsschulunterrichts in Blockform",
         "parent": {
@@ -1164,6 +1255,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020508308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020508308",
         "name": "\u00a7 66",
         "title": "Anpassung der Bedarfss\u00e4tze",
         "parent": {
@@ -1177,6 +1269,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020608124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020608124",
         "name": "\u00a7 67",
         "title": "Einkommensanrechnung",
         "parent": {
@@ -1190,6 +1283,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020706308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020706308",
         "name": "\u00a7 68",
         "title": "Vorausleistung von Berufsausbildungsbeihilfe",
         "parent": {
@@ -1203,6 +1297,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020807360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020807360",
         "name": "\u00a7 69",
         "title": "Dauer der F\u00f6rderung",
         "parent": {
@@ -1216,6 +1311,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE020902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE020902308",
         "name": "\u00a7 70",
         "title": "Berufsausbildungsbeihilfe f\u00fcr Arbeitslose",
         "parent": {
@@ -1229,6 +1325,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021009308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021009308",
         "name": "\u00a7 71",
         "title": "Auszahlung",
         "parent": {
@@ -1242,6 +1339,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021105308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021105308",
         "name": "\u00a7 72",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -1255,6 +1353,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057200308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057200308",
         "name": "Vierter Unterabschnitt",
         "title": "Berufsausbildung",
         "parent": {
@@ -1265,6 +1364,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021204119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021204119",
         "name": "\u00a7 73",
         "title": "Zusch\u00fcsse zur Ausbildungsverg\u00fctung behinderter und schwerbehinderter Menschen",
         "parent": {
@@ -1278,6 +1378,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021306126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021306126",
         "name": "\u00a7 74",
         "title": "Assistierte Ausbildung",
         "parent": {
@@ -1291,6 +1392,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021404126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021404126",
         "name": "\u00a7 75",
         "title": "Begleitende Phase der Assistierten Ausbildung",
         "parent": {
@@ -1304,6 +1406,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE077700126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE077700126",
         "name": "\u00a7 75a",
         "title": "Vorphase der Assistierten Ausbildung",
         "parent": {
@@ -1317,6 +1420,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021504126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021504126",
         "name": "\u00a7 76",
         "title": "Au\u00dferbetriebliche Berufsausbildung",
         "parent": {
@@ -1330,6 +1434,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE060301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE060301308",
         "name": "\u00a7 76a",
         "title": null,
         "parent": {
@@ -1343,6 +1448,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021608126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021608126",
         "name": "\u00a7 77",
         "title": "(weggefallen)",
         "parent": {
@@ -1356,6 +1462,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021706124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021706124",
         "name": "\u00a7 78",
         "title": "(weggefallen)",
         "parent": {
@@ -1369,6 +1476,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021805126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021805126",
         "name": "\u00a7 79",
         "title": "(weggefallen)",
         "parent": {
@@ -1382,6 +1490,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE021904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE021904308",
         "name": "\u00a7 80",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -1395,6 +1504,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057300308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057300308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Jugendwohnheime",
         "parent": {
@@ -1405,6 +1515,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071200308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071200308",
         "name": "\u00a7 80a",
         "title": "F\u00f6rderung von Jugendwohnheimen",
         "parent": {
@@ -1418,6 +1529,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071300308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071300308",
         "name": "\u00a7 80b",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -1431,6 +1543,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057400308",
         "name": "Vierter Abschnitt",
         "title": "Berufliche Weiterbildung",
         "parent": {
@@ -1441,6 +1554,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE022009126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE022009126",
         "name": "\u00a7 81",
         "title": "Grundsatz",
         "parent": {
@@ -1454,6 +1568,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE022107126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE022107126",
         "name": "\u00a7 82",
         "title": "F\u00f6rderung besch\u00e4ftigter Arbeitnehmerinnen und Arbeitnehmer",
         "parent": {
@@ -1467,6 +1582,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE022202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE022202308",
         "name": "\u00a7 83",
         "title": "Weiterbildungskosten",
         "parent": {
@@ -1480,6 +1596,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE022305308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE022305308",
         "name": "\u00a7 84",
         "title": "Lehrgangskosten",
         "parent": {
@@ -1493,6 +1610,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE022406308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE022406308",
         "name": "\u00a7 85",
         "title": "Fahrkosten",
         "parent": {
@@ -1506,6 +1624,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE022508124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE022508124",
         "name": "\u00a7 86",
         "title": "Kosten f\u00fcr ausw\u00e4rtige Unterbringung und f\u00fcr Verpflegung",
         "parent": {
@@ -1519,6 +1638,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE011107124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE011107124",
         "name": "\u00a7 87",
         "title": "Kinderbetreuungskosten",
         "parent": {
@@ -1532,6 +1652,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057500308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Aufnahme einer Erwerbst\u00e4tigkeit",
         "parent": {
@@ -1542,6 +1663,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057600308",
         "name": "Erster Unterabschnitt",
         "title": "Sozialversicherungspflichtige Besch\u00e4ftigung",
         "parent": {
@@ -1552,6 +1674,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE022603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE022603308",
         "name": "\u00a7 88",
         "title": "Eingliederungszuschuss",
         "parent": {
@@ -1565,6 +1688,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071402126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071402126",
         "name": "\u00a7 89",
         "title": "H\u00f6he und Dauer der F\u00f6rderung",
         "parent": {
@@ -1578,6 +1702,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071501119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071501119",
         "name": "\u00a7 90",
         "title": "Eingliederungszuschuss f\u00fcr behinderte und schwerbehinderte Menschen",
         "parent": {
@@ -1591,6 +1716,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071600308",
         "name": "\u00a7 91",
         "title": "Zu ber\u00fccksichtigendes Arbeitsentgelt und Auszahlung des Zuschusses",
         "parent": {
@@ -1604,6 +1730,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071700308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071700308",
         "name": "\u00a7 92",
         "title": "F\u00f6rderungsausschluss und R\u00fcckzahlung",
         "parent": {
@@ -1617,6 +1744,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057700308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057700308",
         "name": "Zweiter Unterabschnitt",
         "title": "Selbst\u00e4ndige T\u00e4tigkeit",
         "parent": {
@@ -1627,6 +1755,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071800308",
         "name": "\u00a7 93",
         "title": "Gr\u00fcndungszuschuss",
         "parent": {
@@ -1640,6 +1769,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE071900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE071900308",
         "name": "\u00a7 94",
         "title": "Dauer und H\u00f6he der F\u00f6rderung",
         "parent": {
@@ -1653,6 +1783,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG001802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG001802308",
         "name": "Sechster Abschnitt",
         "title": "Verbleib in Besch\u00e4ftigung",
         "parent": {
@@ -1663,6 +1794,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056600666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056600666",
         "name": "Erster Unterabschnitt",
         "title": "Kurzarbeitergeld",
         "parent": {
@@ -1673,6 +1805,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056700308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056700308",
         "name": "Erster Titel",
         "title": "Regelvoraussetzungen",
         "parent": {
@@ -1683,6 +1816,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072000308",
         "name": "\u00a7 95",
         "title": "Anspruch",
         "parent": {
@@ -1696,6 +1830,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG002301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG002301308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": null
@@ -1703,6 +1838,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072100308",
         "name": "\u00a7 96",
         "title": "Erheblicher Arbeitsausfall",
         "parent": {
@@ -1716,6 +1852,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE023602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE023602308",
         "name": "\u00a7 97",
         "title": "Betriebliche Voraussetzungen",
         "parent": {
@@ -1729,6 +1866,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE023704119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE023704119",
         "name": "\u00a7 98",
         "title": "Pers\u00f6nliche Voraussetzungen",
         "parent": {
@@ -1742,6 +1880,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE023803311",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE023803311",
         "name": "\u00a7 99",
         "title": "Anzeige des Arbeitsausfalls",
         "parent": {
@@ -1755,6 +1894,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE023905308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE023905308",
         "name": "\u00a7 100",
         "title": "Kurzarbeitergeld bei Arbeitsk\u00e4mpfen",
         "parent": {
@@ -1768,6 +1908,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056800666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056800666",
         "name": "Zweiter Titel",
         "title": "Sonderformen des Kurzarbeitergeldes",
         "parent": {
@@ -1778,6 +1919,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024016119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024016119",
         "name": "\u00a7 101",
         "title": "Saison-Kurzarbeitergeld",
         "parent": {
@@ -1791,6 +1933,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024103308",
         "name": "\u00a7 102",
         "title": "Erg\u00e4nzende Leistungen",
         "parent": {
@@ -1804,6 +1947,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024204308",
         "name": "\u00a7 103",
         "title": "Kurzarbeitergeld f\u00fcr<BR/> Heimarbeiterinnen und Heimarbeiter",
         "parent": {
@@ -1817,6 +1961,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056900666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056900666",
         "name": "Dritter Titel",
         "title": "Leistungsumfang",
         "parent": {
@@ -1827,6 +1972,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024304119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024304119",
         "name": "\u00a7 104",
         "title": "Dauer",
         "parent": {
@@ -1840,6 +1986,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024413308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024413308",
         "name": "\u00a7 105",
         "title": "H\u00f6he",
         "parent": {
@@ -1853,6 +2000,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024516126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024516126",
         "name": "\u00a7 106",
         "title": "Nettoentgeltdifferenz",
         "parent": {
@@ -1866,6 +2014,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE077900126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE077900126",
         "name": "\u00a7 106a",
         "title": "Erstattung der Sozialversicherungsbeitr\u00e4ge bei beruflicher Weiterbildung",
         "parent": {
@@ -1879,6 +2028,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057000666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057000666",
         "name": "Vierter Titel",
         "title": "Anwendung anderer Vorschriften",
         "parent": {
@@ -1889,6 +2039,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024611124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024611124",
         "name": "\u00a7 107",
         "title": "Anwendung anderer Vorschriften",
         "parent": {
@@ -1902,6 +2053,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057100666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057100666",
         "name": "F\u00fcnfter Titel",
         "title": "Verf\u00fcgung \u00fcber das Kurzarbeitergeld",
         "parent": {
@@ -1912,6 +2064,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024712308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024712308",
         "name": "\u00a7 108",
         "title": "Verf\u00fcgung \u00fcber das Kurzarbeitergeld",
         "parent": {
@@ -1925,6 +2078,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057200666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057200666",
         "name": "Sechster Titel",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1935,6 +2089,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024806126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024806126",
         "name": "\u00a7 109",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1948,6 +2103,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057300666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057300666",
         "name": "Zweiter Unterabschnitt",
         "title": "Transferleistungen",
         "parent": {
@@ -1958,6 +2114,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE024903126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE024903126",
         "name": "\u00a7 110",
         "title": "Transferma\u00dfnahmen",
         "parent": {
@@ -1971,6 +2128,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE025010126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE025010126",
         "name": "\u00a7 111",
         "title": "Transferkurzarbeitergeld",
         "parent": {
@@ -1984,6 +2142,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE075201126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE075201126",
         "name": "\u00a7 111a",
         "title": "F\u00f6rderung der beruflichen Weiterbildung bei Transferkurzarbeitergeld",
         "parent": {
@@ -1997,6 +2156,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG002402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG002402308",
         "name": "Siebter Abschnitt",
         "title": "Teilhabe behinderter Menschen am Arbeitsleben",
         "parent": {
@@ -2007,6 +2167,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG002501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG002501308",
         "name": "Erster Unterabschnitt",
         "title": "Grunds\u00e4tze",
         "parent": {
@@ -2017,6 +2178,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE025104308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE025104308",
         "name": "\u00a7 112",
         "title": "Teilhabe am Arbeitsleben",
         "parent": {
@@ -2030,6 +2192,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072200308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072200308",
         "name": "\u00a7 113",
         "title": "Leistungen zur Teilhabe",
         "parent": {
@@ -2043,6 +2206,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070300666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070300666",
         "name": "\u00a7 114",
         "title": "Leistungsrahmen",
         "parent": {
@@ -2056,6 +2220,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG002601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG002601308",
         "name": "Zweiter Unterabschnitt",
         "title": "Allgemeine Leistungen",
         "parent": {
@@ -2066,6 +2231,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE025404119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE025404119",
         "name": "\u00a7 115",
         "title": "Leistungen",
         "parent": {
@@ -2079,6 +2245,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE025510124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE025510124",
         "name": "\u00a7 116",
         "title": "Besonderheiten",
         "parent": {
@@ -2092,6 +2259,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG002701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG002701308",
         "name": "Dritter Unterabschnitt",
         "title": "Besondere Leistungen",
         "parent": {
@@ -2102,6 +2270,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG002801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG002801308",
         "name": "Erster Titel",
         "title": "Allgemeines",
         "parent": {
@@ -2112,6 +2281,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE025605126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE025605126",
         "name": "\u00a7 117",
         "title": "Grundsatz",
         "parent": {
@@ -2125,6 +2295,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE025704119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE025704119",
         "name": "\u00a7 118",
         "title": "Leistungen",
         "parent": {
@@ -2138,6 +2309,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG002901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG002901308",
         "name": "Zweiter Titel",
         "title": "\u00dcbergangsgeld und Ausbildungsgeld",
         "parent": {
@@ -2148,6 +2320,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE025805126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE025805126",
         "name": "\u00a7 119",
         "title": "\u00dcbergangsgeld",
         "parent": {
@@ -2161,6 +2334,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE025906308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE025906308",
         "name": "\u00a7 120",
         "title": "Vorbesch\u00e4ftigungszeit f\u00fcr das \u00dcbergangsgeld",
         "parent": {
@@ -2174,6 +2348,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026003308",
         "name": "\u00a7 121",
         "title": "\u00dcbergangsgeld ohne Vorbesch\u00e4ftigungszeit",
         "parent": {
@@ -2187,6 +2362,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026106119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026106119",
         "name": "\u00a7 122",
         "title": "Ausbildungsgeld",
         "parent": {
@@ -2200,6 +2376,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026211126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026211126",
         "name": "\u00a7 123",
         "title": "Ausbildungsgeld bei Berufsausbildung und Unterst\u00fctzter Besch\u00e4ftigung",
         "parent": {
@@ -2213,6 +2390,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026311124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026311124",
         "name": "\u00a7 124",
         "title": "Ausbildungsgeld bei berufsvorbereitenden Bildungsma\u00dfnahmen und bei Grundausbildung",
         "parent": {
@@ -2226,6 +2404,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026411124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026411124",
         "name": "\u00a7 125",
         "title": "Ausbildungsgeld bei Ma\u00dfnahmen in anerkannten Werkst\u00e4tten f\u00fcr behinderte Menschen und bei Ma\u00dfnahmen anderer Leistungsanbieter nach \u00a7 60 des Neunten Buches",
         "parent": {
@@ -2239,6 +2418,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026507124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026507124",
         "name": "\u00a7 126",
         "title": "Einkommensanrechnung",
         "parent": {
@@ -2252,6 +2432,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG003001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG003001308",
         "name": "Dritter Titel",
         "title": "Teilnahmekosten f\u00fcr Ma\u00dfnahmen",
         "parent": {
@@ -2262,6 +2443,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026609124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026609124",
         "name": "\u00a7 127",
         "title": "Teilnahmekosten f\u00fcr Ma\u00dfnahmen",
         "parent": {
@@ -2275,6 +2457,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026708124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026708124",
         "name": "\u00a7 128",
         "title": "Kosten f\u00fcr Unterkunft und Verpflegung bei anderweitiger ausw\u00e4rtiger Unterbringung",
         "parent": {
@@ -2288,6 +2471,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG003101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG003101308",
         "name": "Vierter Titel",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -2298,6 +2482,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026803308",
         "name": "\u00a7 129",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -2311,6 +2496,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG003302119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG003302119",
         "name": "Achter Abschnitt",
         "title": "Befristete Leistungen und innovative Ans\u00e4tze",
         "parent": {
@@ -2321,6 +2507,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE026916126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE026916126",
         "name": "\u00a7 130",
         "title": "(weggefallen)",
         "parent": {
@@ -2334,6 +2521,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE027012124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE027012124",
         "name": "\u00a7 131",
         "title": "(weggefallen)",
         "parent": {
@@ -2347,6 +2535,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072304126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072304126",
         "name": "\u00a7 131a",
         "title": "Sonderregelungen zur beruflichen Weiterbildung",
         "parent": {
@@ -2360,6 +2549,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE074102360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE074102360",
         "name": "\u00a7 131b",
         "title": "Weiterbildungsf\u00f6rderung in der Altenpflege",
         "parent": {
@@ -2373,6 +2563,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE027111124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE027111124",
         "name": "\u00a7 132",
         "title": "(weggefallen)",
         "parent": {
@@ -2386,6 +2577,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE027213360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE027213360",
         "name": "\u00a7 133",
         "title": "Saison-Kurzarbeitergeld und erg\u00e4nzende Leistungen im Ger\u00fcstbauerhandwerk",
         "parent": {
@@ -2399,6 +2591,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE027310119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE027310119",
         "name": "\u00a7 134",
         "title": "(weggefallen)",
         "parent": {
@@ -2412,6 +2605,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE027409119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE027409119",
         "name": "\u00a7 135",
         "title": "Erprobung innovativer Ans\u00e4tze",
         "parent": {
@@ -2425,6 +2619,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG018301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG018301308",
         "name": "Viertes Kapitel",
         "title": "Arbeitslosengeld und Insolvenzgeld",
         "parent": null
@@ -2432,6 +2627,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG001202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG001202308",
         "name": "Erster Abschnitt",
         "title": "Arbeitslosengeld",
         "parent": {
@@ -2442,6 +2638,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057400666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057400666",
         "name": "Erster Unterabschnitt",
         "title": "Regelvoraussetzungen",
         "parent": {
@@ -2452,6 +2649,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072400308",
         "name": "\u00a7 136",
         "title": "Anspruch auf Arbeitslosengeld",
         "parent": {
@@ -2465,6 +2663,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072500308",
         "name": "\u00a7 137",
         "title": "Anspruchsvoraussetzungen bei Arbeitslosigkeit",
         "parent": {
@@ -2478,6 +2677,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072600308",
         "name": "\u00a7 138",
         "title": "Arbeitslosigkeit",
         "parent": {
@@ -2491,6 +2691,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072701124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072701124",
         "name": "\u00a7 139",
         "title": "Sonderf\u00e4lle der Verf\u00fcgbarkeit",
         "parent": {
@@ -2504,6 +2705,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE027906308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE027906308",
         "name": "\u00a7 140",
         "title": "Zumutbare Besch\u00e4ftigungen",
         "parent": {
@@ -2517,6 +2719,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028007308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028007308",
         "name": "\u00a7 141",
         "title": "Pers\u00f6nliche Arbeitslosmeldung",
         "parent": {
@@ -2530,6 +2733,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028116126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028116126",
         "name": "\u00a7 142",
         "title": "Anwartschaftszeit",
         "parent": {
@@ -2543,6 +2747,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028202126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028202126",
         "name": "\u00a7 143",
         "title": "Rahmenfrist",
         "parent": {
@@ -2556,6 +2761,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028311308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028311308",
         "name": "\u00a7 144",
         "title": "Anspruchsvoraussetzungen bei beruflicher Weiterbildung",
         "parent": {
@@ -2569,6 +2775,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057500666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057500666",
         "name": "Zweiter Unterabschnitt",
         "title": "Sonderformen des Arbeitslosengeldes",
         "parent": {
@@ -2579,6 +2786,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028402308",
         "name": "\u00a7 145",
         "title": "Minderung der Leistungsf\u00e4higkeit",
         "parent": {
@@ -2592,6 +2800,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028502308",
         "name": "\u00a7 146",
         "title": "Leistungsfortzahlung bei Arbeitsunf\u00e4higkeit",
         "parent": {
@@ -2605,6 +2814,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057600666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057600666",
         "name": "Dritter Unterabschnitt",
         "title": "Anspruchsdauer",
         "parent": {
@@ -2615,6 +2825,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028604126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028604126",
         "name": "\u00a7 147",
         "title": "Grundsatz",
         "parent": {
@@ -2628,6 +2839,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028705124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028705124",
         "name": "\u00a7 148",
         "title": "Minderung der Anspruchsdauer",
         "parent": {
@@ -2641,6 +2853,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057700666",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057700666",
         "name": "Vierter Unterabschnitt",
         "title": "H\u00f6he des Arbeitslosengeldes",
         "parent": {
@@ -2651,6 +2864,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028803308",
         "name": "\u00a7 149",
         "title": "Grundsatz",
         "parent": {
@@ -2664,6 +2878,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE028903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE028903308",
         "name": "\u00a7 150",
         "title": "Bemessungszeitraum und Bemessungsrahmen",
         "parent": {
@@ -2677,6 +2892,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE029017360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE029017360",
         "name": "\u00a7 151",
         "title": "Bemessungsentgelt",
         "parent": {
@@ -2690,6 +2906,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE029103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE029103308",
         "name": "\u00a7 152",
         "title": "Fiktive Bemessung",
         "parent": {
@@ -2703,6 +2920,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE029207126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE029207126",
         "name": "\u00a7 153",
         "title": "Leistungsentgelt",
         "parent": {
@@ -2716,6 +2934,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072800308",
         "name": "\u00a7 154",
         "title": "Berechnung und Leistung",
         "parent": {
@@ -2729,6 +2948,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057800308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Minderung des Arbeitslosengeldes, Zusammentreffen des Anspruchs mit sonstigem Einkommen und Ruhen des Anspruchs",
         "parent": {
@@ -2739,6 +2959,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE072900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE072900308",
         "name": "\u00a7 155",
         "title": "Anrechnung von Nebeneinkommen",
         "parent": {
@@ -2752,6 +2973,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073000308",
         "name": "\u00a7 156",
         "title": "Ruhen des Anspruchs bei anderen Sozialleistungen",
         "parent": {
@@ -2765,6 +2987,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073100308",
         "name": "\u00a7 157",
         "title": "Ruhen des Anspruchs bei Arbeitsentgelt und Urlaubsabgeltung",
         "parent": {
@@ -2778,6 +3001,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073202119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073202119",
         "name": "\u00a7 158",
         "title": "Ruhen des Anspruchs bei Entlassungsentsch\u00e4digung",
         "parent": {
@@ -2791,6 +3015,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073302124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073302124",
         "name": "\u00a7 159",
         "title": "Ruhen bei Sperrzeit",
         "parent": {
@@ -2804,6 +3029,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE029906308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE029906308",
         "name": "\u00a7 160",
         "title": "Ruhen bei Arbeitsk\u00e4mpfen",
         "parent": {
@@ -2817,6 +3043,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG057900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG057900308",
         "name": "Sechster Unterabschnitt",
         "title": "Erl\u00f6schen des Anspruchs",
         "parent": {
@@ -2827,6 +3054,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE030002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE030002308",
         "name": "\u00a7 161",
         "title": "Erl\u00f6schen des Anspruchs",
         "parent": {
@@ -2840,6 +3068,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG058000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG058000308",
         "name": "Siebter Unterabschnitt",
         "title": "Teilarbeitslosengeld",
         "parent": {
@@ -2850,6 +3079,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE030105308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE030105308",
         "name": "\u00a7 162",
         "title": "Teilarbeitslosengeld",
         "parent": {
@@ -2863,6 +3093,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG058100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG058100308",
         "name": "Achter Unterabschnitt",
         "title": "Verordnungserm\u00e4chtigung und Anordnungserm\u00e4chtigung",
         "parent": {
@@ -2873,6 +3104,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE030204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE030204308",
         "name": "\u00a7 163",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2886,6 +3118,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073400308",
         "name": "\u00a7 164",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -2899,6 +3132,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056700777",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056700777",
         "name": "Zweiter Abschnitt",
         "title": "Insolvenzgeld",
         "parent": {
@@ -2909,6 +3143,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073500308",
         "name": "\u00a7 165",
         "title": "Anspruch",
         "parent": {
@@ -2922,6 +3157,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073600308",
         "name": "\u00a7 166",
         "title": "Anspruchsausschluss",
         "parent": {
@@ -2935,6 +3171,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073700308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073700308",
         "name": "\u00a7 167",
         "title": "H\u00f6he",
         "parent": {
@@ -2948,6 +3185,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE073800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE073800308",
         "name": "\u00a7 168",
         "title": "Vorschuss",
         "parent": {
@@ -2961,6 +3199,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE030803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE030803308",
         "name": "\u00a7 169",
         "title": "Anspruchs\u00fcbergang",
         "parent": {
@@ -2974,6 +3213,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE030906308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE030906308",
         "name": "\u00a7 170",
         "title": "Verf\u00fcgungen \u00fcber das Arbeitsentgelt",
         "parent": {
@@ -2987,6 +3227,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031002308",
         "name": "\u00a7 171",
         "title": "Verf\u00fcgungen \u00fcber das Insolvenzgeld",
         "parent": {
@@ -3000,6 +3241,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031105308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031105308",
         "name": "\u00a7 172",
         "title": "Datenaustausch und Daten\u00fcbermittlung",
         "parent": {
@@ -3013,6 +3255,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG056600777",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG056600777",
         "name": "Dritter Abschnitt",
         "title": "Erg\u00e4nzende Regelungen zur Sozialversicherung",
         "parent": {
@@ -3023,6 +3266,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031202308",
         "name": "\u00a7 173",
         "title": "\u00dcbernahme und Erstattung von Beitr\u00e4gen bei Befreiung von der Versicherungspflicht in der Rentenversicherung",
         "parent": {
@@ -3036,6 +3280,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031303377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031303377",
         "name": "\u00a7 174",
         "title": "\u00dcbernahme von Beitr\u00e4gen bei Befreiung von der Versicherungspflicht in der Kranken- und Pflegeversicherung",
         "parent": {
@@ -3049,6 +3294,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031406308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031406308",
         "name": "\u00a7 175",
         "title": "Zahlung von Pflichtbeitr\u00e4gen bei Insolvenzereignis",
         "parent": {
@@ -3062,6 +3308,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG035601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG035601308",
         "name": "F\u00fcnftes Kapitel",
         "title": "Zulassung von Tr\u00e4gern und Ma\u00dfnahmen",
         "parent": null
@@ -3069,6 +3316,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031502308",
         "name": "\u00a7 176",
         "title": "Grundsatz",
         "parent": {
@@ -3082,6 +3330,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031604308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031604308",
         "name": "\u00a7 177",
         "title": "Fachkundige Stelle",
         "parent": {
@@ -3095,6 +3344,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031701308",
         "name": "\u00a7 178",
         "title": "Tr\u00e4gerzulassung",
         "parent": {
@@ -3108,6 +3358,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031808126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031808126",
         "name": "\u00a7 179",
         "title": "Ma\u00dfnahmezulassung",
         "parent": {
@@ -3121,6 +3372,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE031906126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE031906126",
         "name": "\u00a7 180",
         "title": "Erg\u00e4nzende Anforderungen an Ma\u00dfnahmen der beruflichen Weiterbildung",
         "parent": {
@@ -3134,6 +3386,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE032004126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE032004126",
         "name": "\u00a7 181",
         "title": "Zulassungsverfahren",
         "parent": {
@@ -3147,6 +3400,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE032104308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE032104308",
         "name": "\u00a7 182",
         "title": "Beirat",
         "parent": {
@@ -3160,6 +3414,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE032204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE032204308",
         "name": "\u00a7 183",
         "title": "Qualit\u00e4tspr\u00fcfung",
         "parent": {
@@ -3173,6 +3428,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE032301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE032301308",
         "name": "\u00a7 184",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3186,6 +3442,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG038002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG038002360",
         "name": "Sechstes Kapitel",
         "title": "Erg\u00e4nzende vergabespezifische Regelungen",
         "parent": null
@@ -3193,6 +3450,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE075700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE075700360",
         "name": "\u00a7 185",
         "title": "Vergabespezifisches Mindestentgelt f\u00fcr Aus- und Weiterbildungsdienstleistungen",
         "parent": {
@@ -3206,6 +3464,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE032403360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE032403360",
         "name": "(XXXX) \u00a7\u00a7 186 bis 239",
         "title": "(weggefallen)",
         "parent": {
@@ -3219,6 +3478,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE038106308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE038106308",
         "name": "(XXXX) \u00a7\u00a7 240 bis 279a",
         "title": "(weggefallen)",
         "parent": {
@@ -3232,6 +3492,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG042101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG042101308",
         "name": "Siebtes Kapitel",
         "title": "Weitere Aufgaben der Bundesagentur",
         "parent": null
@@ -3239,6 +3500,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG008500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG008500000",
         "name": "Erster Abschnitt",
         "title": "Statistiken, Arbeitsmarkt- und Berufsforschung,\nBerichterstattung",
         "parent": {
@@ -3249,6 +3511,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE042201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE042201308",
         "name": "\u00a7 280",
         "title": "Aufgaben",
         "parent": {
@@ -3262,6 +3525,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE076801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE076801360",
         "name": "\u00a7 281",
         "title": "Arbeitsmarktstatistiken, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3275,6 +3539,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE042409360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE042409360",
         "name": "\u00a7 282",
         "title": "Arbeitsmarkt- und Berufsforschung",
         "parent": {
@@ -3288,6 +3553,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE058415360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE058415360",
         "name": "\u00a7 282a",
         "title": "\u00dcbermittlung von Daten",
         "parent": {
@@ -3301,6 +3567,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE065702126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE065702126",
         "name": "\u00a7 282b",
         "title": "Speicherung, Ver\u00e4nderung, Nutzung, \u00dcbermittlung, Einschr\u00e4nkung der Verarbeitung oder L\u00f6schung von Daten f\u00fcr die Ausbildungsvermittlung durch die Bundesagentur",
         "parent": {
@@ -3314,6 +3581,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE042502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE042502308",
         "name": "\u00a7 283",
         "title": "Arbeitsmarktberichterstattung, Weisungsrecht",
         "parent": {
@@ -3327,6 +3595,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG008600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG008600000",
         "name": "Zweiter Abschnitt",
         "title": "Erteilung von Genehmigungen und Erlaubnissen",
         "parent": {
@@ -3337,6 +3606,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG008701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG008701308",
         "name": "Erster Unterabschnitt",
         "title": "Besch\u00e4ftigung von Ausl\u00e4nderinnen und Ausl\u00e4ndern",
         "parent": {
@@ -3347,6 +3617,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE042612119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE042612119",
         "name": "\u00a7 284",
         "title": "Arbeitsgenehmigung-EU f\u00fcr Staatsangeh\u00f6rige der neuen EU-Mitgliedstaaten",
         "parent": {
@@ -3360,6 +3631,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE042704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE042704308",
         "name": "(XXXX) \u00a7\u00a7 285 u. 286",
         "title": "(weggefallen)",
         "parent": {
@@ -3373,6 +3645,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE042910308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE042910308",
         "name": "\u00a7 287",
         "title": "Geb\u00fchren f\u00fcr die Durchf\u00fchrung der Vereinbarungen \u00fcber Werkvertragsarbeitnehmerinnen und Werkvertragsarbeitnehmer",
         "parent": {
@@ -3386,6 +3659,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE043004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE043004308",
         "name": "\u00a7 288",
         "title": "Verordnungserm\u00e4chtigung und Weisungsrecht",
         "parent": {
@@ -3399,6 +3673,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG008801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG008801308",
         "name": "Zweiter Unterabschnitt",
         "title": "Beratung und Vermittlung durch Dritte",
         "parent": {
@@ -3409,6 +3684,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG008901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG008901308",
         "name": "Erster Titel",
         "title": "Berufsberatung",
         "parent": {
@@ -3419,6 +3695,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE058502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE058502308",
         "name": "\u00a7 288a",
         "title": "Untersagung der Berufsberatung",
         "parent": {
@@ -3432,6 +3709,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE043101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE043101308",
         "name": "\u00a7 289",
         "title": "Offenbarungspflicht",
         "parent": {
@@ -3445,6 +3723,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE043201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE043201308",
         "name": "\u00a7 290",
         "title": "Verg\u00fctungen",
         "parent": {
@@ -3458,6 +3737,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009000000",
         "name": "Zweiter Titel",
         "title": "Ausbildungsvermittlung und Arbeitsvermittlung",
         "parent": {
@@ -3468,6 +3748,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE043303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE043303308",
         "name": "\u00a7 291",
         "title": null,
         "parent": {
@@ -3481,6 +3762,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE043404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE043404308",
         "name": "\u00a7 292",
         "title": "Auslandsvermittlung, Anwerbung aus dem Ausland",
         "parent": {
@@ -3494,6 +3776,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE043501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE043501308",
         "name": "(XXXX) \u00a7\u00a7 293 bis 295",
         "title": "(weggefallen)",
         "parent": {
@@ -3507,6 +3790,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE043806308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE043806308",
         "name": "\u00a7 296",
         "title": "Vermittlungsvertrag zwischen Vermittlern und Arbeitsuchenden",
         "parent": {
@@ -3520,6 +3804,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE062201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE062201308",
         "name": "\u00a7 296a",
         "title": "Verg\u00fctungen bei Ausbildungsvermittlung",
         "parent": {
@@ -3533,6 +3818,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE043904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE043904308",
         "name": "\u00a7 297",
         "title": "Unwirksamkeit von Vereinbarungen",
         "parent": {
@@ -3546,6 +3832,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE044004126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE044004126",
         "name": "\u00a7 298",
         "title": "Behandlung von Daten",
         "parent": {
@@ -3559,6 +3846,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE044102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE044102308",
         "name": "(XXXX) \u00a7\u00a7 299 u. 300",
         "title": "(weggefallen)",
         "parent": {
@@ -3572,6 +3860,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009101308",
         "name": "Dritter Titel",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3582,6 +3871,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE044305308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE044305308",
         "name": "\u00a7 301",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3595,6 +3885,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE044401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE044401308",
         "name": "(XXXX) \u00a7\u00a7 302 u. 303",
         "title": "(weggefallen)",
         "parent": {
@@ -3608,6 +3899,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009301308",
         "name": "Dritter Abschnitt",
         "title": "(weggefallen)",
         "parent": {
@@ -3618,6 +3910,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE044612308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE044612308",
         "name": "(XXXX) \u00a7\u00a7 304 bis 308",
         "title": "(weggefallen)",
         "parent": {
@@ -3631,6 +3924,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG045100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG045100000",
         "name": "Achtes Kapitel",
         "title": "Pflichten",
         "parent": null
@@ -3638,6 +3932,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009400000",
         "name": "Erster Abschnitt",
         "title": "Pflichten im Leistungsverfahren",
         "parent": {
@@ -3648,6 +3943,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009500000",
         "name": "Erster Unterabschnitt",
         "title": "Meldepflichten",
         "parent": {
@@ -3658,6 +3954,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE045203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE045203308",
         "name": "\u00a7 309",
         "title": "Allgemeine Meldepflicht",
         "parent": {
@@ -3671,6 +3968,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE045302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE045302308",
         "name": "\u00a7 310",
         "title": "Meldepflicht bei Wechsel der Zust\u00e4ndigkeit",
         "parent": {
@@ -3684,6 +3982,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009600000",
         "name": "Zweiter Unterabschnitt",
         "title": "Anzeige- und Bescheinigungspflichten",
         "parent": {
@@ -3694,6 +3993,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE045403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE045403308",
         "name": "\u00a7 311",
         "title": "Anzeige- und Bescheinigungspflicht bei Arbeitsunf\u00e4higkeit",
         "parent": {
@@ -3707,6 +4007,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE045508119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE045508119",
         "name": "\u00a7 312",
         "title": "Arbeitsbescheinigung",
         "parent": {
@@ -3720,6 +4021,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070101377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070101377",
         "name": "\u00a7 312a",
         "title": "Arbeitsbescheinigung f\u00fcr Zwecke des \u00fcber- und zwischenstaatlichen Rechts",
         "parent": {
@@ -3733,6 +4035,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE045605308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE045605308",
         "name": "\u00a7 313",
         "title": "Nebeneinkommensbescheinigung",
         "parent": {
@@ -3746,6 +4049,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE074302119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE074302119",
         "name": "\u00a7 313a",
         "title": "Elektronische Bescheinigung",
         "parent": {
@@ -3759,6 +4063,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE045703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE045703308",
         "name": "\u00a7 314",
         "title": "Insolvenzgeldbescheinigung",
         "parent": {
@@ -3772,6 +4077,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009700000",
         "name": "Dritter Unterabschnitt",
         "title": "Auskunftspflichten",
         "parent": {
@@ -3782,6 +4088,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE045805308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE045805308",
         "name": "\u00a7 315",
         "title": "Allgemeine Auskunftspflicht Dritter",
         "parent": {
@@ -3795,6 +4102,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE045902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE045902308",
         "name": "\u00a7 316",
         "title": "Auskunftspflicht bei Leistung von Insolvenzgeld",
         "parent": {
@@ -3808,6 +4116,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046002308",
         "name": "\u00a7 317",
         "title": "Auskunftspflicht bei Kurzarbeitergeld und Wintergeld",
         "parent": {
@@ -3821,6 +4130,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046107360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046107360",
         "name": "\u00a7 318",
         "title": "Auskunftspflicht bei Ma\u00dfnahmen der beruflichen Aus- oder Weiterbildung, Leistungen zur Teilhabe am Arbeitsleben, zur Aktivierung und beruflichen Eingliederung",
         "parent": {
@@ -3834,6 +4144,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046204126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046204126",
         "name": "\u00a7 319",
         "title": "Mitwirkungs- und Duldungspflichten",
         "parent": {
@@ -3847,6 +4158,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009800000",
         "name": "Vierter Unterabschnitt",
         "title": "Sonstige Pflichten",
         "parent": {
@@ -3857,6 +4169,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046305360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046305360",
         "name": "\u00a7 320",
         "title": "Berechnungs-, Auszahlungs-, Aufzeichnungs- und Anzeigepflichten",
         "parent": {
@@ -3870,6 +4183,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG009900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG009900000",
         "name": "Zweiter Abschnitt",
         "title": "Schadensersatz bei Pflichtverletzungen",
         "parent": {
@@ -3880,6 +4194,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046405308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046405308",
         "name": "\u00a7 321",
         "title": "Schadensersatz",
         "parent": {
@@ -3893,6 +4208,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010001308",
         "name": "Dritter Abschnitt",
         "title": "Verordnungserm\u00e4chtigung und\nAnordnungserm\u00e4chtigung",
         "parent": {
@@ -3903,6 +4219,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE058602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE058602308",
         "name": "\u00a7 321a",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3916,6 +4233,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046502308",
         "name": "\u00a7 322",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -3929,6 +4247,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG046600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG046600000",
         "name": "Neuntes Kapitel",
         "title": "Gemeinsame Vorschriften f\u00fcr Leistungen",
         "parent": null
@@ -3936,6 +4255,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010100000",
         "name": "Erster Abschnitt",
         "title": "Antrag und Fristen",
         "parent": {
@@ -3946,6 +4266,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046708126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046708126",
         "name": "\u00a7 323",
         "title": "Antragserfordernis",
         "parent": {
@@ -3959,6 +4280,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046808126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046808126",
         "name": "\u00a7 324",
         "title": "Antrag vor Leistung",
         "parent": {
@@ -3972,6 +4294,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE046908126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE046908126",
         "name": "\u00a7 325",
         "title": "Wirkung des Antrages",
         "parent": {
@@ -3985,6 +4308,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047001308",
         "name": "\u00a7 326",
         "title": "Ausschlu\u00dffrist f\u00fcr Gesamtabrechnung",
         "parent": {
@@ -3998,6 +4322,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010200000",
         "name": "Zweiter Abschnitt",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -4008,6 +4333,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047106126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047106126",
         "name": "\u00a7 327",
         "title": "Grundsatz",
         "parent": {
@@ -4021,6 +4347,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010300000",
         "name": "Dritter Abschnitt",
         "title": "Leistungsverfahren in Sonderf\u00e4llen",
         "parent": {
@@ -4031,6 +4358,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047205308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047205308",
         "name": "\u00a7 328",
         "title": "Vorl\u00e4ufige Entscheidung",
         "parent": {
@@ -4044,6 +4372,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047304308",
         "name": "\u00a7 329",
         "title": "Einkommensberechnung in besonderen F\u00e4llen",
         "parent": {
@@ -4057,6 +4386,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047408308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047408308",
         "name": "\u00a7 330",
         "title": "Sonderregelungen f\u00fcr die Aufhebung von Verwaltungsakten",
         "parent": {
@@ -4070,6 +4400,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047504308",
         "name": "\u00a7 331",
         "title": "Vorl\u00e4ufige Zahlungseinstellung",
         "parent": {
@@ -4083,6 +4414,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047603308",
         "name": "\u00a7 332",
         "title": "\u00dcbergang von Anspr\u00fcchen",
         "parent": {
@@ -4096,6 +4428,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047708126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047708126",
         "name": "\u00a7 333",
         "title": "Aufrechnung",
         "parent": {
@@ -4109,6 +4442,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047802308",
         "name": "\u00a7 334",
         "title": "Pf\u00e4ndung von Leistungen",
         "parent": {
@@ -4122,6 +4456,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE047911126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE047911126",
         "name": "\u00a7 335",
         "title": "Erstattung von Beitr\u00e4gen zur Kranken-, Renten- und Pflegeversicherung",
         "parent": {
@@ -4135,6 +4470,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048004308",
         "name": "\u00a7 336",
         "title": "Leistungsrechtliche Bindung",
         "parent": {
@@ -4148,6 +4484,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE060407308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE060407308",
         "name": "\u00a7 336a",
         "title": "Wirkung von Widerspruch und Klage",
         "parent": {
@@ -4161,6 +4498,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010400000",
         "name": "Vierter Abschnitt",
         "title": "Auszahlung von Geldleistungen",
         "parent": {
@@ -4171,6 +4509,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048103308",
         "name": "\u00a7 337",
         "title": "Auszahlung im Regelfall",
         "parent": {
@@ -4184,6 +4523,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010500000",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Berechnungsgrunds\u00e4tze",
         "parent": {
@@ -4194,6 +4534,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048202308",
         "name": "\u00a7 338",
         "title": "Allgemeine Berechnungsgrunds\u00e4tze",
         "parent": {
@@ -4207,6 +4548,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048304308",
         "name": "\u00a7 339",
         "title": "Berechnung von Zeiten",
         "parent": {
@@ -4220,6 +4562,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG048400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG048400000",
         "name": "Zehntes Kapitel",
         "title": "Finanzierung",
         "parent": null
@@ -4227,6 +4570,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010600000",
         "name": "Erster Abschnitt",
         "title": "Finanzierungsgrundsatz",
         "parent": {
@@ -4237,6 +4581,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048501308",
         "name": "\u00a7 340",
         "title": "Aufbringung der Mittel",
         "parent": {
@@ -4250,6 +4595,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010700000",
         "name": "Zweiter Abschnitt",
         "title": "Beitr\u00e4ge und Verfahren",
         "parent": {
@@ -4260,6 +4606,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010800000",
         "name": "Erster Unterabschnitt",
         "title": "Beitr\u00e4ge",
         "parent": {
@@ -4270,6 +4617,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048608126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048608126",
         "name": "\u00a7 341",
         "title": "Beitragssatz und Beitragsbemessung",
         "parent": {
@@ -4283,6 +4631,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048700000",
         "name": "\u00a7 342",
         "title": "Beitragspflichtige Einnahmen Besch\u00e4ftigter",
         "parent": {
@@ -4296,6 +4645,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048801308",
         "name": "\u00a7 343",
         "title": null,
         "parent": {
@@ -4309,6 +4659,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE048911126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE048911126",
         "name": "\u00a7 344",
         "title": "Sonderregelungen f\u00fcr beitragspflichtige Einnahmen Besch\u00e4ftigter",
         "parent": {
@@ -4322,6 +4673,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049011301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049011301",
         "name": "\u00a7 345",
         "title": "Beitragspflichtige Einnahmen sonstiger Versicherungspflichtiger",
         "parent": {
@@ -4335,6 +4687,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE061505308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE061505308",
         "name": "\u00a7 345a",
         "title": "Pauschalierung der Beitr\u00e4ge",
         "parent": {
@@ -4348,6 +4701,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE064704119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE064704119",
         "name": "\u00a7 345b",
         "title": "Beitragspflichtige Einnahmen bei einem Versicherungspflichtverh\u00e4ltnis auf Antrag",
         "parent": {
@@ -4361,6 +4715,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG010900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG010900000",
         "name": "Zweiter Unterabschnitt",
         "title": "Verfahren",
         "parent": {
@@ -4371,6 +4726,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049116126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049116126",
         "name": "\u00a7 346",
         "title": "Beitragstragung bei Besch\u00e4ftigten",
         "parent": {
@@ -4384,6 +4740,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049218301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049218301",
         "name": "\u00a7 347",
         "title": "Beitragstragung bei sonstigen Versicherten",
         "parent": {
@@ -4397,6 +4754,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049301308",
         "name": "\u00a7 348",
         "title": "Beitragszahlung f\u00fcr Besch\u00e4ftigte",
         "parent": {
@@ -4410,6 +4768,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049414126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049414126",
         "name": "\u00a7 349",
         "title": "Beitragszahlung f\u00fcr sonstige Versicherungspflichtige",
         "parent": {
@@ -4423,6 +4782,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE064801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE064801308",
         "name": "\u00a7 349a",
         "title": "Beitragstragung und Beitragszahlung bei einem Versicherungspflichtverh\u00e4ltnis auf Antrag",
         "parent": {
@@ -4436,6 +4796,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049501308",
         "name": "\u00a7 350",
         "title": "Meldungen der Sozialversicherungstr\u00e4ger",
         "parent": {
@@ -4449,6 +4810,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049604119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049604119",
         "name": "\u00a7 351",
         "title": "Beitragserstattung",
         "parent": {
@@ -4462,6 +4824,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011001308",
         "name": "Dritter Unterabschnitt",
         "title": "Verordnungserm\u00e4chtigung, Anordnungserm\u00e4chtigung und Erm\u00e4chtigung\nzum Erlass von Verwaltungsvorschriften",
         "parent": {
@@ -4472,6 +4835,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049703308",
         "name": "\u00a7 352",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -4485,6 +4849,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE064901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE064901308",
         "name": "\u00a7 352a",
         "title": "Anordnungserm\u00e4chtigung",
         "parent": {
@@ -4498,6 +4863,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049801308",
         "name": "\u00a7 353",
         "title": "Erm\u00e4chtigung zum Erla\u00df von Verwaltungsvorschriften",
         "parent": {
@@ -4511,6 +4877,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011100000",
         "name": "Dritter Abschnitt",
         "title": "Umlagen",
         "parent": {
@@ -4521,6 +4888,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011202308",
         "name": "Erster Unterabschnitt",
         "title": "Winterbesch\u00e4ftigungs-Umlage",
         "parent": {
@@ -4531,6 +4899,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE049904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE049904308",
         "name": "\u00a7 354",
         "title": "Grundsatz",
         "parent": {
@@ -4544,6 +4913,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050003308",
         "name": "\u00a7 355",
         "title": "H\u00f6he der Umlage",
         "parent": {
@@ -4557,6 +4927,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050103308",
         "name": "\u00a7 356",
         "title": "Umlageabf\u00fchrung",
         "parent": {
@@ -4570,6 +4941,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050205308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050205308",
         "name": "\u00a7 357",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -4583,6 +4955,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011301308",
         "name": "Zweiter Unterabschnitt",
         "title": "Umlage f\u00fcr das Insolvenzgeld",
         "parent": {
@@ -4593,6 +4966,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050304308",
         "name": "\u00a7 358",
         "title": "Aufbringung der Mittel",
         "parent": {
@@ -4606,6 +4980,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050404308",
         "name": "\u00a7 359",
         "title": "Einzug und Weiterleitung der Umlage",
         "parent": {
@@ -4619,6 +4994,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050504308",
         "name": "\u00a7 360",
         "title": "Umlagesatz",
         "parent": {
@@ -4632,6 +5008,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050607119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050607119",
         "name": "\u00a7 361",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -4645,6 +5022,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050704308",
         "name": "\u00a7 362",
         "title": "(weggefallen)",
         "parent": {
@@ -4658,6 +5036,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011400000",
         "name": "Vierter Abschnitt",
         "title": "Beteiligung des Bundes",
         "parent": {
@@ -4668,6 +5047,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050808308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050808308",
         "name": "\u00a7 363",
         "title": "Finanzierung aus Bundesmitteln",
         "parent": {
@@ -4681,6 +5061,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE050902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE050902308",
         "name": "\u00a7 364",
         "title": "Liquidit\u00e4tshilfen",
         "parent": {
@@ -4694,6 +5075,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051003310",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051003310",
         "name": "\u00a7 365",
         "title": "Stundung von Darlehen",
         "parent": {
@@ -4707,6 +5089,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011501308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "R\u00fccklage und Versorgungsfonds",
         "parent": {
@@ -4717,6 +5100,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051103308",
         "name": "\u00a7 366",
         "title": "Bildung und Anlage der R\u00fccklage",
         "parent": {
@@ -4730,6 +5114,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE067402126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE067402126",
         "name": "\u00a7 366a",
         "title": "Versorgungsfonds",
         "parent": {
@@ -4743,6 +5128,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG051201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG051201308",
         "name": "Elftes Kapitel",
         "title": "Organisation und Datenschutz",
         "parent": null
@@ -4750,6 +5136,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011601308",
         "name": "Erster Abschnitt",
         "title": "Bundesagentur f\u00fcr Arbeit",
         "parent": {
@@ -4760,6 +5147,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051302308",
         "name": "\u00a7 367",
         "title": "Bundesagentur f\u00fcr Arbeit",
         "parent": {
@@ -4773,6 +5161,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051405126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051405126",
         "name": "\u00a7 368",
         "title": "Aufgaben der Bundesagentur",
         "parent": {
@@ -4786,6 +5175,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE065001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE065001308",
         "name": "\u00a7 368a",
         "title": null,
         "parent": {
@@ -4799,6 +5189,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051501308",
         "name": "\u00a7 369",
         "title": "Besonderheiten zum Gerichtsstand",
         "parent": {
@@ -4812,6 +5203,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051602308",
         "name": "\u00a7 370",
         "title": "Beteiligung an Gesellschaften",
         "parent": {
@@ -4825,6 +5217,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011701308",
         "name": "Zweiter Abschnitt",
         "title": "Selbstverwaltung",
         "parent": {
@@ -4835,6 +5228,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011801308",
         "name": "Erster Unterabschnitt",
         "title": "Verfassung",
         "parent": {
@@ -4845,6 +5239,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051706308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051706308",
         "name": "\u00a7 371",
         "title": "Selbstverwaltungsorgane",
         "parent": {
@@ -4858,6 +5253,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051802308",
         "name": "\u00a7 372",
         "title": "Satzung und Anordnungen",
         "parent": {
@@ -4871,6 +5267,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE051906308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE051906308",
         "name": "\u00a7 373",
         "title": "Verwaltungsrat",
         "parent": {
@@ -4884,6 +5281,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052005308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052005308",
         "name": "\u00a7 374",
         "title": "Verwaltungsaussch\u00fcsse",
         "parent": {
@@ -4897,6 +5295,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE065102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE065102308",
         "name": "\u00a7 374a",
         "title": null,
         "parent": {
@@ -4910,6 +5309,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052103308",
         "name": "\u00a7 375",
         "title": "Amtsdauer",
         "parent": {
@@ -4923,6 +5323,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052205308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052205308",
         "name": "\u00a7 376",
         "title": "Entsch\u00e4digung der ehrenamtlich T\u00e4tigen",
         "parent": {
@@ -4936,6 +5337,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG011901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG011901308",
         "name": "Zweiter Unterabschnitt",
         "title": "Berufung und Abberufung",
         "parent": {
@@ -4946,6 +5348,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052309126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052309126",
         "name": "\u00a7 377",
         "title": "Berufung und Abberufung der Mitglieder",
         "parent": {
@@ -4959,6 +5362,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052404308",
         "name": "\u00a7 378",
         "title": "Berufungsf\u00e4higkeit",
         "parent": {
@@ -4972,6 +5376,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052510119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052510119",
         "name": "\u00a7 379",
         "title": "Vorschlagsberechtigte Stellen",
         "parent": {
@@ -4985,6 +5390,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012001308",
         "name": "Dritter Unterabschnitt",
         "title": "Neutralit\u00e4tsausschuss",
         "parent": {
@@ -4995,6 +5401,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052603308",
         "name": "\u00a7 380",
         "title": "Neutralit\u00e4tsausschuss",
         "parent": {
@@ -5008,6 +5415,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012102308",
         "name": "Dritter Abschnitt",
         "title": "Vorstand und Verwaltung",
         "parent": {
@@ -5018,6 +5426,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052702119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052702119",
         "name": "\u00a7 381",
         "title": "Vorstand der Bundesagentur",
         "parent": {
@@ -5031,6 +5440,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052804308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052804308",
         "name": "\u00a7 382",
         "title": "Rechtsstellung der Vorstandsmitglieder",
         "parent": {
@@ -5044,6 +5454,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE052903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE052903308",
         "name": "\u00a7 383",
         "title": "Gesch\u00e4ftsf\u00fchrung der Agenturen f\u00fcr Arbeit",
         "parent": {
@@ -5057,6 +5468,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053004308",
         "name": "\u00a7 384",
         "title": "Gesch\u00e4ftsf\u00fchrung der Regionaldirektionen",
         "parent": {
@@ -5070,6 +5482,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053103308",
         "name": "\u00a7 385",
         "title": "Beauftragte f\u00fcr Chancengleichheit am Arbeitsmarkt",
         "parent": {
@@ -5083,6 +5496,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053202308",
         "name": "\u00a7 386",
         "title": "Innenrevision",
         "parent": {
@@ -5096,6 +5510,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053307377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053307377",
         "name": "\u00a7 387",
         "title": "Personal der Bundesagentur",
         "parent": {
@@ -5109,6 +5524,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053403308",
         "name": "\u00a7 388",
         "title": "Ernennung der Beamtinnen und Beamten",
         "parent": {
@@ -5122,6 +5538,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053504308",
         "name": "\u00a7 389",
         "title": "Anstellungsverh\u00e4ltnisse oberster F\u00fchrungskr\u00e4fte",
         "parent": {
@@ -5135,6 +5552,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053604308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053604308",
         "name": "\u00a7 390",
         "title": "Au\u00dfertarifliche Arbeitsbedingungen und Verg\u00fctungen",
         "parent": {
@@ -5148,6 +5566,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053703308",
         "name": "\u00a7 391",
         "title": "(weggefallen)",
         "parent": {
@@ -5161,6 +5580,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053805126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053805126",
         "name": "\u00a7 392",
         "title": "Obergrenzen f\u00fcr Bef\u00f6rderungs\u00e4mter",
         "parent": {
@@ -5174,6 +5594,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012201308",
         "name": "Vierter Abschnitt",
         "title": "Aufsicht",
         "parent": {
@@ -5184,6 +5605,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE053903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE053903308",
         "name": "\u00a7 393",
         "title": "Aufsicht",
         "parent": {
@@ -5197,6 +5619,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012301308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Datenschutz",
         "parent": {
@@ -5207,6 +5630,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE054008126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE054008126",
         "name": "\u00a7 394",
         "title": "Verarbeitung von Sozialdaten durch die Bundesagentur",
         "parent": {
@@ -5220,6 +5644,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE054102126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE054102126",
         "name": "\u00a7 395",
         "title": "Daten\u00fcbermittlung an Dritte; Verarbeitung von Sozialdaten durch nicht-\u00f6ffentliche Stellen",
         "parent": {
@@ -5233,6 +5658,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE054202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE054202308",
         "name": "\u00a7 396",
         "title": "Kennzeichnungs- und Ma\u00dfregelungsverbot",
         "parent": {
@@ -5246,6 +5672,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE066404126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE066404126",
         "name": "\u00a7 397",
         "title": "Automatisierter Datenabgleich",
         "parent": {
@@ -5259,6 +5686,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE054402119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE054402119",
         "name": "\u00a7 398",
         "title": "Daten\u00fcbermittlung durch beauftragte Dritte",
         "parent": {
@@ -5272,6 +5700,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE054304119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE054304119",
         "name": "(XXXX) \u00a7\u00a7 399 bis 403",
         "title": "(weggefallen)",
         "parent": {
@@ -5285,6 +5714,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG055001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG055001308",
         "name": "Zw\u00f6lftes Kapitel",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": null
@@ -5292,6 +5722,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012400000",
         "name": "Erster Abschnitt",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -5302,6 +5733,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE076902360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE076902360",
         "name": "\u00a7 404",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -5315,6 +5747,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE055215126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE055215126",
         "name": "\u00a7 405",
         "title": "Zust\u00e4ndigkeit, Vollstreckung und Unterrichtung",
         "parent": {
@@ -5328,6 +5761,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012501308",
         "name": "Zweiter Abschnitt",
         "title": "(weggefallen)",
         "parent": {
@@ -5338,6 +5772,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE055309308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE055309308",
         "name": "(XXXX) \u00a7\u00a7 406 und 407",
         "title": "(weggefallen)",
         "parent": {
@@ -5351,6 +5786,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG055500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG055500000",
         "name": "Dreizehntes Kapitel",
         "title": "Sonderregelungen",
         "parent": null
@@ -5358,6 +5794,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012600000",
         "name": "Erster Abschnitt",
         "title": "Sonderregelungen im Zusammenhang mit der Herstellung der Einheit Deutschlands",
         "parent": {
@@ -5368,6 +5805,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE055600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE055600000",
         "name": "\u00a7 408",
         "title": "Besondere Bezugsgr\u00f6\u00dfe und Beitragsbemessungsgrenze",
         "parent": {
@@ -5381,6 +5819,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE055701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE055701308",
         "name": "(XXXX) \u00a7\u00a7 409 u. 410",
         "title": "(weggefallen)",
         "parent": {
@@ -5394,6 +5833,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE055905308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE055905308",
         "name": "\u00a7 411",
         "title": null,
         "parent": {
@@ -5407,6 +5847,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE056001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE056001308",
         "name": "\u00a7 412",
         "title": null,
         "parent": {
@@ -5420,6 +5861,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE056103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE056103308",
         "name": "\u00a7 413",
         "title": null,
         "parent": {
@@ -5433,6 +5875,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE056205308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE056205308",
         "name": "\u00a7 414",
         "title": null,
         "parent": {
@@ -5446,6 +5889,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE056306308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE056306308",
         "name": "\u00a7 415",
         "title": null,
         "parent": {
@@ -5459,6 +5903,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE056405308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE056405308",
         "name": "\u00a7 416",
         "title": "(weggefallen)",
         "parent": {
@@ -5472,6 +5917,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE059303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE059303308",
         "name": "\u00a7 416a",
         "title": "(weggefallen)",
         "parent": {
@@ -5485,6 +5931,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012701308",
         "name": "Zweiter Abschnitt",
         "title": "Erg\u00e4nzungen f\u00fcr \u00fcbergangsweise m\u00f6gliche Leistungen\nund zeitweilige Aufgaben",
         "parent": {
@@ -5495,6 +5942,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE063309125",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE063309125",
         "name": "\u00a7 417",
         "title": "Sonderregelung zum Bundesprogramm \u201eAusbildungspl\u00e4tze sichern\u201c",
         "parent": {
@@ -5508,6 +5956,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE063402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE063402308",
         "name": "\u00a7 418",
         "title": "Tragung der Beitr\u00e4ge zur Arbeitsf\u00f6rderung bei Besch\u00e4ftigung \u00e4lterer Arbeitnehmerinnen und Arbeitnehmer",
         "parent": {
@@ -5521,6 +5970,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE068906126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE068906126",
         "name": "\u00a7 419",
         "title": "(weggefallen)",
         "parent": {
@@ -5534,6 +5984,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE069603119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE069603119",
         "name": "\u00a7 420",
         "title": "Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt",
         "parent": {
@@ -5547,6 +5998,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE056908119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE056908119",
         "name": "\u00a7 421",
         "title": "F\u00f6rderung der Teilnahme an Sprachkursen",
         "parent": {
@@ -5560,6 +6012,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE058703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE058703308",
         "name": "\u00a7 421a",
         "title": "Arbeiten in Ma\u00dfnahmen des Arbeitsmarktprogramms Fl\u00fcchtlingsintegrationsma\u00dfnahmen",
         "parent": {
@@ -5573,6 +6026,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE076700126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE076700126",
         "name": "\u00a7 421b",
         "title": "Erprobung einer zentralen Servicestelle f\u00fcr anerkennungssuchende Fachkr\u00e4fte im Ausland",
         "parent": {
@@ -5586,6 +6040,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE077602126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE077602126",
         "name": "\u00a7 421c",
         "title": "Vor\u00fcbergehende Sonderregelungen im Zusammenhang mit Kurzarbeit",
         "parent": {
@@ -5599,6 +6054,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE078300126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE078300126",
         "name": "\u00a7 421d",
         "title": "Vor\u00fcbergehende Sonderregelung zum Arbeitslosengeld",
         "parent": {
@@ -5612,6 +6068,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012800000",
         "name": "Dritter Abschnitt",
         "title": "Grunds\u00e4tze bei Rechts\u00e4nderungen",
         "parent": {
@@ -5622,6 +6079,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057000000",
         "name": "\u00a7 422",
         "title": "Leistungen der aktiven Arbeitsf\u00f6rderung",
         "parent": {
@@ -5635,6 +6093,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057101308",
         "name": "\u00a7 423",
         "title": null,
         "parent": {
@@ -5648,6 +6107,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057201308",
         "name": "\u00a7 424",
         "title": null,
         "parent": {
@@ -5661,6 +6121,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG012900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG012900000",
         "name": "Vierter Abschnitt",
         "title": "Sonderregelungen im Zusammenhang mit der Einordnung\ndes Arbeitsf\u00f6rderungsrechts in das Sozialgesetzbuch",
         "parent": {
@@ -5671,6 +6132,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057300000",
         "name": "\u00a7 425",
         "title": "\u00dcbergang von der Beitrags- zur Versicherungspflicht",
         "parent": {
@@ -5684,6 +6146,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057403308",
         "name": "\u00a7 426",
         "title": "(weggefallen)",
         "parent": {
@@ -5697,6 +6160,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057505308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057505308",
         "name": "\u00a7 427",
         "title": "(weggefallen)",
         "parent": {
@@ -5710,6 +6174,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE066600301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE066600301",
         "name": "\u00a7 427a",
         "title": "Gleichstellung von Mutterschaftszeiten",
         "parent": {
@@ -5723,6 +6188,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057606308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057606308",
         "name": "\u00a7 428",
         "title": "Arbeitslosengeld unter erleichterten Voraussetzungen",
         "parent": {
@@ -5736,6 +6202,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057701308",
         "name": "\u00a7 429",
         "title": null,
         "parent": {
@@ -5749,6 +6216,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057802308",
         "name": "\u00a7 430",
         "title": "Sonstige Entgeltersatzleistungen",
         "parent": {
@@ -5762,6 +6230,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE057903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE057903308",
         "name": "\u00a7 431",
         "title": "(weggefallen)",
         "parent": {
@@ -5775,6 +6244,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE058001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE058001308",
         "name": "\u00a7 432",
         "title": "(weggefallen)",
         "parent": {
@@ -5788,6 +6258,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE058101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE058101308",
         "name": "\u00a7 433",
         "title": null,
         "parent": {
@@ -5801,6 +6272,7 @@
       {
         "type": "heading",
         "id": "BJNR059500997BJNG055802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNG055802308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "\u00dcbergangsregelungen auf Grund von \u00c4nderungsgesetzen",
         "parent": {
@@ -5811,6 +6283,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE058907308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE058907308",
         "name": "\u00a7 434",
         "title": "Gesetz zur Reform der Renten wegen verminderter Erwerbsf\u00e4higkeit",
         "parent": {
@@ -5824,6 +6297,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE062602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE062602308",
         "name": "\u00a7 435",
         "title": "Gesetz zur Vereinfachung der Wahl der Arbeitnehmervertreter in den Aufsichtsrat",
         "parent": {
@@ -5837,6 +6311,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE063801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE063801308",
         "name": "\u00a7 436",
         "title": "Zweites Gesetz f\u00fcr moderne Dienstleistungen am Arbeitsmarkt",
         "parent": {
@@ -5850,6 +6325,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE065404360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE065404360",
         "name": "\u00a7 437",
         "title": "Drittes Gesetz f\u00fcr moderne Dienstleistungen am Arbeitsmarkt",
         "parent": {
@@ -5863,6 +6339,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE066205119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE066205119",
         "name": "\u00a7 438",
         "title": "(weggefallen)",
         "parent": {
@@ -5876,6 +6353,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE067502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE067502308",
         "name": "\u00a7 439",
         "title": "Siebtes Gesetz zur \u00c4nderung des Dritten Buches<BR/> Sozialgesetzbuch und anderer Gesetze",
         "parent": {
@@ -5889,6 +6367,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE068403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE068403308",
         "name": "\u00a7 440",
         "title": "Gesetz zur Neuausrichtung der arbeitsmarktpolitischen Instrumente",
         "parent": {
@@ -5902,6 +6381,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE069101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE069101308",
         "name": "\u00a7 441",
         "title": "B\u00fcrgerentlastungsgesetz Krankenversicherung",
         "parent": {
@@ -5915,6 +6395,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE069701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE069701308",
         "name": "\u00a7 442",
         "title": "Besch\u00e4ftigungschancengesetz",
         "parent": {
@@ -5928,6 +6409,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE070201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE070201308",
         "name": "\u00a7 443",
         "title": "Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt",
         "parent": {
@@ -5941,6 +6423,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE074000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE074000308",
         "name": "\u00a7 444",
         "title": "Gesetz zu \u00c4nderungen im Bereich der geringf\u00fcgigen Besch\u00e4ftigung",
         "parent": {
@@ -5954,6 +6437,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE075300119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE075300119",
         "name": "\u00a7 444a",
         "title": "Gesetz zur St\u00e4rkung der beruflichen Weiterbildung und des Versicherungsschutzes in der Arbeitslosenversicherung",
         "parent": {
@@ -5967,6 +6451,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE074400119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE074400119",
         "name": "\u00a7 445",
         "title": "F\u00fcnfundzwanzigstes Gesetz zur \u00c4nderung des Bundesausbildungsf\u00f6rderungsgesetzes",
         "parent": {
@@ -5980,6 +6465,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE076300124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE076300124",
         "name": "\u00a7 445a",
         "title": "Gesetz zur Anpassung der Berufsausbildungsbeihilfe und des Ausbildungsgeldes",
         "parent": {
@@ -5993,6 +6479,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE074600301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE074600301",
         "name": "\u00a7 446",
         "title": "Zweites Gesetz zur St\u00e4rkung der pflegerischen Versorgung und zur \u00c4nderung weiterer Vorschriften",
         "parent": {
@@ -6006,6 +6493,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE076200126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE076200126",
         "name": "\u00a7 447",
         "title": "Gesetz zur St\u00e4rkung der Chancen f\u00fcr Qualifizierung und f\u00fcr mehr Schutz in der Arbeitslosenversicherung",
         "parent": {
@@ -6019,6 +6507,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE076400124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE076400124",
         "name": "\u00a7 448",
         "title": "Gesetz zur F\u00f6rderung der Ausbildung und Besch\u00e4ftigung von Ausl\u00e4nderinnen und Ausl\u00e4ndern",
         "parent": {
@@ -6032,6 +6521,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE077201126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE077201126",
         "name": "\u00a7 449",
         "title": "Gesetz zur Modernisierung und St\u00e4rkung der beruflichen Bildung",
         "parent": {
@@ -6045,6 +6535,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE077301126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE077301126",
         "name": "\u00a7 450",
         "title": "Gesetz zur F\u00f6rderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsf\u00f6rderung",
         "parent": {
@@ -6058,6 +6549,7 @@
       {
         "type": "article",
         "id": "BJNR059500997BJNE078500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_3/articles/BJNR059500997BJNE078500360",
         "name": "\u00a7 451",
         "title": "Siebtes Gesetz zur \u00c4nderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze",
         "parent": {

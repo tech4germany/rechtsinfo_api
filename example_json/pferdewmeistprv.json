@@ -32,6 +32,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000100000",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -42,6 +43,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000200000",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -52,6 +54,7 @@
       {
         "type": "heading",
         "id": "BJNR182500015BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeines",
         "parent": null
@@ -59,6 +62,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000300000",
         "name": "\u00a7 1",
         "title": "Ziel der Meisterpr\u00fcfung und Bezeichnung des Fortbildungsabschlusses",
         "parent": {
@@ -72,6 +76,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000400000",
         "name": "\u00a7 2",
         "title": "Fachrichtungen",
         "parent": {
@@ -85,6 +90,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000500000",
         "name": "\u00a7 3",
         "title": "Voraussetzungen f\u00fcr die Zulassung zur Pr\u00fcfung",
         "parent": {
@@ -98,6 +104,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000600000",
         "name": "\u00a7 4",
         "title": "Gliederung der Meisterpr\u00fcfung",
         "parent": {
@@ -111,6 +118,7 @@
       {
         "type": "heading",
         "id": "BJNR182500015BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Pr\u00fcfungsteil Pferdehaltung, Pferdeeinsatz, Pferdezucht und Dienstleistungen",
         "parent": null
@@ -118,6 +126,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000700000",
         "name": "\u00a7 5",
         "title": "Anforderungen und Pr\u00fcfungsinhalte",
         "parent": {
@@ -131,6 +140,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000800000",
         "name": "\u00a7 6",
         "title": "Struktur der Pr\u00fcfung",
         "parent": {
@@ -144,6 +154,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE000900000",
         "name": "\u00a7 7",
         "title": "Arbeitsprojekt",
         "parent": {
@@ -157,6 +168,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001000000",
         "name": "\u00a7 8",
         "title": "Schriftliche Pr\u00fcfung",
         "parent": {
@@ -170,6 +182,7 @@
       {
         "type": "heading",
         "id": "BJNR182500015BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Pr\u00fcfungsteil Betriebs- und Unternehmensf\u00fchrung",
         "parent": null
@@ -177,6 +190,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001100000",
         "name": "\u00a7 9",
         "title": "Anforderungen und Pr\u00fcfungsinhalte",
         "parent": {
@@ -190,6 +204,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001200000",
         "name": "\u00a7 10",
         "title": "Struktur der Pr\u00fcfung",
         "parent": {
@@ -203,6 +218,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001300000",
         "name": "\u00a7 11",
         "title": "Arbeitsprojekt",
         "parent": {
@@ -216,6 +232,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001400000",
         "name": "\u00a7 12",
         "title": "Schriftliche Pr\u00fcfung",
         "parent": {
@@ -229,6 +246,7 @@
       {
         "type": "heading",
         "id": "BJNR182500015BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Pr\u00fcfungsteil Berufsausbildung und Mitarbeiterf\u00fchrung",
         "parent": null
@@ -236,6 +254,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001500000",
         "name": "\u00a7 13",
         "title": "Anforderungen und Handlungsfelder",
         "parent": {
@@ -249,6 +268,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001600000",
         "name": "\u00a7 14",
         "title": "Struktur der Pr\u00fcfung",
         "parent": {
@@ -262,6 +282,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001700000",
         "name": "\u00a7 15",
         "title": "Praktischer Teil",
         "parent": {
@@ -275,6 +296,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001800000",
         "name": "\u00a7 16",
         "title": "Schriftlicher Teil",
         "parent": {
@@ -288,6 +310,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE001900000",
         "name": "\u00a7 17",
         "title": "Fallstudie",
         "parent": {
@@ -301,6 +324,7 @@
       {
         "type": "heading",
         "id": "BJNR182500015BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Befreiung von Pr\u00fcfungsleistungen, Bewertungen in den Pr\u00fcfungen, Bestehens- und Zeugnisregelungen",
         "parent": null
@@ -308,6 +332,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE002000000",
         "name": "\u00a7 18",
         "title": "Befreiung von Pr\u00fcfungsleistungen",
         "parent": {
@@ -321,6 +346,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE002100000",
         "name": "\u00a7 19",
         "title": "Bewertungen in den Pr\u00fcfungen",
         "parent": {
@@ -334,6 +360,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE002200000",
         "name": "\u00a7 20",
         "title": "Bestehen der Meisterpr\u00fcfung und Zeugnisse",
         "parent": {
@@ -347,6 +374,7 @@
       {
         "type": "heading",
         "id": "BJNR182500015BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNG000600000",
         "name": "Abschnitt 6",
         "title": "Erg\u00e4nzungs- und Wiederholungspr\u00fcfung",
         "parent": null
@@ -354,6 +382,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE002300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE002300000",
         "name": "\u00a7 21",
         "title": "M\u00fcndliche Erg\u00e4nzungspr\u00fcfung",
         "parent": {
@@ -367,6 +396,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE002400000",
         "name": "\u00a7 22",
         "title": "Wiederholung der Meisterpr\u00fcfung",
         "parent": {
@@ -380,6 +410,7 @@
       {
         "type": "heading",
         "id": "BJNR182500015BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNG000700000",
         "name": "Abschnitt 7",
         "title": "Schlussvorschriften",
         "parent": null
@@ -387,6 +418,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE002500000",
         "name": "\u00a7 23",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -400,6 +432,7 @@
       {
         "type": "article",
         "id": "BJNR182500015BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/pferdewmeistprv/articles/BJNR182500015BJNE002600000",
         "name": "\u00a7 24",
         "title": "Inkrafttreten, Au\u00dferkrafttreten",
         "parent": {

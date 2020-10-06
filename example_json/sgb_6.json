@@ -46,6 +46,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE065700126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE065700126",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -56,6 +57,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000101308",
         "name": "Erstes Kapitel",
         "title": "Versicherter Personenkreis",
         "parent": null
@@ -63,6 +65,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000201308",
         "name": "Erster Abschnitt",
         "title": "Versicherung kraft Gesetzes",
         "parent": {
@@ -73,6 +76,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE010417124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE010417124",
         "name": "\u00a7 1",
         "title": "Besch\u00e4ftigte",
         "parent": {
@@ -86,6 +90,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE010517308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE010517308",
         "name": "\u00a7 2",
         "title": "Selbst\u00e4ndig T\u00e4tige",
         "parent": {
@@ -99,6 +104,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE010627126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE010627126",
         "name": "\u00a7 3",
         "title": "Sonstige Versicherte",
         "parent": {
@@ -112,6 +118,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE010710119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE010710119",
         "name": "\u00a7 4",
         "title": "Versicherungspflicht auf Antrag",
         "parent": {
@@ -125,6 +132,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE010821119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE010821119",
         "name": "\u00a7 5",
         "title": "Versicherungsfreiheit",
         "parent": {
@@ -138,6 +146,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE010916124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE010916124",
         "name": "\u00a7 6",
         "title": "Befreiung von der Versicherungspflicht",
         "parent": {
@@ -151,6 +160,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000301308",
         "name": "Zweiter Abschnitt",
         "title": "Freiwillige Versicherung",
         "parent": {
@@ -161,6 +171,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011005119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011005119",
         "name": "\u00a7 7",
         "title": "Freiwillige Versicherung",
         "parent": {
@@ -174,6 +185,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000403308",
         "name": "Dritter Abschnitt",
         "title": "Nachversicherung,\nVersorgungsausgleich und Rentensplitting",
         "parent": {
@@ -184,6 +196,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011103308",
         "name": "\u00a7 8",
         "title": "Nachversicherung, Versorgungsausgleich und Rentensplitting",
         "parent": {
@@ -197,6 +210,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000501308",
         "name": "Zweites Kapitel",
         "title": "Leistungen",
         "parent": null
@@ -204,6 +218,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000602308",
         "name": "Erster Abschnitt",
         "title": "Leistungen zur Teilhabe",
         "parent": {
@@ -214,6 +229,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000701308",
         "name": "Erster Unterabschnitt",
         "title": "Voraussetzungen f\u00fcr\ndie Leistungen",
         "parent": {
@@ -224,6 +240,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011203119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011203119",
         "name": "\u00a7 9",
         "title": "Aufgabe der Leistungen zur Teilhabe",
         "parent": {
@@ -237,6 +254,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011306119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011306119",
         "name": "\u00a7 10",
         "title": "Pers\u00f6nliche Voraussetzungen",
         "parent": {
@@ -250,6 +268,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011408119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011408119",
         "name": "\u00a7 11",
         "title": "Versicherungsrechtliche Voraussetzungen",
         "parent": {
@@ -263,6 +282,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011504308",
         "name": "\u00a7 12",
         "title": "Ausschluss von Leistungen",
         "parent": {
@@ -276,6 +296,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000802308",
         "name": "Zweiter Unterabschnitt",
         "title": "Umfang der Leistungen",
         "parent": {
@@ -286,6 +307,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG000902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG000902308",
         "name": "Erster Titel",
         "title": "Allgemeines",
         "parent": {
@@ -296,6 +318,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011607119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011607119",
         "name": "\u00a7 13",
         "title": "Leistungsumfang",
         "parent": {
@@ -309,6 +332,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011704119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011704119",
         "name": "\u00a7 14",
         "title": "Leistungen zur Pr\u00e4vention",
         "parent": {
@@ -322,6 +346,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001003119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001003119",
         "name": "Zweiter Titel",
         "title": "Leistungen zur Pr\u00e4vention, zur medizinischen Rehabilitation, zur Teilhabe am Arbeitsleben und zur Nachsorge",
         "parent": {
@@ -332,6 +357,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011805119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011805119",
         "name": "\u00a7 15",
         "title": "Leistungen zur medizinischen Rehabilitation",
         "parent": {
@@ -345,6 +371,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063900119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063900119",
         "name": "\u00a7 15a",
         "title": "Leistungen zur Kinderrehabilitation",
         "parent": {
@@ -358,6 +385,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE011905126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE011905126",
         "name": "\u00a7 16",
         "title": "Leistungen zur Teilhabe am Arbeitsleben",
         "parent": {
@@ -371,6 +399,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE064000119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE064000119",
         "name": "\u00a7 17",
         "title": "Leistungen zur Nachsorge",
         "parent": {
@@ -384,6 +413,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE012004119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE012004119",
         "name": "(XXXX) \u00a7\u00a7 18 und 19",
         "title": "(weggefallen)",
         "parent": {
@@ -397,6 +427,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001101308",
         "name": "Dritter Titel",
         "title": "\u00dcbergangsgeld",
         "parent": {
@@ -407,6 +438,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE012317119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE012317119",
         "name": "\u00a7 20",
         "title": "Anspruch",
         "parent": {
@@ -420,6 +452,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE012413119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE012413119",
         "name": "\u00a7 21",
         "title": "H\u00f6he und Berechnung",
         "parent": {
@@ -433,6 +466,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE012502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE012502308",
         "name": "(XXXX) \u00a7\u00a7 22 bis 27",
         "title": "(weggefallen)",
         "parent": {
@@ -446,6 +480,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001201308",
         "name": "Vierter Titel",
         "title": "Erg\u00e4nzende Leistungen",
         "parent": {
@@ -456,6 +491,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013105124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013105124",
         "name": "\u00a7 28",
         "title": "Erg\u00e4nzende Leistungen",
         "parent": {
@@ -469,6 +505,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013203308",
         "name": "\u00a7 29",
         "title": null,
         "parent": {
@@ -482,6 +519,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013302308",
         "name": "\u00a7 30",
         "title": null,
         "parent": {
@@ -495,6 +533,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001301308",
         "name": "F\u00fcnfter Titel",
         "title": "Sonstige Leistungen",
         "parent": {
@@ -505,6 +544,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013411124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013411124",
         "name": "\u00a7 31",
         "title": "Sonstige Leistungen",
         "parent": {
@@ -518,6 +558,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001402308",
         "name": "Sechster Titel",
         "title": "Zuzahlung bei Leistungen\nzur medizinischen Rehabilitation und bei sonstigen Leistungen",
         "parent": {
@@ -528,6 +569,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013509119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013509119",
         "name": "\u00a7 32",
         "title": "Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen",
         "parent": {
@@ -541,6 +583,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001501308",
         "name": "Zweiter Abschnitt",
         "title": "Renten",
         "parent": {
@@ -551,6 +594,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001601308",
         "name": "Erster Unterabschnitt",
         "title": "Rentenarten und\nVoraussetzungen f\u00fcr einen Rentenanspruch",
         "parent": {
@@ -561,6 +605,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013616119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013616119",
         "name": "\u00a7 33",
         "title": "Rentenarten",
         "parent": {
@@ -574,6 +619,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013716119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013716119",
         "name": "\u00a7 34",
         "title": "Voraussetzungen f\u00fcr einen Rentenanspruch und Hinzuverdienstgrenze",
         "parent": {
@@ -587,6 +633,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001701308",
         "name": "Zweiter Unterabschnitt",
         "title": "Anspruchsvoraussetzungen\nf\u00fcr einzelne Renten",
         "parent": {
@@ -597,6 +644,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001801308",
         "name": "Erster Titel",
         "title": "Renten wegen Alters",
         "parent": {
@@ -607,6 +655,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013802301",
         "name": "\u00a7 35",
         "title": "Regelaltersrente",
         "parent": {
@@ -620,6 +669,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE013903301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE013903301",
         "name": "\u00a7 36",
         "title": "Altersrente f\u00fcr langj\u00e4hrig Versicherte",
         "parent": {
@@ -633,6 +683,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014006301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014006301",
         "name": "\u00a7 37",
         "title": "Altersrente f\u00fcr schwerbehinderte Menschen",
         "parent": {
@@ -646,6 +697,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053300301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053300301",
         "name": "\u00a7 38",
         "title": "Altersrente f\u00fcr besonders langj\u00e4hrig Versicherte",
         "parent": {
@@ -659,6 +711,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014105301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014105301",
         "name": "\u00a7 39",
         "title": "(weggefallen)",
         "parent": {
@@ -672,6 +725,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014302301",
         "name": "\u00a7 40",
         "title": "Altersrente f\u00fcr langj\u00e4hrig unter Tage besch\u00e4ftigte Bergleute",
         "parent": {
@@ -685,6 +739,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014409360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014409360",
         "name": "\u00a7 41",
         "title": "Altersrente und K\u00fcndigungsschutz",
         "parent": {
@@ -698,6 +753,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014502119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014502119",
         "name": "\u00a7 42",
         "title": "Vollrente und Teilrente",
         "parent": {
@@ -711,6 +767,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG001901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG001901308",
         "name": "Zweiter Titel",
         "title": "Renten wegen verminderter\nErwerbsf\u00e4higkeit",
         "parent": {
@@ -721,6 +778,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014611301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014611301",
         "name": "\u00a7 43",
         "title": "Rente wegen Erwerbsminderung",
         "parent": {
@@ -734,6 +792,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014706308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014706308",
         "name": "\u00a7 44",
         "title": null,
         "parent": {
@@ -747,6 +806,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014805301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014805301",
         "name": "\u00a7 45",
         "title": "Rente f\u00fcr Bergleute",
         "parent": {
@@ -760,6 +820,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002001308",
         "name": "Dritter Titel",
         "title": "Renten wegen Todes",
         "parent": {
@@ -770,6 +831,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE014907301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE014907301",
         "name": "\u00a7 46",
         "title": "Witwenrente und Witwerrente",
         "parent": {
@@ -783,6 +845,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015004301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015004301",
         "name": "\u00a7 47",
         "title": "Erziehungsrente",
         "parent": {
@@ -796,6 +859,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015106119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015106119",
         "name": "\u00a7 48",
         "title": "Waisenrente",
         "parent": {
@@ -809,6 +873,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015202119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015202119",
         "name": "\u00a7 49",
         "title": "Renten wegen Todes bei Verschollenheit",
         "parent": {
@@ -822,6 +887,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002101308",
         "name": "Vierter Titel",
         "title": "Wartezeiterf\u00fcllung",
         "parent": {
@@ -832,6 +898,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015309301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015309301",
         "name": "\u00a7 50",
         "title": "Wartezeiten",
         "parent": {
@@ -845,6 +912,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015410124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015410124",
         "name": "\u00a7 51",
         "title": "Anrechenbare Zeiten",
         "parent": {
@@ -858,6 +926,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015509119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015509119",
         "name": "\u00a7 52",
         "title": "Wartezeiterf\u00fcllung durch Versorgungsausgleich, Rentensplitting und Zuschl\u00e4ge an Entgeltpunkten f\u00fcr Arbeitsentgelt aus geringf\u00fcgiger Besch\u00e4ftigung",
         "parent": {
@@ -871,6 +940,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015609308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015609308",
         "name": "\u00a7 53",
         "title": "Vorzeitige Wartezeiterf\u00fcllung",
         "parent": {
@@ -884,6 +954,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002201308",
         "name": "F\u00fcnfter Titel",
         "title": "Rentenrechtliche Zeiten",
         "parent": {
@@ -894,6 +965,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015703308",
         "name": "\u00a7 54",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -907,6 +979,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015803308",
         "name": "\u00a7 55",
         "title": "Beitragszeiten",
         "parent": {
@@ -920,6 +993,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE015908126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE015908126",
         "name": "\u00a7 56",
         "title": "Kindererziehungszeiten",
         "parent": {
@@ -933,6 +1007,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016003308",
         "name": "\u00a7 57",
         "title": "Ber\u00fccksichtigungszeiten",
         "parent": {
@@ -946,6 +1021,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016126124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016126124",
         "name": "\u00a7 58",
         "title": "Anrechnungszeiten",
         "parent": {
@@ -959,6 +1035,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016207126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016207126",
         "name": "\u00a7 59",
         "title": "Zurechnungszeit",
         "parent": {
@@ -972,6 +1049,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016302308",
         "name": "\u00a7 60",
         "title": "Zuordnung beitragsfreier Zeiten zur\nknappschaftlichen Rentenversicherung",
         "parent": {
@@ -985,6 +1063,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016402308",
         "name": "\u00a7 61",
         "title": "St\u00e4ndige Arbeiten unter Tage",
         "parent": {
@@ -998,6 +1077,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016501308",
         "name": "\u00a7 62",
         "title": "Schadenersatz bei rentenrechtlichen Zeiten",
         "parent": {
@@ -1011,6 +1091,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002301308",
         "name": "Dritter Unterabschnitt",
         "title": "Rentenh\u00f6he und\nRentenanpassung",
         "parent": {
@@ -1021,6 +1102,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002401308",
         "name": "Erster Titel",
         "title": "Grunds\u00e4tze",
         "parent": {
@@ -1031,6 +1113,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016607308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016607308",
         "name": "\u00a7 63",
         "title": "Grunds\u00e4tze",
         "parent": {
@@ -1044,6 +1127,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002501308",
         "name": "Zweiter Titel",
         "title": "Berechnung und Anpassung\nder Renten",
         "parent": {
@@ -1054,6 +1138,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016701308",
         "name": "\u00a7 64",
         "title": "Rentenformel f\u00fcr Monatsbetrag der Rente",
         "parent": {
@@ -1067,6 +1152,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016801308",
         "name": "\u00a7 65",
         "title": "Anpassung der Renten",
         "parent": {
@@ -1080,6 +1166,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE016920119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE016920119",
         "name": "\u00a7 66",
         "title": "Pers\u00f6nliche Entgeltpunkte",
         "parent": {
@@ -1093,6 +1180,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017005308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017005308",
         "name": "\u00a7 67",
         "title": "Rentenartfaktor",
         "parent": {
@@ -1106,6 +1194,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017112126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017112126",
         "name": "\u00a7 68",
         "title": "Aktueller Rentenwert",
         "parent": {
@@ -1119,6 +1208,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053403308",
         "name": "\u00a7 68a",
         "title": "Schutzklausel",
         "parent": {
@@ -1132,6 +1222,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017306308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017306308",
         "name": "\u00a7 69",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1145,6 +1236,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002601308",
         "name": "Dritter Titel",
         "title": "Ermittlung der pers\u00f6nlichen\nEntgeltpunkte",
         "parent": {
@@ -1155,6 +1247,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017411126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017411126",
         "name": "\u00a7 70",
         "title": "Entgeltpunkte f\u00fcr Beitragszeiten",
         "parent": {
@@ -1168,6 +1261,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017510308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017510308",
         "name": "\u00a7 71",
         "title": "Entgeltpunkte f\u00fcr beitragsfreie und beitragsgeminderte\nZeiten (Gesamtleistungsbewertung)",
         "parent": {
@@ -1181,6 +1275,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017607308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017607308",
         "name": "\u00a7 72",
         "title": "Grundbewertung",
         "parent": {
@@ -1194,6 +1289,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017702360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017702360",
         "name": "\u00a7 73",
         "title": "Vergleichsbewertung",
         "parent": {
@@ -1207,6 +1303,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017812119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017812119",
         "name": "\u00a7 74",
         "title": "Begrenzte Gesamtleistungsbewertung",
         "parent": {
@@ -1220,6 +1317,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE017909308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE017909308",
         "name": "\u00a7 75",
         "title": "Entgeltpunkte f\u00fcr Zeiten nach Rentenbeginn",
         "parent": {
@@ -1233,6 +1331,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018004308",
         "name": "\u00a7 76",
         "title": "Zuschl\u00e4ge oder Abschl\u00e4ge beim Versorgungsausgleich",
         "parent": {
@@ -1246,6 +1345,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052903308",
         "name": "\u00a7 76a",
         "title": "Zuschl\u00e4ge an Entgeltpunkten aus Zahlung von Beitr\u00e4gen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters oder bei Abfindungen einer Anwartschaft auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse",
         "parent": {
@@ -1259,6 +1359,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056005119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056005119",
         "name": "\u00a7 76b",
         "title": "Zuschl\u00e4ge an Entgeltpunkten f\u00fcr Arbeitsentgelt aus geringf\u00fcgiger Besch\u00e4ftigung",
         "parent": {
@@ -1272,6 +1373,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE057002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE057002308",
         "name": "\u00a7 76c",
         "title": "Zuschl\u00e4ge oder Abschl\u00e4ge beim Rentensplitting",
         "parent": {
@@ -1285,6 +1387,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE059801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE059801308",
         "name": "\u00a7 76d",
         "title": "Zuschl\u00e4ge an Entgeltpunkten aus Beitr\u00e4gen nach Beginn einer Rente wegen Alters",
         "parent": {
@@ -1298,6 +1401,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062400308",
         "name": "\u00a7 76e",
         "title": "Zuschl\u00e4ge an Entgeltpunkten f\u00fcr Zeiten einer besonderen Auslandsverwendung",
         "parent": {
@@ -1311,6 +1415,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063500119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063500119",
         "name": "\u00a7 76f",
         "title": "Zuschl\u00e4ge an Entgeltpunkten f\u00fcr nachversicherte Soldaten auf Zeit",
         "parent": {
@@ -1324,6 +1429,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018107119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018107119",
         "name": "\u00a7 77",
         "title": "Zugangsfaktor",
         "parent": {
@@ -1337,6 +1443,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018201308",
         "name": "\u00a7 78",
         "title": "Zuschlag bei Waisenrenten",
         "parent": {
@@ -1350,6 +1457,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE057104124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE057104124",
         "name": "\u00a7 78a",
         "title": "Zuschlag bei Witwenrenten und Witwerrenten",
         "parent": {
@@ -1363,6 +1471,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002701308",
         "name": "Vierter Titel",
         "title": "Knappschaftliche\nBesonderheiten",
         "parent": {
@@ -1373,6 +1482,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018301308",
         "name": "\u00a7 79",
         "title": "Grundsatz",
         "parent": {
@@ -1386,6 +1496,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018402308",
         "name": "\u00a7 80",
         "title": "Monatsbetrag der Rente",
         "parent": {
@@ -1399,6 +1510,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018504308",
         "name": "\u00a7 81",
         "title": "Pers\u00f6nliche Entgeltpunkte",
         "parent": {
@@ -1412,6 +1524,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018605308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018605308",
         "name": "\u00a7 82",
         "title": "Rentenartfaktor",
         "parent": {
@@ -1425,6 +1538,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018707308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018707308",
         "name": "\u00a7 83",
         "title": "Entgeltpunkte f\u00fcr Beitragszeiten",
         "parent": {
@@ -1438,6 +1552,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018803308",
         "name": "\u00a7 84",
         "title": "Entgeltpunkte f\u00fcr beitragsfreie und\nbeitragsgeminderte Zeiten (Gesamtleistungsbewertung)",
         "parent": {
@@ -1451,6 +1566,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE018904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE018904308",
         "name": "\u00a7 85",
         "title": "Entgeltpunkte f\u00fcr st\u00e4ndige Arbeiten unter Tage\n(Leistungszuschlag)",
         "parent": {
@@ -1464,6 +1580,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019005308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019005308",
         "name": "\u00a7 86",
         "title": "(weggefallen)",
         "parent": {
@@ -1477,6 +1594,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019205301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019205301",
         "name": "\u00a7 86a",
         "title": "Zugangsfaktor",
         "parent": {
@@ -1490,6 +1608,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019102308",
         "name": "\u00a7 87",
         "title": "Zuschlag bei Waisenrenten",
         "parent": {
@@ -1503,6 +1622,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002801308",
         "name": "F\u00fcnfter Titel",
         "title": "Ermittlung des Monatsbetrags\nder Rente in Sonderf\u00e4llen",
         "parent": {
@@ -1513,6 +1633,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056403308",
         "name": "\u00a7 88",
         "title": "Pers\u00f6nliche Entgeltpunkte bei Folgerenten",
         "parent": {
@@ -1526,6 +1647,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE057201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE057201308",
         "name": "\u00a7 88a",
         "title": "H\u00f6chstbetrag bei Witwenrenten und Witwerrenten",
         "parent": {
@@ -1539,6 +1661,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG002901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG002901308",
         "name": "Vierter Unterabschnitt",
         "title": "Zusammentreffen\nvon Renten und Einkommen",
         "parent": {
@@ -1549,6 +1672,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019316126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019316126",
         "name": "\u00a7 89",
         "title": "Mehrere Rentenanspr\u00fcche",
         "parent": {
@@ -1562,6 +1686,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019404308",
         "name": "\u00a7 90",
         "title": "Witwenrente und Witwerrente nach dem\nvorletzten Ehegatten und Anspr\u00fcche infolge\nAufl\u00f6sung der letzten Ehe",
         "parent": {
@@ -1575,6 +1700,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019501308",
         "name": "\u00a7 91",
         "title": "Aufteilung von Witwenrenten und Witwerrenten\nauf mehrere Berechtigte",
         "parent": {
@@ -1588,6 +1714,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019602308",
         "name": "\u00a7 92",
         "title": "Waisenrente und andere Leistungen an Waisen",
         "parent": {
@@ -1601,6 +1728,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019725308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019725308",
         "name": "\u00a7 93",
         "title": "Rente und Leistungen aus der Unfallversicherung",
         "parent": {
@@ -1614,6 +1742,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019805301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019805301",
         "name": "\u00a7 94",
         "title": "(weggefallen)",
         "parent": {
@@ -1627,6 +1756,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE019906308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE019906308",
         "name": "\u00a7 95",
         "title": "(weggefallen)",
         "parent": {
@@ -1640,6 +1770,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020001308",
         "name": "\u00a7 96",
         "title": "Nachversicherte Versorgungsbezieher",
         "parent": {
@@ -1653,6 +1784,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052616119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052616119",
         "name": "\u00a7 96a",
         "title": "Rente wegen verminderter Erwerbsf\u00e4higkeit und Hinzuverdienst",
         "parent": {
@@ -1666,6 +1798,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020106119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020106119",
         "name": "\u00a7 97",
         "title": "Einkommensanrechnung auf Renten wegen Todes",
         "parent": {
@@ -1679,6 +1812,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020208301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020208301",
         "name": "\u00a7 98",
         "title": "Reihenfolge bei der Anwendung von\nBerechnungsvorschriften",
         "parent": {
@@ -1692,6 +1826,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003001308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Beginn, \u00c4nderung\nund Ende von Renten",
         "parent": {
@@ -1702,6 +1837,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020301308",
         "name": "\u00a7 99",
         "title": "Beginn",
         "parent": {
@@ -1715,6 +1851,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020407119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020407119",
         "name": "\u00a7 100",
         "title": "\u00c4nderung und Ende",
         "parent": {
@@ -1728,6 +1865,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020506119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020506119",
         "name": "\u00a7 101",
         "title": "Beginn und \u00c4nderung in Sonderf\u00e4llen",
         "parent": {
@@ -1741,6 +1879,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020607119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020607119",
         "name": "\u00a7 102",
         "title": "Befristung und Tod",
         "parent": {
@@ -1754,6 +1893,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003101308",
         "name": "Sechster Unterabschnitt",
         "title": "Ausschluss und\nMinderung von Renten",
         "parent": {
@@ -1764,6 +1904,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020705308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020705308",
         "name": "\u00a7 103",
         "title": "Absichtliche Minderung der Erwerbsf\u00e4higkeit",
         "parent": {
@@ -1777,6 +1918,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020806308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020806308",
         "name": "\u00a7 104",
         "title": "Minderung der Erwerbsf\u00e4higkeit bei einer\nStraftat",
         "parent": {
@@ -1790,6 +1932,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE020903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE020903308",
         "name": "\u00a7 105",
         "title": "T\u00f6tung eines Angeh\u00f6rigen",
         "parent": {
@@ -1803,6 +1946,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003201308",
         "name": "Dritter Abschnitt",
         "title": "Zusatzleistungen",
         "parent": {
@@ -1813,6 +1957,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021011126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021011126",
         "name": "\u00a7 106",
         "title": "Zuschuss zur Krankenversicherung",
         "parent": {
@@ -1826,6 +1971,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021103308",
         "name": "\u00a7 107",
         "title": "Rentenabfindung",
         "parent": {
@@ -1839,6 +1985,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021202119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021202119",
         "name": "\u00a7 108",
         "title": "Beginn, \u00c4nderung und Ende von Zusatzleistungen",
         "parent": {
@@ -1852,6 +1999,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003303308",
         "name": "Vierter Abschnitt",
         "title": "Serviceleistungen",
         "parent": {
@@ -1862,6 +2010,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021314124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021314124",
         "name": "\u00a7 109",
         "title": "Renteninformation und Rentenauskunft",
         "parent": {
@@ -1875,6 +2024,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058106308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058106308",
         "name": "\u00a7 109a",
         "title": "Hilfen in Angelegenheiten der Grundsicherung",
         "parent": {
@@ -1888,6 +2038,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003402308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Leistungen an Berechtigte\nim Ausland",
         "parent": {
@@ -1898,6 +2049,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021402308",
         "name": "\u00a7 110",
         "title": "Grundsatz",
         "parent": {
@@ -1911,6 +2063,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021504301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021504301",
         "name": "\u00a7 111",
         "title": "Rehabilitationsleistungen und\nKrankenversicherungszuschuss",
         "parent": {
@@ -1924,6 +2077,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021605308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021605308",
         "name": "\u00a7 112",
         "title": "Renten bei verminderter Erwerbsf\u00e4higkeit",
         "parent": {
@@ -1937,6 +2091,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021721119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021721119",
         "name": "\u00a7 113",
         "title": "H\u00f6he der Rente",
         "parent": {
@@ -1950,6 +2105,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021810377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021810377",
         "name": "\u00a7 114",
         "title": "Besonderheiten",
         "parent": {
@@ -1963,6 +2119,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003501308",
         "name": "Sechster Abschnitt",
         "title": "Durchf\u00fchrung",
         "parent": {
@@ -1973,6 +2130,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003601308",
         "name": "Erster Unterabschnitt",
         "title": "Beginn und Abschluss\ndes Verfahrens",
         "parent": {
@@ -1983,6 +2141,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE021906119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE021906119",
         "name": "\u00a7 115",
         "title": "Beginn",
         "parent": {
@@ -1996,6 +2155,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022006308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022006308",
         "name": "\u00a7 116",
         "title": "Besonderheiten bei Leistungen zur Teilhabe",
         "parent": {
@@ -2009,6 +2169,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022101308",
         "name": "\u00a7 117",
         "title": "Abschluss",
         "parent": {
@@ -2022,6 +2183,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003701308",
         "name": "Zweiter Unterabschnitt",
         "title": "Auszahlung und\nAnpassung",
         "parent": {
@@ -2032,6 +2194,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022211308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022211308",
         "name": "\u00a7 118",
         "title": "F\u00e4lligkeit und Auszahlung",
         "parent": {
@@ -2045,6 +2208,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062700308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062700308",
         "name": "\u00a7 118a",
         "title": "Anpassungsmitteilung",
         "parent": {
@@ -2058,6 +2222,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022310124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022310124",
         "name": "\u00a7 119",
         "title": "Wahrnehmung von Aufgaben durch die Deutsche Post AG",
         "parent": {
@@ -2071,6 +2236,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022406124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022406124",
         "name": "\u00a7 120",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2084,6 +2250,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010702308",
         "name": "Dritter Unterabschnitt",
         "title": "Rentensplitting",
         "parent": {
@@ -2094,6 +2261,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE057306119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE057306119",
         "name": "\u00a7 120a",
         "title": "Grunds\u00e4tze f\u00fcr das Rentensplitting unter Ehegatten",
         "parent": {
@@ -2107,6 +2275,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE057403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE057403308",
         "name": "\u00a7 120b",
         "title": "Tod eines Ehegatten vor Empfang angemessener Leistungen",
         "parent": {
@@ -2120,6 +2289,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE057504126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE057504126",
         "name": "\u00a7 120c",
         "title": "Ab\u00e4nderung des Rentensplittings unter Ehegatten",
         "parent": {
@@ -2133,6 +2303,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053600301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053600301",
         "name": "\u00a7 120d",
         "title": "Verfahren und Zust\u00e4ndigkeit",
         "parent": {
@@ -2146,6 +2317,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE060502119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE060502119",
         "name": "\u00a7 120e",
         "title": "Rentensplitting unter Lebenspartnern",
         "parent": {
@@ -2159,6 +2331,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG011100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG011100308",
         "name": "Vierter Unterabschnitt",
         "title": "Besonderheiten beim Versorgungsausgleich",
         "parent": {
@@ -2169,6 +2342,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061701119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061701119",
         "name": "\u00a7 120f",
         "title": "Interne Teilung und Verrechnung von Anrechten",
         "parent": {
@@ -2182,6 +2356,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061800308",
         "name": "\u00a7 120g",
         "title": "Externe Teilung",
         "parent": {
@@ -2195,6 +2370,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061900308",
         "name": "\u00a7 120h",
         "title": "Abzuschmelzende Anrechte",
         "parent": {
@@ -2208,6 +2384,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003803308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Berechnungsgrunds\u00e4tze",
         "parent": {
@@ -2218,6 +2395,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022501308",
         "name": "\u00a7 121",
         "title": "Allgemeine Berechnungsgrunds\u00e4tze",
         "parent": {
@@ -2231,6 +2409,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022601308",
         "name": "\u00a7 122",
         "title": "Berechnung von Zeiten",
         "parent": {
@@ -2244,6 +2423,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022702308",
         "name": "\u00a7 123",
         "title": "Berechnung von Geldbetr\u00e4gen",
         "parent": {
@@ -2257,6 +2437,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022801308",
         "name": "\u00a7 124",
         "title": "Berechnung von Durchschnittswerten und Rententeilen",
         "parent": {
@@ -2270,6 +2451,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG003903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG003903308",
         "name": "Drittes Kapitel",
         "title": "Organisation, Datenschutz und Datensicherheit",
         "parent": null
@@ -2277,6 +2459,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004002308",
         "name": "Erster Abschnitt",
         "title": "Organisation",
         "parent": {
@@ -2287,6 +2470,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004102308",
         "name": "Erster Unterabschnitt",
         "title": "Deutsche Rentenversicherung",
         "parent": {
@@ -2297,6 +2481,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE022903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE022903308",
         "name": "\u00a7 125",
         "title": "Tr\u00e4ger der gesetzlichen Rentenversicherung",
         "parent": {
@@ -2310,6 +2495,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004202308",
         "name": "Zweiter Unterabschnitt",
         "title": "Zust\u00e4ndigkeit in der allgemeinen\nRentenversicherung",
         "parent": {
@@ -2320,6 +2506,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023004308",
         "name": "\u00a7 126",
         "title": "Zust\u00e4ndigkeit der Tr\u00e4ger der Rentenversicherung",
         "parent": {
@@ -2333,6 +2520,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023105126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023105126",
         "name": "\u00a7 127",
         "title": "Zust\u00e4ndigkeit f\u00fcr Versicherte und Hinterbliebene",
         "parent": {
@@ -2346,6 +2534,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062103126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062103126",
         "name": "\u00a7 127a",
         "title": "Verbindungsstelle f\u00fcr Leistungen bei Invalidit\u00e4t, bei Alter und an Hinterbliebene sowie f\u00fcr Vorruhestandsleistungen",
         "parent": {
@@ -2359,6 +2548,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023207124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023207124",
         "name": "\u00a7 128",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit der Regionaltr\u00e4ger",
         "parent": {
@@ -2372,6 +2562,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062200308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062200308",
         "name": "\u00a7 128a",
         "title": "Sonderzust\u00e4ndigkeit der Deutschen Rentenversicherung Saarland",
         "parent": {
@@ -2385,6 +2576,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023302308",
         "name": "\u00a7 129",
         "title": "Zust\u00e4ndigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See f\u00fcr\nVersicherte",
         "parent": {
@@ -2398,6 +2590,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023403308",
         "name": "\u00a7 130",
         "title": "Sonderzust\u00e4ndigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See",
         "parent": {
@@ -2411,6 +2604,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023505308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023505308",
         "name": "\u00a7 131",
         "title": "Auskunfts- und Beratungsstellen",
         "parent": {
@@ -2424,6 +2618,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004302308",
         "name": "Dritter Unterabschnitt",
         "title": "Zust\u00e4ndigkeit in der\nknappschaftlichen Rentenversicherung",
         "parent": {
@@ -2434,6 +2629,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023602308",
         "name": "\u00a7 132",
         "title": "Versicherungstr\u00e4ger",
         "parent": {
@@ -2447,6 +2643,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023702308",
         "name": "\u00a7 133",
         "title": "Zust\u00e4ndigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See f\u00fcr\nBesch\u00e4ftigte",
         "parent": {
@@ -2460,6 +2657,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023805308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023805308",
         "name": "\u00a7 134",
         "title": "Knappschaftliche Betriebe und Arbeiten",
         "parent": {
@@ -2473,6 +2671,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE023904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE023904308",
         "name": "\u00a7 135",
         "title": "Nachversicherung",
         "parent": {
@@ -2486,6 +2685,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024003308",
         "name": "\u00a7 136",
         "title": "Sonderzust\u00e4ndigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See",
         "parent": {
@@ -2499,6 +2699,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062300308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062300308",
         "name": "\u00a7 136a",
         "title": "Verbindungsstelle f\u00fcr Leistungen bei Invalidit\u00e4t, bei Alter und an Hinterbliebene der knappschaftlichen Rentenversicherung",
         "parent": {
@@ -2512,6 +2713,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024102308",
         "name": "\u00a7 137",
         "title": "Besonderheit bei der Durchf\u00fchrung der Versicherung und bei den\nLeistungen",
         "parent": {
@@ -2525,6 +2727,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG011000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG011000308",
         "name": "Unterabschnitt 3a",
         "title": "Zust\u00e4ndigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See f\u00fcr die Seemannskasse",
         "parent": {
@@ -2535,6 +2738,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061200308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061200308",
         "name": "\u00a7 137a",
         "title": "Zust\u00e4ndigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See f\u00fcr die Seemannskasse",
         "parent": {
@@ -2548,6 +2752,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061302119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061302119",
         "name": "\u00a7 137b",
         "title": "Besonderheiten bei den Leistungen und bei der Durchf\u00fchrung der Versicherung",
         "parent": {
@@ -2561,6 +2766,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061400308",
         "name": "\u00a7 137c",
         "title": "Verm\u00f6gen, Haftung",
         "parent": {
@@ -2574,6 +2780,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061500308",
         "name": "\u00a7 137d",
         "title": "Organe",
         "parent": {
@@ -2587,6 +2794,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061600308",
         "name": "\u00a7 137e",
         "title": "Beirat",
         "parent": {
@@ -2600,6 +2808,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004402308",
         "name": "Vierter Unterabschnitt",
         "title": "Grundsatz- und Querschnittsaufgaben der Deutschen\nRentenversicherung, Erweitertes Direktorium",
         "parent": {
@@ -2610,6 +2819,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024206308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024206308",
         "name": "\u00a7 138",
         "title": "Grundsatz- und Querschnittsaufgaben der Deutschen Rentenversicherung",
         "parent": {
@@ -2623,6 +2833,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024304308",
         "name": "\u00a7 139",
         "title": "Erweitertes Direktorium",
         "parent": {
@@ -2636,6 +2847,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024404308",
         "name": "\u00a7 140",
         "title": "Arbeitsgruppe Personalvertretung der Deutschen Rentenversicherung",
         "parent": {
@@ -2649,6 +2861,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004502308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Vereinigung von\nRegionaltr\u00e4gern",
         "parent": {
@@ -2659,6 +2872,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024504308",
         "name": "\u00a7 141",
         "title": "Vereinigung von Regionaltr\u00e4gern auf Beschluss ihrer\nVertreterversammlungen",
         "parent": {
@@ -2672,6 +2886,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024603308",
         "name": "\u00a7 142",
         "title": "Vereinigung von Regionaltr\u00e4gern durch Rechtsverordnung",
         "parent": {
@@ -2685,6 +2900,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004602308",
         "name": "Sechster Unterabschnitt",
         "title": "Besch\u00e4ftigte der\nVersicherungstr\u00e4ger",
         "parent": {
@@ -2695,6 +2911,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024710308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024710308",
         "name": "\u00a7 143",
         "title": "Bundesunmittelbare Versicherungstr\u00e4ger",
         "parent": {
@@ -2708,6 +2925,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024804308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024804308",
         "name": "\u00a7 144",
         "title": "Landesunmittelbare Versicherungstr\u00e4ger",
         "parent": {
@@ -2721,6 +2939,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004703119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004703119",
         "name": "Siebter Unterabschnitt",
         "title": "Datenstelle der Rentenversicherung",
         "parent": {
@@ -2731,6 +2950,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE024910126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE024910126",
         "name": "\u00a7 145",
         "title": "Aufgaben der Datenstelle der Rentenversicherung",
         "parent": {
@@ -2744,6 +2964,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025006308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025006308",
         "name": "\u00a7 146",
         "title": null,
         "parent": {
@@ -2757,6 +2978,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004802308",
         "name": "Zweiter Abschnitt",
         "title": "Datenschutz und Datensicherheit",
         "parent": {
@@ -2767,6 +2989,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025103119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025103119",
         "name": "\u00a7 147",
         "title": "Versicherungsnummer",
         "parent": {
@@ -2780,6 +3003,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025217124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025217124",
         "name": "\u00a7 148",
         "title": "Datenverarbeitung beim Rentenversicherungstr\u00e4ger",
         "parent": {
@@ -2793,6 +3017,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025307126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025307126",
         "name": "\u00a7 149",
         "title": "Versicherungskonto",
         "parent": {
@@ -2806,6 +3031,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025426126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025426126",
         "name": "\u00a7 150",
         "title": "Dateisysteme bei der Datenstelle",
         "parent": {
@@ -2819,6 +3045,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025504126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025504126",
         "name": "\u00a7 151",
         "title": "Ausk\u00fcnfte der Deutschen Post AG",
         "parent": {
@@ -2832,6 +3059,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058604124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058604124",
         "name": "\u00a7 151a",
         "title": "Antragstellung im automatisierten Verfahren beim Versicherungsamt",
         "parent": {
@@ -2845,6 +3073,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025606308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025606308",
         "name": "\u00a7 152",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2858,6 +3087,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG004901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG004901308",
         "name": "Viertes Kapitel",
         "title": "Finanzierung",
         "parent": null
@@ -2865,6 +3095,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005001308",
         "name": "Erster Abschnitt",
         "title": "Finanzierungsgrundsatz und\nRentenversicherungsbericht",
         "parent": {
@@ -2875,6 +3106,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005101308",
         "name": "Erster Unterabschnitt",
         "title": "Umlageverfahren",
         "parent": {
@@ -2885,6 +3117,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025706308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025706308",
         "name": "\u00a7 153",
         "title": "Umlageverfahren",
         "parent": {
@@ -2898,6 +3131,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005201308",
         "name": "Zweiter Unterabschnitt",
         "title": "Rentenversicherungsbericht\nund Sozialbeirat",
         "parent": {
@@ -2908,6 +3142,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025819126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025819126",
         "name": "\u00a7 154",
         "title": "Rentenversicherungsbericht, Stabilisierung des Beitragssatzes und Sicherung des Rentenniveaus",
         "parent": {
@@ -2921,6 +3156,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE025902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE025902308",
         "name": "\u00a7 155",
         "title": "Aufgabe des Sozialbeirats",
         "parent": {
@@ -2934,6 +3170,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026007308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026007308",
         "name": "\u00a7 156",
         "title": "Zusammensetzung des Sozialbeirats",
         "parent": {
@@ -2947,6 +3184,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005301308",
         "name": "Zweiter Abschnitt",
         "title": "Beitr\u00e4ge und Verfahren",
         "parent": {
@@ -2957,6 +3195,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005401308",
         "name": "Erster Unterabschnitt",
         "title": "Beitr\u00e4ge",
         "parent": {
@@ -2967,6 +3206,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005501308",
         "name": "Erster Titel",
         "title": "Allgemeines",
         "parent": {
@@ -2977,6 +3217,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026101308",
         "name": "\u00a7 157",
         "title": "Grundsatz",
         "parent": {
@@ -2990,6 +3231,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026210308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026210308",
         "name": "\u00a7 158",
         "title": "Beitragss\u00e4tze",
         "parent": {
@@ -3003,6 +3245,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026304308",
         "name": "\u00a7 159",
         "title": "Beitragsbemessungsgrenzen",
         "parent": {
@@ -3016,6 +3259,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026402308",
         "name": "\u00a7 160",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3029,6 +3273,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005601308",
         "name": "Zweiter Titel",
         "title": "Beitragsbemessungsgrundlagen",
         "parent": {
@@ -3039,6 +3284,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026501308",
         "name": "\u00a7 161",
         "title": "Grundsatz",
         "parent": {
@@ -3052,6 +3298,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026615126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026615126",
         "name": "\u00a7 162",
         "title": "Beitragspflichtige Einnahmen Besch\u00e4ftigter",
         "parent": {
@@ -3065,6 +3312,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE060809126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE060809126",
         "name": "\u00a7 163",
         "title": "Sonderregelung f\u00fcr beitragspflichtige Einnahmen Besch\u00e4ftigter",
         "parent": {
@@ -3078,6 +3326,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026802308",
         "name": "\u00a7 164",
         "title": null,
         "parent": {
@@ -3091,6 +3340,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE026917119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE026917119",
         "name": "\u00a7 165",
         "title": "Beitragspflichtige Einnahmen selbst\u00e4ndig T\u00e4tiger",
         "parent": {
@@ -3104,6 +3354,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063605126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063605126",
         "name": "\u00a7 166",
         "title": "Beitragspflichtige Einnahmen sonstiger Versicherter",
         "parent": {
@@ -3117,6 +3368,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027105308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027105308",
         "name": "\u00a7 167",
         "title": "Freiwillig Versicherte",
         "parent": {
@@ -3130,6 +3382,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005701308",
         "name": "Dritter Titel",
         "title": "Verteilung der Beitragslast",
         "parent": {
@@ -3140,6 +3393,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027226126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027226126",
         "name": "\u00a7 168",
         "title": "Beitragstragung bei Besch\u00e4ftigten",
         "parent": {
@@ -3153,6 +3407,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027303308",
         "name": "\u00a7 169",
         "title": "Beitragstragung bei selbst\u00e4ndig T\u00e4tigen",
         "parent": {
@@ -3166,6 +3421,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027429119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027429119",
         "name": "\u00a7 170",
         "title": "Beitragstragung bei sonstigen Versicherten",
         "parent": {
@@ -3179,6 +3435,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027501308",
         "name": "\u00a7 171",
         "title": "Freiwillig Versicherte",
         "parent": {
@@ -3192,6 +3449,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027611119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027611119",
         "name": "\u00a7 172",
         "title": "Arbeitgeberanteil bei Versicherungsfreiheit und Befreiung von der Versicherungspflicht",
         "parent": {
@@ -3205,6 +3463,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062800308",
         "name": "\u00a7 172a",
         "title": "Beitragszusch\u00fcsse des Arbeitgebers f\u00fcr Mitglieder berufsst\u00e4ndischer Versorgungseinrichtungen",
         "parent": {
@@ -3218,6 +3477,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005801308",
         "name": "Vierter Titel",
         "title": "Zahlung der Beitr\u00e4ge",
         "parent": {
@@ -3228,6 +3488,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027707308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027707308",
         "name": "\u00a7 173",
         "title": "Grundsatz",
         "parent": {
@@ -3241,6 +3502,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027805119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027805119",
         "name": "\u00a7 174",
         "title": "Beitragszahlung aus dem Arbeitsentgelt und Arbeitseinkommen",
         "parent": {
@@ -3254,6 +3516,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE027902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE027902308",
         "name": "\u00a7 175",
         "title": "Beitragszahlung bei K\u00fcnstlern und Publizisten",
         "parent": {
@@ -3267,6 +3530,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028005119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028005119",
         "name": "\u00a7 176",
         "title": "Beitragszahlung und Abrechnung bei Bezug von Sozialleistungen, bei Leistungen im Eingangsverfahren und im Berufsbildungsbereich anerkannter Werkst\u00e4tten f\u00fcr behinderte Menschen",
         "parent": {
@@ -3280,6 +3544,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052302308",
         "name": "\u00a7 176a",
         "title": "Beitragszahlung und Abrechnung bei Pflegepersonen",
         "parent": {
@@ -3293,6 +3558,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028109126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028109126",
         "name": "\u00a7 177",
         "title": "Beitragszahlung f\u00fcr Kindererziehungszeiten",
         "parent": {
@@ -3306,6 +3572,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028210308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028210308",
         "name": "\u00a7 178",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3319,6 +3586,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG005901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG005901308",
         "name": "F\u00fcnfter Titel",
         "title": "Erstattungen",
         "parent": {
@@ -3329,6 +3597,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028308119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028308119",
         "name": "\u00a7 179",
         "title": "Erstattung von Aufwendungen",
         "parent": {
@@ -3342,6 +3611,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028407119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028407119",
         "name": "\u00a7 180",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3355,6 +3625,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006001308",
         "name": "Sechster Titel",
         "title": "Nachversicherung",
         "parent": {
@@ -3365,6 +3636,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028508119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028508119",
         "name": "\u00a7 181",
         "title": "Berechnung und Tragung der Beitr\u00e4ge",
         "parent": {
@@ -3378,6 +3650,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028602119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028602119",
         "name": "\u00a7 182",
         "title": "Zusammentreffen mit vorhandenen Beitr\u00e4gen",
         "parent": {
@@ -3391,6 +3664,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028703308",
         "name": "\u00a7 183",
         "title": "Erh\u00f6hung und Minderung der Beitr\u00e4ge bei\nVersorgungsausgleich",
         "parent": {
@@ -3404,6 +3678,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028804308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028804308",
         "name": "\u00a7 184",
         "title": "F\u00e4lligkeit der Beitr\u00e4ge und Aufschub",
         "parent": {
@@ -3417,6 +3692,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE028906119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE028906119",
         "name": "\u00a7 185",
         "title": "Zahlung der Beitr\u00e4ge und Wirkung der Beitragszahlung",
         "parent": {
@@ -3430,6 +3706,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029003308",
         "name": "\u00a7 186",
         "title": "Zahlung an eine berufsst\u00e4ndische Versorgungseinrichtung",
         "parent": {
@@ -3443,6 +3720,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062500308",
         "name": "\u00a7 186a",
         "title": "Zeiten einer besonderen Auslandsverwendung im Nachversicherungszeitraum",
         "parent": {
@@ -3456,6 +3734,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006103308",
         "name": "Siebter Titel",
         "title": "Zahlung von Beitr\u00e4gen in\nbesonderen F\u00e4llen",
         "parent": {
@@ -3466,6 +3745,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029112119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029112119",
         "name": "\u00a7 187",
         "title": "Zahlung von Beitr\u00e4gen und Ermittlung von Entgeltpunkten aus Beitr\u00e4gen beim Versorgungsausgleich",
         "parent": {
@@ -3479,6 +3759,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053006124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053006124",
         "name": "\u00a7 187a",
         "title": "Zahlung von Beitr\u00e4gen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters",
         "parent": {
@@ -3492,6 +3773,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053704119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053704119",
         "name": "\u00a7 187b",
         "title": "Zahlung von Beitr\u00e4gen bei Abfindungen von Anwartschaften auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse",
         "parent": {
@@ -3505,6 +3787,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029204308",
         "name": "\u00a7 188",
         "title": "Beitragszahlung f\u00fcr Zeiten einer besonderen Auslandsverwendung",
         "parent": {
@@ -3518,6 +3801,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006201308",
         "name": "Achter Titel",
         "title": "Berechnungsgrunds\u00e4tze",
         "parent": {
@@ -3528,6 +3812,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029301308",
         "name": "\u00a7 189",
         "title": "Berechnungsgrunds\u00e4tze",
         "parent": {
@@ -3541,6 +3826,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006301308",
         "name": "Zweiter Unterabschnitt",
         "title": "Verfahren",
         "parent": {
@@ -3551,6 +3837,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006401308",
         "name": "Erster Titel",
         "title": "Meldungen",
         "parent": {
@@ -3561,6 +3848,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029401308",
         "name": "\u00a7 190",
         "title": "Meldepflichten bei Besch\u00e4ftigten und Hausgewerbetreibenden",
         "parent": {
@@ -3574,6 +3862,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056804119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056804119",
         "name": "\u00a7 190a",
         "title": "Meldepflicht von versicherungspflichtigen selbst\u00e4ndig T\u00e4tigen",
         "parent": {
@@ -3587,6 +3876,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029507119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029507119",
         "name": "\u00a7 191",
         "title": "Meldepflichten bei sonstigen versicherungspflichtigen Personen",
         "parent": {
@@ -3600,6 +3890,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029606119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029606119",
         "name": "\u00a7 192",
         "title": "Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst",
         "parent": {
@@ -3613,6 +3904,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062600308",
         "name": "\u00a7 192a",
         "title": "Meldepflicht f\u00fcr Zeiten einer besonderen Auslandsverwendung",
         "parent": {
@@ -3626,6 +3918,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029704308",
         "name": "\u00a7 193",
         "title": "Meldung von sonstigen rechtserheblichen Zeiten",
         "parent": {
@@ -3639,6 +3932,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029806126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029806126",
         "name": "\u00a7 194",
         "title": "Gesonderte Meldung und Hochrechnung",
         "parent": {
@@ -3652,6 +3946,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE029904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE029904308",
         "name": "\u00a7 195",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3665,6 +3960,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006501308",
         "name": "Zweiter Titel",
         "title": "Auskunfts- und\nMitteilungspflichten",
         "parent": {
@@ -3675,6 +3971,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030119124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030119124",
         "name": "\u00a7 196",
         "title": "Auskunfts- und Mitteilungspflichten",
         "parent": {
@@ -3688,6 +3985,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063402124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063402124",
         "name": "\u00a7 196a",
         "title": "(weggefallen)",
         "parent": {
@@ -3701,6 +3999,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006601308",
         "name": "Dritter Titel",
         "title": "Wirksamkeit der\nBeitragszahlung",
         "parent": {
@@ -3711,6 +4010,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030201308",
         "name": "\u00a7 197",
         "title": "Wirksamkeit von Beitr\u00e4gen",
         "parent": {
@@ -3724,6 +4024,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030302308",
         "name": "\u00a7 198",
         "title": "Neubeginn und Hemmung von Fristen",
         "parent": {
@@ -3737,6 +4038,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030404308",
         "name": "\u00a7 199",
         "title": "Vermutung der Beitragszahlung",
         "parent": {
@@ -3750,6 +4052,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030502308",
         "name": "\u00a7 200",
         "title": "\u00c4nderung der Beitragsberechnungsgrundlagen",
         "parent": {
@@ -3763,6 +4066,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030602308",
         "name": "\u00a7 201",
         "title": "Beitr\u00e4ge an nicht zust\u00e4ndige Tr\u00e4ger der\nRentenversicherung",
         "parent": {
@@ -3776,6 +4080,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030701308",
         "name": "\u00a7 202",
         "title": "Irrt\u00fcmliche Pflichtbeitragszahlung",
         "parent": {
@@ -3789,6 +4094,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030801308",
         "name": "\u00a7 203",
         "title": "Glaubhaftmachung der Beitragszahlung",
         "parent": {
@@ -3802,6 +4108,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006701308",
         "name": "Vierter Titel",
         "title": "Nachzahlung",
         "parent": {
@@ -3812,6 +4119,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE030901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE030901308",
         "name": "\u00a7 204",
         "title": "Nachzahlung von Beitr\u00e4gen bei Ausscheiden aus einer\ninternationalen Organisation",
         "parent": {
@@ -3825,6 +4133,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031001308",
         "name": "\u00a7 205",
         "title": "Nachzahlung bei Strafverfolgungsma\u00dfnahmen",
         "parent": {
@@ -3838,6 +4147,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031102308",
         "name": "\u00a7 206",
         "title": "Nachzahlung f\u00fcr Geistliche und Ordensleute",
         "parent": {
@@ -3851,6 +4161,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031203308",
         "name": "\u00a7 207",
         "title": "Nachzahlung f\u00fcr Ausbildungszeiten",
         "parent": {
@@ -3864,6 +4175,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031304308",
         "name": "\u00a7 208",
         "title": "(weggefallen)",
         "parent": {
@@ -3877,6 +4189,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031401308",
         "name": "\u00a7 209",
         "title": "Berechtigung und Beitragsberechnung zur Nachzahlung",
         "parent": {
@@ -3890,6 +4203,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006801308",
         "name": "F\u00fcnfter Titel",
         "title": "Beitragserstattung\nund Beitrags\u00fcberwachung",
         "parent": {
@@ -3900,6 +4214,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031511119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031511119",
         "name": "\u00a7 210",
         "title": "Beitragserstattung",
         "parent": {
@@ -3913,6 +4228,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031602119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031602119",
         "name": "\u00a7 211",
         "title": "Sonderregelung bei der Zust\u00e4ndigkeit zu Unrecht gezahlter Beitr\u00e4ge",
         "parent": {
@@ -3926,6 +4242,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031704308",
         "name": "\u00a7 212",
         "title": "Beitrags\u00fcberwachung",
         "parent": {
@@ -3939,6 +4256,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE059904126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE059904126",
         "name": "\u00a7 212a",
         "title": "Pr\u00fcfung der Beitragszahlungen und Meldungen f\u00fcr sonstige Versicherte, Nachversicherte und f\u00fcr Zeiten einer besonderen Auslandsverwendung",
         "parent": {
@@ -3952,6 +4270,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE060000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE060000308",
         "name": "\u00a7 212b",
         "title": "Pr\u00fcfung der Beitragszahlung bei versicherungspflichtigen Selbst\u00e4ndigen",
         "parent": {
@@ -3965,6 +4284,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG006901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG006901308",
         "name": "Dritter Abschnitt",
         "title": "Beteiligung des Bundes,\nFinanzbeziehungen und Erstattungen",
         "parent": {
@@ -3975,6 +4295,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007001308",
         "name": "Erster Unterabschnitt",
         "title": "Beteiligung des\nBundes",
         "parent": {
@@ -3985,6 +4306,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031819126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031819126",
         "name": "\u00a7 213",
         "title": "Zusch\u00fcsse des Bundes",
         "parent": {
@@ -3998,6 +4320,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE031903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE031903308",
         "name": "\u00a7 214",
         "title": "Liquidit\u00e4tssicherung",
         "parent": {
@@ -4011,6 +4334,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE060102126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE060102126",
         "name": "\u00a7 214a",
         "title": "Liquidit\u00e4tserfassung",
         "parent": {
@@ -4024,6 +4348,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032001308",
         "name": "\u00a7 215",
         "title": "Beteiligung des Bundes in der knappschaftlichen\nRentenversicherung",
         "parent": {
@@ -4037,6 +4362,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007102308",
         "name": "Zweiter Unterabschnitt",
         "title": "Nachhaltigkeitsr\u00fccklage\nund Finanzausgleich",
         "parent": {
@@ -4047,6 +4373,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032103308",
         "name": "\u00a7 216",
         "title": "Nachhaltigkeitsr\u00fccklage",
         "parent": {
@@ -4060,6 +4387,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032204308",
         "name": "\u00a7 217",
         "title": "Anlage der Nachhaltigkeitsr\u00fccklage",
         "parent": {
@@ -4073,6 +4401,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032306308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032306308",
         "name": "\u00a7 218",
         "title": null,
         "parent": {
@@ -4086,6 +4415,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032405126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032405126",
         "name": "\u00a7 219",
         "title": "Finanzverbund in der allgemeinen Rentenversicherung",
         "parent": {
@@ -4099,6 +4429,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032507308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032507308",
         "name": "\u00a7 220",
         "title": "Aufwendungen f\u00fcr Leistungen zur Teilhabe, Verwaltung und Verfahren",
         "parent": {
@@ -4112,6 +4443,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032604308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032604308",
         "name": "\u00a7 221",
         "title": "Ausgaben f\u00fcr das Anlageverm\u00f6gen",
         "parent": {
@@ -4125,6 +4457,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032705308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032705308",
         "name": "\u00a7 222",
         "title": "Erm\u00e4chtigung",
         "parent": {
@@ -4138,6 +4471,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007201308",
         "name": "Dritter Unterabschnitt",
         "title": "Erstattungen",
         "parent": {
@@ -4148,6 +4482,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032808119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032808119",
         "name": "\u00a7 223",
         "title": "Wanderversicherungsausgleich und Wanderungsausgleich",
         "parent": {
@@ -4161,6 +4496,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE032907126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE032907126",
         "name": "\u00a7 224",
         "title": "Erstattung durch die Bundesagentur f\u00fcr Arbeit",
         "parent": {
@@ -4174,6 +4510,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058408126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058408126",
         "name": "\u00a7 224a",
         "title": "Tragung pauschalierter Beitr\u00e4ge f\u00fcr Renten wegen voller Erwerbsminderung",
         "parent": {
@@ -4187,6 +4524,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE061002126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE061002126",
         "name": "\u00a7 224b",
         "title": "Erstattung f\u00fcr Begutachtung in Angelegenheiten der Grundsicherung",
         "parent": {
@@ -4200,6 +4538,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033005308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033005308",
         "name": "\u00a7 225",
         "title": "Erstattung durch den Tr\u00e4ger der Versorgungslast",
         "parent": {
@@ -4213,6 +4552,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033107308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033107308",
         "name": "\u00a7 226",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -4226,6 +4566,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007301308",
         "name": "Vierter Unterabschnitt",
         "title": "Abrechnung der\nAufwendungen",
         "parent": {
@@ -4236,6 +4577,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033204126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033204126",
         "name": "\u00a7 227",
         "title": "Abrechnung der Aufwendungen",
         "parent": {
@@ -4249,6 +4591,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007401308",
         "name": "F\u00fcnftes Kapitel",
         "title": "Sonderregelungen",
         "parent": null
@@ -4256,6 +4599,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007501308",
         "name": "Erster Abschnitt",
         "title": "Erg\u00e4nzungen f\u00fcr Sonderf\u00e4lle",
         "parent": {
@@ -4266,6 +4610,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007601308",
         "name": "Erster Unterabschnitt",
         "title": "Grundsatz",
         "parent": {
@@ -4276,6 +4621,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033302308",
         "name": "\u00a7 228",
         "title": "Grundsatz",
         "parent": {
@@ -4289,6 +4635,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043609119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043609119",
         "name": "\u00a7 228a",
         "title": "Besonderheiten f\u00fcr das Beitrittsgebiet",
         "parent": {
@@ -4302,6 +4649,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043703119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043703119",
         "name": "\u00a7 228b",
         "title": "Ma\u00dfgebende Werte in der Anpassungsphase",
         "parent": {
@@ -4315,6 +4663,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007701308",
         "name": "Zweiter Unterabschnitt",
         "title": "Versicherter\nPersonenkreis",
         "parent": {
@@ -4325,6 +4674,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033421124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033421124",
         "name": "\u00a7 229",
         "title": "Versicherungspflicht",
         "parent": {
@@ -4338,6 +4688,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043803308",
         "name": "\u00a7 229a",
         "title": "Versicherungspflicht im Beitrittsgebiet",
         "parent": {
@@ -4351,6 +4702,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033510119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033510119",
         "name": "\u00a7 230",
         "title": "Versicherungsfreiheit",
         "parent": {
@@ -4364,6 +4716,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033613119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033613119",
         "name": "\u00a7 231",
         "title": "Befreiung von der Versicherungspflicht",
         "parent": {
@@ -4377,6 +4730,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043903308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043903308",
         "name": "\u00a7 231a",
         "title": "Befreiung von der Versicherungspflicht im Beitrittsgebiet",
         "parent": {
@@ -4390,6 +4744,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033704119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033704119",
         "name": "\u00a7 232",
         "title": "Freiwillige Versicherung",
         "parent": {
@@ -4403,6 +4758,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE033803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE033803308",
         "name": "\u00a7 233",
         "title": "Nachversicherung",
         "parent": {
@@ -4416,6 +4772,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044003308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044003308",
         "name": "\u00a7 233a",
         "title": "Nachversicherung im Beitrittsgebiet",
         "parent": {
@@ -4429,6 +4786,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007804308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007804308",
         "name": "Dritter Unterabschnitt",
         "title": "Teilhabe",
         "parent": {
@@ -4439,6 +4797,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034007308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034007308",
         "name": "\u00a7 234",
         "title": "\u00dcbergangsgeldanspruch und -berechnung bei Arbeitslosenhilfe",
         "parent": {
@@ -4452,6 +4811,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058801301",
         "name": "\u00a7 234a",
         "title": "\u00dcbergangsgeldanspruch und -berechnung bei Unterhaltsgeldbezug",
         "parent": {
@@ -4465,6 +4825,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG007902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG007902301",
         "name": "Vierter Unterabschnitt",
         "title": "Anspruchsvoraussetzungen\nf\u00fcr einzelne Renten",
         "parent": {
@@ -4475,6 +4836,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053700301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053700301",
         "name": "\u00a7 235",
         "title": "Regelaltersrente",
         "parent": {
@@ -4488,6 +4850,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034105301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034105301",
         "name": "\u00a7 236",
         "title": "Altersrente f\u00fcr langj\u00e4hrig Versicherte",
         "parent": {
@@ -4501,6 +4864,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053806301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053806301",
         "name": "\u00a7 236a",
         "title": "Altersrente f\u00fcr schwerbehinderte Menschen",
         "parent": {
@@ -4514,6 +4878,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063300360",
         "name": "\u00a7 236b",
         "title": "Altersrente f\u00fcr besonders langj\u00e4hrig Versicherte",
         "parent": {
@@ -4527,6 +4892,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034220119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034220119",
         "name": "\u00a7 237",
         "title": "Altersrente wegen Arbeitslosigkeit oder nach Altersteilzeitarbeit",
         "parent": {
@@ -4540,6 +4906,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053102308",
         "name": "\u00a7 237a",
         "title": "Altersrente f\u00fcr Frauen",
         "parent": {
@@ -4553,6 +4920,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034304124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034304124",
         "name": "\u00a7 238",
         "title": "Altersrente f\u00fcr langj\u00e4hrig unter Tage besch\u00e4ftigte Bergleute",
         "parent": {
@@ -4566,6 +4934,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034406119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034406119",
         "name": "\u00a7 239",
         "title": "Knappschaftsausgleichsleistung",
         "parent": {
@@ -4579,6 +4948,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034510301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034510301",
         "name": "\u00a7 240",
         "title": "Rente wegen teilweiser Erwerbsminderung bei Berufsunf\u00e4higkeit",
         "parent": {
@@ -4592,6 +4962,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034607119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034607119",
         "name": "\u00a7 241",
         "title": "Rente wegen Erwerbsminderung",
         "parent": {
@@ -4605,6 +4976,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034704124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034704124",
         "name": "\u00a7 242",
         "title": "Rente f\u00fcr Bergleute",
         "parent": {
@@ -4618,6 +4990,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056503301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056503301",
         "name": "\u00a7 242a",
         "title": "Witwenrente und Witwerrente",
         "parent": {
@@ -4631,6 +5004,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034807301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034807301",
         "name": "\u00a7 243",
         "title": "Witwenrente und Witwerrente an vor dem 1. Juli 1977 geschiedene Ehegatten",
         "parent": {
@@ -4644,6 +5018,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044201308",
         "name": "\u00a7 243a",
         "title": "Rente wegen Todes an vor dem 1. Juli 1977 geschiedene\nEhegatten im Beitrittsgebiet",
         "parent": {
@@ -4657,6 +5032,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE054004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE054004308",
         "name": "\u00a7 243b",
         "title": "Wartezeit",
         "parent": {
@@ -4670,6 +5046,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE034907124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE034907124",
         "name": "\u00a7 244",
         "title": "Anrechenbare Zeiten",
         "parent": {
@@ -4683,6 +5060,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062900308",
         "name": "\u00a7 244a",
         "title": "Wartezeiterf\u00fcllung durch Zuschl\u00e4ge an Entgeltpunkten f\u00fcr Arbeitsentgelt aus geringf\u00fcgiger versicherungsfreier Besch\u00e4ftigung",
         "parent": {
@@ -4696,6 +5074,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035007308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035007308",
         "name": "\u00a7 245",
         "title": "Vorzeitige Wartezeiterf\u00fcllung",
         "parent": {
@@ -4709,6 +5088,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044301308",
         "name": "\u00a7 245a",
         "title": "Wartezeiterf\u00fcllung bei fr\u00fcherem Anspruch auf Hinterbliebenenrente im\nBeitrittsgebiet",
         "parent": {
@@ -4722,6 +5102,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035102308",
         "name": "\u00a7 246",
         "title": "Beitragsgeminderte Zeiten",
         "parent": {
@@ -4735,6 +5116,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035204308",
         "name": "\u00a7 247",
         "title": "Beitragszeiten",
         "parent": {
@@ -4748,6 +5130,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035308308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035308308",
         "name": "\u00a7 248",
         "title": "Beitragszeiten im Beitrittsgebiet und im Saarland",
         "parent": {
@@ -4761,6 +5144,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035409126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035409126",
         "name": "\u00a7 249",
         "title": "Beitragszeiten wegen Kindererziehung",
         "parent": {
@@ -4774,6 +5158,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044405308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044405308",
         "name": "\u00a7 249a",
         "title": "Beitragszeiten wegen Kindererziehung\nim Beitrittsgebiet",
         "parent": {
@@ -4787,6 +5172,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052401308",
         "name": "\u00a7 249b",
         "title": "Ber\u00fccksichtigungszeiten wegen Pflege",
         "parent": {
@@ -4800,6 +5186,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035503308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035503308",
         "name": "\u00a7 250",
         "title": "Ersatzzeiten",
         "parent": {
@@ -4813,6 +5200,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035602308",
         "name": "\u00a7 251",
         "title": "Ersatzzeiten bei Handwerkern",
         "parent": {
@@ -4826,6 +5214,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035716126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035716126",
         "name": "\u00a7 252",
         "title": "Anrechnungszeiten",
         "parent": {
@@ -4839,6 +5228,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044506308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044506308",
         "name": "\u00a7 252a",
         "title": "Anrechnungszeiten im Beitrittsgebiet",
         "parent": {
@@ -4852,6 +5242,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035803308",
         "name": "\u00a7 253",
         "title": "Pauschale Anrechnungszeit",
         "parent": {
@@ -4865,6 +5256,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE054106126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE054106126",
         "name": "\u00a7 253a",
         "title": "Zurechnungszeit",
         "parent": {
@@ -4878,6 +5270,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE035902126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE035902126",
         "name": "\u00a7 254",
         "title": "Zuordnung beitragsfreier Zeiten zur knappschaftlichen Rentenversicherung",
         "parent": {
@@ -4891,6 +5284,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044601308",
         "name": "\u00a7 254a",
         "title": "St\u00e4ndige Arbeiten unter Tage im Beitrittsgebiet",
         "parent": {
@@ -4904,6 +5298,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008002308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Rentenh\u00f6he und Rentenanpassung",
         "parent": {
@@ -4914,6 +5309,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044705119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044705119",
         "name": "\u00a7 254b",
         "title": "Rentenformel f\u00fcr den Monatsbetrag der Rente",
         "parent": {
@@ -4927,6 +5323,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044802308",
         "name": "\u00a7 254c",
         "title": "Anpassung der Renten",
         "parent": {
@@ -4940,6 +5337,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE044917124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE044917124",
         "name": "\u00a7 254d",
         "title": "Entgeltpunkte (Ost)",
         "parent": {
@@ -4953,6 +5351,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036005308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036005308",
         "name": "\u00a7 255",
         "title": "Rentenartfaktor",
         "parent": {
@@ -4966,6 +5365,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE045012119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE045012119",
         "name": "\u00a7 255a",
         "title": "Bestimmung des aktuellen Rentenwerts (Ost) f\u00fcr die Zeit vom 1. Juli 2018 bis zum 1. Juli 2023",
         "parent": {
@@ -4979,6 +5379,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE045105119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE045105119",
         "name": "\u00a7 255b",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -4992,6 +5393,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056204119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056204119",
         "name": "\u00a7 255c",
         "title": "Anwendung des aktuellen Rentenwerts zum 1. Juli 2024",
         "parent": {
@@ -5005,6 +5407,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056905119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056905119",
         "name": "\u00a7 255d",
         "title": "Bestimmung des aktuellen Rentenwerts f\u00fcr die Zeit vom 1. Juli 2018 bis zum 1. Juli 2026",
         "parent": {
@@ -5018,6 +5421,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE057609126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE057609126",
         "name": "\u00a7 255e",
         "title": "Niveauschutzklausel f\u00fcr die Zeit vom 1. Juli 2019 bis zum 1. Juli 2025",
         "parent": {
@@ -5031,6 +5435,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE057707126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE057707126",
         "name": "\u00a7 255f",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -5044,6 +5449,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE060703126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE060703126",
         "name": "\u00a7 255g",
         "title": "Ausgleichsbedarf bis zum 30. Juni 2026",
         "parent": {
@@ -5057,6 +5463,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036107308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036107308",
         "name": "\u00a7 256",
         "title": "Entgeltpunkte f\u00fcr Beitragszeiten",
         "parent": {
@@ -5070,6 +5477,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE045213126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE045213126",
         "name": "\u00a7 256a",
         "title": "Entgeltpunkte f\u00fcr Beitragszeiten im Beitrittsgebiet",
         "parent": {
@@ -5083,6 +5491,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE045304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE045304308",
         "name": "\u00a7 256b",
         "title": "Entgeltpunkte f\u00fcr glaubhaft gemachte Beitragszeiten",
         "parent": {
@@ -5096,6 +5505,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052702308",
         "name": "\u00a7 256c",
         "title": "Entgeltpunkte f\u00fcr nachgewiesene Beitragszeiten\nohne Beitragsbemessungsgrundlage",
         "parent": {
@@ -5109,6 +5519,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE054202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE054202308",
         "name": "\u00a7 256d",
         "title": "(weggefallen)",
         "parent": {
@@ -5122,6 +5533,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036202308",
         "name": "\u00a7 257",
         "title": "Entgeltpunkte f\u00fcr Berliner Beitragszeiten",
         "parent": {
@@ -5135,6 +5547,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036301308",
         "name": "\u00a7 258",
         "title": "Entgeltpunkte f\u00fcr saarl\u00e4ndische\nBeitragszeiten",
         "parent": {
@@ -5148,6 +5561,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036403308",
         "name": "\u00a7 259",
         "title": "Entgeltpunkte f\u00fcr Beitragszeiten mit\nSachbezug",
         "parent": {
@@ -5161,6 +5575,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE045904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE045904308",
         "name": "\u00a7 259a",
         "title": "Besonderheiten f\u00fcr Versicherte der\nGeburtsjahrg\u00e4nge vor 1937",
         "parent": {
@@ -5174,6 +5589,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046002308",
         "name": "\u00a7 259b",
         "title": "Besonderheiten bei Zugeh\u00f6rigkeit zu einem Zusatz- oder\nSonderversorgungssystem",
         "parent": {
@@ -5187,6 +5603,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046101308",
         "name": "\u00a7 259c",
         "title": null,
         "parent": {
@@ -5200,6 +5617,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036503308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036503308",
         "name": "\u00a7 260",
         "title": "Beitragsbemessungsgrenzen",
         "parent": {
@@ -5213,6 +5631,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036601308",
         "name": "\u00a7 261",
         "title": "Beitragszeiten ohne Entgeltpunkte",
         "parent": {
@@ -5226,6 +5645,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036702308",
         "name": "\u00a7 262",
         "title": "Mindestentgeltpunkte bei geringem\nArbeitsentgelt",
         "parent": {
@@ -5239,6 +5659,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036808301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036808301",
         "name": "\u00a7 263",
         "title": "Gesamtleistungsbewertung f\u00fcr beitragsfreie und beitragsgeminderte Zeiten",
         "parent": {
@@ -5252,6 +5673,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046201308",
         "name": "\u00a7 263a",
         "title": "Gesamtleistungsbewertung f\u00fcr beitragsfreie und beitragsgeminderte\nZeiten mit Entgeltpunkten (Ost)",
         "parent": {
@@ -5265,6 +5687,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE036901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE036901308",
         "name": "\u00a7 264",
         "title": "Zuschl\u00e4ge oder Abschl\u00e4ge beim Versorgungsausgleich",
         "parent": {
@@ -5278,6 +5701,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046303308",
         "name": "\u00a7 264a",
         "title": "Zuschl\u00e4ge oder Abschl\u00e4ge beim Versorgungsausgleich im Beitrittsgebiet",
         "parent": {
@@ -5291,6 +5715,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063000308",
         "name": "\u00a7 264b",
         "title": "Zuschl\u00e4ge an Entgeltpunkten f\u00fcr Arbeitsentgelt aus geringf\u00fcgiger versicherungsfreier Besch\u00e4ftigung",
         "parent": {
@@ -5304,6 +5729,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046403308",
         "name": "\u00a7 264c",
         "title": "Zuschlag bei Hinterbliebenenrenten",
         "parent": {
@@ -5317,6 +5743,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE054305308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE054305308",
         "name": "\u00a7 264d",
         "title": "Zugangsfaktor",
         "parent": {
@@ -5330,6 +5757,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037006301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037006301",
         "name": "\u00a7 265",
         "title": "Knappschaftliche Besonderheiten",
         "parent": {
@@ -5343,6 +5771,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046504308",
         "name": "\u00a7 265a",
         "title": "Knappschaftliche Besonderheiten bei rentenrechtlichen Zeiten im Beitrittsgebiet",
         "parent": {
@@ -5356,6 +5785,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046602308",
         "name": "\u00a7 265b",
         "title": null,
         "parent": {
@@ -5369,6 +5799,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008103308",
         "name": "Sechster Unterabschnitt",
         "title": "Zusammentreffen von\nRenten und Einkommen",
         "parent": {
@@ -5379,6 +5810,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037102308",
         "name": "\u00a7 266",
         "title": "Erh\u00f6hung des Grenzbetrags",
         "parent": {
@@ -5392,6 +5824,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037204308",
         "name": "\u00a7 267",
         "title": "Rente und Leistungen aus der\nUnfallversicherung",
         "parent": {
@@ -5405,6 +5838,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008202308",
         "name": "Siebter Unterabschnitt",
         "title": "Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli\n1977 geschiedene Ehegatten und \u00c4nderung von Renten beim\nVersorgungsausgleich",
         "parent": {
@@ -5415,6 +5849,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037301308",
         "name": "\u00a7 268",
         "title": "Beginn von Witwenrenten und Witwerrenten\nan vor dem 1. Juli 1977 geschiedene Ehegatten",
         "parent": {
@@ -5428,6 +5863,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE060601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE060601308",
         "name": "\u00a7 268a",
         "title": "\u00c4nderung von Renten beim Versorgungsausgleich",
         "parent": {
@@ -5441,6 +5877,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008301308",
         "name": "Achter Unterabschnitt",
         "title": "Zusatzleistungen",
         "parent": {
@@ -5451,6 +5888,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037403308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037403308",
         "name": "\u00a7 269",
         "title": "Steigerungsbetr\u00e4ge",
         "parent": {
@@ -5464,6 +5902,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE059302119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE059302119",
         "name": "\u00a7 269a",
         "title": "(weggefallen)",
         "parent": {
@@ -5477,6 +5916,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058002308",
         "name": "\u00a7 269b",
         "title": "Rentenabfindung bei Wiederheirat von Witwen und Witwern",
         "parent": {
@@ -5490,6 +5930,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037504119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037504119",
         "name": "\u00a7 270",
         "title": "(weggefallen)",
         "parent": {
@@ -5503,6 +5944,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046703308",
         "name": "\u00a7 270a",
         "title": null,
         "parent": {
@@ -5516,6 +5958,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008404308",
         "name": "Neunter Unterabschnitt",
         "title": "Leistungen an Berechtigte\nim Ausland und Auszahlung",
         "parent": {
@@ -5526,6 +5969,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056601308",
         "name": "\u00a7 270b",
         "title": "Rente wegen teilweiser Erwerbsminderung bei Berufsunf\u00e4higkeit",
         "parent": {
@@ -5539,6 +5983,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037602308",
         "name": "\u00a7 271",
         "title": "H\u00f6he der Rente",
         "parent": {
@@ -5552,6 +5997,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037708377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037708377",
         "name": "\u00a7 272",
         "title": "Besonderheiten",
         "parent": {
@@ -5565,6 +6011,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE059400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE059400308",
         "name": "\u00a7 272a",
         "title": "F\u00e4lligkeit und Auszahlung laufender Geldleistungen bei Beginn vor dem\n1. April 2004",
         "parent": {
@@ -5578,6 +6025,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008502308",
         "name": "Zehnter Unterabschnitt",
         "title": "Organisation,\nDatenverarbeitung und Datenschutz",
         "parent": {
@@ -5588,6 +6036,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010401308",
         "name": "Erster Titel",
         "title": "Organisation",
         "parent": {
@@ -5598,6 +6047,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037805308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037805308",
         "name": "\u00a7 273",
         "title": "Zust\u00e4ndigkeit der Deutschen Rentenversicherung\nKnappschaft-Bahn-See",
         "parent": {
@@ -5611,6 +6061,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046803126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046803126",
         "name": "\u00a7 273a",
         "title": "Zust\u00e4ndigkeit in Zweifelsf\u00e4llen",
         "parent": {
@@ -5624,6 +6075,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052102308",
         "name": "\u00a7 273b",
         "title": null,
         "parent": {
@@ -5637,6 +6089,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010502308",
         "name": "Zweiter Titel",
         "title": "Datenverarbeitung und Datenschutz",
         "parent": {
@@ -5647,6 +6100,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE037904126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE037904126",
         "name": "\u00a7 274",
         "title": "Dateisysteme bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971",
         "parent": {
@@ -5660,6 +6114,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE046903126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE046903126",
         "name": "\u00a7 274a",
         "title": "Verarbeitung von Sozialdaten im Zusammenhang mit dem Anpassungsgeld nach \u00a7 57 des Kohleverstromungsbeendigungsgesetzes",
         "parent": {
@@ -5673,6 +6128,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051802308",
         "name": "\u00a7 274b",
         "title": null,
         "parent": {
@@ -5686,6 +6142,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010800308",
         "name": "Dritter Titel",
         "title": "\u00dcbergangsvorschriften zur Zust\u00e4ndigkeit der Rentenversicherungstr\u00e4ger",
         "parent": {
@@ -5696,6 +6153,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE060202119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE060202119",
         "name": "\u00a7 274c",
         "title": "Ausgleichsverfahren",
         "parent": {
@@ -5709,6 +6167,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE060301119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE060301119",
         "name": "\u00a7 274d",
         "title": "(weggefallen)",
         "parent": {
@@ -5722,6 +6181,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008601308",
         "name": "Elfter Unterabschnitt",
         "title": "Finanzierung",
         "parent": {
@@ -5732,6 +6192,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008701308",
         "name": "Erster Titel",
         "title": "(weggefallen)",
         "parent": {
@@ -5742,6 +6203,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038002308",
         "name": "\u00a7 275",
         "title": null,
         "parent": {
@@ -5755,6 +6217,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008801308",
         "name": "Zweiter Titel",
         "title": "Beitr\u00e4ge",
         "parent": {
@@ -5765,6 +6228,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047006119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047006119",
         "name": "\u00a7 275a",
         "title": "Beitragsbemessungsgrenzen im Beitrittsgebiet f\u00fcr die Zeit bis zum 31. Dezember 2024",
         "parent": {
@@ -5778,6 +6242,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047101308",
         "name": "\u00a7 275b",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -5791,6 +6256,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058701308",
         "name": "\u00a7 275c",
         "title": "(weggefallen)",
         "parent": {
@@ -5804,6 +6270,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038104126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038104126",
         "name": "\u00a7 276",
         "title": "\u00dcbergangsregelung f\u00fcr Auszubildende in einer au\u00dferbetrieblichen Einrichtung",
         "parent": {
@@ -5817,6 +6284,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056306119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056306119",
         "name": "\u00a7 276a",
         "title": "Arbeitgeberanteil bei Versicherungsfreiheit",
         "parent": {
@@ -5830,6 +6298,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE059104126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE059104126",
         "name": "\u00a7 276b",
         "title": "(weggefallen)",
         "parent": {
@@ -5843,6 +6312,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE059201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE059201301",
         "name": "\u00a7 276c",
         "title": "(weggefallen)",
         "parent": {
@@ -5856,6 +6326,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038203119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038203119",
         "name": "\u00a7 277",
         "title": "Beitragsrecht bei Nachversicherung",
         "parent": {
@@ -5869,6 +6340,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047203308",
         "name": "\u00a7 277a",
         "title": "Durchf\u00fchrung der Nachversicherung im Beitrittsgebiet",
         "parent": {
@@ -5882,6 +6354,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038301308",
         "name": "\u00a7 278",
         "title": "Mindestbeitragsbemessungsgrundlage\nf\u00fcr die Nachversicherung",
         "parent": {
@@ -5895,6 +6368,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047302308",
         "name": "\u00a7 278a",
         "title": "Mindestbeitragsbemessungsgrundlage f\u00fcr die Nachversicherung\nim Beitrittsgebiet",
         "parent": {
@@ -5908,6 +6382,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038401308",
         "name": "\u00a7 279",
         "title": "Beitragspflichtige Einnahmen bei\nHebammen und Handwerkern",
         "parent": {
@@ -5921,6 +6396,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047401308",
         "name": "\u00a7 279a",
         "title": "Beitragspflichtige Einnahmen mitarbeitender Ehegatten im\nBeitrittsgebiet",
         "parent": {
@@ -5934,6 +6410,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047502308",
         "name": "\u00a7 279b",
         "title": "Beitragsbemessungsgrundlage f\u00fcr freiwillig Versicherte",
         "parent": {
@@ -5947,6 +6424,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047604119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047604119",
         "name": "\u00a7 279c",
         "title": "Beitragstragung im Beitrittsgebiet",
         "parent": {
@@ -5960,6 +6438,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047701308",
         "name": "\u00a7 279d",
         "title": "Beitragszahlung im Beitrittsgebiet",
         "parent": {
@@ -5973,6 +6452,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052502308",
         "name": "\u00a7 279e",
         "title": "(weggefallen)",
         "parent": {
@@ -5986,6 +6466,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058904308",
         "name": "\u00a7 279f",
         "title": "(weggefallen)",
         "parent": {
@@ -5999,6 +6480,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE059000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE059000308",
         "name": "\u00a7 279g",
         "title": "Sonderregelungen bei Altersteilzeitbesch\u00e4ftigten",
         "parent": {
@@ -6012,6 +6494,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038502308",
         "name": "\u00a7 280",
         "title": "H\u00f6herversicherung f\u00fcr Zeiten vor 1998",
         "parent": {
@@ -6025,6 +6508,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038602308",
         "name": "\u00a7 281",
         "title": "Nachversicherung",
         "parent": {
@@ -6038,6 +6522,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047810124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047810124",
         "name": "\u00a7 281a",
         "title": "Zahlung von Beitr\u00e4gen im Rahmen des Versorgungsausgleichs im Beitrittsgebiet",
         "parent": {
@@ -6051,6 +6536,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE047905308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE047905308",
         "name": "\u00a7 281b",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -6064,6 +6550,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG008901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG008901308",
         "name": "Dritter Titel",
         "title": "Verfahren",
         "parent": {
@@ -6074,6 +6561,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048001308",
         "name": "\u00a7 281c",
         "title": "Meldepflichten im Beitrittsgebiet",
         "parent": {
@@ -6087,6 +6575,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE062002119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE062002119",
         "name": "\u00a7 282",
         "title": "Nachzahlung nach Erreichen der Regelaltersgrenze",
         "parent": {
@@ -6100,6 +6589,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038703308",
         "name": "\u00a7 283",
         "title": "(weggefallen)",
         "parent": {
@@ -6113,6 +6603,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE038903119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE038903119",
         "name": "\u00a7 284",
         "title": "Nachzahlung f\u00fcr Vertriebene, Fl\u00fcchtlinge und Evakuierte",
         "parent": {
@@ -6126,6 +6617,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048102308",
         "name": "\u00a7 284a",
         "title": null,
         "parent": {
@@ -6139,6 +6631,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039002308",
         "name": "\u00a7 285",
         "title": "Nachzahlung bei Nachversicherung",
         "parent": {
@@ -6152,6 +6645,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039104308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039104308",
         "name": "\u00a7 286",
         "title": "Versicherungskarten",
         "parent": {
@@ -6165,6 +6659,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048304308",
         "name": "\u00a7 286a",
         "title": "Glaubhaftmachung der Beitragszahlung und Aufteilung von Beitr\u00e4gen",
         "parent": {
@@ -6178,6 +6673,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048401308",
         "name": "\u00a7 286b",
         "title": "Glaubhaftmachung der Beitragszahlung im Beitrittsgebiet",
         "parent": {
@@ -6191,6 +6687,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048501308",
         "name": "\u00a7 286c",
         "title": "Vermutung der Beitragszahlung im Beitrittsgebiet",
         "parent": {
@@ -6204,6 +6701,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048603308",
         "name": "\u00a7 286d",
         "title": "Beitragserstattung",
         "parent": {
@@ -6217,6 +6715,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048701308",
         "name": "\u00a7 286e",
         "title": "Ausweis f\u00fcr Arbeit und Sozialversicherung",
         "parent": {
@@ -6230,6 +6729,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063701119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063701119",
         "name": "\u00a7 286f",
         "title": "Erstattung zu Unrecht gezahlter Pflichtbeitr\u00e4ge an die berufsst\u00e4ndische Versorgungseinrichtung",
         "parent": {
@@ -6243,6 +6743,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063800119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063800119",
         "name": "\u00a7 286g",
         "title": "Erstattung von nach dem 21. Juli 2009 gezahlten freiwilligen Beitr\u00e4gen",
         "parent": {
@@ -6256,6 +6757,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009001308",
         "name": "Vierter Titel",
         "title": "Berechnungsgrundlagen",
         "parent": {
@@ -6266,6 +6768,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039207126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039207126",
         "name": "\u00a7 287",
         "title": "Beitragssatzgarantie bis 2025",
         "parent": {
@@ -6279,6 +6782,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048805126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048805126",
         "name": "\u00a7 287a",
         "title": "Sonderzahlungen des Bundes in den Jahren 2022 bis 2025",
         "parent": {
@@ -6292,6 +6796,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE048907119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE048907119",
         "name": "\u00a7 287b",
         "title": "Ausgaben f\u00fcr Leistungen zur Teilhabe",
         "parent": {
@@ -6305,6 +6810,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049002308",
         "name": "\u00a7 287c",
         "title": null,
         "parent": {
@@ -6318,6 +6824,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049105126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049105126",
         "name": "\u00a7 287d",
         "title": "Erstattungen in besonderen F\u00e4llen",
         "parent": {
@@ -6331,6 +6838,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049204308",
         "name": "\u00a7 287e",
         "title": "Ver\u00e4nderung des Bundeszuschusses im Beitrittsgebiet",
         "parent": {
@@ -6344,6 +6852,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049303119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049303119",
         "name": "\u00a7 287f",
         "title": "Getrennte Abrechnung",
         "parent": {
@@ -6357,6 +6866,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039404308",
         "name": "\u00a7 288",
         "title": null,
         "parent": {
@@ -6370,6 +6880,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009101308",
         "name": "F\u00fcnfter Titel",
         "title": "Erstattungen",
         "parent": {
@@ -6380,6 +6891,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039504308",
         "name": "\u00a7 289",
         "title": "Wanderversicherungsausgleich",
         "parent": {
@@ -6393,6 +6905,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049403301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049403301",
         "name": "\u00a7 289a",
         "title": "Besonderheiten beim Wanderversicherungsausgleich",
         "parent": {
@@ -6406,6 +6919,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039601308",
         "name": "\u00a7 290",
         "title": "Erstattung durch den Tr\u00e4ger der\nVersorgungslast",
         "parent": {
@@ -6419,6 +6933,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049501308",
         "name": "\u00a7 290a",
         "title": "Erstattung durch den Tr\u00e4ger der Versorgungslast im Beitrittsgebiet",
         "parent": {
@@ -6432,6 +6947,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039705126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039705126",
         "name": "\u00a7 291",
         "title": "Erstattungen f\u00fcr Anrechnungszeiten f\u00fcr den Bezug von Anpassungsgeld",
         "parent": {
@@ -6445,6 +6961,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049602308",
         "name": "\u00a7 291a",
         "title": "Erstattung von Invalidenrenten und Aufwendungen f\u00fcr\nPflichtbeitragszeiten bei Erwerbsunf\u00e4higkeit",
         "parent": {
@@ -6458,6 +6975,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE055603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE055603308",
         "name": "\u00a7 291b",
         "title": "Erstattung nicht beitragsgedeckter Leistungen",
         "parent": {
@@ -6471,6 +6989,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE055904308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE055904308",
         "name": "\u00a7 291c",
         "title": "(weggefallen)",
         "parent": {
@@ -6484,6 +7003,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039807308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039807308",
         "name": "\u00a7 292",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -6497,6 +7017,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049707124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049707124",
         "name": "\u00a7 292a",
         "title": "Verordnungserm\u00e4chtigung f\u00fcr das Beitrittsgebiet",
         "parent": {
@@ -6510,6 +7031,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009202308",
         "name": "Sechster Titel",
         "title": "Verm\u00f6gensanlagen",
         "parent": {
@@ -6520,6 +7042,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE039907308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE039907308",
         "name": "\u00a7 293",
         "title": "Verm\u00f6gensanlagen",
         "parent": {
@@ -6533,6 +7056,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009301308",
         "name": "Zw\u00f6lfter Unterabschnitt",
         "title": "Leistungen f\u00fcr\nKindererziehung an M\u00fctter der Geburtsjahrg\u00e4nge vor 1921",
         "parent": {
@@ -6543,6 +7067,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040004308",
         "name": "\u00a7 294",
         "title": "Anspruchsvoraussetzungen",
         "parent": {
@@ -6556,6 +7081,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049801308",
         "name": "\u00a7 294a",
         "title": "Besonderheiten f\u00fcr das Beitrittsgebiet",
         "parent": {
@@ -6569,6 +7095,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040106126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040106126",
         "name": "\u00a7 295",
         "title": "H\u00f6he der Leistung",
         "parent": {
@@ -6582,6 +7109,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE049907126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE049907126",
         "name": "\u00a7 295a",
         "title": "H\u00f6he der Leistung im Beitrittsgebiet",
         "parent": {
@@ -6595,6 +7123,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040201308",
         "name": "\u00a7 296",
         "title": "Beginn und Ende",
         "parent": {
@@ -6608,6 +7137,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050002308",
         "name": "\u00a7 296a",
         "title": null,
         "parent": {
@@ -6621,6 +7151,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040302308",
         "name": "\u00a7 297",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -6634,6 +7165,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040402308",
         "name": "\u00a7 298",
         "title": "Durchf\u00fchrung",
         "parent": {
@@ -6647,6 +7179,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040502308",
         "name": "\u00a7 299",
         "title": "Anrechnungsfreiheit",
         "parent": {
@@ -6660,6 +7193,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009401308",
         "name": "Zweiter Abschnitt",
         "title": "Ausnahmen von der Anwendung\nneuen Rechts",
         "parent": {
@@ -6670,6 +7204,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009501308",
         "name": "Erster Unterabschnitt",
         "title": "Grundsatz",
         "parent": {
@@ -6680,6 +7215,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040604308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040604308",
         "name": "\u00a7 300",
         "title": "Grundsatz",
         "parent": {
@@ -6693,6 +7229,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009602308",
         "name": "Zweiter Unterabschnitt",
         "title": "Leistungen zur\nTeilhabe",
         "parent": {
@@ -6703,6 +7240,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040705308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040705308",
         "name": "\u00a7 301",
         "title": "Leistungen zur Teilhabe",
         "parent": {
@@ -6716,6 +7254,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE056701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE056701308",
         "name": "\u00a7 301a",
         "title": "Einmalzahlungs-Neuregelungsgesetz",
         "parent": {
@@ -6729,6 +7268,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009701308",
         "name": "Dritter Unterabschnitt",
         "title": "Anspruchsvoraussetzungen\nf\u00fcr einzelne Renten",
         "parent": {
@@ -6739,6 +7279,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040816124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040816124",
         "name": "\u00a7 302",
         "title": "Anspruch auf Altersrente in Sonderf\u00e4llen",
         "parent": {
@@ -6752,6 +7293,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050113119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050113119",
         "name": "\u00a7 302a",
         "title": "Renten wegen verminderter Erwerbsf\u00e4higkeit und Bergmannsvollrenten",
         "parent": {
@@ -6765,6 +7307,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052808119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052808119",
         "name": "\u00a7 302b",
         "title": "Renten wegen verminderter Erwerbsf\u00e4higkeit",
         "parent": {
@@ -6778,6 +7321,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE040901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE040901308",
         "name": "\u00a7 303",
         "title": "Witwerrente",
         "parent": {
@@ -6791,6 +7335,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE054703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE054703308",
         "name": "\u00a7 303a",
         "title": "Gro\u00dfe Witwenrente und gro\u00dfe Witwerrente wegen\nBerufsunf\u00e4higkeit oder Erwerbsunf\u00e4higkeit",
         "parent": {
@@ -6804,6 +7349,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041002126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041002126",
         "name": "\u00a7 304",
         "title": "Waisenrente",
         "parent": {
@@ -6817,6 +7363,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041102308",
         "name": "\u00a7 305",
         "title": "Wartezeit und sonstige zeitliche Voraussetzungen",
         "parent": {
@@ -6830,6 +7377,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009801308",
         "name": "Vierter Unterabschnitt",
         "title": "Rentenh\u00f6he",
         "parent": {
@@ -6840,6 +7388,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041203308",
         "name": "\u00a7 306",
         "title": "Grundsatz",
         "parent": {
@@ -6853,6 +7402,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041303308",
         "name": "\u00a7 307",
         "title": "Umwertung in pers\u00f6nliche Entgeltpunkte",
         "parent": {
@@ -6866,6 +7416,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050204308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050204308",
         "name": "\u00a7 307a",
         "title": "Pers\u00f6nliche Entgeltpunkte aus Bestandsrenten des Beitrittsgebiets",
         "parent": {
@@ -6879,6 +7430,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050306308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050306308",
         "name": "\u00a7 307b",
         "title": "Bestandsrenten aus \u00fcberf\u00fchrten Renten des Beitrittsgebiets",
         "parent": {
@@ -6892,6 +7444,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051902308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051902308",
         "name": "\u00a7 307c",
         "title": "Durchf\u00fchrung der Neuberechnung von Bestandsrenten nach \u00a7 307b",
         "parent": {
@@ -6905,6 +7458,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE055005126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE055005126",
         "name": "\u00a7 307d",
         "title": "Zuschlag an pers\u00f6nlichen Entgeltpunkten f\u00fcr Kindererziehung",
         "parent": {
@@ -6918,6 +7472,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041401308",
         "name": "\u00a7 308",
         "title": "Umstellungsrenten",
         "parent": {
@@ -6931,6 +7486,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041505119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041505119",
         "name": "\u00a7 309",
         "title": "Neufeststellung auf Antrag",
         "parent": {
@@ -6944,6 +7500,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041603308",
         "name": "\u00a7 310",
         "title": "Erneute Neufeststellung von Renten",
         "parent": {
@@ -6957,6 +7514,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058201308",
         "name": "\u00a7 310a",
         "title": "Neufeststellung von Renten mit Zeiten der Besch\u00e4ftigung\nbei der Deutschen Reichsbahn oder bei der Deutschen Post",
         "parent": {
@@ -6970,6 +7528,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058301308",
         "name": "\u00a7 310b",
         "title": "Neufeststellung von Renten mit \u00fcberf\u00fchrten Zeiten nach dem\nAnspruchs- und Anwartschafts\u00fcberf\u00fchrungsgesetz",
         "parent": {
@@ -6983,6 +7542,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE058500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE058500308",
         "name": "\u00a7 310c",
         "title": "Neufeststellung von Renten wegen Besch\u00e4ftigungszeiten w\u00e4hrend des Bezugs\neiner Invalidenrente",
         "parent": {
@@ -6996,6 +7556,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG009901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG009901308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Zusammentreffen von\nRenten und von Einkommen",
         "parent": {
@@ -7006,6 +7567,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041704308",
         "name": "\u00a7 311",
         "title": "Rente und Leistungen aus der Unfallversicherung",
         "parent": {
@@ -7019,6 +7581,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041801308",
         "name": "\u00a7 312",
         "title": "Mindestgrenzbetrag bei Versicherungsf\u00e4llen\nvor dem 1. Januar 1979",
         "parent": {
@@ -7032,6 +7595,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE041918124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE041918124",
         "name": "\u00a7 313",
         "title": "Hinzuverdienst bei Renten wegen verminderter Erwerbsf\u00e4higkeit",
         "parent": {
@@ -7045,6 +7609,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042005119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042005119",
         "name": "\u00a7 314",
         "title": "Einkommensanrechnung auf Renten wegen Todes",
         "parent": {
@@ -7058,6 +7623,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050504119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050504119",
         "name": "\u00a7 314a",
         "title": "Einkommensanrechnung auf Renten wegen Todes aus dem Beitrittsgebiet",
         "parent": {
@@ -7071,6 +7637,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010001308",
         "name": "Sechster Unterabschnitt",
         "title": "Zusatzleistungen",
         "parent": {
@@ -7081,6 +7648,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042102301",
         "name": "\u00a7 315",
         "title": "Zuschuss zur Krankenversicherung",
         "parent": {
@@ -7094,6 +7662,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050603308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050603308",
         "name": "\u00a7 315a",
         "title": "Auff\u00fcllbetrag",
         "parent": {
@@ -7107,6 +7676,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050702308",
         "name": "\u00a7 315b",
         "title": "Renten aus freiwilligen Beitr\u00e4gen des Beitrittsgebiets",
         "parent": {
@@ -7120,6 +7690,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042202308",
         "name": "\u00a7 316",
         "title": null,
         "parent": {
@@ -7133,6 +7704,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010102308",
         "name": "Siebter Unterabschnitt",
         "title": "Leistungen an\nBerechtigte im Ausland",
         "parent": {
@@ -7143,6 +7715,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042309377",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042309377",
         "name": "\u00a7 317",
         "title": "Grundsatz",
         "parent": {
@@ -7156,6 +7729,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE063102124",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE063102124",
         "name": "\u00a7 317a",
         "title": "Neufeststellung",
         "parent": {
@@ -7169,6 +7743,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042403119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042403119",
         "name": "\u00a7 318",
         "title": "(weggefallen)",
         "parent": {
@@ -7182,6 +7757,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042502308",
         "name": "\u00a7 319",
         "title": "Zusatzleistungen",
         "parent": {
@@ -7195,6 +7771,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010302308",
         "name": "Achter Unterabschnitt",
         "title": "Zusatzleistungen bei\ngleichzeitigem Anspruch auf Renten nach dem \u00dcbergangsrecht f\u00fcr\nRenten nach den Vorschriften des Beitrittsgebiets",
         "parent": {
@@ -7205,6 +7782,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050802308",
         "name": "\u00a7 319a",
         "title": "Rentenzuschlag bei Rentenbeginn in den Jahren 1992 und 1993",
         "parent": {
@@ -7218,6 +7796,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010601308",
         "name": "Neunter Unterabschnitt",
         "title": "Leistungen\nbei gleichzeitigem Anspruch auf Renten nach dem \u00dcbergangsrecht\nf\u00fcr Renten nach den Vorschriften des Beitrittsgebiets",
         "parent": {
@@ -7228,6 +7807,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE052001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE052001308",
         "name": "\u00a7 319b",
         "title": "\u00dcbergangszuschlag",
         "parent": {
@@ -7241,6 +7821,7 @@
       {
         "type": "heading",
         "id": "BJNR122610989BJNG010201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNG010201308",
         "name": "Sechstes Kapitel",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": null
@@ -7248,6 +7829,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042604119",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042604119",
         "name": "\u00a7 320",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -7261,6 +7843,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053607308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053607308",
         "name": "\u00a7 321",
         "title": "Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten",
         "parent": {
@@ -7274,6 +7857,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042731126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042731126",
         "name": "Anlage 1",
         "title": "Durchschnittsentgelt in Euro/DM/RM",
         "parent": {
@@ -7287,6 +7871,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042833126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042833126",
         "name": "Anlage 2",
         "title": "J\u00e4hrliche Beitragsbemessungsgrenzen in Euro/DM/RM",
         "parent": {
@@ -7300,6 +7885,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE050933126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE050933126",
         "name": "Anlage 2a",
         "title": "J\u00e4hrliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM",
         "parent": {
@@ -7313,6 +7899,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE055302308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE055302308",
         "name": "Anlage 2b",
         "title": null,
         "parent": {
@@ -7326,6 +7913,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE042901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE042901308",
         "name": "Anlage 3",
         "title": "Entgeltpunkte f\u00fcr Beitr\u00e4ge nach Lohn-, Beitrags- oder\nGehaltsklassen",
         "parent": {
@@ -7339,6 +7927,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043001308",
         "name": "Anlage 4",
         "title": "Beitragsbemessungsgrundlage f\u00fcr Beitragsklassen",
         "parent": {
@@ -7352,6 +7941,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043101308",
         "name": "Anlage 5",
         "title": "Entgeltpunkte f\u00fcr Berliner Beitr\u00e4ge",
         "parent": {
@@ -7365,6 +7955,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043201308",
         "name": "Anlage 6",
         "title": "Werte zur Umrechnung der Beitragsbemessungsgrundlagen\nvon Franken in Deutsche Mark",
         "parent": {
@@ -7378,6 +7969,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043301308",
         "name": "Anlage 7",
         "title": "Entgeltpunkte f\u00fcr saarl\u00e4ndische Beitr\u00e4ge",
         "parent": {
@@ -7391,6 +7983,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043401308",
         "name": "Anlage 8",
         "title": "Lohn-, Beitrags- oder Gehaltsklassen und Beitragsbemessungsgrundlagen in RM/DM f\u00fcr Sachbezugszeiten, in denen der Versicherte nicht Lehrling oder Anlernling war",
         "parent": {
@@ -7404,6 +7997,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE043502308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE043502308",
         "name": "Anlage 9",
         "title": null,
         "parent": {
@@ -7417,6 +8011,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051032126",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051032126",
         "name": "Anlage 10",
         "title": "Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittgebiets",
         "parent": {
@@ -7430,6 +8025,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051101308",
         "name": "Anlage 11",
         "title": "Verdienst f\u00fcr freiwillige Beitr\u00e4ge im Beitrittsgebiet",
         "parent": {
@@ -7443,6 +8039,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051202308",
         "name": "Anlage 12",
         "title": "Gesamtdurchschnittseinkommen zur Umwertung der anpassungsf\u00e4higen\nBestandsrenten des Beitrittsgebiets",
         "parent": {
@@ -7456,6 +8053,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051301308",
         "name": "Anlage 13",
         "title": "Definition der Qualifikationsgruppen",
         "parent": {
@@ -7469,6 +8067,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051413308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051413308",
         "name": "Anlage 14",
         "title": null,
         "parent": {
@@ -7482,6 +8081,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051501308",
         "name": "Anlage 15",
         "title": "Entgeltpunkte f\u00fcr glaubhaft gemachte Beitragszeiten mit freiwilligen Beitr\u00e4gen",
         "parent": {
@@ -7495,6 +8095,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051602308",
         "name": "Anlage 16",
         "title": "H\u00f6chstverdienste bei glaubhaft gemachten Beitragszeiten ohne\nfreiwillige Zusatzrentenversicherung",
         "parent": {
@@ -7508,6 +8109,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE051703308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE051703308",
         "name": "Anlage 17",
         "title": null,
         "parent": {
@@ -7521,6 +8123,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053203308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053203308",
         "name": "Anlage 18",
         "title": null,
         "parent": {
@@ -7534,6 +8137,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053303308",
         "name": "Anlage 19",
         "title": null,
         "parent": {
@@ -7547,6 +8151,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053402308",
         "name": "Anlage 20",
         "title": null,
         "parent": {
@@ -7560,6 +8165,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE053503301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE053503301",
         "name": "Anlage 21",
         "title": "(weggefallen)",
         "parent": {
@@ -7573,6 +8179,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE055405301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE055405301",
         "name": "Anlage 22",
         "title": "(weggefallen)",
         "parent": {
@@ -7586,6 +8193,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE055504301",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE055504301",
         "name": "Anlage 23",
         "title": "(weggefallen)",
         "parent": {
@@ -7599,6 +8207,7 @@
       {
         "type": "article",
         "id": "BJNR122610989BJNE888800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/sgb_6/articles/BJNR122610989BJNE888800308",
         "name": "Anhang EV",
         "title": "Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III\n<BR/>\n(BGBl. II 1990, 889, 1060)\n<BR/>\n- Ma\u00dfgaben f\u00fcr das beigetretene Gebiet (Art. 3 EinigVtr) -",
         "parent": {

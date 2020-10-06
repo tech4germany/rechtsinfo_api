@@ -34,6 +34,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000105311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000105311",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -44,6 +45,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -51,6 +53,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000200000",
         "name": "\u00a7 1",
         "title": "Geltungsbereich",
         "parent": {
@@ -64,6 +67,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000301116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000301116",
         "name": "\u00a7 2",
         "title": "Dienstherrnf\u00e4higkeit",
         "parent": {
@@ -77,6 +81,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000400000",
         "name": "\u00a7 3",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -90,6 +95,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Beamtenverh\u00e4ltnis",
         "parent": null
@@ -97,6 +103,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000500000",
         "name": "\u00a7 4",
         "title": "Beamtenverh\u00e4ltnis",
         "parent": {
@@ -110,6 +117,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000600000",
         "name": "\u00a7 5",
         "title": "Zul\u00e4ssigkeit des Beamtenverh\u00e4ltnisses",
         "parent": {
@@ -123,6 +131,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000700000",
         "name": "\u00a7 6",
         "title": "Arten des Beamtenverh\u00e4ltnisses",
         "parent": {
@@ -136,6 +145,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000802311",
         "name": "\u00a7 7",
         "title": "Voraussetzungen des Beamtenverh\u00e4ltnisses",
         "parent": {
@@ -149,6 +159,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE000901116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE000901116",
         "name": "\u00a7 8",
         "title": "Stellenausschreibung",
         "parent": {
@@ -162,6 +173,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001000000",
         "name": "\u00a7 9",
         "title": "Auswahlkriterien",
         "parent": {
@@ -175,6 +187,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001100000",
         "name": "\u00a7 10",
         "title": "Ernennung",
         "parent": {
@@ -188,6 +201,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001200000",
         "name": "\u00a7 11",
         "title": "Voraussetzungen der Ernennung auf Lebenszeit",
         "parent": {
@@ -201,6 +215,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE015300116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE015300116",
         "name": "\u00a7 11a",
         "title": "Ableisten eines Vorbereitungsdienstes durch Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit",
         "parent": {
@@ -214,6 +229,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001300000",
         "name": "\u00a7 12",
         "title": "Zust\u00e4ndigkeit und Wirksamwerden der Ernennung",
         "parent": {
@@ -227,6 +243,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001401310",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001401310",
         "name": "\u00a7 13",
         "title": "Nichtigkeit der Ernennung",
         "parent": {
@@ -240,6 +257,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001501310",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001501310",
         "name": "\u00a7 14",
         "title": "R\u00fccknahme der Ernennung",
         "parent": {
@@ -253,6 +271,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001600000",
         "name": "\u00a7 15",
         "title": "Rechtsfolgen nichtiger oder zur\u00fcckgenommener Ernennungen",
         "parent": {
@@ -266,6 +285,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Laufbahnen",
         "parent": null
@@ -273,6 +293,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001700000",
         "name": "\u00a7 16",
         "title": "Laufbahn",
         "parent": {
@@ -286,6 +307,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001802116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001802116",
         "name": "\u00a7 17",
         "title": "Zulassung zu den Laufbahnen",
         "parent": {
@@ -299,6 +321,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE001910311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE001910311",
         "name": "\u00a7 18",
         "title": "Anerkennung der Laufbahnbef\u00e4higung aufgrund der Richtlinie 2005/36/EG und aufgrund in Drittstaaten erworbener Berufsqualifikationen",
         "parent": {
@@ -312,6 +335,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002000000",
         "name": "\u00a7 19",
         "title": "Andere Bewerberinnen und andere Bewerber",
         "parent": {
@@ -325,6 +349,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002101116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002101116",
         "name": "\u00a7 20",
         "title": "Einstellung",
         "parent": {
@@ -338,6 +363,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002200000",
         "name": "\u00a7 21",
         "title": "Dienstliche Beurteilung",
         "parent": {
@@ -351,6 +377,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002301310",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002301310",
         "name": "\u00a7 22",
         "title": "Bef\u00f6rderungen",
         "parent": {
@@ -364,6 +391,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002401116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002401116",
         "name": "\u00a7 23",
         "title": "Bef\u00f6rderungssperre zwischen zwei Mandaten",
         "parent": {
@@ -377,6 +405,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002502116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002502116",
         "name": "\u00a7 24",
         "title": "F\u00fchrungs\u00e4mter auf Probe",
         "parent": {
@@ -390,6 +419,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002600000",
         "name": "\u00a7 25",
         "title": "Benachteiligungsverbote",
         "parent": {
@@ -403,6 +433,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002701116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002701116",
         "name": "\u00a7 26",
         "title": "Rechtsverordnung \u00fcber Laufbahnen",
         "parent": {
@@ -416,6 +447,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Abordnung, Versetzung und Zuweisung",
         "parent": null
@@ -423,6 +455,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002802116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002802116",
         "name": "\u00a7 27",
         "title": "Abordnung",
         "parent": {
@@ -436,6 +469,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE002901116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE002901116",
         "name": "\u00a7 28",
         "title": "Versetzung",
         "parent": {
@@ -449,6 +483,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003000000",
         "name": "\u00a7 29",
         "title": "Zuweisung",
         "parent": {
@@ -462,6 +497,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Beendigung des Beamtenverh\u00e4ltnisses",
         "parent": null
@@ -469,6 +505,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000600000",
         "name": "Unterabschnitt 1",
         "title": "Entlassung",
         "parent": {
@@ -479,6 +516,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003100000",
         "name": "\u00a7 30",
         "title": "Beendigungsgr\u00fcnde",
         "parent": {
@@ -492,6 +530,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003202116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003202116",
         "name": "\u00a7 31",
         "title": "Entlassung kraft Gesetzes",
         "parent": {
@@ -505,6 +544,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003301116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003301116",
         "name": "\u00a7 32",
         "title": "Entlassung aus zwingenden Gr\u00fcnden",
         "parent": {
@@ -518,6 +558,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003400000",
         "name": "\u00a7 33",
         "title": "Entlassung auf Verlangen",
         "parent": {
@@ -531,6 +572,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003500000",
         "name": "\u00a7 34",
         "title": "Entlassung von Beamtinnen auf Probe und Beamten auf Probe",
         "parent": {
@@ -544,6 +586,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003600000",
         "name": "\u00a7 35",
         "title": "Entlassung von Beamtinnen und Beamten in F\u00fchrungs\u00e4mtern auf Probe",
         "parent": {
@@ -557,6 +600,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003700000",
         "name": "\u00a7 36",
         "title": "Entlassung von politischen Beamtinnen auf Probe und politischen Beamten auf Probe",
         "parent": {
@@ -570,6 +614,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003800000",
         "name": "\u00a7 37",
         "title": "Entlassung von Beamtinnen auf Widerruf und Beamten auf Widerruf",
         "parent": {
@@ -583,6 +628,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE003900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE003900000",
         "name": "\u00a7 38",
         "title": "Verfahren der Entlassung",
         "parent": {
@@ -596,6 +642,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004001116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004001116",
         "name": "\u00a7 39",
         "title": "Folgen der Entlassung",
         "parent": {
@@ -609,6 +656,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004101116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004101116",
         "name": "\u00a7 40",
         "title": "Ausscheiden bei Wahlen oder \u00dcbernahme politischer \u00c4mter",
         "parent": {
@@ -622,6 +670,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004200000",
         "name": "\u00a7 41",
         "title": "Verlust der Beamtenrechte",
         "parent": {
@@ -635,6 +684,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004300000",
         "name": "\u00a7 42",
         "title": "Wirkung eines Wiederaufnahmeverfahrens",
         "parent": {
@@ -648,6 +698,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004400000",
         "name": "\u00a7 43",
         "title": "Gnadenrecht",
         "parent": {
@@ -661,6 +712,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000700000",
         "name": "Unterabschnitt 2",
         "title": "Dienstunf\u00e4higkeit",
         "parent": {
@@ -671,6 +723,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004501116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004501116",
         "name": "\u00a7 44",
         "title": "Dienstunf\u00e4higkeit",
         "parent": {
@@ -684,6 +737,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004600000",
         "name": "\u00a7 45",
         "title": "Begrenzte Dienstf\u00e4higkeit",
         "parent": {
@@ -697,6 +751,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004701116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004701116",
         "name": "\u00a7 46",
         "title": "Wiederherstellung der Dienstf\u00e4higkeit",
         "parent": {
@@ -710,6 +765,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004801116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004801116",
         "name": "\u00a7 47",
         "title": "Verfahren bei Dienstunf\u00e4higkeit",
         "parent": {
@@ -723,6 +779,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE004901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE004901311",
         "name": "\u00a7 48",
         "title": "\u00c4rztliche Untersuchung",
         "parent": {
@@ -736,6 +793,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005000000",
         "name": "\u00a7 49",
         "title": "Ruhestand beim Beamtenverh\u00e4ltnis auf Probe wegen Dienstunf\u00e4higkeit",
         "parent": {
@@ -749,6 +807,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000800000",
         "name": "Unterabschnitt 3",
         "title": "Ruhestand",
         "parent": {
@@ -759,6 +818,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005100000",
         "name": "\u00a7 50",
         "title": "Wartezeit",
         "parent": {
@@ -772,6 +832,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005200000",
         "name": "\u00a7 51",
         "title": "Ruhestand wegen Erreichens der Altersgrenze",
         "parent": {
@@ -785,6 +846,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005300000",
         "name": "\u00a7 52",
         "title": "Ruhestand auf Antrag",
         "parent": {
@@ -798,6 +860,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005407311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005407311",
         "name": "\u00a7 53",
         "title": "Hinausschieben des Eintritts in den Ruhestand",
         "parent": {
@@ -811,6 +874,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005504116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005504116",
         "name": "\u00a7 54",
         "title": "Einstweiliger Ruhestand",
         "parent": {
@@ -824,6 +888,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005600000",
         "name": "\u00a7 55",
         "title": "Einstweiliger Ruhestand bei organisatorischen Ver\u00e4nderungen",
         "parent": {
@@ -837,6 +902,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005700000",
         "name": "\u00a7 56",
         "title": "Beginn des einstweiligen Ruhestands",
         "parent": {
@@ -850,6 +916,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005800000",
         "name": "\u00a7 57",
         "title": "Erneute Berufung",
         "parent": {
@@ -863,6 +930,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE005900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE005900000",
         "name": "\u00a7 58",
         "title": "Ende des einstweiligen Ruhestands",
         "parent": {
@@ -876,6 +944,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006000000",
         "name": "\u00a7 59",
         "title": "Zust\u00e4ndigkeit bei Versetzung in den Ruhestand",
         "parent": {
@@ -889,6 +958,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG000900000",
         "name": "Abschnitt 6",
         "title": "Rechtliche Stellung im Beamtenverh\u00e4ltnis",
         "parent": null
@@ -896,6 +966,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001000000",
         "name": "Unterabschnitt 1",
         "title": "Allgemeine Pflichten und Rechte",
         "parent": {
@@ -906,6 +977,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006101311",
         "name": "\u00a7 60",
         "title": "Grundpflichten",
         "parent": {
@@ -919,6 +991,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006201116",
         "name": "\u00a7 61",
         "title": "Wahrnehmung der Aufgaben, Verhalten",
         "parent": {
@@ -932,6 +1005,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006300000",
         "name": "\u00a7 62",
         "title": "Folgepflicht",
         "parent": {
@@ -945,6 +1019,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006401311",
         "name": "\u00a7 63",
         "title": "Verantwortung f\u00fcr die Rechtm\u00e4\u00dfigkeit",
         "parent": {
@@ -958,6 +1033,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006500000",
         "name": "\u00a7 64",
         "title": "Eidespflicht, Eidesformel",
         "parent": {
@@ -971,6 +1047,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006600000",
         "name": "\u00a7 65",
         "title": "Befreiung von Amtshandlungen",
         "parent": {
@@ -984,6 +1061,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006700000",
         "name": "\u00a7 66",
         "title": "Verbot der F\u00fchrung der Dienstgesch\u00e4fte",
         "parent": {
@@ -997,6 +1075,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006800000",
         "name": "\u00a7 67",
         "title": "Verschwiegenheitspflicht",
         "parent": {
@@ -1010,6 +1089,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE006900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE006900000",
         "name": "\u00a7 68",
         "title": "Versagung der Aussagegenehmigung",
         "parent": {
@@ -1023,6 +1103,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007000000",
         "name": "\u00a7 69",
         "title": "Gutachtenerstattung",
         "parent": {
@@ -1036,6 +1117,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007100000",
         "name": "\u00a7 70",
         "title": "Ausk\u00fcnfte an die Medien",
         "parent": {
@@ -1049,6 +1131,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007201116",
         "name": "\u00a7 71",
         "title": "Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen",
         "parent": {
@@ -1062,6 +1145,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007300000",
         "name": "\u00a7 72",
         "title": "Wahl der Wohnung",
         "parent": {
@@ -1075,6 +1159,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007400000",
         "name": "\u00a7 73",
         "title": "Aufenthaltspflicht",
         "parent": {
@@ -1088,6 +1173,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007500000",
         "name": "\u00a7 74",
         "title": "Dienstkleidung",
         "parent": {
@@ -1101,6 +1187,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007600000",
         "name": "\u00a7 75",
         "title": "Pflicht zum Schadensersatz",
         "parent": {
@@ -1114,6 +1201,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007700000",
         "name": "\u00a7 76",
         "title": "\u00dcbergang eines Schadensersatzanspruchs gegen Dritte",
         "parent": {
@@ -1127,6 +1215,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007802311",
         "name": "\u00a7 77",
         "title": "Nichterf\u00fcllung von Pflichten",
         "parent": {
@@ -1140,6 +1229,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE007900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE007900000",
         "name": "\u00a7 78",
         "title": "F\u00fcrsorgepflicht des Dienstherrn",
         "parent": {
@@ -1153,6 +1243,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE015400116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE015400116",
         "name": "\u00a7 78a",
         "title": "Zahlung durch den Dienstherrn bei Schmerzensgeldanspr\u00fcchen",
         "parent": {
@@ -1166,6 +1257,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008002311",
         "name": "\u00a7 79",
         "title": "Mutterschutz, Elternzeit und Jugendarbeitsschutz",
         "parent": {
@@ -1179,6 +1271,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008103311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008103311",
         "name": "\u00a7 80",
         "title": "Beihilfe in Krankheits-, Pflege- und Geburtsf\u00e4llen",
         "parent": {
@@ -1192,6 +1285,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008201311",
         "name": "\u00a7 81",
         "title": "Reisekosten",
         "parent": {
@@ -1205,6 +1299,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008301311",
         "name": "\u00a7 82",
         "title": "Umzugskosten",
         "parent": {
@@ -1218,6 +1313,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008401311",
         "name": "\u00a7 83",
         "title": "Trennungsgeld",
         "parent": {
@@ -1231,6 +1327,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008500000",
         "name": "\u00a7 84",
         "title": "Jubil\u00e4umszuwendung",
         "parent": {
@@ -1244,6 +1341,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE015100116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE015100116",
         "name": "\u00a7 84a",
         "title": "R\u00fcckforderung zu viel gezahlter Geldleistungen",
         "parent": {
@@ -1257,6 +1355,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008600000",
         "name": "\u00a7 85",
         "title": "Dienstzeugnis",
         "parent": {
@@ -1270,6 +1369,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008700000",
         "name": "\u00a7 86",
         "title": "Amtsbezeichnungen",
         "parent": {
@@ -1283,6 +1383,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001100000",
         "name": "Unterabschnitt 2",
         "title": "Arbeitszeit",
         "parent": {
@@ -1293,6 +1394,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008800000",
         "name": "\u00a7 87",
         "title": "Arbeitszeit",
         "parent": {
@@ -1306,6 +1408,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE008900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE008900000",
         "name": "\u00a7 88",
         "title": "Mehrarbeit",
         "parent": {
@@ -1319,6 +1422,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009001116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009001116",
         "name": "\u00a7 89",
         "title": "Erholungsurlaub",
         "parent": {
@@ -1332,6 +1436,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009102116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009102116",
         "name": "\u00a7 90",
         "title": "Urlaub aus anderen Anl\u00e4ssen, Mandatstr\u00e4gerinnen und Mandatstr\u00e4ger",
         "parent": {
@@ -1345,6 +1450,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009200000",
         "name": "\u00a7 91",
         "title": "Teilzeit",
         "parent": {
@@ -1358,6 +1464,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009303116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009303116",
         "name": "\u00a7 92",
         "title": "Familienbedingte Teilzeit, familienbedingte Beurlaubung",
         "parent": {
@@ -1371,6 +1478,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014901116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014901116",
         "name": "\u00a7 92a",
         "title": "Familienpflegezeit mit Vorschuss",
         "parent": {
@@ -1384,6 +1492,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE015500116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE015500116",
         "name": "\u00a7 92b",
         "title": "Pflegezeit mit Vorschuss",
         "parent": {
@@ -1397,6 +1506,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009408311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009408311",
         "name": "\u00a7 93",
         "title": "Altersteilzeit",
         "parent": {
@@ -1410,6 +1520,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009500000",
         "name": "\u00a7 94",
         "title": "Hinweispflicht",
         "parent": {
@@ -1423,6 +1534,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009601310",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009601310",
         "name": "\u00a7 95",
         "title": "Beurlaubung ohne Besoldung",
         "parent": {
@@ -1436,6 +1548,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009700000",
         "name": "\u00a7 96",
         "title": "Fernbleiben vom Dienst",
         "parent": {
@@ -1449,6 +1562,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001200000",
         "name": "Unterabschnitt 3",
         "title": "Nebent\u00e4tigkeit",
         "parent": {
@@ -1459,6 +1573,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009800000",
         "name": "\u00a7 97",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -1472,6 +1587,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE009900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE009900000",
         "name": "\u00a7 98",
         "title": "Nebent\u00e4tigkeit im \u00f6ffentlichen Dienst",
         "parent": {
@@ -1485,6 +1601,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010001116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010001116",
         "name": "\u00a7 99",
         "title": "Genehmigungspflichtige Nebent\u00e4tigkeiten",
         "parent": {
@@ -1498,6 +1615,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010101116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010101116",
         "name": "\u00a7 100",
         "title": "Nicht genehmigungspflichtige Nebent\u00e4tigkeiten",
         "parent": {
@@ -1511,6 +1629,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010201116",
         "name": "\u00a7 101",
         "title": "Aus\u00fcbung von Nebent\u00e4tigkeiten",
         "parent": {
@@ -1524,6 +1643,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010300000",
         "name": "\u00a7 102",
         "title": "Regressanspruch f\u00fcr die Haftung aus angeordneter Nebent\u00e4tigkeit",
         "parent": {
@@ -1537,6 +1657,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010400000",
         "name": "\u00a7 103",
         "title": "Erl\u00f6schen der mit dem Hauptamt verbundenen Nebent\u00e4tigkeit",
         "parent": {
@@ -1550,6 +1671,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010500000",
         "name": "\u00a7 104",
         "title": "Erlass ausf\u00fchrender Rechtsverordnungen",
         "parent": {
@@ -1563,6 +1685,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010602116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010602116",
         "name": "\u00a7 105",
         "title": "Anzeigepflicht nach Beendigung des Beamtenverh\u00e4ltnisses",
         "parent": {
@@ -1576,6 +1699,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001300000",
         "name": "Unterabschnitt 4",
         "title": "Personalaktenrecht",
         "parent": {
@@ -1586,6 +1710,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010702311",
         "name": "\u00a7 106",
         "title": "Personalakte",
         "parent": {
@@ -1599,6 +1724,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010802311",
         "name": "\u00a7 107",
         "title": "Zugang zur Personalakte",
         "parent": {
@@ -1612,6 +1738,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE010903311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE010903311",
         "name": "\u00a7 108",
         "title": "Beihilfeakte",
         "parent": {
@@ -1625,6 +1752,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011001311",
         "name": "\u00a7 109",
         "title": "Anh\u00f6rung",
         "parent": {
@@ -1638,6 +1766,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011101311",
         "name": "\u00a7 110",
         "title": "Auskunft",
         "parent": {
@@ -1651,6 +1780,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011202311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011202311",
         "name": "\u00a7 111",
         "title": "\u00dcbermittlung von Personalaktendaten und Ausk\u00fcnfte an Dritte",
         "parent": {
@@ -1664,6 +1794,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE015201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE015201311",
         "name": "\u00a7 111a",
         "title": "Verarbeitung von Personalaktendaten im Auftrag",
         "parent": {
@@ -1677,6 +1808,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE015600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE015600311",
         "name": "\u00a7 111b",
         "title": "Aufgaben\u00fcbertragung",
         "parent": {
@@ -1690,6 +1822,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011300000",
         "name": "\u00a7 112",
         "title": "Entfernung von Unterlagen",
         "parent": {
@@ -1703,6 +1836,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011403116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011403116",
         "name": "\u00a7 113",
         "title": "Aufbewahrungsfrist",
         "parent": {
@@ -1716,6 +1850,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011500000",
         "name": "\u00a7 114",
         "title": "Automatisierte Verarbeitung von Personalaktendaten",
         "parent": {
@@ -1729,6 +1864,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011600000",
         "name": "\u00a7 115",
         "title": "\u00dcbermittlungen in Strafverfahren",
         "parent": {
@@ -1742,6 +1878,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001400000",
         "name": "Abschnitt 7",
         "title": "Beamtenvertretung",
         "parent": null
@@ -1749,6 +1886,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011700000",
         "name": "\u00a7 116",
         "title": "Mitgliedschaft in Gewerkschaften und Berufsverb\u00e4nden",
         "parent": {
@@ -1762,6 +1900,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011800000",
         "name": "\u00a7 117",
         "title": "Personalvertretung",
         "parent": {
@@ -1775,6 +1914,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE011900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE011900000",
         "name": "\u00a7 118",
         "title": "Beteiligung der Spitzenorganisationen",
         "parent": {
@@ -1788,6 +1928,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001500000",
         "name": "Abschnitt 8",
         "title": "Bundespersonalausschuss",
         "parent": null
@@ -1795,6 +1936,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012000000",
         "name": "\u00a7 119",
         "title": "Aufgaben",
         "parent": {
@@ -1808,6 +1950,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012101311",
         "name": "\u00a7 120",
         "title": "Mitglieder",
         "parent": {
@@ -1821,6 +1964,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012201311",
         "name": "\u00a7 121",
         "title": "Rechtsstellung der Mitglieder",
         "parent": {
@@ -1834,6 +1978,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012300000",
         "name": "\u00a7 122",
         "title": "Gesch\u00e4ftsordnung",
         "parent": {
@@ -1847,6 +1992,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012400000",
         "name": "\u00a7 123",
         "title": "Sitzungen und Beschl\u00fcsse",
         "parent": {
@@ -1860,6 +2006,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012500000",
         "name": "\u00a7 124",
         "title": "Beweiserhebung, Ausk\u00fcnfte und Amtshilfe",
         "parent": {
@@ -1873,6 +2020,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001600000",
         "name": "Abschnitt 9",
         "title": "Beschwerdeweg und Rechtsschutz",
         "parent": null
@@ -1880,6 +2028,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012600000",
         "name": "\u00a7 125",
         "title": "Dienstweg bei Antr\u00e4gen und Beschwerden",
         "parent": {
@@ -1893,6 +2042,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012700000",
         "name": "\u00a7 126",
         "title": "Verwaltungsrechtsweg",
         "parent": {
@@ -1906,6 +2056,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012801311",
         "name": "\u00a7 127",
         "title": "Vertretung des Dienstherrn",
         "parent": {
@@ -1919,6 +2070,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE012900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE012900000",
         "name": "\u00a7 128",
         "title": "Zustellung von Verf\u00fcgungen und Entscheidungen",
         "parent": {
@@ -1932,6 +2084,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001700000",
         "name": "Abschnitt 10",
         "title": "Besondere Rechtsverh\u00e4ltnisse",
         "parent": null
@@ -1939,6 +2092,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013001116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013001116",
         "name": "\u00a7 129",
         "title": "Beamtinnen und Beamte oberster Bundesorgane",
         "parent": {
@@ -1952,6 +2106,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013100000",
         "name": "\u00a7 130",
         "title": "Wissenschaftliches und leitendes Personal der Hochschulen des Bundes",
         "parent": {
@@ -1965,6 +2120,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013200000",
         "name": "\u00a7 131",
         "title": "Einstellungsvoraussetzungen f\u00fcr Hochschullehrerinnen und Hochschullehrer sowie wissenschaftliche Mitarbeiterinnen und wissenschaftliche Mitarbeiter",
         "parent": {
@@ -1978,6 +2134,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013302116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013302116",
         "name": "\u00a7 132",
         "title": "Dienstrechtliche Stellung des hauptberuflichen wissenschaftlichen und leitenden Personals der Hochschulen",
         "parent": {
@@ -1991,6 +2148,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013400000",
         "name": "\u00a7 133",
         "title": "Ehrenbeamtinnen und Ehrenbeamte",
         "parent": {
@@ -2004,6 +2162,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001800000",
         "name": "Abschnitt 11",
         "title": "Umbildung von K\u00f6rperschaften",
         "parent": null
@@ -2011,6 +2170,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013500000",
         "name": "\u00a7 134",
         "title": "Umbildung einer K\u00f6rperschaft",
         "parent": {
@@ -2024,6 +2184,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013600000",
         "name": "\u00a7 135",
         "title": "Rechtsfolgen der Umbildung",
         "parent": {
@@ -2037,6 +2198,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013701116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013701116",
         "name": "\u00a7 136",
         "title": "Rechtsstellung der Beamtinnen und Beamten",
         "parent": {
@@ -2050,6 +2212,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013800000",
         "name": "\u00a7 137",
         "title": "Rechtsstellung der Versorgungsempf\u00e4ngerinnen und Versorgungsempf\u00e4nger",
         "parent": {
@@ -2063,6 +2226,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG001900000",
         "name": "Abschnitt 12",
         "title": "Spannungs- und Verteidigungsfall, Verwendungen im Ausland",
         "parent": null
@@ -2070,6 +2234,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE013900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE013900000",
         "name": "\u00a7 138",
         "title": "Anwendungsbereich",
         "parent": {
@@ -2083,6 +2248,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014000000",
         "name": "\u00a7 139",
         "title": "Dienstleistung im Verteidigungsfall",
         "parent": {
@@ -2096,6 +2262,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014100000",
         "name": "\u00a7 140",
         "title": "Aufschub der Entlassung und des Ruhestands",
         "parent": {
@@ -2109,6 +2276,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014200000",
         "name": "\u00a7 141",
         "title": "Erneute Berufung von Ruhestandsbeamtinnen und Ruhestandsbeamten",
         "parent": {
@@ -2122,6 +2290,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014300000",
         "name": "\u00a7 142",
         "title": "Verpflichtung zur Gemeinschaftsunterkunft und Mehrarbeit",
         "parent": {
@@ -2135,6 +2304,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014400000",
         "name": "\u00a7 143",
         "title": "Verwendungen im Ausland",
         "parent": {
@@ -2148,6 +2318,7 @@
       {
         "type": "heading",
         "id": "BJNR016010009BJNG002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNG002000000",
         "name": "Abschnitt 13",
         "title": "\u00dcbergangs- und Schlussvorschriften",
         "parent": null
@@ -2155,6 +2326,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014500000",
         "name": "\u00a7 144",
         "title": "Entscheidungsrecht oberster Bundesbeh\u00f6rden",
         "parent": {
@@ -2168,6 +2340,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014602311",
         "name": "\u00a7 145",
         "title": "Rechtsverordnungen, Durchf\u00fchrungsvorschriften",
         "parent": {
@@ -2181,6 +2354,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014700000",
         "name": "\u00a7 146",
         "title": "\u00d6ffentlich-rechtliche Religionsgesellschaften",
         "parent": {
@@ -2194,6 +2368,7 @@
       {
         "type": "article",
         "id": "BJNR016010009BJNE014802116",
+        "url": "https://api.rechtsinformationsportal.de/laws/bbg/articles/BJNR016010009BJNE014802116",
         "name": "\u00a7 147",
         "title": "\u00dcbergangsregelungen",
         "parent": {

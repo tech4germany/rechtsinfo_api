@@ -39,6 +39,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000115128",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000115128",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -49,6 +50,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000100000",
         "name": "Teil 1",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -56,6 +58,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000200000",
         "name": "\u00a7 1",
         "title": "Geltungsbereich",
         "parent": {
@@ -69,6 +72,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000300000",
         "name": "\u00a7 2",
         "title": "\u00d6ffentlich-rechtliche Versorgungseinrichtungen",
         "parent": {
@@ -82,6 +86,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000400000",
         "name": "\u00a7 3",
         "title": "Ausnahmen von der Aufsichtspflicht, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -95,6 +100,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000500000",
         "name": "\u00a7 4",
         "title": "Feststellung der Aufsichtspflicht",
         "parent": {
@@ -108,6 +114,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000602118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000602118",
         "name": "\u00a7 5",
         "title": "Freistellung von der Aufsicht",
         "parent": {
@@ -121,6 +128,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000700000",
         "name": "\u00a7 6",
         "title": "Bezeichnungsschutz",
         "parent": {
@@ -134,6 +142,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000805118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000805118",
         "name": "\u00a7 7",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -147,6 +156,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000200000",
         "name": "Teil 2",
         "title": "Vorschriften f\u00fcr die Erstversicherung und die R\u00fcckversicherung",
         "parent": null
@@ -154,6 +164,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000300000",
         "name": "Kapitel 1",
         "title": "Gesch\u00e4ftst\u00e4tigkeit",
         "parent": {
@@ -164,6 +175,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000400000",
         "name": "Abschnitt 1",
         "title": "Zulassung und Aus\u00fcbung der Gesch\u00e4ftst\u00e4tigkeit",
         "parent": {
@@ -174,6 +186,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE000900000",
         "name": "\u00a7 8",
         "title": "Erlaubnis; Spartentrennung",
         "parent": {
@@ -187,6 +200,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001001118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001001118",
         "name": "\u00a7 9",
         "title": "Antrag",
         "parent": {
@@ -200,6 +214,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001100000",
         "name": "\u00a7 10",
         "title": "Umfang der Erlaubnis",
         "parent": {
@@ -213,6 +228,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001200000",
         "name": "\u00a7 11",
         "title": "Versagung und Beschr\u00e4nkung der Erlaubnis",
         "parent": {
@@ -226,6 +242,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001302360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001302360",
         "name": "\u00a7 12",
         "title": "\u00c4nderungen des Gesch\u00e4ftsplans und von Unternehmensvertr\u00e4gen",
         "parent": {
@@ -239,6 +256,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001401118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001401118",
         "name": "\u00a7 13",
         "title": "Bestands\u00fcbertragungen",
         "parent": {
@@ -252,6 +270,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001500000",
         "name": "\u00a7 14",
         "title": "Umwandlungen",
         "parent": {
@@ -265,6 +284,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001601118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001601118",
         "name": "\u00a7 15",
         "title": "Versicherungsfremde Gesch\u00e4fte",
         "parent": {
@@ -278,6 +298,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036002118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036002118",
         "name": "\u00a7 15a",
         "title": "Immobiliar-Verbraucherdarlehen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -291,6 +312,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000500000",
         "name": "Abschnitt 2",
         "title": "Bedeutende Beteiligungen",
         "parent": {
@@ -301,6 +323,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001700000",
         "name": "\u00a7 16",
         "title": "Inhaber bedeutender Beteiligungen",
         "parent": {
@@ -314,6 +337,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001800000",
         "name": "\u00a7 17",
         "title": "Anzeige bedeutender Beteiligungen",
         "parent": {
@@ -327,6 +351,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE001900000",
         "name": "\u00a7 18",
         "title": "Untersagung oder Beschr\u00e4nkung einer bedeutenden Beteiligung",
         "parent": {
@@ -340,6 +365,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002000000",
         "name": "\u00a7 19",
         "title": "Untersagung der Aus\u00fcbung der Stimmrechte",
         "parent": {
@@ -353,6 +379,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002100000",
         "name": "\u00a7 20",
         "title": "Pr\u00fcfung des Inhabers",
         "parent": {
@@ -366,6 +393,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002200000",
         "name": "\u00a7 21",
         "title": "Zusammenarbeit mit den zust\u00e4ndigen Beh\u00f6rden in anderen Mitglied- oder Vertragsstaaten",
         "parent": {
@@ -379,6 +407,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002300000",
         "name": "\u00a7 22",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -392,6 +421,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000600000",
         "name": "Abschnitt 3",
         "title": "Gesch\u00e4ftsorganisation",
         "parent": {
@@ -402,6 +432,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002404118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002404118",
         "name": "\u00a7 23",
         "title": "Allgemeine Anforderungen an die Gesch\u00e4ftsorganisation, Produktfreigabeverfahren",
         "parent": {
@@ -415,6 +446,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002501118",
         "name": "\u00a7 24",
         "title": "Anforderungen an Personen, die das Unternehmen tats\u00e4chlich leiten oder andere Schl\u00fcsselaufgaben wahrnehmen",
         "parent": {
@@ -428,6 +460,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002601118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002601118",
         "name": "\u00a7 25",
         "title": "Verg\u00fctung",
         "parent": {
@@ -441,6 +474,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002700000",
         "name": "\u00a7 26",
         "title": "Risikomanagement",
         "parent": {
@@ -454,6 +488,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002801118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002801118",
         "name": "\u00a7 27",
         "title": "Risiko- und Solvabilit\u00e4tsbeurteilung",
         "parent": {
@@ -467,6 +502,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE002900000",
         "name": "\u00a7 28",
         "title": "Externe Ratings",
         "parent": {
@@ -480,6 +516,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003001118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003001118",
         "name": "\u00a7 29",
         "title": "Internes Kontrollsystem",
         "parent": {
@@ -493,6 +530,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003100000",
         "name": "\u00a7 30",
         "title": "Interne Revision",
         "parent": {
@@ -506,6 +544,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003201118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003201118",
         "name": "\u00a7 31",
         "title": "Versicherungsmathematische Funktion",
         "parent": {
@@ -519,6 +558,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003300000",
         "name": "\u00a7 32",
         "title": "Ausgliederung",
         "parent": {
@@ -532,6 +572,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003400000",
         "name": "\u00a7 33",
         "title": "Entsprechende Anwendung gesellschaftsrechtlicher Vorschriften",
         "parent": {
@@ -545,6 +586,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003500000",
         "name": "\u00a7 34",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -558,6 +600,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000700000",
         "name": "Abschnitt 4",
         "title": "Allgemeine Berichtspflichten",
         "parent": {
@@ -568,6 +611,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000800000",
         "name": "Unterabschnitt 1",
         "title": "Abschlusspr\u00fcfung",
         "parent": {
@@ -578,6 +622,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003605360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003605360",
         "name": "\u00a7 35",
         "title": "Pflichten des Abschlusspr\u00fcfers",
         "parent": {
@@ -591,6 +636,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003700000",
         "name": "\u00a7 36",
         "title": "Anzeige des Abschlusspr\u00fcfers gegen\u00fcber der Aufsichtsbeh\u00f6rde; Pr\u00fcfungsauftrag",
         "parent": {
@@ -604,6 +650,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003800000",
         "name": "\u00a7 37",
         "title": "Vorlage bei der Aufsichtsbeh\u00f6rde",
         "parent": {
@@ -617,6 +664,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE003900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE003900000",
         "name": "\u00a7 38",
         "title": "Rechnungslegung und Pr\u00fcfung \u00f6ffentlich-rechtlicher Versicherungsunternehmen",
         "parent": {
@@ -630,6 +678,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004002360",
         "name": "\u00a7 39",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -643,6 +692,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG000900000",
         "name": "Unterabschnitt 2",
         "title": "Bericht \u00fcber Solvabilit\u00e4t und Finanzlage",
         "parent": {
@@ -653,6 +703,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004101360",
         "name": "\u00a7 40",
         "title": "Solvabilit\u00e4ts- und Finanzbericht",
         "parent": {
@@ -666,6 +717,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004201118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004201118",
         "name": "\u00a7 41",
         "title": "Nichtver\u00f6ffentlichung von Informationen",
         "parent": {
@@ -679,6 +731,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004300000",
         "name": "\u00a7 42",
         "title": "Aktualisierung des Solvabilit\u00e4ts- und Finanzberichts",
         "parent": {
@@ -692,6 +745,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001000000",
         "name": "Unterabschnitt 3",
         "title": "F\u00fcr Aufsichtszwecke beizubringende Informationen",
         "parent": {
@@ -702,6 +756,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004400000",
         "name": "\u00a7 43",
         "title": "Informationspflichten; Berechnungen",
         "parent": {
@@ -715,6 +770,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036300118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036300118",
         "name": "\u00a7 43a",
         "title": "Berichtspflichten zum Zwecke der Finanzstabilit\u00e4t; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -728,6 +784,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004500000",
         "name": "\u00a7 44",
         "title": "Prognoserechnungen",
         "parent": {
@@ -741,6 +798,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004600000",
         "name": "\u00a7 45",
         "title": "Befreiung von Berichtspflichten",
         "parent": {
@@ -754,6 +812,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004700000",
         "name": "\u00a7 46",
         "title": "Informationspflichten gegen\u00fcber der Bundesanstalt",
         "parent": {
@@ -767,6 +826,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004800000",
         "name": "\u00a7 47",
         "title": "Anzeigepflichten",
         "parent": {
@@ -780,6 +840,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001101118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001101118",
         "name": "Abschnitt 5",
         "title": "Versicherungsvertrieb",
         "parent": {
@@ -790,6 +851,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE004901118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE004901118",
         "name": "\u00a7 48",
         "title": "Anforderungen an den Versicherungsvertrieb",
         "parent": {
@@ -803,6 +865,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037000118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037000118",
         "name": "\u00a7 48a",
         "title": "Vertriebsverg\u00fctung und Vermeidung von Interessenkonflikten",
         "parent": {
@@ -816,6 +879,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037100118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037100118",
         "name": "\u00a7 48b",
         "title": "Sonderverg\u00fctungs- und Provisionsabgabeverbot",
         "parent": {
@@ -829,6 +893,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037200118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037200118",
         "name": "\u00a7 48c",
         "title": "Durchleitungsgebot",
         "parent": {
@@ -842,6 +907,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005000000",
         "name": "\u00a7 49",
         "title": "Stornohaftung",
         "parent": {
@@ -855,6 +921,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005100000",
         "name": "\u00a7 50",
         "title": "Entgelt bei der Vermittlung substitutiver Krankenversicherungsvertr\u00e4ge",
         "parent": {
@@ -868,6 +935,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005201118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005201118",
         "name": "\u00a7 51",
         "title": "Beschwerden \u00fcber Versicherungsvermittler",
         "parent": {
@@ -881,6 +949,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001200000",
         "name": "Abschnitt 6",
         "title": "Verhinderung von Geldw\u00e4sche und von Terrorismusfinanzierung",
         "parent": {
@@ -891,6 +960,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005301118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005301118",
         "name": "\u00a7 52",
         "title": "Verpflichtete Unternehmen",
         "parent": {
@@ -904,6 +974,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005402360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005402360",
         "name": "\u00a7 53",
         "title": "Interne Sicherungsma\u00dfnahmen",
         "parent": {
@@ -917,6 +988,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005501118",
         "name": "\u00a7 54",
         "title": "Allgemeine Sorgfaltspflichten in Bezug auf den Bezugsberechtigten",
         "parent": {
@@ -930,6 +1002,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005601118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005601118",
         "name": "\u00a7 55",
         "title": "Verst\u00e4rkte Sorgfaltspflichten",
         "parent": {
@@ -943,6 +1016,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005701118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005701118",
         "name": "\u00a7 56",
         "title": "(weggefallen)",
         "parent": {
@@ -956,6 +1030,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001300000",
         "name": "Abschnitt 7",
         "title": "Grenz\u00fcberschreitende Gesch\u00e4ftst\u00e4tigkeit",
         "parent": {
@@ -966,6 +1041,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001400000",
         "name": "Unterabschnitt 1",
         "title": "Dienstleistungsverkehr, Niederlassungen",
         "parent": {
@@ -976,6 +1052,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005800000",
         "name": "\u00a7 57",
         "title": "Versicherungsgesch\u00e4fte \u00fcber Niederlassungen oder im Dienstleistungsverkehr",
         "parent": {
@@ -989,6 +1066,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE005900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE005900000",
         "name": "\u00a7 58",
         "title": "Errichtung einer Niederlassung",
         "parent": {
@@ -1002,6 +1080,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006000000",
         "name": "\u00a7 59",
         "title": "Aufnahme des Dienstleistungsverkehrs",
         "parent": {
@@ -1015,6 +1094,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006101118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006101118",
         "name": "\u00a7 60",
         "title": "Statistische Angaben \u00fcber grenz\u00fcberschreitende T\u00e4tigkeiten",
         "parent": {
@@ -1028,6 +1108,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001500000",
         "name": "Unterabschnitt 2",
         "title": "Unternehmen mit Sitz in einem Mitgliedstaat der Europ\u00e4ischen Union oder einem anderen Vertragsstaat des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum",
         "parent": {
@@ -1038,6 +1119,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006201118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006201118",
         "name": "\u00a7 61",
         "title": "Gesch\u00e4ftst\u00e4tigkeit durch eine Niederlassung oder im Dienstleistungsverkehr",
         "parent": {
@@ -1051,6 +1133,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006303118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006303118",
         "name": "\u00a7 62",
         "title": "Beaufsichtigung der Gesch\u00e4ftst\u00e4tigkeit",
         "parent": {
@@ -1064,6 +1147,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006400000",
         "name": "\u00a7 63",
         "title": "Bestands\u00fcbertragungen",
         "parent": {
@@ -1077,6 +1161,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006500000",
         "name": "\u00a7 64",
         "title": "Bei Lloyd\u00b4s vereinigte Einzelversicherer",
         "parent": {
@@ -1090,6 +1175,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006600000",
         "name": "\u00a7 65",
         "title": "Niederlassung",
         "parent": {
@@ -1103,6 +1189,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006700000",
         "name": "\u00a7 66",
         "title": "Dienstleistungsverkehr; Mitversicherung",
         "parent": {
@@ -1116,6 +1203,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE039700128",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE039700128",
         "name": "\u00a7 66a",
         "title": "Entsprechende Anwendung des EU-Passregimes",
         "parent": {
@@ -1129,6 +1217,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001600000",
         "name": "Unterabschnitt 3",
         "title": "Unternehmen mit Sitz au\u00dferhalb des Europ\u00e4ischen Wirtschaftsraums",
         "parent": {
@@ -1139,6 +1228,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006802360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006802360",
         "name": "\u00a7 67",
         "title": "Erlaubnis; Spartentrennung",
         "parent": {
@@ -1152,6 +1242,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE006900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE006900000",
         "name": "\u00a7 68",
         "title": "Niederlassung; Hauptbevollm\u00e4chtigter",
         "parent": {
@@ -1165,6 +1256,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007000000",
         "name": "\u00a7 69",
         "title": "Antrag; Verfahren",
         "parent": {
@@ -1178,6 +1270,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007100000",
         "name": "\u00a7 70",
         "title": "Erleichterungen f\u00fcr Unternehmen, die bereits in einem anderen Mitglied- oder Vertragsstaat zugelassen sind",
         "parent": {
@@ -1191,6 +1284,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007200000",
         "name": "\u00a7 71",
         "title": "Widerruf der Erlaubnis",
         "parent": {
@@ -1204,6 +1298,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007300000",
         "name": "\u00a7 72",
         "title": "Versicherung inl\u00e4ndischer Risiken",
         "parent": {
@@ -1217,6 +1312,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007400000",
         "name": "\u00a7 73",
         "title": "Bestands\u00fcbertragung",
         "parent": {
@@ -1230,6 +1326,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001700000",
         "name": "Kapitel 2",
         "title": "Finanzielle Ausstattung",
         "parent": {
@@ -1240,6 +1337,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001800000",
         "name": "Abschnitt 1",
         "title": "Solvabilit\u00e4ts\u00fcbersicht",
         "parent": {
@@ -1250,6 +1348,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007500000",
         "name": "\u00a7 74",
         "title": "Bewertung der Verm\u00f6genswerte und Verbindlichkeiten",
         "parent": {
@@ -1263,6 +1362,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007600000",
         "name": "\u00a7 75",
         "title": "Allgemeine Vorschriften f\u00fcr die Bildung versicherungstechnischer R\u00fcckstellungen",
         "parent": {
@@ -1276,6 +1376,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007700000",
         "name": "\u00a7 76",
         "title": "Wert der versicherungstechnischen R\u00fcckstellungen",
         "parent": {
@@ -1289,6 +1390,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007800000",
         "name": "\u00a7 77",
         "title": "Bester Sch\u00e4tzwert",
         "parent": {
@@ -1302,6 +1404,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE007900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE007900000",
         "name": "\u00a7 78",
         "title": "Risikomarge",
         "parent": {
@@ -1315,6 +1418,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008000000",
         "name": "\u00a7 79",
         "title": "Allgemeine Grunds\u00e4tze f\u00fcr die Berechnung der versicherungstechnischen R\u00fcckstellungen",
         "parent": {
@@ -1328,6 +1432,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008100000",
         "name": "\u00a7 80",
         "title": "Matching-Anpassung an die ma\u00dfgebliche risikofreie Zinskurve",
         "parent": {
@@ -1341,6 +1446,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008200000",
         "name": "\u00a7 81",
         "title": "Berechnung der Matching-Anpassung",
         "parent": {
@@ -1354,6 +1460,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008300000",
         "name": "\u00a7 82",
         "title": "Volatilit\u00e4tsanpassung",
         "parent": {
@@ -1367,6 +1474,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008401360",
         "name": "\u00a7 83",
         "title": "Zu ber\u00fccksichtigende technische Informationen",
         "parent": {
@@ -1380,6 +1488,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008500000",
         "name": "\u00a7 84",
         "title": "Weitere Sachverhalte, die bei der Berechnung der versicherungstechnischen R\u00fcckstellungen zu ber\u00fccksichtigen sind",
         "parent": {
@@ -1393,6 +1502,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008600000",
         "name": "\u00a7 85",
         "title": "Finanzgarantien und vertragliche Optionen in den Versicherungsvertr\u00e4gen",
         "parent": {
@@ -1406,6 +1516,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008700000",
         "name": "\u00a7 86",
         "title": "Einforderbare Betr\u00e4ge aus R\u00fcckversicherungsvertr\u00e4gen und gegen\u00fcber Zweckgesellschaften",
         "parent": {
@@ -1419,6 +1530,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008800000",
         "name": "\u00a7 87",
         "title": "Vergleich mit Erfahrungsdaten",
         "parent": {
@@ -1432,6 +1544,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE008900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE008900000",
         "name": "\u00a7 88",
         "title": "Befugnisse der Aufsichtsbeh\u00f6rde in Bezug auf versicherungstechnische R\u00fcckstellungen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1445,6 +1558,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG001900000",
         "name": "Abschnitt 2",
         "title": "Solvabilit\u00e4tsanforderungen",
         "parent": {
@@ -1455,6 +1569,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002000000",
         "name": "Unterabschnitt 1",
         "title": "Bestimmung der Eigenmittel",
         "parent": {
@@ -1465,6 +1580,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009000000",
         "name": "\u00a7 89",
         "title": "Eigenmittel",
         "parent": {
@@ -1478,6 +1594,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009100000",
         "name": "\u00a7 90",
         "title": "Genehmigung erg\u00e4nzender Eigenmittel",
         "parent": {
@@ -1491,6 +1608,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009200000",
         "name": "\u00a7 91",
         "title": "Einstufung der Eigenmittelbestandteile",
         "parent": {
@@ -1504,6 +1622,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009300000",
         "name": "\u00a7 92",
         "title": "Kriterien der Einstufung",
         "parent": {
@@ -1517,6 +1636,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009400000",
         "name": "\u00a7 93",
         "title": "Einstufung bestimmter Eigenmittelbestandteile",
         "parent": {
@@ -1530,6 +1650,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009501118",
         "name": "\u00a7 94",
         "title": "Eigenmittel zur Einhaltung der Solvabilit\u00e4tskapitalanforderung",
         "parent": {
@@ -1543,6 +1664,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009600000",
         "name": "\u00a7 95",
         "title": "Eigenmittel zur Einhaltung der Mindestkapitalanforderung",
         "parent": {
@@ -1556,6 +1678,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002100000",
         "name": "Unterabschnitt 2",
         "title": "Solvabilit\u00e4tskapitalanforderung",
         "parent": {
@@ -1566,6 +1689,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009700000",
         "name": "\u00a7 96",
         "title": "Ermittlung der Solvabilit\u00e4tskapitalanforderung",
         "parent": {
@@ -1579,6 +1703,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009800000",
         "name": "\u00a7 97",
         "title": "Berechnung der Solvabilit\u00e4tskapitalanforderung",
         "parent": {
@@ -1592,6 +1717,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE009900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE009900000",
         "name": "\u00a7 98",
         "title": "H\u00e4ufigkeit der Berechnung",
         "parent": {
@@ -1605,6 +1731,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010000000",
         "name": "\u00a7 99",
         "title": "Struktur der Standardformel",
         "parent": {
@@ -1618,6 +1745,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010100000",
         "name": "\u00a7 100",
         "title": "Aufbau der Basissolvabilit\u00e4tskapitalanforderung",
         "parent": {
@@ -1631,6 +1759,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010200000",
         "name": "\u00a7 101",
         "title": "Nichtlebensversicherungstechnisches Risikomodul",
         "parent": {
@@ -1644,6 +1773,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010300000",
         "name": "\u00a7 102",
         "title": "Lebensversicherungstechnisches Risikomodul",
         "parent": {
@@ -1657,6 +1787,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010400000",
         "name": "\u00a7 103",
         "title": "Krankenversicherungstechnisches Risikomodul",
         "parent": {
@@ -1670,6 +1801,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010500000",
         "name": "\u00a7 104",
         "title": "Marktrisikomodul",
         "parent": {
@@ -1683,6 +1815,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010600000",
         "name": "\u00a7 105",
         "title": "Gegenparteiausfallrisikomodul",
         "parent": {
@@ -1696,6 +1829,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010700000",
         "name": "\u00a7 106",
         "title": "Aktienrisikountermodul",
         "parent": {
@@ -1709,6 +1843,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010800000",
         "name": "\u00a7 107",
         "title": "Kapitalanforderung f\u00fcr das operationelle Risiko",
         "parent": {
@@ -1722,6 +1857,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE010900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE010900000",
         "name": "\u00a7 108",
         "title": "Anpassung f\u00fcr die Verlustausgleichsf\u00e4higkeit der versicherungstechnischen R\u00fcckstellungen und latenten Steuern",
         "parent": {
@@ -1735,6 +1871,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011000000",
         "name": "\u00a7 109",
         "title": "Abweichungen von der Standardformel",
         "parent": {
@@ -1748,6 +1885,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011100000",
         "name": "\u00a7 110",
         "title": "Wesentliche Abweichungen von den Annahmen, die der Berechnung mit der Standardformel zugrunde liegen",
         "parent": {
@@ -1761,6 +1899,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002200000",
         "name": "Unterabschnitt 3",
         "title": "Interne Modelle",
         "parent": {
@@ -1771,6 +1910,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011200000",
         "name": "\u00a7 111",
         "title": "Verwendung interner Modelle",
         "parent": {
@@ -1784,6 +1924,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011300000",
         "name": "\u00a7 112",
         "title": "Interne Modelle in Form von Partialmodellen",
         "parent": {
@@ -1797,6 +1938,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011400000",
         "name": "\u00a7 113",
         "title": "Verantwortung des Vorstands; Mitwirkung Dritter",
         "parent": {
@@ -1810,6 +1952,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011500000",
         "name": "\u00a7 114",
         "title": "Nichterf\u00fcllung der Anforderungen an das interne Modell",
         "parent": {
@@ -1823,6 +1966,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011600000",
         "name": "\u00a7 115",
         "title": "Verwendungstest",
         "parent": {
@@ -1836,6 +1980,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011700000",
         "name": "\u00a7 116",
         "title": "Statistische Qualit\u00e4tsstandards f\u00fcr Wahrscheinlichkeitsverteilungsprognosen",
         "parent": {
@@ -1849,6 +1994,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011800000",
         "name": "\u00a7 117",
         "title": "Sonstige statistische Qualit\u00e4tsstandards",
         "parent": {
@@ -1862,6 +2008,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE011900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE011900000",
         "name": "\u00a7 118",
         "title": "Kalibrierungsstandards",
         "parent": {
@@ -1875,6 +2022,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012000000",
         "name": "\u00a7 119",
         "title": "Zuordnung von Gewinnen und Verlusten",
         "parent": {
@@ -1888,6 +2036,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012100000",
         "name": "\u00a7 120",
         "title": "Validierungsstandards",
         "parent": {
@@ -1901,6 +2050,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012200000",
         "name": "\u00a7 121",
         "title": "Dokumentationsstandards",
         "parent": {
@@ -1914,6 +2064,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002300000",
         "name": "Unterabschnitt 4",
         "title": "Mindestkapitalanforderung",
         "parent": {
@@ -1924,6 +2075,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012300000",
         "name": "\u00a7 122",
         "title": "Bestimmung der Mindestkapitalanforderung; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1937,6 +2089,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012400000",
         "name": "\u00a7 123",
         "title": "Berechnungsturnus; Meldepflichten",
         "parent": {
@@ -1950,6 +2103,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002400000",
         "name": "Abschnitt 3",
         "title": "Anlagen; Sicherungsverm\u00f6gen",
         "parent": {
@@ -1960,6 +2114,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012501118",
         "name": "\u00a7 124",
         "title": "Anlagegrunds\u00e4tze",
         "parent": {
@@ -1973,6 +2128,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012600000",
         "name": "\u00a7 125",
         "title": "Sicherungsverm\u00f6gen",
         "parent": {
@@ -1986,6 +2142,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012700000",
         "name": "\u00a7 126",
         "title": "Verm\u00f6gensverzeichnis",
         "parent": {
@@ -1999,6 +2156,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012800000",
         "name": "\u00a7 127",
         "title": "Zuf\u00fchrungen zum Sicherungsverm\u00f6gen",
         "parent": {
@@ -2012,6 +2170,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE012900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE012900000",
         "name": "\u00a7 128",
         "title": "Treuh\u00e4nder f\u00fcr das Sicherungsverm\u00f6gen",
         "parent": {
@@ -2025,6 +2184,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013000000",
         "name": "\u00a7 129",
         "title": "Sicherstellung des Sicherungsverm\u00f6gens",
         "parent": {
@@ -2038,6 +2198,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013100000",
         "name": "\u00a7 130",
         "title": "Entnahme aus dem Sicherungsverm\u00f6gen",
         "parent": {
@@ -2051,6 +2212,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013200000",
         "name": "\u00a7 131",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2064,6 +2226,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002500000",
         "name": "Abschnitt 4",
         "title": "Versicherungsunternehmen in besonderen Situationen",
         "parent": {
@@ -2074,6 +2237,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013300000",
         "name": "\u00a7 132",
         "title": "Feststellung und Anzeige einer sich verschlechternden finanziellen Lage",
         "parent": {
@@ -2087,6 +2251,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013400000",
         "name": "\u00a7 133",
         "title": "Unzureichende H\u00f6he versicherungstechnischer R\u00fcckstellungen",
         "parent": {
@@ -2100,6 +2265,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013501118",
         "name": "\u00a7 134",
         "title": "Nichtbedeckung der Solvabilit\u00e4tskapitalanforderung",
         "parent": {
@@ -2113,6 +2279,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013600000",
         "name": "\u00a7 135",
         "title": "Nichtbedeckung der Mindestkapitalanforderung",
         "parent": {
@@ -2126,6 +2293,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013700000",
         "name": "\u00a7 136",
         "title": "Sanierungs- und Finanzierungsplan",
         "parent": {
@@ -2139,6 +2307,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013800000",
         "name": "\u00a7 137",
         "title": "Fortschreitende Verschlechterung der Solvabilit\u00e4t",
         "parent": {
@@ -2152,6 +2321,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002600000",
         "name": "Kapitel 3",
         "title": "Besondere Vorschriften f\u00fcr einzelne Zweige",
         "parent": {
@@ -2162,6 +2332,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002700000",
         "name": "Abschnitt 1",
         "title": "Lebensversicherung",
         "parent": {
@@ -2172,6 +2343,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE013900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE013900000",
         "name": "\u00a7 138",
         "title": "Pr\u00e4mienkalkulation in der Lebensversicherung; Gleichbehandlung",
         "parent": {
@@ -2185,6 +2357,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014000000",
         "name": "\u00a7 139",
         "title": "\u00dcberschussbeteiligung",
         "parent": {
@@ -2198,6 +2371,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014100000",
         "name": "\u00a7 140",
         "title": "R\u00fcckstellung f\u00fcr Beitragsr\u00fcckerstattung",
         "parent": {
@@ -2211,6 +2385,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014201118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014201118",
         "name": "\u00a7 141",
         "title": "Verantwortlicher Aktuar in der Lebensversicherung",
         "parent": {
@@ -2224,6 +2399,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014300000",
         "name": "\u00a7 142",
         "title": "Treuh\u00e4nder in der Lebensversicherung",
         "parent": {
@@ -2237,6 +2413,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014400000",
         "name": "\u00a7 143",
         "title": "Besondere Anzeigepflichten in der Lebensversicherung",
         "parent": {
@@ -2250,6 +2427,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014502118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014502118",
         "name": "\u00a7 144",
         "title": "Information bei betrieblicher Altersversorgung",
         "parent": {
@@ -2263,6 +2441,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014601118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014601118",
         "name": "\u00a7 145",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2276,6 +2455,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002800000",
         "name": "Abschnitt 2",
         "title": "Krankenversicherung",
         "parent": {
@@ -2286,6 +2466,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014700000",
         "name": "\u00a7 146",
         "title": "Substitutive Krankenversicherung",
         "parent": {
@@ -2299,6 +2480,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014800000",
         "name": "\u00a7 147",
         "title": "Sonstige Krankenversicherung",
         "parent": {
@@ -2312,6 +2494,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE014900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE014900000",
         "name": "\u00a7 148",
         "title": "Pflegeversicherung",
         "parent": {
@@ -2325,6 +2508,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015000000",
         "name": "\u00a7 149",
         "title": "Pr\u00e4mienzuschlag in der substitutiven Krankenversicherung",
         "parent": {
@@ -2338,6 +2522,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015100000",
         "name": "\u00a7 150",
         "title": "Gutschrift zur Alterungsr\u00fcckstellung; Direktgutschrift",
         "parent": {
@@ -2351,6 +2536,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015200000",
         "name": "\u00a7 151",
         "title": "\u00dcberschussbeteiligung der Versicherten",
         "parent": {
@@ -2364,6 +2550,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015301123",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015301123",
         "name": "\u00a7 152",
         "title": "Basistarif",
         "parent": {
@@ -2377,6 +2564,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015400000",
         "name": "\u00a7 153",
         "title": "Notlagentarif",
         "parent": {
@@ -2390,6 +2578,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015500000",
         "name": "\u00a7 154",
         "title": "Risikoausgleich",
         "parent": {
@@ -2403,6 +2592,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015600000",
         "name": "\u00a7 155",
         "title": "Pr\u00e4mien\u00e4nderungen",
         "parent": {
@@ -2416,6 +2606,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015701118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015701118",
         "name": "\u00a7 156",
         "title": "Verantwortlicher Aktuar in der Krankenversicherung",
         "parent": {
@@ -2429,6 +2620,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015800000",
         "name": "\u00a7 157",
         "title": "Treuh\u00e4nder in der Krankenversicherung",
         "parent": {
@@ -2442,6 +2634,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE015900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE015900000",
         "name": "\u00a7 158",
         "title": "Besondere Anzeigepflichten in der Krankenversicherung; Leistungen im Basis- und Notlagentarif",
         "parent": {
@@ -2455,6 +2648,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016000000",
         "name": "\u00a7 159",
         "title": "Statistische Daten",
         "parent": {
@@ -2468,6 +2662,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016100000",
         "name": "\u00a7 160",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2481,6 +2676,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG002900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG002900000",
         "name": "Abschnitt 3",
         "title": "Sonstige Nichtlebensversicherung",
         "parent": {
@@ -2491,6 +2687,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016201118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016201118",
         "name": "\u00a7 161",
         "title": "Unfallversicherung mit Pr\u00e4mienr\u00fcckgew\u00e4hr",
         "parent": {
@@ -2504,6 +2701,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016300000",
         "name": "\u00a7 162",
         "title": "Deckungsr\u00fcckstellung f\u00fcr Haftpflicht- und Unfall-Renten",
         "parent": {
@@ -2517,6 +2715,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016400000",
         "name": "\u00a7 163",
         "title": "Schadenregulierungsbeauftragte in der Kraftfahrzeug-Haftpflichtversicherung",
         "parent": {
@@ -2530,6 +2729,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016500000",
         "name": "\u00a7 164",
         "title": "Schadenabwicklung in der Rechtsschutzversicherung",
         "parent": {
@@ -2543,6 +2743,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003000000",
         "name": "Abschnitt 4",
         "title": "R\u00fcckversicherung",
         "parent": {
@@ -2553,6 +2754,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016600000",
         "name": "\u00a7 165",
         "title": "R\u00fcckversicherungsunternehmen in Abwicklung",
         "parent": {
@@ -2566,6 +2768,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016700000",
         "name": "\u00a7 166",
         "title": "Bestands\u00fcbertragungen; Umwandlungen",
         "parent": {
@@ -2579,6 +2782,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016800000",
         "name": "\u00a7 167",
         "title": "Finanzr\u00fcckversicherung",
         "parent": {
@@ -2592,6 +2796,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE016900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE016900000",
         "name": "\u00a7 168",
         "title": "Versicherungs-Zweckgesellschaften",
         "parent": {
@@ -2605,6 +2810,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017000000",
         "name": "\u00a7 169",
         "title": "R\u00fcckversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat",
         "parent": {
@@ -2618,6 +2824,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017100000",
         "name": "\u00a7 170",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2631,6 +2838,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003100000",
         "name": "Kapitel 4",
         "title": "Versicherungsvereine auf Gegenseitigkeit",
         "parent": {
@@ -2641,6 +2849,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017200000",
         "name": "\u00a7 171",
         "title": "Rechtsf\u00e4higkeit",
         "parent": {
@@ -2654,6 +2863,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017300000",
         "name": "\u00a7 172",
         "title": "Anwendung handelsrechtlicher Vorschriften",
         "parent": {
@@ -2667,6 +2877,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017400000",
         "name": "\u00a7 173",
         "title": "Satzung",
         "parent": {
@@ -2680,6 +2891,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017500000",
         "name": "\u00a7 174",
         "title": "Firma",
         "parent": {
@@ -2693,6 +2905,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017600000",
         "name": "\u00a7 175",
         "title": "Haftung f\u00fcr Verbindlichkeiten",
         "parent": {
@@ -2706,6 +2919,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017700000",
         "name": "\u00a7 176",
         "title": "Mitgliedschaft",
         "parent": {
@@ -2719,6 +2933,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017800000",
         "name": "\u00a7 177",
         "title": "Gleichbehandlung",
         "parent": {
@@ -2732,6 +2947,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE017901118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE017901118",
         "name": "\u00a7 178",
         "title": "Gr\u00fcndungsstock",
         "parent": {
@@ -2745,6 +2961,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018000000",
         "name": "\u00a7 179",
         "title": "Beitr\u00e4ge",
         "parent": {
@@ -2758,6 +2975,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018100000",
         "name": "\u00a7 180",
         "title": "Beitragspflicht ausgeschiedener oder eingetretener Mitglieder",
         "parent": {
@@ -2771,6 +2989,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018200000",
         "name": "\u00a7 181",
         "title": "Aufrechnungsverbot",
         "parent": {
@@ -2784,6 +3003,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018300000",
         "name": "\u00a7 182",
         "title": "Ausschreibung von Umlagen und Nachsch\u00fcssen",
         "parent": {
@@ -2797,6 +3017,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018400000",
         "name": "\u00a7 183",
         "title": "Bekanntmachungen",
         "parent": {
@@ -2810,6 +3031,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018500000",
         "name": "\u00a7 184",
         "title": "Organe",
         "parent": {
@@ -2823,6 +3045,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018600000",
         "name": "\u00a7 185",
         "title": "Anmeldung zum Handelsregister",
         "parent": {
@@ -2836,6 +3059,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018700000",
         "name": "\u00a7 186",
         "title": "Unterlagen zur Anmeldung",
         "parent": {
@@ -2849,6 +3073,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018800000",
         "name": "\u00a7 187",
         "title": "Eintragung",
         "parent": {
@@ -2862,6 +3087,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE018902360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE018902360",
         "name": "\u00a7 188",
         "title": "Vorstand",
         "parent": {
@@ -2875,6 +3101,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019002360",
         "name": "\u00a7 189",
         "title": "Aufsichtsrat",
         "parent": {
@@ -2888,6 +3115,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019100000",
         "name": "\u00a7 190",
         "title": "Schadenersatzpflicht",
         "parent": {
@@ -2901,6 +3129,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019201360",
         "name": "\u00a7 191",
         "title": "Oberste Vertretung",
         "parent": {
@@ -2914,6 +3143,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019300000",
         "name": "\u00a7 192",
         "title": "Rechte von Minderheiten",
         "parent": {
@@ -2927,6 +3157,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019400000",
         "name": "\u00a7 193",
         "title": "Verlustr\u00fccklage",
         "parent": {
@@ -2940,6 +3171,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019500000",
         "name": "\u00a7 194",
         "title": "\u00dcberschussverwendung",
         "parent": {
@@ -2953,6 +3185,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019600000",
         "name": "\u00a7 195",
         "title": "\u00c4nderung der Satzung",
         "parent": {
@@ -2966,6 +3199,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019700000",
         "name": "\u00a7 196",
         "title": "Eintragung der Satzungs\u00e4nderung",
         "parent": {
@@ -2979,6 +3213,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019800000",
         "name": "\u00a7 197",
         "title": "\u00c4nderung der allgemeinen Versicherungsbedingungen",
         "parent": {
@@ -2992,6 +3227,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE019900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE019900000",
         "name": "\u00a7 198",
         "title": "Aufl\u00f6sung des Vereins",
         "parent": {
@@ -3005,6 +3241,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020000000",
         "name": "\u00a7 199",
         "title": "Aufl\u00f6sungsbeschluss",
         "parent": {
@@ -3018,6 +3255,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020100000",
         "name": "\u00a7 200",
         "title": "Bestands\u00fcbertragung",
         "parent": {
@@ -3031,6 +3269,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020200000",
         "name": "\u00a7 201",
         "title": "Verlust der Mitgliedschaft",
         "parent": {
@@ -3044,6 +3283,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020300000",
         "name": "\u00a7 202",
         "title": "Anmeldung der Aufl\u00f6sung",
         "parent": {
@@ -3057,6 +3297,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020400000",
         "name": "\u00a7 203",
         "title": "Abwicklung",
         "parent": {
@@ -3070,6 +3311,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020500000",
         "name": "\u00a7 204",
         "title": "Abwicklungsverfahren",
         "parent": {
@@ -3083,6 +3325,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020600000",
         "name": "\u00a7 205",
         "title": "Tilgung des Gr\u00fcndungsstocks; Verm\u00f6gensverteilung",
         "parent": {
@@ -3096,6 +3339,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020700000",
         "name": "\u00a7 206",
         "title": "Fortsetzung des Vereins",
         "parent": {
@@ -3109,6 +3353,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020800000",
         "name": "\u00a7 207",
         "title": "Beitragspflicht im Insolvenzverfahren",
         "parent": {
@@ -3122,6 +3367,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE020900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE020900000",
         "name": "\u00a7 208",
         "title": "Rang der Insolvenzforderungen",
         "parent": {
@@ -3135,6 +3381,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021000000",
         "name": "\u00a7 209",
         "title": "Nachsch\u00fcsse und Umlagen im Insolvenzverfahren",
         "parent": {
@@ -3148,6 +3395,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021100000",
         "name": "\u00a7 210",
         "title": "Kleinere Vereine",
         "parent": {
@@ -3161,6 +3409,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003200000",
         "name": "Kapitel 5",
         "title": "Kleine Versicherungsunternehmen und Sterbekassen",
         "parent": {
@@ -3171,6 +3420,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003300000",
         "name": "Abschnitt 1",
         "title": "Kleine Versicherungsunternehmen",
         "parent": {
@@ -3181,6 +3431,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021201118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021201118",
         "name": "\u00a7 211",
         "title": "Kleine Versicherungsunternehmen",
         "parent": {
@@ -3194,6 +3445,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021304118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021304118",
         "name": "\u00a7 212",
         "title": "Anzuwendende Vorschriften",
         "parent": {
@@ -3207,6 +3459,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021401118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021401118",
         "name": "\u00a7 213",
         "title": "Solvabilit\u00e4ts- und Mindestkapitalanforderung",
         "parent": {
@@ -3220,6 +3473,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021501118",
         "name": "\u00a7 214",
         "title": "Eigenmittel",
         "parent": {
@@ -3233,6 +3487,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021600000",
         "name": "\u00a7 215",
         "title": "Anlagegrunds\u00e4tze f\u00fcr das Sicherungsverm\u00f6gen",
         "parent": {
@@ -3246,6 +3501,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021700000",
         "name": "\u00a7 216",
         "title": "Anzeigepflichten",
         "parent": {
@@ -3259,6 +3515,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021800000",
         "name": "\u00a7 217",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3272,6 +3529,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003400000",
         "name": "Abschnitt 2",
         "title": "Sterbekassen",
         "parent": {
@@ -3282,6 +3540,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE021900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE021900000",
         "name": "\u00a7 218",
         "title": "Sterbekassen",
         "parent": {
@@ -3295,6 +3554,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022001118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022001118",
         "name": "\u00a7 219",
         "title": "Anzuwendende Vorschriften",
         "parent": {
@@ -3308,6 +3568,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022100000",
         "name": "\u00a7 220",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3321,6 +3582,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003500000",
         "name": "Teil 3",
         "title": "Sicherungsfonds",
         "parent": null
@@ -3328,6 +3590,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022200000",
         "name": "\u00a7 221",
         "title": "Pflichtmitgliedschaft",
         "parent": {
@@ -3341,6 +3604,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022300000",
         "name": "\u00a7 222",
         "title": "Aufrechterhaltung der Versicherungsvertr\u00e4ge",
         "parent": {
@@ -3354,6 +3618,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022400000",
         "name": "\u00a7 223",
         "title": "Sicherungsfonds",
         "parent": {
@@ -3367,6 +3632,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022500000",
         "name": "\u00a7 224",
         "title": "Beleihung Privater",
         "parent": {
@@ -3380,6 +3646,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022600000",
         "name": "\u00a7 225",
         "title": "Aufsicht",
         "parent": {
@@ -3393,6 +3660,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022700000",
         "name": "\u00a7 226",
         "title": "Finanzierung",
         "parent": {
@@ -3406,6 +3674,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022800000",
         "name": "\u00a7 227",
         "title": "Rechnungslegung des Sicherungsfonds",
         "parent": {
@@ -3419,6 +3688,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE022900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE022900000",
         "name": "\u00a7 228",
         "title": "Mitwirkungspflichten",
         "parent": {
@@ -3432,6 +3702,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023000000",
         "name": "\u00a7 229",
         "title": "Ausschluss",
         "parent": {
@@ -3445,6 +3716,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023100000",
         "name": "\u00a7 230",
         "title": "Verschwiegenheitspflicht",
         "parent": {
@@ -3458,6 +3730,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023200000",
         "name": "\u00a7 231",
         "title": "Zwangsmittel",
         "parent": {
@@ -3471,6 +3744,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005900118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005900118",
         "name": "Abschnitt 1",
         "title": "Abgrenzung zu anderen Lebensversicherungsunternehmen",
         "parent": null
@@ -3478,6 +3752,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003600000",
         "name": "Teil 4",
         "title": "Einrichtungen der betrieblichen Altersversorgung",
         "parent": null
@@ -3485,6 +3760,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003700000",
         "name": "Kapitel 1",
         "title": "Pensionskassen",
         "parent": {
@@ -3495,6 +3771,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023301118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023301118",
         "name": "\u00a7 232",
         "title": "Pensionskassen",
         "parent": {
@@ -3508,6 +3785,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023401118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023401118",
         "name": "\u00a7 233",
         "title": "Regulierte Pensionskassen",
         "parent": {
@@ -3521,6 +3799,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023501118",
         "name": "\u00a7 234",
         "title": "Besonderheiten der Gesch\u00e4ftst\u00e4tigkeit, die nicht die Gesch\u00e4ftsorganisation betreffen",
         "parent": {
@@ -3534,6 +3813,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG006000118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG006000118",
         "name": "Abschnitt 2",
         "title": "Besonderheiten der Gesch\u00e4ftsorganisation",
         "parent": {
@@ -3544,6 +3824,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037800118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037800118",
         "name": "\u00a7 234a",
         "title": "Erg\u00e4nzende allgemeine Vorschriften",
         "parent": {
@@ -3557,6 +3838,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037900118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037900118",
         "name": "\u00a7 234b",
         "title": "Besondere Vorschriften zu Schl\u00fcsselfunktionen",
         "parent": {
@@ -3570,6 +3852,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038000118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038000118",
         "name": "\u00a7 234c",
         "title": "Risikomanagement",
         "parent": {
@@ -3583,6 +3866,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038100118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038100118",
         "name": "\u00a7 234d",
         "title": "Eigene Risikobeurteilung",
         "parent": {
@@ -3596,6 +3880,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038200118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038200118",
         "name": "\u00a7 234e",
         "title": "Erg\u00e4nzende Vorschriften zur Ausgliederung",
         "parent": {
@@ -3609,6 +3894,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG006100118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG006100118",
         "name": "Abschnitt 3",
         "title": "Besonderheiten in Bezug auf die finanzielle Ausstattung",
         "parent": {
@@ -3619,6 +3905,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038301118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038301118",
         "name": "\u00a7 234f",
         "title": "Allgemeines",
         "parent": {
@@ -3632,6 +3919,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038400118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038400118",
         "name": "\u00a7 234g",
         "title": "Solvabilit\u00e4tskapitalanforderung, Mindestkapitalanforderung und Eigenmittel",
         "parent": {
@@ -3645,6 +3933,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038500118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038500118",
         "name": "\u00a7 234h",
         "title": "Erg\u00e4nzende allgemeine Anlagegrunds\u00e4tze",
         "parent": {
@@ -3658,6 +3947,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038600118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038600118",
         "name": "\u00a7 234i",
         "title": "Anlagepolitik",
         "parent": {
@@ -3671,6 +3961,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038700118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038700118",
         "name": "\u00a7 234j",
         "title": "Besondere Vorschriften zum Sicherungsverm\u00f6gen",
         "parent": {
@@ -3684,6 +3975,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG006200118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG006200118",
         "name": "Abschnitt 4",
         "title": "Informationspflichten gegen\u00fcber Versorgungsanw\u00e4rtern und Versorgungsempf\u00e4ngern",
         "parent": {
@@ -3694,6 +3986,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038800118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038800118",
         "name": "\u00a7 234k",
         "title": "Anforderungen an zu erteilende Informationen",
         "parent": {
@@ -3707,6 +4000,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE038900118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE038900118",
         "name": "\u00a7 234l",
         "title": "Allgemeine Informationen zu einem Altersversorgungssystem",
         "parent": {
@@ -3720,6 +4014,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE039000118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE039000118",
         "name": "\u00a7 234m",
         "title": "Information der Versorgungsanw\u00e4rter bei Beginn des Versorgungsverh\u00e4ltnisses",
         "parent": {
@@ -3733,6 +4028,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE039100118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE039100118",
         "name": "\u00a7 234n",
         "title": "Information vor dem Beitritt zu einem Altersversorgungssystem",
         "parent": {
@@ -3746,6 +4042,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE039200118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE039200118",
         "name": "\u00a7 234o",
         "title": "Information der Versorgungsanw\u00e4rter w\u00e4hrend der Anwartschaftsphase",
         "parent": {
@@ -3759,6 +4056,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE039600118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE039600118",
         "name": "\u00a7 234p",
         "title": "Information der Versorgungsempf\u00e4nger",
         "parent": {
@@ -3772,6 +4070,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG006300118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG006300118",
         "name": "Abschnitt 5",
         "title": "Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -3782,6 +4081,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023601118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023601118",
         "name": "\u00a7 235",
         "title": "Verordnungserm\u00e4chtigungen zur Finanzaufsicht",
         "parent": {
@@ -3795,6 +4095,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE039300118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE039300118",
         "name": "\u00a7 235a",
         "title": "Verordnungserm\u00e4chtigung zu den Informationspflichten",
         "parent": {
@@ -3808,6 +4109,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003800000",
         "name": "Kapitel 2",
         "title": "Pensionsfonds",
         "parent": {
@@ -3818,6 +4120,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023703118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023703118",
         "name": "\u00a7 236",
         "title": "Pensionsfonds",
         "parent": {
@@ -3831,6 +4134,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023801118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023801118",
         "name": "\u00a7 237",
         "title": "Anzuwendende Vorschriften",
         "parent": {
@@ -3844,6 +4148,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE023901118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE023901118",
         "name": "\u00a7 238",
         "title": "Finanzielle Ausstattung",
         "parent": {
@@ -3857,6 +4162,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024001118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024001118",
         "name": "\u00a7 239",
         "title": "Verm\u00f6gensanlage",
         "parent": {
@@ -3870,6 +4176,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024101118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024101118",
         "name": "\u00a7 240",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -3883,6 +4190,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG003901118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG003901118",
         "name": "Kapitel 3",
         "title": "Grenz\u00fcberschreitende Gesch\u00e4ftst\u00e4tigkeit von Einrichtungen der betrieblichen Altersversorgung und grenz\u00fcberschreitende \u00dcbertragung von Best\u00e4nden",
         "parent": {
@@ -3893,6 +4201,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024201118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024201118",
         "name": "\u00a7 241",
         "title": "Grenz\u00fcberschreitende Gesch\u00e4ftst\u00e4tigkeit",
         "parent": {
@@ -3906,6 +4215,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024301118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024301118",
         "name": "\u00a7 242",
         "title": "Grenz\u00fcberschreitende Gesch\u00e4ftst\u00e4tigkeit von Pensionskassen und Pensionsfonds",
         "parent": {
@@ -3919,6 +4229,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024401118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024401118",
         "name": "\u00a7 243",
         "title": "Grenz\u00fcberschreitende Gesch\u00e4ftst\u00e4tigkeit von Einrichtungen, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist",
         "parent": {
@@ -3932,6 +4243,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE039400118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE039400118",
         "name": "\u00a7 243a",
         "title": "\u00dcbertragung von Best\u00e4nden auf eine Pensionskasse oder einen Pensionsfonds",
         "parent": {
@@ -3945,6 +4257,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE039500118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE039500118",
         "name": "\u00a7 243b",
         "title": "\u00dcbertragung von Best\u00e4nden auf eine Einrichtung, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist",
         "parent": {
@@ -3958,6 +4271,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024501118",
         "name": "\u00a7 244",
         "title": "(weggefallen)",
         "parent": {
@@ -3971,6 +4285,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005800124",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005800124",
         "name": "Teil 4a",
         "title": "Reine Beitragszusagen in der betrieblichen Altersversorgung",
         "parent": null
@@ -3978,6 +4293,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037300124",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037300124",
         "name": "\u00a7 244a",
         "title": "Geltungsbereich",
         "parent": {
@@ -3991,6 +4307,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037400124",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037400124",
         "name": "\u00a7 244b",
         "title": "Verpflichtungen",
         "parent": {
@@ -4004,6 +4321,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037500124",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037500124",
         "name": "\u00a7 244c",
         "title": "Sicherungsverm\u00f6gen",
         "parent": {
@@ -4017,6 +4335,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037600124",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037600124",
         "name": "\u00a7 244d",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -4030,6 +4349,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004000000",
         "name": "Teil 5",
         "title": "Gruppen",
         "parent": null
@@ -4037,6 +4357,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004100000",
         "name": "Kapitel 1",
         "title": "Beaufsichtigung von Versicherungsunternehmen in einer Gruppe",
         "parent": {
@@ -4047,6 +4368,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024601118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024601118",
         "name": "\u00a7 245",
         "title": "Anwendungsbereich der Gruppenaufsicht",
         "parent": {
@@ -4060,6 +4382,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024700000",
         "name": "\u00a7 246",
         "title": "Umfang der Gruppenaufsicht",
         "parent": {
@@ -4073,6 +4396,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024800000",
         "name": "\u00a7 247",
         "title": "Oberstes Mutterunternehmen auf Ebene der Mitglied- oder Vertragsstaaten",
         "parent": {
@@ -4086,6 +4410,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE024900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE024900000",
         "name": "\u00a7 248",
         "title": "Oberstes Mutterunternehmen auf nationaler Ebene",
         "parent": {
@@ -4099,6 +4424,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025000000",
         "name": "\u00a7 249",
         "title": "Mutterunternehmen, die mehrere Mitglied- oder Vertragsstaaten umfassen",
         "parent": {
@@ -4112,6 +4438,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004200000",
         "name": "Kapitel 2",
         "title": "Finanzlage",
         "parent": {
@@ -4122,6 +4449,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004300000",
         "name": "Abschnitt 1",
         "title": "Solvabilit\u00e4t der Gruppe",
         "parent": {
@@ -4132,6 +4460,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025100000",
         "name": "\u00a7 250",
         "title": "\u00dcberwachung der Gruppensolvabilit\u00e4t",
         "parent": {
@@ -4145,6 +4474,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025200000",
         "name": "\u00a7 251",
         "title": "H\u00e4ufigkeit der Berechnung",
         "parent": {
@@ -4158,6 +4488,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025300000",
         "name": "\u00a7 252",
         "title": "Bestimmung der Methode",
         "parent": {
@@ -4171,6 +4502,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025400000",
         "name": "\u00a7 253",
         "title": "Ber\u00fccksichtigung des verh\u00e4ltnism\u00e4\u00dfigen Anteils",
         "parent": {
@@ -4184,6 +4516,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025500000",
         "name": "\u00a7 254",
         "title": "Ausschluss der Mehrfachber\u00fccksichtigung anrechnungsf\u00e4higer Eigenmittel",
         "parent": {
@@ -4197,6 +4530,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025600000",
         "name": "\u00a7 255",
         "title": "Ausschluss der gruppeninternen Kapitalsch\u00f6pfung",
         "parent": {
@@ -4210,6 +4544,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025700000",
         "name": "\u00a7 256",
         "title": "Verbundene Versicherungsunternehmen",
         "parent": {
@@ -4223,6 +4558,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025800000",
         "name": "\u00a7 257",
         "title": "Zwischengeschaltete Versicherungs-Holdinggesellschaften",
         "parent": {
@@ -4236,6 +4572,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE025900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE025900000",
         "name": "\u00a7 258",
         "title": "Verbundene Versicherungsunternehmen eines Drittstaats",
         "parent": {
@@ -4249,6 +4586,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026000000",
         "name": "\u00a7 259",
         "title": "Verbundene Kreditinstitute, Wertpapierfirmen und Finanzinstitute",
         "parent": {
@@ -4262,6 +4600,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026100000",
         "name": "\u00a7 260",
         "title": "Nichtverf\u00fcgbarkeit der notwendigen Informationen",
         "parent": {
@@ -4275,6 +4614,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026200000",
         "name": "\u00a7 261",
         "title": "Konsolidierungsmethode",
         "parent": {
@@ -4288,6 +4628,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026300000",
         "name": "\u00a7 262",
         "title": "Internes Modell f\u00fcr die Gruppe",
         "parent": {
@@ -4301,6 +4642,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026400000",
         "name": "\u00a7 263",
         "title": "Kapitalaufschlag f\u00fcr ein Gruppenunternehmen",
         "parent": {
@@ -4314,6 +4656,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026500000",
         "name": "\u00a7 264",
         "title": "Kapitalaufschlag f\u00fcr die Gruppe",
         "parent": {
@@ -4327,6 +4670,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026600000",
         "name": "\u00a7 265",
         "title": "Abzugs- und Aggregationsmethode",
         "parent": {
@@ -4340,6 +4684,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026700000",
         "name": "\u00a7 266",
         "title": "Gruppensolvabilit\u00e4t bei einer Versicherungs-Holdinggesellschaft oder einer gemischten Finanzholding-Gesellschaft",
         "parent": {
@@ -4353,6 +4698,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026800000",
         "name": "\u00a7 267",
         "title": "Bedingungen f\u00fcr Tochterunternehmen eines Versicherungsunternehmens",
         "parent": {
@@ -4366,6 +4712,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE026900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE026900000",
         "name": "\u00a7 268",
         "title": "Beaufsichtigung bei zentralisiertem Risikomanagement",
         "parent": {
@@ -4379,6 +4726,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027000000",
         "name": "\u00a7 269",
         "title": "Bestimmung der Solvabilit\u00e4tskapitalanforderung des Tochterunternehmens",
         "parent": {
@@ -4392,6 +4740,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027100000",
         "name": "\u00a7 270",
         "title": "Nichtbedeckung der Kapitalanforderungen des Tochterunternehmens",
         "parent": {
@@ -4405,6 +4754,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027200000",
         "name": "\u00a7 271",
         "title": "Ende der Ausnahmeregelung f\u00fcr ein Tochterunternehmen",
         "parent": {
@@ -4418,6 +4768,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027300000",
         "name": "\u00a7 272",
         "title": "Tochterunternehmen einer Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft",
         "parent": {
@@ -4431,6 +4782,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004400000",
         "name": "Abschnitt 2",
         "title": "Risikokonzentration und gruppeninterne Transaktionen",
         "parent": {
@@ -4441,6 +4793,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027400000",
         "name": "\u00a7 273",
         "title": "\u00dcberwachung der Risikokonzentration",
         "parent": {
@@ -4454,6 +4807,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027500000",
         "name": "\u00a7 274",
         "title": "\u00dcberwachung gruppeninterner Transaktionen",
         "parent": {
@@ -4467,6 +4821,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004500000",
         "name": "Abschnitt 3",
         "title": "Gesch\u00e4ftsorganisation, Berichtspflichten",
         "parent": {
@@ -4477,6 +4832,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027601118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027601118",
         "name": "\u00a7 275",
         "title": "\u00dcberwachung des Governance-Systems",
         "parent": {
@@ -4490,6 +4846,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027701360",
         "name": "\u00a7 276",
         "title": "Gegenseitiger Informationsaustausch",
         "parent": {
@@ -4503,6 +4860,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027800000",
         "name": "\u00a7 277",
         "title": "Bericht \u00fcber Solvabilit\u00e4t und Finanzlage der Gruppe",
         "parent": {
@@ -4516,6 +4874,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE027900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE027900000",
         "name": "\u00a7 278",
         "title": "Gruppenstruktur",
         "parent": {
@@ -4529,6 +4888,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004600000",
         "name": "Kapitel 3",
         "title": "Ma\u00dfnahmen zur Erleichterung der Gruppenaufsicht",
         "parent": {
@@ -4539,6 +4899,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028000000",
         "name": "\u00a7 279",
         "title": "Zust\u00e4ndigkeit f\u00fcr die Gruppenaufsicht",
         "parent": {
@@ -4552,6 +4913,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028100000",
         "name": "\u00a7 280",
         "title": "Bestimmung der Gruppenaufsichtsbeh\u00f6rde",
         "parent": {
@@ -4565,6 +4927,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028200000",
         "name": "\u00a7 281",
         "title": "Aufgaben und Befugnisse der Gruppenaufsichtsbeh\u00f6rde",
         "parent": {
@@ -4578,6 +4941,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028300000",
         "name": "\u00a7 282",
         "title": "Befreiung von der Berichterstattung auf Gruppenebene",
         "parent": {
@@ -4591,6 +4955,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028400000",
         "name": "\u00a7 283",
         "title": "Aufsichtskollegium",
         "parent": {
@@ -4604,6 +4969,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028500000",
         "name": "\u00a7 284",
         "title": "Zusammenarbeit bei der Gruppenaufsicht",
         "parent": {
@@ -4617,6 +4983,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028600000",
         "name": "\u00a7 285",
         "title": "Gegenseitige Konsultation der Aufsichtsbeh\u00f6rden",
         "parent": {
@@ -4630,6 +4997,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028700000",
         "name": "\u00a7 286",
         "title": "Zusammenarbeit bei verbundenen Unternehmen",
         "parent": {
@@ -4643,6 +5011,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028800000",
         "name": "\u00a7 287",
         "title": "Zwangsma\u00dfnahmen",
         "parent": {
@@ -4656,6 +5025,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004700000",
         "name": "Kapitel 4",
         "title": "Drittstaaten",
         "parent": {
@@ -4666,6 +5036,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE028900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE028900000",
         "name": "\u00a7 288",
         "title": "Mutterunternehmen mit Sitz in einem Drittstaat",
         "parent": {
@@ -4679,6 +5050,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029000000",
         "name": "\u00a7 289",
         "title": "Gleichwertigkeit",
         "parent": {
@@ -4692,6 +5064,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029100000",
         "name": "\u00a7 290",
         "title": "Fehlende Gleichwertigkeit",
         "parent": {
@@ -4705,6 +5078,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029200000",
         "name": "\u00a7 291",
         "title": "Ebene der Beaufsichtigung",
         "parent": {
@@ -4718,6 +5092,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004800000",
         "name": "Kapitel 5",
         "title": "Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften",
         "parent": {
@@ -4728,6 +5103,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029301118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029301118",
         "name": "\u00a7 292",
         "title": "Gruppeninterne Transaktionen",
         "parent": {
@@ -4741,6 +5117,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029401118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029401118",
         "name": "\u00a7 293",
         "title": "Aufsicht",
         "parent": {
@@ -4754,6 +5131,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG004900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG004900000",
         "name": "Teil 6",
         "title": "Aufsicht: Aufgaben und allgemeine Befugnisse, Organisation",
         "parent": null
@@ -4761,6 +5139,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005000000",
         "name": "Kapitel 1",
         "title": "Aufgaben und allgemeine Vorschriften",
         "parent": {
@@ -4771,6 +5150,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029501118",
         "name": "\u00a7 294",
         "title": "Aufgaben",
         "parent": {
@@ -4784,6 +5164,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029605118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029605118",
         "name": "\u00a7 295",
         "title": "Zust\u00e4ndige Beh\u00f6rde in Bezug auf EU-Verordnungen",
         "parent": {
@@ -4797,6 +5178,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029701118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029701118",
         "name": "\u00a7 296",
         "title": "Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit",
         "parent": {
@@ -4810,6 +5192,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029800000",
         "name": "\u00a7 297",
         "title": "Ermessen",
         "parent": {
@@ -4823,6 +5206,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE029901118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE029901118",
         "name": "\u00a7 298",
         "title": "Allgemeine Aufsichtsbefugnisse",
         "parent": {
@@ -4836,6 +5220,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030000000",
         "name": "\u00a7 299",
         "title": "Erweiterung der Aufsichtsbefugnisse",
         "parent": {
@@ -4849,6 +5234,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030100000",
         "name": "\u00a7 300",
         "title": "\u00c4nderung des Gesch\u00e4ftsplans",
         "parent": {
@@ -4862,6 +5248,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030200000",
         "name": "\u00a7 301",
         "title": "Kapitalaufschlag",
         "parent": {
@@ -4875,6 +5262,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030300000",
         "name": "\u00a7 302",
         "title": "Untersagung einer Beteiligung",
         "parent": {
@@ -4888,6 +5276,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030404118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030404118",
         "name": "\u00a7 303",
         "title": "Abberufung von Personen mit Schl\u00fcsselaufgaben, Verwarnung",
         "parent": {
@@ -4901,6 +5290,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036501118",
         "name": "\u00a7 303a",
         "title": "T\u00e4tigkeitsverbot f\u00fcr nat\u00fcrliche Personen",
         "parent": {
@@ -4914,6 +5304,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030502118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030502118",
         "name": "\u00a7 304",
         "title": "Widerruf der Erlaubnis",
         "parent": {
@@ -4927,6 +5318,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030601360",
         "name": "\u00a7 305",
         "title": "Befragung, Auskunftspflicht",
         "parent": {
@@ -4940,6 +5332,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036800118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036800118",
         "name": "\u00a7 305a",
         "title": "Befugnisse und Ma\u00dfnahmen gegen beaufsichtigte Kontributoren und Verwender von Indizes im Sinne der Verordnung (EU) 2016/1011",
         "parent": {
@@ -4953,6 +5346,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030700000",
         "name": "\u00a7 306",
         "title": "Betreten und Durchsuchen von R\u00e4umen; Beschlagnahme",
         "parent": {
@@ -4966,6 +5360,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030800000",
         "name": "\u00a7 307",
         "title": "Sonderbeauftragter",
         "parent": {
@@ -4979,6 +5374,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE030901118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE030901118",
         "name": "\u00a7 308",
         "title": "Unerlaubte Versicherungsgesch\u00e4fte",
         "parent": {
@@ -4992,6 +5388,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036200118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036200118",
         "name": "\u00a7 308a",
         "title": "Ma\u00dfnahmen gegen\u00fcber PRIIP-Herstellern und PRIIP-Verk\u00e4ufern",
         "parent": {
@@ -5005,6 +5402,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036400118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036400118",
         "name": "\u00a7 308b",
         "title": "Ma\u00dfnahmen hinsichtlich der Vergabe von Wohnimmobilien-Darlehen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -5018,6 +5416,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE037700118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE037700118",
         "name": "\u00a7 308c",
         "title": "Ma\u00dfnahmen bei Verst\u00f6\u00dfen gegen die Verordnung (EU) 2017/2402",
         "parent": {
@@ -5031,6 +5430,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031001360",
         "name": "\u00a7 309",
         "title": "Verschwiegenheitspflicht",
         "parent": {
@@ -5044,6 +5444,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031102128",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031102128",
         "name": "\u00a7 310",
         "title": "Nebenbestimmungen; Ausschluss der aufschiebenden Wirkung",
         "parent": {
@@ -5057,6 +5458,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005100000",
         "name": "Kapitel 2",
         "title": "Sichernde Ma\u00dfnahmen",
         "parent": {
@@ -5067,6 +5469,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031200000",
         "name": "\u00a7 311",
         "title": "Anzeige der Zahlungsunf\u00e4higkeit",
         "parent": {
@@ -5080,6 +5483,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031301118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031301118",
         "name": "\u00a7 312",
         "title": "Er\u00f6ffnung des Insolvenzverfahrens",
         "parent": {
@@ -5093,6 +5497,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031400000",
         "name": "\u00a7 313",
         "title": "Unterrichtung der Gl\u00e4ubiger",
         "parent": {
@@ -5106,6 +5511,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031500000",
         "name": "\u00a7 314",
         "title": "Zahlungsverbot; Herabsetzung von Leistungen",
         "parent": {
@@ -5119,6 +5525,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031600000",
         "name": "\u00a7 315",
         "title": "Behandlung von Versicherungsforderungen",
         "parent": {
@@ -5132,6 +5539,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031700000",
         "name": "\u00a7 316",
         "title": "Erl\u00f6schen bestimmter Versicherungsvertr\u00e4ge",
         "parent": {
@@ -5145,6 +5553,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031800000",
         "name": "\u00a7 317",
         "title": "Pfleger im Insolvenzfall",
         "parent": {
@@ -5158,6 +5567,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005200000",
         "name": "Kapitel 3",
         "title": "Ver\u00f6ffentlichungen",
         "parent": {
@@ -5168,6 +5578,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE031900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE031900000",
         "name": "\u00a7 318",
         "title": "Ver\u00f6ffentlichungen",
         "parent": {
@@ -5181,6 +5592,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032001118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032001118",
         "name": "\u00a7 319",
         "title": "Bekanntmachung von Ma\u00dfnahmen",
         "parent": {
@@ -5194,6 +5606,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036602118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036602118",
         "name": "\u00a7 319a",
         "title": "Bekanntmachung von Ma\u00dfnahmen und Sanktionen wegen Verst\u00f6\u00dfen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402",
         "parent": {
@@ -5207,6 +5620,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005300000",
         "name": "Kapitel 4",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -5217,6 +5631,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005400000",
         "name": "Abschnitt 1",
         "title": "Bundesaufsicht",
         "parent": {
@@ -5227,6 +5642,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032100000",
         "name": "\u00a7 320",
         "title": "Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht",
         "parent": {
@@ -5240,6 +5656,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032200000",
         "name": "\u00a7 321",
         "title": "\u00dcbertragung der Aufsicht auf eine Landesaufsichtsbeh\u00f6rde",
         "parent": {
@@ -5253,6 +5670,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032300000",
         "name": "\u00a7 322",
         "title": "\u00dcbertragung der Aufsicht auf die Bundesanstalt",
         "parent": {
@@ -5266,6 +5684,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032400000",
         "name": "\u00a7 323",
         "title": "Verfahren",
         "parent": {
@@ -5279,6 +5698,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032501118",
         "name": "\u00a7 324",
         "title": "Zusammenarbeit der Aufsichtsbeh\u00f6rden",
         "parent": {
@@ -5292,6 +5712,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032600000",
         "name": "\u00a7 325",
         "title": "Versicherungsbeirat",
         "parent": {
@@ -5305,6 +5726,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005500000",
         "name": "Abschnitt 2",
         "title": "Aufsicht im Europ\u00e4ischen Wirtschaftsraum",
         "parent": {
@@ -5315,6 +5737,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032701118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032701118",
         "name": "\u00a7 326",
         "title": "Allgemeine Grunds\u00e4tze f\u00fcr die Zusammenarbeit der Aufsichtsbeh\u00f6rden",
         "parent": {
@@ -5328,6 +5751,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032800000",
         "name": "\u00a7 327",
         "title": "Zusammenarbeit bei \u00f6rtlichen Pr\u00fcfungen",
         "parent": {
@@ -5341,6 +5765,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE032900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE032900000",
         "name": "\u00a7 328",
         "title": "Zustellungen",
         "parent": {
@@ -5354,6 +5779,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033001118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033001118",
         "name": "\u00a7 329",
         "title": "Zusammenarbeit mit der Europ\u00e4ischen Aufsichtsbeh\u00f6rde f\u00fcr das Versicherungswesen und die betriebliche Altersversorgung",
         "parent": {
@@ -5367,6 +5793,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033100000",
         "name": "\u00a7 330",
         "title": "Meldungen an die Europ\u00e4ische Kommission",
         "parent": {
@@ -5380,6 +5807,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005600000",
         "name": "Teil 7",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null
@@ -5387,6 +5815,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033204118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033204118",
         "name": "\u00a7 331",
         "title": "Strafvorschriften",
         "parent": {
@@ -5400,6 +5829,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036904360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036904360",
         "name": "\u00a7 332",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -5413,6 +5843,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033400000",
         "name": "\u00a7 333",
         "title": "Zust\u00e4ndige Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -5426,6 +5857,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033502118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033502118",
         "name": "\u00a7 334",
         "title": "Beteiligung der Aufsichtsbeh\u00f6rde und Mitteilungen in Strafsachen",
         "parent": {
@@ -5439,6 +5871,7 @@
       {
         "type": "heading",
         "id": "BJNR043410015BJNG005700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNG005700000",
         "name": "Teil 8",
         "title": "\u00dcbergangs- und Schlussbestimmungen",
         "parent": null
@@ -5446,6 +5879,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033600000",
         "name": "\u00a7 335",
         "title": "Fortsetzung des Gesch\u00e4ftsbetriebs",
         "parent": {
@@ -5459,6 +5893,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033700000",
         "name": "\u00a7 336",
         "title": "Weitergeltung genehmigter Gesch\u00e4ftspl\u00e4ne in der Lebensversicherung",
         "parent": {
@@ -5472,6 +5907,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033800000",
         "name": "\u00a7 337",
         "title": "Treuh\u00e4nder in der Krankenversicherung",
         "parent": {
@@ -5485,6 +5921,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE033900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE033900000",
         "name": "\u00a7 338",
         "title": "Zuschlag in der Krankenversicherung",
         "parent": {
@@ -5498,6 +5935,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034000000",
         "name": "\u00a7 339",
         "title": "Teilbestandsvorschriften in der Unfallversicherung",
         "parent": {
@@ -5511,6 +5949,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034100000",
         "name": "\u00a7 340",
         "title": "Bestandsschutz f\u00fcr R\u00fcckversicherungsunternehmen",
         "parent": {
@@ -5524,6 +5963,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034200000",
         "name": "\u00a7 341",
         "title": "Bericht \u00fcber die Solvabilit\u00e4t und die Finanzlage",
         "parent": {
@@ -5537,6 +5977,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034300000",
         "name": "\u00a7 342",
         "title": "Einhaltung der Mindestkapitalanforderung",
         "parent": {
@@ -5550,6 +5991,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034400000",
         "name": "\u00a7 343",
         "title": "Einstellung des Gesch\u00e4ftsbetriebs",
         "parent": {
@@ -5563,6 +6005,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034501118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034501118",
         "name": "\u00a7 344",
         "title": "Fristen f\u00fcr Berichts- und Offenlegungspflichten",
         "parent": {
@@ -5576,6 +6019,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034601118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034601118",
         "name": "\u00a7 345",
         "title": "Eigenmittel",
         "parent": {
@@ -5589,6 +6033,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034700000",
         "name": "\u00a7 346",
         "title": "Anlagen in Kreditverbriefungen",
         "parent": {
@@ -5602,6 +6047,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034800000",
         "name": "\u00a7 347",
         "title": "Standardparameter",
         "parent": {
@@ -5615,6 +6061,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE034900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE034900000",
         "name": "\u00a7 348",
         "title": "Solvabilit\u00e4tskapitalanforderung",
         "parent": {
@@ -5628,6 +6075,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035000000",
         "name": "\u00a7 349",
         "title": "Internes Teilgruppenmodell",
         "parent": {
@@ -5641,6 +6089,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035100000",
         "name": "\u00a7 350",
         "title": "Gruppenvorschriften",
         "parent": {
@@ -5654,6 +6103,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035200000",
         "name": "\u00a7 351",
         "title": "Risikofreie Zinss\u00e4tze",
         "parent": {
@@ -5667,6 +6117,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035300000",
         "name": "\u00a7 352",
         "title": "Versicherungstechnische R\u00fcckstellungen",
         "parent": {
@@ -5680,6 +6131,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035400000",
         "name": "\u00a7 353",
         "title": "Plan betreffend die schrittweise Einf\u00fchrung von \u00dcbergangsma\u00dfnahmen f\u00fcr risikofreie Zinss\u00e4tze und versicherungstechnische R\u00fcckstellungen",
         "parent": {
@@ -5693,6 +6145,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035500000",
         "name": "\u00a7 354",
         "title": "\u00dcberpr\u00fcfung der langfristigen Garantien und der Ma\u00dfnahmen gegen Aktienrisiken",
         "parent": {
@@ -5706,6 +6159,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035600000",
         "name": "\u00a7 355",
         "title": "Entscheidungen der Aufsichtsbeh\u00f6rde aus Anlass des Inkrafttretens dieses Gesetzes",
         "parent": {
@@ -5719,6 +6173,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE036703118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE036703118",
         "name": "\u00a7 356",
         "title": "\u00dcbergangsvorschrift zu \u00a7 35 Absatz 1 Satz 1 Nummer 5 bis 8",
         "parent": {
@@ -5732,6 +6187,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035700000",
         "name": "Anlage 1",
         "title": "Einteilung der Risiken nach Sparten",
         "parent": {
@@ -5745,6 +6201,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035800000",
         "name": "Anlage 2",
         "title": "Bezeichnung der Zulassung, die gleichzeitig f\u00fcr mehrere Sparten erteilt wird",
         "parent": {
@@ -5758,6 +6215,7 @@
       {
         "type": "article",
         "id": "BJNR043410015BJNE035900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vag/articles/BJNR043410015BJNE035900000",
         "name": "Anlage 3",
         "title": "Standardformel zur Berechnung der Solvabilit\u00e4tskapitalanforderung (SCR)",
         "parent": {

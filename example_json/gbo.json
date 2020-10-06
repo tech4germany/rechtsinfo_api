@@ -36,6 +36,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000101307",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -43,6 +44,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001010311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001010311",
         "name": "\u00a7 1",
         "title": null,
         "parent": {
@@ -56,6 +58,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001103311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001103311",
         "name": "\u00a7 2",
         "title": null,
         "parent": {
@@ -69,6 +72,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001202307",
         "name": "\u00a7 3",
         "title": null,
         "parent": {
@@ -82,6 +86,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001304160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001304160",
         "name": "\u00a7 4",
         "title": null,
         "parent": {
@@ -95,6 +100,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001404311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001404311",
         "name": "\u00a7 5",
         "title": null,
         "parent": {
@@ -108,6 +114,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001503311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001503311",
         "name": "\u00a7 6",
         "title": null,
         "parent": {
@@ -121,6 +128,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE013701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE013701307",
         "name": "\u00a7 6a",
         "title": null,
         "parent": {
@@ -134,6 +142,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001602311",
         "name": "\u00a7 7",
         "title": null,
         "parent": {
@@ -147,6 +156,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001702307",
         "name": "\u00a7 8",
         "title": null,
         "parent": {
@@ -160,6 +170,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001801307",
         "name": "\u00a7 9",
         "title": null,
         "parent": {
@@ -173,6 +184,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE001905311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE001905311",
         "name": "\u00a7 10",
         "title": null,
         "parent": {
@@ -186,6 +198,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE013803311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE013803311",
         "name": "\u00a7 10a",
         "title": null,
         "parent": {
@@ -199,6 +212,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002002307",
         "name": "\u00a7 11",
         "title": null,
         "parent": {
@@ -212,6 +226,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002106125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002106125",
         "name": "\u00a7 12",
         "title": null,
         "parent": {
@@ -225,6 +240,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE013902311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE013902311",
         "name": "\u00a7 12a",
         "title": null,
         "parent": {
@@ -238,6 +254,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014002160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014002160",
         "name": "\u00a7 12b",
         "title": null,
         "parent": {
@@ -251,6 +268,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014105311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014105311",
         "name": "\u00a7 12c",
         "title": null,
         "parent": {
@@ -264,6 +282,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017900125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017900125",
         "name": "\u00a7 12d",
         "title": "Anwendung der Verordnung (EU) 2016/679",
         "parent": {
@@ -277,6 +296,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000201307",
         "name": "Zweiter Abschnitt",
         "title": "Eintragungen in das Grundbuch",
         "parent": null
@@ -284,6 +304,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002203160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002203160",
         "name": "\u00a7 13",
         "title": null,
         "parent": {
@@ -297,6 +318,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002301307",
         "name": "\u00a7 14",
         "title": null,
         "parent": {
@@ -310,6 +332,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002403311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002403311",
         "name": "\u00a7 15",
         "title": null,
         "parent": {
@@ -323,6 +346,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002501307",
         "name": "\u00a7 16",
         "title": null,
         "parent": {
@@ -336,6 +360,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002601307",
         "name": "\u00a7 17",
         "title": null,
         "parent": {
@@ -349,6 +374,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002701307",
         "name": "\u00a7 18",
         "title": null,
         "parent": {
@@ -362,6 +388,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002801307",
         "name": "\u00a7 19",
         "title": null,
         "parent": {
@@ -375,6 +402,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE002901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE002901307",
         "name": "\u00a7 20",
         "title": null,
         "parent": {
@@ -388,6 +416,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003001307",
         "name": "\u00a7 21",
         "title": null,
         "parent": {
@@ -401,6 +430,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003101307",
         "name": "\u00a7 22",
         "title": null,
         "parent": {
@@ -414,6 +444,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003201307",
         "name": "\u00a7 23",
         "title": null,
         "parent": {
@@ -427,6 +458,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003301307",
         "name": "\u00a7 24",
         "title": null,
         "parent": {
@@ -440,6 +472,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003402307",
         "name": "\u00a7 25",
         "title": null,
         "parent": {
@@ -453,6 +486,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003501307",
         "name": "\u00a7 26",
         "title": null,
         "parent": {
@@ -466,6 +500,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003601307",
         "name": "\u00a7 27",
         "title": null,
         "parent": {
@@ -479,6 +514,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003703311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003703311",
         "name": "\u00a7 28",
         "title": null,
         "parent": {
@@ -492,6 +528,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003802311",
         "name": "\u00a7 29",
         "title": null,
         "parent": {
@@ -505,6 +542,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE003901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE003901307",
         "name": "\u00a7 29a",
         "title": null,
         "parent": {
@@ -518,6 +556,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004001307",
         "name": "\u00a7 30",
         "title": null,
         "parent": {
@@ -531,6 +570,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004102307",
         "name": "\u00a7 31",
         "title": null,
         "parent": {
@@ -544,6 +584,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004203160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004203160",
         "name": "\u00a7 32",
         "title": null,
         "parent": {
@@ -557,6 +598,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004303311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004303311",
         "name": "\u00a7 33",
         "title": null,
         "parent": {
@@ -570,6 +612,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004403311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004403311",
         "name": "\u00a7 34",
         "title": null,
         "parent": {
@@ -583,6 +626,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004504311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004504311",
         "name": "\u00a7 35",
         "title": null,
         "parent": {
@@ -596,6 +640,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004605311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004605311",
         "name": "\u00a7 36",
         "title": null,
         "parent": {
@@ -609,6 +654,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004702311",
         "name": "\u00a7 37",
         "title": null,
         "parent": {
@@ -622,6 +668,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004801307",
         "name": "\u00a7 38",
         "title": null,
         "parent": {
@@ -635,6 +682,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE004901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE004901307",
         "name": "\u00a7 39",
         "title": null,
         "parent": {
@@ -648,6 +696,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005001307",
         "name": "\u00a7 40",
         "title": null,
         "parent": {
@@ -661,6 +710,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005102160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005102160",
         "name": "\u00a7 41",
         "title": null,
         "parent": {
@@ -674,6 +724,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005201307",
         "name": "\u00a7 42",
         "title": null,
         "parent": {
@@ -687,6 +738,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005301307",
         "name": "\u00a7 43",
         "title": null,
         "parent": {
@@ -700,6 +752,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005403311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005403311",
         "name": "\u00a7 44",
         "title": null,
         "parent": {
@@ -713,6 +766,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005501307",
         "name": "\u00a7 45",
         "title": null,
         "parent": {
@@ -726,6 +780,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005601307",
         "name": "\u00a7 46",
         "title": null,
         "parent": {
@@ -739,6 +794,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005702160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005702160",
         "name": "\u00a7 47",
         "title": null,
         "parent": {
@@ -752,6 +808,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005801307",
         "name": "\u00a7 48",
         "title": null,
         "parent": {
@@ -765,6 +822,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE005901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE005901307",
         "name": "\u00a7 49",
         "title": null,
         "parent": {
@@ -778,6 +836,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006001307",
         "name": "\u00a7 50",
         "title": null,
         "parent": {
@@ -791,6 +850,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006101307",
         "name": "\u00a7 51",
         "title": null,
         "parent": {
@@ -804,6 +864,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006201307",
         "name": "\u00a7 52",
         "title": null,
         "parent": {
@@ -817,6 +878,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006301307",
         "name": "\u00a7 53",
         "title": null,
         "parent": {
@@ -830,6 +892,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006401307",
         "name": "\u00a7 54",
         "title": null,
         "parent": {
@@ -843,6 +906,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006503307",
         "name": "\u00a7 55",
         "title": null,
         "parent": {
@@ -856,6 +920,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014201307",
         "name": "\u00a7 55a",
         "title": null,
         "parent": {
@@ -869,6 +934,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014301307",
         "name": "\u00a7 55b",
         "title": null,
         "parent": {
@@ -882,6 +948,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000301307",
         "name": "Dritter Abschnitt",
         "title": "Hypotheken-, Grundschuld-,\nRentenschuldbrief",
         "parent": null
@@ -889,6 +956,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006602307",
         "name": "\u00a7 56",
         "title": null,
         "parent": {
@@ -902,6 +970,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006701307",
         "name": "\u00a7 57",
         "title": null,
         "parent": {
@@ -915,6 +984,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006801307",
         "name": "\u00a7 58",
         "title": null,
         "parent": {
@@ -928,6 +998,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE006902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE006902307",
         "name": "\u00a7 59",
         "title": null,
         "parent": {
@@ -941,6 +1012,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007001307",
         "name": "\u00a7 60",
         "title": null,
         "parent": {
@@ -954,6 +1026,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007102307",
         "name": "\u00a7 61",
         "title": null,
         "parent": {
@@ -967,6 +1040,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007202307",
         "name": "\u00a7 62",
         "title": null,
         "parent": {
@@ -980,6 +1054,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007301307",
         "name": "\u00a7 63",
         "title": null,
         "parent": {
@@ -993,6 +1068,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007401307",
         "name": "\u00a7 64",
         "title": null,
         "parent": {
@@ -1006,6 +1082,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007501307",
         "name": "\u00a7 65",
         "title": null,
         "parent": {
@@ -1019,6 +1096,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007601307",
         "name": "\u00a7 66",
         "title": null,
         "parent": {
@@ -1032,6 +1110,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007702160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007702160",
         "name": "\u00a7 67",
         "title": null,
         "parent": {
@@ -1045,6 +1124,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007801307",
         "name": "\u00a7 68",
         "title": null,
         "parent": {
@@ -1058,6 +1138,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE007901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE007901307",
         "name": "\u00a7 69",
         "title": null,
         "parent": {
@@ -1071,6 +1152,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008001307",
         "name": "\u00a7 70",
         "title": null,
         "parent": {
@@ -1084,6 +1166,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000401307",
         "name": "Vierter Abschnitt",
         "title": "Beschwerde",
         "parent": null
@@ -1091,6 +1174,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008101307",
         "name": "\u00a7 71",
         "title": null,
         "parent": {
@@ -1104,6 +1188,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008202160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008202160",
         "name": "\u00a7 72",
         "title": null,
         "parent": {
@@ -1117,6 +1202,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008304160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008304160",
         "name": "\u00a7 73",
         "title": null,
         "parent": {
@@ -1130,6 +1216,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008401307",
         "name": "\u00a7 74",
         "title": null,
         "parent": {
@@ -1143,6 +1230,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008501307",
         "name": "\u00a7 75",
         "title": null,
         "parent": {
@@ -1156,6 +1244,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008601307",
         "name": "\u00a7 76",
         "title": null,
         "parent": {
@@ -1169,6 +1258,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008701307",
         "name": "\u00a7 77",
         "title": null,
         "parent": {
@@ -1182,6 +1272,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008805160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008805160",
         "name": "\u00a7 78",
         "title": null,
         "parent": {
@@ -1195,6 +1286,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE008903160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE008903160",
         "name": "\u00a7 79",
         "title": null,
         "parent": {
@@ -1208,6 +1300,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009002160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009002160",
         "name": "\u00a7 80",
         "title": null,
         "parent": {
@@ -1221,6 +1314,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009107311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009107311",
         "name": "\u00a7 81",
         "title": null,
         "parent": {
@@ -1234,6 +1328,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000501307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Verfahren des Grundbuchamts in\nbesonderen F\u00e4llen",
         "parent": null
@@ -1241,6 +1336,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000601307",
         "name": "I.",
         "title": "Grundbuchberichtigungszwang",
         "parent": {
@@ -1251,6 +1347,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009202160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009202160",
         "name": "\u00a7 82",
         "title": null,
         "parent": {
@@ -1264,6 +1361,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009301307",
         "name": "\u00a7 82a",
         "title": null,
         "parent": {
@@ -1277,6 +1375,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009402311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009402311",
         "name": "\u00a7 83",
         "title": null,
         "parent": {
@@ -1290,6 +1389,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000701307",
         "name": "II.",
         "title": "L\u00f6schung gegenstandsloser Eintragungen",
         "parent": {
@@ -1300,6 +1400,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009502301",
         "name": "\u00a7 84",
         "title": null,
         "parent": {
@@ -1313,6 +1414,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009601307",
         "name": "\u00a7 85",
         "title": null,
         "parent": {
@@ -1326,6 +1428,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009701307",
         "name": "\u00a7 86",
         "title": null,
         "parent": {
@@ -1339,6 +1442,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009801307",
         "name": "\u00a7 87",
         "title": null,
         "parent": {
@@ -1352,6 +1456,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE009904160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE009904160",
         "name": "\u00a7 88",
         "title": null,
         "parent": {
@@ -1365,6 +1470,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010001307",
         "name": "\u00a7 89",
         "title": null,
         "parent": {
@@ -1378,6 +1484,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000801307",
         "name": "III.",
         "title": "Klarstellung der Rangverh\u00e4ltnisse",
         "parent": {
@@ -1388,6 +1495,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010101307",
         "name": "\u00a7 90",
         "title": null,
         "parent": {
@@ -1401,6 +1509,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010201307",
         "name": "\u00a7 91",
         "title": null,
         "parent": {
@@ -1414,6 +1523,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010301307",
         "name": "\u00a7 92",
         "title": null,
         "parent": {
@@ -1427,6 +1537,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010401307",
         "name": "\u00a7 93",
         "title": null,
         "parent": {
@@ -1440,6 +1551,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010501307",
         "name": "\u00a7 94",
         "title": null,
         "parent": {
@@ -1453,6 +1565,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010601307",
         "name": "\u00a7 95",
         "title": null,
         "parent": {
@@ -1466,6 +1579,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010702160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010702160",
         "name": "\u00a7 96",
         "title": null,
         "parent": {
@@ -1479,6 +1593,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010802307",
         "name": "\u00a7 97",
         "title": null,
         "parent": {
@@ -1492,6 +1607,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE010901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE010901307",
         "name": "\u00a7 98",
         "title": null,
         "parent": {
@@ -1505,6 +1621,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011001307",
         "name": "\u00a7 99",
         "title": null,
         "parent": {
@@ -1518,6 +1635,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011101307",
         "name": "\u00a7 100",
         "title": null,
         "parent": {
@@ -1531,6 +1649,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011201307",
         "name": "\u00a7 101",
         "title": null,
         "parent": {
@@ -1544,6 +1663,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011301307",
         "name": "\u00a7 102",
         "title": null,
         "parent": {
@@ -1557,6 +1677,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011401307",
         "name": "\u00a7 103",
         "title": null,
         "parent": {
@@ -1570,6 +1691,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011501307",
         "name": "\u00a7 104",
         "title": null,
         "parent": {
@@ -1583,6 +1705,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011603160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011603160",
         "name": "\u00a7 105",
         "title": null,
         "parent": {
@@ -1596,6 +1719,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011701307",
         "name": "\u00a7 106",
         "title": null,
         "parent": {
@@ -1609,6 +1733,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011801307",
         "name": "\u00a7 107",
         "title": null,
         "parent": {
@@ -1622,6 +1747,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE011901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE011901307",
         "name": "\u00a7 108",
         "title": null,
         "parent": {
@@ -1635,6 +1761,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012001307",
         "name": "\u00a7 109",
         "title": null,
         "parent": {
@@ -1648,6 +1775,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012103160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012103160",
         "name": "\u00a7 110",
         "title": null,
         "parent": {
@@ -1661,6 +1789,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012201307",
         "name": "\u00a7 111",
         "title": null,
         "parent": {
@@ -1674,6 +1803,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012301307",
         "name": "\u00a7 112",
         "title": null,
         "parent": {
@@ -1687,6 +1817,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012401307",
         "name": "\u00a7 113",
         "title": null,
         "parent": {
@@ -1700,6 +1831,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012501307",
         "name": "\u00a7 114",
         "title": null,
         "parent": {
@@ -1713,6 +1845,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012601307",
         "name": "\u00a7 115",
         "title": null,
         "parent": {
@@ -1726,6 +1859,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG001001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG001001307",
         "name": "Sechster Abschnitt",
         "title": "Anlegung von Grundbuchbl\u00e4ttern",
         "parent": null
@@ -1733,6 +1867,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014402311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014402311",
         "name": "\u00a7 116",
         "title": null,
         "parent": {
@@ -1746,6 +1881,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014502311",
         "name": "\u00a7 117",
         "title": "(weggefallen)",
         "parent": {
@@ -1759,6 +1895,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014601307",
         "name": "\u00a7 118",
         "title": null,
         "parent": {
@@ -1772,6 +1909,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014701307",
         "name": "\u00a7 119",
         "title": null,
         "parent": {
@@ -1785,6 +1923,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014801307",
         "name": "\u00a7 120",
         "title": null,
         "parent": {
@@ -1798,6 +1937,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE014902311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE014902311",
         "name": "\u00a7 121",
         "title": null,
         "parent": {
@@ -1811,6 +1951,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015001307",
         "name": "\u00a7 122",
         "title": null,
         "parent": {
@@ -1824,6 +1965,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015101307",
         "name": "\u00a7 123",
         "title": null,
         "parent": {
@@ -1837,6 +1979,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015201307",
         "name": "\u00a7 124",
         "title": null,
         "parent": {
@@ -1850,6 +1993,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015301307",
         "name": "\u00a7 125",
         "title": null,
         "parent": {
@@ -1863,6 +2007,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG001101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG001101307",
         "name": "Siebenter Abschnitt",
         "title": "Das maschinell gef\u00fchrte Grundbuch",
         "parent": null
@@ -1870,6 +2015,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015403125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015403125",
         "name": "\u00a7 126",
         "title": null,
         "parent": {
@@ -1883,6 +2029,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015502311",
         "name": "\u00a7 127",
         "title": null,
         "parent": {
@@ -1896,6 +2043,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015602160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015602160",
         "name": "\u00a7 128",
         "title": null,
         "parent": {
@@ -1909,6 +2057,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015702311",
         "name": "\u00a7 129",
         "title": null,
         "parent": {
@@ -1922,6 +2071,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015801307",
         "name": "\u00a7 130",
         "title": null,
         "parent": {
@@ -1935,6 +2085,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE015903125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE015903125",
         "name": "\u00a7 131",
         "title": null,
         "parent": {
@@ -1948,6 +2099,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE016002160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE016002160",
         "name": "\u00a7 132",
         "title": null,
         "parent": {
@@ -1961,6 +2113,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE016107125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE016107125",
         "name": "\u00a7 133",
         "title": null,
         "parent": {
@@ -1974,6 +2127,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017700311",
         "name": "\u00a7 133a",
         "title": "Erteilung von Grundbuchabdrucken durch Notare; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1987,6 +2141,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE016204311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE016204311",
         "name": "\u00a7 134",
         "title": null,
         "parent": {
@@ -2000,6 +2155,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017603125",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017603125",
         "name": "\u00a7 134a",
         "title": "Daten\u00fcbermittlung bei der Entwicklung von Verfahren zur Anlegung des Datenbankgrundbuchs",
         "parent": {
@@ -2013,6 +2169,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG001200160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG001200160",
         "name": "Achter Abschnitt",
         "title": "Elektronischer Rechtsverkehr und elektronische Grundakte",
         "parent": null
@@ -2020,6 +2177,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE016900160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE016900160",
         "name": "\u00a7 135",
         "title": "Elektronischer Rechtsverkehr und elektronische Grundakte; Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -2033,6 +2191,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017000160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017000160",
         "name": "\u00a7 136",
         "title": "Eingang elektronischer Dokumente beim Grundbuchamt",
         "parent": {
@@ -2046,6 +2205,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017102311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017102311",
         "name": "\u00a7 137",
         "title": "Form elektronischer Dokumente",
         "parent": {
@@ -2059,6 +2219,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017200160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017200160",
         "name": "\u00a7 138",
         "title": "\u00dcbertragung von Dokumenten",
         "parent": {
@@ -2072,6 +2233,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017300160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017300160",
         "name": "\u00a7 139",
         "title": "Aktenausdruck, Akteneinsicht und Datenabruf",
         "parent": {
@@ -2085,6 +2247,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017402311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017402311",
         "name": "\u00a7 140",
         "title": "Entscheidungen, Verf\u00fcgungen und Mitteilungen",
         "parent": {
@@ -2098,6 +2261,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017502311",
         "name": "\u00a7 141",
         "title": "Erm\u00e4chtigung des Bundesministeriums der Justiz und f\u00fcr Verbraucherschutz",
         "parent": {
@@ -2111,6 +2275,7 @@
       {
         "type": "heading",
         "id": "BJNR001390897BJNG000903160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNG000903160",
         "name": "Neunter Abschnitt",
         "title": "\u00dcbergangs- und Schlu\u00dfbestimmungen",
         "parent": null
@@ -2118,6 +2283,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012704160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012704160",
         "name": "\u00a7 142",
         "title": null,
         "parent": {
@@ -2131,6 +2297,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012805311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012805311",
         "name": "\u00a7 143",
         "title": null,
         "parent": {
@@ -2144,6 +2311,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE012904160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE012904160",
         "name": "\u00a7 144",
         "title": null,
         "parent": {
@@ -2157,6 +2325,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE013003160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE013003160",
         "name": "\u00a7 145",
         "title": null,
         "parent": {
@@ -2170,6 +2339,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE013103160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE013103160",
         "name": "\u00a7 146",
         "title": null,
         "parent": {
@@ -2183,6 +2353,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE013203160",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE013203160",
         "name": "\u00a7 147",
         "title": null,
         "parent": {
@@ -2196,6 +2367,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE013405311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE013405311",
         "name": "\u00a7 148",
         "title": null,
         "parent": {
@@ -2209,6 +2381,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE016306311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE016306311",
         "name": "\u00a7 149",
         "title": null,
         "parent": {
@@ -2222,6 +2395,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE016506311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE016506311",
         "name": "\u00a7 150",
         "title": null,
         "parent": {
@@ -2235,6 +2409,7 @@
       {
         "type": "article",
         "id": "BJNR001390897BJNE017800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/gbo/articles/BJNR001390897BJNE017800311",
         "name": "\u00a7 151",
         "title": null,
         "parent": {

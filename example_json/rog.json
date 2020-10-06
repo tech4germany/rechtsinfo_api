@@ -38,6 +38,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE000101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE000101360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -48,6 +49,7 @@
       {
         "type": "heading",
         "id": "BJNR298610008BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -55,6 +57,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE000201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE000201360",
         "name": "\u00a7 1",
         "title": "Aufgabe und Leitvorstellung der Raumordnung",
         "parent": {
@@ -68,6 +71,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE000301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE000301360",
         "name": "\u00a7 2",
         "title": "Grunds\u00e4tze der Raumordnung",
         "parent": {
@@ -81,6 +85,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE000401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE000401360",
         "name": "\u00a7 3",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -94,6 +99,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE000501360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE000501360",
         "name": "\u00a7 4",
         "title": "Bindungswirkung der Erfordernisse der Raumordnung",
         "parent": {
@@ -107,6 +113,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE000601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE000601360",
         "name": "\u00a7 5",
         "title": "Beschr\u00e4nkung der Bindungswirkung nach \u00a7 4",
         "parent": {
@@ -120,6 +127,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE000701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE000701360",
         "name": "\u00a7 6",
         "title": "Ausnahmen und Zielabweichung",
         "parent": {
@@ -133,6 +141,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE000801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE000801360",
         "name": "\u00a7 7",
         "title": "Allgemeine Vorschriften \u00fcber Raumordnungspl\u00e4ne",
         "parent": {
@@ -146,6 +155,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001001360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001001360",
         "name": "\u00a7 8",
         "title": "Umweltpr\u00fcfung bei der Aufstellung von Raumordnungspl\u00e4nen",
         "parent": {
@@ -159,6 +169,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001102116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001102116",
         "name": "\u00a7 9",
         "title": "Beteiligung bei der Aufstellung von Raumordnungspl\u00e4nen",
         "parent": {
@@ -172,6 +183,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001201360",
         "name": "\u00a7 10",
         "title": "Bekanntmachung von Raumordnungspl\u00e4nen; Bereithaltung von Raumordnungspl\u00e4nen und von Unterlagen",
         "parent": {
@@ -185,6 +197,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001301360",
         "name": "\u00a7 11",
         "title": "Planerhaltung",
         "parent": {
@@ -198,6 +211,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE003300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE003300360",
         "name": "\u00a7 12",
         "title": "Untersagung raumbedeutsamer Planungen und Ma\u00dfnahmen",
         "parent": {
@@ -211,6 +225,7 @@
       {
         "type": "heading",
         "id": "BJNR298610008BJNG000500360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNG000500360",
         "name": "Abschnitt 2",
         "title": "Raumordnung in den L\u00e4ndern",
         "parent": null
@@ -218,6 +233,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE003400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE003400360",
         "name": "\u00a7 13",
         "title": "Landesweite Raumordnungspl\u00e4ne, Regionalpl\u00e4ne und regionale Fl\u00e4chennutzungspl\u00e4ne",
         "parent": {
@@ -231,6 +247,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001401360",
         "name": "\u00a7 14",
         "title": "Raumordnerische Zusammenarbeit",
         "parent": {
@@ -244,6 +261,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001601360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001601360",
         "name": "\u00a7 15",
         "title": "Raumordnungsverfahren",
         "parent": {
@@ -257,6 +275,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001701360",
         "name": "\u00a7 16",
         "title": "Beschleunigtes Raumordnungsverfahren; Absehen von Raumordnungsverfahren",
         "parent": {
@@ -270,6 +289,7 @@
       {
         "type": "heading",
         "id": "BJNR298610008BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Raumordnung im Bund",
         "parent": null
@@ -277,6 +297,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001803116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001803116",
         "name": "\u00a7 17",
         "title": "Raumordnungspl\u00e4ne f\u00fcr die deutsche ausschlie\u00dfliche Wirtschaftszone und f\u00fcr den Gesamtraum",
         "parent": {
@@ -290,6 +311,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE001901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE001901360",
         "name": "\u00a7 18",
         "title": "Beteiligung bei der Aufstellung von Raumordnungspl\u00e4nen des Bundes",
         "parent": {
@@ -303,6 +325,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE002203116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE002203116",
         "name": "\u00a7 19",
         "title": "Zielabweichung bei Raumordnungspl\u00e4nen des Bundes",
         "parent": {
@@ -316,6 +339,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE002303116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE002303116",
         "name": "\u00a7 20",
         "title": "Untersagung raumbedeutsamer Planungen und Ma\u00dfnahmen bei Raumordnungspl\u00e4nen des Bundes",
         "parent": {
@@ -329,6 +353,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE002403116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE002403116",
         "name": "\u00a7 21",
         "title": "Erm\u00e4chtigung zum Erlass von Rechtsverordnungen",
         "parent": {
@@ -342,6 +367,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE003501116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE003501116",
         "name": "\u00a7 22",
         "title": "Zust\u00e4ndigkeiten des Bundesamtes f\u00fcr Bauwesen und Raumordnung",
         "parent": {
@@ -355,6 +381,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE002503116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE002503116",
         "name": "\u00a7 23",
         "title": "Beirat f\u00fcr Raumentwicklung",
         "parent": {
@@ -368,6 +395,7 @@
       {
         "type": "heading",
         "id": "BJNR298610008BJNG000401360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNG000401360",
         "name": "Abschnitt 4",
         "title": "Erg\u00e4nzende Vorschriften und Schlussvorschriften",
         "parent": null
@@ -375,6 +403,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE002703116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE002703116",
         "name": "\u00a7 24",
         "title": "Zusammenarbeit von Bund und L\u00e4ndern",
         "parent": {
@@ -388,6 +417,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE003601116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE003601116",
         "name": "\u00a7 25",
         "title": "Beteiligung bei der Aufstellung von Raumordnungspl\u00e4nen der Nachbarstaaten",
         "parent": {
@@ -401,6 +431,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE002804116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE002804116",
         "name": "\u00a7 26",
         "title": "Geb\u00fchren und Auslagen",
         "parent": {
@@ -414,6 +445,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE002901360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE002901360",
         "name": "\u00a7 27",
         "title": "Anwendungsvorschrift f\u00fcr die Raumordnung in den L\u00e4ndern",
         "parent": {
@@ -427,6 +459,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE003101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE003101360",
         "name": "Anlage 1",
         "title": "(zu \u00a7 8 Abs. 1)",
         "parent": {
@@ -440,6 +473,7 @@
       {
         "type": "article",
         "id": "BJNR298610008BJNE003204116",
+        "url": "https://api.rechtsinformationsportal.de/laws/rog/articles/BJNR298610008BJNE003204116",
         "name": "Anlage 2",
         "title": "(zu \u00a7 8 Abs. 2)",
         "parent": {

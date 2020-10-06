@@ -40,6 +40,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE001911116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE001911116",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -50,6 +51,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000104310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000104310",
         "name": "Teil I",
         "title": "Anwendungsbereich, \u00f6rtliche Zust\u00e4ndigkeit, elektronische Kommunikation, Amtshilfe, europ\u00e4ische Verwaltungszusammenarbeit",
         "parent": null
@@ -57,6 +59,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG002100310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG002100310",
         "name": "Abschnitt 1",
         "title": "Anwendungsbereich, \u00f6rtliche Zust\u00e4ndigkeit, elektronische Kommunikation",
         "parent": null
@@ -64,6 +67,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002102301",
         "name": "\u00a7 1",
         "title": "Anwendungsbereich",
         "parent": {
@@ -77,6 +81,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002207310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002207310",
         "name": "\u00a7 2",
         "title": "Ausnahmen vom Anwendungsbereich",
         "parent": {
@@ -90,6 +95,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002302301",
         "name": "\u00a7 3",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -103,6 +109,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013105116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013105116",
         "name": "\u00a7 3a",
         "title": "Elektronische Kommunikation",
         "parent": {
@@ -116,6 +123,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG002000310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG002000310",
         "name": "Abschnitt 2",
         "title": "Amtshilfe",
         "parent": {
@@ -126,6 +134,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002402301",
         "name": "\u00a7 4",
         "title": "Amtshilfepflicht",
         "parent": {
@@ -139,6 +148,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002502301",
         "name": "\u00a7 5",
         "title": "Voraussetzungen und Grenzen der Amtshilfe",
         "parent": {
@@ -152,6 +162,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002602301",
         "name": "\u00a7 6",
         "title": "Auswahl der Beh\u00f6rde",
         "parent": {
@@ -165,6 +176,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002702301",
         "name": "\u00a7 7",
         "title": "Durchf\u00fchrung der Amtshilfe",
         "parent": {
@@ -178,6 +190,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002803301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002803301",
         "name": "\u00a7 8",
         "title": "Kosten der Amtshilfe",
         "parent": {
@@ -191,6 +204,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG002200310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG002200310",
         "name": "Abschnitt 3",
         "title": "Europ\u00e4ische Verwaltungszusammenarbeit",
         "parent": {
@@ -201,6 +215,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013300310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013300310",
         "name": "\u00a7 8a",
         "title": "Grunds\u00e4tze der Hilfeleistung",
         "parent": {
@@ -214,6 +229,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013400310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013400310",
         "name": "\u00a7 8b",
         "title": "Form und Behandlung der Ersuchen",
         "parent": {
@@ -227,6 +243,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013500310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013500310",
         "name": "\u00a7 8c",
         "title": "Kosten der Hilfeleistung",
         "parent": {
@@ -240,6 +257,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013600310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013600310",
         "name": "\u00a7 8d",
         "title": "Mitteilungen von Amts wegen",
         "parent": {
@@ -253,6 +271,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013700310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013700310",
         "name": "\u00a7 8e",
         "title": "Anwendbarkeit",
         "parent": {
@@ -266,6 +285,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000202301",
         "name": "Teil II",
         "title": "Allgemeine Vorschriften \u00fcber das\nVerwaltungsverfahren",
         "parent": null
@@ -273,6 +293,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000302301",
         "name": "Abschnitt 1",
         "title": "Verfahrensgrunds\u00e4tze",
         "parent": {
@@ -283,6 +304,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE002902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE002902301",
         "name": "\u00a7 9",
         "title": "Begriff des Verwaltungsverfahrens",
         "parent": {
@@ -296,6 +318,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003003301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003003301",
         "name": "\u00a7 10",
         "title": "Nichtf\u00f6rmlichkeit des Verwaltungsverfahrens",
         "parent": {
@@ -309,6 +332,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003102301",
         "name": "\u00a7 11",
         "title": "Beteiligungsf\u00e4higkeit",
         "parent": {
@@ -322,6 +346,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003203301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003203301",
         "name": "\u00a7 12",
         "title": "Handlungsf\u00e4higkeit",
         "parent": {
@@ -335,6 +360,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003302301",
         "name": "\u00a7 13",
         "title": "Beteiligte",
         "parent": {
@@ -348,6 +374,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003404310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003404310",
         "name": "\u00a7 14",
         "title": "Bevollm\u00e4chtigte und Beist\u00e4nde",
         "parent": {
@@ -361,6 +388,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003504301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003504301",
         "name": "\u00a7 15",
         "title": "Bestellung eines Empfangsbevollm\u00e4chtigten",
         "parent": {
@@ -374,6 +402,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003605377",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003605377",
         "name": "\u00a7 16",
         "title": "Bestellung eines Vertreters von Amts wegen",
         "parent": {
@@ -387,6 +416,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003703301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003703301",
         "name": "\u00a7 17",
         "title": "Vertreter bei gleichf\u00f6rmigen Eingaben",
         "parent": {
@@ -400,6 +430,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003802301",
         "name": "\u00a7 18",
         "title": "Vertreter f\u00fcr Beteiligte bei gleichem Interesse",
         "parent": {
@@ -413,6 +444,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE003902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE003902301",
         "name": "\u00a7 19",
         "title": "Gemeinsame Vorschriften f\u00fcr Vertreter bei gleichf\u00f6rmigen\nEingaben und bei gleichem Interesse",
         "parent": {
@@ -426,6 +458,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004005116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004005116",
         "name": "\u00a7 20",
         "title": "Ausgeschlossene Personen",
         "parent": {
@@ -439,6 +472,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004102301",
         "name": "\u00a7 21",
         "title": "Besorgnis der Befangenheit",
         "parent": {
@@ -452,6 +486,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004202301",
         "name": "\u00a7 22",
         "title": "Beginn des Verfahrens",
         "parent": {
@@ -465,6 +500,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004304310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004304310",
         "name": "\u00a7 23",
         "title": "Amtssprache",
         "parent": {
@@ -478,6 +514,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004403116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004403116",
         "name": "\u00a7 24",
         "title": "Untersuchungsgrundsatz",
         "parent": {
@@ -491,6 +528,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004504311",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004504311",
         "name": "\u00a7 25",
         "title": "Beratung, Auskunft, fr\u00fche \u00d6ffentlichkeitsbeteiligung",
         "parent": {
@@ -504,6 +542,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004604310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004604310",
         "name": "\u00a7 26",
         "title": "Beweismittel",
         "parent": {
@@ -517,6 +556,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004702301",
         "name": "\u00a7 27",
         "title": "Versicherung an Eides statt",
         "parent": {
@@ -530,6 +570,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013800311",
         "name": "\u00a7 27a",
         "title": "\u00d6ffentliche Bekanntmachung im Internet",
         "parent": {
@@ -543,6 +584,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004802301",
         "name": "\u00a7 28",
         "title": "Anh\u00f6rung Beteiligter",
         "parent": {
@@ -556,6 +598,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE004902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE004902301",
         "name": "\u00a7 29",
         "title": "Akteneinsicht durch Beteiligte",
         "parent": {
@@ -569,6 +612,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005002301",
         "name": "\u00a7 30",
         "title": "Geheimhaltung",
         "parent": {
@@ -582,6 +626,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000402301",
         "name": "Abschnitt 2",
         "title": "Fristen, Termine, Wiedereinsetzung",
         "parent": {
@@ -592,6 +637,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005102301",
         "name": "\u00a7 31",
         "title": "Fristen und Termine",
         "parent": {
@@ -605,6 +651,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005202301",
         "name": "\u00a7 32",
         "title": "Wiedereinsetzung in den vorigen Stand",
         "parent": {
@@ -618,6 +665,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000502301",
         "name": "Abschnitt 3",
         "title": "Amtliche Beglaubigung",
         "parent": {
@@ -628,6 +676,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005305311",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005305311",
         "name": "\u00a7 33",
         "title": "Beglaubigung von Dokumenten",
         "parent": {
@@ -641,6 +690,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005402301",
         "name": "\u00a7 34",
         "title": "Beglaubigung von Unterschriften",
         "parent": {
@@ -654,6 +704,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000602301",
         "name": "Teil III",
         "title": "Verwaltungsakt",
         "parent": null
@@ -661,6 +712,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000702301",
         "name": "Abschnitt 1",
         "title": "Zustandekommen des Verwaltungsaktes",
         "parent": {
@@ -671,6 +723,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005502301",
         "name": "\u00a7 35",
         "title": "Begriff des Verwaltungsaktes",
         "parent": {
@@ -684,6 +737,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013900116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013900116",
         "name": "\u00a7 35a",
         "title": "Vollst\u00e4ndig automatisierter Erlass eines Verwaltungsaktes",
         "parent": {
@@ -697,6 +751,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005602301",
         "name": "\u00a7 36",
         "title": "Nebenbestimmungen zum Verwaltungsakt",
         "parent": {
@@ -710,6 +765,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005705311",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005705311",
         "name": "\u00a7 37",
         "title": "Bestimmtheit und Form des Verwaltungsaktes; Rechtsbehelfsbelehrung",
         "parent": {
@@ -723,6 +779,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005802301",
         "name": "\u00a7 38",
         "title": "Zusicherung",
         "parent": {
@@ -736,6 +793,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE005903301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE005903301",
         "name": "\u00a7 39",
         "title": "Begr\u00fcndung des Verwaltungsaktes",
         "parent": {
@@ -749,6 +807,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006002301",
         "name": "\u00a7 40",
         "title": "Ermessen",
         "parent": {
@@ -762,6 +821,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006106116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006106116",
         "name": "\u00a7 41",
         "title": "Bekanntgabe des Verwaltungsaktes",
         "parent": {
@@ -775,6 +835,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006203301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006203301",
         "name": "\u00a7 42",
         "title": "Offenbare Unrichtigkeiten im Verwaltungsakt",
         "parent": {
@@ -788,6 +849,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013200310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013200310",
         "name": "\u00a7 42a",
         "title": "Genehmigungsfiktion",
         "parent": {
@@ -801,6 +863,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000802301",
         "name": "Abschnitt 2",
         "title": "Bestandskraft des Verwaltungsaktes",
         "parent": {
@@ -811,6 +874,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006302301",
         "name": "\u00a7 43",
         "title": "Wirksamkeit des Verwaltungsaktes",
         "parent": {
@@ -824,6 +888,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006404301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006404301",
         "name": "\u00a7 44",
         "title": "Nichtigkeit des Verwaltungsaktes",
         "parent": {
@@ -837,6 +902,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006504301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006504301",
         "name": "\u00a7 45",
         "title": "Heilung von Verfahrens- und Formfehlern",
         "parent": {
@@ -850,6 +916,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006603301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006603301",
         "name": "\u00a7 46",
         "title": "Folgen von Verfahrens- und Formfehlern",
         "parent": {
@@ -863,6 +930,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006702301",
         "name": "\u00a7 47",
         "title": "Umdeutung eines fehlerhaften Verwaltungsaktes",
         "parent": {
@@ -876,6 +944,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006803301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006803301",
         "name": "\u00a7 48",
         "title": "R\u00fccknahme eines rechtswidrigen Verwaltungsaktes",
         "parent": {
@@ -889,6 +958,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE006903301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE006903301",
         "name": "\u00a7 49",
         "title": "Widerruf eines rechtm\u00e4\u00dfigen Verwaltungsaktes",
         "parent": {
@@ -902,6 +972,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012503301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012503301",
         "name": "\u00a7 49a",
         "title": "Erstattung, Verzinsung",
         "parent": {
@@ -915,6 +986,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007004301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007004301",
         "name": "\u00a7 50",
         "title": "R\u00fccknahme und Widerruf im Rechtsbehelfsverfahren",
         "parent": {
@@ -928,6 +1000,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007102301",
         "name": "\u00a7 51",
         "title": "Wiederaufgreifen des Verfahrens",
         "parent": {
@@ -941,6 +1014,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007202301",
         "name": "\u00a7 52",
         "title": "R\u00fcckgabe von Urkunden und Sachen",
         "parent": {
@@ -954,6 +1028,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG000902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG000902301",
         "name": "Abschnitt 3",
         "title": "Verj\u00e4hrungsrechtliche Wirkungen\ndes Verwaltungsaktes",
         "parent": {
@@ -964,6 +1039,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007303301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007303301",
         "name": "\u00a7 53",
         "title": "Hemmung der Verj\u00e4hrung durch Verwaltungsakt",
         "parent": {
@@ -977,6 +1053,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001002301",
         "name": "Teil IV",
         "title": "\u00d6ffentlich-rechtlicher Vertrag",
         "parent": null
@@ -984,6 +1061,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007402301",
         "name": "\u00a7 54",
         "title": "Zul\u00e4ssigkeit des \u00f6ffentlich-rechtlichen Vertrags",
         "parent": {
@@ -997,6 +1075,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007502301",
         "name": "\u00a7 55",
         "title": "Vergleichsvertrag",
         "parent": {
@@ -1010,6 +1089,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007602301",
         "name": "\u00a7 56",
         "title": "Austauschvertrag",
         "parent": {
@@ -1023,6 +1103,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007702301",
         "name": "\u00a7 57",
         "title": "Schriftform",
         "parent": {
@@ -1036,6 +1117,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007802301",
         "name": "\u00a7 58",
         "title": "Zustimmung von Dritten und Beh\u00f6rden",
         "parent": {
@@ -1049,6 +1131,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE007902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE007902301",
         "name": "\u00a7 59",
         "title": "Nichtigkeit des \u00f6ffentlich-rechtlichen Vertrags",
         "parent": {
@@ -1062,6 +1145,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008002301",
         "name": "\u00a7 60",
         "title": "Anpassung und K\u00fcndigung in besonderen F\u00e4llen",
         "parent": {
@@ -1075,6 +1159,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008104301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008104301",
         "name": "\u00a7 61",
         "title": "Unterwerfung unter die sofortige Vollstreckung",
         "parent": {
@@ -1088,6 +1173,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008202301",
         "name": "\u00a7 62",
         "title": "Erg\u00e4nzende Anwendung von Vorschriften",
         "parent": {
@@ -1101,6 +1187,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001102301",
         "name": "Teil V",
         "title": "Besondere Verfahrensarten",
         "parent": null
@@ -1108,6 +1195,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001202301",
         "name": "Abschnitt 1",
         "title": "F\u00f6rmliches Verwaltungsverfahren",
         "parent": {
@@ -1118,6 +1206,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008302301",
         "name": "\u00a7 63",
         "title": "Anwendung der Vorschriften \u00fcber das f\u00f6rmliche\nVerwaltungsverfahren",
         "parent": {
@@ -1131,6 +1220,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008402301",
         "name": "\u00a7 64",
         "title": "Form des Antrags",
         "parent": {
@@ -1144,6 +1234,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008502301",
         "name": "\u00a7 65",
         "title": "Mitwirkung von Zeugen und Sachverst\u00e4ndigen",
         "parent": {
@@ -1157,6 +1248,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008603301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008603301",
         "name": "\u00a7 66",
         "title": "Verpflichtung zur Anh\u00f6rung von Beteiligten",
         "parent": {
@@ -1170,6 +1262,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008703301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008703301",
         "name": "\u00a7 67",
         "title": "Erfordernis der m\u00fcndlichen Verhandlung",
         "parent": {
@@ -1183,6 +1276,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008802301",
         "name": "\u00a7 68",
         "title": "Verlauf der m\u00fcndlichen Verhandlung",
         "parent": {
@@ -1196,6 +1290,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE008905310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE008905310",
         "name": "\u00a7 69",
         "title": "Entscheidung",
         "parent": {
@@ -1209,6 +1304,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009002301",
         "name": "\u00a7 70",
         "title": "Anfechtung der Entscheidung",
         "parent": {
@@ -1222,6 +1318,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009102301",
         "name": "\u00a7 71",
         "title": "Besondere Vorschriften f\u00fcr das f\u00f6rmliche Verfahren vor\nAussch\u00fcssen",
         "parent": {
@@ -1235,6 +1332,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001903310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001903310",
         "name": "Abschnitt 1a",
         "title": "Verfahren \u00fcber eine einheitliche Stelle",
         "parent": {
@@ -1245,6 +1343,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012603310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012603310",
         "name": "\u00a7 71a",
         "title": "Anwendbarkeit",
         "parent": {
@@ -1258,6 +1357,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012703310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012703310",
         "name": "\u00a7 71b",
         "title": "Verfahren",
         "parent": {
@@ -1271,6 +1371,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012804310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012804310",
         "name": "\u00a7 71c",
         "title": "Informationspflichten",
         "parent": {
@@ -1284,6 +1385,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012903310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012903310",
         "name": "\u00a7 71d",
         "title": "Gegenseitige Unterst\u00fctzung",
         "parent": {
@@ -1297,6 +1399,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE013003310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE013003310",
         "name": "\u00a7 71e",
         "title": "Elektronisches Verfahren",
         "parent": {
@@ -1310,6 +1413,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001302301",
         "name": "Abschnitt 2",
         "title": "Planfeststellungsverfahren",
         "parent": {
@@ -1320,6 +1424,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009203301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009203301",
         "name": "\u00a7 72",
         "title": "Anwendung der Vorschriften \u00fcber das Planfeststellungsverfahren",
         "parent": {
@@ -1333,6 +1438,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009304311",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009304311",
         "name": "\u00a7 73",
         "title": "Anh\u00f6rungsverfahren",
         "parent": {
@@ -1346,6 +1452,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009405116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009405116",
         "name": "\u00a7 74",
         "title": "Planfeststellungsbeschluss, Plangenehmigung",
         "parent": {
@@ -1359,6 +1466,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009504311",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009504311",
         "name": "\u00a7 75",
         "title": "Rechtswirkungen der Planfeststellung",
         "parent": {
@@ -1372,6 +1480,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009602301",
         "name": "\u00a7 76",
         "title": "Plan\u00e4nderungen vor Fertigstellung des Vorhabens",
         "parent": {
@@ -1385,6 +1494,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009702301",
         "name": "\u00a7 77",
         "title": "Aufhebung des Planfeststellungsbeschlusses",
         "parent": {
@@ -1398,6 +1508,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009802301",
         "name": "\u00a7 78",
         "title": "Zusammentreffen mehrerer Vorhaben",
         "parent": {
@@ -1411,6 +1522,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001402301",
         "name": "Teil VI",
         "title": "Rechtsbehelfsverfahren",
         "parent": null
@@ -1418,6 +1530,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE009902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE009902301",
         "name": "\u00a7 79",
         "title": "Rechtsbehelfe gegen Verwaltungsakte",
         "parent": {
@@ -1431,6 +1544,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010002301",
         "name": "\u00a7 80",
         "title": "Erstattung von Kosten im Vorverfahren",
         "parent": {
@@ -1444,6 +1558,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001502301",
         "name": "Teil VII",
         "title": "Ehrenamtliche T\u00e4tigkeit, Aussch\u00fcsse",
         "parent": null
@@ -1451,6 +1566,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001602301",
         "name": "Abschnitt 1",
         "title": "Ehrenamtliche T\u00e4tigkeit",
         "parent": {
@@ -1461,6 +1577,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010102301",
         "name": "\u00a7 81",
         "title": "Anwendung der Vorschriften \u00fcber die ehrenamtliche T\u00e4tigkeit",
         "parent": {
@@ -1474,6 +1591,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010202301",
         "name": "\u00a7 82",
         "title": "Pflicht zu ehrenamtlicher T\u00e4tigkeit",
         "parent": {
@@ -1487,6 +1605,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010302301",
         "name": "\u00a7 83",
         "title": "Aus\u00fcbung ehrenamtlicher T\u00e4tigkeit",
         "parent": {
@@ -1500,6 +1619,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010402301",
         "name": "\u00a7 84",
         "title": "Verschwiegenheitspflicht",
         "parent": {
@@ -1513,6 +1633,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010502301",
         "name": "\u00a7 85",
         "title": "Entsch\u00e4digung",
         "parent": {
@@ -1526,6 +1647,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010602301",
         "name": "\u00a7 86",
         "title": "Abberufung",
         "parent": {
@@ -1539,6 +1661,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010702301",
         "name": "\u00a7 87",
         "title": "Ordnungswidrigkeiten",
         "parent": {
@@ -1552,6 +1675,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001702301",
         "name": "Abschnitt 2",
         "title": "Aussch\u00fcsse",
         "parent": {
@@ -1562,6 +1686,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010802301",
         "name": "\u00a7 88",
         "title": "Anwendung der Vorschriften \u00fcber Aussch\u00fcsse",
         "parent": {
@@ -1575,6 +1700,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE010902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE010902301",
         "name": "\u00a7 89",
         "title": "Ordnung in den Sitzungen",
         "parent": {
@@ -1588,6 +1714,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011002301",
         "name": "\u00a7 90",
         "title": "Beschlussf\u00e4higkeit",
         "parent": {
@@ -1601,6 +1728,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011102301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011102301",
         "name": "\u00a7 91",
         "title": "Beschlussfassung",
         "parent": {
@@ -1614,6 +1742,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011202301",
         "name": "\u00a7 92",
         "title": "Wahlen durch Aussch\u00fcsse",
         "parent": {
@@ -1627,6 +1756,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011302301",
         "name": "\u00a7 93",
         "title": "Niederschrift",
         "parent": {
@@ -1640,6 +1770,7 @@
       {
         "type": "heading",
         "id": "BJNR012530976BJNG001802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNG001802301",
         "name": "Teil VIII",
         "title": "Schlussvorschriften",
         "parent": null
@@ -1647,6 +1778,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011402301",
         "name": "\u00a7 94",
         "title": "\u00dcbertragung gemeindlicher Aufgaben",
         "parent": {
@@ -1660,6 +1792,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011503301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011503301",
         "name": "\u00a7 95",
         "title": "Sonderregelung f\u00fcr Verteidigungsangelegenheiten",
         "parent": {
@@ -1673,6 +1806,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011602301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011602301",
         "name": "\u00a7 96",
         "title": "\u00dcberleitung von Verfahren",
         "parent": {
@@ -1686,6 +1820,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011703301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011703301",
         "name": "\u00a7 97",
         "title": null,
         "parent": {
@@ -1699,6 +1834,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011803301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011803301",
         "name": "\u00a7 98",
         "title": null,
         "parent": {
@@ -1712,6 +1848,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE011903301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE011903301",
         "name": "\u00a7 99",
         "title": null,
         "parent": {
@@ -1725,6 +1862,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012002301",
         "name": "\u00a7 100",
         "title": "Landesgesetzliche Regelungen",
         "parent": {
@@ -1738,6 +1876,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012103301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012103301",
         "name": "\u00a7 101",
         "title": "Stadtstaatenklausel",
         "parent": {
@@ -1751,6 +1890,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012204301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012204301",
         "name": "\u00a7 102",
         "title": "\u00dcbergangsvorschrift zu \u00a7 53",
         "parent": {
@@ -1764,6 +1904,7 @@
       {
         "type": "article",
         "id": "BJNR012530976BJNE012302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/vwvfg/articles/BJNR012530976BJNE012302301",
         "name": "\u00a7 103",
         "title": null,
         "parent": {

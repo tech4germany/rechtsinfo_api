@@ -58,6 +58,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE001955116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE001955116",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -68,6 +69,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000104310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000104310",
         "name": "Erster Abschnitt",
         "title": "Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich",
         "parent": null
@@ -75,6 +77,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002003310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002003310",
         "name": "\u00a7 1",
         "title": "Zweck des Gesetzes",
         "parent": {
@@ -88,6 +91,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002122116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002122116",
         "name": "\u00a7 2",
         "title": "Arzneimittelbegriff",
         "parent": {
@@ -101,6 +105,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002204310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002204310",
         "name": "\u00a7 3",
         "title": "Stoffbegriff",
         "parent": {
@@ -114,6 +119,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002321116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002321116",
         "name": "\u00a7 4",
         "title": "Sonstige Begriffsbestimmungen",
         "parent": {
@@ -127,6 +133,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019905310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019905310",
         "name": "\u00a7 4a",
         "title": "Ausnahmen vom Anwendungsbereich",
         "parent": {
@@ -140,6 +147,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022703116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022703116",
         "name": "\u00a7 4b",
         "title": "Sondervorschriften f\u00fcr Arzneimittel f\u00fcr neuartige Therapien",
         "parent": {
@@ -153,6 +161,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000203310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000203310",
         "name": "Zweiter Abschnitt",
         "title": "Anforderungen an die Arzneimittel",
         "parent": null
@@ -160,6 +169,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002404310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002404310",
         "name": "\u00a7 5",
         "title": "Verbot bedenklicher Arzneimittel",
         "parent": {
@@ -173,6 +183,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002509116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002509116",
         "name": "\u00a7 6",
         "title": "Verbote zum Schutz der Gesundheit, Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -186,6 +197,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019008116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019008116",
         "name": "\u00a7 6a",
         "title": "(weggefallen)",
         "parent": {
@@ -199,6 +211,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002609116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002609116",
         "name": "\u00a7 7",
         "title": "Radioaktive und mit ionisierenden Strahlen behandelte Arzneimittel",
         "parent": {
@@ -212,6 +225,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002706140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002706140",
         "name": "\u00a7 8",
         "title": "Verbote zum Schutz vor T\u00e4uschung",
         "parent": {
@@ -225,6 +239,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002806310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002806310",
         "name": "\u00a7 9",
         "title": "Der Verantwortliche f\u00fcr das Inverkehrbringen",
         "parent": {
@@ -238,6 +253,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE002938116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE002938116",
         "name": "\u00a7 10",
         "title": "Kennzeichnung",
         "parent": {
@@ -251,6 +267,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003118116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003118116",
         "name": "\u00a7 11",
         "title": "Packungsbeilage",
         "parent": {
@@ -264,6 +281,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE013115116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE013115116",
         "name": "\u00a7 11a",
         "title": "Fachinformation",
         "parent": {
@@ -277,6 +295,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003218116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003218116",
         "name": "\u00a7 12",
         "title": "Erm\u00e4chtigung f\u00fcr die Kennzeichnung, die Packungsbeilage und die Packungsgr\u00f6\u00dfen",
         "parent": {
@@ -290,6 +309,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000303310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000303310",
         "name": "Dritter Abschnitt",
         "title": "Herstellung von Arzneimitteln",
         "parent": null
@@ -297,6 +317,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003321116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003321116",
         "name": "\u00a7 13",
         "title": "Herstellungserlaubnis",
         "parent": {
@@ -310,6 +331,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003420116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003420116",
         "name": "\u00a7 14",
         "title": "Entscheidung \u00fcber die Herstellungserlaubnis",
         "parent": {
@@ -323,6 +345,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003520360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003520360",
         "name": "\u00a7 15",
         "title": "Sachkenntnis",
         "parent": {
@@ -336,6 +359,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003606310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003606310",
         "name": "\u00a7 16",
         "title": "Begrenzung der Herstellungserlaubnis",
         "parent": {
@@ -349,6 +373,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003705310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003705310",
         "name": "\u00a7 17",
         "title": "Fristen f\u00fcr die Erteilung",
         "parent": {
@@ -362,6 +387,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003803310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003803310",
         "name": "\u00a7 18",
         "title": "R\u00fccknahme, Widerruf, Ruhen",
         "parent": {
@@ -375,6 +401,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE003907310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE003907310",
         "name": "\u00a7 19",
         "title": "Verantwortungsbereiche",
         "parent": {
@@ -388,6 +415,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE004004310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE004004310",
         "name": "\u00a7 20",
         "title": "Anzeigepflichten",
         "parent": {
@@ -401,6 +429,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019104310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019104310",
         "name": "\u00a7 20a",
         "title": "Geltung f\u00fcr Wirkstoffe und andere Stoffe",
         "parent": {
@@ -414,6 +443,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021803116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021803116",
         "name": "\u00a7 20b",
         "title": "Erlaubnis f\u00fcr die Gewinnung von Gewebe und die Laboruntersuchungen",
         "parent": {
@@ -427,6 +457,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021902116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021902116",
         "name": "\u00a7 20c",
         "title": "Erlaubnis f\u00fcr die Be- oder Verarbeitung, Konservierung, Pr\u00fcfung, Lagerung oder das Inverkehrbringen von Gewebe oder Gewebezubereitungen",
         "parent": {
@@ -440,6 +471,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022801116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022801116",
         "name": "\u00a7 20d",
         "title": "Ausnahme von der Erlaubnispflicht f\u00fcr Gewebe und Gewebezubereitungen",
         "parent": {
@@ -453,6 +485,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000403310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000403310",
         "name": "Vierter Abschnitt",
         "title": "Zulassung der Arzneimittel",
         "parent": null
@@ -460,6 +493,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE004114140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE004114140",
         "name": "\u00a7 21",
         "title": "Zulassungspflicht",
         "parent": {
@@ -473,6 +507,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022005116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022005116",
         "name": "\u00a7 21a",
         "title": "Genehmigung von Gewebezubereitungen",
         "parent": {
@@ -486,6 +521,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE004211140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE004211140",
         "name": "\u00a7 22",
         "title": "Zulassungsunterlagen",
         "parent": {
@@ -499,6 +535,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE004410360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE004410360",
         "name": "\u00a7 23",
         "title": "Besondere Unterlagen bei Arzneimitteln f\u00fcr Tiere",
         "parent": {
@@ -512,6 +549,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE004608360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE004608360",
         "name": "\u00a7 24",
         "title": "Sachverst\u00e4ndigengutachten",
         "parent": {
@@ -525,6 +563,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE013208310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE013208310",
         "name": "\u00a7 24a",
         "title": "Verwendung von Unterlagen eines Vorantragstellers",
         "parent": {
@@ -538,6 +577,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021003360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021003360",
         "name": "\u00a7 24b",
         "title": "Zulassung eines Generikums, Unterlagenschutz",
         "parent": {
@@ -551,6 +591,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE013305310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE013305310",
         "name": "\u00a7 24c",
         "title": "Nachforderungen",
         "parent": {
@@ -564,6 +605,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014106310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014106310",
         "name": "\u00a7 24d",
         "title": "Allgemeine Verwertungsbefugnis",
         "parent": {
@@ -577,6 +619,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE004817116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE004817116",
         "name": "\u00a7 25",
         "title": "Entscheidung \u00fcber die Zulassung",
         "parent": {
@@ -590,6 +633,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014205140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014205140",
         "name": "\u00a7 25a",
         "title": "Vorpr\u00fcfung",
         "parent": {
@@ -603,6 +647,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021103140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021103140",
         "name": "\u00a7 25b",
         "title": "Verfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren",
         "parent": {
@@ -616,6 +661,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022901140",
         "name": "\u00a7 25c",
         "title": "Ma\u00dfnahmen der zust\u00e4ndigen Bundesoberbeh\u00f6rde zu Entscheidungen oder Beschl\u00fcssen der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union",
         "parent": {
@@ -629,6 +675,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE005018116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE005018116",
         "name": "\u00a7 26",
         "title": "Arzneimittelpr\u00fcfrichtlinien",
         "parent": {
@@ -642,6 +689,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE005106310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE005106310",
         "name": "\u00a7 27",
         "title": "Fristen f\u00fcr die Erteilung",
         "parent": {
@@ -655,6 +703,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE005313116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE005313116",
         "name": "\u00a7 28",
         "title": "Auflagenbefugnis",
         "parent": {
@@ -668,6 +717,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE005418360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE005418360",
         "name": "\u00a7 29",
         "title": "Anzeigepflicht, Neuzulassung",
         "parent": {
@@ -681,6 +731,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE005610140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE005610140",
         "name": "\u00a7 30",
         "title": "R\u00fccknahme, Widerruf, Ruhen",
         "parent": {
@@ -694,6 +745,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE005811140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE005811140",
         "name": "\u00a7 31",
         "title": "Erl\u00f6schen, Verl\u00e4ngerung",
         "parent": {
@@ -707,6 +759,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE005909116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE005909116",
         "name": "\u00a7 32",
         "title": "Staatliche Chargenpr\u00fcfung",
         "parent": {
@@ -720,6 +773,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006025116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006025116",
         "name": "\u00a7 33",
         "title": "Geb\u00fchren und Auslagen",
         "parent": {
@@ -733,6 +787,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006109116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006109116",
         "name": "\u00a7 34",
         "title": "Information der \u00d6ffentlichkeit",
         "parent": {
@@ -746,6 +801,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006211116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006211116",
         "name": "\u00a7 35",
         "title": "Erm\u00e4chtigungen zur Zulassung und Freistellung",
         "parent": {
@@ -759,6 +815,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006315116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006315116",
         "name": "\u00a7 36",
         "title": "Erm\u00e4chtigung f\u00fcr Standardzulassungen",
         "parent": {
@@ -772,6 +829,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006411116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006411116",
         "name": "\u00a7 37",
         "title": "Genehmigung der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union f\u00fcr das Inverkehrbringen, Zulassungen von Arzneimitteln aus anderen Staaten",
         "parent": {
@@ -785,6 +843,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000504310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000504310",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Registrierung von Arzneimitteln",
         "parent": null
@@ -792,6 +851,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006509140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006509140",
         "name": "\u00a7 38",
         "title": "Registrierung hom\u00f6opathischer Arzneimittel",
         "parent": {
@@ -805,6 +865,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006622116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006622116",
         "name": "\u00a7 39",
         "title": "Entscheidung \u00fcber die Registrierung hom\u00f6opathischer Arzneimittel, Verfahrensvorschriften",
         "parent": {
@@ -818,6 +879,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021201310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021201310",
         "name": "\u00a7 39a",
         "title": "Registrierung traditioneller pflanzlicher Arzneimittel",
         "parent": {
@@ -831,6 +893,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021303140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021303140",
         "name": "\u00a7 39b",
         "title": "Registrierungsunterlagen f\u00fcr traditionelle pflanzliche Arzneimittel",
         "parent": {
@@ -844,6 +907,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021402140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021402140",
         "name": "\u00a7 39c",
         "title": "Entscheidung \u00fcber die Registrierung traditioneller pflanzlicher Arzneimittel",
         "parent": {
@@ -857,6 +921,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021508301",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021508301",
         "name": "\u00a7 39d",
         "title": "Sonstige Verfahrensvorschriften f\u00fcr traditionelle pflanzliche Arzneimittel",
         "parent": {
@@ -870,6 +935,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000605310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000605310",
         "name": "Sechster Abschnitt",
         "title": "Schutz des Menschen bei der\nklinischen Pr\u00fcfung",
         "parent": null
@@ -877,6 +943,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006717116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006717116",
         "name": "\u00a7 40",
         "title": "Allgemeine Voraussetzungen der klinischen Pr\u00fcfung",
         "parent": {
@@ -890,6 +957,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006806310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006806310",
         "name": "\u00a7 41",
         "title": "Besondere Voraussetzungen der klinischen Pr\u00fcfung",
         "parent": {
@@ -903,6 +971,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025900116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025900116",
         "name": "\u00a7 41a",
         "title": "Registrierungsverfahren f\u00fcr Ethik-Kommissionen",
         "parent": {
@@ -916,6 +985,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE026000116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE026000116",
         "name": "\u00a7 41b",
         "title": "Verfahrensordnung und Gesch\u00e4ftsverteilungsplan",
         "parent": {
@@ -929,6 +999,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE026100116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE026100116",
         "name": "\u00a7 41c",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -942,6 +1013,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE006912116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE006912116",
         "name": "\u00a7 42",
         "title": "Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbeh\u00f6rde",
         "parent": {
@@ -955,6 +1027,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020204140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020204140",
         "name": "\u00a7 42a",
         "title": "R\u00fccknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung",
         "parent": {
@@ -968,6 +1041,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023205116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023205116",
         "name": "\u00a7 42b",
         "title": "Ver\u00f6ffentlichung der Ergebnisse klinischer Pr\u00fcfungen",
         "parent": {
@@ -981,6 +1055,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000705310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000705310",
         "name": "Siebter Abschnitt",
         "title": "Abgabe von Arzneimitteln",
         "parent": null
@@ -988,6 +1063,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007011116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007011116",
         "name": "\u00a7 43",
         "title": "Apothekenpflicht, Inverkehrbringen durch Tier\u00e4rzte",
         "parent": {
@@ -1001,6 +1077,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007107310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007107310",
         "name": "\u00a7 44",
         "title": "Ausnahme von der Apothekenpflicht",
         "parent": {
@@ -1014,6 +1091,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007211116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007211116",
         "name": "\u00a7 45",
         "title": "Erm\u00e4chtigung zu weiteren Ausnahmen von der Apothekenpflicht",
         "parent": {
@@ -1027,6 +1105,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007309116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007309116",
         "name": "\u00a7 46",
         "title": "Erm\u00e4chtigung zur Ausweitung der Apothekenpflicht",
         "parent": {
@@ -1040,6 +1119,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007420116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007420116",
         "name": "\u00a7 47",
         "title": "Vertriebsweg",
         "parent": {
@@ -1053,6 +1133,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019501310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019501310",
         "name": "\u00a7 47a",
         "title": "Sondervertriebsweg, Nachweispflichten",
         "parent": {
@@ -1066,6 +1147,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022700360",
         "name": "\u00a7 47b",
         "title": "Sondervertriebsweg Diamorphin",
         "parent": {
@@ -1079,6 +1161,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007519116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007519116",
         "name": "\u00a7 48",
         "title": "Verschreibungspflicht",
         "parent": {
@@ -1092,6 +1175,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007710310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007710310",
         "name": "\u00a7 49",
         "title": null,
         "parent": {
@@ -1105,6 +1189,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007812116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007812116",
         "name": "\u00a7 50",
         "title": "Einzelhandel mit freiverk\u00e4uflichen Arzneimitteln",
         "parent": {
@@ -1118,6 +1203,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE007904310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE007904310",
         "name": "\u00a7 51",
         "title": "Abgabe im Reisegewerbe",
         "parent": {
@@ -1131,6 +1217,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008006310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008006310",
         "name": "\u00a7 52",
         "title": "Verbot der Selbstbedienung",
         "parent": {
@@ -1144,6 +1231,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020305116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020305116",
         "name": "\u00a7 52a",
         "title": "Gro\u00dfhandel mit Arzneimitteln",
         "parent": {
@@ -1157,6 +1245,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023004116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023004116",
         "name": "\u00a7 52b",
         "title": "Bereitstellung von Arzneimitteln",
         "parent": {
@@ -1170,6 +1259,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023800140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023800140",
         "name": "\u00a7 52c",
         "title": "Arzneimittelvermittlung",
         "parent": {
@@ -1183,6 +1273,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008109116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008109116",
         "name": "\u00a7 53",
         "title": "Anh\u00f6rung von Sachverst\u00e4ndigen",
         "parent": {
@@ -1196,6 +1287,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000805310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000805310",
         "name": "Achter Abschnitt",
         "title": "Sicherung und Kontrolle der\nQualit\u00e4t",
         "parent": null
@@ -1203,6 +1295,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008217116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008217116",
         "name": "\u00a7 54",
         "title": "Betriebsverordnungen",
         "parent": {
@@ -1216,6 +1309,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008311116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008311116",
         "name": "\u00a7 55",
         "title": "Arzneibuch",
         "parent": {
@@ -1229,6 +1323,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014503310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014503310",
         "name": "\u00a7 55a",
         "title": "Amtliche Sammlung von Untersuchungsverfahren",
         "parent": {
@@ -1242,6 +1337,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG000905310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG000905310",
         "name": "Neunter Abschnitt",
         "title": "Sondervorschriften f\u00fcr\nArzneimittel, die bei Tieren angewendet werden",
         "parent": null
@@ -1249,6 +1345,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008411116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008411116",
         "name": "\u00a7 56",
         "title": "F\u00fctterungsarzneimittel",
         "parent": {
@@ -1262,6 +1359,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008517116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008517116",
         "name": "\u00a7 56a",
         "title": "Verschreibung, Abgabe und Anwendung von Arzneimitteln durch Tier\u00e4rzte",
         "parent": {
@@ -1275,6 +1373,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020003116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020003116",
         "name": "\u00a7 56b",
         "title": "Ausnahmen",
         "parent": {
@@ -1288,6 +1387,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008614116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008614116",
         "name": "\u00a7 57",
         "title": "Erwerb und Besitz durch Tierhalter, Nachweise",
         "parent": {
@@ -1301,6 +1401,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023400360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023400360",
         "name": "\u00a7 57a",
         "title": "Anwendung durch Tierhalter",
         "parent": {
@@ -1314,6 +1415,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008711116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008711116",
         "name": "\u00a7 58",
         "title": "Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen",
         "parent": {
@@ -1327,6 +1429,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024801116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024801116",
         "name": "\u00a7 58a",
         "title": "Mitteilungen \u00fcber Tierhaltungen",
         "parent": {
@@ -1340,6 +1443,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024900116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024900116",
         "name": "\u00a7 58b",
         "title": "Mitteilungen \u00fcber Arzneimittelverwendung",
         "parent": {
@@ -1353,6 +1457,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025001116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025001116",
         "name": "\u00a7 58c",
         "title": "Ermittlung der Therapieh\u00e4ufigkeit",
         "parent": {
@@ -1366,6 +1471,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025100116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025100116",
         "name": "\u00a7 58d",
         "title": "Verringerung der Behandlung mit antibakteriell wirksamen Stoffen",
         "parent": {
@@ -1379,6 +1485,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025201116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025201116",
         "name": "\u00a7 58e",
         "title": "Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -1392,6 +1499,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025302116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025302116",
         "name": "\u00a7 58f",
         "title": "Verwendung von Daten",
         "parent": {
@@ -1405,6 +1513,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025401116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025401116",
         "name": "\u00a7 58g",
         "title": "Evaluierung",
         "parent": {
@@ -1418,6 +1527,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008806360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008806360",
         "name": "\u00a7 59",
         "title": "Klinische Pr\u00fcfung und R\u00fcckstandspr\u00fcfung bei Tieren, die der Lebensmittelgewinnung dienen",
         "parent": {
@@ -1431,6 +1541,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE008906310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE008906310",
         "name": "\u00a7 59a",
         "title": "Verkehr mit Stoffen und Zubereitungen aus Stoffen",
         "parent": {
@@ -1444,6 +1555,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014304310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014304310",
         "name": "\u00a7 59b",
         "title": "Stoffe zur Durchf\u00fchrung von R\u00fcckstandskontrollen",
         "parent": {
@@ -1457,6 +1569,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018602310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018602310",
         "name": "\u00a7 59c",
         "title": "Nachweispflichten f\u00fcr Stoffe, die als Tierarzneimittel\nverwendet werden k\u00f6nnen",
         "parent": {
@@ -1470,6 +1583,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023507116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023507116",
         "name": "\u00a7 59d",
         "title": "Verabreichung pharmakologisch wirksamer Stoffe an Tiere, die der Lebensmittelgewinnung dienen",
         "parent": {
@@ -1483,6 +1597,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009009116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009009116",
         "name": "\u00a7 60",
         "title": "Heimtiere",
         "parent": {
@@ -1496,6 +1611,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009103310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009103310",
         "name": "\u00a7 61",
         "title": "Befugnisse tier\u00e4rztlicher Bildungsst\u00e4tten",
         "parent": {
@@ -1509,6 +1625,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG001007116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG001007116",
         "name": "Zehnter Abschnitt",
         "title": "Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken",
         "parent": null
@@ -1516,6 +1633,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009211116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009211116",
         "name": "\u00a7 62",
         "title": "Organisation",
         "parent": {
@@ -1529,6 +1647,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009305310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009305310",
         "name": "\u00a7 63",
         "title": "Stufenplan",
         "parent": {
@@ -1542,6 +1661,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE013907310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE013907310",
         "name": "\u00a7 63a",
         "title": "Stufenplanbeauftragter",
         "parent": {
@@ -1555,6 +1675,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020506140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020506140",
         "name": "\u00a7 63b",
         "title": "Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung",
         "parent": {
@@ -1568,6 +1689,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022102140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022102140",
         "name": "\u00a7 63c",
         "title": "Dokumentations- und Meldepflichten des Inhabers der Zulassung f\u00fcr Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, f\u00fcr Verdachtsf\u00e4lle von Nebenwirkungen",
         "parent": {
@@ -1581,6 +1703,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023901140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023901140",
         "name": "\u00a7 63d",
         "title": "Regelm\u00e4\u00dfige aktualisierte Unbedenklichkeitsberichte",
         "parent": {
@@ -1594,6 +1717,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024000140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024000140",
         "name": "\u00a7 63e",
         "title": "Europ\u00e4isches Verfahren",
         "parent": {
@@ -1607,6 +1731,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024102116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024102116",
         "name": "\u00a7 63f",
         "title": "Allgemeine Voraussetzungen f\u00fcr nichtinterventionelle Unbedenklichkeitspr\u00fcfungen",
         "parent": {
@@ -1620,6 +1745,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024200140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024200140",
         "name": "\u00a7 63g",
         "title": "Besondere Voraussetzungen f\u00fcr angeordnete nichtinterventionelle Unbedenklichkeitspr\u00fcfungen",
         "parent": {
@@ -1633,6 +1759,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024300140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024300140",
         "name": "\u00a7 63h",
         "title": "Dokumentations- und Meldepflichten f\u00fcr Arzneimittel, die zur Anwendung bei Tieren bestimmt sind",
         "parent": {
@@ -1646,6 +1773,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024402116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024402116",
         "name": "\u00a7 63i",
         "title": "Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe",
         "parent": {
@@ -1659,6 +1787,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE027000116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE027000116",
         "name": "\u00a7 63j",
         "title": "Dokumentations- und Meldepflichten der behandelnden Person f\u00fcr nicht zulassungs- oder genehmigungspflichtige Arzneimittel f\u00fcr neuartige Therapien",
         "parent": {
@@ -1672,6 +1801,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024502116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024502116",
         "name": "\u00a7 63k",
         "title": "Ausnahmen",
         "parent": {
@@ -1685,6 +1815,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG001105310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG001105310",
         "name": "Elfter Abschnitt",
         "title": "\u00dcberwachung",
         "parent": null
@@ -1692,6 +1823,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009424116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009424116",
         "name": "\u00a7 64",
         "title": "Durchf\u00fchrung der \u00dcberwachung",
         "parent": {
@@ -1705,6 +1837,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009508310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009508310",
         "name": "\u00a7 65",
         "title": "Probenahme",
         "parent": {
@@ -1718,6 +1851,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009608140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009608140",
         "name": "\u00a7 66",
         "title": "Duldungs- und Mitwirkungspflicht",
         "parent": {
@@ -1731,6 +1865,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009728116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009728116",
         "name": "\u00a7 67",
         "title": "Allgemeine Anzeigepflicht",
         "parent": {
@@ -1744,6 +1879,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019213116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019213116",
         "name": "\u00a7 67a",
         "title": "Datenbankgest\u00fctztes Informationssystem",
         "parent": {
@@ -1757,6 +1893,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025600116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025600116",
         "name": "\u00a7 67b",
         "title": "EU-Kompendium der Gewebeeinrichtungen, EU-Kompendium der Gewebe- und Zellprodukte, Unterrichtungspflichten",
         "parent": {
@@ -1770,6 +1907,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009814116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009814116",
         "name": "\u00a7 68",
         "title": "Mitteilungs- und Unterrichtungspflichten",
         "parent": {
@@ -1783,6 +1921,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE009912116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE009912116",
         "name": "\u00a7 69",
         "title": "Ma\u00dfnahmen der zust\u00e4ndigen Beh\u00f6rden",
         "parent": {
@@ -1796,6 +1935,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018703360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018703360",
         "name": "\u00a7 69a",
         "title": "\u00dcberwachung von Stoffen, die als Tierarzneimittel verwendet werden k\u00f6nnen",
         "parent": {
@@ -1809,6 +1949,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020802116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020802116",
         "name": "\u00a7 69b",
         "title": "Verwendung bestimmter Daten",
         "parent": {
@@ -1822,6 +1963,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG001206310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG001206310",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "Sondervorschriften f\u00fcr\nBundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz",
         "parent": null
@@ -1829,6 +1971,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010006116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010006116",
         "name": "\u00a7 70",
         "title": "Anwendung und Vollzug des Gesetzes",
         "parent": {
@@ -1842,6 +1985,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010112116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010112116",
         "name": "\u00a7 71",
         "title": "Ausnahmen",
         "parent": {
@@ -1855,6 +1999,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG001306310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG001306310",
         "name": "Dreizehnter Abschnitt",
         "title": "Einfuhr und Ausfuhr",
         "parent": null
@@ -1862,6 +2007,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010213116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010213116",
         "name": "\u00a7 72",
         "title": "Einfuhrerlaubnis",
         "parent": {
@@ -1875,6 +2021,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014019116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014019116",
         "name": "\u00a7 72a",
         "title": "Zertifikate",
         "parent": {
@@ -1888,6 +2035,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022203116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022203116",
         "name": "\u00a7 72b",
         "title": "Einfuhrerlaubnis und Zertifikate f\u00fcr Gewebe und bestimmte Gewebezubereitungen",
         "parent": {
@@ -1901,6 +2049,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025700116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025700116",
         "name": "\u00a7 72c",
         "title": "Einmalige Einfuhr von Gewebe oder Gewebezubereitungen",
         "parent": {
@@ -1914,6 +2063,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010321360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010321360",
         "name": "\u00a7 73",
         "title": "Verbringungsverbot",
         "parent": {
@@ -1927,6 +2077,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014408116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014408116",
         "name": "\u00a7 73a",
         "title": "Ausfuhr",
         "parent": {
@@ -1940,6 +2091,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010412116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010412116",
         "name": "\u00a7 74",
         "title": "Mitwirkung von Zolldienststellen",
         "parent": {
@@ -1953,6 +2105,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG001406310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG001406310",
         "name": "Vierzehnter Abschnitt",
         "title": "Informationsbeauftragter,\nPharmaberater",
         "parent": null
@@ -1960,6 +2113,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014606140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014606140",
         "name": "\u00a7 74a",
         "title": "Informationsbeauftragter",
         "parent": {
@@ -1973,6 +2127,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010509310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010509310",
         "name": "\u00a7 75",
         "title": "Sachkenntnis",
         "parent": {
@@ -1986,6 +2141,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010606116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010606116",
         "name": "\u00a7 76",
         "title": "Pflichten",
         "parent": {
@@ -1999,6 +2155,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG001505310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG001505310",
         "name": "F\u00fcnfzehnter Abschnitt",
         "title": "Bestimmung der zust\u00e4ndigen\nBundesoberbeh\u00f6rden und sonstige Bestimmungen",
         "parent": null
@@ -2006,6 +2163,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010711116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010711116",
         "name": "\u00a7 77",
         "title": "Zust\u00e4ndige Bundesoberbeh\u00f6rde",
         "parent": {
@@ -2019,6 +2177,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021602116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021602116",
         "name": "\u00a7 77a",
         "title": "Unabh\u00e4ngigkeit und Transparenz",
         "parent": {
@@ -2032,6 +2191,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010817116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010817116",
         "name": "\u00a7 78",
         "title": "Preise",
         "parent": {
@@ -2045,6 +2205,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE010913116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE010913116",
         "name": "\u00a7 79",
         "title": "Ausnahmeerm\u00e4chtigungen f\u00fcr Krisenzeiten",
         "parent": {
@@ -2058,6 +2219,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011015116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011015116",
         "name": "\u00a7 80",
         "title": "Erm\u00e4chtigung f\u00fcr Verfahrens- und H\u00e4rtefallregelungen",
         "parent": {
@@ -2071,6 +2233,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011104116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011104116",
         "name": "\u00a7 81",
         "title": "Verh\u00e4ltnis zu anderen Gesetzen",
         "parent": {
@@ -2084,6 +2247,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011206116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011206116",
         "name": "\u00a7 82",
         "title": "Allgemeine Verwaltungsvorschriften",
         "parent": {
@@ -2097,6 +2261,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011306140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011306140",
         "name": "\u00a7 83",
         "title": "Angleichung an das Recht der Europ\u00e4ischen Union",
         "parent": {
@@ -2110,6 +2275,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023602116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023602116",
         "name": "\u00a7 83a",
         "title": "Rechtsverordnungen in bestimmten F\u00e4llen",
         "parent": {
@@ -2123,6 +2289,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023601116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023601116",
         "name": "\u00a7 83b",
         "title": "Verk\u00fcndung von Rechtsverordnungen",
         "parent": {
@@ -2136,6 +2303,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG001605310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG001605310",
         "name": "Sechzehnter Abschnitt",
         "title": "Haftung f\u00fcr\nArzneimittelsch\u00e4den",
         "parent": null
@@ -2143,6 +2311,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011405310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011405310",
         "name": "\u00a7 84",
         "title": "Gef\u00e4hrdungshaftung",
         "parent": {
@@ -2156,6 +2325,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019702310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019702310",
         "name": "\u00a7 84a",
         "title": "Auskunftsanspruch",
         "parent": {
@@ -2169,6 +2339,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011503310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011503310",
         "name": "\u00a7 85",
         "title": "Mitverschulden",
         "parent": {
@@ -2182,6 +2353,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011604116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011604116",
         "name": "\u00a7 86",
         "title": "Umfang der Ersatzpflicht bei T\u00f6tung",
         "parent": {
@@ -2195,6 +2367,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011704310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011704310",
         "name": "\u00a7 87",
         "title": "Umfang der Ersatzpflicht bei K\u00f6rperverletzung",
         "parent": {
@@ -2208,6 +2381,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011805310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011805310",
         "name": "\u00a7 88",
         "title": "H\u00f6chstbetr\u00e4ge",
         "parent": {
@@ -2221,6 +2395,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE011904310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE011904310",
         "name": "\u00a7 89",
         "title": "Schadensersatz durch Geldrenten",
         "parent": {
@@ -2234,6 +2409,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012004310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012004310",
         "name": "\u00a7 90",
         "title": null,
         "parent": {
@@ -2247,6 +2423,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012103310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012103310",
         "name": "\u00a7 91",
         "title": "Weitergehende Haftung",
         "parent": {
@@ -2260,6 +2437,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012203310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012203310",
         "name": "\u00a7 92",
         "title": "Unabdingbarkeit",
         "parent": {
@@ -2273,6 +2451,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012303310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012303310",
         "name": "\u00a7 93",
         "title": "Mehrere Ersatzpflichtige",
         "parent": {
@@ -2286,6 +2465,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012407140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012407140",
         "name": "\u00a7 94",
         "title": "Deckungsvorsorge",
         "parent": {
@@ -2299,6 +2479,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012504310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012504310",
         "name": "\u00a7 94a",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -2312,6 +2493,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG001705310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG001705310",
         "name": "Siebzehnter Abschnitt",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null
@@ -2319,6 +2501,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012619116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012619116",
         "name": "\u00a7 95",
         "title": "Strafvorschriften",
         "parent": {
@@ -2332,6 +2515,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012726116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012726116",
         "name": "\u00a7 96",
         "title": "Strafvorschriften",
         "parent": {
@@ -2345,6 +2529,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012834116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012834116",
         "name": "\u00a7 97",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2358,6 +2543,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE012903310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE012903310",
         "name": "\u00a7 98",
         "title": "Einziehung",
         "parent": {
@@ -2371,6 +2557,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002003310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002003310",
         "name": "Achtzehnter Abschnitt",
         "title": "\u00dcberleitungs- und\n\u00dcbergangsvorschriften",
         "parent": null
@@ -2378,6 +2565,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002103310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002103310",
         "name": "Erster Unterabschnitt",
         "title": "\u00dcberleitungsvorschriften aus\nAnlass des Gesetzes zur Neuordnung des Arzneimittelrechts",
         "parent": {
@@ -2388,6 +2576,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014703310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014703310",
         "name": "\u00a7 99",
         "title": "Arzneimittelgesetz 1961",
         "parent": {
@@ -2401,6 +2590,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014803310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014803310",
         "name": "\u00a7 100",
         "title": null,
         "parent": {
@@ -2414,6 +2604,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE014904310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE014904310",
         "name": "\u00a7 101",
         "title": null,
         "parent": {
@@ -2427,6 +2618,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015003310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015003310",
         "name": "\u00a7 102",
         "title": null,
         "parent": {
@@ -2440,6 +2632,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015104310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015104310",
         "name": "\u00a7 102a",
         "title": null,
         "parent": {
@@ -2453,6 +2646,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015204310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015204310",
         "name": "\u00a7 103",
         "title": null,
         "parent": {
@@ -2466,6 +2660,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015304310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015304310",
         "name": "\u00a7 104",
         "title": null,
         "parent": {
@@ -2479,6 +2674,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015412360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015412360",
         "name": "\u00a7 105",
         "title": null,
         "parent": {
@@ -2492,6 +2688,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015503310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015503310",
         "name": "\u00a7 105a",
         "title": null,
         "parent": {
@@ -2505,6 +2702,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019307301",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019307301",
         "name": "\u00a7 105b",
         "title": null,
         "parent": {
@@ -2518,6 +2716,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015604310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015604310",
         "name": "\u00a7 106",
         "title": null,
         "parent": {
@@ -2531,6 +2730,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015704310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015704310",
         "name": "\u00a7 107",
         "title": null,
         "parent": {
@@ -2544,6 +2744,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015804310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015804310",
         "name": "\u00a7 108",
         "title": null,
         "parent": {
@@ -2557,6 +2758,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE015903310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE015903310",
         "name": "\u00a7 108a",
         "title": null,
         "parent": {
@@ -2570,6 +2772,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016004310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016004310",
         "name": "\u00a7 108b",
         "title": null,
         "parent": {
@@ -2583,6 +2786,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016107140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016107140",
         "name": "\u00a7 109",
         "title": null,
         "parent": {
@@ -2596,6 +2800,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017706310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017706310",
         "name": "\u00a7 109a",
         "title": null,
         "parent": {
@@ -2609,6 +2814,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016204310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016204310",
         "name": "\u00a7 110",
         "title": null,
         "parent": {
@@ -2622,6 +2828,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016304310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016304310",
         "name": "\u00a7 111",
         "title": null,
         "parent": {
@@ -2635,6 +2842,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016403310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016403310",
         "name": "\u00a7 112",
         "title": null,
         "parent": {
@@ -2648,6 +2856,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016503310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016503310",
         "name": "\u00a7 113",
         "title": null,
         "parent": {
@@ -2661,6 +2870,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016604310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016604310",
         "name": "\u00a7 114",
         "title": null,
         "parent": {
@@ -2674,6 +2884,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016703310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016703310",
         "name": "\u00a7 115",
         "title": null,
         "parent": {
@@ -2687,6 +2898,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016803310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016803310",
         "name": "\u00a7 116",
         "title": null,
         "parent": {
@@ -2700,6 +2912,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE016904310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE016904310",
         "name": "\u00a7 117",
         "title": null,
         "parent": {
@@ -2713,6 +2926,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017003310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017003310",
         "name": "\u00a7 118",
         "title": null,
         "parent": {
@@ -2726,6 +2940,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017104310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017104310",
         "name": "\u00a7 119",
         "title": null,
         "parent": {
@@ -2739,6 +2954,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017203310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017203310",
         "name": "\u00a7 120",
         "title": null,
         "parent": {
@@ -2752,6 +2968,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017304310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017304310",
         "name": "\u00a7 121",
         "title": null,
         "parent": {
@@ -2765,6 +2982,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017403310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017403310",
         "name": "\u00a7 122",
         "title": null,
         "parent": {
@@ -2778,6 +2996,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017503310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017503310",
         "name": "\u00a7 123",
         "title": null,
         "parent": {
@@ -2791,6 +3010,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017603310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017603310",
         "name": "\u00a7 124",
         "title": null,
         "parent": {
@@ -2804,6 +3024,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002203310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002203310",
         "name": "Zweiter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus\nAnlass des Ersten Gesetzes zur \u00c4nderung des Arzneimittelgesetzes",
         "parent": {
@@ -2814,6 +3035,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017804310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017804310",
         "name": "\u00a7 125",
         "title": null,
         "parent": {
@@ -2827,6 +3049,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE017903310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE017903310",
         "name": "\u00a7 126",
         "title": null,
         "parent": {
@@ -2840,6 +3063,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002303310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002303310",
         "name": "Dritter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus\nAnlass des Zweiten Gesetzes zur \u00c4nderung des Arzneimittelgesetzes",
         "parent": {
@@ -2850,6 +3074,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018003310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018003310",
         "name": "\u00a7 127",
         "title": null,
         "parent": {
@@ -2863,6 +3088,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018103310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018103310",
         "name": "\u00a7 128",
         "title": null,
         "parent": {
@@ -2876,6 +3102,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018203310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018203310",
         "name": "\u00a7 129",
         "title": null,
         "parent": {
@@ -2889,6 +3116,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018303310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018303310",
         "name": "\u00a7 130",
         "title": null,
         "parent": {
@@ -2902,6 +3130,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018403310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018403310",
         "name": "\u00a7 131",
         "title": null,
         "parent": {
@@ -2915,6 +3144,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002403310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002403310",
         "name": "Vierter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus\nAnlass des F\u00fcnften Gesetzes zur \u00c4nderung des Arzneimittelgesetzes",
         "parent": {
@@ -2925,6 +3155,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018511360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018511360",
         "name": "\u00a7 132",
         "title": null,
         "parent": {
@@ -2938,6 +3169,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002502310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002502310",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "\u00dcbergangsvorschrift\naus Anlass des Siebten Gesetzes zur \u00c4nderung des Arzneimittelgesetzes",
         "parent": {
@@ -2948,6 +3180,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018802310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018802310",
         "name": "\u00a7 133",
         "title": null,
         "parent": {
@@ -2961,6 +3194,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002602310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002602310",
         "name": "Sechster Unterabschnitt",
         "title": "\u00dcbergangsvorschriften\naus Anlass des Transfusionsgesetzes",
         "parent": {
@@ -2971,6 +3205,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE018903116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE018903116",
         "name": "\u00a7 134",
         "title": null,
         "parent": {
@@ -2984,6 +3219,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002702310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002702310",
         "name": "Siebter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus Anlass des\nAchten Gesetzes zur \u00c4nderung des Arzneimittelgesetzes",
         "parent": {
@@ -2994,6 +3230,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019402310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019402310",
         "name": "\u00a7 135",
         "title": null,
         "parent": {
@@ -3007,6 +3244,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002801310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002801310",
         "name": "Achter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus Anlass des\nZehnten Gesetzes zur \u00c4nderung des Arzneimittelgesetzes",
         "parent": {
@@ -3017,6 +3255,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE019602310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE019602310",
         "name": "\u00a7 136",
         "title": null,
         "parent": {
@@ -3030,6 +3269,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG002901310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG002901310",
         "name": "Neunter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus Anlass des\nElften Gesetzes zur \u00c4nderung des Arzneimittelgesetzes",
         "parent": {
@@ -3040,6 +3280,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020102310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020102310",
         "name": "\u00a7 137",
         "title": null,
         "parent": {
@@ -3053,6 +3294,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003001310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003001310",
         "name": "Zehnter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus Anlass des Zw\u00f6lften Gesetzes zur \u00c4nderung des\nArzneimittelgesetzes",
         "parent": {
@@ -3063,6 +3305,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020603310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020603310",
         "name": "\u00a7 138",
         "title": null,
         "parent": {
@@ -3076,6 +3319,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003101310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003101310",
         "name": "Elfter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus Anlass des Ersten Gesetzes zur \u00c4nderung des\nTransfusionsgesetzes und arzneimittelrechtlicher Vorschriften",
         "parent": {
@@ -3086,6 +3330,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020702116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020702116",
         "name": "\u00a7 139",
         "title": null,
         "parent": {
@@ -3099,6 +3344,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003201310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003201310",
         "name": "Zw\u00f6lfter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus Anlass des Dreizehnten Gesetzes zur \u00c4nderung\ndes Arzneimittelgesetzes",
         "parent": {
@@ -3109,6 +3355,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE020901310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE020901310",
         "name": "\u00a7 140",
         "title": null,
         "parent": {
@@ -3122,6 +3369,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003301310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003301310",
         "name": "Dreizehnter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus Anlass des Vierzehnten Gesetzes zur \u00c4nderung\ndes Arzneimittelgesetzes",
         "parent": {
@@ -3132,6 +3380,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE021705116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE021705116",
         "name": "\u00a7 141",
         "title": null,
         "parent": {
@@ -3145,6 +3394,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003400310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003400310",
         "name": "Vierzehnter Unterabschnitt",
         "title": null,
         "parent": {
@@ -3155,6 +3405,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022300310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022300310",
         "name": "\u00a7 142",
         "title": "\u00dcbergangsvorschriften aus Anlass des Gewebegesetzes",
         "parent": {
@@ -3168,6 +3419,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE025801116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE025801116",
         "name": "\u00a7 142a",
         "title": "\u00dcbergangs- und Bestandsschutzvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015/566 und (EU) 2015/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen",
         "parent": {
@@ -3181,6 +3433,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE026900116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE026900116",
         "name": "\u00a7 142b",
         "title": "\u00dcbergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften f\u00fcr Blut- und Gewebezubereitungen und zur \u00c4nderung anderer Vorschriften",
         "parent": {
@@ -3194,6 +3447,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003500377",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003500377",
         "name": "F\u00fcnfzehnter Unterabschnitt",
         "title": null,
         "parent": {
@@ -3204,6 +3458,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022402116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022402116",
         "name": "\u00a7 143",
         "title": "(weggefallen)",
         "parent": {
@@ -3217,6 +3472,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003600310",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003600310",
         "name": "Sechzehnter Unterabschnitt",
         "title": "\u00dcbergangsvorschriften aus Anlass des Gesetzes zur \u00c4nderung arzneimittelrechtlicher und anderer Vorschriften",
         "parent": {
@@ -3227,6 +3483,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023101140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023101140",
         "name": "\u00a7 144",
         "title": null,
         "parent": {
@@ -3240,6 +3497,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003700360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003700360",
         "name": "Siebzehnter Unterabschnitt",
         "title": null,
         "parent": {
@@ -3250,6 +3508,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023300360",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023300360",
         "name": "\u00a7 145",
         "title": "\u00dcbergangsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelmarktes",
         "parent": {
@@ -3263,6 +3522,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003800140",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003800140",
         "name": "Achtzehnter Unterabschnitt",
         "title": "\u00dcbergangsvorschrift",
         "parent": {
@@ -3273,6 +3533,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE023702116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE023702116",
         "name": "\u00a7 146",
         "title": "\u00dcbergangsvorschriften aus Anlass des Zweiten Gesetzes zur \u00c4nderung arzneimittelrechtlicher und anderer Vorschriften",
         "parent": {
@@ -3286,6 +3547,7 @@
       {
         "type": "heading",
         "id": "BJNR024480976BJNG003900116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNG003900116",
         "name": "Neunzehnter Unterabschnitt",
         "title": "\u00dcbergangsvorschrift",
         "parent": {
@@ -3296,6 +3558,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE024700116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE024700116",
         "name": "\u00a7 147",
         "title": "\u00dcbergangsvorschrift aus Anlass des Dritten Gesetzes zur \u00c4nderung arzneimittelrechtlicher und anderer Vorschriften",
         "parent": {
@@ -3309,6 +3572,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE027100116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE027100116",
         "name": "Anlage",
         "title": "(zu \u00a7 6)",
         "parent": {
@@ -3322,6 +3586,7 @@
       {
         "type": "article",
         "id": "BJNR024480976BJNE022504116",
+        "url": "https://api.rechtsinformationsportal.de/laws/amg/articles/BJNR024480976BJNE022504116",
         "name": "Anhang",
         "title": "(weggefallen)",
         "parent": {

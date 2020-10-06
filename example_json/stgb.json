@@ -36,6 +36,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068404360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068404360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -46,6 +47,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000102307",
         "name": "Allgemeiner Teil",
         "title": null,
         "parent": null
@@ -53,6 +55,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000202307",
         "name": "Erster Abschnitt",
         "title": "Das Strafgesetz",
         "parent": {
@@ -63,6 +66,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000302307",
         "name": "Erster Titel",
         "title": "Geltungsbereich",
         "parent": {
@@ -73,6 +77,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE006802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE006802307",
         "name": "\u00a7 1",
         "title": "Keine Strafe ohne Gesetz",
         "parent": {
@@ -86,6 +91,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE006903123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE006903123",
         "name": "\u00a7 2",
         "title": "Zeitliche Geltung",
         "parent": {
@@ -99,6 +105,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007002307",
         "name": "\u00a7 3",
         "title": "Geltung f\u00fcr Inlandstaten",
         "parent": {
@@ -112,6 +119,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007104307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007104307",
         "name": "\u00a7 4",
         "title": "Geltung f\u00fcr Taten auf deutschen Schiffen und Luftfahrzeugen",
         "parent": {
@@ -125,6 +133,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007215123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007215123",
         "name": "\u00a7 5",
         "title": "Auslandstaten mit besonderem Inlandsbezug",
         "parent": {
@@ -138,6 +147,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007314123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007314123",
         "name": "\u00a7 6",
         "title": "Auslandstaten gegen international gesch\u00fctzte Rechtsg\u00fcter",
         "parent": {
@@ -151,6 +161,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007403377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007403377",
         "name": "\u00a7 7",
         "title": "Geltung f\u00fcr Auslandstaten in anderen F\u00e4llen",
         "parent": {
@@ -164,6 +175,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007502307",
         "name": "\u00a7 8",
         "title": "Zeit der Tat",
         "parent": {
@@ -177,6 +189,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007602307",
         "name": "\u00a7 9",
         "title": "Ort der Tat",
         "parent": {
@@ -190,6 +203,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007702307",
         "name": "\u00a7 10",
         "title": "Sondervorschriften f\u00fcr Jugendliche und Heranwachsende",
         "parent": {
@@ -203,6 +217,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000402307",
         "name": "Zweiter Titel",
         "title": "Sprachgebrauch",
         "parent": {
@@ -213,6 +228,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007810360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007810360",
         "name": "\u00a7 11",
         "title": "Personen- und Sachbegriffe",
         "parent": {
@@ -226,6 +242,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE007902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE007902307",
         "name": "\u00a7 12",
         "title": "Verbrechen und Vergehen",
         "parent": {
@@ -239,6 +256,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000502307",
         "name": "Zweiter Abschnitt",
         "title": "Die Tat",
         "parent": {
@@ -249,6 +267,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000602307",
         "name": "Erster Titel",
         "title": "Grundlagen der Strafbarkeit",
         "parent": {
@@ -259,6 +278,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008002307",
         "name": "\u00a7 13",
         "title": "Begehen durch Unterlassen",
         "parent": {
@@ -272,6 +292,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008104377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008104377",
         "name": "\u00a7 14",
         "title": "Handeln f\u00fcr einen anderen",
         "parent": {
@@ -285,6 +306,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008202307",
         "name": "\u00a7 15",
         "title": "Vors\u00e4tzliches und fahrl\u00e4ssiges Handeln",
         "parent": {
@@ -298,6 +320,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008302307",
         "name": "\u00a7 16",
         "title": "Irrtum \u00fcber Tatumst\u00e4nde",
         "parent": {
@@ -311,6 +334,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008402307",
         "name": "\u00a7 17",
         "title": "Verbotsirrtum",
         "parent": {
@@ -324,6 +348,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008502307",
         "name": "\u00a7 18",
         "title": "Schwerere Strafe bei besonderen Tatfolgen",
         "parent": {
@@ -337,6 +362,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008602307",
         "name": "\u00a7 19",
         "title": "Schuldunf\u00e4higkeit des Kindes",
         "parent": {
@@ -350,6 +376,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008702307",
         "name": "\u00a7 20",
         "title": "Schuldunf\u00e4higkeit wegen seelischer St\u00f6rungen",
         "parent": {
@@ -363,6 +390,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008802307",
         "name": "\u00a7 21",
         "title": "Verminderte Schuldf\u00e4higkeit",
         "parent": {
@@ -376,6 +404,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000702307",
         "name": "Zweiter Titel",
         "title": "Versuch",
         "parent": {
@@ -386,6 +415,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE008902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE008902307",
         "name": "\u00a7 22",
         "title": "Begriffsbestimmung",
         "parent": {
@@ -399,6 +429,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009002307",
         "name": "\u00a7 23",
         "title": "Strafbarkeit des Versuchs",
         "parent": {
@@ -412,6 +443,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009102307",
         "name": "\u00a7 24",
         "title": "R\u00fccktritt",
         "parent": {
@@ -425,6 +457,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000802307",
         "name": "Dritter Titel",
         "title": "T\u00e4terschaft und Teilnahme",
         "parent": {
@@ -435,6 +468,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009202307",
         "name": "\u00a7 25",
         "title": "T\u00e4terschaft",
         "parent": {
@@ -448,6 +482,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009302307",
         "name": "\u00a7 26",
         "title": "Anstiftung",
         "parent": {
@@ -461,6 +496,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009402307",
         "name": "\u00a7 27",
         "title": "Beihilfe",
         "parent": {
@@ -474,6 +510,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009502307",
         "name": "\u00a7 28",
         "title": "Besondere pers\u00f6nliche Merkmale",
         "parent": {
@@ -487,6 +524,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009602307",
         "name": "\u00a7 29",
         "title": "Selbst\u00e4ndige Strafbarkeit des Beteiligten",
         "parent": {
@@ -500,6 +538,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009702307",
         "name": "\u00a7 30",
         "title": "Versuch der Beteiligung",
         "parent": {
@@ -513,6 +552,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009802307",
         "name": "\u00a7 31",
         "title": "R\u00fccktritt vom Versuch der Beteiligung",
         "parent": {
@@ -526,6 +566,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG000902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG000902307",
         "name": "Vierter Titel",
         "title": "Notwehr und Notstand",
         "parent": {
@@ -536,6 +577,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE009902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE009902307",
         "name": "\u00a7 32",
         "title": "Notwehr",
         "parent": {
@@ -549,6 +591,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010002307",
         "name": "\u00a7 33",
         "title": "\u00dcberschreitung der Notwehr",
         "parent": {
@@ -562,6 +605,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010102307",
         "name": "\u00a7 34",
         "title": "Rechtfertigender Notstand",
         "parent": {
@@ -575,6 +619,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010202307",
         "name": "\u00a7 35",
         "title": "Entschuldigender Notstand",
         "parent": {
@@ -588,6 +633,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001002307",
         "name": "F\u00fcnfter Titel",
         "title": "Straflosigkeit parlamentarischer\n\u00c4u\u00dferungen und Berichte",
         "parent": {
@@ -598,6 +644,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010302307",
         "name": "\u00a7 36",
         "title": "Parlamentarische \u00c4u\u00dferungen",
         "parent": {
@@ -611,6 +658,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010402307",
         "name": "\u00a7 37",
         "title": "Parlamentarische Berichte",
         "parent": {
@@ -624,6 +672,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001102307",
         "name": "Dritter Abschnitt",
         "title": "Rechtsfolgen der Tat",
         "parent": {
@@ -634,6 +683,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001202307",
         "name": "Erster Titel",
         "title": "Strafen",
         "parent": {
@@ -644,6 +694,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001302307",
         "name": "Freiheitsstrafe",
         "title": null,
         "parent": {
@@ -654,6 +705,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010502307",
         "name": "\u00a7 38",
         "title": "Dauer der Freiheitsstrafe",
         "parent": {
@@ -667,6 +719,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010602307",
         "name": "\u00a7 39",
         "title": "Bemessung der Freiheitsstrafe",
         "parent": {
@@ -680,6 +733,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001402307",
         "name": "Geldstrafe",
         "title": null,
         "parent": {
@@ -690,6 +744,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010704140",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010704140",
         "name": "\u00a7 40",
         "title": "Verh\u00e4ngung in Tagess\u00e4tzen",
         "parent": {
@@ -703,6 +758,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010804123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010804123",
         "name": "\u00a7 41",
         "title": "Geldstrafe neben Freiheitsstrafe",
         "parent": {
@@ -716,6 +772,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE010903377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE010903377",
         "name": "\u00a7 42",
         "title": "Zahlungserleichterungen",
         "parent": {
@@ -729,6 +786,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011002307",
         "name": "\u00a7 43",
         "title": "Ersatzfreiheitsstrafe",
         "parent": {
@@ -742,6 +800,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001502307",
         "name": "Nebenstrafe",
         "title": null,
         "parent": {
@@ -752,6 +811,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011105123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011105123",
         "name": "\u00a7 44",
         "title": "Fahrverbot",
         "parent": {
@@ -765,6 +825,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001602307",
         "name": "Nebenfolgen",
         "title": null,
         "parent": {
@@ -775,6 +836,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011202307",
         "name": "\u00a7 45",
         "title": "Verlust der Amtsf\u00e4higkeit, der W\u00e4hlbarkeit und des\nStimmrechts",
         "parent": {
@@ -788,6 +850,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011302307",
         "name": "\u00a7 45a",
         "title": "Eintritt und Berechnung des Verlustes",
         "parent": {
@@ -801,6 +864,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011402307",
         "name": "\u00a7 45b",
         "title": "Wiederverleihung von F\u00e4higkeiten und Rechten",
         "parent": {
@@ -814,6 +878,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001702307",
         "name": "Zweiter Titel",
         "title": "Strafbemessung",
         "parent": {
@@ -824,6 +889,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011504360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011504360",
         "name": "\u00a7 46",
         "title": "Grunds\u00e4tze der Strafzumessung",
         "parent": {
@@ -837,6 +903,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060601307",
         "name": "\u00a7 46a",
         "title": "T\u00e4ter-Opfer-Ausgleich, Schadenswiedergutmachung",
         "parent": {
@@ -850,6 +917,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066201360",
         "name": "\u00a7 46b",
         "title": "Hilfe zur Aufkl\u00e4rung oder Verhinderung von schweren Straftaten",
         "parent": {
@@ -863,6 +931,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011602307",
         "name": "\u00a7 47",
         "title": "Kurze Freiheitsstrafe nur in Ausnahmef\u00e4llen",
         "parent": {
@@ -876,6 +945,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011703307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011703307",
         "name": "\u00a7 48",
         "title": "(weggefallen)",
         "parent": {
@@ -889,6 +959,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011802307",
         "name": "\u00a7 49",
         "title": "Besondere gesetzliche Milderungsgr\u00fcnde",
         "parent": {
@@ -902,6 +973,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE011902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE011902307",
         "name": "\u00a7 50",
         "title": "Zusammentreffen von Milderungsgr\u00fcnden",
         "parent": {
@@ -915,6 +987,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012003307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012003307",
         "name": "\u00a7 51",
         "title": "Anrechnung",
         "parent": {
@@ -928,6 +1001,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001802307",
         "name": "Dritter Titel",
         "title": "Strafbemessung bei mehreren\nGesetzesverletzungen",
         "parent": {
@@ -938,6 +1012,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012104123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012104123",
         "name": "\u00a7 52",
         "title": "Tateinheit",
         "parent": {
@@ -951,6 +1026,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012205123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012205123",
         "name": "\u00a7 53",
         "title": "Tatmehrheit",
         "parent": {
@@ -964,6 +1040,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012305123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012305123",
         "name": "\u00a7 54",
         "title": "Bildung der Gesamtstrafe",
         "parent": {
@@ -977,6 +1054,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012404123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012404123",
         "name": "\u00a7 55",
         "title": "Nachtr\u00e4gliche Bildung der Gesamtstrafe",
         "parent": {
@@ -990,6 +1068,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG001902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG001902307",
         "name": "Vierter Titel",
         "title": "Strafaussetzung zur Bew\u00e4hrung",
         "parent": {
@@ -1000,6 +1079,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012504307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012504307",
         "name": "\u00a7 56",
         "title": "Strafaussetzung",
         "parent": {
@@ -1013,6 +1093,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012602307",
         "name": "\u00a7 56a",
         "title": "Bew\u00e4hrungszeit",
         "parent": {
@@ -1026,6 +1107,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012703307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012703307",
         "name": "\u00a7 56b",
         "title": "Auflagen",
         "parent": {
@@ -1039,6 +1121,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012804377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012804377",
         "name": "\u00a7 56c",
         "title": "Weisungen",
         "parent": {
@@ -1052,6 +1135,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE012904377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE012904377",
         "name": "\u00a7 56d",
         "title": "Bew\u00e4hrungshilfe",
         "parent": {
@@ -1065,6 +1149,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013002307",
         "name": "\u00a7 56e",
         "title": "Nachtr\u00e4gliche Entscheidungen",
         "parent": {
@@ -1078,6 +1163,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013106377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013106377",
         "name": "\u00a7 56f",
         "title": "Widerruf der Strafaussetzung",
         "parent": {
@@ -1091,6 +1177,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013204140",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013204140",
         "name": "\u00a7 56g",
         "title": "Straferla\u00df",
         "parent": {
@@ -1104,6 +1191,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013307123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013307123",
         "name": "\u00a7 57",
         "title": "Aussetzung des Strafrestes bei zeitiger Freiheitsstrafe",
         "parent": {
@@ -1117,6 +1205,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013404377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013404377",
         "name": "\u00a7 57a",
         "title": "Aussetzung des Strafrestes bei lebenslanger Freiheitsstrafe",
         "parent": {
@@ -1130,6 +1219,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058902307",
         "name": "\u00a7 57b",
         "title": "Aussetzung des Strafrestes bei lebenslanger Freiheitsstrafe\nals Gesamtstrafe",
         "parent": {
@@ -1143,6 +1233,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013502307",
         "name": "\u00a7 58",
         "title": "Gesamtstrafe und Strafaussetzung",
         "parent": {
@@ -1156,6 +1247,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002002307",
         "name": "F\u00fcnfter Titel",
         "title": "Verwarnung mit Strafvorbehalt\n<BR/>\nAbsehen von Strafe",
         "parent": {
@@ -1166,6 +1258,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013605123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013605123",
         "name": "\u00a7 59",
         "title": "Voraussetzungen der Verwarnung mit Strafvorbehalt",
         "parent": {
@@ -1179,6 +1272,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013706377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013706377",
         "name": "\u00a7 59a",
         "title": "Bew\u00e4hrungszeit, Auflagen und Weisungen",
         "parent": {
@@ -1192,6 +1286,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013802307",
         "name": "\u00a7 59b",
         "title": "Verurteilung zu der vorbehaltenen Strafe",
         "parent": {
@@ -1205,6 +1300,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE013902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE013902307",
         "name": "\u00a7 59c",
         "title": "Gesamtstrafe und Verwarnung mit Strafvorbehalt",
         "parent": {
@@ -1218,6 +1314,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014002307",
         "name": "\u00a7 60",
         "title": "Absehen von Strafe",
         "parent": {
@@ -1231,6 +1328,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002102307",
         "name": "Sechster Titel",
         "title": "Ma\u00dfregeln der Besserung und\nSicherung",
         "parent": {
@@ -1241,6 +1339,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014102307",
         "name": "\u00a7 61",
         "title": "\u00dcbersicht",
         "parent": {
@@ -1254,6 +1353,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014202307",
         "name": "\u00a7 62",
         "title": "Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit",
         "parent": {
@@ -1267,6 +1367,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002202307",
         "name": "Freiheitsentziehende Ma\u00dfregeln",
         "title": null,
         "parent": {
@@ -1277,6 +1378,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014303123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014303123",
         "name": "\u00a7 63",
         "title": "Unterbringung in einem psychiatrischen Krankenhaus",
         "parent": {
@@ -1290,6 +1392,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014404123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014404123",
         "name": "\u00a7 64",
         "title": "Unterbringung in einer Entziehungsanstalt",
         "parent": {
@@ -1303,6 +1406,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014502307",
         "name": "\u00a7 65",
         "title": "(weggefallen)",
         "parent": {
@@ -1316,6 +1420,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014610123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014610123",
         "name": "\u00a7 66",
         "title": "Unterbringung in der Sicherungsverwahrung",
         "parent": {
@@ -1329,6 +1434,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064301360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064301360",
         "name": "\u00a7 66a",
         "title": "Vorbehalt der Unterbringung in der Sicherungsverwahrung",
         "parent": {
@@ -1342,6 +1448,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065002360",
         "name": "\u00a7 66b",
         "title": "Nachtr\u00e4gliche Anordnung der Unterbringung in der Sicherungsverwahrung",
         "parent": {
@@ -1355,6 +1462,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066800377",
         "name": "\u00a7 66c",
         "title": "Ausgestaltung der Unterbringung in der Sicherungsverwahrung und des vorhergehenden Strafvollzugs",
         "parent": {
@@ -1368,6 +1476,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014705123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014705123",
         "name": "\u00a7 67",
         "title": "Reihenfolge der Vollstreckung",
         "parent": {
@@ -1381,6 +1490,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014804377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014804377",
         "name": "\u00a7 67a",
         "title": "\u00dcberweisung in den Vollzug einer anderen Ma\u00dfregel",
         "parent": {
@@ -1394,6 +1504,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE014902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE014902307",
         "name": "\u00a7 67b",
         "title": "Aussetzung zugleich mit der Anordnung",
         "parent": {
@@ -1407,6 +1518,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015003377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015003377",
         "name": "\u00a7 67c",
         "title": "Sp\u00e4terer Beginn der Unterbringung",
         "parent": {
@@ -1420,6 +1532,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015110123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015110123",
         "name": "\u00a7 67d",
         "title": "Dauer der Unterbringung",
         "parent": {
@@ -1433,6 +1546,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015204377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015204377",
         "name": "\u00a7 67e",
         "title": "\u00dcberpr\u00fcfung",
         "parent": {
@@ -1446,6 +1560,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015302307",
         "name": "\u00a7 67f",
         "title": "Mehrfache Anordnung der Ma\u00dfregel",
         "parent": {
@@ -1459,6 +1574,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015403377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015403377",
         "name": "\u00a7 67g",
         "title": "Widerruf der Aussetzung",
         "parent": {
@@ -1472,6 +1588,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065700377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065700377",
         "name": "\u00a7 67h",
         "title": "Befristete Wiederinvollzugsetzung; Krisenintervention",
         "parent": {
@@ -1485,6 +1602,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002302307",
         "name": "F\u00fchrungsaufsicht",
         "title": null,
         "parent": {
@@ -1495,6 +1613,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015506377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015506377",
         "name": "\u00a7 68",
         "title": "Voraussetzungen der F\u00fchrungsaufsicht",
         "parent": {
@@ -1508,6 +1627,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015604123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015604123",
         "name": "\u00a7 68a",
         "title": "Aufsichtsstelle, Bew\u00e4hrungshilfe, forensische Ambulanz",
         "parent": {
@@ -1521,6 +1641,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015706123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015706123",
         "name": "\u00a7 68b",
         "title": "Weisungen",
         "parent": {
@@ -1534,6 +1655,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015806377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015806377",
         "name": "\u00a7 68c",
         "title": "Dauer der F\u00fchrungsaufsicht",
         "parent": {
@@ -1547,6 +1669,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE015905360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE015905360",
         "name": "\u00a7 68d",
         "title": "Nachtr\u00e4gliche Entscheidungen; \u00dcberpr\u00fcfungsfrist",
         "parent": {
@@ -1560,6 +1683,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016006377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016006377",
         "name": "\u00a7 68e",
         "title": "Beendigung oder Ruhen der F\u00fchrungsaufsicht",
         "parent": {
@@ -1573,6 +1697,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016104377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016104377",
         "name": "\u00a7 68f",
         "title": "F\u00fchrungsaufsicht bei Nichtaussetzung des Strafrestes",
         "parent": {
@@ -1586,6 +1711,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016203377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016203377",
         "name": "\u00a7 68g",
         "title": "F\u00fchrungsaufsicht und Aussetzung zur Bew\u00e4hrung",
         "parent": {
@@ -1599,6 +1725,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002402307",
         "name": "Entziehung der Fahrerlaubnis",
         "title": null,
         "parent": {
@@ -1609,6 +1736,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016304123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016304123",
         "name": "\u00a7 69",
         "title": "Entziehung der Fahrerlaubnis",
         "parent": {
@@ -1622,6 +1750,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016403307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016403307",
         "name": "\u00a7 69a",
         "title": "Sperre f\u00fcr die Erteilung einer Fahrerlaubnis",
         "parent": {
@@ -1635,6 +1764,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016504307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016504307",
         "name": "\u00a7 69b",
         "title": "Wirkung der Entziehung bei einer ausl\u00e4ndischen Fahrerlaubnis",
         "parent": {
@@ -1648,6 +1778,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002502307",
         "name": "Berufsverbot",
         "title": null,
         "parent": {
@@ -1658,6 +1789,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016602307",
         "name": "\u00a7 70",
         "title": "Anordnung des Berufsverbots",
         "parent": {
@@ -1671,6 +1803,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016702307",
         "name": "\u00a7 70a",
         "title": "Aussetzung des Berufsverbots",
         "parent": {
@@ -1684,6 +1817,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016803377",
         "name": "\u00a7 70b",
         "title": "Widerruf der Aussetzung und Erledigung des Berufsverbots",
         "parent": {
@@ -1697,6 +1831,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002602307",
         "name": "Gemeinsame Vorschriften",
         "title": null,
         "parent": {
@@ -1707,6 +1842,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE016902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE016902307",
         "name": "\u00a7 71",
         "title": "Selbst\u00e4ndige Anordnung",
         "parent": {
@@ -1720,6 +1856,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017002307",
         "name": "\u00a7 72",
         "title": "Verbindung von Ma\u00dfregeln",
         "parent": {
@@ -1733,6 +1870,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002703123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002703123",
         "name": "Siebenter Titel",
         "title": "Einziehung",
         "parent": {
@@ -1743,6 +1881,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017104123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017104123",
         "name": "\u00a7 73",
         "title": "Einziehung von Tatertr\u00e4gen bei T\u00e4tern und Teilnehmern",
         "parent": {
@@ -1756,6 +1895,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017203123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017203123",
         "name": "\u00a7 73a",
         "title": "Erweiterte Einziehung von Tatertr\u00e4gen bei T\u00e4tern und Teilnehmern",
         "parent": {
@@ -1769,6 +1909,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017304123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017304123",
         "name": "\u00a7 73b",
         "title": "Einziehung von Tatertr\u00e4gen bei anderen",
         "parent": {
@@ -1782,6 +1923,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017403123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017403123",
         "name": "\u00a7 73c",
         "title": "Einziehung des Wertes von Tatertr\u00e4gen",
         "parent": {
@@ -1795,6 +1937,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058404123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058404123",
         "name": "\u00a7 73d",
         "title": "Bestimmung des Wertes des Erlangten; Sch\u00e4tzung",
         "parent": {
@@ -1808,6 +1951,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017504123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017504123",
         "name": "\u00a7 73e",
         "title": "Ausschluss der Einziehung des Tatertrages oder des Wertersatzes",
         "parent": {
@@ -1821,6 +1965,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017603123",
         "name": "\u00a7 74",
         "title": "Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei T\u00e4tern und Teilnehmern",
         "parent": {
@@ -1834,6 +1979,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017703123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017703123",
         "name": "\u00a7 74a",
         "title": "Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei anderen",
         "parent": {
@@ -1847,6 +1993,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017803123",
         "name": "\u00a7 74b",
         "title": "Sicherungseinziehung",
         "parent": {
@@ -1860,6 +2007,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE017903123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE017903123",
         "name": "\u00a7 74c",
         "title": "Einziehung des Wertes von Tatprodukten, Tatmitteln und Tatobjekten bei T\u00e4tern und Teilnehmern",
         "parent": {
@@ -1873,6 +2021,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018004123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018004123",
         "name": "\u00a7 74d",
         "title": "Einziehung von Schriften und Unbrauchbarmachung",
         "parent": {
@@ -1886,6 +2035,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018104123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018104123",
         "name": "\u00a7 74e",
         "title": "Sondervorschrift f\u00fcr Organe und Vertreter",
         "parent": {
@@ -1899,6 +2049,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018203123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018203123",
         "name": "\u00a7 74f",
         "title": "Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit",
         "parent": {
@@ -1912,6 +2063,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018305123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018305123",
         "name": "\u00a7 75",
         "title": "Wirkung der Einziehung",
         "parent": {
@@ -1925,6 +2077,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018404123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018404123",
         "name": "\u00a7 76",
         "title": "Nachtr\u00e4gliche Anordnung der Einziehung des Wertersatzes",
         "parent": {
@@ -1938,6 +2091,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018504123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018504123",
         "name": "\u00a7 76a",
         "title": "Selbst\u00e4ndige Einziehung",
         "parent": {
@@ -1951,6 +2105,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068300123",
         "name": "\u00a7 76b",
         "title": "Verj\u00e4hrung der Einziehung von Tatertr\u00e4gen und des Wertes von Tatertr\u00e4gen",
         "parent": {
@@ -1964,6 +2119,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG002902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG002902307",
         "name": "Vierter Abschnitt",
         "title": "Strafantrag, Erm\u00e4chtigung,\nStrafverlangen",
         "parent": {
@@ -1974,6 +2130,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018604320",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018604320",
         "name": "\u00a7 77",
         "title": "Antragsberechtigte",
         "parent": {
@@ -1987,6 +2144,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018702307",
         "name": "\u00a7 77a",
         "title": "Antrag des Dienstvorgesetzten",
         "parent": {
@@ -2000,6 +2158,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018805308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018805308",
         "name": "\u00a7 77b",
         "title": "Antragsfrist",
         "parent": {
@@ -2013,6 +2172,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE018902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE018902307",
         "name": "\u00a7 77c",
         "title": "Wechselseitig begangene Taten",
         "parent": {
@@ -2026,6 +2186,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019003320",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019003320",
         "name": "\u00a7 77d",
         "title": "Zur\u00fccknahme des Antrags",
         "parent": {
@@ -2039,6 +2200,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019102307",
         "name": "\u00a7 77e",
         "title": "Erm\u00e4chtigung und Strafverlangen",
         "parent": {
@@ -2052,6 +2214,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003002307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -2062,6 +2225,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003102307",
         "name": "Erster Titel",
         "title": "Verfolgungsverj\u00e4hrung",
         "parent": {
@@ -2072,6 +2236,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019205123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019205123",
         "name": "\u00a7 78",
         "title": "Verj\u00e4hrungsfrist",
         "parent": {
@@ -2085,6 +2250,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019302307",
         "name": "\u00a7 78a",
         "title": "Beginn",
         "parent": {
@@ -2098,6 +2264,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019414123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019414123",
         "name": "\u00a7 78b",
         "title": "Ruhen",
         "parent": {
@@ -2111,6 +2278,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019504123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019504123",
         "name": "\u00a7 78c",
         "title": "Unterbrechung",
         "parent": {
@@ -2124,6 +2292,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003202307",
         "name": "Zweiter Titel",
         "title": "Vollstreckungsverj\u00e4hrung",
         "parent": {
@@ -2134,6 +2303,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019605123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019605123",
         "name": "\u00a7 79",
         "title": "Verj\u00e4hrungsfrist",
         "parent": {
@@ -2147,6 +2317,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019703123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019703123",
         "name": "\u00a7 79a",
         "title": "Ruhen",
         "parent": {
@@ -2160,6 +2331,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019802307",
         "name": "\u00a7 79b",
         "title": "Verl\u00e4ngerung",
         "parent": {
@@ -2173,6 +2345,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003302307",
         "name": "Besonderer Teil",
         "title": null,
         "parent": null
@@ -2180,6 +2353,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003402307",
         "name": "Erster Abschnitt",
         "title": "Friedensverrat, Hochverrat\nund Gef\u00e4hrdung des demokratischen Rechtsstaates",
         "parent": {
@@ -2190,6 +2364,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003502307",
         "name": "Erster Titel",
         "title": "Friedensverrat",
         "parent": {
@@ -2200,6 +2375,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE019903123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE019903123",
         "name": "\u00a7 80",
         "title": "(weggefallen)",
         "parent": {
@@ -2213,6 +2389,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020003123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020003123",
         "name": "\u00a7 80a",
         "title": "Aufstacheln zum Verbrechen der Aggression",
         "parent": {
@@ -2226,6 +2403,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003602307",
         "name": "Zweiter Titel",
         "title": "Hochverrat",
         "parent": {
@@ -2236,6 +2414,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020102307",
         "name": "\u00a7 81",
         "title": "Hochverrat gegen den Bund",
         "parent": {
@@ -2249,6 +2428,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020202307",
         "name": "\u00a7 82",
         "title": "Hochverrat gegen ein Land",
         "parent": {
@@ -2262,6 +2442,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020302307",
         "name": "\u00a7 83",
         "title": "Vorbereitung eines hochverr\u00e4terischen Unternehmens",
         "parent": {
@@ -2275,6 +2456,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020402307",
         "name": "\u00a7 83a",
         "title": "T\u00e4tige Reue",
         "parent": {
@@ -2288,6 +2470,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003702307",
         "name": "Dritter Titel",
         "title": "Gef\u00e4hrdung des demokratischen\nRechtsstaates",
         "parent": {
@@ -2298,6 +2481,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020503123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020503123",
         "name": "\u00a7 84",
         "title": "Fortf\u00fchrung einer f\u00fcr verfassungswidrig erkl\u00e4rten Partei",
         "parent": {
@@ -2311,6 +2495,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020603123",
         "name": "\u00a7 85",
         "title": "Versto\u00df gegen ein Vereinigungsverbot",
         "parent": {
@@ -2324,6 +2509,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020704307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020704307",
         "name": "\u00a7 86",
         "title": "Verbreiten von Propagandamitteln verfassungswidriger\nOrganisationen",
         "parent": {
@@ -2337,6 +2523,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020804307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020804307",
         "name": "\u00a7 86a",
         "title": "Verwenden von Kennzeichen verfassungswidriger Organisationen",
         "parent": {
@@ -2350,6 +2537,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE020903307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE020903307",
         "name": "\u00a7 87",
         "title": "Agentent\u00e4tigkeit zu Sabotagezwecken",
         "parent": {
@@ -2363,6 +2551,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021003307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021003307",
         "name": "\u00a7 88",
         "title": "Verfassungsfeindliche Sabotage",
         "parent": {
@@ -2376,6 +2565,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021102307",
         "name": "\u00a7 89",
         "title": "Verfassungsfeindliche Einwirkung auf Bundeswehr und \u00f6ffentliche Sicherheitsorgane",
         "parent": {
@@ -2389,6 +2579,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066503123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066503123",
         "name": "\u00a7 89a",
         "title": "Vorbereitung einer schweren staatsgef\u00e4hrdenden Gewalttat",
         "parent": {
@@ -2402,6 +2593,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066601301",
         "name": "\u00a7 89b",
         "title": "Aufnahme von Beziehungen zur Begehung einer schweren staatsgef\u00e4hrdenden Gewalttat",
         "parent": {
@@ -2415,6 +2607,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067100144",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067100144",
         "name": "\u00a7 89c",
         "title": "Terrorismusfinanzierung",
         "parent": {
@@ -2428,6 +2621,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021203307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021203307",
         "name": "\u00a7 90",
         "title": "Verunglimpfung des Bundespr\u00e4sidenten",
         "parent": {
@@ -2441,6 +2635,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021302307",
         "name": "\u00a7 90a",
         "title": "Verunglimpfung des Staates und seiner Symbole",
         "parent": {
@@ -2454,6 +2649,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021402307",
         "name": "\u00a7 90b",
         "title": "Verfassungsfeindliche Verunglimpfung von Verfassungsorganen",
         "parent": {
@@ -2467,6 +2663,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068900360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068900360",
         "name": "\u00a7 90c",
         "title": "Verunglimpfung von Symbolen der Europ\u00e4ischen Union",
         "parent": {
@@ -2480,6 +2677,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066700310",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066700310",
         "name": "\u00a7 91",
         "title": "Anleitung zur Begehung einer schweren staatsgef\u00e4hrdenden Gewalttat",
         "parent": {
@@ -2493,6 +2691,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021503310",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021503310",
         "name": "\u00a7 91a",
         "title": "Anwendungsbereich",
         "parent": {
@@ -2506,6 +2705,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003802307",
         "name": "Vierter Titel",
         "title": "Gemeinsame Vorschriften",
         "parent": {
@@ -2516,6 +2716,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021602307",
         "name": "\u00a7 92",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -2529,6 +2730,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021702307",
         "name": "\u00a7 92a",
         "title": "Nebenfolgen",
         "parent": {
@@ -2542,6 +2744,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021803310",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021803310",
         "name": "\u00a7 92b",
         "title": "Einziehung",
         "parent": {
@@ -2555,6 +2758,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG003902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG003902307",
         "name": "Zweiter Abschnitt",
         "title": "Landesverrat und Gef\u00e4hrdung der\n\u00e4u\u00dferen Sicherheit",
         "parent": {
@@ -2565,6 +2769,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE021902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE021902307",
         "name": "\u00a7 93",
         "title": "Begriff des Staatsgeheimnisses",
         "parent": {
@@ -2578,6 +2783,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022002307",
         "name": "\u00a7 94",
         "title": "Landesverrat",
         "parent": {
@@ -2591,6 +2797,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022102307",
         "name": "\u00a7 95",
         "title": "Offenbaren von Staatsgeheimnissen",
         "parent": {
@@ -2604,6 +2811,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022202307",
         "name": "\u00a7 96",
         "title": "Landesverr\u00e4terische Aussp\u00e4hung; Auskundschaften von Staatsgeheimnissen",
         "parent": {
@@ -2617,6 +2825,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022302307",
         "name": "\u00a7 97",
         "title": "Preisgabe von Staatsgeheimnissen",
         "parent": {
@@ -2630,6 +2839,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022402307",
         "name": "\u00a7 97a",
         "title": "Verrat illegaler Geheimnisse",
         "parent": {
@@ -2643,6 +2853,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022502307",
         "name": "\u00a7 97b",
         "title": "Verrat in irriger Annahme eines illegalen Geheimnisses",
         "parent": {
@@ -2656,6 +2867,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022602307",
         "name": "\u00a7 98",
         "title": "Landesverr\u00e4terische Agentent\u00e4tigkeit",
         "parent": {
@@ -2669,6 +2881,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022702307",
         "name": "\u00a7 99",
         "title": "Geheimdienstliche Agentent\u00e4tigkeit",
         "parent": {
@@ -2682,6 +2895,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022802307",
         "name": "\u00a7 100",
         "title": "Friedensgef\u00e4hrdende Beziehungen",
         "parent": {
@@ -2695,6 +2909,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE022902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE022902307",
         "name": "\u00a7 100a",
         "title": "Landesverr\u00e4terische F\u00e4lschung",
         "parent": {
@@ -2708,6 +2923,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023002307",
         "name": "\u00a7 101",
         "title": "Nebenfolgen",
         "parent": {
@@ -2721,6 +2937,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023103123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023103123",
         "name": "\u00a7 101a",
         "title": "Einziehung",
         "parent": {
@@ -2734,6 +2951,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004002307",
         "name": "Dritter Abschnitt",
         "title": "Straftaten gegen ausl\u00e4ndische\nStaaten",
         "parent": {
@@ -2744,6 +2962,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023202307",
         "name": "\u00a7 102",
         "title": "Angriff gegen Organe und Vertreter ausl\u00e4ndischer Staaten",
         "parent": {
@@ -2757,6 +2976,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023303123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023303123",
         "name": "\u00a7 103",
         "title": "(weggefallen)",
         "parent": {
@@ -2770,6 +2990,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023403360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023403360",
         "name": "\u00a7 104",
         "title": "Verletzung von Flaggen und Hoheitszeichen ausl\u00e4ndischer Staaten",
         "parent": {
@@ -2783,6 +3004,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023503360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023503360",
         "name": "\u00a7 104a",
         "title": "Voraussetzungen der Strafverfolgung",
         "parent": {
@@ -2796,6 +3018,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004102307",
         "name": "Vierter Abschnitt",
         "title": "Straftaten gegen Verfassungsorgane\nsowie bei Wahlen und Abstimmungen",
         "parent": {
@@ -2806,6 +3029,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023602307",
         "name": "\u00a7 105",
         "title": "N\u00f6tigung von Verfassungsorganen",
         "parent": {
@@ -2819,6 +3043,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023702307",
         "name": "\u00a7 106",
         "title": "N\u00f6tigung des Bundespr\u00e4sidenten und von Mitgliedern eines\nVerfassungsorgans",
         "parent": {
@@ -2832,6 +3057,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023803308",
         "name": "\u00a7 106a",
         "title": "(weggefallen)",
         "parent": {
@@ -2845,6 +3071,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE023902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE023902307",
         "name": "\u00a7 106b",
         "title": "St\u00f6rung der T\u00e4tigkeit eines Gesetzgebungsorgans",
         "parent": {
@@ -2858,6 +3085,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024002307",
         "name": "\u00a7 107",
         "title": "Wahlbehinderung",
         "parent": {
@@ -2871,6 +3099,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024103360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024103360",
         "name": "\u00a7 107a",
         "title": "Wahlf\u00e4lschung",
         "parent": {
@@ -2884,6 +3113,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024202307",
         "name": "\u00a7 107b",
         "title": "F\u00e4lschung von Wahlunterlagen",
         "parent": {
@@ -2897,6 +3127,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024302307",
         "name": "\u00a7 107c",
         "title": "Verletzung des Wahlgeheimnisses",
         "parent": {
@@ -2910,6 +3141,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024402307",
         "name": "\u00a7 108",
         "title": "W\u00e4hlern\u00f6tigung",
         "parent": {
@@ -2923,6 +3155,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024502307",
         "name": "\u00a7 108a",
         "title": "W\u00e4hlert\u00e4uschung",
         "parent": {
@@ -2936,6 +3169,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024602307",
         "name": "\u00a7 108b",
         "title": "W\u00e4hlerbestechung",
         "parent": {
@@ -2949,6 +3183,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024702307",
         "name": "\u00a7 108c",
         "title": "Nebenfolgen",
         "parent": {
@@ -2962,6 +3197,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024803301",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024803301",
         "name": "\u00a7 108d",
         "title": "Geltungsbereich",
         "parent": {
@@ -2975,6 +3211,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060302301",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060302301",
         "name": "\u00a7 108e",
         "title": "Bestechlichkeit und Bestechung von Mandatstr\u00e4gern",
         "parent": {
@@ -2988,6 +3225,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004202307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Straftaten gegen die\nLandesverteidigung",
         "parent": {
@@ -2998,6 +3236,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE024902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE024902307",
         "name": "\u00a7 109",
         "title": "Wehrpflichtentziehung durch Verst\u00fcmmelung",
         "parent": {
@@ -3011,6 +3250,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025002307",
         "name": "\u00a7 109a",
         "title": "Wehrpflichtentziehung durch T\u00e4uschung",
         "parent": {
@@ -3024,6 +3264,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025102307",
         "name": "(XXXX) \u00a7\u00a7 109b und 109c",
         "title": "(weggefallen)",
         "parent": {
@@ -3037,6 +3278,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025302307",
         "name": "\u00a7 109d",
         "title": "St\u00f6rpropaganda gegen die Bundeswehr",
         "parent": {
@@ -3050,6 +3292,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025402307",
         "name": "\u00a7 109e",
         "title": "Sabotagehandlungen an Verteidigungsmitteln",
         "parent": {
@@ -3063,6 +3306,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025502307",
         "name": "\u00a7 109f",
         "title": "Sicherheitsgef\u00e4hrdender Nachrichtendienst",
         "parent": {
@@ -3076,6 +3320,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025602307",
         "name": "\u00a7 109g",
         "title": "Sicherheitsgef\u00e4hrdendes Abbilden",
         "parent": {
@@ -3089,6 +3334,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025702307",
         "name": "\u00a7 109h",
         "title": "Anwerben f\u00fcr fremden Wehrdienst",
         "parent": {
@@ -3102,6 +3348,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025802307",
         "name": "\u00a7 109i",
         "title": "Nebenfolgen",
         "parent": {
@@ -3115,6 +3362,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE025903123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE025903123",
         "name": "\u00a7 109k",
         "title": "Einziehung",
         "parent": {
@@ -3128,6 +3376,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004302307",
         "name": "Sechster Abschnitt",
         "title": "Widerstand gegen die Staatsgewalt",
         "parent": {
@@ -3138,6 +3387,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE026002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE026002307",
         "name": "\u00a7 110",
         "title": "(weggefallen)",
         "parent": {
@@ -3151,6 +3401,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE026102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE026102307",
         "name": "\u00a7 111",
         "title": "\u00d6ffentliche Aufforderung zu Straftaten",
         "parent": {
@@ -3164,6 +3415,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE026202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE026202307",
         "name": "\u00a7 112",
         "title": "(weggefallen)",
         "parent": {
@@ -3177,6 +3429,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE026305123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE026305123",
         "name": "\u00a7 113",
         "title": "Widerstand gegen Vollstreckungsbeamte",
         "parent": {
@@ -3190,6 +3443,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068500123",
         "name": "\u00a7 114",
         "title": "T\u00e4tlicher Angriff auf Vollstreckungsbeamte",
         "parent": {
@@ -3203,6 +3457,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE026405123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE026405123",
         "name": "\u00a7 115",
         "title": "Widerstand gegen oder t\u00e4tlicher Angriff auf Personen, die Vollstreckungsbeamten gleichstehen",
         "parent": {
@@ -3216,6 +3471,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE026503123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE026503123",
         "name": "(XXXX) \u00a7\u00a7 116 bis 119",
         "title": "(weggefallen)",
         "parent": {
@@ -3229,6 +3485,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027002307",
         "name": "\u00a7 120",
         "title": "Gefangenenbefreiung",
         "parent": {
@@ -3242,6 +3499,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027104360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027104360",
         "name": "\u00a7 121",
         "title": "Gefangenenmeuterei",
         "parent": {
@@ -3255,6 +3513,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027202307",
         "name": "\u00a7 122",
         "title": "(weggefallen)",
         "parent": {
@@ -3268,6 +3527,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004402307",
         "name": "Siebenter Abschnitt",
         "title": "Straftaten gegen die\n\u00f6ffentliche Ordnung",
         "parent": {
@@ -3278,6 +3538,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027302307",
         "name": "\u00a7 123",
         "title": "Hausfriedensbruch",
         "parent": {
@@ -3291,6 +3552,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027402307",
         "name": "\u00a7 124",
         "title": "Schwerer Hausfriedensbruch",
         "parent": {
@@ -3304,6 +3566,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027505123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027505123",
         "name": "\u00a7 125",
         "title": "Landfriedensbruch",
         "parent": {
@@ -3317,6 +3580,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027606123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027606123",
         "name": "\u00a7 125a",
         "title": "Besonders schwerer Fall des Landfriedensbruchs",
         "parent": {
@@ -3330,6 +3594,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027707123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027707123",
         "name": "\u00a7 126",
         "title": "St\u00f6rung des \u00f6ffentlichen Friedens durch Androhung von Straftaten",
         "parent": {
@@ -3343,6 +3608,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027803307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027803307",
         "name": "\u00a7 127",
         "title": "Bildung bewaffneter Gruppen",
         "parent": {
@@ -3356,6 +3622,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE027902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE027902307",
         "name": "\u00a7 128",
         "title": "(weggefallen)",
         "parent": {
@@ -3369,6 +3636,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028006123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028006123",
         "name": "\u00a7 129",
         "title": "Bildung krimineller Vereinigungen",
         "parent": {
@@ -3382,6 +3650,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028110123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028110123",
         "name": "\u00a7 129a",
         "title": "Bildung terroristischer Vereinigungen",
         "parent": {
@@ -3395,6 +3664,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064402123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064402123",
         "name": "\u00a7 129b",
         "title": "Kriminelle und terroristische Vereinigungen im Ausland; Einziehung",
         "parent": {
@@ -3408,6 +3678,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028208360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028208360",
         "name": "\u00a7 130",
         "title": "Volksverhetzung",
         "parent": {
@@ -3421,6 +3692,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE059003360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE059003360",
         "name": "\u00a7 130a",
         "title": "Anleitung zu Straftaten",
         "parent": {
@@ -3434,6 +3706,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028305360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028305360",
         "name": "\u00a7 131",
         "title": "Gewaltdarstellung",
         "parent": {
@@ -3447,6 +3720,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028402307",
         "name": "\u00a7 132",
         "title": "Amtsanma\u00dfung",
         "parent": {
@@ -3460,6 +3734,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028503307",
         "name": "\u00a7 132a",
         "title": "Mi\u00dfbrauch von Titeln, Berufsbezeichnungen und Abzeichen",
         "parent": {
@@ -3473,6 +3748,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028602307",
         "name": "\u00a7 133",
         "title": "Verwahrungsbruch",
         "parent": {
@@ -3486,6 +3762,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028702307",
         "name": "\u00a7 134",
         "title": "Verletzung amtlicher Bekanntmachungen",
         "parent": {
@@ -3499,6 +3776,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028802307",
         "name": "\u00a7 135",
         "title": "(weggefallen)",
         "parent": {
@@ -3512,6 +3790,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE028902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE028902307",
         "name": "\u00a7 136",
         "title": "Verstrickungsbruch; Siegelbruch",
         "parent": {
@@ -3525,6 +3804,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029002307",
         "name": "\u00a7 137",
         "title": "(weggefallen)",
         "parent": {
@@ -3538,6 +3818,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029112123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029112123",
         "name": "\u00a7 138",
         "title": "Nichtanzeige geplanter Straftaten",
         "parent": {
@@ -3551,6 +3832,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029207360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029207360",
         "name": "\u00a7 139",
         "title": "Straflosigkeit der Nichtanzeige geplanter Straftaten",
         "parent": {
@@ -3564,6 +3846,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029307123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029307123",
         "name": "\u00a7 140",
         "title": "Belohnung und Billigung von Straftaten",
         "parent": {
@@ -3577,6 +3860,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029402307",
         "name": "\u00a7 141",
         "title": "(weggefallen)",
         "parent": {
@@ -3590,6 +3874,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029503307",
         "name": "\u00a7 142",
         "title": "Unerlaubtes Entfernen vom Unfallort",
         "parent": {
@@ -3603,6 +3888,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029604377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029604377",
         "name": "\u00a7 143",
         "title": "(weggefallen)",
         "parent": {
@@ -3616,6 +3902,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029703307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029703307",
         "name": "\u00a7 144",
         "title": "(weggefallen)",
         "parent": {
@@ -3629,6 +3916,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029802307",
         "name": "\u00a7 145",
         "title": "Mi\u00dfbrauch von Notrufen und Beeintr\u00e4chtigung von\nUnfallverh\u00fctungs- und Nothilfemitteln",
         "parent": {
@@ -3642,6 +3930,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE029903377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE029903377",
         "name": "\u00a7 145a",
         "title": "Versto\u00df gegen Weisungen w\u00e4hrend der F\u00fchrungsaufsicht",
         "parent": {
@@ -3655,6 +3944,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030002307",
         "name": "\u00a7 145b",
         "title": "(weggefallen)",
         "parent": {
@@ -3668,6 +3958,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030102307",
         "name": "\u00a7 145c",
         "title": "Versto\u00df gegen das Berufsverbot",
         "parent": {
@@ -3681,6 +3972,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030203310",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030203310",
         "name": "\u00a7 145d",
         "title": "Vort\u00e4uschen einer Straftat",
         "parent": {
@@ -3694,6 +3986,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004502307",
         "name": "Achter Abschnitt",
         "title": "Geld- und Wertzeichenf\u00e4lschung",
         "parent": {
@@ -3704,6 +3997,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030304377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030304377",
         "name": "\u00a7 146",
         "title": "Geldf\u00e4lschung",
         "parent": {
@@ -3717,6 +4011,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030402307",
         "name": "\u00a7 147",
         "title": "Inverkehrbringen von Falschgeld",
         "parent": {
@@ -3730,6 +4025,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030502307",
         "name": "\u00a7 148",
         "title": "Wertzeichenf\u00e4lschung",
         "parent": {
@@ -3743,6 +4039,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030603377",
         "name": "\u00a7 149",
         "title": "Vorbereitung der F\u00e4lschung von Geld und Wertzeichen",
         "parent": {
@@ -3756,6 +4053,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030705123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030705123",
         "name": "\u00a7 150",
         "title": "Einziehung",
         "parent": {
@@ -3769,6 +4067,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030804360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030804360",
         "name": "\u00a7 151",
         "title": "Wertpapiere",
         "parent": {
@@ -3782,6 +4081,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE030902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE030902307",
         "name": "\u00a7 152",
         "title": "Geld, Wertzeichen und Wertpapiere eines fremden W\u00e4hrungsgebiets",
         "parent": {
@@ -3795,6 +4095,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056006123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056006123",
         "name": "\u00a7 152a",
         "title": "F\u00e4lschung von Zahlungskarten, Schecks und Wechseln",
         "parent": {
@@ -3808,6 +4109,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064601123",
         "name": "\u00a7 152b",
         "title": "F\u00e4lschung von Zahlungskarten mit Garantiefunktion und Vordrucken f\u00fcr Euroschecks",
         "parent": {
@@ -3821,6 +4123,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004602307",
         "name": "Neunter Abschnitt",
         "title": "Falsche uneidliche Aussage\nund Meineid",
         "parent": {
@@ -3831,6 +4134,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031004140",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031004140",
         "name": "\u00a7 153",
         "title": "Falsche uneidliche Aussage",
         "parent": {
@@ -3844,6 +4148,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031102307",
         "name": "\u00a7 154",
         "title": "Meineid",
         "parent": {
@@ -3857,6 +4162,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031202307",
         "name": "\u00a7 155",
         "title": "Eidesgleiche Bekr\u00e4ftigungen",
         "parent": {
@@ -3870,6 +4176,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031302307",
         "name": "\u00a7 156",
         "title": "Falsche Versicherung an Eides Statt",
         "parent": {
@@ -3883,6 +4190,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031402307",
         "name": "\u00a7 157",
         "title": "Aussagenotstand",
         "parent": {
@@ -3896,6 +4204,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031502307",
         "name": "\u00a7 158",
         "title": "Berichtigung einer falschen Angabe",
         "parent": {
@@ -3909,6 +4218,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031602307",
         "name": "\u00a7 159",
         "title": "Versuch der Anstiftung zur Falschaussage",
         "parent": {
@@ -3922,6 +4232,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031702307",
         "name": "\u00a7 160",
         "title": "Verleitung zur Falschaussage",
         "parent": {
@@ -3935,6 +4246,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE031803140",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE031803140",
         "name": "\u00a7 161",
         "title": "Fahrl\u00e4ssiger Falscheid; fahrl\u00e4ssige falsche Versicherung an Eides Statt",
         "parent": {
@@ -3948,6 +4260,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066000140",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066000140",
         "name": "\u00a7 162",
         "title": "Internationale Gerichte; nationale Untersuchungsaussch\u00fcsse",
         "parent": {
@@ -3961,6 +4274,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE032003140",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE032003140",
         "name": "\u00a7 163",
         "title": "(weggefallen)",
         "parent": {
@@ -3974,6 +4288,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004702307",
         "name": "Zehnter Abschnitt",
         "title": "Falsche Verd\u00e4chtigung",
         "parent": {
@@ -3984,6 +4299,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE032103310",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE032103310",
         "name": "\u00a7 164",
         "title": "Falsche Verd\u00e4chtigung",
         "parent": {
@@ -3997,6 +4313,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE032202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE032202307",
         "name": "\u00a7 165",
         "title": "Bekanntgabe der Verurteilung",
         "parent": {
@@ -4010,6 +4327,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004802307",
         "name": "Elfter Abschnitt",
         "title": "Straftaten, welche sich auf\nReligion und Weltanschauung beziehen",
         "parent": {
@@ -4020,6 +4338,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE032302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE032302307",
         "name": "\u00a7 166",
         "title": "Beschimpfung von Bekenntnissen, Religionsgesellschaften\nund Weltanschauungsvereinigungen",
         "parent": {
@@ -4033,6 +4352,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE032402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE032402307",
         "name": "\u00a7 167",
         "title": "St\u00f6rung der Religionsaus\u00fcbung",
         "parent": {
@@ -4046,6 +4366,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE032502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE032502307",
         "name": "\u00a7 167a",
         "title": "St\u00f6rung einer Bestattungsfeier",
         "parent": {
@@ -4059,6 +4380,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE032604307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE032604307",
         "name": "\u00a7 168",
         "title": "St\u00f6rung der Totenruhe",
         "parent": {
@@ -4072,6 +4394,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG004902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG004902307",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "Straftaten gegen den\nPersonenstand, die Ehe und die Familie",
         "parent": {
@@ -4082,6 +4405,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE032703377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE032703377",
         "name": "\u00a7 169",
         "title": "Personenstandsf\u00e4lschung",
         "parent": {
@@ -4095,6 +4419,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062501307",
         "name": "\u00a7 170",
         "title": "Verletzung der Unterhaltspflicht",
         "parent": {
@@ -4108,6 +4433,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062601307",
         "name": "\u00a7 171",
         "title": "Verletzung der F\u00fcrsorge- oder Erziehungspflicht",
         "parent": {
@@ -4121,6 +4447,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE033304308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE033304308",
         "name": "\u00a7 172",
         "title": "Doppelehe; doppelte Lebenspartnerschaft",
         "parent": {
@@ -4134,6 +4461,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE033502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE033502307",
         "name": "\u00a7 173",
         "title": "Beischlaf zwischen Verwandten",
         "parent": {
@@ -4147,6 +4475,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005002307",
         "name": "Dreizehnter Abschnitt",
         "title": "Straftaten gegen die\nsexuelle Selbstbestimmung",
         "parent": {
@@ -4157,6 +4486,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE033604360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE033604360",
         "name": "\u00a7 174",
         "title": "Sexueller Mi\u00dfbrauch von Schutzbefohlenen",
         "parent": {
@@ -4170,6 +4500,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE033704377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE033704377",
         "name": "\u00a7 174a",
         "title": "Sexueller Mi\u00dfbrauch von Gefangenen, beh\u00f6rdlich Verwahrten oder Kranken und Hilfsbed\u00fcrftigen in Einrichtungen",
         "parent": {
@@ -4183,6 +4514,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE033803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE033803377",
         "name": "\u00a7 174b",
         "title": "Sexueller Mi\u00dfbrauch unter Ausnutzung einer Amtsstellung",
         "parent": {
@@ -4196,6 +4528,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062102377",
         "name": "\u00a7 174c",
         "title": "Sexueller Mi\u00dfbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverh\u00e4ltnisses",
         "parent": {
@@ -4209,6 +4542,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE033903307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE033903307",
         "name": "\u00a7 175",
         "title": "(weggefallen)",
         "parent": {
@@ -4222,6 +4556,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE034007360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE034007360",
         "name": "\u00a7 176",
         "title": "Sexueller Mi\u00dfbrauch von Kindern",
         "parent": {
@@ -4235,6 +4570,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062204360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062204360",
         "name": "\u00a7 176a",
         "title": "Schwerer sexueller Mi\u00dfbrauch von Kindern",
         "parent": {
@@ -4248,6 +4584,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062301307",
         "name": "\u00a7 176b",
         "title": "Sexueller Mi\u00dfbrauch von Kindern mit Todesfolge",
         "parent": {
@@ -4261,6 +4598,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE034105123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE034105123",
         "name": "\u00a7 177",
         "title": "Sexueller \u00dcbergriff; sexuelle N\u00f6tigung; Vergewaltigung",
         "parent": {
@@ -4274,6 +4612,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062402123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062402123",
         "name": "\u00a7 178",
         "title": "Sexueller \u00dcbergriff, sexuelle N\u00f6tigung und Vergewaltigung mit Todesfolge",
         "parent": {
@@ -4287,6 +4626,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE034306123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE034306123",
         "name": "\u00a7 179",
         "title": "(weggefallen)",
         "parent": {
@@ -4300,6 +4640,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE034402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE034402307",
         "name": "\u00a7 180",
         "title": "F\u00f6rderung sexueller Handlungen Minderj\u00e4hriger",
         "parent": {
@@ -4313,6 +4654,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE034505377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE034505377",
         "name": "\u00a7 180a",
         "title": "Ausbeutung von Prostituierten",
         "parent": {
@@ -4326,6 +4668,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060102377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060102377",
         "name": "(XXXX) \u00a7\u00a7 180b und 181",
         "title": "(weggefallen)",
         "parent": {
@@ -4339,6 +4682,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE034706308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE034706308",
         "name": "\u00a7 181a",
         "title": "Zuh\u00e4lterei",
         "parent": {
@@ -4352,6 +4696,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE034808377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE034808377",
         "name": "\u00a7 181b",
         "title": "F\u00fchrungsaufsicht",
         "parent": {
@@ -4365,6 +4710,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE034905360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE034905360",
         "name": "\u00a7 182",
         "title": "Sexueller Mi\u00dfbrauch von Jugendlichen",
         "parent": {
@@ -4378,6 +4724,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035005360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035005360",
         "name": "\u00a7 183",
         "title": "Exhibitionistische Handlungen",
         "parent": {
@@ -4391,6 +4738,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035102307",
         "name": "\u00a7 183a",
         "title": "Erregung \u00f6ffentlichen \u00c4rgernisses",
         "parent": {
@@ -4404,6 +4752,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035208360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035208360",
         "name": "\u00a7 184",
         "title": "Verbreitung pornographischer Schriften",
         "parent": {
@@ -4417,6 +4766,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064701360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064701360",
         "name": "\u00a7 184a",
         "title": "Verbreitung gewalt- oder tierpornographischer Schriften",
         "parent": {
@@ -4430,6 +4780,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064804360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064804360",
         "name": "\u00a7 184b",
         "title": "Verbreitung, Erwerb und Besitz kinderpornographischer Schriften",
         "parent": {
@@ -4443,6 +4794,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066101360",
         "name": "\u00a7 184c",
         "title": "Verbreitung, Erwerb und Besitz jugendpornographischer Schriften",
         "parent": {
@@ -4456,6 +4808,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064903123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064903123",
         "name": "\u00a7 184d",
         "title": "Zug\u00e4nglichmachen pornographischer Inhalte mittels Rundfunk oder Telemedien; Abruf kinder- und jugendpornographischer Inhalte mittels Telemedien",
         "parent": {
@@ -4469,6 +4822,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067000360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067000360",
         "name": "\u00a7 184e",
         "title": "Veranstaltung und Besuch kinder- und jugendpornographischer Darbietungen",
         "parent": {
@@ -4482,6 +4836,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035305360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035305360",
         "name": "\u00a7 184f",
         "title": "Aus\u00fcbung der verbotenen Prostitution",
         "parent": {
@@ -4495,6 +4850,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035405360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035405360",
         "name": "\u00a7 184g",
         "title": "Jugendgef\u00e4hrdende Prostitution",
         "parent": {
@@ -4508,6 +4864,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035505360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035505360",
         "name": "\u00a7 184h",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -4521,6 +4878,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067801360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067801360",
         "name": "\u00a7 184i",
         "title": "Sexuelle Bel\u00e4stigung",
         "parent": {
@@ -4534,6 +4892,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067900123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067900123",
         "name": "\u00a7 184j",
         "title": "Straftaten aus Gruppen",
         "parent": {
@@ -4547,6 +4906,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005102307",
         "name": "Vierzehnter Abschnitt",
         "title": "Beleidigung",
         "parent": {
@@ -4557,6 +4917,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035602307",
         "name": "\u00a7 185",
         "title": "Beleidigung",
         "parent": {
@@ -4570,6 +4931,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035702307",
         "name": "\u00a7 186",
         "title": "\u00dcble Nachrede",
         "parent": {
@@ -4583,6 +4945,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE035802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE035802307",
         "name": "\u00a7 187",
         "title": "Verleumdung",
         "parent": {
@@ -4596,6 +4959,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062701307",
         "name": "\u00a7 188",
         "title": "\u00dcble Nachrede und Verleumdung gegen Personen des politischen Lebens",
         "parent": {
@@ -4609,6 +4973,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE036102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE036102307",
         "name": "\u00a7 189",
         "title": "Verunglimpfung des Andenkens Verstorbener",
         "parent": {
@@ -4622,6 +4987,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE036202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE036202307",
         "name": "\u00a7 190",
         "title": "Wahrheitsbeweis durch Strafurteil",
         "parent": {
@@ -4635,6 +5001,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE036302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE036302307",
         "name": "\u00a7 191",
         "title": "(weggefallen)",
         "parent": {
@@ -4648,6 +5015,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE036402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE036402307",
         "name": "\u00a7 192",
         "title": "Beleidigung trotz Wahrheitsbeweises",
         "parent": {
@@ -4661,6 +5029,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE036502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE036502307",
         "name": "\u00a7 193",
         "title": "Wahrnehmung berechtigter Interessen",
         "parent": {
@@ -4674,6 +5043,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE036604360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE036604360",
         "name": "\u00a7 194",
         "title": "Strafantrag",
         "parent": {
@@ -4687,6 +5057,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE036702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE036702307",
         "name": "(XXXX) \u00a7\u00a7 195 bis 198",
         "title": "(weggefallen)",
         "parent": {
@@ -4700,6 +5071,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE037102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE037102307",
         "name": "\u00a7 199",
         "title": "Wechselseitig begangene Beleidigungen",
         "parent": {
@@ -4713,6 +5085,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE037202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE037202307",
         "name": "\u00a7 200",
         "title": "Bekanntgabe der Verurteilung",
         "parent": {
@@ -4726,6 +5099,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005202307",
         "name": "F\u00fcnfzehnter Abschnitt",
         "title": "Verletzung des pers\u00f6nlichen\nLebens- und Geheimbereichs",
         "parent": {
@@ -4736,6 +5110,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE037303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE037303307",
         "name": "\u00a7 201",
         "title": "Verletzung der Vertraulichkeit des Wortes",
         "parent": {
@@ -4749,6 +5124,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065101360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065101360",
         "name": "\u00a7 201a",
         "title": "Verletzung des h\u00f6chstpers\u00f6nlichen Lebensbereichs durch Bildaufnahmen",
         "parent": {
@@ -4762,6 +5138,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE037404307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE037404307",
         "name": "\u00a7 202",
         "title": "Verletzung des Briefgeheimnisses",
         "parent": {
@@ -4775,6 +5152,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056103377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056103377",
         "name": "\u00a7 202a",
         "title": "Aussp\u00e4hen von Daten",
         "parent": {
@@ -4788,6 +5166,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065800377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065800377",
         "name": "\u00a7 202b",
         "title": "Abfangen von Daten",
         "parent": {
@@ -4801,6 +5180,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065901308",
         "name": "\u00a7 202c",
         "title": "Vorbereiten des Aussp\u00e4hens und Abfangens von Daten",
         "parent": {
@@ -4814,6 +5194,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067300123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067300123",
         "name": "\u00a7 202d",
         "title": "Datenhehlerei",
         "parent": {
@@ -4827,6 +5208,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE037515125",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE037515125",
         "name": "\u00a7 203",
         "title": "Verletzung von Privatgeheimnissen",
         "parent": {
@@ -4840,6 +5222,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE037603123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE037603123",
         "name": "\u00a7 204",
         "title": "Verwertung fremder Geheimnisse",
         "parent": {
@@ -4853,6 +5236,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE037707123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE037707123",
         "name": "\u00a7 205",
         "title": "Strafantrag",
         "parent": {
@@ -4866,6 +5250,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062001307",
         "name": "\u00a7 206",
         "title": "Verletzung des Post- oder Fernmeldegeheimnisses",
         "parent": {
@@ -4879,6 +5264,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE037803307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE037803307",
         "name": "(XXXX) \u00a7\u00a7 207 bis 210",
         "title": "(weggefallen)",
         "parent": {
@@ -4892,6 +5278,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005302307",
         "name": "Sechzehnter Abschnitt",
         "title": "Straftaten gegen das Leben",
         "parent": {
@@ -4902,6 +5289,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE038302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE038302307",
         "name": "\u00a7 211",
         "title": "Mord",
         "parent": {
@@ -4915,6 +5303,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE038402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE038402307",
         "name": "\u00a7 212",
         "title": "Totschlag",
         "parent": {
@@ -4928,6 +5317,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE038503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE038503307",
         "name": "\u00a7 213",
         "title": "Minder schwerer Fall des Totschlags",
         "parent": {
@@ -4941,6 +5331,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE038602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE038602307",
         "name": "(XXXX) \u00a7\u00a7 214 und 215",
         "title": "(weggefallen)",
         "parent": {
@@ -4954,6 +5345,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE038802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE038802307",
         "name": "\u00a7 216",
         "title": "T\u00f6tung auf Verlangen",
         "parent": {
@@ -4967,6 +5359,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE038904123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE038904123",
         "name": "\u00a7 217",
         "title": "Gesch\u00e4ftsm\u00e4\u00dfige F\u00f6rderung der Selbstt\u00f6tung",
         "parent": {
@@ -4980,6 +5373,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039004307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039004307",
         "name": "\u00a7 218",
         "title": "Schwangerschaftsabbruch",
         "parent": {
@@ -4993,6 +5387,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039105123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039105123",
         "name": "\u00a7 218a",
         "title": "Straflosigkeit des Schwangerschaftsabbruchs",
         "parent": {
@@ -5006,6 +5401,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039204307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039204307",
         "name": "\u00a7 218b",
         "title": "Schwangerschaftsabbruch ohne \u00e4rztliche Feststellung; unrichtige \u00e4rztliche Feststellung",
         "parent": {
@@ -5019,6 +5415,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060801307",
         "name": "\u00a7 218c",
         "title": "\u00c4rztliche Pflichtverletzung bei einem Schwangerschaftsabbruch",
         "parent": {
@@ -5032,6 +5429,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039304307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039304307",
         "name": "\u00a7 219",
         "title": "Beratung der Schwangeren in einer Not- und Konfliktlage",
         "parent": {
@@ -5045,6 +5443,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039404125",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039404125",
         "name": "\u00a7 219a",
         "title": "Werbung f\u00fcr den Abbruch der Schwangerschaft",
         "parent": {
@@ -5058,6 +5457,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039503307",
         "name": "\u00a7 219b",
         "title": "Inverkehrbringen von Mitteln zum Abbruch der Schwangerschaft",
         "parent": {
@@ -5071,6 +5471,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039603307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039603307",
         "name": "\u00a7 219c",
         "title": "(weggefallen)",
         "parent": {
@@ -5084,6 +5485,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039703307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039703307",
         "name": "\u00a7 219d",
         "title": "(weggefallen)",
         "parent": {
@@ -5097,6 +5499,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039802307",
         "name": "\u00a7 220",
         "title": "(weggefallen)",
         "parent": {
@@ -5110,6 +5513,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE039904377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE039904377",
         "name": "\u00a7 220a",
         "title": "(weggefallen)",
         "parent": {
@@ -5123,6 +5527,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE040003307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE040003307",
         "name": "\u00a7 221",
         "title": "Aussetzung",
         "parent": {
@@ -5136,6 +5541,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE040102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE040102307",
         "name": "\u00a7 222",
         "title": "Fahrl\u00e4ssige T\u00f6tung",
         "parent": {
@@ -5149,6 +5555,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005403307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005403307",
         "name": "Siebzehnter Abschnitt",
         "title": "Straftaten gegen die\nk\u00f6rperliche Unversehrtheit",
         "parent": {
@@ -5159,6 +5566,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE040204307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE040204307",
         "name": "\u00a7 223",
         "title": "K\u00f6rperverletzung",
         "parent": {
@@ -5172,6 +5580,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE040504307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE040504307",
         "name": "\u00a7 224",
         "title": "Gef\u00e4hrliche K\u00f6rperverletzung",
         "parent": {
@@ -5185,6 +5594,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE040604307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE040604307",
         "name": "\u00a7 225",
         "title": "Mi\u00dfhandlung von Schutzbefohlenen",
         "parent": {
@@ -5198,6 +5608,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE040703307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE040703307",
         "name": "\u00a7 226",
         "title": "Schwere K\u00f6rperverletzung",
         "parent": {
@@ -5211,6 +5622,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066900360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066900360",
         "name": "\u00a7 226a",
         "title": "Verst\u00fcmmelung weiblicher Genitalien",
         "parent": {
@@ -5224,6 +5636,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE040904360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE040904360",
         "name": "\u00a7 227",
         "title": "K\u00f6rperverletzung mit Todesfolge",
         "parent": {
@@ -5237,6 +5650,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE041004307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE041004307",
         "name": "\u00a7 228",
         "title": "Einwilligung",
         "parent": {
@@ -5250,6 +5664,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE041103307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE041103307",
         "name": "\u00a7 229",
         "title": "Fahrl\u00e4ssige K\u00f6rperverletzung",
         "parent": {
@@ -5263,6 +5678,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE041203307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE041203307",
         "name": "\u00a7 230",
         "title": "Strafantrag",
         "parent": {
@@ -5276,6 +5692,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE041303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE041303307",
         "name": "\u00a7 231",
         "title": "Beteiligung an einer Schl\u00e4gerei",
         "parent": {
@@ -5289,6 +5706,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005503377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005503377",
         "name": "Achtzehnter Abschnitt",
         "title": "Straftaten gegen die\npers\u00f6nliche Freiheit",
         "parent": {
@@ -5299,6 +5717,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065201123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065201123",
         "name": "\u00a7 232",
         "title": "Menschenhandel",
         "parent": {
@@ -5312,6 +5731,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067600123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067600123",
         "name": "\u00a7 232a",
         "title": "Zwangsprostitution",
         "parent": {
@@ -5325,6 +5745,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067700123",
         "name": "\u00a7 232b",
         "title": "Zwangsarbeit",
         "parent": {
@@ -5338,6 +5759,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065301123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065301123",
         "name": "\u00a7 233",
         "title": "Ausbeutung der Arbeitskraft",
         "parent": {
@@ -5351,6 +5773,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065401123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065401123",
         "name": "\u00a7 233a",
         "title": "Ausbeutung unter Ausnutzung einer Freiheitsberaubung",
         "parent": {
@@ -5364,6 +5787,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065502123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065502123",
         "name": "\u00a7 233b",
         "title": "F\u00fchrungsaufsicht",
         "parent": {
@@ -5377,6 +5801,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE041604377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE041604377",
         "name": "\u00a7 234",
         "title": "Menschenraub",
         "parent": {
@@ -5390,6 +5815,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE041702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE041702307",
         "name": "\u00a7 234a",
         "title": "Verschleppung",
         "parent": {
@@ -5403,6 +5829,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE041803307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE041803307",
         "name": "\u00a7 235",
         "title": "Entziehung Minderj\u00e4hriger",
         "parent": {
@@ -5416,6 +5843,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE041905140",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE041905140",
         "name": "\u00a7 236",
         "title": "Kinderhandel",
         "parent": {
@@ -5429,6 +5857,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042004360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042004360",
         "name": "\u00a7 237",
         "title": "Zwangsheirat",
         "parent": {
@@ -5442,6 +5871,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE065601123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE065601123",
         "name": "\u00a7 238",
         "title": "Nachstellung",
         "parent": {
@@ -5455,6 +5885,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042203307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042203307",
         "name": "\u00a7 239",
         "title": "Freiheitsberaubung",
         "parent": {
@@ -5468,6 +5899,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042304307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042304307",
         "name": "\u00a7 239a",
         "title": "Erpresserischer Menschenraub",
         "parent": {
@@ -5481,6 +5913,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042404307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042404307",
         "name": "\u00a7 239b",
         "title": "Geiselnahme",
         "parent": {
@@ -5494,6 +5927,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042503307",
         "name": "\u00a7 239c",
         "title": "F\u00fchrungsaufsicht",
         "parent": {
@@ -5507,6 +5941,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042607123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042607123",
         "name": "\u00a7 240",
         "title": "N\u00f6tigung",
         "parent": {
@@ -5520,6 +5955,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042703307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042703307",
         "name": "\u00a7 241",
         "title": "Bedrohung",
         "parent": {
@@ -5533,6 +5969,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042802307",
         "name": "\u00a7 241a",
         "title": "Politische Verd\u00e4chtigung",
         "parent": {
@@ -5546,6 +5983,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005602307",
         "name": "Neunzehnter Abschnitt",
         "title": "Diebstahl und Unterschlagung",
         "parent": {
@@ -5556,6 +5994,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE042903307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE042903307",
         "name": "\u00a7 242",
         "title": "Diebstahl",
         "parent": {
@@ -5569,6 +6008,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043004307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043004307",
         "name": "\u00a7 243",
         "title": "Besonders schwerer Fall des Diebstahls",
         "parent": {
@@ -5582,6 +6022,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043107123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043107123",
         "name": "\u00a7 244",
         "title": "Diebstahl mit Waffen; Bandendiebstahl; Wohnungseinbruchdiebstahl",
         "parent": {
@@ -5595,6 +6036,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064101123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064101123",
         "name": "\u00a7 244a",
         "title": "Schwerer Bandendiebstahl",
         "parent": {
@@ -5608,6 +6050,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043204307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043204307",
         "name": "\u00a7 245",
         "title": "F\u00fchrungsaufsicht",
         "parent": {
@@ -5621,6 +6064,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043303307",
         "name": "\u00a7 246",
         "title": "Unterschlagung",
         "parent": {
@@ -5634,6 +6078,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043403307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043403307",
         "name": "\u00a7 247",
         "title": "Haus- und Familiendiebstahl",
         "parent": {
@@ -5647,6 +6092,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043502307",
         "name": "\u00a7 248",
         "title": "(weggefallen)",
         "parent": {
@@ -5660,6 +6106,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043602307",
         "name": "\u00a7 248a",
         "title": "Diebstahl und Unterschlagung geringwertiger Sachen",
         "parent": {
@@ -5673,6 +6120,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043702307",
         "name": "\u00a7 248b",
         "title": "Unbefugter Gebrauch eines Fahrzeugs",
         "parent": {
@@ -5686,6 +6134,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043803307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043803307",
         "name": "\u00a7 248c",
         "title": "Entziehung elektrischer Energie",
         "parent": {
@@ -5699,6 +6148,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005702307",
         "name": "Zwanzigster Abschnitt",
         "title": "Raub und Erpressung",
         "parent": {
@@ -5709,6 +6159,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE043903307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE043903307",
         "name": "\u00a7 249",
         "title": "Raub",
         "parent": {
@@ -5722,6 +6173,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044003307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044003307",
         "name": "\u00a7 250",
         "title": "Schwerer Raub",
         "parent": {
@@ -5735,6 +6187,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044103307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044103307",
         "name": "\u00a7 251",
         "title": "Raub mit Todesfolge",
         "parent": {
@@ -5748,6 +6201,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044202307",
         "name": "\u00a7 252",
         "title": "R\u00e4uberischer Diebstahl",
         "parent": {
@@ -5761,6 +6215,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044304307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044304307",
         "name": "\u00a7 253",
         "title": "Erpressung",
         "parent": {
@@ -5774,6 +6229,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044402307",
         "name": "\u00a7 254",
         "title": "(weggefallen)",
         "parent": {
@@ -5787,6 +6243,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044502307",
         "name": "\u00a7 255",
         "title": "R\u00e4uberische Erpressung",
         "parent": {
@@ -5800,6 +6257,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044605123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044605123",
         "name": "\u00a7 256",
         "title": "F\u00fchrungsaufsicht",
         "parent": {
@@ -5813,6 +6271,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005802307",
         "name": "Einundzwanzigster Abschnitt",
         "title": "Beg\u00fcnstigung und Hehlerei",
         "parent": {
@@ -5823,6 +6282,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044702307",
         "name": "\u00a7 257",
         "title": "Beg\u00fcnstigung",
         "parent": {
@@ -5836,6 +6296,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044802307",
         "name": "\u00a7 258",
         "title": "Strafvereitelung",
         "parent": {
@@ -5849,6 +6310,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE044902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE044902307",
         "name": "\u00a7 258a",
         "title": "Strafvereitelung im Amt",
         "parent": {
@@ -5862,6 +6324,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045002307",
         "name": "\u00a7 259",
         "title": "Hehlerei",
         "parent": {
@@ -5875,6 +6338,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045104123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045104123",
         "name": "\u00a7 260",
         "title": "Gewerbsm\u00e4\u00dfige Hehlerei; Bandenhehlerei",
         "parent": {
@@ -5888,6 +6352,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058702123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058702123",
         "name": "\u00a7 260a",
         "title": "Gewerbsm\u00e4\u00dfige Bandenhehlerei",
         "parent": {
@@ -5901,6 +6366,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE066411123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE066411123",
         "name": "\u00a7 261",
         "title": "Geldw\u00e4sche; Verschleierung unrechtm\u00e4\u00dfig erlangter Verm\u00f6genswerte",
         "parent": {
@@ -5914,6 +6380,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045304307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045304307",
         "name": "\u00a7 262",
         "title": "F\u00fchrungsaufsicht",
         "parent": {
@@ -5927,6 +6394,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG005902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG005902307",
         "name": "Zweiundzwanzigster Abschnitt",
         "title": "Betrug und Untreue",
         "parent": {
@@ -5937,6 +6405,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045406123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045406123",
         "name": "\u00a7 263",
         "title": "Betrug",
         "parent": {
@@ -5950,6 +6419,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056205123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056205123",
         "name": "\u00a7 263a",
         "title": "Computerbetrug",
         "parent": {
@@ -5963,6 +6433,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045506360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045506360",
         "name": "\u00a7 264",
         "title": "Subventionsbetrug",
         "parent": {
@@ -5976,6 +6447,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056302307",
         "name": "\u00a7 264a",
         "title": "Kapitalanlagebetrug",
         "parent": {
@@ -5989,6 +6461,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045603307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045603307",
         "name": "\u00a7 265",
         "title": "Versicherungsmi\u00dfbrauch",
         "parent": {
@@ -6002,6 +6475,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045703307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045703307",
         "name": "\u00a7 265a",
         "title": "Erschleichen von Leistungen",
         "parent": {
@@ -6015,6 +6489,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045802307",
         "name": "\u00a7 265b",
         "title": "Kreditbetrug",
         "parent": {
@@ -6028,6 +6503,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068000123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068000123",
         "name": "\u00a7 265c",
         "title": "Sportwettbetrug",
         "parent": {
@@ -6041,6 +6517,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068100123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068100123",
         "name": "\u00a7 265d",
         "title": "Manipulation von berufssportlichen Wettbewerben",
         "parent": {
@@ -6054,6 +6531,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068200123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068200123",
         "name": "\u00a7 265e",
         "title": "Besonders schwere F\u00e4lle des Sportwettbetrugs und der Manipulation von berufssportlichen Wettbewerben",
         "parent": {
@@ -6067,6 +6545,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE045903307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE045903307",
         "name": "\u00a7 266",
         "title": "Untreue",
         "parent": {
@@ -6080,6 +6559,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056405123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056405123",
         "name": "\u00a7 266a",
         "title": "Vorenthalten und Veruntreuen von Arbeitsentgelt",
         "parent": {
@@ -6093,6 +6573,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056502307",
         "name": "\u00a7 266b",
         "title": "Mi\u00dfbrauch von Scheck- und Kreditkarten",
         "parent": {
@@ -6106,6 +6587,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG006002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG006002307",
         "name": "Dreiundzwanzigster Abschnitt",
         "title": "Urkundenf\u00e4lschung",
         "parent": {
@@ -6116,6 +6598,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046004308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046004308",
         "name": "\u00a7 267",
         "title": "Urkundenf\u00e4lschung",
         "parent": {
@@ -6129,6 +6612,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046103307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046103307",
         "name": "\u00a7 268",
         "title": "F\u00e4lschung technischer Aufzeichnungen",
         "parent": {
@@ -6142,6 +6626,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046204307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046204307",
         "name": "\u00a7 269",
         "title": "F\u00e4lschung beweiserheblicher Daten",
         "parent": {
@@ -6155,6 +6640,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046303307",
         "name": "\u00a7 270",
         "title": "T\u00e4uschung im Rechtsverkehr bei Datenverarbeitung",
         "parent": {
@@ -6168,6 +6654,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046404307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046404307",
         "name": "\u00a7 271",
         "title": "Mittelbare Falschbeurkundung",
         "parent": {
@@ -6181,6 +6668,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046503307",
         "name": "\u00a7 272",
         "title": "(weggefallen)",
         "parent": {
@@ -6194,6 +6682,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046604307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046604307",
         "name": "\u00a7 273",
         "title": "Ver\u00e4ndern von amtlichen Ausweisen",
         "parent": {
@@ -6207,6 +6696,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046703307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046703307",
         "name": "\u00a7 274",
         "title": "Urkundenunterdr\u00fcckung; Ver\u00e4nderung einer Grenzbezeichnung",
         "parent": {
@@ -6220,6 +6710,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046804307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046804307",
         "name": "\u00a7 275",
         "title": "Vorbereitung der F\u00e4lschung von amtlichen Ausweisen",
         "parent": {
@@ -6233,6 +6724,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE046904307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE046904307",
         "name": "\u00a7 276",
         "title": "Verschaffen von falschen amtlichen Ausweisen",
         "parent": {
@@ -6246,6 +6738,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060703377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060703377",
         "name": "\u00a7 276a",
         "title": "Aufenthaltsrechtliche Papiere; Fahrzeugpapiere",
         "parent": {
@@ -6259,6 +6752,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047002307",
         "name": "\u00a7 277",
         "title": "F\u00e4lschung von Gesundheitszeugnissen",
         "parent": {
@@ -6272,6 +6766,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047102307",
         "name": "\u00a7 278",
         "title": "Ausstellen unrichtiger Gesundheitszeugnisse",
         "parent": {
@@ -6285,6 +6780,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047202307",
         "name": "\u00a7 279",
         "title": "Gebrauch unrichtiger Gesundheitszeugnisse",
         "parent": {
@@ -6298,6 +6794,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047302307",
         "name": "\u00a7 280",
         "title": "(weggefallen)",
         "parent": {
@@ -6311,6 +6808,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047402307",
         "name": "\u00a7 281",
         "title": "Mi\u00dfbrauch von Ausweispapieren",
         "parent": {
@@ -6324,6 +6822,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047505123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047505123",
         "name": "\u00a7 282",
         "title": "Einziehung",
         "parent": {
@@ -6337,6 +6836,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG006103307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG006103307",
         "name": "Vierundzwanzigster Abschnitt",
         "title": "Insolvenzstraftaten",
         "parent": {
@@ -6347,6 +6847,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047603307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047603307",
         "name": "\u00a7 283",
         "title": "Bankrott",
         "parent": {
@@ -6360,6 +6861,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047702307",
         "name": "\u00a7 283a",
         "title": "Besonders schwerer Fall des Bankrotts",
         "parent": {
@@ -6373,6 +6875,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047802307",
         "name": "\u00a7 283b",
         "title": "Verletzung der Buchf\u00fchrungspflicht",
         "parent": {
@@ -6386,6 +6889,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE047902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE047902307",
         "name": "\u00a7 283c",
         "title": "Gl\u00e4ubigerbeg\u00fcnstigung",
         "parent": {
@@ -6399,6 +6903,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE048003307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE048003307",
         "name": "\u00a7 283d",
         "title": "Schuldnerbeg\u00fcnstigung",
         "parent": {
@@ -6412,6 +6917,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG006202307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG006202307",
         "name": "F\u00fcnfundzwanzigster Abschnitt",
         "title": "Strafbarer Eigennutz",
         "parent": {
@@ -6422,6 +6928,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE048104307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE048104307",
         "name": "\u00a7 284",
         "title": "Unerlaubte Veranstaltung eines Gl\u00fccksspiels",
         "parent": {
@@ -6435,6 +6942,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062801307",
         "name": "\u00a7 285",
         "title": "Beteiligung am unerlaubten Gl\u00fccksspiel",
         "parent": {
@@ -6448,6 +6956,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE062902123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE062902123",
         "name": "\u00a7 286",
         "title": "Einziehung",
         "parent": {
@@ -6461,6 +6970,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE048603307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE048603307",
         "name": "\u00a7 287",
         "title": "Unerlaubte Veranstaltung einer Lotterie oder einer\nAusspielung",
         "parent": {
@@ -6474,6 +6984,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE048802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE048802307",
         "name": "\u00a7 288",
         "title": "Vereiteln der Zwangsvollstreckung",
         "parent": {
@@ -6487,6 +6998,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE048902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE048902307",
         "name": "\u00a7 289",
         "title": "Pfandkehr",
         "parent": {
@@ -6500,6 +7012,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE049002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE049002307",
         "name": "\u00a7 290",
         "title": "Unbefugter Gebrauch von Pfandsachen",
         "parent": {
@@ -6513,6 +7026,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060901307",
         "name": "\u00a7 291",
         "title": "Wucher",
         "parent": {
@@ -6526,6 +7040,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE049204360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE049204360",
         "name": "\u00a7 292",
         "title": "Jagdwilderei",
         "parent": {
@@ -6539,6 +7054,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE049303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE049303307",
         "name": "\u00a7 293",
         "title": "Fischwilderei",
         "parent": {
@@ -6552,6 +7068,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE049403307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE049403307",
         "name": "\u00a7 294",
         "title": "Strafantrag",
         "parent": {
@@ -6565,6 +7082,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE049502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE049502307",
         "name": "\u00a7 295",
         "title": "Einziehung",
         "parent": {
@@ -6578,6 +7096,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE049602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE049602307",
         "name": "\u00a7 296",
         "title": "(weggefallen)",
         "parent": {
@@ -6591,6 +7110,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE049804123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE049804123",
         "name": "\u00a7 297",
         "title": "Gef\u00e4hrdung von Schiffen, Kraft- und Luftfahrzeugen durch Bannware",
         "parent": {
@@ -6604,6 +7124,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG006801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG006801307",
         "name": "Sechsundzwanzigster Abschnitt",
         "title": "Straftaten gegen\nden Wettbewerb",
         "parent": {
@@ -6614,6 +7135,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061002308",
         "name": "\u00a7 298",
         "title": "Wettbewerbsbeschr\u00e4nkende Absprachen bei Ausschreibungen",
         "parent": {
@@ -6627,6 +7149,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061103308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061103308",
         "name": "\u00a7 299",
         "title": "Bestechlichkeit und Bestechung im gesch\u00e4ftlichen Verkehr",
         "parent": {
@@ -6640,6 +7163,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067400123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067400123",
         "name": "\u00a7 299a",
         "title": "Bestechlichkeit im Gesundheitswesen",
         "parent": {
@@ -6653,6 +7177,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067500123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067500123",
         "name": "\u00a7 299b",
         "title": "Bestechung im Gesundheitswesen",
         "parent": {
@@ -6666,6 +7191,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061202123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061202123",
         "name": "\u00a7 300",
         "title": "Besonders schwere F\u00e4lle der Bestechlichkeit und Bestechung im gesch\u00e4ftlichen Verkehr und im Gesundheitswesen",
         "parent": {
@@ -6679,6 +7205,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061303308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061303308",
         "name": "\u00a7 301",
         "title": "Strafantrag",
         "parent": {
@@ -6692,6 +7219,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061404123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061404123",
         "name": "\u00a7 302",
         "title": "(weggefallen)",
         "parent": {
@@ -6705,6 +7233,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG006303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG006303307",
         "name": "Siebenundzwanzigster Abschnitt",
         "title": "Sachbesch\u00e4digung",
         "parent": {
@@ -6715,6 +7244,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE050505377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE050505377",
         "name": "\u00a7 303",
         "title": "Sachbesch\u00e4digung",
         "parent": {
@@ -6728,6 +7258,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056603377",
         "name": "\u00a7 303a",
         "title": "Datenver\u00e4nderung",
         "parent": {
@@ -6741,6 +7272,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056703377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056703377",
         "name": "\u00a7 303b",
         "title": "Computersabotage",
         "parent": {
@@ -6754,6 +7286,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056803377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056803377",
         "name": "\u00a7 303c",
         "title": "Strafantrag",
         "parent": {
@@ -6767,6 +7300,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE050603377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE050603377",
         "name": "\u00a7 304",
         "title": "Gemeinsch\u00e4dliche Sachbesch\u00e4digung",
         "parent": {
@@ -6780,6 +7314,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE050702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE050702307",
         "name": "\u00a7 305",
         "title": "Zerst\u00f6rung von Bauwerken",
         "parent": {
@@ -6793,6 +7328,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE059103360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE059103360",
         "name": "\u00a7 305a",
         "title": "Zerst\u00f6rung wichtiger Arbeitsmittel",
         "parent": {
@@ -6806,6 +7342,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG006403307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG006403307",
         "name": "Achtundzwanzigster Abschnitt",
         "title": "Gemeingef\u00e4hrliche\nStraftaten",
         "parent": {
@@ -6816,6 +7353,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE050803307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE050803307",
         "name": "\u00a7 306",
         "title": "Brandstiftung",
         "parent": {
@@ -6829,6 +7367,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063001307",
         "name": "\u00a7 306a",
         "title": "Schwere Brandstiftung",
         "parent": {
@@ -6842,6 +7381,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063101307",
         "name": "\u00a7 306b",
         "title": "Besonders schwere Brandstiftung",
         "parent": {
@@ -6855,6 +7395,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063201307",
         "name": "\u00a7 306c",
         "title": "Brandstiftung mit Todesfolge",
         "parent": {
@@ -6868,6 +7409,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063301307",
         "name": "\u00a7 306d",
         "title": "Fahrl\u00e4ssige Brandstiftung",
         "parent": {
@@ -6881,6 +7423,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063401307",
         "name": "\u00a7 306e",
         "title": "T\u00e4tige Reue",
         "parent": {
@@ -6894,6 +7437,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063501307",
         "name": "\u00a7 306f",
         "title": "Herbeif\u00fchren einer Brandgefahr",
         "parent": {
@@ -6907,6 +7451,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE050903307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE050903307",
         "name": "\u00a7 307",
         "title": "Herbeif\u00fchren einer Explosion durch Kernenergie",
         "parent": {
@@ -6920,6 +7465,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE051003307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE051003307",
         "name": "\u00a7 308",
         "title": "Herbeif\u00fchren einer Sprengstoffexplosion",
         "parent": {
@@ -6933,6 +7479,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE051105123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE051105123",
         "name": "\u00a7 309",
         "title": "Mi\u00dfbrauch ionisierender Strahlen",
         "parent": {
@@ -6946,6 +7493,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE051204377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE051204377",
         "name": "\u00a7 310",
         "title": "Vorbereitung eines Explosions- oder Strahlungsverbrechens",
         "parent": {
@@ -6959,6 +7507,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE051504360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE051504360",
         "name": "\u00a7 311",
         "title": "Freisetzen ionisierender Strahlen",
         "parent": {
@@ -6972,6 +7521,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052103307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052103307",
         "name": "\u00a7 312",
         "title": "Fehlerhafte Herstellung einer kerntechnischen Anlage",
         "parent": {
@@ -6985,6 +7535,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052203307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052203307",
         "name": "\u00a7 313",
         "title": "Herbeif\u00fchren einer \u00dcberschwemmung",
         "parent": {
@@ -6998,6 +7549,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052303307",
         "name": "\u00a7 314",
         "title": "Gemeingef\u00e4hrliche Vergiftung",
         "parent": {
@@ -7011,6 +7563,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063601307",
         "name": "\u00a7 314a",
         "title": "T\u00e4tige Reue",
         "parent": {
@@ -7024,6 +7577,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052403307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052403307",
         "name": "\u00a7 315",
         "title": "Gef\u00e4hrliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr",
         "parent": {
@@ -7037,6 +7591,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052503307",
         "name": "\u00a7 315a",
         "title": "Gef\u00e4hrdung des Bahn-, Schiffs- und Luftverkehrs",
         "parent": {
@@ -7050,6 +7605,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052603307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052603307",
         "name": "\u00a7 315b",
         "title": "Gef\u00e4hrliche Eingriffe in den Stra\u00dfenverkehr",
         "parent": {
@@ -7063,6 +7619,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052704307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052704307",
         "name": "\u00a7 315c",
         "title": "Gef\u00e4hrdung des Stra\u00dfenverkehrs",
         "parent": {
@@ -7076,6 +7633,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068700123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068700123",
         "name": "\u00a7 315d",
         "title": "Verbotene Kraftfahrzeugrennen",
         "parent": {
@@ -7089,6 +7647,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052803123",
         "name": "\u00a7 315e",
         "title": "Schienenbahnen im Stra\u00dfenverkehr",
         "parent": {
@@ -7102,6 +7661,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE068800123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE068800123",
         "name": "\u00a7 315f",
         "title": "Einziehung",
         "parent": {
@@ -7115,6 +7675,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE052903123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE052903123",
         "name": "\u00a7 316",
         "title": "Trunkenheit im Verkehr",
         "parent": {
@@ -7128,6 +7689,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053003307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053003307",
         "name": "\u00a7 316a",
         "title": "R\u00e4uberischer Angriff auf Kraftfahrer",
         "parent": {
@@ -7141,6 +7703,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053104307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053104307",
         "name": "\u00a7 316b",
         "title": "St\u00f6rung \u00f6ffentlicher Betriebe",
         "parent": {
@@ -7154,6 +7717,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053204307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053204307",
         "name": "\u00a7 316c",
         "title": "Angriffe auf den Luft- und Seeverkehr",
         "parent": {
@@ -7167,6 +7731,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053303307",
         "name": "\u00a7 317",
         "title": "St\u00f6rung von Telekommunikationsanlagen",
         "parent": {
@@ -7180,6 +7745,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053403307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053403307",
         "name": "\u00a7 318",
         "title": "Besch\u00e4digung wichtiger Anlagen",
         "parent": {
@@ -7193,6 +7759,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063701307",
         "name": "\u00a7 319",
         "title": "Baugef\u00e4hrdung",
         "parent": {
@@ -7206,6 +7773,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053603307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053603307",
         "name": "\u00a7 320",
         "title": "T\u00e4tige Reue",
         "parent": {
@@ -7219,6 +7787,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053704307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053704307",
         "name": "\u00a7 321",
         "title": "F\u00fchrungsaufsicht",
         "parent": {
@@ -7232,6 +7801,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053804307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053804307",
         "name": "\u00a7 322",
         "title": "Einziehung",
         "parent": {
@@ -7245,6 +7815,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE053903307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE053903307",
         "name": "\u00a7 323",
         "title": "(weggefallen)",
         "parent": {
@@ -7258,6 +7829,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE054002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE054002307",
         "name": "\u00a7 323a",
         "title": "Vollrausch",
         "parent": {
@@ -7271,6 +7843,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE054102307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE054102307",
         "name": "\u00a7 323b",
         "title": "Gef\u00e4hrdung einer Entziehungskur",
         "parent": {
@@ -7284,6 +7857,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE054203123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE054203123",
         "name": "\u00a7 323c",
         "title": "Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen",
         "parent": {
@@ -7297,6 +7871,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG006503307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG006503307",
         "name": "Neunundzwanzigster Abschnitt",
         "title": "Straftaten gegen\ndie Umwelt",
         "parent": {
@@ -7307,6 +7882,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE054303307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE054303307",
         "name": "\u00a7 324",
         "title": "Gew\u00e4sserverunreinigung",
         "parent": {
@@ -7320,6 +7896,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060401307",
         "name": "\u00a7 324a",
         "title": "Bodenverunreinigung",
         "parent": {
@@ -7333,6 +7910,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE054404360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE054404360",
         "name": "\u00a7 325",
         "title": "Luftverunreinigung",
         "parent": {
@@ -7346,6 +7924,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060501307",
         "name": "\u00a7 325a",
         "title": "Verursachen von L\u00e4rm, Ersch\u00fctterungen und nichtionisierenden Strahlen",
         "parent": {
@@ -7359,6 +7938,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE063904123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE063904123",
         "name": "\u00a7 326",
         "title": "Unerlaubter Umgang mit Abf\u00e4llen",
         "parent": {
@@ -7372,6 +7952,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE054609377",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE054609377",
         "name": "\u00a7 327",
         "title": "Unerlaubtes Betreiben von Anlagen",
         "parent": {
@@ -7385,6 +7966,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE054705360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE054705360",
         "name": "\u00a7 328",
         "title": "Unerlaubter Umgang mit radioaktiven Stoffen und anderen gef\u00e4hrlichen Stoffen und G\u00fctern",
         "parent": {
@@ -7398,6 +7980,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE054805308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE054805308",
         "name": "\u00a7 329",
         "title": "Gef\u00e4hrdung schutzbed\u00fcrftiger Gebiete",
         "parent": {
@@ -7411,6 +7994,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064002360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064002360",
         "name": "\u00a7 330",
         "title": "Besonders schwerer Fall einer Umweltstraftat",
         "parent": {
@@ -7424,6 +8008,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE055004307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE055004307",
         "name": "\u00a7 330a",
         "title": "Schwere Gef\u00e4hrdung durch Freisetzen von Giften",
         "parent": {
@@ -7437,6 +8022,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE055105307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE055105307",
         "name": "\u00a7 330b",
         "title": "T\u00e4tige Reue",
         "parent": {
@@ -7450,6 +8036,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE064201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE064201360",
         "name": "\u00a7 330c",
         "title": "Einziehung",
         "parent": {
@@ -7463,6 +8050,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE055304360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE055304360",
         "name": "\u00a7 330d",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -7476,6 +8064,7 @@
       {
         "type": "heading",
         "id": "BJNR001270871BJNG006603307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNG006603307",
         "name": "Drei\u00dfigster Abschnitt",
         "title": "Straftaten im Amt",
         "parent": {
@@ -7486,6 +8075,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE055404308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE055404308",
         "name": "\u00a7 331",
         "title": "Vorteilsannahme",
         "parent": {
@@ -7499,6 +8089,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE055504308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE055504308",
         "name": "\u00a7 332",
         "title": "Bestechlichkeit",
         "parent": {
@@ -7512,6 +8103,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE055604308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE055604308",
         "name": "\u00a7 333",
         "title": "Vorteilsgew\u00e4hrung",
         "parent": {
@@ -7525,6 +8117,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE055704308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE055704308",
         "name": "\u00a7 334",
         "title": "Bestechung",
         "parent": {
@@ -7538,6 +8131,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061501307",
         "name": "\u00a7 335",
         "title": "Besonders schwere F\u00e4lle der Bestechlichkeit und Bestechung",
         "parent": {
@@ -7551,6 +8145,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE067201360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE067201360",
         "name": "\u00a7 335a",
         "title": "Ausl\u00e4ndische und internationale Bedienstete",
         "parent": {
@@ -7564,6 +8159,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061602308",
         "name": "\u00a7 336",
         "title": "Unterlassen der Diensthandlung",
         "parent": {
@@ -7577,6 +8173,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061701307",
         "name": "\u00a7 337",
         "title": "Schiedsrichterverg\u00fctung",
         "parent": {
@@ -7590,6 +8187,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061803123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061803123",
         "name": "\u00a7 338",
         "title": "(weggefallen)",
         "parent": {
@@ -7603,6 +8201,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE061901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE061901307",
         "name": "\u00a7 339",
         "title": "Rechtsbeugung",
         "parent": {
@@ -7616,6 +8215,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE059604307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE059604307",
         "name": "\u00a7 340",
         "title": "K\u00f6rperverletzung im Amt",
         "parent": {
@@ -7629,6 +8229,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE059702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE059702307",
         "name": "(XXXX) \u00a7\u00a7 341 und 342",
         "title": "(weggefallen)",
         "parent": {
@@ -7642,6 +8243,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE059802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE059802307",
         "name": "\u00a7 343",
         "title": "Aussageerpressung",
         "parent": {
@@ -7655,6 +8257,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE060002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE060002307",
         "name": "\u00a7 344",
         "title": "Verfolgung Unschuldiger",
         "parent": {
@@ -7668,6 +8271,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE056902307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE056902307",
         "name": "\u00a7 345",
         "title": "Vollstreckung gegen Unschuldige",
         "parent": {
@@ -7681,6 +8285,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE057002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE057002307",
         "name": "(XXXX) \u00a7\u00a7 346 und 347",
         "title": "(weggefallen)",
         "parent": {
@@ -7694,6 +8299,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE057203307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE057203307",
         "name": "\u00a7 348",
         "title": "Falschbeurkundung im Amt",
         "parent": {
@@ -7707,6 +8313,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE057302307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE057302307",
         "name": "(XXXX) \u00a7\u00a7 349 bis 351",
         "title": "(weggefallen)",
         "parent": {
@@ -7720,6 +8327,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE057602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE057602307",
         "name": "\u00a7 352",
         "title": "Geb\u00fchren\u00fcberhebung",
         "parent": {
@@ -7733,6 +8341,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE057702307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE057702307",
         "name": "\u00a7 353",
         "title": "Abgaben\u00fcberhebung; Leistungsk\u00fcrzung",
         "parent": {
@@ -7746,6 +8355,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE057802307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE057802307",
         "name": "\u00a7 353a",
         "title": "Vertrauensbruch im ausw\u00e4rtigen Dienst",
         "parent": {
@@ -7759,6 +8369,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE057904125",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE057904125",
         "name": "\u00a7 353b",
         "title": "Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht",
         "parent": {
@@ -7772,6 +8383,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058002307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058002307",
         "name": "\u00a7 353c",
         "title": "(weggefallen)",
         "parent": {
@@ -7785,6 +8397,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058103123",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058103123",
         "name": "\u00a7 353d",
         "title": "Verbotene Mitteilungen \u00fcber Gerichtsverhandlungen",
         "parent": {
@@ -7798,6 +8411,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058204307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058204307",
         "name": "\u00a7 354",
         "title": "(weggefallen)",
         "parent": {
@@ -7811,6 +8425,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058304360",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058304360",
         "name": "\u00a7 355",
         "title": "Verletzung des Steuergeheimnisses",
         "parent": {
@@ -7824,6 +8439,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058402307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058402307",
         "name": "\u00a7 356",
         "title": "Parteiverrat",
         "parent": {
@@ -7837,6 +8453,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058502307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058502307",
         "name": "\u00a7 357",
         "title": "Verleitung eines Untergebenen zu einer Straftat",
         "parent": {
@@ -7850,6 +8467,7 @@
       {
         "type": "article",
         "id": "BJNR001270871BJNE058604307",
+        "url": "https://api.rechtsinformationsportal.de/laws/stgb/articles/BJNR001270871BJNE058604307",
         "name": "\u00a7 358",
         "title": "Nebenfolgen",
         "parent": {

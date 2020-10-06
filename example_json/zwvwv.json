@@ -27,6 +27,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000100000",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -37,6 +38,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000200000",
         "name": "\u00a7 1",
         "title": "Stellung",
         "parent": null,
@@ -47,6 +49,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000300000",
         "name": "\u00a7 2",
         "title": "Ausweis",
         "parent": null,
@@ -57,6 +60,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000400000",
         "name": "\u00a7 3",
         "title": "Besitzerlangung \u00fcber das Zwangsverwaltungsobjekt, Bericht",
         "parent": null,
@@ -67,6 +71,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000500000",
         "name": "\u00a7 4",
         "title": "Mitteilungspflicht",
         "parent": null,
@@ -77,6 +82,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000600000",
         "name": "\u00a7 5",
         "title": "Nutzungen des Zwangsverwaltungsobjektes",
         "parent": null,
@@ -87,6 +93,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000700000",
         "name": "\u00a7 6",
         "title": "Miet- und Pachtvertr\u00e4ge",
         "parent": null,
@@ -97,6 +104,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000800000",
         "name": "\u00a7 7",
         "title": "Rechtsverfolgung",
         "parent": null,
@@ -107,6 +115,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE000900000",
         "name": "\u00a7 8",
         "title": "R\u00fcckst\u00e4nde, Vorausverf\u00fcgungen",
         "parent": null,
@@ -117,6 +126,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001000000",
         "name": "\u00a7 9",
         "title": "Ausgaben der Zwangsverwaltung",
         "parent": null,
@@ -127,6 +137,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001100000",
         "name": "\u00a7 10",
         "title": "Zustimmungsvorbehalte",
         "parent": null,
@@ -137,6 +148,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001200000",
         "name": "\u00a7 11",
         "title": "Auszahlungen",
         "parent": null,
@@ -147,6 +159,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001300000",
         "name": "\u00a7 12",
         "title": "Beendigung der Zwangsverwaltung",
         "parent": null,
@@ -157,6 +170,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001400000",
         "name": "\u00a7 13",
         "title": "Masseverwaltung",
         "parent": null,
@@ -167,6 +181,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001500000",
         "name": "\u00a7 14",
         "title": "Buchf\u00fchrung der Zwangsverwaltung",
         "parent": null,
@@ -177,6 +192,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001600000",
         "name": "\u00a7 15",
         "title": "Gliederung der Einnahmen und Ausgaben",
         "parent": null,
@@ -187,6 +203,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001700000",
         "name": "\u00a7 16",
         "title": "Auskunftspflicht",
         "parent": null,
@@ -197,6 +214,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001800000",
         "name": "\u00a7 17",
         "title": "Verg\u00fctung und Auslagenersatz",
         "parent": null,
@@ -207,6 +225,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE001900000",
         "name": "\u00a7 18",
         "title": "Regelverg\u00fctung",
         "parent": null,
@@ -217,6 +236,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002000000",
         "name": "\u00a7 19",
         "title": "Abweichende Berechnung der Verg\u00fctung",
         "parent": null,
@@ -227,6 +247,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002100000",
         "name": "\u00a7 20",
         "title": "Mindestverg\u00fctung",
         "parent": null,
@@ -237,6 +258,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002200000",
         "name": "\u00a7 21",
         "title": "Auslagen",
         "parent": null,
@@ -247,6 +269,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002300000",
         "name": "\u00a7 22",
         "title": "Festsetzung",
         "parent": null,
@@ -257,6 +280,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002400000",
         "name": "\u00a7 23",
         "title": "Grundst\u00fccksgleiche Rechte",
         "parent": null,
@@ -267,6 +291,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002500000",
         "name": "\u00a7 24",
         "title": "Nichtanwendbarkeit der Verordnung",
         "parent": null,
@@ -277,6 +302,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002600000",
         "name": "\u00a7 25",
         "title": "\u00dcbergangsvorschrift",
         "parent": null,
@@ -287,6 +313,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002700000",
         "name": "\u00a7 26",
         "title": "Inkrafttreten, Au\u00dferkrafttreten",
         "parent": null,
@@ -297,6 +324,7 @@
       {
         "type": "article",
         "id": "BJNR280400003BJNE002800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/zwvwv/articles/BJNR280400003BJNE002800000",
         "name": "Schlussformel",
         "title": null,
         "parent": null,

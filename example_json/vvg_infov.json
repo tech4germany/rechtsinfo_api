@@ -32,6 +32,7 @@
       {
         "type": "article",
         "id": "BJNR300400007BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vvg_infov/articles/BJNR300400007BJNE000100000",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -42,6 +43,7 @@
       {
         "type": "article",
         "id": "BJNR300400007BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vvg_infov/articles/BJNR300400007BJNE000200000",
         "name": "\u00a7 1",
         "title": "Informationspflichten bei allen Versicherungszweigen",
         "parent": null,
@@ -52,6 +54,7 @@
       {
         "type": "article",
         "id": "BJNR300400007BJNE000303360",
+        "url": "https://api.rechtsinformationsportal.de/laws/vvg_infov/articles/BJNR300400007BJNE000303360",
         "name": "\u00a7 2",
         "title": "Informationspflichten bei der Lebensversicherung, der Berufsunf\u00e4higkeitsversicherung und der Unfallversicherung mit Pr\u00e4mienr\u00fcckgew\u00e4hr",
         "parent": null,
@@ -62,6 +65,7 @@
       {
         "type": "article",
         "id": "BJNR300400007BJNE000403118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vvg_infov/articles/BJNR300400007BJNE000403118",
         "name": "\u00a7 3",
         "title": "Informationspflichten bei der Krankenversicherung",
         "parent": null,
@@ -72,6 +76,7 @@
       {
         "type": "article",
         "id": "BJNR300400007BJNE000503118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vvg_infov/articles/BJNR300400007BJNE000503118",
         "name": "\u00a7 4",
         "title": "Produktinformationsblatt",
         "parent": null,
@@ -82,6 +87,7 @@
       {
         "type": "article",
         "id": "BJNR300400007BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/vvg_infov/articles/BJNR300400007BJNE000600000",
         "name": "\u00a7 5",
         "title": "Informationspflichten bei Telefongespr\u00e4chen",
         "parent": null,
@@ -92,6 +98,7 @@
       {
         "type": "article",
         "id": "BJNR300400007BJNE000701118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vvg_infov/articles/BJNR300400007BJNE000701118",
         "name": "\u00a7 6",
         "title": "Informationspflichten w\u00e4hrend der Laufzeit des Vertrages",
         "parent": null,
@@ -102,6 +109,7 @@
       {
         "type": "article",
         "id": "BJNR300400007BJNE000801118",
+        "url": "https://api.rechtsinformationsportal.de/laws/vvg_infov/articles/BJNR300400007BJNE000801118",
         "name": "\u00a7 7",
         "title": "\u00dcbergangsvorschrift",
         "parent": null,

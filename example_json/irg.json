@@ -36,6 +36,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001022125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001022125",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -46,6 +47,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000101307",
         "name": "Erster Teil",
         "title": "Anwendungsbereich",
         "parent": null
@@ -53,6 +55,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001205311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001205311",
         "name": "\u00a7 1",
         "title": "Anwendungsbereich",
         "parent": {
@@ -66,6 +69,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000201307",
         "name": "Zweiter Teil",
         "title": "Auslieferung an das Ausland",
         "parent": null
@@ -73,6 +77,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001301307",
         "name": "\u00a7 2",
         "title": "Grundsatz",
         "parent": {
@@ -86,6 +91,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001401307",
         "name": "\u00a7 3",
         "title": "Auslieferung zur Verfolgung oder zur Vollstreckung",
         "parent": {
@@ -99,6 +105,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001501307",
         "name": "\u00a7 4",
         "title": "Akzessorische Auslieferung",
         "parent": {
@@ -112,6 +119,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001601307",
         "name": "\u00a7 5",
         "title": "Gegenseitigkeit",
         "parent": {
@@ -125,6 +133,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001701307",
         "name": "\u00a7 6",
         "title": "Politische Straftaten, politische Verfolgung",
         "parent": {
@@ -138,6 +147,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001801307",
         "name": "\u00a7 7",
         "title": "Milit\u00e4rische Straftaten",
         "parent": {
@@ -151,6 +161,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE001901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE001901307",
         "name": "\u00a7 8",
         "title": "Todesstrafe",
         "parent": {
@@ -164,6 +175,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002001307",
         "name": "\u00a7 9",
         "title": "Konkurrierende Gerichtsbarkeit",
         "parent": {
@@ -177,6 +189,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE009600310",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE009600310",
         "name": "\u00a7 9a",
         "title": "Auslieferung und Verfahren vor internationalen Strafgerichtsh\u00f6fen",
         "parent": {
@@ -190,6 +203,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002101307",
         "name": "\u00a7 10",
         "title": "Auslieferungsunterlagen",
         "parent": {
@@ -203,6 +217,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002201307",
         "name": "\u00a7 11",
         "title": "Spezialit\u00e4t",
         "parent": {
@@ -216,6 +231,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002301307",
         "name": "\u00a7 12",
         "title": "Bewilligung der Auslieferung",
         "parent": {
@@ -229,6 +245,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002401307",
         "name": "\u00a7 13",
         "title": "Sachliche Zust\u00e4ndigkeit",
         "parent": {
@@ -242,6 +259,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002501307",
         "name": "\u00a7 14",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -255,6 +273,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002601307",
         "name": "\u00a7 15",
         "title": "Auslieferungshaft",
         "parent": {
@@ -268,6 +287,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002701307",
         "name": "\u00a7 16",
         "title": "Vorl\u00e4ufige Auslieferungshaft",
         "parent": {
@@ -281,6 +301,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002801307",
         "name": "\u00a7 17",
         "title": "Auslieferungshaftbefehl",
         "parent": {
@@ -294,6 +315,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE002902310",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE002902310",
         "name": "\u00a7 18",
         "title": "Fahndungsma\u00dfnahmen",
         "parent": {
@@ -307,6 +329,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003001307",
         "name": "\u00a7 19",
         "title": "Vorl\u00e4ufige Festnahme",
         "parent": {
@@ -320,6 +343,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003101307",
         "name": "\u00a7 20",
         "title": "Bekanntgabe",
         "parent": {
@@ -333,6 +357,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003202125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003202125",
         "name": "\u00a7 21",
         "title": "Verfahren nach Ergreifung auf Grund eines Auslieferungshaftbefehls",
         "parent": {
@@ -346,6 +371,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003302125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003302125",
         "name": "\u00a7 22",
         "title": "Verfahren nach vorl\u00e4ufiger Festnahme",
         "parent": {
@@ -359,6 +385,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003401307",
         "name": "\u00a7 23",
         "title": "Entscheidung \u00fcber Einwendungen des Verfolgten",
         "parent": {
@@ -372,6 +399,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003501307",
         "name": "\u00a7 24",
         "title": "Aufhebung des Auslieferungshaftbefehls",
         "parent": {
@@ -385,6 +413,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003602307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003602307",
         "name": "\u00a7 25",
         "title": "Aussetzung des Vollzugs des Auslieferungshaftbefehls",
         "parent": {
@@ -398,6 +427,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003701307",
         "name": "\u00a7 26",
         "title": "Haftpr\u00fcfung",
         "parent": {
@@ -411,6 +441,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003802160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003802160",
         "name": "\u00a7 27",
         "title": "Vollzug der Haft",
         "parent": {
@@ -424,6 +455,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE003902125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE003902125",
         "name": "\u00a7 28",
         "title": "Vernehmung des Verfolgten",
         "parent": {
@@ -437,6 +469,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004001307",
         "name": "\u00a7 29",
         "title": "Antrag auf Entscheidung \u00fcber die Zul\u00e4ssigkeit der Auslieferung",
         "parent": {
@@ -450,6 +483,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004101307",
         "name": "\u00a7 30",
         "title": "Vorbereitung der Entscheidung",
         "parent": {
@@ -463,6 +497,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004202125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004202125",
         "name": "\u00a7 31",
         "title": "Durchf\u00fchrung der m\u00fcndlichen Verhandlung",
         "parent": {
@@ -476,6 +511,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004302125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004302125",
         "name": "\u00a7 32",
         "title": "Entscheidung \u00fcber die Zul\u00e4ssigkeit",
         "parent": {
@@ -489,6 +525,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004401307",
         "name": "\u00a7 33",
         "title": "Erneute Entscheidung \u00fcber die Zul\u00e4ssigkeit",
         "parent": {
@@ -502,6 +539,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004501307",
         "name": "\u00a7 34",
         "title": "Haft zur Durchf\u00fchrung der Auslieferung",
         "parent": {
@@ -515,6 +553,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004601307",
         "name": "\u00a7 35",
         "title": "Erweiterung der Auslieferungsbewilligung",
         "parent": {
@@ -528,6 +567,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004701307",
         "name": "\u00a7 36",
         "title": "Weiterlieferung",
         "parent": {
@@ -541,6 +581,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004801307",
         "name": "\u00a7 37",
         "title": "Vor\u00fcbergehende Auslieferung",
         "parent": {
@@ -554,6 +595,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE004902311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE004902311",
         "name": "\u00a7 38",
         "title": "Herausgabe von Gegenst\u00e4nden im Auslieferungsverfahren",
         "parent": {
@@ -567,6 +609,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005002301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005002301",
         "name": "\u00a7 39",
         "title": "Beschlagnahme und Durchsuchung",
         "parent": {
@@ -580,6 +623,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005104125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005104125",
         "name": "\u00a7 40",
         "title": "Rechtsbeistand",
         "parent": {
@@ -593,6 +637,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005202301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005202301",
         "name": "\u00a7 41",
         "title": "Vereinfachte Auslieferung",
         "parent": {
@@ -606,6 +651,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005301307",
         "name": "\u00a7 42",
         "title": "Anrufung des Bundesgerichtshofes",
         "parent": {
@@ -619,6 +665,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000301307",
         "name": "Dritter Teil",
         "title": "Durchlieferung",
         "parent": null
@@ -626,6 +673,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005401307",
         "name": "\u00a7 43",
         "title": "Zul\u00e4ssigkeit der Durchlieferung",
         "parent": {
@@ -639,6 +687,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005501307",
         "name": "\u00a7 44",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -652,6 +701,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005602125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005602125",
         "name": "\u00a7 45",
         "title": "Durchlieferungsverfahren",
         "parent": {
@@ -665,6 +715,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005701307",
         "name": "\u00a7 46",
         "title": "Durchlieferung bei vor\u00fcbergehender Auslieferung",
         "parent": {
@@ -678,6 +729,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005802125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005802125",
         "name": "\u00a7 47",
         "title": "Unvorhergesehene Zwischenlandung bei Bef\u00f6rderung auf dem Luftweg",
         "parent": {
@@ -691,6 +743,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000401307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000401307",
         "name": "Vierter Teil",
         "title": "Rechtshilfe durch Vollstreckung\nausl\u00e4ndischer Erkenntnisse",
         "parent": null
@@ -698,6 +751,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE005904311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE005904311",
         "name": "\u00a7 48",
         "title": "Grundsatz",
         "parent": {
@@ -711,6 +765,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006005311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006005311",
         "name": "\u00a7 49",
         "title": "Weitere Voraussetzungen der Zul\u00e4ssigkeit",
         "parent": {
@@ -724,6 +779,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006101307",
         "name": "\u00a7 50",
         "title": "Sachliche Zust\u00e4ndigkeit",
         "parent": {
@@ -737,6 +793,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006204311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006204311",
         "name": "\u00a7 51",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -750,6 +807,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006304311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006304311",
         "name": "\u00a7 52",
         "title": "Vorbereitung der Entscheidung",
         "parent": {
@@ -763,6 +821,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006405125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006405125",
         "name": "\u00a7 53",
         "title": "Rechtsbeistand",
         "parent": {
@@ -776,6 +835,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006506311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006506311",
         "name": "\u00a7 54",
         "title": "Umwandlung der ausl\u00e4ndischen Sanktion",
         "parent": {
@@ -789,6 +849,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022700311",
         "name": "\u00a7 54a",
         "title": "Vollstreckung langer freiheitsentziehender Sanktionen",
         "parent": {
@@ -802,6 +863,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006606311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006606311",
         "name": "\u00a7 55",
         "title": "Entscheidung \u00fcber die Vollstreckbarkeit",
         "parent": {
@@ -815,6 +877,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006705311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006705311",
         "name": "\u00a7 56",
         "title": "Bewilligung der Rechtshilfe",
         "parent": {
@@ -828,6 +891,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE009304311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE009304311",
         "name": "\u00a7 56a",
         "title": "Entsch\u00e4digung der verletzten Person",
         "parent": {
@@ -841,6 +905,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015403311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015403311",
         "name": "\u00a7 56b",
         "title": "Vereinbarung \u00fcber die Verwertung, Herausgabe und Aufteilung des abgesch\u00f6pften Verm\u00f6gens",
         "parent": {
@@ -854,6 +919,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006804311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006804311",
         "name": "\u00a7 57",
         "title": "Vollstreckung",
         "parent": {
@@ -867,6 +933,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015501311",
         "name": "\u00a7 57a",
         "title": "Kosten der Vollstreckung",
         "parent": {
@@ -880,6 +947,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE006906311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE006906311",
         "name": "\u00a7 58",
         "title": "Sicherung der Vollstreckung",
         "parent": {
@@ -893,6 +961,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000501307",
         "name": "F\u00fcnfter Teil",
         "title": "Sonstige Rechtshilfe",
         "parent": null
@@ -900,6 +969,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007001307",
         "name": "\u00a7 59",
         "title": "Zul\u00e4ssigkeit der Rechtshilfe",
         "parent": {
@@ -913,6 +983,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007101307",
         "name": "\u00a7 60",
         "title": "Leistung der Rechtshilfe",
         "parent": {
@@ -926,6 +997,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007201307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007201307",
         "name": "\u00a7 61",
         "title": "Gerichtliche Entscheidung",
         "parent": {
@@ -939,6 +1011,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE011300301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE011300301",
         "name": "\u00a7 61a",
         "title": "Daten\u00fcbermittlung ohne Ersuchen",
         "parent": {
@@ -952,6 +1025,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015300160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015300160",
         "name": "\u00a7 61b",
         "title": "Gemeinsame Ermittlungsgruppen",
         "parent": {
@@ -965,6 +1039,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE011401160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE011401160",
         "name": "\u00a7 61c",
         "title": "Audiovisuelle Vernehmung",
         "parent": {
@@ -978,6 +1053,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007301307",
         "name": "\u00a7 62",
         "title": "Vor\u00fcbergehende \u00dcberstellung in das Ausland f\u00fcr ein\nausl\u00e4ndisches Verfahren",
         "parent": {
@@ -991,6 +1067,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007402311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007402311",
         "name": "\u00a7 63",
         "title": "Vor\u00fcbergehende \u00dcberstellung aus dem Ausland f\u00fcr ein ausl\u00e4ndisches Verfahren",
         "parent": {
@@ -1004,6 +1081,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007501307",
         "name": "\u00a7 64",
         "title": "Durchbef\u00f6rderung von Zeugen",
         "parent": {
@@ -1017,6 +1095,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007601307",
         "name": "\u00a7 65",
         "title": "Durchbef\u00f6rderung zur Vollstreckung",
         "parent": {
@@ -1030,6 +1109,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007703311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007703311",
         "name": "\u00a7 66",
         "title": "Herausgabe von Gegenst\u00e4nden",
         "parent": {
@@ -1043,6 +1123,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007802301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007802301",
         "name": "\u00a7 67",
         "title": "Beschlagnahme und Durchsuchung",
         "parent": {
@@ -1056,6 +1137,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE009402160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE009402160",
         "name": "\u00a7 67a",
         "title": "Rechtshilfe f\u00fcr internationale Strafgerichtsh\u00f6fe, zwischen- und \u00fcberstaatliche Einrichtungen",
         "parent": {
@@ -1069,6 +1151,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000601307",
         "name": "Sechster Teil",
         "title": "Ausgehende Ersuchen",
         "parent": null
@@ -1076,6 +1159,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE007901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE007901307",
         "name": "\u00a7 68",
         "title": "R\u00fccklieferung",
         "parent": {
@@ -1089,6 +1173,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008002311",
         "name": "\u00a7 69",
         "title": "Vor\u00fcbergehende \u00dcberstellung aus dem Ausland f\u00fcr ein deutsches Verfahren",
         "parent": {
@@ -1102,6 +1187,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008101307",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008101307",
         "name": "\u00a7 70",
         "title": "Vor\u00fcbergehende \u00dcberstellung in das Ausland f\u00fcr ein deutsches\nVerfahren",
         "parent": {
@@ -1115,6 +1201,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008204311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008204311",
         "name": "\u00a7 71",
         "title": "Vollstreckung deutscher Erkenntnisse im Ausland",
         "parent": {
@@ -1128,6 +1215,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE014602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE014602311",
         "name": "\u00a7 71a",
         "title": "Vereinbarung \u00fcber die Verwertung, Herausgabe und Aufteilung des abgesch\u00f6pften Verm\u00f6gens",
         "parent": {
@@ -1141,6 +1229,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008302311",
         "name": "\u00a7 72",
         "title": "Bedingungen",
         "parent": {
@@ -1154,6 +1243,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000702125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000702125",
         "name": "Siebenter Teil",
         "title": "Gemeinsame Vorschriften",
         "parent": null
@@ -1161,6 +1251,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG001401125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG001401125",
         "name": "Abschnitt 1",
         "title": "Allgemeine Regelungen",
         "parent": {
@@ -1171,6 +1262,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008406311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008406311",
         "name": "\u00a7 73",
         "title": "Grenze der Rechtshilfe",
         "parent": {
@@ -1184,6 +1276,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008509311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008509311",
         "name": "\u00a7 74",
         "title": "Zust\u00e4ndigkeit des Bundes",
         "parent": {
@@ -1197,6 +1290,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE009502160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE009502160",
         "name": "\u00a7 74a",
         "title": "Internationale Strafgerichtsh\u00f6fe, zwischen- und \u00fcberstaatliche Einrichtungen",
         "parent": {
@@ -1210,6 +1304,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008602311",
         "name": "\u00a7 75",
         "title": "Kosten",
         "parent": {
@@ -1223,6 +1318,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008702311",
         "name": "\u00a7 76",
         "title": "Gegenseitigkeitszusicherung",
         "parent": {
@@ -1236,6 +1332,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE008804311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE008804311",
         "name": "\u00a7 77",
         "title": "Anwendung anderer Verfahrensvorschriften",
         "parent": {
@@ -1249,6 +1346,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015603311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015603311",
         "name": "\u00a7 77a",
         "title": "Elektronische Kommunikation und Aktenf\u00fchrung",
         "parent": {
@@ -1262,6 +1360,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015701311",
         "name": "\u00a7 77b",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1275,6 +1374,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG003600125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG003600125",
         "name": "Abschnitt 2",
         "title": "Schutz personenbezogener Daten im Rechtshilfeverkehr",
         "parent": {
@@ -1285,6 +1385,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024400125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024400125",
         "name": "\u00a7 77c",
         "title": "Anwendungsbereich",
         "parent": {
@@ -1298,6 +1399,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024500125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024500125",
         "name": "\u00a7 77d",
         "title": "\u00dcbermittlung personenbezogener Daten",
         "parent": {
@@ -1311,6 +1413,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024600125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024600125",
         "name": "\u00a7 77e",
         "title": "Pr\u00fcf-, Informations- und Protokollierungspflichten der \u00fcbermittelnden Stelle",
         "parent": {
@@ -1324,6 +1427,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024700125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024700125",
         "name": "\u00a7 77f",
         "title": "Verfahren bei Fehlen eines Angemessenheitsbeschlusses",
         "parent": {
@@ -1337,6 +1441,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024800125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024800125",
         "name": "\u00a7 77g",
         "title": "Zustimmung zur Weiterleitung personenbezogener Daten",
         "parent": {
@@ -1350,6 +1455,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024900125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024900125",
         "name": "\u00a7 77h",
         "title": "Verwendung von \u00fcbermittelten personenbezogenen Daten",
         "parent": {
@@ -1363,6 +1469,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000804160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000804160",
         "name": "Achter Teil",
         "title": "Auslieferungs- und Durchlieferungsverkehr mit Mitgliedstaaten der Europ\u00e4ischen Union",
         "parent": null
@@ -1370,6 +1477,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG001400301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG001400301",
         "name": "Abschnitt 1",
         "title": "Allgemeine Regelungen",
         "parent": {
@@ -1380,6 +1488,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE011701160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE011701160",
         "name": "\u00a7 78",
         "title": "Vorrang des Achten Teils",
         "parent": {
@@ -1393,6 +1502,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE011800301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE011800301",
         "name": "\u00a7 79",
         "title": "Grunds\u00e4tzliche Pflicht zur Bewilligung; Vorabentscheidung",
         "parent": {
@@ -1406,6 +1516,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG001500301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG001500301",
         "name": "Abschnitt 2",
         "title": "Auslieferung an einen Mitgliedstaat der \nEurop\u00e4ischen Union",
         "parent": {
@@ -1416,6 +1527,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE011901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE011901311",
         "name": "\u00a7 80",
         "title": "Auslieferung deutscher Staatsangeh\u00f6riger",
         "parent": {
@@ -1429,6 +1541,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012002311",
         "name": "\u00a7 81",
         "title": "Auslieferung zur Verfolgung oder zur Vollstreckung",
         "parent": {
@@ -1442,6 +1555,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012100301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012100301",
         "name": "\u00a7 82",
         "title": "Nichtanwendung von Vorschriften",
         "parent": {
@@ -1455,6 +1569,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012201311",
         "name": "\u00a7 83",
         "title": "Erg\u00e4nzende Zul\u00e4ssigkeitsvoraussetzungen",
         "parent": {
@@ -1468,6 +1583,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012301311",
         "name": "\u00a7 83a",
         "title": "Auslieferungsunterlagen",
         "parent": {
@@ -1481,6 +1597,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012602311",
         "name": "\u00a7 83b",
         "title": "Bewilligungshindernisse",
         "parent": {
@@ -1494,6 +1611,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012705125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012705125",
         "name": "\u00a7 83c",
         "title": "Verfahren und Fristen",
         "parent": {
@@ -1507,6 +1625,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012401311",
         "name": "\u00a7 83d",
         "title": "Entlassung des Verfolgten",
         "parent": {
@@ -1520,6 +1639,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012500301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012500301",
         "name": "\u00a7 83e",
         "title": "Vernehmung des Verfolgten",
         "parent": {
@@ -1533,6 +1653,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG001600301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG001600301",
         "name": "Abschnitt 3",
         "title": "Durchlieferung an einen Mitgliedstaat der \nEurop\u00e4ischen Union",
         "parent": {
@@ -1543,6 +1664,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012802311",
         "name": "\u00a7 83f",
         "title": "Durchlieferung",
         "parent": {
@@ -1556,6 +1678,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE012900301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE012900301",
         "name": "\u00a7 83g",
         "title": "Bef\u00f6rderung auf dem Luftweg",
         "parent": {
@@ -1569,6 +1692,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG001700301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG001700301",
         "name": "Abschnitt 4",
         "title": "Ausgehende Ersuchen um Auslieferung an einen\nMitgliedstaat der Europ\u00e4ischen Union",
         "parent": {
@@ -1579,6 +1703,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013000301",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013000301",
         "name": "\u00a7 83h",
         "title": "Spezialit\u00e4t",
         "parent": {
@@ -1592,6 +1717,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013101311",
         "name": "\u00a7 83i",
         "title": "Unterrichtung \u00fcber Fristverz\u00f6gerungen",
         "parent": {
@@ -1605,6 +1731,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE011502125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE011502125",
         "name": "\u00a7 83j",
         "title": "Rechtsbeistand",
         "parent": {
@@ -1618,6 +1745,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG000902160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG000902160",
         "name": "Neunter Teil",
         "title": "Vollstreckungshilfeverkehr mit den Mitgliedstaaten der Europ\u00e4ischen Union",
         "parent": null
@@ -1625,6 +1753,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG001801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG001801311",
         "name": "Abschnitt 1",
         "title": "Freiheitsentziehende Sanktionen",
         "parent": {
@@ -1635,6 +1764,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002900311",
         "name": "Unterabschnitt 1",
         "title": "Vollstreckung ausl\u00e4ndischer Erkenntnisse in der Bundesrepublik Deutschland",
         "parent": {
@@ -1645,6 +1775,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE009005311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE009005311",
         "name": "\u00a7 84",
         "title": "Grundsatz",
         "parent": {
@@ -1658,6 +1789,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019200311",
         "name": "\u00a7 84a",
         "title": "Voraussetzungen der Zul\u00e4ssigkeit",
         "parent": {
@@ -1671,6 +1803,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019300311",
         "name": "\u00a7 84b",
         "title": "Erg\u00e4nzende Zul\u00e4ssigkeitsvoraussetzungen",
         "parent": {
@@ -1684,6 +1817,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019400311",
         "name": "\u00a7 84c",
         "title": "Unterlagen",
         "parent": {
@@ -1697,6 +1831,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019500311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019500311",
         "name": "\u00a7 84d",
         "title": "Bewilligungshindernisse",
         "parent": {
@@ -1710,6 +1845,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019600311",
         "name": "\u00a7 84e",
         "title": "Vorl\u00e4ufige Bewilligungsentscheidung",
         "parent": {
@@ -1723,6 +1859,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019700311",
         "name": "\u00a7 84f",
         "title": "Gerichtliches Verfahren",
         "parent": {
@@ -1736,6 +1873,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019800311",
         "name": "\u00a7 84g",
         "title": "Gerichtliche Entscheidung",
         "parent": {
@@ -1749,6 +1887,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019900311",
         "name": "\u00a7 84h",
         "title": "Bewilligung nach gerichtlicher Entscheidung",
         "parent": {
@@ -1762,6 +1901,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020000311",
         "name": "\u00a7 84i",
         "title": "Spezialit\u00e4t",
         "parent": {
@@ -1775,6 +1915,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020100311",
         "name": "\u00a7 84j",
         "title": "Sicherung der Vollstreckung",
         "parent": {
@@ -1788,6 +1929,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020200311",
         "name": "\u00a7 84k",
         "title": "Erg\u00e4nzende Regelungen zur Vollstreckung",
         "parent": {
@@ -1801,6 +1943,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020300311",
         "name": "\u00a7 84l",
         "title": "Durchbef\u00f6rderung zur Vollstreckung",
         "parent": {
@@ -1814,6 +1957,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020400311",
         "name": "\u00a7 84m",
         "title": "Durchbef\u00f6rderungsverfahren",
         "parent": {
@@ -1827,6 +1971,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020500311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020500311",
         "name": "\u00a7 84n",
         "title": "Durchbef\u00f6rderung auf dem Luftweg",
         "parent": {
@@ -1840,6 +1985,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG003000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG003000311",
         "name": "Unterabschnitt 2",
         "title": "Vollstreckung deutscher Erkenntnisse in einem anderen Mitgliedstaat der Europ\u00e4ischen Union",
         "parent": {
@@ -1850,6 +1996,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE009105311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE009105311",
         "name": "\u00a7 85",
         "title": "Vorl\u00e4ufige Bewilligungsentscheidung",
         "parent": {
@@ -1863,6 +2010,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020600311",
         "name": "\u00a7 85a",
         "title": "Gerichtliches Verfahren",
         "parent": {
@@ -1876,6 +2024,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020700311",
         "name": "\u00a7 85b",
         "title": "Gerichtliche Entscheidung auf Antrag der verurteilten Person",
         "parent": {
@@ -1889,6 +2038,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020800311",
         "name": "\u00a7 85c",
         "title": "Gerichtliche Entscheidung auf Antrag der Vollstreckungsbeh\u00f6rde",
         "parent": {
@@ -1902,6 +2052,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE020900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE020900311",
         "name": "\u00a7 85d",
         "title": "Bewilligung nach gerichtlicher Entscheidung",
         "parent": {
@@ -1915,6 +2066,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021000311",
         "name": "\u00a7 85e",
         "title": "Inl\u00e4ndisches Vollstreckungsverfahren",
         "parent": {
@@ -1928,6 +2080,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021100311",
         "name": "\u00a7 85f",
         "title": "Sicherung der weiteren Vollstreckung",
         "parent": {
@@ -1941,6 +2094,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG001901160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG001901160",
         "name": "Abschnitt 2",
         "title": "Geldsanktionen",
         "parent": {
@@ -1951,6 +2105,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002500160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002500160",
         "name": "Unterabschnitt 1",
         "title": "Allgemeine Regelungen",
         "parent": {
@@ -1961,6 +2116,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE009205160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE009205160",
         "name": "\u00a7 86",
         "title": "Vorrang",
         "parent": {
@@ -1974,6 +2130,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002600160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002600160",
         "name": "Unterabschnitt 2",
         "title": "Eingehende Ersuchen",
         "parent": {
@@ -1984,6 +2141,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013204311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013204311",
         "name": "\u00a7 87",
         "title": "Grundsatz",
         "parent": {
@@ -1997,6 +2155,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015801311",
         "name": "\u00a7 87a",
         "title": "Vollstreckungsunterlagen",
         "parent": {
@@ -2010,6 +2169,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015901311",
         "name": "\u00a7 87b",
         "title": "Zul\u00e4ssigkeitsvoraussetzungen",
         "parent": {
@@ -2023,6 +2183,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016000160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016000160",
         "name": "\u00a7 87c",
         "title": "Vorbereitung der Entscheidung \u00fcber die Bewilligung",
         "parent": {
@@ -2036,6 +2197,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016200160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016200160",
         "name": "\u00a7 87d",
         "title": "Grunds\u00e4tzliche Pflicht zur Bewilligung",
         "parent": {
@@ -2049,6 +2211,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016301125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016301125",
         "name": "\u00a7 87e",
         "title": "Rechtsbeistand",
         "parent": {
@@ -2062,6 +2225,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016400160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016400160",
         "name": "\u00a7 87f",
         "title": "Bewilligung der Vollstreckung",
         "parent": {
@@ -2075,6 +2239,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016500160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016500160",
         "name": "\u00a7 87g",
         "title": "Gerichtliches Verfahren",
         "parent": {
@@ -2088,6 +2253,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016600160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016600160",
         "name": "\u00a7 87h",
         "title": "Gerichtliche Entscheidung nach Einspruch",
         "parent": {
@@ -2101,6 +2267,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016700160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016700160",
         "name": "\u00a7 87i",
         "title": "Gerichtliche Entscheidung auf Antrag der Bewilligungsbeh\u00f6rde; Bewilligung",
         "parent": {
@@ -2114,6 +2281,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016800160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016800160",
         "name": "\u00a7 87j",
         "title": "Rechtsbeschwerde",
         "parent": {
@@ -2127,6 +2295,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE016900160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE016900160",
         "name": "\u00a7 87k",
         "title": "Zulassung der Rechtsbeschwerde",
         "parent": {
@@ -2140,6 +2309,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017000160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017000160",
         "name": "\u00a7 87l",
         "title": "Besetzung der Senate der Oberlandesgerichte",
         "parent": {
@@ -2153,6 +2323,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017100160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017100160",
         "name": "\u00a7 87m",
         "title": "Verbot der Doppelverfolgung; Mitteilung an das Bundeszentralregister",
         "parent": {
@@ -2166,6 +2337,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017201311",
         "name": "\u00a7 87n",
         "title": "Vollstreckung",
         "parent": {
@@ -2179,6 +2351,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002700160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002700160",
         "name": "Unterabschnitt 3",
         "title": "Ausgehende Ersuchen",
         "parent": {
@@ -2189,6 +2362,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017301311",
         "name": "\u00a7 87o",
         "title": "Grundsatz",
         "parent": {
@@ -2202,6 +2376,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017400160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017400160",
         "name": "\u00a7 87p",
         "title": "Inl\u00e4ndisches Vollstreckungsverfahren",
         "parent": {
@@ -2215,6 +2390,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002001311",
         "name": "Abschnitt 3",
         "title": "Einziehung",
         "parent": {
@@ -2225,6 +2401,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013302311",
         "name": "\u00a7 88",
         "title": "Grundsatz",
         "parent": {
@@ -2238,6 +2415,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE014702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE014702311",
         "name": "\u00a7 88a",
         "title": "Voraussetzungen der Zul\u00e4ssigkeit",
         "parent": {
@@ -2251,6 +2429,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE014802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE014802311",
         "name": "\u00a7 88b",
         "title": "Unterlagen",
         "parent": {
@@ -2264,6 +2443,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE014902311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE014902311",
         "name": "\u00a7 88c",
         "title": "Ablehnungsgr\u00fcnde",
         "parent": {
@@ -2277,6 +2457,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015002311",
         "name": "\u00a7 88d",
         "title": "Verfahren",
         "parent": {
@@ -2290,6 +2471,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015100160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015100160",
         "name": "\u00a7 88e",
         "title": "Vollstreckung",
         "parent": {
@@ -2303,6 +2485,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE015200160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE015200160",
         "name": "\u00a7 88f",
         "title": "Aufteilung der Ertr\u00e4ge",
         "parent": {
@@ -2316,6 +2499,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013401311",
         "name": "\u00a7 89",
         "title": "Sicherstellungsma\u00dfnahmen",
         "parent": {
@@ -2329,6 +2513,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013503311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013503311",
         "name": "\u00a7 90",
         "title": "Ausgehende Ersuchen",
         "parent": {
@@ -2342,6 +2527,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG003100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG003100311",
         "name": "Abschnitt 4",
         "title": "Bew\u00e4hrungsma\u00dfnahmen und alternative Sanktionen",
         "parent": {
@@ -2352,6 +2538,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG003200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG003200311",
         "name": "Unterabschnitt 1",
         "title": "\u00dcberwachung von ausl\u00e4ndischen Bew\u00e4hrungsma\u00dfnahmen und alternativen Sanktionen in der Bundesrepublik Deutschland",
         "parent": {
@@ -2362,6 +2549,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021200311",
         "name": "\u00a7 90a",
         "title": "Grundsatz",
         "parent": {
@@ -2375,6 +2563,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021300311",
         "name": "\u00a7 90b",
         "title": "Voraussetzungen der Zul\u00e4ssigkeit",
         "parent": {
@@ -2388,6 +2577,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021400311",
         "name": "\u00a7 90c",
         "title": "Erg\u00e4nzende Zul\u00e4ssigkeitsvoraussetzungen",
         "parent": {
@@ -2401,6 +2591,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021500311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021500311",
         "name": "\u00a7 90d",
         "title": "Unterlagen",
         "parent": {
@@ -2414,6 +2605,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021600311",
         "name": "\u00a7 90e",
         "title": "Bewilligungshindernisse",
         "parent": {
@@ -2427,6 +2619,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021700311",
         "name": "\u00a7 90f",
         "title": "Vorl\u00e4ufige Bewilligungsentscheidung",
         "parent": {
@@ -2440,6 +2633,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021800311",
         "name": "\u00a7 90g",
         "title": "Gerichtliches Verfahren",
         "parent": {
@@ -2453,6 +2647,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE021900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE021900311",
         "name": "\u00a7 90h",
         "title": "Gerichtliche Entscheidung",
         "parent": {
@@ -2466,6 +2661,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022000311",
         "name": "\u00a7 90i",
         "title": "Bewilligung nach gerichtlicher Entscheidung",
         "parent": {
@@ -2479,6 +2675,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022100311",
         "name": "\u00a7 90j",
         "title": "Erg\u00e4nzende Regelungen zur Vollstreckung",
         "parent": {
@@ -2492,6 +2689,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022200311",
         "name": "\u00a7 90k",
         "title": "\u00dcberwachung der verurteilten Person",
         "parent": {
@@ -2505,6 +2703,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG003300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG003300311",
         "name": "Unterabschnitt 2",
         "title": "\u00dcberwachung von deutschen Bew\u00e4hrungsma\u00dfnahmen in einem anderen Mitgliedstaat der Europ\u00e4ischen Union",
         "parent": {
@@ -2515,6 +2714,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022300311",
         "name": "\u00a7 90l",
         "title": "Bewilligung der Vollstreckung und \u00dcberwachung",
         "parent": {
@@ -2528,6 +2728,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022400311",
         "name": "\u00a7 90m",
         "title": "Gerichtliches Verfahren auf Antrag der verurteilten Person",
         "parent": {
@@ -2541,6 +2742,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022500311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022500311",
         "name": "\u00a7 90n",
         "title": "Inl\u00e4ndisches Vollstreckungsverfahren",
         "parent": {
@@ -2554,6 +2756,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002800311",
         "name": "Abschnitt 5",
         "title": "\u00dcberwachung von Ma\u00dfnahmen zur Vermeidung von Untersuchungshaft",
         "parent": {
@@ -2564,6 +2767,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017900311",
         "name": "\u00a7 90o",
         "title": "Grundsatz",
         "parent": {
@@ -2577,6 +2781,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018000311",
         "name": "\u00a7 90p",
         "title": "Voraussetzungen der Zul\u00e4ssigkeit",
         "parent": {
@@ -2590,6 +2795,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018100311",
         "name": "\u00a7 90q",
         "title": "Unterlagen",
         "parent": {
@@ -2603,6 +2809,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018200311",
         "name": "\u00a7 90r",
         "title": "Bewilligungshindernisse",
         "parent": {
@@ -2616,6 +2823,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018300311",
         "name": "\u00a7 90s",
         "title": "Vorl\u00e4ufige Bewilligungsentscheidung",
         "parent": {
@@ -2629,6 +2837,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018400311",
         "name": "\u00a7 90t",
         "title": "Gerichtliches Verfahren",
         "parent": {
@@ -2642,6 +2851,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018500311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018500311",
         "name": "\u00a7 90u",
         "title": "Gerichtliche Zul\u00e4ssigkeitsentscheidung",
         "parent": {
@@ -2655,6 +2865,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018600311",
         "name": "\u00a7 90v",
         "title": "Bewilligung nach gerichtlicher Entscheidung",
         "parent": {
@@ -2668,6 +2879,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018700311",
         "name": "\u00a7 90w",
         "title": "Durchf\u00fchrung der \u00dcberwachung",
         "parent": {
@@ -2681,6 +2893,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018800311",
         "name": "\u00a7 90x",
         "title": "Erneuerte und ge\u00e4nderte Ma\u00dfnahmen",
         "parent": {
@@ -2694,6 +2907,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE018900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE018900311",
         "name": "\u00a7 90y",
         "title": "Abgabe der \u00dcberwachung",
         "parent": {
@@ -2707,6 +2921,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019000311",
         "name": "\u00a7 90z",
         "title": "R\u00fccknahme der \u00dcberwachungsabgabe",
         "parent": {
@@ -2720,6 +2935,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002100160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002100160",
         "name": "Zehnter Teil",
         "title": "Sonstiger Rechtshilfeverkehr mit den Mitgliedstaaten der Europ\u00e4ischen Union",
         "parent": null
@@ -2727,6 +2943,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002200160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002200160",
         "name": "Abschnitt 1",
         "title": "Allgemeine Regelungen",
         "parent": {
@@ -2737,6 +2954,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013601308",
         "name": "\u00a7 91",
         "title": "Vorrang des Zehnten Teils",
         "parent": {
@@ -2750,6 +2968,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG003400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG003400311",
         "name": "Abschnitt 2",
         "title": "Europ\u00e4ische Ermittlungsanordnung",
         "parent": {
@@ -2760,6 +2979,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022801311",
         "name": "\u00a7 91a",
         "title": "Grundsatz",
         "parent": {
@@ -2773,6 +2993,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022900311",
         "name": "\u00a7 91b",
         "title": "Voraussetzungen der Zul\u00e4ssigkeit",
         "parent": {
@@ -2786,6 +3007,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023000311",
         "name": "\u00a7 91c",
         "title": "Erg\u00e4nzende Zul\u00e4ssigkeitsvoraussetzungen f\u00fcr besondere Formen der Rechtshilfe",
         "parent": {
@@ -2799,6 +3021,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023100311",
         "name": "\u00a7 91d",
         "title": "Unterlagen",
         "parent": {
@@ -2812,6 +3035,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023200311",
         "name": "\u00a7 91e",
         "title": "Bewilligung; Bewilligungshindernisse; Aufschub der Bewilligung",
         "parent": {
@@ -2825,6 +3049,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023300311",
         "name": "\u00a7 91f",
         "title": "R\u00fcckgriff auf andere Ermittlungsma\u00dfnahmen",
         "parent": {
@@ -2838,6 +3063,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023400311",
         "name": "\u00a7 91g",
         "title": "Fristen",
         "parent": {
@@ -2851,6 +3077,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023500311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023500311",
         "name": "\u00a7 91h",
         "title": "Erledigung des Ersuchens",
         "parent": {
@@ -2864,6 +3091,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023600311",
         "name": "\u00a7 91i",
         "title": "Rechtsbehelfe; Aufschub der \u00dcbermittlung von Beweismitteln",
         "parent": {
@@ -2877,6 +3105,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023700311",
         "name": "\u00a7 91j",
         "title": "Ausgehende Ersuchen",
         "parent": {
@@ -2890,6 +3119,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG002301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002301311",
         "name": "Abschnitt 3",
         "title": "Besondere Formen der Rechtshilfe",
         "parent": {
@@ -2900,6 +3130,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017600308",
         "name": "\u00a7 92",
         "title": "\u00dcbermittlung von Informationen einschlie\u00dflich personenbezogener Daten an Mitgliedstaaten der Europ\u00e4ischen Union",
         "parent": {
@@ -2913,6 +3144,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017700308",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017700308",
         "name": "\u00a7 92a",
         "title": "Inhalt des Ersuchens",
         "parent": {
@@ -2926,6 +3158,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017800308",
         "name": "\u00a7 92b",
         "title": "Verwendung von nach dem Rahmenbeschluss 2006/960/JI \u00fcbermittelten Informationen einschlie\u00dflich personenbezogener Daten",
         "parent": {
@@ -2939,6 +3172,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013701308",
         "name": "\u00a7 92c",
         "title": "Daten\u00fcbermittlung ohne Ersuchen",
         "parent": {
@@ -2952,6 +3186,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023800311",
         "name": "\u00a7 92d",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit f\u00fcr Ersuchen um \u00dcberwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2965,6 +3200,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013801160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013801160",
         "name": "\u00a7 93",
         "title": "Gemeinsame Ermittlungsgruppen",
         "parent": {
@@ -2978,6 +3214,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE013903311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE013903311",
         "name": "\u00a7 94",
         "title": "Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung",
         "parent": {
@@ -2991,6 +3228,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE014002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE014002311",
         "name": "\u00a7 95",
         "title": "Sicherungsunterlagen",
         "parent": {
@@ -3004,6 +3242,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE014100160",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE014100160",
         "name": "\u00a7 96",
         "title": "Grunds\u00e4tzliche Pflicht zur Bewilligung von Sicherstellungsma\u00dfnahmen",
         "parent": {
@@ -3017,6 +3256,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE014202311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE014202311",
         "name": "\u00a7 97",
         "title": "(weggefallen)",
         "parent": {
@@ -3030,6 +3270,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG003700125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG003700125",
         "name": "Elfter Teil",
         "title": "Schutz personenbezogener Daten im Rechtshilfeverkehr innerhalb der Europ\u00e4ischen Union und mit den Schengen-assoziierten Staaten",
         "parent": null
@@ -3037,6 +3278,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE025000125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE025000125",
         "name": "\u00a7 97a",
         "title": "Anwendungsbereich",
         "parent": {
@@ -3050,6 +3292,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE025100125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE025100125",
         "name": "\u00a7 97b",
         "title": "\u00dcbermittlung personenbezogener Daten",
         "parent": {
@@ -3063,6 +3306,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE025200125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE025200125",
         "name": "\u00a7 97c",
         "title": "Pr\u00fcf-, Informations- und Protokollierungspflichten der \u00fcbermittelnden Stelle",
         "parent": {
@@ -3076,6 +3320,7 @@
       {
         "type": "heading",
         "id": "BJNR020710982BJNG003502125",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG003502125",
         "name": "Zw\u00f6lfter Teil",
         "title": "Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem K\u00f6nigreich Norwegen (doppelt)",
         "parent": null
@@ -3083,6 +3328,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024200311",
         "name": "\u00a7 98",
         "title": "Vorrang des Elften Teils",
         "parent": {
@@ -3096,6 +3342,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024300311",
         "name": "\u00a7 99",
         "title": "Grunds\u00e4tzliche Pflicht zur Bewilligung",
         "parent": {
@@ -3109,6 +3356,7 @@
       {
         "type": "headingArticle",
         "id": "BJNR020710982BJNG002401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNG002401311",
         "name": "Zw\u00f6lfter Teil",
         "title": "Schlussvorschriften",
         "parent": {
@@ -3122,6 +3370,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE017502311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE017502311",
         "name": "\u00a7 100",
         "title": "Anwendungsvorbehalt; Stichtagsregelung",
         "parent": {
@@ -3135,6 +3384,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE019101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE019101311",
         "name": "\u00a7 101",
         "title": "\u00dcbergangsvorschrift f\u00fcr Ersuchen, die auf einer Abwesenheitsentscheidung beruhen",
         "parent": {
@@ -3148,6 +3398,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE022601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE022601311",
         "name": "\u00a7 102",
         "title": "\u00dcbergangsvorschrift f\u00fcr die Vollstreckung freiheitsentziehender Sanktionen",
         "parent": {
@@ -3161,6 +3412,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE023901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE023901311",
         "name": "\u00a7 103",
         "title": "\u00dcbergangsvorschrift f\u00fcr Ersuchen um sonstige Rechtshilfe",
         "parent": {
@@ -3174,6 +3426,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024001311",
         "name": "\u00a7 104",
         "title": "Gleichstellung von ausl\u00e4ndischen mit inl\u00e4ndischen Amtstr\u00e4gern bei Amtshandlungen in der Bundesrepublik Deutschland",
         "parent": {
@@ -3187,6 +3440,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE024101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE024101311",
         "name": "\u00a7 105",
         "title": "Ausgleich von Sch\u00e4den",
         "parent": {
@@ -3200,6 +3454,7 @@
       {
         "type": "article",
         "id": "BJNR020710982BJNE014302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/irg/articles/BJNR020710982BJNE014302311",
         "name": "\u00a7 106",
         "title": "Einschr\u00e4nkung von Grundrechten",
         "parent": {

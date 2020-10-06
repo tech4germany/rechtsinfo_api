@@ -32,6 +32,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG000100000",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -39,6 +40,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE000200000",
         "name": "\u00a7 1",
         "title": "Ziele des Insolvenzverfahrens",
         "parent": {
@@ -52,6 +54,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE000301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE000301311",
         "name": "\u00a7 2",
         "title": "Amtsgericht als Insolvenzgericht",
         "parent": {
@@ -65,6 +68,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE000400000",
         "name": "\u00a7 3",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -78,6 +82,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041600311",
         "name": "\u00a7 3a",
         "title": "Gruppen-Gerichtsstand",
         "parent": {
@@ -91,6 +96,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041700311",
         "name": "\u00a7 3b",
         "title": "Fortbestehen des Gruppen-Gerichtsstands",
         "parent": {
@@ -104,6 +110,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041800311",
         "name": "\u00a7 3c",
         "title": "Zust\u00e4ndigkeit f\u00fcr Gruppen-Folgeverfahren",
         "parent": {
@@ -117,6 +124,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041900311",
         "name": "\u00a7 3d",
         "title": "Verweisung an den Gruppen-Gerichtsstand",
         "parent": {
@@ -130,6 +138,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042000311",
         "name": "\u00a7 3e",
         "title": "Unternehmensgruppe",
         "parent": {
@@ -143,6 +152,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE000500000",
         "name": "\u00a7 4",
         "title": "Anwendbarkeit der Zivilproze\u00dfordnung",
         "parent": {
@@ -156,6 +166,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036101311",
         "name": "\u00a7 4a",
         "title": "Stundung der Kosten des Insolvenzverfahrens",
         "parent": {
@@ -169,6 +180,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036201311",
         "name": "\u00a7 4b",
         "title": "R\u00fcckzahlung und Anpassung der gestundeten Betr\u00e4ge",
         "parent": {
@@ -182,6 +194,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036301311",
         "name": "\u00a7 4c",
         "title": "Aufhebung der Stundung",
         "parent": {
@@ -195,6 +208,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036400301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036400301",
         "name": "\u00a7 4d",
         "title": "Rechtsmittel",
         "parent": {
@@ -208,6 +222,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE000603311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE000603311",
         "name": "\u00a7 5",
         "title": "Verfahrensgrunds\u00e4tze",
         "parent": {
@@ -221,6 +236,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE000702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE000702308",
         "name": "\u00a7 6",
         "title": "Sofortige Beschwerde",
         "parent": {
@@ -234,6 +250,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE000802308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE000802308",
         "name": "\u00a7 7",
         "title": "(weggefallen)",
         "parent": {
@@ -247,6 +264,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE000902301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE000902301",
         "name": "\u00a7 8",
         "title": "Zustellungen",
         "parent": {
@@ -260,6 +278,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001005311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001005311",
         "name": "\u00a7 9",
         "title": "\u00d6ffentliche Bekanntmachung",
         "parent": {
@@ -273,6 +292,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001101160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001101160",
         "name": "\u00a7 10",
         "title": "Anh\u00f6rung des Schuldners",
         "parent": {
@@ -286,6 +306,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG035800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG035800000",
         "name": "Zweiter Teil",
         "title": "Er\u00f6ffnung des Insolvenzverfahrens.\nErfa\u00dftes Verm\u00f6gen und Verfahrensbeteiligte",
         "parent": null
@@ -293,6 +314,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG001200000",
         "name": "Erster Abschnitt",
         "title": "Er\u00f6ffnungsvoraussetzungen und Er\u00f6ffnungsverfahren",
         "parent": {
@@ -303,6 +325,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001302311",
         "name": "\u00a7 11",
         "title": "Zul\u00e4ssigkeit des Insolvenzverfahrens",
         "parent": {
@@ -316,6 +339,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001402301",
         "name": "\u00a7 12",
         "title": "Juristische Personen des \u00f6ffentlichen Rechts",
         "parent": {
@@ -329,6 +353,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001504311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001504311",
         "name": "\u00a7 13",
         "title": "Er\u00f6ffnungsantrag",
         "parent": {
@@ -342,6 +367,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042100311",
         "name": "\u00a7 13a",
         "title": "Antrag zur Begr\u00fcndung eines Gruppen-Gerichtsstands",
         "parent": {
@@ -355,6 +381,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001602311",
         "name": "\u00a7 14",
         "title": "Antrag eines Gl\u00e4ubigers",
         "parent": {
@@ -368,6 +395,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001701160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001701160",
         "name": "\u00a7 15",
         "title": "Antragsrecht bei juristischen Personen und Gesellschaften ohne Rechtspers\u00f6nlichkeit",
         "parent": {
@@ -381,6 +409,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039103311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039103311",
         "name": "\u00a7 15a",
         "title": "Antragspflicht bei juristischen Personen und Gesellschaften ohne Rechtspers\u00f6nlichkeit",
         "parent": {
@@ -394,6 +423,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001800000",
         "name": "\u00a7 16",
         "title": "Er\u00f6ffnungsgrund",
         "parent": {
@@ -407,6 +437,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE001900000",
         "name": "\u00a7 17",
         "title": "Zahlungsunf\u00e4higkeit",
         "parent": {
@@ -420,6 +451,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002000000",
         "name": "\u00a7 18",
         "title": "Drohende Zahlungsunf\u00e4higkeit",
         "parent": {
@@ -433,6 +465,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002107308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002107308",
         "name": "\u00a7 19",
         "title": "\u00dcberschuldung",
         "parent": {
@@ -446,6 +479,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002203311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002203311",
         "name": "\u00a7 20",
         "title": "Auskunfts- und Mitwirkungspflicht im Er\u00f6ffnungsverfahren. <BR/>Hinweis auf Restschuldbefreiung",
         "parent": {
@@ -459,6 +493,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002308311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002308311",
         "name": "\u00a7 21",
         "title": "Anordnung vorl\u00e4ufiger Ma\u00dfnahmen",
         "parent": {
@@ -472,6 +507,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002401301",
         "name": "\u00a7 22",
         "title": "Rechtsstellung des vorl\u00e4ufigen Insolvenzverwalters",
         "parent": {
@@ -485,6 +521,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039301311",
         "name": "\u00a7 22a",
         "title": "Bestellung eines vorl\u00e4ufigen Gl\u00e4ubigerausschusses",
         "parent": {
@@ -498,6 +535,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002501307",
         "name": "\u00a7 23",
         "title": "Bekanntmachung der Verf\u00fcgungsbeschr\u00e4nkungen",
         "parent": {
@@ -511,6 +549,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002600000",
         "name": "\u00a7 24",
         "title": "Wirkungen der Verf\u00fcgungsbeschr\u00e4nkungen",
         "parent": {
@@ -524,6 +563,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002700000",
         "name": "\u00a7 25",
         "title": "Aufhebung der Sicherungsma\u00dfnahmen",
         "parent": {
@@ -537,6 +577,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002807308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002807308",
         "name": "\u00a7 26",
         "title": "Abweisung mangels Masse",
         "parent": {
@@ -550,6 +591,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039401311",
         "name": "\u00a7 26a",
         "title": "Verg\u00fctung des vorl\u00e4ufigen Insolvenzverwalters",
         "parent": {
@@ -563,6 +605,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE002904311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE002904311",
         "name": "\u00a7 27",
         "title": "Er\u00f6ffnungsbeschlu\u00df",
         "parent": {
@@ -576,6 +619,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003000000",
         "name": "\u00a7 28",
         "title": "Aufforderungen an die Gl\u00e4ubiger und die Schuldner",
         "parent": {
@@ -589,6 +633,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003101311",
         "name": "\u00a7 29",
         "title": "Terminbestimmungen",
         "parent": {
@@ -602,6 +647,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003203311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003203311",
         "name": "\u00a7 30",
         "title": "Bekanntmachung des Er\u00f6ffnungsbeschlusses",
         "parent": {
@@ -615,6 +661,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003301307",
         "name": "\u00a7 31",
         "title": "Handels-, Genossenschafts-, Partnerschafts- und Vereinsregister",
         "parent": {
@@ -628,6 +675,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003400000",
         "name": "\u00a7 32",
         "title": "Grundbuch",
         "parent": {
@@ -641,6 +689,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003500000",
         "name": "\u00a7 33",
         "title": "Register f\u00fcr Schiffe und Luftfahrzeuge",
         "parent": {
@@ -654,6 +703,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003601301",
         "name": "\u00a7 34",
         "title": "Rechtsmittel",
         "parent": {
@@ -667,6 +717,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG003700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG003700000",
         "name": "Zweiter Abschnitt",
         "title": "Insolvenzmasse. Einteilung der Gl\u00e4ubiger",
         "parent": {
@@ -677,6 +728,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003803311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003803311",
         "name": "\u00a7 35",
         "title": "Begriff der Insolvenzmasse",
         "parent": {
@@ -690,6 +742,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE003905160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE003905160",
         "name": "\u00a7 36",
         "title": "Unpf\u00e4ndbare Gegenst\u00e4nde",
         "parent": {
@@ -703,6 +756,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004001311",
         "name": "\u00a7 37",
         "title": "Gesamtgut bei G\u00fctergemeinschaft",
         "parent": {
@@ -716,6 +770,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004100000",
         "name": "\u00a7 38",
         "title": "Begriff der Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -729,6 +784,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004202160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004202160",
         "name": "\u00a7 39",
         "title": "Nachrangige Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -742,6 +798,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004301307",
         "name": "\u00a7 40",
         "title": "Unterhaltsanspr\u00fcche",
         "parent": {
@@ -755,6 +812,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004400000",
         "name": "\u00a7 41",
         "title": "Nicht f\u00e4llige Forderungen",
         "parent": {
@@ -768,6 +826,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004500000",
         "name": "\u00a7 42",
         "title": "Aufl\u00f6send bedingte Forderungen",
         "parent": {
@@ -781,6 +840,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004600000",
         "name": "\u00a7 43",
         "title": "Haftung mehrerer Personen",
         "parent": {
@@ -794,6 +854,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004700000",
         "name": "\u00a7 44",
         "title": "Rechte der Gesamtschuldner und B\u00fcrgen",
         "parent": {
@@ -807,6 +868,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039200160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039200160",
         "name": "\u00a7 44a",
         "title": "Gesicherte Darlehen",
         "parent": {
@@ -820,6 +882,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004800000",
         "name": "\u00a7 45",
         "title": "Umrechnung von Forderungen",
         "parent": {
@@ -833,6 +896,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE004900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE004900000",
         "name": "\u00a7 46",
         "title": "Wiederkehrende Leistungen",
         "parent": {
@@ -846,6 +910,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005000000",
         "name": "\u00a7 47",
         "title": "Aussonderung",
         "parent": {
@@ -859,6 +924,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005100000",
         "name": "\u00a7 48",
         "title": "Ersatzaussonderung",
         "parent": {
@@ -872,6 +938,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005200000",
         "name": "\u00a7 49",
         "title": "Abgesonderte Befriedigung aus unbeweglichen Gegenst\u00e4nden",
         "parent": {
@@ -885,6 +952,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005301301",
         "name": "\u00a7 50",
         "title": "Abgesonderte Befriedigung der Pfandgl\u00e4ubiger",
         "parent": {
@@ -898,6 +966,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005400000",
         "name": "\u00a7 51",
         "title": "Sonstige Absonderungsberechtigte",
         "parent": {
@@ -911,6 +980,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005500000",
         "name": "\u00a7 52",
         "title": "Ausfall der Absonderungsberechtigten",
         "parent": {
@@ -924,6 +994,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005600000",
         "name": "\u00a7 53",
         "title": "Massegl\u00e4ubiger",
         "parent": {
@@ -937,6 +1008,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005700000",
         "name": "\u00a7 54",
         "title": "Kosten des Insolvenzverfahrens",
         "parent": {
@@ -950,6 +1022,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE005804140",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE005804140",
         "name": "\u00a7 55",
         "title": "Sonstige Masseverbindlichkeiten",
         "parent": {
@@ -963,6 +1036,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG005900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG005900000",
         "name": "Dritter Abschnitt\nInsolvenzverwalter. Organe der Gl\u00e4ubiger",
         "title": null,
         "parent": {
@@ -973,6 +1047,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006003311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006003311",
         "name": "\u00a7 56",
         "title": "Bestellung des Insolvenzverwalters",
         "parent": {
@@ -986,6 +1061,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039500308",
         "name": "\u00a7 56a",
         "title": "Gl\u00e4ubigerbeteiligung bei der Verwalterbestellung",
         "parent": {
@@ -999,6 +1075,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042200311",
         "name": "\u00a7 56b",
         "title": "Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe",
         "parent": {
@@ -1012,6 +1089,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006101301",
         "name": "\u00a7 57",
         "title": "Wahl eines anderen Insolvenzverwalters",
         "parent": {
@@ -1025,6 +1103,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006201310",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006201310",
         "name": "\u00a7 58",
         "title": "Aufsicht des Insolvenzgerichts",
         "parent": {
@@ -1038,6 +1117,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006300000",
         "name": "\u00a7 59",
         "title": "Entlassung des Insolvenzverwalters",
         "parent": {
@@ -1051,6 +1131,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006400000",
         "name": "\u00a7 60",
         "title": "Haftung des Insolvenzverwalters",
         "parent": {
@@ -1064,6 +1145,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006500000",
         "name": "\u00a7 61",
         "title": "Nichterf\u00fcllung von Masseverbindlichkeiten",
         "parent": {
@@ -1077,6 +1159,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006601301",
         "name": "\u00a7 62",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -1090,6 +1173,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006702311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006702311",
         "name": "\u00a7 63",
         "title": "Verg\u00fctung des Insolvenzverwalters",
         "parent": {
@@ -1103,6 +1187,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006800000",
         "name": "\u00a7 64",
         "title": "Festsetzung durch das Gericht",
         "parent": {
@@ -1116,6 +1201,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE006902311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE006902311",
         "name": "\u00a7 65",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1129,6 +1215,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007001308",
         "name": "\u00a7 66",
         "title": "Rechnungslegung",
         "parent": {
@@ -1142,6 +1229,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007101308",
         "name": "\u00a7 67",
         "title": "Einsetzung des Gl\u00e4ubigerausschusses",
         "parent": {
@@ -1155,6 +1243,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007200000",
         "name": "\u00a7 68",
         "title": "Wahl anderer Mitglieder",
         "parent": {
@@ -1168,6 +1257,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007300000",
         "name": "\u00a7 69",
         "title": "Aufgaben des Gl\u00e4ubigerausschusses",
         "parent": {
@@ -1181,6 +1271,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007400000",
         "name": "\u00a7 70",
         "title": "Entlassung",
         "parent": {
@@ -1194,6 +1285,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007500000",
         "name": "\u00a7 71",
         "title": "Haftung der Mitglieder des Gl\u00e4ubigerausschusses",
         "parent": {
@@ -1207,6 +1299,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007600000",
         "name": "\u00a7 72",
         "title": "Beschl\u00fcsse des Gl\u00e4ubigerausschusses",
         "parent": {
@@ -1220,6 +1313,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007701301",
         "name": "\u00a7 73",
         "title": "Verg\u00fctung der Mitglieder des Gl\u00e4ubigerausschusses",
         "parent": {
@@ -1233,6 +1327,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007801307",
         "name": "\u00a7 74",
         "title": "Einberufung der Gl\u00e4ubigerversammlung",
         "parent": {
@@ -1246,6 +1341,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE007901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE007901307",
         "name": "\u00a7 75",
         "title": "Antrag auf Einberufung",
         "parent": {
@@ -1259,6 +1355,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008000000",
         "name": "\u00a7 76",
         "title": "Beschl\u00fcsse der Gl\u00e4ubigerversammlung",
         "parent": {
@@ -1272,6 +1369,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008100000",
         "name": "\u00a7 77",
         "title": "Feststellung des Stimmrechts",
         "parent": {
@@ -1285,6 +1383,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008200000",
         "name": "\u00a7 78",
         "title": "Aufhebung eines Beschlusses der Gl\u00e4ubigerversammlung",
         "parent": {
@@ -1298,6 +1397,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008300000",
         "name": "\u00a7 79",
         "title": "Unterrichtung der Gl\u00e4ubigerversammlung",
         "parent": {
@@ -1311,6 +1411,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG035900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG035900000",
         "name": "Dritter Teil",
         "title": "Wirkungen der Er\u00f6ffnung des Insolvenzverfahrens",
         "parent": null
@@ -1318,6 +1419,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG008400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG008400000",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Wirkungen",
         "parent": {
@@ -1328,6 +1430,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008500000",
         "name": "\u00a7 80",
         "title": "\u00dcbergang des Verwaltungs- und Verf\u00fcgungsrechts",
         "parent": {
@@ -1341,6 +1444,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008601301",
         "name": "\u00a7 81",
         "title": "Verf\u00fcgungen des Schuldners",
         "parent": {
@@ -1354,6 +1458,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008700000",
         "name": "\u00a7 82",
         "title": "Leistungen an den Schuldner",
         "parent": {
@@ -1367,6 +1472,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008800000",
         "name": "\u00a7 83",
         "title": "Erbschaft. Fortgesetzte G\u00fctergemeinschaft",
         "parent": {
@@ -1380,6 +1486,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE008900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE008900000",
         "name": "\u00a7 84",
         "title": "Auseinandersetzung einer Gesellschaft oder Gemeinschaft",
         "parent": {
@@ -1393,6 +1500,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009000000",
         "name": "\u00a7 85",
         "title": "Aufnahme von Aktivprozessen",
         "parent": {
@@ -1406,6 +1514,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009100000",
         "name": "\u00a7 86",
         "title": "Aufnahme bestimmter Passivprozesse",
         "parent": {
@@ -1419,6 +1528,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009200000",
         "name": "\u00a7 87",
         "title": "Forderungen der Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -1432,6 +1542,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009301311",
         "name": "\u00a7 88",
         "title": "Vollstreckung vor Verfahrenser\u00f6ffnung",
         "parent": {
@@ -1445,6 +1556,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009400000",
         "name": "\u00a7 89",
         "title": "Vollstreckungsverbot",
         "parent": {
@@ -1458,6 +1570,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009500000",
         "name": "\u00a7 90",
         "title": "Vollstreckungsverbot bei Masseverbindlichkeiten",
         "parent": {
@@ -1471,6 +1584,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009601307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009601307",
         "name": "\u00a7 91",
         "title": "Ausschlu\u00df sonstigen Rechtserwerbs",
         "parent": {
@@ -1484,6 +1598,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009700000",
         "name": "\u00a7 92",
         "title": "Gesamtschaden",
         "parent": {
@@ -1497,6 +1612,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009800000",
         "name": "\u00a7 93",
         "title": "Pers\u00f6nliche Haftung der Gesellschafter",
         "parent": {
@@ -1510,6 +1626,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE009900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE009900000",
         "name": "\u00a7 94",
         "title": "Erhaltung einer Aufrechnungslage",
         "parent": {
@@ -1523,6 +1640,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010000000",
         "name": "\u00a7 95",
         "title": "Eintritt der Aufrechnungslage im Verfahren",
         "parent": {
@@ -1536,6 +1654,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010104160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010104160",
         "name": "\u00a7 96",
         "title": "Unzul\u00e4ssigkeit der Aufrechnung",
         "parent": {
@@ -1549,6 +1668,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010200000",
         "name": "\u00a7 97",
         "title": "Auskunfts- und Mitwirkungspflichten des Schuldners",
         "parent": {
@@ -1562,6 +1682,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010302160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010302160",
         "name": "\u00a7 98",
         "title": "Durchsetzung der Pflichten des Schuldners",
         "parent": {
@@ -1575,6 +1696,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010401301",
         "name": "\u00a7 99",
         "title": "Postsperre",
         "parent": {
@@ -1588,6 +1710,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010502301",
         "name": "\u00a7 100",
         "title": "Unterhalt aus der Insolvenzmasse",
         "parent": {
@@ -1601,6 +1724,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010601160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010601160",
         "name": "\u00a7 101",
         "title": "Organschaftliche Vertreter. Angestellte",
         "parent": {
@@ -1614,6 +1738,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010701307",
         "name": "\u00a7 102",
         "title": "Einschr\u00e4nkung eines Grundrechts",
         "parent": {
@@ -1627,6 +1752,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG010800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG010800000",
         "name": "Zweiter Abschnitt",
         "title": "Erf\u00fcllung der Rechtsgesch\u00e4fte. Mitwirkung des Betriebsrats",
         "parent": {
@@ -1637,6 +1763,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE010900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE010900000",
         "name": "\u00a7 103",
         "title": "Wahlrecht des Insolvenzverwalters",
         "parent": {
@@ -1650,6 +1777,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011003311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011003311",
         "name": "\u00a7 104",
         "title": "Fixgesch\u00e4fte, Finanzleistungen, vertragliches Liquidationsnetting",
         "parent": {
@@ -1663,6 +1791,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011100000",
         "name": "\u00a7 105",
         "title": "Teilbare Leistungen",
         "parent": {
@@ -1676,6 +1805,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011200000",
         "name": "\u00a7 106",
         "title": "Vormerkung",
         "parent": {
@@ -1689,6 +1819,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011300000",
         "name": "\u00a7 107",
         "title": "Eigentumsvorbehalt",
         "parent": {
@@ -1702,6 +1833,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011402301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011402301",
         "name": "\u00a7 108",
         "title": "Fortbestehen bestimmter Schuldverh\u00e4ltnisse",
         "parent": {
@@ -1715,6 +1847,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011502301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011502301",
         "name": "\u00a7 109",
         "title": "Schuldner als Mieter oder P\u00e4chter",
         "parent": {
@@ -1728,6 +1861,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011601301",
         "name": "\u00a7 110",
         "title": "Schuldner als Vermieter oder Verp\u00e4chter",
         "parent": {
@@ -1741,6 +1875,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011701301",
         "name": "\u00a7 111",
         "title": "Ver\u00e4u\u00dferung des Miet- oder Pachtobjekts",
         "parent": {
@@ -1754,6 +1889,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011801301",
         "name": "\u00a7 112",
         "title": "K\u00fcndigungssperre",
         "parent": {
@@ -1767,6 +1903,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE011901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE011901301",
         "name": "\u00a7 113",
         "title": "K\u00fcndigung eines Dienstverh\u00e4ltnisses",
         "parent": {
@@ -1780,6 +1917,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012002311",
         "name": "\u00a7 114",
         "title": "(weggefallen)",
         "parent": {
@@ -1793,6 +1931,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012100000",
         "name": "\u00a7 115",
         "title": "Erl\u00f6schen von Auftr\u00e4gen",
         "parent": {
@@ -1806,6 +1945,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012202160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012202160",
         "name": "\u00a7 116",
         "title": "Erl\u00f6schen von Gesch\u00e4ftsbesorgungsvertr\u00e4gen",
         "parent": {
@@ -1819,6 +1959,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012300000",
         "name": "\u00a7 117",
         "title": "Erl\u00f6schen von Vollmachten",
         "parent": {
@@ -1832,6 +1973,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012400000",
         "name": "\u00a7 118",
         "title": "Aufl\u00f6sung von Gesellschaften",
         "parent": {
@@ -1845,6 +1987,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012500000",
         "name": "\u00a7 119",
         "title": "Unwirksamkeit abweichender Vereinbarungen",
         "parent": {
@@ -1858,6 +2001,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012600000",
         "name": "\u00a7 120",
         "title": "K\u00fcndigung von Betriebsvereinbarungen",
         "parent": {
@@ -1871,6 +2015,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012701301",
         "name": "\u00a7 121",
         "title": "Betriebs\u00e4nderungen und Vermittlungsverfahren",
         "parent": {
@@ -1884,6 +2029,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012800000",
         "name": "\u00a7 122",
         "title": "Gerichtliche Zustimmung zur Durchf\u00fchrung einer Betriebs\u00e4nderung",
         "parent": {
@@ -1897,6 +2043,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE012900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE012900000",
         "name": "\u00a7 123",
         "title": "Umfang des Sozialplans",
         "parent": {
@@ -1910,6 +2057,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013000000",
         "name": "\u00a7 124",
         "title": "Sozialplan vor Verfahrenser\u00f6ffnung",
         "parent": {
@@ -1923,6 +2071,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013100000",
         "name": "\u00a7 125",
         "title": "Interessenausgleich und K\u00fcndigungsschutz",
         "parent": {
@@ -1936,6 +2085,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013200000",
         "name": "\u00a7 126",
         "title": "Beschlu\u00dfverfahren zum K\u00fcndigungsschutz",
         "parent": {
@@ -1949,6 +2099,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013300000",
         "name": "\u00a7 127",
         "title": "Klage des Arbeitnehmers",
         "parent": {
@@ -1962,6 +2113,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013400000",
         "name": "\u00a7 128",
         "title": "Betriebsver\u00e4u\u00dferung",
         "parent": {
@@ -1975,6 +2127,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG013500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG013500000",
         "name": "Dritter Abschnitt",
         "title": "Insolvenzanfechtung",
         "parent": {
@@ -1985,6 +2138,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013600000",
         "name": "\u00a7 129",
         "title": "Grundsatz",
         "parent": {
@@ -1998,6 +2152,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013701301",
         "name": "\u00a7 130",
         "title": "Kongruente Deckung",
         "parent": {
@@ -2011,6 +2166,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013800000",
         "name": "\u00a7 131",
         "title": "Inkongruente Deckung",
         "parent": {
@@ -2024,6 +2180,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE013900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE013900000",
         "name": "\u00a7 132",
         "title": "Unmittelbar nachteilige Rechtshandlungen",
         "parent": {
@@ -2037,6 +2194,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014001311",
         "name": "\u00a7 133",
         "title": "Vors\u00e4tzliche Benachteiligung",
         "parent": {
@@ -2050,6 +2208,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014100000",
         "name": "\u00a7 134",
         "title": "Unentgeltliche Leistung",
         "parent": {
@@ -2063,6 +2222,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014201160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014201160",
         "name": "\u00a7 135",
         "title": "Gesellschafterdarlehen",
         "parent": {
@@ -2076,6 +2236,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014300000",
         "name": "\u00a7 136",
         "title": "Stille Gesellschaft",
         "parent": {
@@ -2089,6 +2250,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014400000",
         "name": "\u00a7 137",
         "title": "Wechsel- und Scheckzahlungen",
         "parent": {
@@ -2102,6 +2264,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014503301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014503301",
         "name": "\u00a7 138",
         "title": "Nahestehende Personen",
         "parent": {
@@ -2115,6 +2278,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014600000",
         "name": "\u00a7 139",
         "title": "Berechnung der Fristen vor dem Er\u00f6ffnungsantrag",
         "parent": {
@@ -2128,6 +2292,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014700000",
         "name": "\u00a7 140",
         "title": "Zeitpunkt der Vornahme einer Rechtshandlung",
         "parent": {
@@ -2141,6 +2306,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014800000",
         "name": "\u00a7 141",
         "title": "Vollstreckbarer Titel",
         "parent": {
@@ -2154,6 +2320,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE014901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE014901311",
         "name": "\u00a7 142",
         "title": "Bargesch\u00e4ft",
         "parent": {
@@ -2167,6 +2334,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015002311",
         "name": "\u00a7 143",
         "title": "Rechtsfolgen",
         "parent": {
@@ -2180,6 +2348,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015100000",
         "name": "\u00a7 144",
         "title": "Anspr\u00fcche des Anfechtungsgegners",
         "parent": {
@@ -2193,6 +2362,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015200000",
         "name": "\u00a7 145",
         "title": "Anfechtung gegen Rechtsnachfolger",
         "parent": {
@@ -2206,6 +2376,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015301301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015301301",
         "name": "\u00a7 146",
         "title": "Verj\u00e4hrung des Anfechtungsanspruchs",
         "parent": {
@@ -2219,6 +2390,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015404160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015404160",
         "name": "\u00a7 147",
         "title": "Rechtshandlungen nach Verfahrenser\u00f6ffnung",
         "parent": {
@@ -2232,6 +2404,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036000000",
         "name": "Vierter Teil",
         "title": "Verwaltung und Verwertung der Insolvenzmasse",
         "parent": null
@@ -2239,6 +2412,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG015500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG015500000",
         "name": "Erster Abschnitt",
         "title": "Sicherung der Insolvenzmasse",
         "parent": {
@@ -2249,6 +2423,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015600000",
         "name": "\u00a7 148",
         "title": "\u00dcbernahme der Insolvenzmasse",
         "parent": {
@@ -2262,6 +2437,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015701301",
         "name": "\u00a7 149",
         "title": "Wertgegenst\u00e4nde",
         "parent": {
@@ -2275,6 +2451,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015800000",
         "name": "\u00a7 150",
         "title": "Siegelung",
         "parent": {
@@ -2288,6 +2465,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE015900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE015900000",
         "name": "\u00a7 151",
         "title": "Verzeichnis der Massegegenst\u00e4nde",
         "parent": {
@@ -2301,6 +2479,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016000000",
         "name": "\u00a7 152",
         "title": "Gl\u00e4ubigerverzeichnis",
         "parent": {
@@ -2314,6 +2493,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016100000",
         "name": "\u00a7 153",
         "title": "Verm\u00f6gens\u00fcbersicht",
         "parent": {
@@ -2327,6 +2507,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016200000",
         "name": "\u00a7 154",
         "title": "Niederlegung in der Gesch\u00e4ftsstelle",
         "parent": {
@@ -2340,6 +2521,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016300000",
         "name": "\u00a7 155",
         "title": "Handels- und steuerrechtliche Rechnungslegung",
         "parent": {
@@ -2353,6 +2535,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG016400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG016400000",
         "name": "Zweiter Abschnitt",
         "title": "Entscheidung \u00fcber die Verwertung",
         "parent": {
@@ -2363,6 +2546,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016500000",
         "name": "\u00a7 156",
         "title": "Berichtstermin",
         "parent": {
@@ -2376,6 +2560,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016600000",
         "name": "\u00a7 157",
         "title": "Entscheidung \u00fcber den Fortgang des Verfahrens",
         "parent": {
@@ -2389,6 +2574,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016701301",
         "name": "\u00a7 158",
         "title": "Ma\u00dfnahmen vor der Entscheidung",
         "parent": {
@@ -2402,6 +2588,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016800000",
         "name": "\u00a7 159",
         "title": "Verwertung der Insolvenzmasse",
         "parent": {
@@ -2415,6 +2602,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE016901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE016901301",
         "name": "\u00a7 160",
         "title": "Besonders bedeutsame Rechtshandlungen",
         "parent": {
@@ -2428,6 +2616,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017000000",
         "name": "\u00a7 161",
         "title": "Vorl\u00e4ufige Untersagung der Rechtshandlung",
         "parent": {
@@ -2441,6 +2630,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017100000",
         "name": "\u00a7 162",
         "title": "Betriebsver\u00e4u\u00dferung an besonders Interessierte",
         "parent": {
@@ -2454,6 +2644,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017200000",
         "name": "\u00a7 163",
         "title": "Betriebsver\u00e4u\u00dferung unter Wert",
         "parent": {
@@ -2467,6 +2658,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017300000",
         "name": "\u00a7 164",
         "title": "Wirksamkeit der Handlung",
         "parent": {
@@ -2480,6 +2672,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG017400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG017400000",
         "name": "Dritter Abschnitt",
         "title": "Gegenst\u00e4nde mit Absonderungsrechten",
         "parent": {
@@ -2490,6 +2683,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017500000",
         "name": "\u00a7 165",
         "title": "Verwertung unbeweglicher Gegenst\u00e4nde",
         "parent": {
@@ -2503,6 +2697,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017603160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017603160",
         "name": "\u00a7 166",
         "title": "Verwertung beweglicher Gegenst\u00e4nde",
         "parent": {
@@ -2516,6 +2711,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017700000",
         "name": "\u00a7 167",
         "title": "Unterrichtung des Gl\u00e4ubigers",
         "parent": {
@@ -2529,6 +2725,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017800000",
         "name": "\u00a7 168",
         "title": "Mitteilung der Ver\u00e4u\u00dferungsabsicht",
         "parent": {
@@ -2542,6 +2739,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE017900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE017900000",
         "name": "\u00a7 169",
         "title": "Schutz des Gl\u00e4ubigers vor einer Verz\u00f6gerung der\nVerwertung",
         "parent": {
@@ -2555,6 +2753,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018000000",
         "name": "\u00a7 170",
         "title": "Verteilung des Erl\u00f6ses",
         "parent": {
@@ -2568,6 +2767,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018100000",
         "name": "\u00a7 171",
         "title": "Berechnung des Kostenbeitrags",
         "parent": {
@@ -2581,6 +2781,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018200000",
         "name": "\u00a7 172",
         "title": "Sonstige Verwendung beweglicher Sachen",
         "parent": {
@@ -2594,6 +2795,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018300000",
         "name": "\u00a7 173",
         "title": "Verwertung durch den Gl\u00e4ubiger",
         "parent": {
@@ -2607,6 +2809,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036100000",
         "name": "F\u00fcnfter Teil",
         "title": "Befriedigung der Insolvenzgl\u00e4ubiger. Einstellung\ndes Verfahrens",
         "parent": null
@@ -2614,6 +2817,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG018400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG018400000",
         "name": "Erster Abschnitt",
         "title": "Feststellung der Forderungen",
         "parent": {
@@ -2624,6 +2828,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018504311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018504311",
         "name": "\u00a7 174",
         "title": "Anmeldung der Forderungen",
         "parent": {
@@ -2637,6 +2842,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018602311",
         "name": "\u00a7 175",
         "title": "Tabelle",
         "parent": {
@@ -2650,6 +2856,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018700000",
         "name": "\u00a7 176",
         "title": "Verlauf des Pr\u00fcfungstermins",
         "parent": {
@@ -2663,6 +2870,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018801307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018801307",
         "name": "\u00a7 177",
         "title": "Nachtr\u00e4gliche Anmeldungen",
         "parent": {
@@ -2676,6 +2884,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE018900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE018900000",
         "name": "\u00a7 178",
         "title": "Voraussetzungen und Wirkungen der Feststellung",
         "parent": {
@@ -2689,6 +2898,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019000000",
         "name": "\u00a7 179",
         "title": "Streitige Forderungen",
         "parent": {
@@ -2702,6 +2912,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019100000",
         "name": "\u00a7 180",
         "title": "Zust\u00e4ndigkeit f\u00fcr die Feststellung",
         "parent": {
@@ -2715,6 +2926,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019200000",
         "name": "\u00a7 181",
         "title": "Umfang der Feststellung",
         "parent": {
@@ -2728,6 +2940,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019300000",
         "name": "\u00a7 182",
         "title": "Streitwert",
         "parent": {
@@ -2741,6 +2954,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019400000",
         "name": "\u00a7 183",
         "title": "Wirkung der Entscheidung",
         "parent": {
@@ -2754,6 +2968,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019501301",
         "name": "\u00a7 184",
         "title": "Klage gegen einen Widerspruch des Schuldners",
         "parent": {
@@ -2767,6 +2982,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019600000",
         "name": "\u00a7 185",
         "title": "Besondere Zust\u00e4ndigkeiten",
         "parent": {
@@ -2780,6 +2996,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019700000",
         "name": "\u00a7 186",
         "title": "Wiedereinsetzung in den vorigen Stand",
         "parent": {
@@ -2793,6 +3010,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG019800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG019800000",
         "name": "Zweiter Abschnitt",
         "title": "Verteilung",
         "parent": {
@@ -2803,6 +3021,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE019900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE019900000",
         "name": "\u00a7 187",
         "title": "Befriedigung der Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -2816,6 +3035,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020001301",
         "name": "\u00a7 188",
         "title": "Verteilungsverzeichnis",
         "parent": {
@@ -2829,6 +3049,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020100000",
         "name": "\u00a7 189",
         "title": "Ber\u00fccksichtigung bestrittener Forderungen",
         "parent": {
@@ -2842,6 +3063,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020200000",
         "name": "\u00a7 190",
         "title": "Ber\u00fccksichtigung absonderungsberechtigter Gl\u00e4ubiger",
         "parent": {
@@ -2855,6 +3077,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020300000",
         "name": "\u00a7 191",
         "title": "Ber\u00fccksichtigung aufschiebend bedingter Forderungen",
         "parent": {
@@ -2868,6 +3091,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020400000",
         "name": "\u00a7 192",
         "title": "Nachtr\u00e4gliche Ber\u00fccksichtigung",
         "parent": {
@@ -2881,6 +3105,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020500000",
         "name": "\u00a7 193",
         "title": "\u00c4nderung des Verteilungsverzeichnisses",
         "parent": {
@@ -2894,6 +3119,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020600000",
         "name": "\u00a7 194",
         "title": "Einwendungen gegen das Verteilungsverzeichnis",
         "parent": {
@@ -2907,6 +3133,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020700000",
         "name": "\u00a7 195",
         "title": "Festsetzung des Bruchteils",
         "parent": {
@@ -2920,6 +3147,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020801301",
         "name": "\u00a7 196",
         "title": "Schlu\u00dfverteilung",
         "parent": {
@@ -2933,6 +3161,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE020901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE020901307",
         "name": "\u00a7 197",
         "title": "Schlu\u00dftermin",
         "parent": {
@@ -2946,6 +3175,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021001307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021001307",
         "name": "\u00a7 198",
         "title": "Hinterlegung zur\u00fcckbehaltener Betr\u00e4ge",
         "parent": {
@@ -2959,6 +3189,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021100000",
         "name": "\u00a7 199",
         "title": "\u00dcberschu\u00df bei der Schlu\u00dfverteilung",
         "parent": {
@@ -2972,6 +3203,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021201301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021201301",
         "name": "\u00a7 200",
         "title": "Aufhebung des Insolvenzverfahrens",
         "parent": {
@@ -2985,6 +3217,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021301307",
         "name": "\u00a7 201",
         "title": "Rechte der Insolvenzgl\u00e4ubiger nach Verfahrensaufhebung",
         "parent": {
@@ -2998,6 +3231,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021400000",
         "name": "\u00a7 202",
         "title": "Zust\u00e4ndigkeit bei der Vollstreckung",
         "parent": {
@@ -3011,6 +3245,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021500000",
         "name": "\u00a7 203",
         "title": "Anordnung der Nachtragsverteilung",
         "parent": {
@@ -3024,6 +3259,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021600000",
         "name": "\u00a7 204",
         "title": "Rechtsmittel",
         "parent": {
@@ -3037,6 +3273,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021700000",
         "name": "\u00a7 205",
         "title": "Vollzug der Nachtragsverteilung",
         "parent": {
@@ -3050,6 +3287,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE021800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE021800000",
         "name": "\u00a7 206",
         "title": "Ausschlu\u00df von Massegl\u00e4ubigern",
         "parent": {
@@ -3063,6 +3301,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG021900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG021900000",
         "name": "Dritter Abschnitt",
         "title": "Einstellung des Verfahrens",
         "parent": {
@@ -3073,6 +3312,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022001301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022001301",
         "name": "\u00a7 207",
         "title": "Einstellung mangels Masse",
         "parent": {
@@ -3086,6 +3326,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022100000",
         "name": "\u00a7 208",
         "title": "Anzeige der Masseunzul\u00e4nglichkeit",
         "parent": {
@@ -3099,6 +3340,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022200000",
         "name": "\u00a7 209",
         "title": "Befriedigung der Massegl\u00e4ubiger",
         "parent": {
@@ -3112,6 +3354,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022300000",
         "name": "\u00a7 210",
         "title": "Vollstreckungsverbot",
         "parent": {
@@ -3125,6 +3368,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039600308",
         "name": "\u00a7 210a",
         "title": "Insolvenzplan bei Masseunzul\u00e4nglichkeit",
         "parent": {
@@ -3138,6 +3382,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022400000",
         "name": "\u00a7 211",
         "title": "Einstellung nach Anzeige der Masseunzul\u00e4nglichkeit",
         "parent": {
@@ -3151,6 +3396,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022500000",
         "name": "\u00a7 212",
         "title": "Einstellung wegen Wegfalls des Er\u00f6ffnungsgrunds",
         "parent": {
@@ -3164,6 +3410,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022600000",
         "name": "\u00a7 213",
         "title": "Einstellung mit Zustimmung der Gl\u00e4ubiger",
         "parent": {
@@ -3177,6 +3424,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022701308",
         "name": "\u00a7 214",
         "title": "Verfahren bei der Einstellung",
         "parent": {
@@ -3190,6 +3438,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022801301",
         "name": "\u00a7 215",
         "title": "Bekanntmachung und Wirkungen der Einstellung",
         "parent": {
@@ -3203,6 +3452,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE022900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE022900000",
         "name": "\u00a7 216",
         "title": "Rechtsmittel",
         "parent": {
@@ -3216,6 +3466,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036200000",
         "name": "Sechster Teil",
         "title": "Insolvenzplan",
         "parent": null
@@ -3223,6 +3474,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG023000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG023000000",
         "name": "Erster Abschnitt",
         "title": "Aufstellung des Plans",
         "parent": {
@@ -3233,6 +3485,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023101308",
         "name": "\u00a7 217",
         "title": "Grundsatz",
         "parent": {
@@ -3246,6 +3499,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023200000",
         "name": "\u00a7 218",
         "title": "Vorlage des Insolvenzplans",
         "parent": {
@@ -3259,6 +3513,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023300000",
         "name": "\u00a7 219",
         "title": "Gliederung des Plans",
         "parent": {
@@ -3272,6 +3527,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023401308",
         "name": "\u00a7 220",
         "title": "Darstellender Teil",
         "parent": {
@@ -3285,6 +3541,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023501308",
         "name": "\u00a7 221",
         "title": "Gestaltender Teil",
         "parent": {
@@ -3298,6 +3555,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023601308",
         "name": "\u00a7 222",
         "title": "Bildung von Gruppen",
         "parent": {
@@ -3311,6 +3569,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023703160",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023703160",
         "name": "\u00a7 223",
         "title": "Rechte der Absonderungsberechtigten",
         "parent": {
@@ -3324,6 +3583,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023800000",
         "name": "\u00a7 224",
         "title": "Rechte der Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -3337,6 +3597,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE023900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE023900000",
         "name": "\u00a7 225",
         "title": "Rechte der nachrangigen Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -3350,6 +3611,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039700308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039700308",
         "name": "\u00a7 225a",
         "title": "Rechte der Anteilsinhaber",
         "parent": {
@@ -3363,6 +3625,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024000000",
         "name": "\u00a7 226",
         "title": "Gleichbehandlung der Beteiligten",
         "parent": {
@@ -3376,6 +3639,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024100000",
         "name": "\u00a7 227",
         "title": "Haftung des Schuldners",
         "parent": {
@@ -3389,6 +3653,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024200000",
         "name": "\u00a7 228",
         "title": "\u00c4nderung sachenrechtlicher Verh\u00e4ltnisse",
         "parent": {
@@ -3402,6 +3667,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024301308",
         "name": "\u00a7 229",
         "title": "Verm\u00f6gens\u00fcbersicht. Ergebnis- und Finanzplan",
         "parent": {
@@ -3415,6 +3681,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024401308",
         "name": "\u00a7 230",
         "title": "Weitere Anlagen",
         "parent": {
@@ -3428,6 +3695,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024501308",
         "name": "\u00a7 231",
         "title": "Zur\u00fcckweisung des Plans",
         "parent": {
@@ -3441,6 +3709,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024601308",
         "name": "\u00a7 232",
         "title": "Stellungnahmen zum Plan",
         "parent": {
@@ -3454,6 +3723,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024700000",
         "name": "\u00a7 233",
         "title": "Aussetzung von Verwertung und Verteilung",
         "parent": {
@@ -3467,6 +3737,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE024800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE024800000",
         "name": "\u00a7 234",
         "title": "Niederlegung des Plans",
         "parent": {
@@ -3480,6 +3751,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG024900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG024900000",
         "name": "Zweiter Abschnitt",
         "title": "Annahme und Best\u00e4tigung des Plans",
         "parent": {
@@ -3490,6 +3762,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025002308",
         "name": "\u00a7 235",
         "title": "Er\u00f6rterungs- und Abstimmungstermin",
         "parent": {
@@ -3503,6 +3776,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025100000",
         "name": "\u00a7 236",
         "title": "Verbindung mit dem Pr\u00fcfungstermin",
         "parent": {
@@ -3516,6 +3790,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025200000",
         "name": "\u00a7 237",
         "title": "Stimmrecht der Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -3529,6 +3804,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025300000",
         "name": "\u00a7 238",
         "title": "Stimmrecht der absonderungsberechtigten Gl\u00e4ubiger",
         "parent": {
@@ -3542,6 +3818,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039800308",
         "name": "\u00a7 238a",
         "title": "Stimmrecht der Anteilsinhaber",
         "parent": {
@@ -3555,6 +3832,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025401308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025401308",
         "name": "\u00a7 239",
         "title": "Stimmliste",
         "parent": {
@@ -3568,6 +3846,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025500000",
         "name": "\u00a7 240",
         "title": "\u00c4nderung des Plans",
         "parent": {
@@ -3581,6 +3860,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025601308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025601308",
         "name": "\u00a7 241",
         "title": "Gesonderter Abstimmungstermin",
         "parent": {
@@ -3594,6 +3874,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025701308",
         "name": "\u00a7 242",
         "title": "Schriftliche Abstimmung",
         "parent": {
@@ -3607,6 +3888,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025801308",
         "name": "\u00a7 243",
         "title": "Abstimmung in Gruppen",
         "parent": {
@@ -3620,6 +3902,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE025901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE025901308",
         "name": "\u00a7 244",
         "title": "Erforderliche Mehrheiten",
         "parent": {
@@ -3633,6 +3916,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026002308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026002308",
         "name": "\u00a7 245",
         "title": "Obstruktionsverbot",
         "parent": {
@@ -3646,6 +3930,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026101308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026101308",
         "name": "\u00a7 246",
         "title": "Zustimmung nachrangiger Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -3659,6 +3944,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE039900308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE039900308",
         "name": "\u00a7 246a",
         "title": "Zustimmung der Anteilsinhaber",
         "parent": {
@@ -3672,6 +3958,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026202308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026202308",
         "name": "\u00a7 247",
         "title": "Zustimmung des Schuldners",
         "parent": {
@@ -3685,6 +3972,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026301308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026301308",
         "name": "\u00a7 248",
         "title": "Gerichtliche Best\u00e4tigung",
         "parent": {
@@ -3698,6 +3986,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040000308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040000308",
         "name": "\u00a7 248a",
         "title": "Gerichtliche Best\u00e4tigung einer Planberichtigung",
         "parent": {
@@ -3711,6 +4000,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026400000",
         "name": "\u00a7 249",
         "title": "Bedingter Plan",
         "parent": {
@@ -3724,6 +4014,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026501308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026501308",
         "name": "\u00a7 250",
         "title": "Versto\u00df gegen Verfahrensvorschriften",
         "parent": {
@@ -3737,6 +4028,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026602308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026602308",
         "name": "\u00a7 251",
         "title": "Minderheitenschutz",
         "parent": {
@@ -3750,6 +4042,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026702308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026702308",
         "name": "\u00a7 252",
         "title": "Bekanntgabe der Entscheidung",
         "parent": {
@@ -3763,6 +4056,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE026801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE026801308",
         "name": "\u00a7 253",
         "title": "Rechtsmittel",
         "parent": {
@@ -3776,6 +4070,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG026900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG026900000",
         "name": "Dritter Abschnitt",
         "title": "Wirkungen des best\u00e4tigten Plans. \u00dcberwachung der\nPlanerf\u00fcllung",
         "parent": {
@@ -3786,6 +4081,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027001308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027001308",
         "name": "\u00a7 254",
         "title": "Allgemeine Wirkungen des Plans",
         "parent": {
@@ -3799,6 +4095,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040100308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040100308",
         "name": "\u00a7 254a",
         "title": "Rechte an Gegenst\u00e4nden. Sonstige Wirkungen des Plans",
         "parent": {
@@ -3812,6 +4109,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040200308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040200308",
         "name": "\u00a7 254b",
         "title": "Wirkung f\u00fcr alle Beteiligten",
         "parent": {
@@ -3825,6 +4123,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027100000",
         "name": "\u00a7 255",
         "title": "Wiederauflebensklausel",
         "parent": {
@@ -3838,6 +4137,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027200000",
         "name": "\u00a7 256",
         "title": "Streitige Forderungen. Ausfallforderungen",
         "parent": {
@@ -3851,6 +4151,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027300000",
         "name": "\u00a7 257",
         "title": "Vollstreckung aus dem Plan",
         "parent": {
@@ -3864,6 +4165,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027402308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027402308",
         "name": "\u00a7 258",
         "title": "Aufhebung des Insolvenzverfahrens",
         "parent": {
@@ -3877,6 +4179,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027500000",
         "name": "\u00a7 259",
         "title": "Wirkungen der Aufhebung",
         "parent": {
@@ -3890,6 +4193,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040300308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040300308",
         "name": "\u00a7 259a",
         "title": "Vollstreckungsschutz",
         "parent": {
@@ -3903,6 +4207,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040400308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040400308",
         "name": "\u00a7 259b",
         "title": "Besondere Verj\u00e4hrungsfrist",
         "parent": {
@@ -3916,6 +4221,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027600000",
         "name": "\u00a7 260",
         "title": "\u00dcberwachung der Planerf\u00fcllung",
         "parent": {
@@ -3929,6 +4235,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027700000",
         "name": "\u00a7 261",
         "title": "Aufgaben und Befugnisse des Insolvenzverwalters",
         "parent": {
@@ -3942,6 +4249,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027800000",
         "name": "\u00a7 262",
         "title": "Anzeigepflicht des Insolvenzverwalters",
         "parent": {
@@ -3955,6 +4263,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE027900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE027900000",
         "name": "\u00a7 263",
         "title": "Zustimmungsbed\u00fcrftige Gesch\u00e4fte",
         "parent": {
@@ -3968,6 +4277,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028000000",
         "name": "\u00a7 264",
         "title": "Kreditrahmen",
         "parent": {
@@ -3981,6 +4291,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028100000",
         "name": "\u00a7 265",
         "title": "Nachrang von Neugl\u00e4ubigern",
         "parent": {
@@ -3994,6 +4305,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028200000",
         "name": "\u00a7 266",
         "title": "Ber\u00fccksichtigung des Nachrangs",
         "parent": {
@@ -4007,6 +4319,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028300000",
         "name": "\u00a7 267",
         "title": "Bekanntmachung der \u00dcberwachung",
         "parent": {
@@ -4020,6 +4333,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028400000",
         "name": "\u00a7 268",
         "title": "Aufhebung der \u00dcberwachung",
         "parent": {
@@ -4033,6 +4347,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028500000",
         "name": "\u00a7 269",
         "title": "Kosten der \u00dcberwachung",
         "parent": {
@@ -4046,6 +4361,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG037200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG037200311",
         "name": "Siebter Teil",
         "title": "Koordinierung der Verfahren von Schuldnern, die derselben Unternehmensgruppe angeh\u00f6ren",
         "parent": null
@@ -4053,6 +4369,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG037300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG037300311",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Bestimmungen",
         "parent": {
@@ -4063,6 +4380,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042300311",
         "name": "\u00a7 269a",
         "title": "Zusammenarbeit der Insolvenzverwalter",
         "parent": {
@@ -4076,6 +4394,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042400311",
         "name": "\u00a7 269b",
         "title": "Zusammenarbeit der Gerichte",
         "parent": {
@@ -4089,6 +4408,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042500311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042500311",
         "name": "\u00a7 269c",
         "title": "Zusammenarbeit der Gl\u00e4ubigeraussch\u00fcsse",
         "parent": {
@@ -4102,6 +4422,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG037400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG037400311",
         "name": "Zweiter Abschnitt",
         "title": "Koordinationsverfahren",
         "parent": {
@@ -4112,6 +4433,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042600311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042600311",
         "name": "\u00a7 269d",
         "title": "Koordinationsgericht",
         "parent": {
@@ -4125,6 +4447,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042700311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042700311",
         "name": "\u00a7 269e",
         "title": "Verfahrenskoordinator",
         "parent": {
@@ -4138,6 +4461,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042800311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042800311",
         "name": "\u00a7 269f",
         "title": "Aufgaben und Rechtsstellung des Verfahrenskoordinators",
         "parent": {
@@ -4151,6 +4475,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE042900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE042900311",
         "name": "\u00a7 269g",
         "title": "Verg\u00fctung des Verfahrenskoordinators",
         "parent": {
@@ -4164,6 +4489,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE043000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE043000311",
         "name": "\u00a7 269h",
         "title": "Koordinationsplan",
         "parent": {
@@ -4177,6 +4503,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE043100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE043100311",
         "name": "\u00a7 269i",
         "title": "Abweichungen vom Koordinationsplan",
         "parent": {
@@ -4190,6 +4517,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036701311",
         "name": "Achter Teil",
         "title": "Eigenverwaltung",
         "parent": null
@@ -4197,6 +4525,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028602311",
         "name": "\u00a7 270",
         "title": "Voraussetzungen",
         "parent": {
@@ -4210,6 +4539,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040500308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040500308",
         "name": "\u00a7 270a",
         "title": "Er\u00f6ffnungsverfahren",
         "parent": {
@@ -4223,6 +4553,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040600308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040600308",
         "name": "\u00a7 270b",
         "title": "Vorbereitung einer Sanierung",
         "parent": {
@@ -4236,6 +4567,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040700308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040700308",
         "name": "\u00a7 270c",
         "title": "Bestellung des Sachwalters",
         "parent": {
@@ -4249,6 +4581,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE043200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE043200311",
         "name": "\u00a7 270d",
         "title": "Eigenverwaltung bei gruppenangeh\u00f6rigen Schuldnern",
         "parent": {
@@ -4262,6 +4595,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028701308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028701308",
         "name": "\u00a7 271",
         "title": "Nachtr\u00e4gliche Anordnung",
         "parent": {
@@ -4275,6 +4609,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028801308",
         "name": "\u00a7 272",
         "title": "Aufhebung der Anordnung",
         "parent": {
@@ -4288,6 +4623,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE028900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE028900000",
         "name": "\u00a7 273",
         "title": "\u00d6ffentliche Bekanntmachung",
         "parent": {
@@ -4301,6 +4637,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029002311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029002311",
         "name": "\u00a7 274",
         "title": "Rechtsstellung des Sachwalters",
         "parent": {
@@ -4314,6 +4651,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029100000",
         "name": "\u00a7 275",
         "title": "Mitwirkung des Sachwalters",
         "parent": {
@@ -4327,6 +4665,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029200000",
         "name": "\u00a7 276",
         "title": "Mitwirkung des Gl\u00e4ubigerausschusses",
         "parent": {
@@ -4340,6 +4679,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040800308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040800308",
         "name": "\u00a7 276a",
         "title": "Mitwirkung der \u00dcberwachungsorgane",
         "parent": {
@@ -4353,6 +4693,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029300000",
         "name": "\u00a7 277",
         "title": "Anordnung der Zustimmungsbed\u00fcrftigkeit",
         "parent": {
@@ -4366,6 +4707,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029400000",
         "name": "\u00a7 278",
         "title": "Mittel zur Lebensf\u00fchrung des Schuldners",
         "parent": {
@@ -4379,6 +4721,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029500000",
         "name": "\u00a7 279",
         "title": "Gegenseitige Vertr\u00e4ge",
         "parent": {
@@ -4392,6 +4735,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029600000",
         "name": "\u00a7 280",
         "title": "Haftung. Insolvenzanfechtung",
         "parent": {
@@ -4405,6 +4749,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029700000",
         "name": "\u00a7 281",
         "title": "Unterrichtung der Gl\u00e4ubiger",
         "parent": {
@@ -4418,6 +4763,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029800000",
         "name": "\u00a7 282",
         "title": "Verwertung von Sicherungsgut",
         "parent": {
@@ -4431,6 +4777,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE029900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE029900000",
         "name": "\u00a7 283",
         "title": "Befriedigung der Insolvenzgl\u00e4ubiger",
         "parent": {
@@ -4444,6 +4791,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE030000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE030000000",
         "name": "\u00a7 284",
         "title": "Insolvenzplan",
         "parent": {
@@ -4457,6 +4805,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE030100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE030100000",
         "name": "\u00a7 285",
         "title": "Masseunzul\u00e4nglichkeit",
         "parent": {
@@ -4470,6 +4819,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036301311",
         "name": "Neunter Teil",
         "title": "Restschuldbefreiung",
         "parent": null
@@ -4477,6 +4827,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE030200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE030200000",
         "name": "\u00a7 286",
         "title": "Grundsatz",
         "parent": {
@@ -4490,6 +4841,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE030302311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE030302311",
         "name": "\u00a7 287",
         "title": "Antrag des Schuldners",
         "parent": {
@@ -4503,6 +4855,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE040900311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE040900311",
         "name": "\u00a7 287a",
         "title": "Entscheidung des Insolvenzgerichts",
         "parent": {
@@ -4516,6 +4869,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041000311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041000311",
         "name": "\u00a7 287b",
         "title": "Erwerbsobliegenheit des Schuldners",
         "parent": {
@@ -4529,6 +4883,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041100311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041100311",
         "name": "\u00a7 288",
         "title": "Bestimmung des Treuh\u00e4nders",
         "parent": {
@@ -4542,6 +4897,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041200311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041200311",
         "name": "\u00a7 289",
         "title": "Einstellung des Insolvenzverfahrens",
         "parent": {
@@ -4555,6 +4911,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE030601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE030601311",
         "name": "\u00a7 290",
         "title": "Versagung der Restschuldbefreiung",
         "parent": {
@@ -4568,6 +4925,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE030701311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE030701311",
         "name": "\u00a7 291",
         "title": "(weggefallen)",
         "parent": {
@@ -4581,6 +4939,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE030802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE030802311",
         "name": "\u00a7 292",
         "title": "Rechtsstellung des Treuh\u00e4nders",
         "parent": {
@@ -4594,6 +4953,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE030901301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE030901301",
         "name": "\u00a7 293",
         "title": "Verg\u00fctung des Treuh\u00e4nders",
         "parent": {
@@ -4607,6 +4967,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031001311",
         "name": "\u00a7 294",
         "title": "Gleichbehandlung der Gl\u00e4ubiger",
         "parent": {
@@ -4620,6 +4981,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031101311",
         "name": "\u00a7 295",
         "title": "Obliegenheiten des Schuldners",
         "parent": {
@@ -4633,6 +4995,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031201311",
         "name": "\u00a7 296",
         "title": "Versto\u00df gegen Obliegenheiten",
         "parent": {
@@ -4646,6 +5009,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031301311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031301311",
         "name": "\u00a7 297",
         "title": "Insolvenzstraftaten",
         "parent": {
@@ -4659,6 +5023,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041300311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041300311",
         "name": "\u00a7 297a",
         "title": "Nachtr\u00e4glich bekannt gewordene Versagungsgr\u00fcnde",
         "parent": {
@@ -4672,6 +5037,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031401301",
         "name": "\u00a7 298",
         "title": "Deckung der Mindestverg\u00fctung des Treuh\u00e4nders",
         "parent": {
@@ -4685,6 +5051,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031501311",
         "name": "\u00a7 299",
         "title": "Vorzeitige Beendigung",
         "parent": {
@@ -4698,6 +5065,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031602311",
         "name": "\u00a7 300",
         "title": "Entscheidung \u00fcber die Restschuldbefreiung",
         "parent": {
@@ -4711,6 +5079,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041400311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041400311",
         "name": "\u00a7 300a",
         "title": "Neuerwerb im laufenden Insolvenzverfahren",
         "parent": {
@@ -4724,6 +5093,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031700000",
         "name": "\u00a7 301",
         "title": "Wirkung der Restschuldbefreiung",
         "parent": {
@@ -4737,6 +5107,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031802311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031802311",
         "name": "\u00a7 302",
         "title": "Ausgenommene Forderungen",
         "parent": {
@@ -4750,6 +5121,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE031901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE031901311",
         "name": "\u00a7 303",
         "title": "Widerruf der Restschuldbefreiung",
         "parent": {
@@ -4763,6 +5135,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE041501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE041501311",
         "name": "\u00a7 303a",
         "title": "Eintragung in das Schuldnerverzeichnis",
         "parent": {
@@ -4776,6 +5149,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036402311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036402311",
         "name": "Zehnter Teil",
         "title": "Verbraucherinsolvenzverfahren",
         "parent": null
@@ -4783,6 +5157,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE032101301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE032101301",
         "name": "\u00a7 304",
         "title": "Grundsatz",
         "parent": {
@@ -4796,6 +5171,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE032307311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE032307311",
         "name": "\u00a7 305",
         "title": "Er\u00f6ffnungsantrag des Schuldners",
         "parent": {
@@ -4809,6 +5185,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036500301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036500301",
         "name": "\u00a7 305a",
         "title": "Scheitern der au\u00dfergerichtlichen Schuldenbereinigung",
         "parent": {
@@ -4822,6 +5199,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE032401301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE032401301",
         "name": "\u00a7 306",
         "title": "Ruhen des Verfahrens",
         "parent": {
@@ -4835,6 +5213,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE032501301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE032501301",
         "name": "\u00a7 307",
         "title": "Zustellung an die Gl\u00e4ubiger",
         "parent": {
@@ -4848,6 +5227,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE032601301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE032601301",
         "name": "\u00a7 308",
         "title": "Annahme des Schuldenbereinigungsplans",
         "parent": {
@@ -4861,6 +5241,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE032702301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE032702301",
         "name": "\u00a7 309",
         "title": "Ersetzung der Zustimmung",
         "parent": {
@@ -4874,6 +5255,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE032800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE032800000",
         "name": "\u00a7 310",
         "title": "Kosten",
         "parent": {
@@ -4887,6 +5269,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE033000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE033000000",
         "name": "\u00a7 311",
         "title": "Aufnahme des Verfahrens \u00fcber den Er\u00f6ffnungsantrag",
         "parent": {
@@ -4900,6 +5283,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE033103311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE033103311",
         "name": "(XXXX) \u00a7\u00a7 312 bis 314",
         "title": "(weggefallen)",
         "parent": {
@@ -4913,6 +5297,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036501311",
         "name": "Elfter Teil",
         "title": "Besondere Arten des Insolvenzverfahrens",
         "parent": null
@@ -4920,6 +5305,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG033401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG033401311",
         "name": "Erster Abschnitt",
         "title": "Nachla\u00dfinsolvenzverfahren",
         "parent": {
@@ -4930,6 +5316,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE033500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE033500000",
         "name": "\u00a7 315",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -4943,6 +5330,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE033600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE033600000",
         "name": "\u00a7 316",
         "title": "Zul\u00e4ssigkeit der Er\u00f6ffnung",
         "parent": {
@@ -4956,6 +5344,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE033700000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE033700000",
         "name": "\u00a7 317",
         "title": "Antragsberechtigte",
         "parent": {
@@ -4969,6 +5358,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE033801301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE033801301",
         "name": "\u00a7 318",
         "title": "Antragsrecht beim Gesamtgut",
         "parent": {
@@ -4982,6 +5372,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE033900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE033900000",
         "name": "\u00a7 319",
         "title": "Antragsfrist",
         "parent": {
@@ -4995,6 +5386,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034000000",
         "name": "\u00a7 320",
         "title": "Er\u00f6ffnungsgr\u00fcnde",
         "parent": {
@@ -5008,6 +5400,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034100000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034100000",
         "name": "\u00a7 321",
         "title": "Zwangsvollstreckung nach Erbfall",
         "parent": {
@@ -5021,6 +5414,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034200000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034200000",
         "name": "\u00a7 322",
         "title": "Anfechtbare Rechtshandlungen des Erben",
         "parent": {
@@ -5034,6 +5428,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034300000",
         "name": "\u00a7 323",
         "title": "Aufwendungen des Erben",
         "parent": {
@@ -5047,6 +5442,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034400000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034400000",
         "name": "\u00a7 324",
         "title": "Masseverbindlichkeiten",
         "parent": {
@@ -5060,6 +5456,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034500000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034500000",
         "name": "\u00a7 325",
         "title": "Nachla\u00dfverbindlichkeiten",
         "parent": {
@@ -5073,6 +5470,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034600000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034600000",
         "name": "\u00a7 326",
         "title": "Anspr\u00fcche des Erben",
         "parent": {
@@ -5086,6 +5484,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034701307",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034701307",
         "name": "\u00a7 327",
         "title": "Nachrangige Verbindlichkeiten",
         "parent": {
@@ -5099,6 +5498,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034800000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034800000",
         "name": "\u00a7 328",
         "title": "Zur\u00fcckgew\u00e4hrte Gegenst\u00e4nde",
         "parent": {
@@ -5112,6 +5512,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE034900000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE034900000",
         "name": "\u00a7 329",
         "title": "Nacherbfolge",
         "parent": {
@@ -5125,6 +5526,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE035000000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE035000000",
         "name": "\u00a7 330",
         "title": "Erbschaftskauf",
         "parent": {
@@ -5138,6 +5540,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE035101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE035101311",
         "name": "\u00a7 331",
         "title": "Gleichzeitige Insolvenz des Erben",
         "parent": {
@@ -5151,6 +5554,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG035201311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG035201311",
         "name": "Zweiter Abschnitt",
         "title": "Insolvenzverfahren \u00fcber das Gesamtgut einer fortgesetzten G\u00fctergemeinschaft",
         "parent": {
@@ -5161,6 +5565,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE035300000",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE035300000",
         "name": "\u00a7 332",
         "title": "Verweisung auf das Nachla\u00dfinsolvenzverfahren",
         "parent": {
@@ -5174,6 +5579,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG035401311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG035401311",
         "name": "Dritter Abschnitt",
         "title": "Insolvenzverfahren \u00fcber das gemeinschaftlich verwaltete Gesamtgut einer G\u00fctergemeinschaft",
         "parent": {
@@ -5184,6 +5590,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE035501311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE035501311",
         "name": "\u00a7 333",
         "title": "Antragsrecht. Er\u00f6ffnungsgr\u00fcnde",
         "parent": {
@@ -5197,6 +5604,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE035601311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE035601311",
         "name": "\u00a7 334",
         "title": "Pers\u00f6nliche Haftung der Ehegatten",
         "parent": {
@@ -5210,6 +5618,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036801311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036801311",
         "name": "Zw\u00f6lfter Teil",
         "title": "Internationales Insolvenzrecht",
         "parent": null
@@ -5217,6 +5626,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036901311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036901311",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -5227,6 +5637,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036600301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036600301",
         "name": "\u00a7 335",
         "title": "Grundsatz",
         "parent": {
@@ -5240,6 +5651,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036700301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036700301",
         "name": "\u00a7 336",
         "title": "Vertrag \u00fcber einen unbeweglichen Gegenstand",
         "parent": {
@@ -5253,6 +5665,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036801308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036801308",
         "name": "\u00a7 337",
         "title": "Arbeitsverh\u00e4ltnis",
         "parent": {
@@ -5266,6 +5679,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE036900301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE036900301",
         "name": "\u00a7 338",
         "title": "Aufrechnung",
         "parent": {
@@ -5279,6 +5693,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037000301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037000301",
         "name": "\u00a7 339",
         "title": "Insolvenzanfechtung",
         "parent": {
@@ -5292,6 +5707,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037102311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037102311",
         "name": "\u00a7 340",
         "title": "Organisierte M\u00e4rkte. Pensionsgesch\u00e4fte",
         "parent": {
@@ -5305,6 +5721,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037200301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037200301",
         "name": "\u00a7 341",
         "title": "Aus\u00fcbung von Gl\u00e4ubigerrechten",
         "parent": {
@@ -5318,6 +5735,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037300301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037300301",
         "name": "\u00a7 342",
         "title": "Herausgabepflicht. Anrechnung",
         "parent": {
@@ -5331,6 +5749,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG037001311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG037001311",
         "name": "Zweiter Abschnitt",
         "title": "Ausl\u00e4ndisches Insolvenzverfahren",
         "parent": {
@@ -5341,6 +5760,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037400301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037400301",
         "name": "\u00a7 343",
         "title": "Anerkennung",
         "parent": {
@@ -5354,6 +5774,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037500301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037500301",
         "name": "\u00a7 344",
         "title": "Sicherungsma\u00dfnahmen",
         "parent": {
@@ -5367,6 +5788,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037603311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037603311",
         "name": "\u00a7 345",
         "title": "\u00d6ffentliche Bekanntmachung",
         "parent": {
@@ -5380,6 +5802,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037700301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037700301",
         "name": "\u00a7 346",
         "title": "Grundbuch",
         "parent": {
@@ -5393,6 +5816,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037800301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037800301",
         "name": "\u00a7 347",
         "title": "Nachweis der Verwalterbestellung. Unterrichtung des Gerichts",
         "parent": {
@@ -5406,6 +5830,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE037901308",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE037901308",
         "name": "\u00a7 348",
         "title": "Zust\u00e4ndiges Insolvenzgericht.<BR/> Zusammenarbeit der Insolvenzgerichte",
         "parent": {
@@ -5419,6 +5844,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038000301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038000301",
         "name": "\u00a7 349",
         "title": "Verf\u00fcgungen \u00fcber unbewegliche Gegenst\u00e4nde",
         "parent": {
@@ -5432,6 +5858,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038100301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038100301",
         "name": "\u00a7 350",
         "title": "Leistung an den Schuldner",
         "parent": {
@@ -5445,6 +5872,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038200301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038200301",
         "name": "\u00a7 351",
         "title": "Dingliche Rechte",
         "parent": {
@@ -5458,6 +5886,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038300301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038300301",
         "name": "\u00a7 352",
         "title": "Unterbrechung und Aufnahme eines Rechtsstreits",
         "parent": {
@@ -5471,6 +5900,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038400301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038400301",
         "name": "\u00a7 353",
         "title": "Vollstreckbarkeit ausl\u00e4ndischer Entscheidungen",
         "parent": {
@@ -5484,6 +5914,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG037101311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG037101311",
         "name": "Dritter Abschnitt",
         "title": "Partikularverfahren \u00fcber das Inlandsverm\u00f6gen",
         "parent": {
@@ -5494,6 +5925,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038500301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038500301",
         "name": "\u00a7 354",
         "title": "Voraussetzungen des Partikularverfahrens",
         "parent": {
@@ -5507,6 +5939,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038600301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038600301",
         "name": "\u00a7 355",
         "title": "Restschuldbefreiung. Insolvenzplan",
         "parent": {
@@ -5520,6 +5953,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038700301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038700301",
         "name": "\u00a7 356",
         "title": "Sekund\u00e4rinsolvenzverfahren",
         "parent": {
@@ -5533,6 +5967,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038800301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038800301",
         "name": "\u00a7 357",
         "title": "Zusammenarbeit der Insolvenzverwalter",
         "parent": {
@@ -5546,6 +5981,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE038900301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE038900301",
         "name": "\u00a7 358",
         "title": "\u00dcberschuss bei der Schlussverteilung",
         "parent": {
@@ -5559,6 +5995,7 @@
       {
         "type": "heading",
         "id": "BJNR286600994BJNG036602311",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNG036602311",
         "name": "Dreizehnter Teil",
         "title": "Inkrafttreten",
         "parent": null
@@ -5566,6 +6003,7 @@
       {
         "type": "article",
         "id": "BJNR286600994BJNE035701301",
+        "url": "https://api.rechtsinformationsportal.de/laws/inso/articles/BJNR286600994BJNE035701301",
         "name": "\u00a7 359",
         "title": "Verweisung auf das Einf\u00fchrungsgesetz",
         "parent": {

@@ -36,6 +36,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE000600326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE000600326",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -46,6 +47,7 @@
       {
         "type": "heading",
         "id": "BJNR005930964BJNG000100326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNG000100326",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -53,6 +55,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE000700326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE000700326",
         "name": "\u00a7 1",
         "title": "Vereinsfreiheit",
         "parent": {
@@ -66,6 +69,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE000801320",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE000801320",
         "name": "\u00a7 2",
         "title": "Begriff des Vereins",
         "parent": {
@@ -79,6 +83,7 @@
       {
         "type": "heading",
         "id": "BJNR005930964BJNG000200326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNG000200326",
         "name": "Zweiter Abschnitt",
         "title": "Verbot von Vereinen",
         "parent": null
@@ -86,6 +91,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE000905116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE000905116",
         "name": "\u00a7 3",
         "title": "Verbot",
         "parent": {
@@ -99,6 +105,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001002116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001002116",
         "name": "\u00a7 4",
         "title": "Ermittlungen",
         "parent": {
@@ -112,6 +119,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001102308",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001102308",
         "name": "\u00a7 5",
         "title": "Vollzug des Verbots",
         "parent": {
@@ -125,6 +133,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001200326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001200326",
         "name": "\u00a7 6",
         "title": "Anfechtung des Verbotsvollzugs",
         "parent": {
@@ -138,6 +147,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001301307",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001301307",
         "name": "\u00a7 7",
         "title": "Unanfechtbarkeit des Verbots, Eintragung in \u00f6ffentliche\nRegister",
         "parent": {
@@ -151,6 +161,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001400326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001400326",
         "name": "\u00a7 8",
         "title": "Verbot der Bildung von Ersatzorganisationen",
         "parent": {
@@ -164,6 +175,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001502116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001502116",
         "name": "\u00a7 9",
         "title": "Kennzeichenverbot",
         "parent": {
@@ -177,6 +189,7 @@
       {
         "type": "heading",
         "id": "BJNR005930964BJNG000300326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNG000300326",
         "name": "Dritter Abschnitt",
         "title": "Beschlagnahme und Einziehung des\nVerm\u00f6gens verbotener Vereine",
         "parent": null
@@ -184,6 +197,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001602310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001602310",
         "name": "\u00a7 10",
         "title": "Verm\u00f6gensbeschlagnahme",
         "parent": {
@@ -197,6 +211,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001702116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001702116",
         "name": "\u00a7 11",
         "title": "Verm\u00f6genseinziehung",
         "parent": {
@@ -210,6 +225,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001803308",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001803308",
         "name": "\u00a7 12",
         "title": "Einziehung von Gegenst\u00e4nden Dritter",
         "parent": {
@@ -223,6 +239,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE001901307",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE001901307",
         "name": "\u00a7 13",
         "title": "Abwicklung",
         "parent": {
@@ -236,6 +253,7 @@
       {
         "type": "heading",
         "id": "BJNR005930964BJNG000400326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNG000400326",
         "name": "Vierter Abschnitt",
         "title": "Sondervorschriften",
         "parent": null
@@ -243,6 +261,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002002320",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002002320",
         "name": "\u00a7 14",
         "title": "Ausl\u00e4ndervereine",
         "parent": {
@@ -256,6 +275,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002102116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002102116",
         "name": "\u00a7 15",
         "title": "Ausl\u00e4ndische Vereine",
         "parent": {
@@ -269,6 +289,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002202320",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002202320",
         "name": "\u00a7 16",
         "title": "Arbeitnehmer- und Arbeitgebervereinigungen",
         "parent": {
@@ -282,6 +303,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002301310",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002301310",
         "name": "\u00a7 17",
         "title": "Wirtschaftsvereinigungen",
         "parent": {
@@ -295,6 +317,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002400326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002400326",
         "name": "\u00a7 18",
         "title": "R\u00e4umlicher Geltungsbereich von Vereinsverboten",
         "parent": {
@@ -308,6 +331,7 @@
       {
         "type": "heading",
         "id": "BJNR005930964BJNG000500326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNG000500326",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Schlu\u00dfbestimmungen",
         "parent": null
@@ -315,6 +339,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002501307",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002501307",
         "name": "\u00a7 19",
         "title": "Rechtsverordnungen",
         "parent": {
@@ -328,6 +353,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002606116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002606116",
         "name": "\u00a7 20",
         "title": "Zuwiderhandlungen gegen Verbote",
         "parent": {
@@ -341,6 +367,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002700326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002700326",
         "name": "\u00a7 21",
         "title": "Zuwiderhandlungen gegen Rechtsverordnungen",
         "parent": {
@@ -354,6 +381,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002800326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002800326",
         "name": "(XXXX) \u00a7\u00a7 22 bis 29",
         "title": "(weggefallen)",
         "parent": {
@@ -367,6 +395,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE003301116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE003301116",
         "name": "\u00a7 30",
         "title": "Aufhebung und Fortgeltung von Rechtsvorschriften",
         "parent": {
@@ -380,6 +409,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE003401116",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE003401116",
         "name": "\u00a7 30a",
         "title": "Zust\u00e4ndige Stelle zur Ausf\u00fchrung der Verordnung (EU, Euratom) Nr. 1141/2014",
         "parent": {
@@ -393,6 +423,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE002900326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE002900326",
         "name": "\u00a7 31",
         "title": "\u00dcbergangsregelungen",
         "parent": {
@@ -406,6 +437,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE003000326",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE003000326",
         "name": "\u00a7 32",
         "title": "Einschr\u00e4nkung von Grundrechten",
         "parent": {
@@ -419,6 +451,7 @@
       {
         "type": "article",
         "id": "BJNR005930964BJNE003201308",
+        "url": "https://api.rechtsinformationsportal.de/laws/vereinsg/articles/BJNR005930964BJNE003201308",
         "name": "\u00a7 33",
         "title": "Inkrafttreten",
         "parent": {
