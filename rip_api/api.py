@@ -169,3 +169,8 @@ async def bulk_download_laws_tarball():
     return fastapi.responses.RedirectResponse(
         url=f"{PUBLIC_ASSET_ROOT}/all_laws.tar.gz",
         status_code=302)
+
+
+@app.get("/")
+async def redirect_root():
+    return fastapi.responses.RedirectResponse(url="/docs", status_code=302)
