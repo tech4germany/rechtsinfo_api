@@ -148,7 +148,7 @@ def extract_contents(body_norms):
         if "NE" in item["doknr"]:
             item["item_type"] = "article"
         elif "NG" in item["doknr"]:
-            if item["body"] or item["footnotes"] or item["documentary_footnotes"]:
+            if item["body"]:
                 item["item_type"] = "heading_article"
             else:
                 item["item_type"] = "heading"
