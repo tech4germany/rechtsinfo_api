@@ -1,16 +1,17 @@
 """Add full text search
 
-Revision ID: 6a36ec2b5509
-Revises: b379bf626e54
-Create Date: 2020-10-02 12:03:31.158624
+Revision ID: 3655e2e3bf1a
+Revises: 6a36ec2b5509
+Create Date: 2020-10-07 17:19:12.985066
 
 """
 from alembic import op
 import sqlalchemy as sa
 from sqlalchemy.dialects import postgresql
 
+
 # revision identifiers, used by Alembic.
-revision = '6a36ec2b5509'
+revision = '3655e2e3bf1a'
 down_revision = 'b379bf626e54'
 branch_labels = None
 depends_on = None
@@ -19,7 +20,7 @@ depends_on = None
 def upgrade():
     op.add_column('content_items', sa.Column('search_tsv', postgresql.TSVECTOR(), sa.Computed("""
         setweight(to_tsvector('german',
-            coalesce(content_items.name, '') ||
+            coalesce(content_items.name, '') || ' ' ||
             coalesce(content_items.title, '')),
         'A') ||
         setweight(to_tsvector('german',
@@ -28,8 +29,8 @@ def upgrade():
     """), nullable=True))
     op.add_column('laws', sa.Column('search_tsv', postgresql.TSVECTOR(), sa.Computed("""
         setweight(to_tsvector('german',
-            coalesce(laws.title_long, '') ||
-            coalesce(laws.title_short, '') ||
+            coalesce(laws.title_long, '') || ' ' ||
+            coalesce(laws.title_short, '') || ' ' ||
             coalesce(laws.abbreviation, '')),
         'A') ||
         setweight(to_tsvector('german',

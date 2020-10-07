@@ -42,8 +42,8 @@ class Law(Base):
     # Search index. Cf. https://www.postgresql.org/docs/current/textsearch-controls.html
     search_tsv = Column(postgresql.TSVECTOR, Computed("""
         setweight(to_tsvector('german',
-           coalesce(laws.title_long, '') ||
-           coalesce(laws.title_short, '') ||
+           coalesce(laws.title_long, '') || ' ' ||
+           coalesce(laws.title_short, '') || ' ' ||
            coalesce(laws.abbreviation, '')),
        'A') ||
        setweight(to_tsvector('german',
@@ -98,7 +98,7 @@ class ContentItem(Base):
     # Search index. Cf. https://www.postgresql.org/docs/current/textsearch-controls.html
     search_tsv = Column(postgresql.TSVECTOR, Computed("""
         setweight(to_tsvector('german',
-           coalesce(content_items.name, '') ||
+           coalesce(content_items.name, '') || ' ' ||
            coalesce(content_items.title, '')),
        'A') ||
        setweight(to_tsvector('german',
