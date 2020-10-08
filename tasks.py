@@ -124,7 +124,7 @@ def generate_and_upload_bulk_law_files(c):
 
 
 @task
-def start_api_server_dev(c):
+def start_api_server(c):
     """Start API server in development mode."""
     uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
 
@@ -152,6 +152,8 @@ def build_and_upload_lambda_deps_layer(c):
     # Use terraform to create new layer version (layers are immutable and can only be replaced, not updated).
     c.run("terraform taint aws_lambda_layer_version.deps_layer")
     c.run("terraform apply")
+
+    print("IMPORTANT: Make sure to commit and push any changes to `terraform.tfstate` and `terraform.tfstate.backup`!")
 
 
 @task
@@ -196,7 +198,7 @@ examples.add_task(generate_json_examples)
 ns.add_collection(examples)
 
 dev = Collection('dev')
-dev.add_task(start_api_server_dev)
+dev.add_task(start_api_server)
 ns.add_collection(dev)
 
 deploy = Collection('deploy')
