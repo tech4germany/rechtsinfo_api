@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 # Cf. https://docs.aws.amazon.com/lambda/latest/dg/python-package.html#deployment-pkg-for-virtualenv
 python -m venv deploy_venv

@@ -134,4 +134,5 @@ dmypy.json
 # infrastructure tools and build artefacts
 .terraform
 lambda_deps.zip
+lambda_deps
 lambda_function.zip
