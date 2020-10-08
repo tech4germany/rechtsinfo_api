@@ -1,15 +1,33 @@
-# API für Rechtsinformationen des Bundes
-![Tests](https://github.com/tech4germany/rechtsinfo_api/workflows/Tests/badge.svg)
+# Rechtsinfo API
 
-Entstanden im Rahmen des [Tech4Germany Fellowship 2020](https://tech.4germany.org/) im [Projekt Rechtsinformationsportal](https://tech.4germany.org/project/rechtsinformationsportal/).
+![Tests](https://github.com/tech4germany/rechtsinfo_api/workflows/Tests/badge.svg) [![license](https://img.shields.io/github/license/tech4germany/rechtsinfo_api.svg)](LICENSE)
 
--- TODO:  BILD einfügen und alle 4 taggen --
+API für Rechtsinformationen des Bundes.
 
-Mit diesem API-Projekt machen wir Rechtsinformationen des Bundes unter https://api.rechtsinformationsportal.de/ verfügbar. Dokumentation unter https://api.rechtsinformationsportal.de/docs.
+Live: https://api.rechtsinformationsportal.de/  
+Dokumentation: https://api.rechtsinformationsportal.de/docs
+
+> _Rechtsinformationen für alle_
+ 
+Jeder hat das Recht auf Zugang zu den Gesetzen und Gerichtsentscheidungen, die unser Zusammenleben in der Gesellschaft regeln. Bisher sind die Rechtsinformationen des Bundes in maschinenlesbarer Form nur als umständlich zu verarbeitende Sammlung einzelner, in Teilen kryptischer XML-Dateien auf gesetze-im-internet.de und rechtsprechung-im-internet.de verfügbar. Wir wollen das ändern, indem wir diese Daten aufbereiten und in einem selbsterklärenden JSON-Format über eine Standards-konforme API der Öffentlichkeit zur Verfügung stellen.
 
 Aktuell enthalten sind alle Bundesgesetze und -verordnungen in ihrer aktuellen Fassung.  
 (Noch) nicht verfügbar: Rechtsprechung, Verwaltungsvorschriften, Europa- und Landesrecht
 
+Gebaut im [Tech4Germany Fellowship 2020](https://tech.4germany.org/) vom [Projekt Rechtsinformationsportal](https://tech.4germany.org/project/rechtsinformationsportal/). Wir sind:
+
+-- TODO:  BILD einfügen  --  
+_von links nach rechts_: [Niko Felger](https://www.linkedin.com/in/nfelger/) –
+[Greta Fest](https://www.linkedin.com/in/greta-fest-722a73122/) –
+[Tito Rodriguez](https://www.linkedin.com/in/joseernestorodriguez/) –
+[Conrad Schlenkhoff](https://www.linkedin.com/in/conrad-schlenkhoff/)
+
+
+## Nutzung
+
+Wer die API nutzen möchte, findet auf https://api.rechtsinformationsportal.de/ detaillierte Dokumentation.
+
+TODO: *verschieben in API docs* Die API lässt sich mit geläufigen HTTP Tools nutzen, wer aber lieber eine Client Library möchte, findet bei https://openapi-generator.tech/ Code-Generatoren für über 50 verschieden Sprachen. Das API Schema liegt unter /openapi.json.
 
 ## TODO: Architektur
 TODO: Kurzbeschreibung Architektur
@@ -33,7 +51,7 @@ Beschreibung Komponenten u. Tools
 ### Voraussetzungen
 Für die lokale Entwicklung sind notwendig:
 - Python 3.8 mit [pip](https://pip.pypa.io/en/stable/installing/) und [pipenv](https://pipenv.pypa.io/en/latest/#install-pipenv-today)
-  - Ubuntu: `sudo apt update && sudo apt install software-properties-common && sudo add-apt-repository ppa:deadsnakes/ppa && sudo apt install python3.8 && pip3 install --user pipenv`
+  - Ubuntu: `sudo apt update && sudo apt install software-properties-common && sudo add-apt-repository ppa:deadsnakes/ppa && sudo apt install python3.8 python3-pip && sudo pip3 install pipenv`
   - macOS: `brew install python@3.8 pipenv`
 - PostgreSQL 12+
   - Ubuntu: `sudo apt install postgresql`
@@ -54,14 +72,19 @@ cd rechtsinfo_api
 pipenv install --dev
 ```
 
+### `pipenv shell`
+
+```
+pipenv shell
+```
+öffnet eine Shell, in der alle Python-Abhängigkeiten des Projekts verfügbar sind. Alles Folgende sollte in einer solchen Shell ausgeführt werden.
+
 ### Datenbank initialisieren
 
 ```sh
-# Leere Datenbank erzeugen.
+# Postgres Datenbank erzeugen, z.B. mit:
 createdb rip_api
-# Shell öffnen, in der alle Python-Abhängigkeiten des Projekts verfügbar sind.
-pipenv shell
-# Datenbank URL setzen. Format ist: postgresql://$username:$password@$host:$port/$database.
+# Datenbank URL setzen. Format ist: postgresql://$username:$password@$host:$port/$database. Z.B.:
 export DB_URL="postgresql://localhost:5432/rip_api"
 # Datenbanktabellen initialisieren
 invoke database.init
