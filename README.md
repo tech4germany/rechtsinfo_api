@@ -1,13 +1,13 @@
 # API für Rechtsinformationen des Bundes
 ![Tests](https://github.com/tech4germany/rechtsinfo_api/workflows/Tests/badge.svg)
 
-Entstanden im Rahmen des [Tech4Germany Fellowship 2020](https://tech.4germany.org/) als Projekt Rechtsinformationsportal (TODO: VERLINKEN SOBALD FALLSTUDIE ÖFFENTLICH).
+Entstanden im Rahmen des [Tech4Germany Fellowship 2020](https://tech.4germany.org/) im [Projekt Rechtsinformationsportal](https://tech.4germany.org/project/rechtsinformationsportal/).
 
 -- TODO:  BILD einfügen und alle 4 taggen --
 
-Mit diesem API-Projekt machen wir unter https://api.rechtsinformationsportal.de/ Rechtsinformationen des Bundes verfügbar. Für API-Dokumentation siehe https://api.rechtsinformationsportal.de/docs.
+Mit diesem API-Projekt machen wir Rechtsinformationen des Bundes unter https://api.rechtsinformationsportal.de/ verfügbar. Dokumentation unter https://api.rechtsinformationsportal.de/docs.
 
-Aktuell enthalten sind alle Bundesgesetze und -verordnungen in ihrer aktuellen Fassung.
+Aktuell enthalten sind alle Bundesgesetze und -verordnungen in ihrer aktuellen Fassung.  
 (Noch) nicht verfügbar: Rechtsprechung, Verwaltungsvorschriften, Europa- und Landesrecht
 
 
@@ -30,13 +30,17 @@ Beschreibung Komponenten u. Tools
 
 ## Installation
 
-### Vorraussetzungen
+### Voraussetzungen
 Für die lokale Entwicklung sind notwendig:
 - Python 3.8 mit [pip](https://pip.pypa.io/en/stable/installing/) und [pipenv](https://pipenv.pypa.io/en/latest/#install-pipenv-today)
+  - Ubuntu: `sudo apt update && sudo apt install software-properties-common && sudo add-apt-repository ppa:deadsnakes/ppa && sudo apt install python3.8 && pip3 install --user pipenv`
+  - macOS: `brew install python@3.8 pipenv`
 - PostgreSQL 12+
+  - Ubuntu: `sudo apt install postgresql`
+  - macOS: `brew install postgresql`
 - Systemabhängigkeiten der Python-Pakete [lxml](https://lxml.de/installation.html) und [psycopg2](https://www.psycopg.org/docs/install.html):
-  - Ubuntu: `apt install libxml2-dev libxslt-dev libpq-dev`
-  - macOS: `brew install libxml2 libxslt postgresql`
+  - Ubuntu: `sudo apt install libxml2-dev libxslt-dev libpq-dev`
+  - macOS: `brew install libxml2 libxslt`
 
 ### Repo klonen
 
@@ -78,7 +82,7 @@ Die für's Projekt wichtigsten Tasks können mit [`invoke`](http://www.pyinvoke.
 invoke --list
 ```
 
-Die Tasks sind definiert in [tasks.py](tasks.py).
+Tasks sind definiert in [tasks.py](tasks.py).
 
 
 ### Daten importieren
@@ -92,7 +96,7 @@ invoke ingest.download-laws ./downloads/gii/
 invoke ingest.ingest-data-from-location ./downloads/gii/
 ```
 
-Die Daten werden nach `./downloads/gii/` geladen und mit Timestamps versehen, so das bei späterem erneuten Ausführen nur diejenigen Gesetze aktualisiert werden, für die es Änderungen auf gesetze-im-internet.de gibt.
+Die Daten werden in `./downloads/gii/` gespeichert und dabei mit Timestamps versehen, so dass bei späterem Ausführen nur diejenigen Gesetze aktualisiert werden, für die es Änderungen auf gesetze-im-internet.de gibt.
 
 Beide Tasks akzeptieren anstelle eines lokalen Pfades auch eine S3 URL in der Form `s3://bucket-name/key-prefix`. In der Produktivumgebung werden die Tasks zB mit `s3://fellows-2020-rechtsinfo-assets/public/gesetze_im_internet` ausgeführt.
 
@@ -121,7 +125,7 @@ Für einfache Code-Updates genügt es, eine neue ZIP-Datei auf S3 hochzuladen un
 invoke deploy.build-and-upload-lambda-function
 ```
 
-Haben sich die Python-Abhängigkeiten in der `Pipfile` geändert, muss das Abhängigkeits-Layer neu gebaut. Für Layer-Updates muss eine neue Version des Layers erzeugt die Konfiguration der Lambda-Funktionen aktualisiert werden. Dafür setzen wir terraform ein:
+Haben sich die Python-Abhängigkeiten in der `Pipfile` geändert, muss das Abhängigkeits-Layer neu gebaut werden. Für Layer-Updates muss eine neue Version des Layers erzeugt die Konfiguration der Lambda-Funktionen aktualisiert werden. Dafür setzen wir terraform ein:
 
 ```sh
 invoke deploy.build-and-upload-lambda-deps-layer
