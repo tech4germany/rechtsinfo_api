@@ -169,7 +169,15 @@ def build_and_upload_lambda_function(c):
     for fn in ("fellows-2020-rechtsinfo-Api", "fellows-2020-rechtsinfo-DownloadLaws", "fellows-2020-rechtsinfo-IngestLaws"):
         update_lambda_fn(fn, function_s3_key)
 
+
+@task
+def run_tests(c):
+    """Run project test suite."""
+    c.run("pytest")
+
+
 ns = Collection()
+ns.add_task(run_tests, 'tests')
 
 database = Collection('database')
 database.add_task(db_init, 'init')
