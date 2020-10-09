@@ -150,6 +150,7 @@ def build_and_upload_lambda_deps_layer(c):
     # Rm local file.
     c.run("rm ./lambda_deps.zip")
     # Use terraform to create new layer version (layers are immutable and can only be replaced, not updated).
+    c.run("[ -e .terraform ] || terraform init")
     c.run("terraform taint aws_lambda_layer_version.deps_layer")
     c.run("terraform apply")
 
