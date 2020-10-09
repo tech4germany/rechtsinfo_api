@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash -xe
 
 ./build_lambda_deps_layer.sh
 cd lambda_deps

@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash -xe
 
 # Cf. https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html#configuration-layers-path
 # and https://github.com/pypa/pipenv/issues/2705
