@@ -7,6 +7,7 @@ verify_ssl = true
 rechtsinfo-api = {editable = true, path = "."}
 pytest-cov = "*"
 pytest = "*"
+wheel = "*"
 
 [packages]
 lxml = "*"
