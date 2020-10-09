@@ -7,6 +7,7 @@ mkdir -p lambda_deps/python
 pipenv lock --requirements --keep-outdated > lambda_deps/requirements.txt
 docker run --rm \
   -v ${PWD}/lambda_deps:/opt/lambda_deps \
+  --user $(id -u):$(id -g) \
   'lambci/lambda:build-python3.8' \
   python -m pip install -r /opt/lambda_deps/requirements.txt --no-deps --target /opt/lambda_deps/python
 rm lambda_deps/requirements.txt
