@@ -1,0 +1,19 @@
+@startuml "context"
+!include  <C4/C4_Context.puml>
+!include <office/Users/user.puml>
+!include <tupadr3/font-awesome/server>
+!include <tupadr3/font-awesome/globe>
+
+LAYOUT_LEFT_RIGHT
+hide stereotype
+title Systemkontext Rechtsinfo API
+
+!define ICON_SCALE 0.7
+
+Person(client, API Nutzer, "<$user*ICON_SCALE>")
+System(api, "Rechtsinfo API", "<$server*ICON_SCALE>")
+System_Ext(gii, "gesetze-im-internet.de", "<$globe*ICON_SCALE>")
+
+client --> api : **Daten-**\n**abfrage von**
+api --> gii : **täglicher Daten-**\n**import von**
+@enduml

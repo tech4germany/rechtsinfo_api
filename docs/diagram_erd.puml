@@ -1,0 +1,40 @@
+@startuml "erd"
+
+left to right direction
+
+hide circle
+
+skinparam linetype ortho
+skinparam shadowing false
+
+skinparam class {
+  BackgroundColor White
+  ArrowColor 666666
+  BorderColor 666666
+}
+
+entity "Law" as law {
+  _id_
+  doknr
+  --
+  title_long
+  title_short
+  ...
+}
+
+entity "ContentItem" as content_item {
+  _id_
+  doknr
+  item_type
+  --
+  name
+  body
+  law_id
+  parent_id
+  ...
+}
+
+law ||..o{ content_item
+content_item ||..o| content_item
+
+@enduml

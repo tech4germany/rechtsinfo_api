@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="959px" preserveAspectRatio="none" style="width:688px;height:959px;" version="1.1" viewBox="0 0 688 959" width="688px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="177" x="249" y="17.4023">Architekturüberblick</text><!--MD5=[c444070a69c905f8781a2e7d91c12e8c]
+cluster aws--><rect fill="#FFFFFF" height="840" style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="675" x="7" y="113.1992"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="107" x="291" y="130.668">Amazon AWS</text><!--MD5=[33607ebfc4f246ac645613fc9f22170d]
+cluster vpc--><rect fill="#FFFFFF" height="425" style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="445" x="15" y="520.1992"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="104" x="185.5" y="537.668">Amazon VPC</text><!--MD5=[dfdc8712fc4f584f6135cd5291ab71da]
+entity fn_dl--><rect fill="#438DD5" height="118.9297" style="stroke: #3C7FC0; stroke-width: 1.5;" width="209" x="353.5" y="337.1992"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="83" x="416.5" y="362.668">Download</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="416.5" y="377.6445">[AWS Lambda]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="460" y="393.7109"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="178" x="369" y="410.1992">Prüft Gesetze-im-Internet</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="185" x="363.5" y="426.6875">auf aktualisierte Daten und</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="117" x="399.5" y="443.1758">lädt sie herunter.</text><!--MD5=[b165ca7cce796f881c879adda4a6bef9]
+entity s3--><path d="M468.5,739.1992 C468.5,729.1992 555,729.1992 555,729.1992 C555,729.1992 641.5,729.1992 641.5,739.1992 L641.5,830.6406 C641.5,840.6406 555,840.6406 555,840.6406 C555,840.6406 468.5,840.6406 468.5,830.6406 L468.5,739.1992 " fill="#438DD5" style="stroke: #3C7FC0; stroke-width: 1.5;"/><path d="M468.5,739.1992 C468.5,749.1992 555,749.1992 555,749.1992 C555,749.1992 641.5,749.1992 641.5,739.1992 " fill="none" style="stroke: #3C7FC0; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="132" x="489" y="768.668">File Object Store</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="497.5" y="783.6445">[Amazon S3 Bucket]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="557" y="799.7109"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="149" x="482.5" y="816.1992">Bucket fellows-2020-</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="119" x="495.5" y="832.6875">rechtsinfo-assets</text><!--MD5=[bbdf8ef771333c5b2f6f2c61526c6832]
+entity api_gw--><rect fill="#438DD5" height="85.9531" style="stroke: #3C7FC0; stroke-width: 1.5;" width="200" x="24" y="150.1992"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="100" x="74" y="175.668">API Gateway</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="130" x="59" y="190.6445">[Amazon API Gateway]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="126" y="206.7109"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="176" x="38" y="223.1992">Öffentliches API Interface.</text><!--MD5=[de13b8a143794b96dab3e6f6ebdaf5c7]
+entity cloud_watch--><rect fill="#438DD5" height="85.9531" style="stroke: #3C7FC0; stroke-width: 1.5;" width="201" x="259.5" y="150.1992"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="178" x="271" y="175.668">Zeit-basierter Trigger</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="126" x="297" y="190.6445">[Amazon CloudWatch]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="362" y="206.7109"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="177" x="273.5" y="223.1992">Wird 1x täglich ausgelöst.</text><!--MD5=[9165205860b4a04c4178f9f1d9656a19]
+entity fn_api--><rect fill="#438DD5" height="85.9531" style="stroke: #3C7FC0; stroke-width: 1.5;" width="202" x="23" y="557.1992"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="27" x="110.5" y="582.668">API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="82.5" y="597.6445">[AWS Lambda]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="126" y="613.7109"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="178" x="37" y="630.1992">Beantwortet API Requests.</text><!--MD5=[2eb915e02b08d28b1ae925c7820aa5af]
+entity fn_ing--><rect fill="#438DD5" height="102.4414" style="stroke: #3C7FC0; stroke-width: 1.5;" width="191" x="260.5" y="549.1992"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="51" x="330.5" y="574.668">Ingest</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="314.5" y="589.6445">[AWS Lambda]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="358" y="605.7109"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="138" x="287" y="622.1992">Parst und importiert</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="171" x="270.5" y="638.6875">heruntergeladene Daten.</text><!--MD5=[78922e3f719f32bf869a7a66bdadb0f4]
+entity rds--><path d="M91.5,885.1992 C91.5,875.1992 195,875.1992 195,875.1992 C195,875.1992 298.5,875.1992 298.5,885.1992 L298.5,927.1758 C298.5,937.1758 195,937.1758 195,937.1758 C195,937.1758 91.5,937.1758 91.5,927.1758 L91.5,885.1992 " fill="#438DD5" style="stroke: #3C7FC0; stroke-width: 1.5;"/><path d="M91.5,885.1992 C91.5,895.1992 195,895.1992 195,895.1992 C195,895.1992 298.5,895.1992 298.5,885.1992 " fill="none" style="stroke: #3C7FC0; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="187" x="101.5" y="914.668">PostgreSQL Datenbank</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="82" x="154" y="929.6445">[Amazon RDS]</text><!--MD5=[4a65e84059005d12693a083370a06717]
+entity client--><rect fill="#686868" height="38.8438" style="stroke: #8A8A8A; stroke-width: 1.5;" width="99" x="74.5" y="28.1992"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="84.5" y="53.668">API Client</text><!--MD5=[410243fdb310c824d8fc5abeaf9c2629]
+entity gii--><rect fill="#999999" height="38.8438" style="stroke: #8A8A8A; stroke-width: 1.5;" width="211" x="408.5" y="28.1992"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="191" x="418.5" y="53.668">gesetze-im-internet.de</text><!--MD5=[7004b8eab536b9a3502956b64a880a52]
+link client to api_gw--><path d="M124,67.322 C124,87.102 124,118.4032 124,144.843 " fill="none" id="client-to-api_gw" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="124,150.0613,128,141.0613,124,145.0613,120,141.0613,124,150.0613" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="49" x="140.5" y="87.8008">Abfrage</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="80" x="125" y="101.9336">[JSON/HTTPS]</text><!--MD5=[0bc0d7a9034289f880c661e68f38be74]
+link api_gw to fn_api--><path d="M124,236.2791 C124,257.0998 124,282.4492 124,305.1992 C124,305.1992 124,305.1992 124,488.1992 C124,509.083 124,532.1572 124,551.908 " fill="none" id="api_gw-to-fn_api" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="124,557.1193,128,548.1193,124,552.1193,120,548.1193,124,557.1193" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="135" x="125" y="394.3008">leitet Abfragen weiter</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="72" x="156.5" y="408.4336">[AWS-intern]</text><!--MD5=[27d4c4da974f8f143a45040ec2d8fc8f]
+link fn_api to rds--><path d="M127.3628,643.2043 C128.2673,658.0796 129,674.8631 129,690.1992 C129,690.1992 129,690.1992 129,857.6992 C129,862.4005 130.1009,866.6964 132.0182,870.6133 " fill="none" id="fn_api-to-rds" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="134.6271,875.0387,133.5022,865.2543,132.0878,870.7315,126.6107,869.3171,134.6271,875.0387" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="27" x="144" y="782.3008">liest</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="55" x="130" y="796.4336">[TCP/SSL]</text><!--MD5=[f12ea57818467146d3a93dfb3a95f7fd]
+link cloud_watch to fn_dl--><path d="M363.84,236.2809 C367.4623,261.8084 374.4713,294.1514 388,320.1992 C390.2403,324.5127 392.7868,328.7673 395.5498,332.9274 " fill="none" id="cloud_watch-to-fn_dl" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="398.3817,337.0547,396.5881,327.3706,395.5529,332.9319,389.9915,331.8967,398.3817,337.0547" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="50" x="413" y="302.8008">löst aus</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="389" y="316.9336">[AWS API/HTTPS]</text><!--MD5=[f7f3e36bb69559a84be43c97ad9d0cc4]
+reverse link gii to fn_dl--><path d="M514.7537,72.2559 C515.6415,120.5631 514.7184,231.0003 492,320.1992 C490.601,325.6921 488.8392,331.2868 486.8575,336.8248 " fill="none" id="gii-backto-fn_dl" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="514.6504,67.2269,510.8364,76.3073,514.7533,72.2259,518.8347,76.1427,514.6504,67.2269" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="78" x="506" y="264.8008">crawlt Daten</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="76" x="507" y="278.9336">[XML/HTTPS]</text><!--MD5=[363d7380d44ee5e10940f330704f54cf]
+link fn_dl to fn_ing--><path d="M421.9938,456.4844 C418.872,462.0907 415.8286,467.7232 413,473.1992 C401.1955,496.0519 389.3543,521.8537 379.5473,544.2027 " fill="none" id="fn_dl-to-fn_ing" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="377.4862,548.917,384.7566,542.2731,379.4892,544.3358,377.4266,539.0683,377.4862,548.917" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="50" x="438" y="485.8008">löst aus</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="414" y="499.9336">[AWS API/HTTPS]</text><!--MD5=[0d94ebb9db722737b90fa4ac3cb27283]
+link fn_dl to s3--><path d="M513.7641,456.3192 C518.7712,466.2969 522,477.0525 522,488.1992 C522,488.1992 522,488.1992 522,690.1992 C522,701.4262 524.1017,713.0052 527.2443,724.0433 " fill="none" id="fn_dl-to-s3" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="528.7577,729.0737,529.9953,719.3029,527.3173,724.2857,522.3345,721.6076,528.7577,729.0737" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="50" x="571" y="590.8008">schreibt</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="150" x="523" y="604.9336">heruntergeladene Daten</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="549" y="619.0664">[AWS API/HTTPS]</text><!--MD5=[ee36fc50b18e2eba2d12b924683eb77e]
+link fn_ing to s3--><path d="M348.3906,651.4247 C348.1416,672.7234 352.1085,696.1651 367,712.1992 C395.9666,743.3884 421.6842,715.7541 463.4493,728.8126 " fill="none" id="fn_ing-to-s3" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="468.3507,730.5094,461.1544,723.7853,463.6258,728.8737,458.5374,731.3451,468.3507,730.5094" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="140" x="368" y="680.8008">liest heruntergeladene</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="37" x="421.5" y="694.9336">Daten</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="98" x="391" y="709.0664">[AWS API/HTTPS]</text><!--MD5=[49061e4068c1565d98a0999aabb094c3]
+link fn_ing to rds--><path d="M270.7215,651.4421 C268.6653,653.9324 266.7481,656.5179 265,659.1992 C257.3782,670.8899 260,676.2434 260,690.1992 C260,690.1992 260,690.1992 260,857.6992 C260,862.3544 258.9158,866.6161 257.0275,870.5083 " fill="none" id="fn_ing-to-rds" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="254.4581,874.9092,262.4502,869.1537,256.9791,870.5913,255.5415,865.1201,254.4581,874.9092" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="261" y="775.3008">schreibt verarbeitete</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="43" x="305.5" y="789.4336">Inhalte</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="55" x="299.5" y="803.5664">[TCP/SSL]</text><!--MD5=[17a7911d1cb544572b25eedc2aa4d66d]
+@startuml "container"
+!include <C4/C4_Container.puml>
+
+LAYOUT_TOP_DOWN
+hide stereotype
+title Architekturüberblick
+
+!define ICON_SCALE 0.7
+skinparam Ranksep 5
+
+!procedure $arrow_label($line1, $line2="")
+!if ($line2 != "")
+!$line2 = "\n//<size:12>[" + $line2 + "]</size>//"
+!endif
+**$line1**$line2
+!endprocedure
+
+Person_Ext(client, "API Client")
+System_Ext(gii, "gesetze-im-internet.de")
+Boundary(aws, "Amazon AWS") {
+  together {
+    Container(api_gw, "API Gateway", "Amazon API Gateway", "Öffentliches API Interface.")
+    Container(cloud_watch, "Zeit-basierter Trigger", "Amazon CloudWatch", "Wird 1x täglich ausgelöst.")
+  }
+  Container(fn_dl, "Download", "AWS Lambda", "Prüft Gesetze-im-Internet auf aktualisierte Daten und lädt sie herunter.")
+  Boundary(vpc, "Amazon VPC") {
+    Container(fn_api, "API", "AWS Lambda", "Beantwortet API Requests.")
+    Container(fn_ing, "Ingest", "AWS Lambda", "Parst und importiert heruntergeladene Daten.")
+    ContainerDb(rds, "PostgreSQL Datenbank", "Amazon RDS")
+  }
+
+  ContainerDb(s3, "File Object Store", "Amazon S3 Bucket", "Bucket fellows-2020-rechtsinfo-assets")
+}
+
+client - -> api_gw : $arrow_label("Abfrage", "JSON/HTTPS")
+api_gw - -> fn_api : $arrow_label("leitet Abfragen weiter", "AWS-intern")
+fn_api - -> rds : $arrow_label("liest", "TCP/SSL")
+cloud_watch - -> fn_dl : $arrow_label("löst aus", "AWS API/HTTPS")
+gii <- - - - fn_dl : $arrow_label("crawlt Daten", "XML/HTTPS")
+fn_dl - -> fn_ing : $arrow_label("löst aus", "AWS API/HTTPS")
+fn_dl - -> s3 : $arrow_label("schreibt heruntergeladene Daten", "AWS API/HTTPS")
+fn_ing - -> s3 : $arrow_label("liest heruntergeladene Daten", "AWS API/HTTPS")
+fn_ing - -> rds : $arrow_label("schreibt verarbeitete Inhalte", "TCP/SSL")
+
+@enduml
+
+@startuml "container"
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+
+
+
+
+
+
+
+top to bottom direction
+hide stereotype
+title Architekturüberblick
+
+skinparam Ranksep 5
+
+
+rectangle "==API Client" <<external_person>> as client
+rectangle "==gesetze-im-internet.de" <<external_system>> as gii
+rectangle "==Amazon AWS" <<boundary>> as aws {
+  together {
+    rectangle "==API Gateway\n//<size:12>[Amazon API Gateway]</size>//\n\n Öffentliches API Interface." <<container>> as api_gw
+    rectangle "==Zeit-basierter Trigger\n//<size:12>[Amazon CloudWatch]</size>//\n\n Wird 1x täglich ausgelöst." <<container>> as cloud_watch
+  }
+  rectangle "==Download\n//<size:12>[AWS Lambda]</size>//\n\n Prüft Gesetze-im-Internet auf aktualisierte Daten und lädt sie herunter." <<container>> as fn_dl
+  rectangle "==Amazon VPC" <<boundary>> as vpc {
+    rectangle "==API\n//<size:12>[AWS Lambda]</size>//\n\n Beantwortet API Requests." <<container>> as fn_api
+    rectangle "==Ingest\n//<size:12>[AWS Lambda]</size>//\n\n Parst und importiert heruntergeladene Daten." <<container>> as fn_ing
+    database "==PostgreSQL Datenbank\n//<size:12>[Amazon RDS]</size>//" <<container>> as rds
+  }
+
+  database "==File Object Store\n//<size:12>[Amazon S3 Bucket]</size>//\n\n Bucket fellows-2020-rechtsinfo-assets" <<container>> as s3
+}
+
+client - -> api_gw : **Abfrage**\n//<size:12>[JSON/HTTPS]</size>//
+api_gw - -> fn_api : **leitet Abfragen weiter**\n//<size:12>[AWS-intern]</size>//
+fn_api - -> rds : **liest**\n//<size:12>[TCP/SSL]</size>//
+cloud_watch - -> fn_dl : **löst aus**\n//<size:12>[AWS API/HTTPS]</size>//
+gii <- - - - fn_dl : **crawlt Daten**\n//<size:12>[XML/HTTPS]</size>//
+fn_dl - -> fn_ing : **löst aus**\n//<size:12>[AWS API/HTTPS]</size>//
+fn_dl - -> s3 : **schreibt heruntergeladene Daten**\n//<size:12>[AWS API/HTTPS]</size>//
+fn_ing - -> s3 : **liest heruntergeladene Daten**\n//<size:12>[AWS API/HTTPS]</size>//
+fn_ing - -> rds : **schreibt verarbeitete Inhalte**\n//<size:12>[TCP/SSL]</size>//
+
+@enduml
+
+PlantUML version 1.2020.18(Wed Sep 30 21:40:44 CEST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: DE
+--></g></svg>

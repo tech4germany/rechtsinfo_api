@@ -1,0 +1,45 @@
+@startuml "container"
+!include <C4/C4_Container.puml>
+
+LAYOUT_TOP_DOWN
+hide stereotype
+title Architekturüberblick
+
+!define ICON_SCALE 0.7
+skinparam Ranksep 5
+
+!procedure $arrow_label($line1, $line2="")
+!if ($line2 != "")
+!$line2 = "\n//<size:12>[" + $line2 + "]</size>//"
+!endif
+**$line1**$line2
+!endprocedure
+
+Person_Ext(client, "API Client")
+System_Ext(gii, "gesetze-im-internet.de")
+Boundary(aws, "Amazon AWS") {
+  together {
+    Container(api_gw, "API Gateway", "Amazon API Gateway", "Öffentliches API Interface.")
+    Container(cloud_watch, "Zeit-basierter Trigger", "Amazon CloudWatch", "Wird 1x täglich ausgelöst.")
+  }
+  Container(fn_dl, "Download", "AWS Lambda", "Prüft Gesetze-im-Internet auf aktualisierte Daten und lädt sie herunter.")
+  Boundary(vpc, "Amazon VPC") {
+    Container(fn_api, "API", "AWS Lambda", "Beantwortet API Requests.")
+    Container(fn_ing, "Ingest", "AWS Lambda", "Parst und importiert heruntergeladene Daten.")
+    ContainerDb(rds, "PostgreSQL Datenbank", "Amazon RDS")
+  }
+
+  ContainerDb(s3, "File Object Store", "Amazon S3 Bucket", "Bucket fellows-2020-rechtsinfo-assets")
+}
+
+client --> api_gw : $arrow_label("Abfrage", "JSON/HTTPS")
+api_gw --> fn_api : $arrow_label("leitet Abfragen weiter", "AWS-intern")
+fn_api --> rds : $arrow_label("liest", "TCP/SSL")
+cloud_watch --> fn_dl : $arrow_label("löst aus", "AWS API/HTTPS")
+gii <---- fn_dl : $arrow_label("crawlt Daten", "XML/HTTPS")
+fn_dl --> fn_ing : $arrow_label("löst aus", "AWS API/HTTPS")
+fn_dl --> s3 : $arrow_label("schreibt heruntergeladene Daten", "AWS API/HTTPS")
+fn_ing --> s3 : $arrow_label("liest heruntergeladene Daten", "AWS API/HTTPS")
+fn_ing --> rds : $arrow_label("schreibt verarbeitete Inhalte", "TCP/SSL")
+
+@enduml
