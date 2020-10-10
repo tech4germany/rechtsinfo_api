@@ -43,8 +43,6 @@ Jeder hat das Recht auf Zugang zu den Gesetzen und Gerichtsentscheidungen, die u
 Aktuell enthalten sind alle Bundesgesetze und -verordnungen in ihrer aktuellen Fassung.  
 (Noch) nicht verfügbar: Rechtsprechung, Verwaltungsvorschriften, Europa- und Landesrecht
 
-![Systemkontext](docs/context.svg)
-
 ## Nutzung
 
 Wer die API nutzen möchte, findet auf https://api.rechtsinformationsportal.de/ detaillierte Dokumentation.
@@ -104,10 +102,9 @@ pipenv install --dev
 
 ### Tool: `pipenv shell`
 
-```
-pipenv shell
-```
-öffnet eine Shell, in der alle Python-Abhängigkeiten des Projekts verfügbar sind. Alles Folgende wird in einer solchen Shell ausgeführt.
+`pipenv shell` öffnet eine Shell, in der alle Python-Abhängigkeiten des Projekts verfügbar sind.
+
+Alles Folgende wird in einer solchen Shell ausgeführt.
 
 ### Datenbank initialisieren
 
@@ -169,6 +166,8 @@ curl http://127.0.0.1:5000/laws
 
 ## Produktivumgebung und Architektur
 
+![Systemkontext](docs/context.svg)
+
 ### Überblick
 
 Die API besteht aus einem Server, zwei Hintergrundtasks sowie zwei Datenspeichern. Der API Server beantwortet HTTP-Requests, die Hintergrundtasks aktualisieren täglich die Datenbank.
@@ -200,7 +199,6 @@ Für Assets wie Bilder und Dateianhänge zu Gesetzen werden auf Amazon S3 im Buc
 Die verwendeten AWS-Komponenten werden über das Infrastructure-as-Code Tool terraform verwaltet. Hiermit sind alle Komponenten dokumentiert und können nach Bedarf angepasst und erweitert werden. [Terraform Überblick](https://www.terraform.io/intro/index.html), [Anleitung](https://learn.hashicorp.com/collections/terraform/aws-get-started)
 
 Logging aus API Server und Hintergrundtasks wird in CloudWatch Logs festgehalten. Die Logeinträge sind über [Logs Insights](https://eu-central-1.console.aws.amazon.com/cloudwatch/home?region=eu-central-1#logsV2:logs-insights) komfortabel durchsuchbar.
-
 
 ### Neue Versionen deployen
 
