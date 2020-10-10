@@ -44,10 +44,24 @@ resource "aws_s3_bucket_policy" "main_public" {
 POLICY
 }
 
+resource "aws_s3_bucket" "apex_redirect" {
+  bucket = "rechtsinformationsportal.de"
+  website {
+    redirect_all_requests_to = "https://tech.4germany.org/project/rechtsinformationsportal"
+  }
+}
+
 resource "aws_s3_bucket" "clickdummy_redirect" {
   bucket = "clickdummy.rechtsinformationsportal.de"
   website {
     redirect_all_requests_to = "https://rechtsinformationsportal.webflow.io"
+  }
+}
+
+resource "aws_s3_bucket" "www_redirect" {
+  bucket = "www.rechtsinformationsportal.de"
+  website {
+    redirect_all_requests_to = "https://tech.4germany.org/project/rechtsinformationsportal"
   }
 }
 
@@ -92,7 +106,7 @@ resource "aws_lambda_function" "api" {
 
   vpc_config {
     subnet_ids         = data.aws_subnet_ids.default_vpc.ids
-    security_group_ids = ["${aws_default_vpc.default.default_security_group_id}"]
+    security_group_ids = [aws_default_vpc.default.default_security_group_id]
   }
 
   environment {
@@ -134,7 +148,7 @@ resource "aws_lambda_function" "ingest_laws" {
 
   vpc_config {
     subnet_ids         = data.aws_subnet_ids.default_vpc.ids
-    security_group_ids = ["${aws_default_vpc.default.default_security_group_id}"]
+    security_group_ids = [aws_default_vpc.default.default_security_group_id]
   }
 
   environment {
@@ -301,19 +315,19 @@ resource "aws_db_parameter_group" "default" {
 }
 
 resource "aws_db_instance" "default" {
-  allocated_storage      = 20
-  engine                 = "postgres"
-  engine_version         = "12.3"
-  instance_class         = "db.t3.small"
-  name                   = "rechtsinfo"
-  username               = "rip"
+  allocated_storage = 20
+  engine            = "postgres"
+  engine_version    = "12.3"
+  instance_class    = "db.t3.small"
+  name              = "rechtsinfo"
+  username          = "rip"
   # Warning: this is the DB password in plain text. Even if removed here, it will remain in the
   # terraform state file. For the Tech4Germany project, this is fine (no personal information is
   # stored and the database is not accessible from the internet), but for a more permanent
   # deployment, this should be handled with more care. See e.g. https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1
   password               = "NNfLV9~}8xe64ws4P4nt"
   parameter_group_name   = aws_db_parameter_group.default.name
-  vpc_security_group_ids = ["${aws_security_group.allow_db_access.id}"]
+  vpc_security_group_ids = [aws_security_group.allow_db_access.id]
 
   apply_immediately = true
 }
@@ -330,7 +344,7 @@ resource "aws_security_group" "allow_db_access" {
     from_port       = 5432
     to_port         = 5432
     protocol        = "tcp"
-    security_groups = ["${aws_default_vpc.default.default_security_group_id}"]
+    security_groups = [aws_default_vpc.default.default_security_group_id]
   }
 }
 
@@ -341,6 +355,18 @@ resource "aws_route53_zone" "rip" {
   name = "rechtsinformationsportal.de"
 }
 
+resource "aws_route53_record" "apex" {
+  name    = "rechtsinformationsportal.de"
+  zone_id = aws_route53_zone.rip.zone_id
+  type    = "A"
+
+  alias {
+    name                   = aws_s3_bucket.apex_redirect.website_domain
+    zone_id                = aws_s3_bucket.apex_redirect.hosted_zone_id
+    evaluate_target_health = false
+  }
+}
+
 resource "aws_route53_record" "clickdummy" {
   name    = "clickdummy.rechtsinformationsportal.de"
   zone_id = aws_route53_zone.rip.zone_id
@@ -349,6 +375,18 @@ resource "aws_route53_record" "clickdummy" {
   alias {
     name                   = aws_s3_bucket.clickdummy_redirect.website_domain
     zone_id                = aws_s3_bucket.clickdummy_redirect.hosted_zone_id
+    evaluate_target_health = false
+  }
+}
+
+resource "aws_route53_record" "www" {
+  name    = "www.rechtsinformationsportal.de"
+  zone_id = aws_route53_zone.rip.zone_id
+  type    = "A"
+
+  alias {
+    name                   = aws_s3_bucket.www_redirect.website_domain
+    zone_id                = aws_s3_bucket.www_redirect.hosted_zone_id
     evaluate_target_health = false
   }
 }
