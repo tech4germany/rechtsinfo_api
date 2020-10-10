@@ -307,6 +307,10 @@ resource "aws_db_instance" "default" {
   instance_class         = "db.t3.small"
   name                   = "rechtsinfo"
   username               = "rip"
+  # Warning: this is the DB password in plain text. Even if removed here, it will remain in the
+  # terraform state file. For the Tech4Germany project, this is fine (no personal information is
+  # stored and the database is not accessible from the internet), but for a more permanent
+  # deployment, this should be handled with more care. See e.g. https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1
   password               = "NNfLV9~}8xe64ws4P4nt"
   parameter_group_name   = aws_db_parameter_group.default.name
   vpc_security_group_ids = ["${aws_security_group.allow_db_access.id}"]
