@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR003410960",
-    "url": "https://api.rechtsinformationsportal.de/laws/baugb",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb",
     "firstPublished": "1960-06-23",
     "sourceTimestamp": "20200818213008",
     "titleShort": null,
@@ -38,7 +38,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE003516116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE003516116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE003516116",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -49,7 +49,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG003604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG003604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG003604116",
         "name": "Erstes Kapitel",
         "title": "Allgemeines St\u00e4dtebaurecht",
         "parent": null
@@ -57,7 +57,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000104116",
         "name": "Erster Teil",
         "title": "Bauleitplanung",
         "parent": {
@@ -68,7 +68,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000204116",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -79,7 +79,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE003616116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE003616116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE003616116",
         "name": "\u00a7 1",
         "title": "Aufgabe, Begriff und Grunds\u00e4tze der Bauleitplanung",
         "parent": {
@@ -93,7 +93,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE035407116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE035407116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE035407116",
         "name": "\u00a7 1a",
         "title": "Erg\u00e4nzende Vorschriften zum Umweltschutz",
         "parent": {
@@ -107,7 +107,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE003709116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE003709116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE003709116",
         "name": "\u00a7 2",
         "title": "Aufstellung der Bauleitpl\u00e4ne",
         "parent": {
@@ -121,7 +121,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036704116",
         "name": "\u00a7 2a",
         "title": "Begr\u00fcndung zum Bauleitplanentwurf, Umweltbericht",
         "parent": {
@@ -135,7 +135,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE003913116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE003913116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE003913116",
         "name": "\u00a7 3",
         "title": "Beteiligung der \u00d6ffentlichkeit",
         "parent": {
@@ -149,7 +149,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE004010116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE004010116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE004010116",
         "name": "\u00a7 4",
         "title": "Beteiligung der Beh\u00f6rden",
         "parent": {
@@ -163,7 +163,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE035508116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE035508116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE035508116",
         "name": "\u00a7 4a",
         "title": "Gemeinsame Vorschriften zur Beteiligung",
         "parent": {
@@ -177,7 +177,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE035605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE035605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE035605116",
         "name": "\u00a7 4b",
         "title": "Einschaltung eines Dritten",
         "parent": {
@@ -191,7 +191,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037004116",
         "name": "\u00a7 4c",
         "title": "\u00dcberwachung",
         "parent": {
@@ -205,7 +205,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000304116",
         "name": "Zweiter Abschnitt",
         "title": "Vorbereitender Bauleitplan (Fl\u00e4chennutzungsplan)",
         "parent": {
@@ -216,7 +216,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE004214116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE004214116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE004214116",
         "name": "\u00a7 5",
         "title": "Inhalt des Fl\u00e4chennutzungsplans",
         "parent": {
@@ -230,7 +230,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE004307116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE004307116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE004307116",
         "name": "\u00a7 6",
         "title": "Genehmigung des Fl\u00e4chennutzungsplans",
         "parent": {
@@ -244,7 +244,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038601116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038601116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038601116",
         "name": "\u00a7 6a",
         "title": "Zusammenfassende Erkl\u00e4rung zum Fl\u00e4chennutzungsplan; Einstellen in das Internet",
         "parent": {
@@ -258,7 +258,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE004406116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE004406116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE004406116",
         "name": "\u00a7 7",
         "title": "Anpassung an den Fl\u00e4chennutzungsplan",
         "parent": {
@@ -272,7 +272,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000404116",
         "name": "Dritter Abschnitt",
         "title": "Verbindlicher Bauleitplan (Bebauungsplan)",
         "parent": {
@@ -283,7 +283,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE004506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE004506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE004506116",
         "name": "\u00a7 8",
         "title": "Zweck des Bebauungsplans",
         "parent": {
@@ -297,7 +297,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE004617116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE004617116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE004617116",
         "name": "\u00a7 9",
         "title": "Inhalt des Bebauungsplans",
         "parent": {
@@ -311,7 +311,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036904116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036904116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036904116",
         "name": "\u00a7 9a",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -325,7 +325,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE004808116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE004808116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE004808116",
         "name": "\u00a7 10",
         "title": "Beschluss, Genehmigung und Inkrafttreten des Bebauungsplans",
         "parent": {
@@ -339,7 +339,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038701116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038701116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038701116",
         "name": "\u00a7 10a",
         "title": "Zusammenfassende Erkl\u00e4rung zum Bebauungsplan; Einstellen in das Internet",
         "parent": {
@@ -353,7 +353,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG006203116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG006203116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG006203116",
         "name": "Vierter Abschnitt",
         "title": "Zusammenarbeit mit Privaten; vereinfachtes Verfahren",
         "parent": {
@@ -364,7 +364,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE004911116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE004911116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE004911116",
         "name": "\u00a7 11",
         "title": "St\u00e4dtebaulicher Vertrag",
         "parent": {
@@ -378,7 +378,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005010116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005010116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005010116",
         "name": "\u00a7 12",
         "title": "Vorhaben- und Erschlie\u00dfungsplan",
         "parent": {
@@ -392,7 +392,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005110116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005110116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005110116",
         "name": "\u00a7 13",
         "title": "Vereinfachtes Verfahren",
         "parent": {
@@ -406,7 +406,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038103116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038103116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038103116",
         "name": "\u00a7 13a",
         "title": "Bebauungspl\u00e4ne der Innenentwicklung",
         "parent": {
@@ -420,7 +420,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038801116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038801116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038801116",
         "name": "\u00a7 13b",
         "title": "Einbeziehung von Au\u00dfenbereichsfl\u00e4chen in das beschleunigte Verfahren",
         "parent": {
@@ -434,7 +434,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000504116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000504116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000504116",
         "name": "Zweiter Teil",
         "title": "Sicherung der Bauleitplanung",
         "parent": {
@@ -445,7 +445,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000604116",
         "name": "Erster Abschnitt",
         "title": "Ver\u00e4nderungssperre und Zur\u00fcckstellung von Baugesuchen",
         "parent": {
@@ -456,7 +456,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005308116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005308116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005308116",
         "name": "\u00a7 14",
         "title": "Ver\u00e4nderungssperre",
         "parent": {
@@ -470,7 +470,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005409116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005409116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005409116",
         "name": "\u00a7 15",
         "title": "Zur\u00fcckstellung von Baugesuchen",
         "parent": {
@@ -484,7 +484,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005506116",
         "name": "\u00a7 16",
         "title": "Beschluss \u00fcber die Ver\u00e4nderungssperre",
         "parent": {
@@ -498,7 +498,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005607116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005607116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005607116",
         "name": "\u00a7 17",
         "title": "Geltungsdauer der Ver\u00e4nderungssperre",
         "parent": {
@@ -512,7 +512,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005705116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005705116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005705116",
         "name": "\u00a7 18",
         "title": "Entsch\u00e4digung bei Ver\u00e4nderungssperre",
         "parent": {
@@ -526,7 +526,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000706116",
         "name": "Zweiter Abschnitt",
         "title": "Teilung von Grundst\u00fccken; Gebiete mit Fremdenverkehrsfunktionen",
         "parent": {
@@ -537,7 +537,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005808116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005808116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005808116",
         "name": "\u00a7 19",
         "title": "Teilung von Grundst\u00fccken",
         "parent": {
@@ -551,7 +551,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE005907116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE005907116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE005907116",
         "name": "\u00a7 20",
         "title": "(weggefallen)",
         "parent": {
@@ -565,7 +565,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE006006116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE006006116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE006006116",
         "name": "\u00a7 21",
         "title": "(weggefallen)",
         "parent": {
@@ -579,7 +579,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE006109116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE006109116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE006109116",
         "name": "\u00a7 22",
         "title": "Sicherung von Gebieten mit Fremdenverkehrsfunktionen",
         "parent": {
@@ -593,7 +593,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE006206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE006206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE006206116",
         "name": "\u00a7 23",
         "title": "(weggefallen)",
         "parent": {
@@ -607,7 +607,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000805116",
         "name": "Dritter Abschnitt",
         "title": "Gesetzliche Vorkaufsrechte der Gemeinde",
         "parent": {
@@ -618,7 +618,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE006309116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE006309116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE006309116",
         "name": "\u00a7 24",
         "title": "Allgemeines Vorkaufsrecht",
         "parent": {
@@ -632,7 +632,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE006505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE006505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE006505116",
         "name": "\u00a7 25",
         "title": "Besonderes Vorkaufsrecht",
         "parent": {
@@ -646,7 +646,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE006708116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE006708116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE006708116",
         "name": "\u00a7 26",
         "title": "Ausschluss des Vorkaufsrechts",
         "parent": {
@@ -660,7 +660,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE006806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE006806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE006806116",
         "name": "\u00a7 27",
         "title": "Abwendung des Vorkaufsrechts",
         "parent": {
@@ -674,7 +674,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE035706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE035706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE035706116",
         "name": "\u00a7 27a",
         "title": "Aus\u00fcbung des Vorkaufsrechts zugunsten Dritter",
         "parent": {
@@ -688,7 +688,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE006908116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE006908116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE006908116",
         "name": "\u00a7 28",
         "title": "Verfahren und Entsch\u00e4digung",
         "parent": {
@@ -702,7 +702,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG000905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG000905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG000905116",
         "name": "Dritter Teil",
         "title": "Regelung der baulichen und sonstigen Nutzung; Entsch\u00e4digung",
         "parent": {
@@ -713,7 +713,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001004116",
         "name": "Erster Abschnitt",
         "title": "Zul\u00e4ssigkeit von Vorhaben",
         "parent": {
@@ -724,7 +724,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007107116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007107116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007107116",
         "name": "\u00a7 29",
         "title": "Begriff des Vorhabens; Geltung von Rechtsvorschriften",
         "parent": {
@@ -738,7 +738,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007206116",
         "name": "\u00a7 30",
         "title": "Zul\u00e4ssigkeit von Vorhaben im Geltungsbereich eines Bebauungsplans",
         "parent": {
@@ -752,7 +752,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007307116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007307116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007307116",
         "name": "\u00a7 31",
         "title": "Ausnahmen und Befreiungen",
         "parent": {
@@ -766,7 +766,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007404116",
         "name": "\u00a7 32",
         "title": "Nutzungsbeschr\u00e4nkungen auf k\u00fcnftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Gr\u00fcnfl\u00e4chen",
         "parent": {
@@ -780,7 +780,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007509116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007509116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007509116",
         "name": "\u00a7 33",
         "title": "Zul\u00e4ssigkeit von Vorhaben w\u00e4hrend der Planaufstellung",
         "parent": {
@@ -794,7 +794,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007610116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007610116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007610116",
         "name": "\u00a7 34",
         "title": "Zul\u00e4ssigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile",
         "parent": {
@@ -808,7 +808,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007714116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007714116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007714116",
         "name": "\u00a7 35",
         "title": "Bauen im Au\u00dfenbereich",
         "parent": {
@@ -822,7 +822,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007807116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007807116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007807116",
         "name": "\u00a7 36",
         "title": "Beteiligung der Gemeinde und der h\u00f6heren Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -836,7 +836,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE007907116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE007907116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE007907116",
         "name": "\u00a7 37",
         "title": "Bauliche Ma\u00dfnahmen des Bundes und der L\u00e4nder",
         "parent": {
@@ -850,7 +850,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE008009116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE008009116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE008009116",
         "name": "\u00a7 38",
         "title": "Bauliche Ma\u00dfnahmen von \u00fcber\u00f6rtlicher Bedeutung auf Grund von Planfeststellungsverfahren; \u00f6ffentlich zug\u00e4ngliche Abfallbeseitigungsanlagen",
         "parent": {
@@ -864,7 +864,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001204116",
         "name": "Zweiter Abschnitt",
         "title": "Entsch\u00e4digung",
         "parent": {
@@ -875,7 +875,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE009105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE009105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE009105116",
         "name": "\u00a7 39",
         "title": "Vertrauensschaden",
         "parent": {
@@ -889,7 +889,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE009206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE009206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE009206116",
         "name": "\u00a7 40",
         "title": "Entsch\u00e4digung in Geld oder durch \u00dcbernahme",
         "parent": {
@@ -903,7 +903,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE009305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE009305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE009305116",
         "name": "\u00a7 41",
         "title": "Entsch\u00e4digung bei Begr\u00fcndung von Geh-, Fahr- und Leitungsrechten und bei Bindungen f\u00fcr Bepflanzungen",
         "parent": {
@@ -917,7 +917,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE009605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE009605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE009605116",
         "name": "\u00a7 42",
         "title": "Entsch\u00e4digung bei \u00c4nderung oder Aufhebung einer zul\u00e4ssigen Nutzung",
         "parent": {
@@ -931,7 +931,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE009805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE009805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE009805116",
         "name": "\u00a7 43",
         "title": "Entsch\u00e4digung und Verfahren",
         "parent": {
@@ -945,7 +945,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE009707116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE009707116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE009707116",
         "name": "\u00a7 44",
         "title": "Entsch\u00e4digungspflichtige, F\u00e4lligkeit und Erl\u00f6schen der Entsch\u00e4digungsanspr\u00fcche",
         "parent": {
@@ -959,7 +959,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001304116",
         "name": "Vierter Teil",
         "title": "Bodenordnung",
         "parent": {
@@ -970,7 +970,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001404116",
         "name": "Erster Abschnitt",
         "title": "Umlegung",
         "parent": {
@@ -981,7 +981,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010007116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010007116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010007116",
         "name": "\u00a7 45",
         "title": "Zweck und Anwendungsbereich",
         "parent": {
@@ -995,7 +995,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010108116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010108116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010108116",
         "name": "\u00a7 46",
         "title": "Zust\u00e4ndigkeit und Voraussetzungen",
         "parent": {
@@ -1009,7 +1009,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010205116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010205116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010205116",
         "name": "\u00a7 47",
         "title": "Umlegungsbeschluss",
         "parent": {
@@ -1023,7 +1023,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010305116",
         "name": "\u00a7 48",
         "title": "Beteiligte",
         "parent": {
@@ -1037,7 +1037,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010404116",
         "name": "\u00a7 49",
         "title": "Rechtsnachfolge",
         "parent": {
@@ -1051,7 +1051,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010505116",
         "name": "\u00a7 50",
         "title": "Bekanntmachung des Umlegungsbeschlusses",
         "parent": {
@@ -1065,7 +1065,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010608116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010608116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010608116",
         "name": "\u00a7 51",
         "title": "Verf\u00fcgungs- und Ver\u00e4nderungssperre",
         "parent": {
@@ -1079,7 +1079,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010706116",
         "name": "\u00a7 52",
         "title": "Umlegungsgebiet",
         "parent": {
@@ -1093,7 +1093,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010806116",
         "name": "\u00a7 53",
         "title": "Bestandskarte und Bestandsverzeichnis",
         "parent": {
@@ -1107,7 +1107,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE010906116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE010906116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE010906116",
         "name": "\u00a7 54",
         "title": "Benachrichtigungen und Umlegungsvermerk",
         "parent": {
@@ -1121,7 +1121,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011007116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011007116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011007116",
         "name": "\u00a7 55",
         "title": "Umlegungsmasse und Verteilungsmasse",
         "parent": {
@@ -1135,7 +1135,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011104116",
         "name": "\u00a7 56",
         "title": "Verteilungsma\u00dfstab",
         "parent": {
@@ -1149,7 +1149,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011206116",
         "name": "\u00a7 57",
         "title": "Verteilung nach Werten",
         "parent": {
@@ -1163,7 +1163,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011306116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011306116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011306116",
         "name": "\u00a7 58",
         "title": "Verteilung nach Fl\u00e4chen",
         "parent": {
@@ -1177,7 +1177,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011407116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011407116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011407116",
         "name": "\u00a7 59",
         "title": "Zuteilung und Abfindung",
         "parent": {
@@ -1191,7 +1191,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011505116",
         "name": "\u00a7 60",
         "title": "Abfindung und Ausgleich f\u00fcr bauliche Anlagen, Anpflanzungen und sonstige Einrichtungen",
         "parent": {
@@ -1205,7 +1205,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011607116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011607116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011607116",
         "name": "\u00a7 61",
         "title": "Aufhebung, \u00c4nderung und Begr\u00fcndung von Rechten",
         "parent": {
@@ -1219,7 +1219,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011704116",
         "name": "\u00a7 62",
         "title": "Gemeinschaftliches Eigentum; besondere rechtliche Verh\u00e4ltnisse",
         "parent": {
@@ -1233,7 +1233,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011805116",
         "name": "\u00a7 63",
         "title": "\u00dcbergang von Rechtsverh\u00e4ltnissen auf die Abfindung",
         "parent": {
@@ -1247,7 +1247,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE011906116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE011906116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE011906116",
         "name": "\u00a7 64",
         "title": "Geldleistungen",
         "parent": {
@@ -1261,7 +1261,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012004116",
         "name": "\u00a7 65",
         "title": "Hinterlegung und Verteilungsverfahren",
         "parent": {
@@ -1275,7 +1275,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012105116",
         "name": "\u00a7 66",
         "title": "Aufstellung und Inhalt des Umlegungsplans",
         "parent": {
@@ -1289,7 +1289,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012204116",
         "name": "\u00a7 67",
         "title": "Umlegungskarte",
         "parent": {
@@ -1303,7 +1303,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012305116",
         "name": "\u00a7 68",
         "title": "Umlegungsverzeichnis",
         "parent": {
@@ -1317,7 +1317,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012405116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012405116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012405116",
         "name": "\u00a7 69",
         "title": "Bekanntmachung des Umlegungsplans, Einsichtnahme",
         "parent": {
@@ -1331,7 +1331,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012505116",
         "name": "\u00a7 70",
         "title": "Zustellung des Umlegungsplans",
         "parent": {
@@ -1345,7 +1345,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012604116",
         "name": "\u00a7 71",
         "title": "Inkrafttreten des Umlegungsplans",
         "parent": {
@@ -1359,7 +1359,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012705116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012705116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012705116",
         "name": "\u00a7 72",
         "title": "Wirkungen der Bekanntmachung",
         "parent": {
@@ -1373,7 +1373,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012804116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012804116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012804116",
         "name": "\u00a7 73",
         "title": "\u00c4nderung des Umlegungsplans",
         "parent": {
@@ -1387,7 +1387,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE012905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE012905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE012905116",
         "name": "\u00a7 74",
         "title": "Berichtigung der \u00f6ffentlichen B\u00fccher",
         "parent": {
@@ -1401,7 +1401,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013004116",
         "name": "\u00a7 75",
         "title": "Einsichtnahme in den Umlegungsplan",
         "parent": {
@@ -1415,7 +1415,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013105116",
         "name": "\u00a7 76",
         "title": "Vorwegnahme der Entscheidung",
         "parent": {
@@ -1429,7 +1429,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013206116",
         "name": "\u00a7 77",
         "title": "Vorzeitige Besitzeinweisung",
         "parent": {
@@ -1443,7 +1443,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013304116",
         "name": "\u00a7 78",
         "title": "Verfahrens- und Sachkosten",
         "parent": {
@@ -1457,7 +1457,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013405116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013405116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013405116",
         "name": "\u00a7 79",
         "title": "Abgaben- und Auslagenbefreiung",
         "parent": {
@@ -1471,7 +1471,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001505116",
         "name": "Zweiter Abschnitt",
         "title": "Vereinfachte Umlegung",
         "parent": {
@@ -1482,7 +1482,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013506116",
         "name": "\u00a7 80",
         "title": "Zweck, Anwendungsbereich, Zust\u00e4ndigkeiten",
         "parent": {
@@ -1496,7 +1496,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013606116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013606116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013606116",
         "name": "\u00a7 81",
         "title": "Geldleistungen",
         "parent": {
@@ -1510,7 +1510,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013706116",
         "name": "\u00a7 82",
         "title": "Beschluss \u00fcber die vereinfachte Umlegung",
         "parent": {
@@ -1524,7 +1524,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013806116",
         "name": "\u00a7 83",
         "title": "Bekanntmachung und Rechtswirkungen der vereinfachten Umlegung",
         "parent": {
@@ -1538,7 +1538,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE013906116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE013906116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE013906116",
         "name": "\u00a7 84",
         "title": "Berichtigung der \u00f6ffentlichen B\u00fccher",
         "parent": {
@@ -1552,7 +1552,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001604116",
         "name": "F\u00fcnfter Teil",
         "title": "Enteignung",
         "parent": {
@@ -1563,7 +1563,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001704116",
         "name": "Erster Abschnitt",
         "title": "Zul\u00e4ssigkeit der Enteignung",
         "parent": {
@@ -1574,7 +1574,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014006116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014006116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014006116",
         "name": "\u00a7 85",
         "title": "Enteignungszweck",
         "parent": {
@@ -1588,7 +1588,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014105116",
         "name": "\u00a7 86",
         "title": "Gegenstand der Enteignung",
         "parent": {
@@ -1602,7 +1602,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014206116",
         "name": "\u00a7 87",
         "title": "Voraussetzungen f\u00fcr die Zul\u00e4ssigkeit der Enteignung",
         "parent": {
@@ -1616,7 +1616,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014305116",
         "name": "\u00a7 88",
         "title": "Enteignung aus zwingenden st\u00e4dtebaulichen Gr\u00fcnden",
         "parent": {
@@ -1630,7 +1630,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014406116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014406116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014406116",
         "name": "\u00a7 89",
         "title": "Ver\u00e4u\u00dferungspflicht",
         "parent": {
@@ -1644,7 +1644,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014504116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014504116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014504116",
         "name": "\u00a7 90",
         "title": "Enteignung von Grundst\u00fccken zur Entsch\u00e4digung in Land",
         "parent": {
@@ -1658,7 +1658,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014604116",
         "name": "\u00a7 91",
         "title": "Ersatz f\u00fcr entzogene Rechte",
         "parent": {
@@ -1672,7 +1672,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014704116",
         "name": "\u00a7 92",
         "title": "Umfang, Beschr\u00e4nkung und Ausdehnung der Enteignung",
         "parent": {
@@ -1686,7 +1686,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001804116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001804116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001804116",
         "name": "Zweiter Abschnitt",
         "title": "Entsch\u00e4digung",
         "parent": {
@@ -1697,7 +1697,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014804116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014804116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014804116",
         "name": "\u00a7 93",
         "title": "Entsch\u00e4digungsgrunds\u00e4tze",
         "parent": {
@@ -1711,7 +1711,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE014904116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE014904116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE014904116",
         "name": "\u00a7 94",
         "title": "Entsch\u00e4digungsberechtigter und Entsch\u00e4digungsverpflichteter",
         "parent": {
@@ -1725,7 +1725,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015006116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015006116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015006116",
         "name": "\u00a7 95",
         "title": "Entsch\u00e4digung f\u00fcr den Rechtsverlust",
         "parent": {
@@ -1739,7 +1739,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015104116",
         "name": "\u00a7 96",
         "title": "Entsch\u00e4digung f\u00fcr andere Verm\u00f6gensnachteile",
         "parent": {
@@ -1753,7 +1753,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015204116",
         "name": "\u00a7 97",
         "title": "Behandlung der Rechte der Nebenberechtigten",
         "parent": {
@@ -1767,7 +1767,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015305116",
         "name": "\u00a7 98",
         "title": "Schuld\u00fcbergang",
         "parent": {
@@ -1781,7 +1781,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015406116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015406116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015406116",
         "name": "\u00a7 99",
         "title": "Entsch\u00e4digung in Geld",
         "parent": {
@@ -1795,7 +1795,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015506116",
         "name": "\u00a7 100",
         "title": "Entsch\u00e4digung in Land",
         "parent": {
@@ -1809,7 +1809,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015605116",
         "name": "\u00a7 101",
         "title": "Entsch\u00e4digung durch Gew\u00e4hrung anderer Rechte",
         "parent": {
@@ -1823,7 +1823,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015706116",
         "name": "\u00a7 102",
         "title": "R\u00fcckenteignung",
         "parent": {
@@ -1837,7 +1837,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015804116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015804116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015804116",
         "name": "\u00a7 103",
         "title": "Entsch\u00e4digung f\u00fcr die R\u00fcckenteignung",
         "parent": {
@@ -1851,7 +1851,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG001904116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG001904116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG001904116",
         "name": "Dritter Abschnitt",
         "title": "Enteignungsverfahren",
         "parent": {
@@ -1862,7 +1862,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE015904116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE015904116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE015904116",
         "name": "\u00a7 104",
         "title": "Enteignungsbeh\u00f6rde",
         "parent": {
@@ -1876,7 +1876,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016004116",
         "name": "\u00a7 105",
         "title": "Enteignungsantrag",
         "parent": {
@@ -1890,7 +1890,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016205116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016205116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016205116",
         "name": "\u00a7 106",
         "title": "Beteiligte",
         "parent": {
@@ -1904,7 +1904,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016306116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016306116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016306116",
         "name": "\u00a7 107",
         "title": "Vorbereitung der m\u00fcndlichen Verhandlung",
         "parent": {
@@ -1918,7 +1918,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016406116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016406116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016406116",
         "name": "\u00a7 108",
         "title": "Einleitung des Enteignungsverfahrens und Anberaumung des Termins zur m\u00fcndlichen Verhandlung; Enteignungsvermerk",
         "parent": {
@@ -1932,7 +1932,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016506116",
         "name": "\u00a7 109",
         "title": "Genehmigungspflicht",
         "parent": {
@@ -1946,7 +1946,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016604116",
         "name": "\u00a7 110",
         "title": "Einigung",
         "parent": {
@@ -1960,7 +1960,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016704116",
         "name": "\u00a7 111",
         "title": "Teileinigung",
         "parent": {
@@ -1974,7 +1974,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016804116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016804116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016804116",
         "name": "\u00a7 112",
         "title": "Entscheidung der Enteignungsbeh\u00f6rde",
         "parent": {
@@ -1988,7 +1988,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE016906116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE016906116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE016906116",
         "name": "\u00a7 113",
         "title": "Enteignungsbeschluss",
         "parent": {
@@ -2002,7 +2002,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017004116",
         "name": "\u00a7 114",
         "title": "Lauf der Verwendungsfrist",
         "parent": {
@@ -2016,7 +2016,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017105116",
         "name": "\u00a7 115",
         "title": "Verfahren bei der Entsch\u00e4digung durch Gew\u00e4hrung anderer Rechte",
         "parent": {
@@ -2030,7 +2030,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017204116",
         "name": "\u00a7 116",
         "title": "Vorzeitige Besitzeinweisung",
         "parent": {
@@ -2044,7 +2044,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017304116",
         "name": "\u00a7 117",
         "title": "Ausf\u00fchrung des Enteignungsbeschlusses",
         "parent": {
@@ -2058,7 +2058,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017404116",
         "name": "\u00a7 118",
         "title": "Hinterlegung",
         "parent": {
@@ -2072,7 +2072,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017504116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017504116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017504116",
         "name": "\u00a7 119",
         "title": "Verteilungsverfahren",
         "parent": {
@@ -2086,7 +2086,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017604116",
         "name": "\u00a7 120",
         "title": "Aufhebung des Enteignungsbeschlusses",
         "parent": {
@@ -2100,7 +2100,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017704116",
         "name": "\u00a7 121",
         "title": "Kosten",
         "parent": {
@@ -2114,7 +2114,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE017806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE017806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE017806116",
         "name": "\u00a7 122",
         "title": "Vollstreckbarer Titel",
         "parent": {
@@ -2128,7 +2128,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG002104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG002104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG002104116",
         "name": "Sechster Teil",
         "title": "Erschlie\u00dfung",
         "parent": {
@@ -2139,7 +2139,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG002204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG002204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG002204116",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -2150,7 +2150,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018106116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018106116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018106116",
         "name": "\u00a7 123",
         "title": "Erschlie\u00dfungslast",
         "parent": {
@@ -2164,7 +2164,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018207116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018207116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018207116",
         "name": "\u00a7 124",
         "title": "Erschlie\u00dfungspflicht nach abgelehntem Vertragsangebot",
         "parent": {
@@ -2178,7 +2178,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018307116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018307116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018307116",
         "name": "\u00a7 125",
         "title": "Bindung an den Bebauungsplan",
         "parent": {
@@ -2192,7 +2192,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018404116",
         "name": "\u00a7 126",
         "title": "Pflichten des Eigent\u00fcmers",
         "parent": {
@@ -2206,7 +2206,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG002304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG002304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG002304116",
         "name": "Zweiter Abschnitt",
         "title": "Erschlie\u00dfungsbeitrag",
         "parent": {
@@ -2217,7 +2217,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018505116",
         "name": "\u00a7 127",
         "title": "Erhebung des Erschlie\u00dfungsbeitrags",
         "parent": {
@@ -2231,7 +2231,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018605116",
         "name": "\u00a7 128",
         "title": "Umfang des Erschlie\u00dfungsaufwands",
         "parent": {
@@ -2245,7 +2245,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018705116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018705116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018705116",
         "name": "\u00a7 129",
         "title": "Beitragsf\u00e4higer Erschlie\u00dfungsaufwand",
         "parent": {
@@ -2259,7 +2259,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018805116",
         "name": "\u00a7 130",
         "title": "Art der Ermittlung des beitragsf\u00e4higen Erschlie\u00dfungsaufwands",
         "parent": {
@@ -2273,7 +2273,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE018905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE018905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE018905116",
         "name": "\u00a7 131",
         "title": "Ma\u00dfst\u00e4be f\u00fcr die Verteilung des Erschlie\u00dfungsaufwands",
         "parent": {
@@ -2287,7 +2287,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE019004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE019004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE019004116",
         "name": "\u00a7 132",
         "title": "Regelung durch Satzung",
         "parent": {
@@ -2301,7 +2301,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE019107116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE019107116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE019107116",
         "name": "\u00a7 133",
         "title": "Gegenstand und Entstehung der Beitragspflicht",
         "parent": {
@@ -2315,7 +2315,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE019206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE019206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE019206116",
         "name": "\u00a7 134",
         "title": "Beitragspflichtiger",
         "parent": {
@@ -2329,7 +2329,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE019307116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE019307116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE019307116",
         "name": "\u00a7 135",
         "title": "F\u00e4lligkeit und Zahlung des Beitrags",
         "parent": {
@@ -2343,7 +2343,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG006303116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG006303116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG006303116",
         "name": "Siebter Teil",
         "title": "Ma\u00dfnahmen f\u00fcr den Naturschutz",
         "parent": {
@@ -2354,7 +2354,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE035803116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE035803116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE035803116",
         "name": "\u00a7 135a",
         "title": "Pflichten des Vorhabentr\u00e4gers; Durchf\u00fchrung durch die Gemeinde; Kostenerstattung",
         "parent": {
@@ -2368,7 +2368,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE035903116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE035903116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE035903116",
         "name": "\u00a7 135b",
         "title": "Verteilungsma\u00dfst\u00e4be f\u00fcr die Abrechnung",
         "parent": {
@@ -2382,7 +2382,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036003116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036003116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036003116",
         "name": "\u00a7 135c",
         "title": "Satzungsrecht",
         "parent": {
@@ -2396,7 +2396,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG003704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG003704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG003704116",
         "name": "Zweites Kapitel",
         "title": "Besonderes St\u00e4dtebaurecht",
         "parent": null
@@ -2404,7 +2404,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG003804116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG003804116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG003804116",
         "name": "Erster Teil",
         "title": "St\u00e4dtebauliche Sanierungsma\u00dfnahmen",
         "parent": {
@@ -2415,7 +2415,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG003904116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG003904116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG003904116",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -2426,7 +2426,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE026905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE026905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE026905116",
         "name": "\u00a7 136",
         "title": "St\u00e4dtebauliche Sanierungsma\u00dfnahmen",
         "parent": {
@@ -2440,7 +2440,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027004116",
         "name": "\u00a7 137",
         "title": "Beteiligung und Mitwirkung der Betroffenen",
         "parent": {
@@ -2454,7 +2454,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027104116",
         "name": "\u00a7 138",
         "title": "Auskunftspflicht",
         "parent": {
@@ -2468,7 +2468,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027206116",
         "name": "\u00a7 139",
         "title": "Beteiligung und Mitwirkung \u00f6ffentlicher Aufgabentr\u00e4ger",
         "parent": {
@@ -2482,7 +2482,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004004116",
         "name": "Zweiter Abschnitt",
         "title": "Vorbereitung und Durchf\u00fchrung",
         "parent": {
@@ -2493,7 +2493,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027304116",
         "name": "\u00a7 140",
         "title": "Vorbereitung",
         "parent": {
@@ -2507,7 +2507,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027406116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027406116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027406116",
         "name": "\u00a7 141",
         "title": "Vorbereitende Untersuchungen",
         "parent": {
@@ -2521,7 +2521,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027506116",
         "name": "\u00a7 142",
         "title": "Sanierungssatzung",
         "parent": {
@@ -2535,7 +2535,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027605116",
         "name": "\u00a7 143",
         "title": "Bekanntmachung der Sanierungssatzung, Sanierungsvermerk",
         "parent": {
@@ -2549,7 +2549,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027706116",
         "name": "\u00a7 144",
         "title": "Genehmigungspflichtige Vorhaben und Rechtsvorg\u00e4nge",
         "parent": {
@@ -2563,7 +2563,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027807116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027807116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027807116",
         "name": "\u00a7 145",
         "title": "Genehmigung",
         "parent": {
@@ -2577,7 +2577,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE027905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE027905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE027905116",
         "name": "\u00a7 146",
         "title": "Durchf\u00fchrung",
         "parent": {
@@ -2591,7 +2591,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028005116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028005116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028005116",
         "name": "\u00a7 147",
         "title": "Ordnungsma\u00dfnahmen",
         "parent": {
@@ -2605,7 +2605,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028106116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028106116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028106116",
         "name": "\u00a7 148",
         "title": "Bauma\u00dfnahmen",
         "parent": {
@@ -2619,7 +2619,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028205116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028205116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028205116",
         "name": "\u00a7 149",
         "title": "Kosten- und Finanzierungs\u00fcbersicht",
         "parent": {
@@ -2633,7 +2633,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028305116",
         "name": "\u00a7 150",
         "title": "Ersatz f\u00fcr \u00c4nderungen von Einrichtungen, die der \u00f6ffentlichen Versorgung dienen",
         "parent": {
@@ -2647,7 +2647,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028404116",
         "name": "\u00a7 151",
         "title": "Abgaben- und Auslagenbefreiung",
         "parent": {
@@ -2661,7 +2661,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004104116",
         "name": "Dritter Abschnitt",
         "title": "Besondere sanierungsrechtliche Vorschriften",
         "parent": {
@@ -2672,7 +2672,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028505116",
         "name": "\u00a7 152",
         "title": "Anwendungsbereich",
         "parent": {
@@ -2686,7 +2686,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028605116",
         "name": "\u00a7 153",
         "title": "Bemessung von Ausgleichs- und Entsch\u00e4digungsleistungen, Kaufpreise, Umlegung",
         "parent": {
@@ -2700,7 +2700,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028706116",
         "name": "\u00a7 154",
         "title": "Ausgleichsbetrag des Eigent\u00fcmers",
         "parent": {
@@ -2714,7 +2714,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028805116",
         "name": "\u00a7 155",
         "title": "Anrechnung auf den Ausgleichsbetrag, Absehen",
         "parent": {
@@ -2728,7 +2728,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE028905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE028905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE028905116",
         "name": "\u00a7 156",
         "title": "\u00dcberleitungsvorschriften zur f\u00f6rmlichen Festlegung",
         "parent": {
@@ -2742,7 +2742,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036103116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036103116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036103116",
         "name": "\u00a7 156a",
         "title": "Kosten und Finanzierung der Sanierungsma\u00dfnahme",
         "parent": {
@@ -2756,7 +2756,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004204116",
         "name": "Vierter Abschnitt",
         "title": "Sanierungstr\u00e4ger und andere Beauftragte",
         "parent": {
@@ -2767,7 +2767,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029005116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029005116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029005116",
         "name": "\u00a7 157",
         "title": "Erf\u00fcllung von Aufgaben f\u00fcr die Gemeinde",
         "parent": {
@@ -2781,7 +2781,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029106116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029106116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029106116",
         "name": "\u00a7 158",
         "title": "Voraussetzungen f\u00fcr die Beauftragung als Sanierungstr\u00e4ger",
         "parent": {
@@ -2795,7 +2795,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029207116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029207116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029207116",
         "name": "\u00a7 159",
         "title": "Erf\u00fcllung der Aufgaben als Sanierungstr\u00e4ger",
         "parent": {
@@ -2809,7 +2809,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029304116",
         "name": "\u00a7 160",
         "title": "Treuhandverm\u00f6gen",
         "parent": {
@@ -2823,7 +2823,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029406116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029406116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029406116",
         "name": "\u00a7 161",
         "title": "Sicherung des Treuhandverm\u00f6gens",
         "parent": {
@@ -2837,7 +2837,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004304116",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Abschluss der Sanierung",
         "parent": {
@@ -2848,7 +2848,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029506116",
         "name": "\u00a7 162",
         "title": "Aufhebung der Sanierungssatzung",
         "parent": {
@@ -2862,7 +2862,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029605116",
         "name": "\u00a7 163",
         "title": "Fortfall von Rechtswirkungen f\u00fcr einzelne Grundst\u00fccke",
         "parent": {
@@ -2876,7 +2876,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029705116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029705116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029705116",
         "name": "\u00a7 164",
         "title": "Anspruch auf R\u00fcck\u00fcbertragung",
         "parent": {
@@ -2890,7 +2890,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG006403116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG006403116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG006403116",
         "name": "Sechster Abschnitt",
         "title": "St\u00e4dtebauf\u00f6rderung",
         "parent": {
@@ -2901,7 +2901,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036203116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036203116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036203116",
         "name": "\u00a7 164a",
         "title": "Einsatz von St\u00e4dtebauf\u00f6rderungsmitteln",
         "parent": {
@@ -2915,7 +2915,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036304116",
         "name": "\u00a7 164b",
         "title": "Verwaltungsvereinbarung",
         "parent": {
@@ -2929,7 +2929,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004405116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004405116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004405116",
         "name": "Zweiter Teil",
         "title": "St\u00e4dtebauliche Entwicklungsma\u00dfnahmen",
         "parent": {
@@ -2940,7 +2940,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029807116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029807116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029807116",
         "name": "\u00a7 165",
         "title": "St\u00e4dtebauliche Entwicklungsma\u00dfnahmen",
         "parent": {
@@ -2954,7 +2954,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE029906116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE029906116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE029906116",
         "name": "\u00a7 166",
         "title": "Zust\u00e4ndigkeit und Aufgaben",
         "parent": {
@@ -2968,7 +2968,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030006116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030006116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030006116",
         "name": "\u00a7 167",
         "title": "Erf\u00fcllung von Aufgaben f\u00fcr die Gemeinde; Entwicklungstr\u00e4ger",
         "parent": {
@@ -2982,7 +2982,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030106116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030106116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030106116",
         "name": "\u00a7 168",
         "title": "\u00dcbernahmeverlangen",
         "parent": {
@@ -2996,7 +2996,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030208116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030208116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030208116",
         "name": "\u00a7 169",
         "title": "Besondere Vorschriften f\u00fcr den st\u00e4dtebaulichen Entwicklungsbereich",
         "parent": {
@@ -3010,7 +3010,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030306116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030306116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030306116",
         "name": "\u00a7 170",
         "title": "Sonderregelung f\u00fcr Anpassungsgebiete",
         "parent": {
@@ -3024,7 +3024,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030406116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030406116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030406116",
         "name": "\u00a7 171",
         "title": "Kosten und Finanzierung der Entwicklungsma\u00dfnahme",
         "parent": {
@@ -3038,7 +3038,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG006502116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG006502116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG006502116",
         "name": "Dritter Teil",
         "title": "Stadtumbau",
         "parent": {
@@ -3049,7 +3049,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037704116",
         "name": "\u00a7 171a",
         "title": "Stadtumbauma\u00dfnahmen",
         "parent": {
@@ -3063,7 +3063,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037802116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037802116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037802116",
         "name": "\u00a7 171b",
         "title": "Stadtumbaugebiet, st\u00e4dtebauliches Entwicklungskonzept",
         "parent": {
@@ -3077,7 +3077,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037903116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037903116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037903116",
         "name": "\u00a7 171c",
         "title": "Stadtumbauvertrag",
         "parent": {
@@ -3091,7 +3091,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037203116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037203116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037203116",
         "name": "\u00a7 171d",
         "title": "Sicherung von Durchf\u00fchrungsma\u00dfnahmen",
         "parent": {
@@ -3105,7 +3105,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG006602116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG006602116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG006602116",
         "name": "Vierter Teil",
         "title": "Soziale Stadt",
         "parent": {
@@ -3116,7 +3116,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037302116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037302116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037302116",
         "name": "\u00a7 171e",
         "title": "Ma\u00dfnahmen der Sozialen Stadt",
         "parent": {
@@ -3130,7 +3130,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG006701116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG006701116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG006701116",
         "name": "F\u00fcnfter Teil",
         "title": "Private Initiativen",
         "parent": {
@@ -3141,7 +3141,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038201116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038201116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038201116",
         "name": "\u00a7 171f",
         "title": "Private Initiativen zur Stadtentwicklung, Landesrecht",
         "parent": {
@@ -3155,7 +3155,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004506116",
         "name": "Sechster Teil",
         "title": "Erhaltungssatzung und st\u00e4dtebauliche Gebote",
         "parent": {
@@ -3166,7 +3166,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004606116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004606116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004606116",
         "name": "Erster Abschnitt",
         "title": "Erhaltungssatzung",
         "parent": {
@@ -3177,7 +3177,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030509116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030509116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030509116",
         "name": "\u00a7 172",
         "title": "Erhaltung baulicher Anlagen und der Eigenart von Gebieten (Erhaltungssatzung)",
         "parent": {
@@ -3191,7 +3191,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030606116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030606116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030606116",
         "name": "\u00a7 173",
         "title": "Genehmigung, \u00dcbernahmeanspruch",
         "parent": {
@@ -3205,7 +3205,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030704116",
         "name": "\u00a7 174",
         "title": "Ausnahmen",
         "parent": {
@@ -3219,7 +3219,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004706116",
         "name": "Zweiter Abschnitt",
         "title": "St\u00e4dtebauliche Gebote",
         "parent": {
@@ -3230,7 +3230,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030806116",
         "name": "\u00a7 175",
         "title": "Allgemeines",
         "parent": {
@@ -3244,7 +3244,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE030905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE030905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE030905116",
         "name": "\u00a7 176",
         "title": "Baugebot",
         "parent": {
@@ -3258,7 +3258,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031004116",
         "name": "\u00a7 177",
         "title": "Modernisierungs- und Instandsetzungsgebot",
         "parent": {
@@ -3272,7 +3272,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031104116",
         "name": "\u00a7 178",
         "title": "Pflanzgebot",
         "parent": {
@@ -3286,7 +3286,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031206116",
         "name": "\u00a7 179",
         "title": "R\u00fcckbau- und Entsiegelungsgebot",
         "parent": {
@@ -3300,7 +3300,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004806116",
         "name": "Siebter Teil",
         "title": "Sozialplan und H\u00e4rteausgleich",
         "parent": {
@@ -3311,7 +3311,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031306116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031306116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031306116",
         "name": "\u00a7 180",
         "title": "Sozialplan",
         "parent": {
@@ -3325,7 +3325,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031404116",
         "name": "\u00a7 181",
         "title": "H\u00e4rteausgleich",
         "parent": {
@@ -3339,7 +3339,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG004906116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG004906116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG004906116",
         "name": "Achter Teil",
         "title": "Miet- und Pachtverh\u00e4ltnisse",
         "parent": {
@@ -3350,7 +3350,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031505116",
         "name": "\u00a7 182",
         "title": "Aufhebung von Miet- oder Pachtverh\u00e4ltnissen",
         "parent": {
@@ -3364,7 +3364,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031604116",
         "name": "\u00a7 183",
         "title": "Aufhebung von Miet- oder Pachtverh\u00e4ltnissen \u00fcber unbebaute Grundst\u00fccke",
         "parent": {
@@ -3378,7 +3378,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031704116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031704116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031704116",
         "name": "\u00a7 184",
         "title": "Aufhebung anderer Vertragsverh\u00e4ltnisse",
         "parent": {
@@ -3392,7 +3392,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031804116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031804116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031804116",
         "name": "\u00a7 185",
         "title": "Entsch\u00e4digung bei Aufhebung von Miet- oder Pachtverh\u00e4ltnissen",
         "parent": {
@@ -3406,7 +3406,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE031905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE031905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE031905116",
         "name": "\u00a7 186",
         "title": "Verl\u00e4ngerung von Miet- oder Pachtverh\u00e4ltnissen",
         "parent": {
@@ -3420,7 +3420,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005006116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005006116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005006116",
         "name": "Neunter Teil",
         "title": "St\u00e4dtebauliche Ma\u00dfnahmen im Zusammenhang mit Ma\u00dfnahmen zur Verbesserung der Agrarstruktur",
         "parent": {
@@ -3431,7 +3431,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032004116",
         "name": "\u00a7 187",
         "title": "Abstimmung von Ma\u00dfnahmen; Bauleitplanung und Ma\u00dfnahmen zur Verbesserung der Agrarstruktur",
         "parent": {
@@ -3445,7 +3445,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032104116",
         "name": "\u00a7 188",
         "title": "Bauleitplanung und Flurbereinigung",
         "parent": {
@@ -3459,7 +3459,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032204116",
         "name": "\u00a7 189",
         "title": "Ersatzlandbeschaffung",
         "parent": {
@@ -3473,7 +3473,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032304116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032304116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032304116",
         "name": "\u00a7 190",
         "title": "Flurbereinigung aus Anlass einer st\u00e4dtebaulichen Ma\u00dfnahme",
         "parent": {
@@ -3487,7 +3487,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032404116",
         "name": "\u00a7 191",
         "title": "Vorschriften \u00fcber den Verkehr mit land- und forstwirtschaftlichen Grundst\u00fccken",
         "parent": {
@@ -3501,7 +3501,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005104116",
         "name": "Drittes Kapitel",
         "title": "Sonstige Vorschriften",
         "parent": null
@@ -3509,7 +3509,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005204116",
         "name": "Erster Teil",
         "title": "Wertermittlung",
         "parent": {
@@ -3520,7 +3520,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032505116",
         "name": "\u00a7 192",
         "title": "Gutachterausschuss",
         "parent": {
@@ -3534,7 +3534,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032605116",
         "name": "\u00a7 193",
         "title": "Aufgaben des Gutachterausschusses",
         "parent": {
@@ -3548,7 +3548,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032705116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032705116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032705116",
         "name": "\u00a7 194",
         "title": "Verkehrswert",
         "parent": {
@@ -3562,7 +3562,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032806116",
         "name": "\u00a7 195",
         "title": "Kaufpreissammlung",
         "parent": {
@@ -3576,7 +3576,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE032907116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE032907116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE032907116",
         "name": "\u00a7 196",
         "title": "Bodenrichtwerte",
         "parent": {
@@ -3590,7 +3590,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033005116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033005116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033005116",
         "name": "\u00a7 197",
         "title": "Befugnisse des Gutachterausschusses",
         "parent": {
@@ -3604,7 +3604,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033106116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033106116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033106116",
         "name": "\u00a7 198",
         "title": "Oberer Gutachterausschuss",
         "parent": {
@@ -3618,7 +3618,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033206116",
         "name": "\u00a7 199",
         "title": "Erm\u00e4chtigungen",
         "parent": {
@@ -3632,7 +3632,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005305116",
         "name": "Zweiter Teil",
         "title": "Allgemeine Vorschriften; Zust\u00e4ndigkeiten; Verwaltungsverfahren; Planerhaltung",
         "parent": {
@@ -3643,7 +3643,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005404116",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -3654,7 +3654,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE021206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE021206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE021206116",
         "name": "\u00a7 200",
         "title": "Grundst\u00fccke; Rechte an Grundst\u00fccken; Baulandkataster",
         "parent": {
@@ -3668,7 +3668,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036404116",
         "name": "\u00a7 200a",
         "title": "Ersatzma\u00dfnahmen",
         "parent": {
@@ -3682,7 +3682,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE021306116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE021306116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE021306116",
         "name": "\u00a7 201",
         "title": "Begriff der Landwirtschaft",
         "parent": {
@@ -3696,7 +3696,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE008105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE008105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE008105116",
         "name": "\u00a7 202",
         "title": "Schutz des Mutterbodens",
         "parent": {
@@ -3710,7 +3710,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005504116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005504116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005504116",
         "name": "Zweiter Abschnitt",
         "title": "Zust\u00e4ndigkeiten",
         "parent": {
@@ -3721,7 +3721,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE021408116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE021408116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE021408116",
         "name": "\u00a7 203",
         "title": "Abweichende Zust\u00e4ndigkeitsregelung",
         "parent": {
@@ -3735,7 +3735,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033305116",
         "name": "\u00a7 204",
         "title": "Gemeinsamer Fl\u00e4chennutzungsplan, Bauleitplanung bei Bildung von Planungsverb\u00e4nden und bei Gebiets- oder Bestands\u00e4nderung",
         "parent": {
@@ -3749,7 +3749,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033406116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033406116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033406116",
         "name": "\u00a7 205",
         "title": "Planungsverb\u00e4nde",
         "parent": {
@@ -3763,7 +3763,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE021505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE021505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE021505116",
         "name": "\u00a7 206",
         "title": "\u00d6rtliche und sachliche Zust\u00e4ndigkeit",
         "parent": {
@@ -3777,7 +3777,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005604116",
         "name": "Dritter Abschnitt",
         "title": "Verwaltungsverfahren",
         "parent": {
@@ -3788,7 +3788,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE021606116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE021606116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE021606116",
         "name": "\u00a7 207",
         "title": "Von Amts wegen bestellter Vertreter",
         "parent": {
@@ -3802,7 +3802,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE021707116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE021707116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE021707116",
         "name": "\u00a7 208",
         "title": "Anordnungen zur Erforschung des Sachverhalts",
         "parent": {
@@ -3816,7 +3816,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE021805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE021805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE021805116",
         "name": "\u00a7 209",
         "title": "Vorarbeiten auf Grundst\u00fccken",
         "parent": {
@@ -3830,7 +3830,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022006116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022006116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022006116",
         "name": "\u00a7 210",
         "title": "Wiedereinsetzung",
         "parent": {
@@ -3844,7 +3844,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022105116",
         "name": "\u00a7 211",
         "title": "Belehrung \u00fcber Rechtsbehelfe",
         "parent": {
@@ -3858,7 +3858,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022206116",
         "name": "\u00a7 212",
         "title": "Vorverfahren",
         "parent": {
@@ -3872,7 +3872,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036504116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036504116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036504116",
         "name": "\u00a7 212a",
         "title": "Entfall der aufschiebenden Wirkung",
         "parent": {
@@ -3886,7 +3886,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022609116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022609116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022609116",
         "name": "\u00a7 213",
         "title": "Ordnungswidrigkeiten",
         "parent": {
@@ -3900,7 +3900,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005705116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005705116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005705116",
         "name": "Vierter Abschnitt",
         "title": "Planerhaltung",
         "parent": {
@@ -3911,7 +3911,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022413116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022413116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022413116",
         "name": "\u00a7 214",
         "title": "Beachtlichkeit der Verletzung von Vorschriften \u00fcber die Aufstellung des Fl\u00e4chennutzungsplans und der Satzungen; erg\u00e4nzendes Verfahren",
         "parent": {
@@ -3925,7 +3925,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022308116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022308116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022308116",
         "name": "\u00a7 215",
         "title": "Frist f\u00fcr die Geltendmachung der Verletzung von Vorschriften",
         "parent": {
@@ -3939,7 +3939,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022506116",
         "name": "\u00a7 216",
         "title": "Aufgaben im Genehmigungsverfahren",
         "parent": {
@@ -3953,7 +3953,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005804116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005804116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005804116",
         "name": "Dritter Teil",
         "title": "Verfahren vor den Kammern (Senaten) f\u00fcr Baulandsachen",
         "parent": {
@@ -3964,7 +3964,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022708116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022708116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022708116",
         "name": "\u00a7 217",
         "title": "Antrag auf gerichtliche Entscheidung",
         "parent": {
@@ -3978,7 +3978,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022805116",
         "name": "\u00a7 218",
         "title": "Wiedereinsetzung in den vorigen Stand",
         "parent": {
@@ -3992,7 +3992,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE022905116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE022905116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE022905116",
         "name": "\u00a7 219",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit der Landgerichte",
         "parent": {
@@ -4006,7 +4006,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023006116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023006116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023006116",
         "name": "\u00a7 220",
         "title": "Zusammensetzung der Kammern f\u00fcr Baulandsachen",
         "parent": {
@@ -4020,7 +4020,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023108116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023108116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023108116",
         "name": "\u00a7 221",
         "title": "Allgemeine Verfahrensvorschriften",
         "parent": {
@@ -4034,7 +4034,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023206116",
         "name": "\u00a7 222",
         "title": "Beteiligte",
         "parent": {
@@ -4048,7 +4048,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023305116",
         "name": "\u00a7 223",
         "title": "Anfechtung von Ermessensentscheidungen",
         "parent": {
@@ -4062,7 +4062,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023407116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023407116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023407116",
         "name": "\u00a7 224",
         "title": "Entfall der aufschiebenden Wirkung bei Antrag auf gerichtliche Entscheidung",
         "parent": {
@@ -4076,7 +4076,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023505116",
         "name": "\u00a7 225",
         "title": "Vorzeitige Ausf\u00fchrungsanordnung",
         "parent": {
@@ -4090,7 +4090,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023605116",
         "name": "\u00a7 226",
         "title": "Urteil",
         "parent": {
@@ -4104,7 +4104,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023705116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023705116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023705116",
         "name": "\u00a7 227",
         "title": "S\u00e4umnis eines Beteiligten",
         "parent": {
@@ -4118,7 +4118,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023805116",
         "name": "\u00a7 228",
         "title": "Kosten des Verfahrens",
         "parent": {
@@ -4132,7 +4132,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE023907116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE023907116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE023907116",
         "name": "\u00a7 229",
         "title": "Berufung, Beschwerde",
         "parent": {
@@ -4146,7 +4146,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE024005116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE024005116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE024005116",
         "name": "\u00a7 230",
         "title": "Revision",
         "parent": {
@@ -4160,7 +4160,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE024105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE024105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE024105116",
         "name": "\u00a7 231",
         "title": "Einigung",
         "parent": {
@@ -4174,7 +4174,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE024205116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE024205116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE024205116",
         "name": "\u00a7 232",
         "title": "Weitere Zust\u00e4ndigkeit der Kammern (Senate) f\u00fcr Baulandsachen",
         "parent": {
@@ -4188,7 +4188,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG005904116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG005904116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005904116",
         "name": "Viertes Kapitel",
         "title": "\u00dcberleitungs- und Schlussvorschriften",
         "parent": null
@@ -4196,7 +4196,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG006004116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG006004116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG006004116",
         "name": "Erster Teil",
         "title": "\u00dcberleitungsvorschriften",
         "parent": {
@@ -4207,7 +4207,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033506116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033506116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033506116",
         "name": "\u00a7 233",
         "title": "Allgemeine \u00dcberleitungsvorschriften",
         "parent": {
@@ -4221,7 +4221,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033605116",
         "name": "\u00a7 234",
         "title": "\u00dcberleitungsvorschriften f\u00fcr das Vorkaufsrecht",
         "parent": {
@@ -4235,7 +4235,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033706116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033706116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033706116",
         "name": "\u00a7 235",
         "title": "\u00dcberleitungsvorschriften f\u00fcr st\u00e4dtebauliche Sanierungs- und Entwicklungsma\u00dfnahmen",
         "parent": {
@@ -4249,7 +4249,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033806116",
         "name": "\u00a7 236",
         "title": "\u00dcberleitungsvorschriften f\u00fcr das Baugebot und die Erhaltung baulicher Anlagen",
         "parent": {
@@ -4263,7 +4263,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE033906116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE033906116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE033906116",
         "name": "\u00a7 237",
         "title": "(weggefallen)",
         "parent": {
@@ -4277,7 +4277,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE034005116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE034005116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE034005116",
         "name": "\u00a7 238",
         "title": "\u00dcberleitungsvorschrift f\u00fcr Entsch\u00e4digungen",
         "parent": {
@@ -4291,7 +4291,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE034105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE034105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE034105116",
         "name": "\u00a7 239",
         "title": "\u00dcberleitungsvorschrift f\u00fcr die Grenzregelung",
         "parent": {
@@ -4305,7 +4305,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE034205116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE034205116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE034205116",
         "name": "\u00a7 240",
         "title": "(weggefallen)",
         "parent": {
@@ -4319,7 +4319,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE034303116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE034303116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE034303116",
         "name": "\u00a7 241",
         "title": "(weggefallen)",
         "parent": {
@@ -4333,7 +4333,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE034407116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE034407116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE034407116",
         "name": "\u00a7 242",
         "title": "\u00dcberleitungsvorschriften f\u00fcr die Erschlie\u00dfung",
         "parent": {
@@ -4347,7 +4347,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE034505116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE034505116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE034505116",
         "name": "\u00a7 243",
         "title": "\u00dcberleitungsvorschriften f\u00fcr das Ma\u00dfnahmengesetz zum Baugesetzbuch und das Bundesnaturschutzgesetz",
         "parent": {
@@ -4361,7 +4361,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037403116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037403116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037403116",
         "name": "\u00a7 244",
         "title": "\u00dcberleitungsvorschriften f\u00fcr das Europarechtsanpassungsgesetz Bau",
         "parent": {
@@ -4375,7 +4375,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037503116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037503116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037503116",
         "name": "\u00a7 245",
         "title": "\u00dcberleitungsvorschriften f\u00fcr den Stadtumbau, die Soziale Stadt und die F\u00f6rderung st\u00e4dtebaulicher Ma\u00dfnahmen",
         "parent": {
@@ -4389,7 +4389,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE035205116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE035205116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE035205116",
         "name": "\u00a7 245a",
         "title": "\u00dcberleitungsvorschriften aus Anlass des Gesetzes zur St\u00e4rkung der Innenentwicklung in den St\u00e4dten und Gemeinden und weiteren Fortentwicklung des St\u00e4dtebaurechts",
         "parent": {
@@ -4403,7 +4403,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE035306116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE035306116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE035306116",
         "name": "\u00a7 245b",
         "title": "\u00dcberleitungsvorschriften f\u00fcr Vorhaben im Au\u00dfenbereich",
         "parent": {
@@ -4417,7 +4417,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE036805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE036805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE036805116",
         "name": "\u00a7 245c",
         "title": "\u00dcberleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im St\u00e4dtebaurecht und zur St\u00e4rkung des neuen Zusammenlebens in der Stadt",
         "parent": {
@@ -4431,7 +4431,7 @@
       {
         "type": "heading",
         "id": "BJNR003410960BJNG006104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNG006104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG006104116",
         "name": "Zweiter Teil",
         "title": "Schlussvorschriften",
         "parent": {
@@ -4442,7 +4442,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE034810116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE034810116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE034810116",
         "name": "\u00a7 246",
         "title": "Sonderregelungen f\u00fcr einzelne L\u00e4nder; Sonderregelungen f\u00fcr Fl\u00fcchtlingsunterk\u00fcnfte",
         "parent": {
@@ -4456,7 +4456,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038001116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038001116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038001116",
         "name": "\u00a7 246a",
         "title": "\u00dcberschwemmungsgebiete, \u00fcberschwemmungsgef\u00e4hrdete Gebiete",
         "parent": {
@@ -4470,7 +4470,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038900116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038900116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038900116",
         "name": "\u00a7 246b",
         "title": "Sonderregelungen f\u00fcr Anlagen f\u00fcr gesundheitliche Zwecke im Zuge der COVID-19-Pandemie",
         "parent": {
@@ -4484,7 +4484,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE034907116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE034907116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE034907116",
         "name": "\u00a7 247",
         "title": "Sonderregelungen f\u00fcr Berlin als Hauptstadt der Bundesrepublik Deutschland",
         "parent": {
@@ -4498,7 +4498,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038401116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038401116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038401116",
         "name": "\u00a7 248",
         "title": "Sonderregelung zur sparsamen und effizienten Nutzung von Energie",
         "parent": {
@@ -4512,7 +4512,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038503125",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038503125",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038503125",
         "name": "\u00a7 249",
         "title": "Sonderregelungen zur Windenergie",
         "parent": {
@@ -4526,7 +4526,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE037604116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE037604116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE037604116",
         "name": "Anlage 1",
         "title": "(zu \u00a7 2 Absatz 4 und den \u00a7\u00a7 2a und 4c)",
         "parent": {
@@ -4540,7 +4540,7 @@
       {
         "type": "article",
         "id": "BJNR003410960BJNE038306116",
-        "url": "https://api.rechtsinformationsportal.de/laws/baugb/articles/BJNR003410960BJNE038306116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNE038306116",
         "name": "Anlage 2",
         "title": "(zu \u00a7 13a Absatz 1 Satz 2 Nummer 2)",
         "parent": {

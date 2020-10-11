@@ -17,7 +17,8 @@ depends_on = None
 
 
 def upgrade():
-    op.create_table('laws',
+    op.create_table(
+        'laws',
         sa.Column('id', sa.Integer(), nullable=False),
         sa.Column('doknr', sa.String(), nullable=False),
         sa.Column('slug', sa.String(), nullable=False),
@@ -39,7 +40,8 @@ def upgrade():
     )
     op.create_index(op.f('ix_laws_gii_slug'), 'laws', ['gii_slug'], unique=False)
     op.create_index(op.f('ix_laws_slug'), 'laws', ['slug'], unique=False)
-    op.create_table('content_items',
+    op.create_table(
+        'content_items',
         sa.Column('id', sa.Integer(), nullable=False),
         sa.Column('doknr', sa.String(), nullable=False),
         sa.Column('item_type', sa.String(), nullable=False),

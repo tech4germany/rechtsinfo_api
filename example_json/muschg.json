@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR122810017",
-    "url": "https://api.rechtsinformationsportal.de/laws/muschg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg",
     "firstPublished": "2017-05-23",
     "sourceTimestamp": "20200527212517",
     "titleShort": "Mutterschutzgesetz",
@@ -34,7 +34,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000100000",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -45,7 +45,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -53,7 +53,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000200000",
         "name": "\u00a7 1",
         "title": "Anwendungsbereich, Ziel des Mutterschutzes",
         "parent": {
@@ -67,7 +67,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000300000",
         "name": "\u00a7 2",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -81,7 +81,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Gesundheitsschutz",
         "parent": null
@@ -89,7 +89,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000300000",
         "name": "Unterabschnitt 1",
         "title": "Arbeitszeitlicher Gesundheitsschutz",
         "parent": {
@@ -100,7 +100,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000400000",
         "name": "\u00a7 3",
         "title": "Schutzfristen vor und nach der Entbindung",
         "parent": {
@@ -114,7 +114,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000500000",
         "name": "\u00a7 4",
         "title": "Verbot der Mehrarbeit; Ruhezeit",
         "parent": {
@@ -128,7 +128,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000600000",
         "name": "\u00a7 5",
         "title": "Verbot der Nachtarbeit",
         "parent": {
@@ -142,7 +142,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000700000",
         "name": "\u00a7 6",
         "title": "Verbot der Sonn- und Feiertagsarbeit",
         "parent": {
@@ -156,7 +156,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000800000",
         "name": "\u00a7 7",
         "title": "Freistellung f\u00fcr Untersuchungen und zum Stillen",
         "parent": {
@@ -170,7 +170,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE000900000",
         "name": "\u00a7 8",
         "title": "Beschr\u00e4nkung von Heimarbeit",
         "parent": {
@@ -184,7 +184,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000400000",
         "name": "Unterabschnitt 2",
         "title": "Betrieblicher Gesundheitsschutz",
         "parent": {
@@ -195,7 +195,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001000000",
         "name": "\u00a7 9",
         "title": "Gestaltung der Arbeitsbedingungen; unverantwortbare Gef\u00e4hrdung",
         "parent": {
@@ -209,7 +209,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001100000",
         "name": "\u00a7 10",
         "title": "Beurteilung der Arbeitsbedingungen; Schutzma\u00dfnahmen",
         "parent": {
@@ -223,7 +223,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001200000",
         "name": "\u00a7 11",
         "title": "Unzul\u00e4ssige T\u00e4tigkeiten und Arbeitsbedingungen f\u00fcr schwangere Frauen",
         "parent": {
@@ -237,7 +237,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001300000",
         "name": "\u00a7 12",
         "title": "Unzul\u00e4ssige T\u00e4tigkeiten und Arbeitsbedingungen f\u00fcr stillende Frauen",
         "parent": {
@@ -251,7 +251,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001400000",
         "name": "\u00a7 13",
         "title": "Rangfolge der Schutzma\u00dfnahmen: Umgestaltung der Arbeitsbedingungen, Arbeitsplatzwechsel und betriebliches Besch\u00e4ftigungsverbot",
         "parent": {
@@ -265,7 +265,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001500000",
         "name": "\u00a7 14",
         "title": "Dokumentation und Information durch den Arbeitgeber",
         "parent": {
@@ -279,7 +279,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001600000",
         "name": "\u00a7 15",
         "title": "Mitteilungen und Nachweise der schwangeren und stillenden Frauen",
         "parent": {
@@ -293,7 +293,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000500000",
         "name": "Unterabschnitt 3",
         "title": "\u00c4rztlicher Gesundheitsschutz",
         "parent": {
@@ -304,7 +304,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001700000",
         "name": "\u00a7 16",
         "title": "\u00c4rztliches Besch\u00e4ftigungsverbot",
         "parent": {
@@ -318,7 +318,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000600000",
         "name": "Abschnitt 3",
         "title": "K\u00fcndigungsschutz",
         "parent": null
@@ -326,7 +326,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001800000",
         "name": "\u00a7 17",
         "title": "K\u00fcndigungsverbot",
         "parent": {
@@ -340,7 +340,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000700000",
         "name": "Abschnitt 4",
         "title": "Leistungen",
         "parent": null
@@ -348,7 +348,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE001900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE001900000",
         "name": "\u00a7 18",
         "title": "Mutterschutzlohn",
         "parent": {
@@ -362,7 +362,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002001126",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002001126",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002001126",
         "name": "\u00a7 19",
         "title": "Mutterschaftsgeld",
         "parent": {
@@ -376,7 +376,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002100000",
         "name": "\u00a7 20",
         "title": "Zuschuss zum Mutterschaftsgeld",
         "parent": {
@@ -390,7 +390,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002200000",
         "name": "\u00a7 21",
         "title": "Ermittlung des durchschnittlichen Arbeitsentgelts",
         "parent": {
@@ -404,7 +404,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002300000",
         "name": "\u00a7 22",
         "title": "Leistungen w\u00e4hrend der Elternzeit",
         "parent": {
@@ -418,7 +418,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002400000",
         "name": "\u00a7 23",
         "title": "Entgelt bei Freistellung f\u00fcr Untersuchungen und zum Stillen",
         "parent": {
@@ -432,7 +432,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002500000",
         "name": "\u00a7 24",
         "title": "Fortbestehen des Erholungsurlaubs bei Besch\u00e4ftigungsverboten",
         "parent": {
@@ -446,7 +446,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002600000",
         "name": "\u00a7 25",
         "title": "Besch\u00e4ftigung nach dem Ende des Besch\u00e4ftigungsverbots",
         "parent": {
@@ -460,7 +460,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000800000",
         "name": "Abschnitt 5",
         "title": "Durchf\u00fchrung des Gesetzes",
         "parent": null
@@ -468,7 +468,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002700000",
         "name": "\u00a7 26",
         "title": "Aushang des Gesetzes",
         "parent": {
@@ -482,7 +482,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002800000",
         "name": "\u00a7 27",
         "title": "Mitteilungs- und Aufbewahrungspflichten des Arbeitgebers, Offenbarungsverbot der mit der \u00dcberwachung beauftragten Personen",
         "parent": {
@@ -496,7 +496,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE002900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE002900000",
         "name": "\u00a7 28",
         "title": "Beh\u00f6rdliches Genehmigungsverfahren f\u00fcr eine Besch\u00e4ftigung zwischen 20 Uhr und 22 Uhr",
         "parent": {
@@ -510,7 +510,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE003000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE003000000",
         "name": "\u00a7 29",
         "title": "Zust\u00e4ndigkeit und Befugnisse der Aufsichtsbeh\u00f6rden, Jahresbericht",
         "parent": {
@@ -524,7 +524,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE003100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE003100000",
         "name": "\u00a7 30",
         "title": "Ausschuss f\u00fcr Mutterschutz",
         "parent": {
@@ -538,7 +538,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE003200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE003200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE003200000",
         "name": "\u00a7 31",
         "title": "Erlass von Rechtsverordnungen",
         "parent": {
@@ -552,7 +552,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000900000",
         "name": "Abschnitt 6",
         "title": "Bu\u00dfgeldvorschriften, Strafvorschriften",
         "parent": null
@@ -560,7 +560,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE003301000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE003301000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE003301000",
         "name": "\u00a7 32",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -574,7 +574,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE003400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE003400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE003400000",
         "name": "\u00a7 33",
         "title": "Strafvorschriften",
         "parent": {
@@ -588,7 +588,7 @@
       {
         "type": "heading",
         "id": "BJNR122810017BJNG001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG001000000",
         "name": "Abschnitt 7",
         "title": "Schlussvorschriften",
         "parent": null
@@ -596,7 +596,7 @@
       {
         "type": "article",
         "id": "BJNR122810017BJNE003500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/muschg/articles/BJNR122810017BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNE003500000",
         "name": "\u00a7 34",
         "title": "Evaluationsbericht",
         "parent": {

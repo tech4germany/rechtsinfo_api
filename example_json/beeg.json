@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR274810006",
-    "url": "https://api.rechtsinformationsportal.de/laws/beeg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg",
     "firstPublished": "2006-12-05",
     "sourceTimestamp": "20200609212517",
     "titleShort": "Bundeselterngeld- und Elternzeitgesetz",
@@ -40,7 +40,7 @@
       {
         "type": "heading",
         "id": "BJNR274810006BJNG000101119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNG000101119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000101119",
         "name": "Abschnitt 1",
         "title": "Elterngeld",
         "parent": null
@@ -48,7 +48,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000109126",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000109126",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000109126",
         "name": "\u00a7 1",
         "title": "Berechtigte",
         "parent": {
@@ -62,7 +62,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000207119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000207119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000207119",
         "name": "\u00a7 2",
         "title": "H\u00f6he des Elterngeldes",
         "parent": {
@@ -76,7 +76,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002801119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002801119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002801119",
         "name": "\u00a7 2a",
         "title": "Geschwisterbonus und Mehrlingszuschlag",
         "parent": {
@@ -90,7 +90,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002905119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002905119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002905119",
         "name": "\u00a7 2b",
         "title": "Bemessungszeitraum",
         "parent": {
@@ -104,7 +104,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003003119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003003119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003003119",
         "name": "\u00a7 2c",
         "title": "Einkommen aus nichtselbstst\u00e4ndiger Erwerbst\u00e4tigkeit",
         "parent": {
@@ -118,7 +118,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003102119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003102119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003102119",
         "name": "\u00a7 2d",
         "title": "Einkommen aus selbstst\u00e4ndiger Erwerbst\u00e4tigkeit",
         "parent": {
@@ -132,7 +132,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003201119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003201119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003201119",
         "name": "\u00a7 2e",
         "title": "Abz\u00fcge f\u00fcr Steuern",
         "parent": {
@@ -146,7 +146,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003301119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003301119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003301119",
         "name": "\u00a7 2f",
         "title": "Abz\u00fcge f\u00fcr Sozialabgaben",
         "parent": {
@@ -160,7 +160,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000306360",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000306360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000306360",
         "name": "\u00a7 3",
         "title": "Anrechnung von anderen Einnahmen",
         "parent": {
@@ -174,7 +174,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000406360",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000406360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000406360",
         "name": "\u00a7 4",
         "title": "Art und Dauer des Bezugs",
         "parent": {
@@ -188,7 +188,7 @@
       {
         "type": "heading",
         "id": "BJNR274810006BJNG000401119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNG000401119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000401119",
         "name": "Abschnitt 2",
         "title": "Betreuungsgeld",
         "parent": null
@@ -196,7 +196,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003501119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003501119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003501119",
         "name": "\u00a7 4a",
         "title": "Berechtigte",
         "parent": {
@@ -210,7 +210,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003601119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003601119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003601119",
         "name": "\u00a7 4b",
         "title": "H\u00f6he des Betreuungsgeldes",
         "parent": {
@@ -224,7 +224,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003701119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003701119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003701119",
         "name": "\u00a7 4c",
         "title": "Anrechnung von anderen Leistungen",
         "parent": {
@@ -238,7 +238,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003802119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003802119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003802119",
         "name": "\u00a7 4d",
         "title": "Bezugszeitraum",
         "parent": {
@@ -252,7 +252,7 @@
       {
         "type": "heading",
         "id": "BJNR274810006BJNG000501119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNG000501119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000501119",
         "name": "Abschnitt 3",
         "title": "Verfahren und Organisation",
         "parent": null
@@ -260,7 +260,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000504119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000504119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000504119",
         "name": "\u00a7 5",
         "title": "Zusammentreffen von Anspr\u00fcchen",
         "parent": {
@@ -274,7 +274,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000604119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000604119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000604119",
         "name": "\u00a7 6",
         "title": "Auszahlung",
         "parent": {
@@ -288,7 +288,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000705119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000705119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000705119",
         "name": "\u00a7 7",
         "title": "Antragstellung",
         "parent": {
@@ -302,7 +302,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000805119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000805119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000805119",
         "name": "\u00a7 8",
         "title": "Auskunftspflicht, Nebenbestimmungen",
         "parent": {
@@ -316,7 +316,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE000906119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE000906119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE000906119",
         "name": "\u00a7 9",
         "title": "Einkommens- und Arbeitszeitnachweis, Auskunftspflicht des Arbeitgebers",
         "parent": {
@@ -330,7 +330,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001005119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001005119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001005119",
         "name": "\u00a7 10",
         "title": "Verh\u00e4ltnis zu anderen Sozialleistungen",
         "parent": {
@@ -344,7 +344,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001103119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001103119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001103119",
         "name": "\u00a7 11",
         "title": "Unterhaltspflichten",
         "parent": {
@@ -358,7 +358,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001202119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001202119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001202119",
         "name": "\u00a7 12",
         "title": "Zust\u00e4ndigkeit; Aufbringung der Mittel",
         "parent": {
@@ -372,7 +372,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001301119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001301119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001301119",
         "name": "\u00a7 13",
         "title": "Rechtsweg",
         "parent": {
@@ -386,7 +386,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001402119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001402119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001402119",
         "name": "\u00a7 14",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -400,7 +400,7 @@
       {
         "type": "heading",
         "id": "BJNR274810006BJNG000202119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNG000202119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000202119",
         "name": "Abschnitt 4",
         "title": "Elternzeit f\u00fcr Arbeitnehmerinnen und Arbeitnehmer",
         "parent": null
@@ -408,7 +408,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001505360",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001505360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001505360",
         "name": "\u00a7 15",
         "title": "Anspruch auf Elternzeit",
         "parent": {
@@ -422,7 +422,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001605360",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001605360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001605360",
         "name": "\u00a7 16",
         "title": "Inanspruchnahme der Elternzeit",
         "parent": {
@@ -436,7 +436,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001701119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001701119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001701119",
         "name": "\u00a7 17",
         "title": "Urlaub",
         "parent": {
@@ -450,7 +450,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001802119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001802119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001802119",
         "name": "\u00a7 18",
         "title": "K\u00fcndigungsschutz",
         "parent": {
@@ -464,7 +464,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE001901119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE001901119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE001901119",
         "name": "\u00a7 19",
         "title": "K\u00fcndigung zum Ende der Elternzeit",
         "parent": {
@@ -478,7 +478,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002001119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002001119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002001119",
         "name": "\u00a7 20",
         "title": "Zur Berufsbildung Besch\u00e4ftigte, in Heimarbeit Besch\u00e4ftigte",
         "parent": {
@@ -492,7 +492,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002101119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002101119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002101119",
         "name": "\u00a7 21",
         "title": "Befristete Arbeitsvertr\u00e4ge",
         "parent": {
@@ -506,7 +506,7 @@
       {
         "type": "heading",
         "id": "BJNR274810006BJNG000302119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNG000302119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000302119",
         "name": "Abschnitt 5",
         "title": "Statistik und Schlussvorschriften",
         "parent": null
@@ -514,7 +514,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002205119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002205119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002205119",
         "name": "\u00a7 22",
         "title": "Bundesstatistik",
         "parent": {
@@ -528,7 +528,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002304119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002304119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002304119",
         "name": "\u00a7 23",
         "title": "Auskunftspflicht; Daten\u00fcbermittlung an das Statistische Bundesamt",
         "parent": {
@@ -542,7 +542,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002402119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002402119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002402119",
         "name": "\u00a7 24",
         "title": "\u00dcbermittlung von Tabellen mit statistischen Ergebnissen durch das Statistische Bundesamt",
         "parent": {
@@ -556,7 +556,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003402126",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003402126",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003402126",
         "name": "\u00a7 24a",
         "title": "\u00dcbermittlung von Einzelangaben durch das Statistische Bundesamt",
         "parent": {
@@ -570,7 +570,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE003900126",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE003900126",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE003900126",
         "name": "\u00a7 24b",
         "title": "Elektronische Unterst\u00fctzung bei der Antragstellung",
         "parent": {
@@ -584,7 +584,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002503119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002503119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002503119",
         "name": "\u00a7 25",
         "title": "Bericht",
         "parent": {
@@ -598,7 +598,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002603119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002603119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002603119",
         "name": "\u00a7 26",
         "title": "Anwendung der B\u00fccher des Sozialgesetzbuches",
         "parent": {
@@ -612,7 +612,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE004000119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE004000119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE004000119",
         "name": "\u00a7 27",
         "title": "Sonderregelung aus Anlass der COVID-19-Pandemie",
         "parent": {
@@ -626,7 +626,7 @@
       {
         "type": "article",
         "id": "BJNR274810006BJNE002709119",
-        "url": "https://api.rechtsinformationsportal.de/laws/beeg/articles/BJNR274810006BJNE002709119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNE002709119",
         "name": "\u00a7 28",
         "title": "\u00dcbergangsvorschrift",
         "parent": {

@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR063200004",
-    "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004",
     "firstPublished": "2004-04-21",
     "sourceTimestamp": "20160215215504",
     "titleShort": null,
@@ -32,7 +32,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000100000",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -43,7 +43,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000200000",
         "name": "\u00a7 1",
         "title": "Staatliche Anerkennung des Ausbildungsberufes",
         "parent": null,
@@ -54,7 +54,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000300000",
         "name": "\u00a7 2",
         "title": "Ausbildungsdauer",
         "parent": null,
@@ -65,7 +65,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000400000",
         "name": "\u00a7 3",
         "title": "Zielsetzung der Berufsausbildung",
         "parent": null,
@@ -76,7 +76,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000500000",
         "name": "\u00a7 4",
         "title": "Berufsfeldbreite Grundbildung",
         "parent": null,
@@ -87,7 +87,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000600000",
         "name": "\u00a7 5",
         "title": "Ausbildungsberufsbild",
         "parent": null,
@@ -98,7 +98,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000700000",
         "name": "\u00a7 6",
         "title": "Ausbildungsrahmenplan",
         "parent": null,
@@ -109,7 +109,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000800000",
         "name": "\u00a7 7",
         "title": "Ausbildungsplan",
         "parent": null,
@@ -120,7 +120,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE000900000",
         "name": "\u00a7 8",
         "title": "Berichtsheft",
         "parent": null,
@@ -131,7 +131,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE001000000",
         "name": "\u00a7 9",
         "title": "Zwischenpr\u00fcfung",
         "parent": null,
@@ -142,7 +142,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE001100000",
         "name": "\u00a7 10",
         "title": "Gesellenpr\u00fcfung, Abschlusspr\u00fcfung",
         "parent": null,
@@ -153,7 +153,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE001200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE001200000",
         "name": "\u00a7 11",
         "title": "\u00dcbergangsregelung",
         "parent": null,
@@ -164,7 +164,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE001300000",
         "name": "\u00a7 12",
         "title": "Inkrafttreten, Au\u00dferkrafttreten",
         "parent": null,
@@ -175,7 +175,7 @@
       {
         "type": "article",
         "id": "BJNR063200004BJNE001401119",
-        "url": "https://api.rechtsinformationsportal.de/laws/baeausbv_2004/articles/BJNR063200004BJNE001401119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/baeausbv_2004/articles/BJNR063200004BJNE001401119",
         "name": "Anlage",
         "title": "(zu \u00a7 6)<BR/>Ausbildungsrahmenplan f\u00fcr die Berufsausbildung zum B\u00e4cker/zur B\u00e4ckerin",
         "parent": null,

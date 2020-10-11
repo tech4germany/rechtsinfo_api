@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR000970897",
-    "url": "https://api.rechtsinformationsportal.de/laws/zvg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg",
     "firstPublished": "1897-03-24",
     "sourceTimestamp": "20191212212502",
     "titleShort": null,
@@ -32,7 +32,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000100302",
         "name": "Erster Abschnitt",
         "title": "Zwangsversteigerung und\nZwangsverwaltung von Grundst\u00fccken im Wege der Zwangsvollstreckung",
         "parent": null
@@ -40,7 +40,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000200302",
         "name": "Erster Titel",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -51,7 +51,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000100302",
         "name": "\u00a7 1",
         "title": null,
         "parent": {
@@ -65,7 +65,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000201307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000201307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000201307",
         "name": "\u00a7 2",
         "title": null,
         "parent": {
@@ -79,7 +79,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000301301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000301301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000301301",
         "name": "\u00a7 3",
         "title": null,
         "parent": {
@@ -93,7 +93,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000400302",
         "name": "\u00a7 4",
         "title": null,
         "parent": {
@@ -107,7 +107,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000500302",
         "name": "\u00a7 5",
         "title": null,
         "parent": {
@@ -121,7 +121,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000601301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000601301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000601301",
         "name": "\u00a7 6",
         "title": null,
         "parent": {
@@ -135,7 +135,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000700302",
         "name": "\u00a7 7",
         "title": null,
         "parent": {
@@ -149,7 +149,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000800302",
         "name": "\u00a7 8",
         "title": null,
         "parent": {
@@ -163,7 +163,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE000900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE000900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE000900302",
         "name": "\u00a7 9",
         "title": null,
         "parent": {
@@ -177,7 +177,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001003160",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001003160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001003160",
         "name": "\u00a7 10",
         "title": null,
         "parent": {
@@ -191,7 +191,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001100302",
         "name": "\u00a7 11",
         "title": null,
         "parent": {
@@ -205,7 +205,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001200302",
         "name": "\u00a7 12",
         "title": null,
         "parent": {
@@ -219,7 +219,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001300302",
         "name": "\u00a7 13",
         "title": null,
         "parent": {
@@ -233,7 +233,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001400302",
         "name": "\u00a7 14",
         "title": null,
         "parent": {
@@ -247,7 +247,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000300302",
         "name": "Zweiter Titel",
         "title": "Zwangsversteigerung",
         "parent": {
@@ -258,7 +258,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000400302",
         "name": "I.",
         "title": "Anordnung der Versteigerung",
         "parent": {
@@ -269,7 +269,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001500302",
         "name": "\u00a7 15",
         "title": null,
         "parent": {
@@ -283,7 +283,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001600302",
         "name": "\u00a7 16",
         "title": null,
         "parent": {
@@ -297,7 +297,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001700302",
         "name": "\u00a7 17",
         "title": null,
         "parent": {
@@ -311,7 +311,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001801301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001801301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001801301",
         "name": "\u00a7 18",
         "title": null,
         "parent": {
@@ -325,7 +325,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE001900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE001900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE001900302",
         "name": "\u00a7 19",
         "title": null,
         "parent": {
@@ -339,7 +339,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002000302",
         "name": "\u00a7 20",
         "title": null,
         "parent": {
@@ -353,7 +353,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002101301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002101301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002101301",
         "name": "\u00a7 21",
         "title": null,
         "parent": {
@@ -367,7 +367,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002200302",
         "name": "\u00a7 22",
         "title": null,
         "parent": {
@@ -381,7 +381,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002300302",
         "name": "\u00a7 23",
         "title": null,
         "parent": {
@@ -395,7 +395,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002400302",
         "name": "\u00a7 24",
         "title": null,
         "parent": {
@@ -409,7 +409,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002500302",
         "name": "\u00a7 25",
         "title": null,
         "parent": {
@@ -423,7 +423,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002600302",
         "name": "\u00a7 26",
         "title": null,
         "parent": {
@@ -437,7 +437,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002700302",
         "name": "\u00a7 27",
         "title": null,
         "parent": {
@@ -451,7 +451,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000500302",
         "name": "II.",
         "title": "Aufhebung und einstweilige\nEinstellung des Verfahrens",
         "parent": {
@@ -462,7 +462,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002801307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002801307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002801307",
         "name": "\u00a7 28",
         "title": null,
         "parent": {
@@ -476,7 +476,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE002900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE002900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE002900302",
         "name": "\u00a7 29",
         "title": null,
         "parent": {
@@ -490,7 +490,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003000302",
         "name": "\u00a7 30",
         "title": null,
         "parent": {
@@ -504,7 +504,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003101301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003101301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003101301",
         "name": "\u00a7 30a",
         "title": null,
         "parent": {
@@ -518,7 +518,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003201310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003201310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003201310",
         "name": "\u00a7 30b",
         "title": null,
         "parent": {
@@ -532,7 +532,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003403301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003403301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003403301",
         "name": "\u00a7 30c",
         "title": null,
         "parent": {
@@ -546,7 +546,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022601308",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022601308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022601308",
         "name": "\u00a7 30d",
         "title": null,
         "parent": {
@@ -560,7 +560,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022700307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022700307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022700307",
         "name": "\u00a7 30e",
         "title": null,
         "parent": {
@@ -574,7 +574,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022800307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022800307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022800307",
         "name": "\u00a7 30f",
         "title": null,
         "parent": {
@@ -588,7 +588,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003501307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003501307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003501307",
         "name": "\u00a7 31",
         "title": null,
         "parent": {
@@ -602,7 +602,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003600302",
         "name": "\u00a7 32",
         "title": null,
         "parent": {
@@ -616,7 +616,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003700302",
         "name": "\u00a7 33",
         "title": null,
         "parent": {
@@ -630,7 +630,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003800302",
         "name": "\u00a7 34",
         "title": null,
         "parent": {
@@ -644,7 +644,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000600302",
         "name": "III.",
         "title": "Bestimmung des Versteigerungstermins",
         "parent": {
@@ -655,7 +655,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE003900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE003900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE003900302",
         "name": "\u00a7 35",
         "title": null,
         "parent": {
@@ -669,7 +669,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004000302",
         "name": "\u00a7 36",
         "title": null,
         "parent": {
@@ -683,7 +683,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004100302",
         "name": "\u00a7 37",
         "title": null,
         "parent": {
@@ -697,7 +697,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004204301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004204301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004204301",
         "name": "\u00a7 38",
         "title": null,
         "parent": {
@@ -711,7 +711,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004301310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004301310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004301310",
         "name": "\u00a7 39",
         "title": null,
         "parent": {
@@ -725,7 +725,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004401310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004401310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004401310",
         "name": "\u00a7 40",
         "title": null,
         "parent": {
@@ -739,7 +739,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004500302",
         "name": "\u00a7 41",
         "title": null,
         "parent": {
@@ -753,7 +753,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004600302",
         "name": "\u00a7 42",
         "title": null,
         "parent": {
@@ -767,7 +767,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004700302",
         "name": "\u00a7 43",
         "title": null,
         "parent": {
@@ -781,7 +781,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000700302",
         "name": "IV.",
         "title": "Geringstes Gebot\nVersteigerungsbedingungen",
         "parent": {
@@ -792,7 +792,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004800302",
         "name": "\u00a7 44",
         "title": null,
         "parent": {
@@ -806,7 +806,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE004901301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE004901301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE004901301",
         "name": "\u00a7 45",
         "title": null,
         "parent": {
@@ -820,7 +820,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005000302",
         "name": "\u00a7 46",
         "title": null,
         "parent": {
@@ -834,7 +834,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005100302",
         "name": "\u00a7 47",
         "title": null,
         "parent": {
@@ -848,7 +848,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005200302",
         "name": "\u00a7 48",
         "title": null,
         "parent": {
@@ -862,7 +862,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005302301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005302301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005302301",
         "name": "\u00a7 49",
         "title": null,
         "parent": {
@@ -876,7 +876,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005400302",
         "name": "\u00a7 50",
         "title": null,
         "parent": {
@@ -890,7 +890,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005500302",
         "name": "\u00a7 51",
         "title": null,
         "parent": {
@@ -904,7 +904,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005603160",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005603160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005603160",
         "name": "\u00a7 52",
         "title": null,
         "parent": {
@@ -918,7 +918,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005700302",
         "name": "\u00a7 53",
         "title": null,
         "parent": {
@@ -932,7 +932,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005800302",
         "name": "\u00a7 54",
         "title": null,
         "parent": {
@@ -946,7 +946,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE005900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE005900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE005900302",
         "name": "\u00a7 55",
         "title": null,
         "parent": {
@@ -960,7 +960,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE006000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE006000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE006000302",
         "name": "\u00a7 56",
         "title": null,
         "parent": {
@@ -974,7 +974,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE006101301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE006101301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE006101301",
         "name": "\u00a7 57",
         "title": null,
         "parent": {
@@ -988,7 +988,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE006200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE006200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE006200302",
         "name": "\u00a7 57a",
         "title": null,
         "parent": {
@@ -1002,7 +1002,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE006301301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE006301301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE006301301",
         "name": "\u00a7 57b",
         "title": null,
         "parent": {
@@ -1016,7 +1016,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE006600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE006600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE006600302",
         "name": "\u00a7 58",
         "title": null,
         "parent": {
@@ -1030,7 +1030,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE006701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE006701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE006701307",
         "name": "\u00a7 59",
         "title": null,
         "parent": {
@@ -1044,7 +1044,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE006801301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE006801301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE006801301",
         "name": "\u00a7 60",
         "title": "(weggefallen)",
         "parent": {
@@ -1058,7 +1058,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE006901301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE006901301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE006901301",
         "name": "\u00a7 61",
         "title": "(weggefallen)",
         "parent": {
@@ -1072,7 +1072,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007000302",
         "name": "\u00a7 62",
         "title": null,
         "parent": {
@@ -1086,7 +1086,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007101307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007101307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007101307",
         "name": "\u00a7 63",
         "title": null,
         "parent": {
@@ -1100,7 +1100,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007200302",
         "name": "\u00a7 64",
         "title": null,
         "parent": {
@@ -1114,7 +1114,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007300302",
         "name": "\u00a7 65",
         "title": null,
         "parent": {
@@ -1128,7 +1128,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000800302",
         "name": "V.",
         "title": "Versteigerung",
         "parent": {
@@ -1139,7 +1139,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007400302",
         "name": "\u00a7 66",
         "title": null,
         "parent": {
@@ -1153,7 +1153,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007501301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007501301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007501301",
         "name": "\u00a7 67",
         "title": null,
         "parent": {
@@ -1167,7 +1167,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007603160",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007603160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007603160",
         "name": "\u00a7 68",
         "title": null,
         "parent": {
@@ -1181,7 +1181,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007703301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007703301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007703301",
         "name": "\u00a7 69",
         "title": null,
         "parent": {
@@ -1195,7 +1195,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007802301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007802301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007802301",
         "name": "\u00a7 70",
         "title": null,
         "parent": {
@@ -1209,7 +1209,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE007900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE007900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE007900302",
         "name": "\u00a7 71",
         "title": null,
         "parent": {
@@ -1223,7 +1223,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008001301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008001301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008001301",
         "name": "\u00a7 72",
         "title": null,
         "parent": {
@@ -1237,7 +1237,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008101307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008101307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008101307",
         "name": "\u00a7 73",
         "title": null,
         "parent": {
@@ -1251,7 +1251,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008200302",
         "name": "\u00a7 74",
         "title": null,
         "parent": {
@@ -1265,7 +1265,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008302310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008302310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008302310",
         "name": "\u00a7 74a",
         "title": null,
         "parent": {
@@ -1279,7 +1279,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008400302",
         "name": "\u00a7 74b",
         "title": null,
         "parent": {
@@ -1293,7 +1293,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008501301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008501301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008501301",
         "name": "\u00a7 75",
         "title": null,
         "parent": {
@@ -1307,7 +1307,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008600302",
         "name": "\u00a7 76",
         "title": null,
         "parent": {
@@ -1321,7 +1321,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008700302",
         "name": "\u00a7 77",
         "title": null,
         "parent": {
@@ -1335,7 +1335,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008800302",
         "name": "\u00a7 78",
         "title": null,
         "parent": {
@@ -1349,7 +1349,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG000900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG000900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG000900302",
         "name": "VI.",
         "title": "Entscheidung \u00fcber den Zuschlag",
         "parent": {
@@ -1360,7 +1360,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE008900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE008900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE008900302",
         "name": "\u00a7 79",
         "title": null,
         "parent": {
@@ -1374,7 +1374,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009000302",
         "name": "\u00a7 80",
         "title": null,
         "parent": {
@@ -1388,7 +1388,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009100302",
         "name": "\u00a7 81",
         "title": null,
         "parent": {
@@ -1402,7 +1402,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009203301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009203301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009203301",
         "name": "\u00a7 82",
         "title": null,
         "parent": {
@@ -1416,7 +1416,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009302301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009302301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009302301",
         "name": "\u00a7 83",
         "title": null,
         "parent": {
@@ -1430,7 +1430,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009400302",
         "name": "\u00a7 84",
         "title": null,
         "parent": {
@@ -1444,7 +1444,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009502301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009502301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009502301",
         "name": "\u00a7 85",
         "title": null,
         "parent": {
@@ -1458,7 +1458,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022200301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022200301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022200301",
         "name": "\u00a7 85a",
         "title": null,
         "parent": {
@@ -1472,7 +1472,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009600302",
         "name": "\u00a7 86",
         "title": null,
         "parent": {
@@ -1486,7 +1486,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009700302",
         "name": "\u00a7 87",
         "title": null,
         "parent": {
@@ -1500,7 +1500,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009803301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009803301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009803301",
         "name": "\u00a7 88",
         "title": null,
         "parent": {
@@ -1514,7 +1514,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE009900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE009900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE009900302",
         "name": "\u00a7 89",
         "title": null,
         "parent": {
@@ -1528,7 +1528,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010000302",
         "name": "\u00a7 90",
         "title": null,
         "parent": {
@@ -1542,7 +1542,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010100302",
         "name": "\u00a7 91",
         "title": null,
         "parent": {
@@ -1556,7 +1556,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010200302",
         "name": "\u00a7 92",
         "title": null,
         "parent": {
@@ -1570,7 +1570,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010300302",
         "name": "\u00a7 93",
         "title": null,
         "parent": {
@@ -1584,7 +1584,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010400302",
         "name": "\u00a7 94",
         "title": null,
         "parent": {
@@ -1598,7 +1598,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG001000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG001000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG001000302",
         "name": "VII.",
         "title": "Beschwerde",
         "parent": {
@@ -1609,7 +1609,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010501310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010501310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010501310",
         "name": "\u00a7 95",
         "title": null,
         "parent": {
@@ -1623,7 +1623,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010601310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010601310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010601310",
         "name": "\u00a7 96",
         "title": null,
         "parent": {
@@ -1637,7 +1637,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010700302",
         "name": "\u00a7 97",
         "title": null,
         "parent": {
@@ -1651,7 +1651,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010800302",
         "name": "\u00a7 98",
         "title": null,
         "parent": {
@@ -1665,7 +1665,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE010900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE010900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE010900302",
         "name": "\u00a7 99",
         "title": null,
         "parent": {
@@ -1679,7 +1679,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011001301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011001301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011001301",
         "name": "\u00a7 100",
         "title": null,
         "parent": {
@@ -1693,7 +1693,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011101310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011101310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011101310",
         "name": "\u00a7 101",
         "title": null,
         "parent": {
@@ -1707,7 +1707,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011201310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011201310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011201310",
         "name": "\u00a7 102",
         "title": null,
         "parent": {
@@ -1721,7 +1721,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011303301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011303301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011303301",
         "name": "\u00a7 103",
         "title": null,
         "parent": {
@@ -1735,7 +1735,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011400302",
         "name": "\u00a7 104",
         "title": null,
         "parent": {
@@ -1749,7 +1749,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG001100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG001100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG001100302",
         "name": "VIII.",
         "title": "Verteilung des Erl\u00f6ses",
         "parent": {
@@ -1760,7 +1760,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011503301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011503301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011503301",
         "name": "\u00a7 105",
         "title": null,
         "parent": {
@@ -1774,7 +1774,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011600302",
         "name": "\u00a7 106",
         "title": null,
         "parent": {
@@ -1788,7 +1788,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011702301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011702301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011702301",
         "name": "\u00a7 107",
         "title": null,
         "parent": {
@@ -1802,7 +1802,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011801307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011801307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011801307",
         "name": "\u00a7 108",
         "title": "(weggefallen)",
         "parent": {
@@ -1816,7 +1816,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE011900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE011900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE011900302",
         "name": "\u00a7 109",
         "title": null,
         "parent": {
@@ -1830,7 +1830,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012000302",
         "name": "\u00a7 110",
         "title": null,
         "parent": {
@@ -1844,7 +1844,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012100302",
         "name": "\u00a7 111",
         "title": null,
         "parent": {
@@ -1858,7 +1858,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012200302",
         "name": "\u00a7 112",
         "title": null,
         "parent": {
@@ -1872,7 +1872,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012300302",
         "name": "\u00a7 113",
         "title": null,
         "parent": {
@@ -1886,7 +1886,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012400302",
         "name": "\u00a7 114",
         "title": null,
         "parent": {
@@ -1900,7 +1900,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012501301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012501301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012501301",
         "name": "\u00a7 114a",
         "title": null,
         "parent": {
@@ -1914,7 +1914,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012600302",
         "name": "\u00a7 115",
         "title": null,
         "parent": {
@@ -1928,7 +1928,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012703301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012703301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012703301",
         "name": "\u00a7 116",
         "title": null,
         "parent": {
@@ -1942,7 +1942,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012802301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012802301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012802301",
         "name": "\u00a7 117",
         "title": null,
         "parent": {
@@ -1956,7 +1956,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE012904301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE012904301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE012904301",
         "name": "\u00a7 118",
         "title": null,
         "parent": {
@@ -1970,7 +1970,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013000302",
         "name": "\u00a7 119",
         "title": null,
         "parent": {
@@ -1984,7 +1984,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013100302",
         "name": "\u00a7 120",
         "title": null,
         "parent": {
@@ -1998,7 +1998,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013200302",
         "name": "\u00a7 121",
         "title": null,
         "parent": {
@@ -2012,7 +2012,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013300302",
         "name": "\u00a7 122",
         "title": null,
         "parent": {
@@ -2026,7 +2026,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013400302",
         "name": "\u00a7 123",
         "title": null,
         "parent": {
@@ -2040,7 +2040,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013500302",
         "name": "\u00a7 124",
         "title": null,
         "parent": {
@@ -2054,7 +2054,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013600302",
         "name": "\u00a7 125",
         "title": null,
         "parent": {
@@ -2068,7 +2068,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013700302",
         "name": "\u00a7 126",
         "title": null,
         "parent": {
@@ -2082,7 +2082,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013800302",
         "name": "\u00a7 127",
         "title": null,
         "parent": {
@@ -2096,7 +2096,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE013901301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE013901301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE013901301",
         "name": "\u00a7 128",
         "title": null,
         "parent": {
@@ -2110,7 +2110,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014000302",
         "name": "\u00a7 129",
         "title": null,
         "parent": {
@@ -2124,7 +2124,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014100302",
         "name": "\u00a7 130",
         "title": null,
         "parent": {
@@ -2138,7 +2138,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020600302",
         "name": "\u00a7 130a",
         "title": null,
         "parent": {
@@ -2152,7 +2152,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014200302",
         "name": "\u00a7 131",
         "title": null,
         "parent": {
@@ -2166,7 +2166,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014303301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014303301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014303301",
         "name": "\u00a7 132",
         "title": null,
         "parent": {
@@ -2180,7 +2180,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014400302",
         "name": "\u00a7 133",
         "title": null,
         "parent": {
@@ -2194,7 +2194,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014501301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014501301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014501301",
         "name": "\u00a7 134",
         "title": "(weggefallen)",
         "parent": {
@@ -2208,7 +2208,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014600302",
         "name": "\u00a7 135",
         "title": null,
         "parent": {
@@ -2222,7 +2222,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014700302",
         "name": "\u00a7 136",
         "title": null,
         "parent": {
@@ -2236,7 +2236,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014800302",
         "name": "\u00a7 137",
         "title": null,
         "parent": {
@@ -2250,7 +2250,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE014900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE014900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE014900302",
         "name": "\u00a7 138",
         "title": null,
         "parent": {
@@ -2264,7 +2264,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015000302",
         "name": "\u00a7 139",
         "title": null,
         "parent": {
@@ -2278,7 +2278,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015101160",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015101160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015101160",
         "name": "\u00a7 140",
         "title": null,
         "parent": {
@@ -2292,7 +2292,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015201160",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015201160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015201160",
         "name": "\u00a7 141",
         "title": null,
         "parent": {
@@ -2306,7 +2306,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015300302",
         "name": "\u00a7 142",
         "title": null,
         "parent": {
@@ -2320,7 +2320,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015400302",
         "name": "\u00a7 143",
         "title": null,
         "parent": {
@@ -2334,7 +2334,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015503301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015503301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015503301",
         "name": "\u00a7 144",
         "title": null,
         "parent": {
@@ -2348,7 +2348,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015601301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015601301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015601301",
         "name": "\u00a7 145",
         "title": null,
         "parent": {
@@ -2362,7 +2362,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG001700307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG001700307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG001700307",
         "name": "IX.",
         "title": "Grundpfandrechte in ausl\u00e4ndischer W\u00e4hrung",
         "parent": {
@@ -2373,7 +2373,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022404310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022404310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022404310",
         "name": "\u00a7 145a",
         "title": null,
         "parent": {
@@ -2387,7 +2387,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG001200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG001200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG001200302",
         "name": "Dritter Titel",
         "title": "Zwangsverwaltung",
         "parent": {
@@ -2398,7 +2398,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015700302",
         "name": "\u00a7 146",
         "title": null,
         "parent": {
@@ -2412,7 +2412,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015800302",
         "name": "\u00a7 147",
         "title": null,
         "parent": {
@@ -2426,7 +2426,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE015900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE015900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE015900302",
         "name": "\u00a7 148",
         "title": null,
         "parent": {
@@ -2440,7 +2440,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016001310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016001310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016001310",
         "name": "\u00a7 149",
         "title": null,
         "parent": {
@@ -2454,7 +2454,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016100302",
         "name": "\u00a7 150",
         "title": null,
         "parent": {
@@ -2468,7 +2468,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016200302",
         "name": "\u00a7 150a",
         "title": null,
         "parent": {
@@ -2482,7 +2482,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016300302",
         "name": "\u00a7 150b",
         "title": null,
         "parent": {
@@ -2496,7 +2496,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016400302",
         "name": "\u00a7 150c",
         "title": null,
         "parent": {
@@ -2510,7 +2510,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016500302",
         "name": "\u00a7 150d",
         "title": null,
         "parent": {
@@ -2524,7 +2524,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016600302",
         "name": "\u00a7 150e",
         "title": null,
         "parent": {
@@ -2538,7 +2538,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016700302",
         "name": "\u00a7 151",
         "title": null,
         "parent": {
@@ -2552,7 +2552,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016800302",
         "name": "\u00a7 152",
         "title": null,
         "parent": {
@@ -2566,7 +2566,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022301311",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022301311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022301311",
         "name": "\u00a7 152a",
         "title": null,
         "parent": {
@@ -2580,7 +2580,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE016900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE016900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE016900302",
         "name": "\u00a7 153",
         "title": null,
         "parent": {
@@ -2594,7 +2594,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017000302",
         "name": "\u00a7 153a",
         "title": null,
         "parent": {
@@ -2608,7 +2608,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022900307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022900307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022900307",
         "name": "\u00a7 153b",
         "title": null,
         "parent": {
@@ -2622,7 +2622,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE023000307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE023000307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE023000307",
         "name": "\u00a7 153c",
         "title": null,
         "parent": {
@@ -2636,7 +2636,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017100302",
         "name": "\u00a7 154",
         "title": null,
         "parent": {
@@ -2650,7 +2650,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017201310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017201310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017201310",
         "name": "\u00a7 155",
         "title": null,
         "parent": {
@@ -2664,7 +2664,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017301301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017301301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017301301",
         "name": "\u00a7 156",
         "title": null,
         "parent": {
@@ -2678,7 +2678,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017400302",
         "name": "\u00a7 157",
         "title": null,
         "parent": {
@@ -2692,7 +2692,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017500302",
         "name": "\u00a7 158",
         "title": null,
         "parent": {
@@ -2706,7 +2706,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022501310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022501310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022501310",
         "name": "\u00a7 158a",
         "title": null,
         "parent": {
@@ -2720,7 +2720,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017600302",
         "name": "\u00a7 159",
         "title": null,
         "parent": {
@@ -2734,7 +2734,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017700302",
         "name": "\u00a7 160",
         "title": null,
         "parent": {
@@ -2748,7 +2748,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017800302",
         "name": "\u00a7 161",
         "title": null,
         "parent": {
@@ -2762,7 +2762,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG001300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG001300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG001300302",
         "name": "Zweiter Abschnitt",
         "title": "Zwangsversteigerung von\nSchiffen, Schiffsbauwerken und Luftfahrzeugen im Wege\nder Zwangsvollstreckung",
         "parent": null
@@ -2770,7 +2770,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG001500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG001500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG001500302",
         "name": "Erster Titel",
         "title": "Zwangsversteigerung von\nSchiffen und Schiffsbauwerken",
         "parent": {
@@ -2781,7 +2781,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE017900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE017900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE017900302",
         "name": "\u00a7 162",
         "title": null,
         "parent": {
@@ -2795,7 +2795,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018003311",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018003311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018003311",
         "name": "\u00a7 163",
         "title": null,
         "parent": {
@@ -2809,7 +2809,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018100302",
         "name": "\u00a7 164",
         "title": null,
         "parent": {
@@ -2823,7 +2823,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018200302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018200302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018200302",
         "name": "\u00a7 165",
         "title": null,
         "parent": {
@@ -2837,7 +2837,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018300302",
         "name": "\u00a7 166",
         "title": null,
         "parent": {
@@ -2851,7 +2851,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018400302",
         "name": "\u00a7 167",
         "title": null,
         "parent": {
@@ -2865,7 +2865,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018502301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018502301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018502301",
         "name": "\u00a7 168",
         "title": null,
         "parent": {
@@ -2879,7 +2879,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018600302",
         "name": "\u00a7 168a",
         "title": "(weggefallen)",
         "parent": {
@@ -2893,7 +2893,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018700302",
         "name": "\u00a7 168b",
         "title": null,
         "parent": {
@@ -2907,7 +2907,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020704310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020704310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020704310",
         "name": "\u00a7 168c",
         "title": null,
         "parent": {
@@ -2921,7 +2921,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018802301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018802301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018802301",
         "name": "\u00a7 169",
         "title": null,
         "parent": {
@@ -2935,7 +2935,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE018902307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE018902307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE018902307",
         "name": "\u00a7 169a",
         "title": null,
         "parent": {
@@ -2949,7 +2949,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019000302",
         "name": "\u00a7 170",
         "title": null,
         "parent": {
@@ -2963,7 +2963,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019100302",
         "name": "\u00a7 170a",
         "title": null,
         "parent": {
@@ -2977,7 +2977,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019201301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019201301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019201301",
         "name": "\u00a7 171",
         "title": null,
         "parent": {
@@ -2991,7 +2991,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG001600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG001600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG001600302",
         "name": "Zweiter Titel",
         "title": "Zwangsversteigerung von\nLuftfahrzeugen",
         "parent": {
@@ -3002,7 +3002,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020800302",
         "name": "\u00a7 171a",
         "title": null,
         "parent": {
@@ -3016,7 +3016,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020900302",
         "name": "\u00a7 171b",
         "title": null,
         "parent": {
@@ -3030,7 +3030,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021000302",
         "name": "\u00a7 171c",
         "title": null,
         "parent": {
@@ -3044,7 +3044,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021100302",
         "name": "\u00a7 171d",
         "title": null,
         "parent": {
@@ -3058,7 +3058,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021204310",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021204310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021204310",
         "name": "\u00a7 171e",
         "title": null,
         "parent": {
@@ -3072,7 +3072,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021300302",
         "name": "\u00a7 171f",
         "title": null,
         "parent": {
@@ -3086,7 +3086,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021400302",
         "name": "\u00a7 171g",
         "title": null,
         "parent": {
@@ -3100,7 +3100,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021500302",
         "name": "\u00a7 171h",
         "title": null,
         "parent": {
@@ -3114,7 +3114,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021600302",
         "name": "\u00a7 171i",
         "title": null,
         "parent": {
@@ -3128,7 +3128,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021700302",
         "name": "\u00a7 171k",
         "title": null,
         "parent": {
@@ -3142,7 +3142,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021800302",
         "name": "\u00a7 171l",
         "title": null,
         "parent": {
@@ -3156,7 +3156,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE021900302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE021900302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE021900302",
         "name": "\u00a7 171m",
         "title": null,
         "parent": {
@@ -3170,7 +3170,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022000302",
         "name": "\u00a7 171n",
         "title": null,
         "parent": {
@@ -3184,7 +3184,7 @@
       {
         "type": "heading",
         "id": "BJNR000970897BJNG001400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNG001400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNG001400302",
         "name": "Dritter Abschnitt",
         "title": "Zwangsversteigerung und\nZwangsverwaltung in besonderen F\u00e4llen",
         "parent": null
@@ -3192,7 +3192,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019301307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019301307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019301307",
         "name": "\u00a7 172",
         "title": null,
         "parent": {
@@ -3206,7 +3206,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019401307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019401307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019401307",
         "name": "\u00a7 173",
         "title": null,
         "parent": {
@@ -3220,7 +3220,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019501307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019501307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019501307",
         "name": "\u00a7 174",
         "title": null,
         "parent": {
@@ -3234,7 +3234,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE023100307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE023100307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE023100307",
         "name": "\u00a7 174a",
         "title": null,
         "parent": {
@@ -3248,7 +3248,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019600302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019600302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019600302",
         "name": "\u00a7 175",
         "title": null,
         "parent": {
@@ -3262,7 +3262,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019700302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019700302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019700302",
         "name": "\u00a7 176",
         "title": null,
         "parent": {
@@ -3276,7 +3276,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019800302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019800302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019800302",
         "name": "\u00a7 177",
         "title": null,
         "parent": {
@@ -3290,7 +3290,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE019901307",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE019901307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE019901307",
         "name": "\u00a7 178",
         "title": null,
         "parent": {
@@ -3304,7 +3304,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020000302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020000302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020000302",
         "name": "\u00a7 179",
         "title": null,
         "parent": {
@@ -3318,7 +3318,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020102311",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020102311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020102311",
         "name": "\u00a7 180",
         "title": null,
         "parent": {
@@ -3332,7 +3332,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020202160",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020202160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020202160",
         "name": "\u00a7 181",
         "title": null,
         "parent": {
@@ -3346,7 +3346,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020300302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020300302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020300302",
         "name": "\u00a7 182",
         "title": null,
         "parent": {
@@ -3360,7 +3360,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020400302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020400302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020400302",
         "name": "\u00a7 183",
         "title": null,
         "parent": {
@@ -3374,7 +3374,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE020500302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE020500302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE020500302",
         "name": "\u00a7 184",
         "title": null,
         "parent": {
@@ -3388,7 +3388,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE022100302",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE022100302",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE022100302",
         "name": "\u00a7 185",
         "title": null,
         "parent": {
@@ -3402,7 +3402,7 @@
       {
         "type": "article",
         "id": "BJNR000970897BJNE023200301",
-        "url": "https://api.rechtsinformationsportal.de/laws/zvg/articles/BJNR000970897BJNE023200301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/zvg/articles/BJNR000970897BJNE023200301",
         "name": "\u00a7 186",
         "title": null,
         "parent": {

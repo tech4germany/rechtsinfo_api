@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR004810968",
-    "url": "https://api.rechtsinformationsportal.de/laws/owig",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/owig",
     "firstPublished": "1968-05-24",
     "sourceTimestamp": "20200812212526",
     "titleShort": null,
@@ -38,7 +38,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000092123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000092123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000092123",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -49,7 +49,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000011309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000011309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000011309",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -57,7 +57,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000021309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000021309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000021309",
         "name": "Erster Abschnitt",
         "title": "Geltungsbereich",
         "parent": {
@@ -68,7 +68,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000021309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000021309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000021309",
         "name": "\u00a7 1",
         "title": "Begriffsbestimmung",
         "parent": {
@@ -82,7 +82,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000031309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000031309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000031309",
         "name": "\u00a7 2",
         "title": "Sachliche Geltung",
         "parent": {
@@ -96,7 +96,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000041309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000041309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000041309",
         "name": "\u00a7 3",
         "title": "Keine Ahndung ohne Gesetz",
         "parent": {
@@ -110,7 +110,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000051309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000051309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000051309",
         "name": "\u00a7 4",
         "title": "Zeitliche Geltung",
         "parent": {
@@ -124,7 +124,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000062307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000062307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000062307",
         "name": "\u00a7 5",
         "title": "R\u00e4umliche Geltung",
         "parent": {
@@ -138,7 +138,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000071309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000071309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000071309",
         "name": "\u00a7 6",
         "title": "Zeit der Handlung",
         "parent": {
@@ -152,7 +152,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000081309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000081309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000081309",
         "name": "\u00a7 7",
         "title": "Ort der Handlung",
         "parent": {
@@ -166,7 +166,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000031309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000031309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000031309",
         "name": "Zweiter Abschnitt",
         "title": "Grundlagen der Ahndung",
         "parent": {
@@ -177,7 +177,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000091309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000091309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000091309",
         "name": "\u00a7 8",
         "title": "Begehen durch Unterlassen",
         "parent": {
@@ -191,7 +191,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000103377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000103377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000103377",
         "name": "\u00a7 9",
         "title": "Handeln f\u00fcr einen anderen",
         "parent": {
@@ -205,7 +205,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000111309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000111309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000111309",
         "name": "\u00a7 10",
         "title": "Vorsatz und Fahrl\u00e4ssigkeit",
         "parent": {
@@ -219,7 +219,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000121309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000121309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000121309",
         "name": "\u00a7 11",
         "title": "Irrtum",
         "parent": {
@@ -233,7 +233,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000131309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000131309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000131309",
         "name": "\u00a7 12",
         "title": "Verantwortlichkeit",
         "parent": {
@@ -247,7 +247,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000141309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000141309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000141309",
         "name": "\u00a7 13",
         "title": "Versuch",
         "parent": {
@@ -261,7 +261,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000151309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000151309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000151309",
         "name": "\u00a7 14",
         "title": "Beteiligung",
         "parent": {
@@ -275,7 +275,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000161309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000161309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000161309",
         "name": "\u00a7 15",
         "title": "Notwehr",
         "parent": {
@@ -289,7 +289,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE077770309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE077770309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE077770309",
         "name": "\u00a7 16",
         "title": "Rechtfertigender Notstand",
         "parent": {
@@ -303,7 +303,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000041309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000041309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000041309",
         "name": "Dritter Abschnitt",
         "title": "Geldbu\u00dfe",
         "parent": {
@@ -314,7 +314,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000174377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000174377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000174377",
         "name": "\u00a7 17",
         "title": "H\u00f6he der Geldbu\u00dfe",
         "parent": {
@@ -328,7 +328,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000181309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000181309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000181309",
         "name": "\u00a7 18",
         "title": "Zahlungserleichterungen",
         "parent": {
@@ -342,7 +342,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000051309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000051309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000051309",
         "name": "Vierter Abschnitt",
         "title": "Zusammentreffen mehrerer\nGesetzesverletzungen",
         "parent": {
@@ -353,7 +353,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000191309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000191309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000191309",
         "name": "\u00a7 19",
         "title": "Tateinheit",
         "parent": {
@@ -367,7 +367,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000211309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000211309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000211309",
         "name": "\u00a7 20",
         "title": "Tatmehrheit",
         "parent": {
@@ -381,7 +381,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000221309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000221309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000221309",
         "name": "\u00a7 21",
         "title": "Zusammentreffen von Straftat und Ordnungswidrigkeit",
         "parent": {
@@ -395,7 +395,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000074123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000074123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000074123",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Einziehung von Gegenst\u00e4nden",
         "parent": {
@@ -406,7 +406,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000232123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000232123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000232123",
         "name": "\u00a7 22",
         "title": "Einziehung von Gegenst\u00e4nden",
         "parent": {
@@ -420,7 +420,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000241309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000241309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000241309",
         "name": "\u00a7 23",
         "title": "Erweiterte Voraussetzungen der Einziehung",
         "parent": {
@@ -434,7 +434,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000251309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000251309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000251309",
         "name": "\u00a7 24",
         "title": "Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit",
         "parent": {
@@ -448,7 +448,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000261309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000261309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000261309",
         "name": "\u00a7 25",
         "title": "Einziehung des Wertersatzes",
         "parent": {
@@ -462,7 +462,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000271309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000271309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000271309",
         "name": "\u00a7 26",
         "title": "Wirkung der Einziehung",
         "parent": {
@@ -476,7 +476,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000282309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000282309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000282309",
         "name": "\u00a7 27",
         "title": "Selbst\u00e4ndige Anordnung",
         "parent": {
@@ -490,7 +490,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000291309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000291309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000291309",
         "name": "\u00a7 28",
         "title": "Entsch\u00e4digung",
         "parent": {
@@ -504,7 +504,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000303377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000303377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000303377",
         "name": "\u00a7 29",
         "title": "Sondervorschrift f\u00fcr Organe und Vertreter",
         "parent": {
@@ -518,7 +518,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG004000123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG004000123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG004000123",
         "name": "Sechster Abschnitt",
         "title": "Einziehung des Wertes von Tatertr\u00e4gen, Geldbu\u00dfe gegen juristische Personen und Personenvereinigungen",
         "parent": {
@@ -529,7 +529,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE078200123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE078200123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE078200123",
         "name": "\u00a7 29a",
         "title": "Einziehung des Wertes von Tatertr\u00e4gen",
         "parent": {
@@ -543,7 +543,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000393123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000393123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000393123",
         "name": "\u00a7 30",
         "title": "Geldbu\u00dfe gegen juristische Personen und Personenvereinigungen",
         "parent": {
@@ -557,7 +557,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000081309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000081309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000081309",
         "name": "Siebenter Abschnitt",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -568,7 +568,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000324377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000324377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000324377",
         "name": "\u00a7 31",
         "title": "Verfolgungsverj\u00e4hrung",
         "parent": {
@@ -582,7 +582,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000331309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000331309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000331309",
         "name": "\u00a7 32",
         "title": "Ruhen der Verfolgungsverj\u00e4hrung",
         "parent": {
@@ -596,7 +596,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000394123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000394123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000394123",
         "name": "\u00a7 33",
         "title": "Unterbrechung der Verfolgungsverj\u00e4hrung",
         "parent": {
@@ -610,7 +610,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000353377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000353377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000353377",
         "name": "\u00a7 34",
         "title": "Vollstreckungsverj\u00e4hrung",
         "parent": {
@@ -624,7 +624,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000091309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000091309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000091309",
         "name": "Zweiter Teil",
         "title": "Bu\u00dfgeldverfahren",
         "parent": null
@@ -632,7 +632,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000101309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000101309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000101309",
         "name": "Erster Abschnitt",
         "title": "Zust\u00e4ndigkeit zur Verfolgung\nund Ahndung von Ordnungswidrigkeiten",
         "parent": {
@@ -643,7 +643,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000361309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000361309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000361309",
         "name": "\u00a7 35",
         "title": "Verfolgung und Ahndung durch die Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -657,7 +657,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000372307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000372307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000372307",
         "name": "\u00a7 36",
         "title": "Sachliche Zust\u00e4ndigkeit der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -671,7 +671,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000381309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000381309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000381309",
         "name": "\u00a7 37",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -685,7 +685,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000391309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000391309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000391309",
         "name": "\u00a7 38",
         "title": "Zusammenh\u00e4ngende Ordnungswidrigkeiten",
         "parent": {
@@ -699,7 +699,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000401309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000401309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000401309",
         "name": "\u00a7 39",
         "title": "Mehrfache Zust\u00e4ndigkeit",
         "parent": {
@@ -713,7 +713,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000412307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000412307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000412307",
         "name": "\u00a7 40",
         "title": "Verfolgung durch die Staatsanwaltschaft",
         "parent": {
@@ -727,7 +727,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000421309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000421309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000421309",
         "name": "\u00a7 41",
         "title": "Abgabe an die Staatsanwaltschaft",
         "parent": {
@@ -741,7 +741,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000431309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000431309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000431309",
         "name": "\u00a7 42",
         "title": "\u00dcbernahme durch die Staatsanwaltschaft",
         "parent": {
@@ -755,7 +755,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000441309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000441309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000441309",
         "name": "\u00a7 43",
         "title": "Abgabe an die Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -769,7 +769,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000451309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000451309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000451309",
         "name": "\u00a7 44",
         "title": "Bindung der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -783,7 +783,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000461309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000461309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000461309",
         "name": "\u00a7 45",
         "title": "Zust\u00e4ndigkeit des Gerichts",
         "parent": {
@@ -797,7 +797,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000111309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000111309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000111309",
         "name": "Zweiter Abschnitt",
         "title": "Allgemeine\nVerfahrensvorschriften",
         "parent": {
@@ -808,7 +808,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001399123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001399123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001399123",
         "name": "\u00a7 46",
         "title": "Anwendung der Vorschriften \u00fcber das Strafverfahren",
         "parent": {
@@ -822,7 +822,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000483377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000483377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000483377",
         "name": "\u00a7 47",
         "title": "Verfolgung von Ordnungswidrigkeiten",
         "parent": {
@@ -836,7 +836,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000492377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000492377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000492377",
         "name": "\u00a7 48",
         "title": null,
         "parent": {
@@ -850,7 +850,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000594123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000594123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000594123",
         "name": "\u00a7 49",
         "title": "Akteneinsicht des Betroffenen und der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -864,7 +864,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE014403360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE014403360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE014403360",
         "name": "\u00a7 49a",
         "title": "Verfahrens\u00fcbergreifende Mitteilungen von Amts wegen",
         "parent": {
@@ -878,7 +878,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE014603360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE014603360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE014603360",
         "name": "\u00a7 49b",
         "title": "Verfahrens\u00fcbergreifende Mitteilungen auf Ersuchen; sonstige Verwendung von Daten f\u00fcr verfahrens\u00fcbergreifende Zwecke",
         "parent": {
@@ -892,7 +892,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE014702360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE014702360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE014702360",
         "name": "\u00a7 49c",
         "title": "Dateiregelungen",
         "parent": {
@@ -906,7 +906,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE014802123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE014802123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE014802123",
         "name": "\u00a7 49d",
         "title": "Schutz personenbezogener Daten in einer elektronischen Akte",
         "parent": {
@@ -920,7 +920,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000511309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000511309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000511309",
         "name": "\u00a7 50",
         "title": "Bekanntmachung von Ma\u00dfnahmen der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -934,7 +934,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000527123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000527123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000527123",
         "name": "\u00a7 51",
         "title": "Verfahren bei Zustellungen der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -948,7 +948,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000532309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000532309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000532309",
         "name": "\u00a7 52",
         "title": "Wiedereinsetzung in den vorigen Stand",
         "parent": {
@@ -962,7 +962,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000121309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000121309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000121309",
         "name": "Dritter Abschnitt",
         "title": "Vorverfahren",
         "parent": {
@@ -973,7 +973,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000131309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000131309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000131309",
         "name": "I.",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -984,7 +984,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000542377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000542377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000542377",
         "name": "\u00a7 53",
         "title": "Aufgaben der Polizei",
         "parent": {
@@ -998,7 +998,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001381309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001381309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001381309",
         "name": "\u00a7 54",
         "title": null,
         "parent": {
@@ -1012,7 +1012,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000562123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000562123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000562123",
         "name": "\u00a7 55",
         "title": "Anh\u00f6rung des Betroffenen",
         "parent": {
@@ -1026,7 +1026,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000141309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000141309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000141309",
         "name": "II.",
         "title": "Verwarnungsverfahren",
         "parent": {
@@ -1037,7 +1037,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000593310",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000593310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000593310",
         "name": "\u00a7 56",
         "title": "Verwarnung durch die Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -1051,7 +1051,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000581309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000581309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000581309",
         "name": "\u00a7 57",
         "title": "Verwarnung durch Beamte des Au\u00dfen- und Polizeidienstes",
         "parent": {
@@ -1065,7 +1065,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000592307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000592307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000592307",
         "name": "\u00a7 58",
         "title": "Erm\u00e4chtigung zur Erteilung der Verwarnung",
         "parent": {
@@ -1079,7 +1079,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000151309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000151309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000151309",
         "name": "III.",
         "title": "Verfahren der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -1090,7 +1090,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000602377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000602377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000602377",
         "name": "\u00a7 59",
         "title": "Verg\u00fctung von Sachverst\u00e4ndigen, Dolmetschern und \u00dcbersetzern,\nEntsch\u00e4digung von Zeugen und Dritten",
         "parent": {
@@ -1104,7 +1104,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000614360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000614360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000614360",
         "name": "\u00a7 60",
         "title": "Verteidigung",
         "parent": {
@@ -1118,7 +1118,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000621309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000621309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000621309",
         "name": "\u00a7 61",
         "title": "Abschlu\u00df der Ermittlungen",
         "parent": {
@@ -1132,7 +1132,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000632309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000632309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000632309",
         "name": "\u00a7 62",
         "title": "Rechtsbehelf gegen Ma\u00dfnahmen der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -1146,7 +1146,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000161309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000161309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000161309",
         "name": "IV.",
         "title": "Verfahren der Staatsanwaltschaft",
         "parent": {
@@ -1157,7 +1157,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000642377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000642377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000642377",
         "name": "\u00a7 63",
         "title": "Beteiligung der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -1171,7 +1171,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000651309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000651309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000651309",
         "name": "\u00a7 64",
         "title": "Erstreckung der \u00f6ffentlichen Klage auf die Ordnungswidrigkeit",
         "parent": {
@@ -1185,7 +1185,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000171309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000171309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000171309",
         "name": "Vierter Abschnitt",
         "title": "Bu\u00dfgeldbescheid",
         "parent": {
@@ -1196,7 +1196,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000661309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000661309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000661309",
         "name": "\u00a7 65",
         "title": "Allgemeines",
         "parent": {
@@ -1210,7 +1210,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000672309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000672309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000672309",
         "name": "\u00a7 66",
         "title": "Inhalt des Bu\u00dfgeldbescheides",
         "parent": {
@@ -1224,7 +1224,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000181309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000181309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000181309",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Einspruch und gerichtliches\nVerfahren",
         "parent": {
@@ -1235,7 +1235,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000191309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000191309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000191309",
         "name": "I.",
         "title": "Einspruch",
         "parent": {
@@ -1246,7 +1246,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000684307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000684307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000684307",
         "name": "\u00a7 67",
         "title": "Form und Frist",
         "parent": {
@@ -1260,7 +1260,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000691309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000691309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000691309",
         "name": "\u00a7 68",
         "title": "Zust\u00e4ndiges Gericht",
         "parent": {
@@ -1274,7 +1274,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000704377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000704377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000704377",
         "name": "\u00a7 69",
         "title": "Zwischenverfahren",
         "parent": {
@@ -1288,7 +1288,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000712309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000712309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000712309",
         "name": "\u00a7 70",
         "title": "Entscheidung des Gerichts \u00fcber die Zul\u00e4ssigkeit des Einspruchs",
         "parent": {
@@ -1302,7 +1302,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000201309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000201309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000201309",
         "name": "II.",
         "title": "Hauptverfahren",
         "parent": {
@@ -1313,7 +1313,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000722309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000722309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000722309",
         "name": "\u00a7 71",
         "title": "Hauptverhandlung",
         "parent": {
@@ -1327,7 +1327,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000734307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000734307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000734307",
         "name": "\u00a7 72",
         "title": "Entscheidung durch Beschlu\u00df",
         "parent": {
@@ -1341,7 +1341,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000796123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000796123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000796123",
         "name": "\u00a7 73",
         "title": "Anwesenheit des Betroffenen in der Hauptverhandlung",
         "parent": {
@@ -1355,7 +1355,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE078400123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE078400123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE078400123",
         "name": "\u00a7 74",
         "title": "Verfahren bei Abwesenheit",
         "parent": {
@@ -1369,7 +1369,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000762307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000762307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000762307",
         "name": "\u00a7 75",
         "title": "Teilnahme der Staatsanwaltschaft an der Hauptverhandlung",
         "parent": {
@@ -1383,7 +1383,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000771309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000771309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000771309",
         "name": "\u00a7 76",
         "title": "Beteiligung der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -1397,7 +1397,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000783307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000783307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000783307",
         "name": "\u00a7 77",
         "title": "Umfang der Beweisaufnahme",
         "parent": {
@@ -1411,7 +1411,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001436123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001436123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001436123",
         "name": "\u00a7 77a",
         "title": "Vereinfachte Art der Beweisaufnahme",
         "parent": {
@@ -1425,7 +1425,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001433377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001433377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001433377",
         "name": "\u00a7 77b",
         "title": "Absehen von Urteilsgr\u00fcnden",
         "parent": {
@@ -1439,7 +1439,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE078500123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE078500123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE078500123",
         "name": "\u00a7 78",
         "title": "Weitere Verfahrensvereinfachungen",
         "parent": {
@@ -1453,7 +1453,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000211309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000211309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000211309",
         "name": "III.",
         "title": "Rechtsmittel",
         "parent": {
@@ -1464,7 +1464,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000895123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000895123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000895123",
         "name": "\u00a7 79",
         "title": "Rechtsbeschwerde",
         "parent": {
@@ -1478,7 +1478,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000814377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000814377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000814377",
         "name": "\u00a7 80",
         "title": "Zulassung der Rechtsbeschwerde",
         "parent": {
@@ -1492,7 +1492,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE014502377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE014502377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE014502377",
         "name": "\u00a7 80a",
         "title": "Besetzung der Bu\u00dfgeldsenate der Oberlandesgerichte",
         "parent": {
@@ -1506,7 +1506,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000221309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000221309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000221309",
         "name": "Sechster Abschnitt",
         "title": "Bu\u00dfgeld- und\nStrafverfahren",
         "parent": {
@@ -1517,7 +1517,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000822309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000822309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000822309",
         "name": "\u00a7 81",
         "title": "\u00dcbergang vom Bu\u00dfgeld- zum Strafverfahren",
         "parent": {
@@ -1531,7 +1531,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000831309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000831309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000831309",
         "name": "\u00a7 82",
         "title": "Bu\u00dfgelderkenntnis im Strafverfahren",
         "parent": {
@@ -1545,7 +1545,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000842377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000842377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000842377",
         "name": "\u00a7 83",
         "title": "Verfahren bei Ordnungswidrigkeiten und Straftaten",
         "parent": {
@@ -1559,7 +1559,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000231309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000231309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000231309",
         "name": "Siebenter Abschnitt",
         "title": "Rechtskraft und\nWiederaufnahme des Verfahrens",
         "parent": {
@@ -1570,7 +1570,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000851309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000851309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000851309",
         "name": "\u00a7 84",
         "title": "Wirkung der Rechtskraft",
         "parent": {
@@ -1584,7 +1584,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000864377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000864377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000864377",
         "name": "\u00a7 85",
         "title": "Wiederaufnahme des Verfahrens",
         "parent": {
@@ -1598,7 +1598,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000871309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000871309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000871309",
         "name": "\u00a7 86",
         "title": "Aufhebung des Bu\u00dfgeldbescheides im Strafverfahren",
         "parent": {
@@ -1612,7 +1612,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000242377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000242377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000242377",
         "name": "Achter Abschnitt",
         "title": "Verfahren bei Anordnung\nvon Nebenfolgen oder der Festsetzung einer Geldbu\u00dfe gegen eine\njuristische Person oder Personenvereinigung\nNebenfolgen",
         "parent": {
@@ -1623,7 +1623,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000894123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000894123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000894123",
         "name": "\u00a7 87",
         "title": "Anordnung der Einziehung",
         "parent": {
@@ -1637,7 +1637,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE078100123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE078100123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE078100123",
         "name": "\u00a7 88",
         "title": "Festsetzung der Geldbu\u00dfe gegen juristische Personen und Personenvereinigungen",
         "parent": {
@@ -1651,7 +1651,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000251309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000251309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000251309",
         "name": "Neunter Abschnitt",
         "title": "Vollstreckung der\nBu\u00dfgeldentscheidungen",
         "parent": {
@@ -1662,7 +1662,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000901309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000901309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000901309",
         "name": "\u00a7 89",
         "title": "Vollstreckbarkeit der Bu\u00dfgeldentscheidungen",
         "parent": {
@@ -1676,7 +1676,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000914123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000914123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000914123",
         "name": "\u00a7 90",
         "title": "Vollstreckung des Bu\u00dfgeldbescheides",
         "parent": {
@@ -1690,7 +1690,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000922307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000922307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000922307",
         "name": "\u00a7 91",
         "title": "Vollstreckung der gerichtlichen Bu\u00dfgeldentscheidung",
         "parent": {
@@ -1704,7 +1704,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000931309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000931309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000931309",
         "name": "\u00a7 92",
         "title": "Vollstreckungsbeh\u00f6rde",
         "parent": {
@@ -1718,7 +1718,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000941309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000941309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000941309",
         "name": "\u00a7 93",
         "title": "Zahlungserleichterungen",
         "parent": {
@@ -1732,7 +1732,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000951309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000951309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000951309",
         "name": "\u00a7 94",
         "title": "Verrechnung von Teilbetr\u00e4gen",
         "parent": {
@@ -1746,7 +1746,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000961309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000961309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000961309",
         "name": "\u00a7 95",
         "title": "Beitreibung der Geldbu\u00dfe",
         "parent": {
@@ -1760,7 +1760,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000971309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000971309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000971309",
         "name": "\u00a7 96",
         "title": "Anordnung von Erzwingungshaft",
         "parent": {
@@ -1774,7 +1774,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000982307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000982307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000982307",
         "name": "\u00a7 97",
         "title": "Vollstreckung der Erzwingungshaft",
         "parent": {
@@ -1788,7 +1788,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE000992307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE000992307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE000992307",
         "name": "\u00a7 98",
         "title": "Vollstreckung gegen Jugendliche und Heranwachsende",
         "parent": {
@@ -1802,7 +1802,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001003123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001003123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001003123",
         "name": "\u00a7 99",
         "title": "Vollstreckung von Nebenfolgen, die zu einer Geldzahlung verpflichten",
         "parent": {
@@ -1816,7 +1816,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001014377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001014377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001014377",
         "name": "\u00a7 100",
         "title": "Nachtr\u00e4gliche Entscheidungen \u00fcber die Einziehung",
         "parent": {
@@ -1830,7 +1830,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001021309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001021309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001021309",
         "name": "\u00a7 101",
         "title": "Vollstreckung in den Nachla\u00df",
         "parent": {
@@ -1844,7 +1844,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001031309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001031309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001031309",
         "name": "\u00a7 102",
         "title": "Nachtr\u00e4gliches Strafverfahren",
         "parent": {
@@ -1858,7 +1858,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001042309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001042309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001042309",
         "name": "\u00a7 103",
         "title": "Gerichtliche Entscheidung",
         "parent": {
@@ -1872,7 +1872,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001054377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001054377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001054377",
         "name": "\u00a7 104",
         "title": "Verfahren bei gerichtlicher Entscheidung",
         "parent": {
@@ -1886,7 +1886,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000261309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000261309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000261309",
         "name": "Zehnter Abschnitt",
         "title": "Kosten",
         "parent": {
@@ -1897,7 +1897,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000271309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000271309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000271309",
         "name": "I.",
         "title": "Verfahren der Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -1908,7 +1908,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001065377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001065377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001065377",
         "name": "\u00a7 105",
         "title": "Kostenentscheidung",
         "parent": {
@@ -1922,7 +1922,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001073377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001073377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001073377",
         "name": "\u00a7 106",
         "title": "Kostenfestsetzung",
         "parent": {
@@ -1936,7 +1936,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE078002360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE078002360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE078002360",
         "name": "\u00a7 107",
         "title": "Geb\u00fchren und Auslagen",
         "parent": {
@@ -1950,7 +1950,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001095377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001095377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001095377",
         "name": "\u00a7 108",
         "title": "Rechtsbehelf und Vollstreckung",
         "parent": {
@@ -1964,7 +1964,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000371309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000371309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000371309",
         "name": "II.",
         "title": "Verfahren der Staatsanwaltschaft",
         "parent": {
@@ -1975,7 +1975,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001402309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001402309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001402309",
         "name": "\u00a7 108a",
         "title": null,
         "parent": {
@@ -1989,7 +1989,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000282309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000282309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000282309",
         "name": "III.",
         "title": "Verfahren \u00fcber die Zul\u00e4ssigkeit des Einspruchs",
         "parent": {
@@ -2000,7 +2000,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001103307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001103307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001103307",
         "name": "\u00a7 109",
         "title": null,
         "parent": {
@@ -2014,7 +2014,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000381309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000381309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000381309",
         "name": "IV.",
         "title": "Auslagen des Betroffenen",
         "parent": {
@@ -2025,7 +2025,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001412377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001412377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001412377",
         "name": "\u00a7 109a",
         "title": null,
         "parent": {
@@ -2039,7 +2039,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000291309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000291309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000291309",
         "name": "Elfter Abschnitt",
         "title": "Entsch\u00e4digung f\u00fcr\nVerfolgungsma\u00dfnahmen",
         "parent": {
@@ -2050,7 +2050,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001112309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001112309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001112309",
         "name": "\u00a7 110",
         "title": null,
         "parent": {
@@ -2064,7 +2064,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG003901123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG003901123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG003901123",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "Aktenf\u00fchrung und Kommunikation im Verfahren",
         "parent": {
@@ -2075,7 +2075,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE014904360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE014904360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE014904360",
         "name": "\u00a7 110a",
         "title": "Elektronische Aktenf\u00fchrung; Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -2089,7 +2089,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE015003360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE015003360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE015003360",
         "name": "\u00a7 110b",
         "title": "Elektronische Formulare; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2103,7 +2103,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE015102123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE015102123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE015102123",
         "name": "\u00a7 110c",
         "title": "Entsprechende Geltung der Strafprozessordnung f\u00fcr Aktenf\u00fchrung und Kommunikation im Verfahren",
         "parent": {
@@ -2117,7 +2117,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000301309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000301309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000301309",
         "name": "Dritter Teil",
         "title": "Einzelne Ordnungswidrigkeiten",
         "parent": null
@@ -2125,7 +2125,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000311309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000311309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000311309",
         "name": "Erster Abschnitt",
         "title": "Verst\u00f6\u00dfe gegen staatliche\nAnordnungen",
         "parent": {
@@ -2136,7 +2136,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001123377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001123377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001123377",
         "name": "\u00a7 111",
         "title": "Falsche Namensangabe",
         "parent": {
@@ -2150,7 +2150,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001132377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001132377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001132377",
         "name": "\u00a7 112",
         "title": "Verletzung der Hausordnung eines Gesetzgebungsorgans",
         "parent": {
@@ -2164,7 +2164,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001143377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001143377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001143377",
         "name": "\u00a7 113",
         "title": "Unerlaubte Ansammlung",
         "parent": {
@@ -2178,7 +2178,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001151309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001151309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001151309",
         "name": "\u00a7 114",
         "title": "Betreten milit\u00e4rischer Anlagen",
         "parent": {
@@ -2192,7 +2192,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001161309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001161309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001161309",
         "name": "\u00a7 115",
         "title": "Verkehr mit Gefangenen",
         "parent": {
@@ -2206,7 +2206,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000321309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000321309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000321309",
         "name": "Zweiter Abschnitt",
         "title": "Verst\u00f6\u00dfe gegen die\n\u00f6ffentliche Ordnung",
         "parent": {
@@ -2217,7 +2217,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001172307",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001172307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001172307",
         "name": "\u00a7 116",
         "title": "\u00d6ffentliche Aufforderung zu Ordnungswidrigkeiten",
         "parent": {
@@ -2231,7 +2231,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001182377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001182377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001182377",
         "name": "\u00a7 117",
         "title": "Unzul\u00e4ssiger L\u00e4rm",
         "parent": {
@@ -2245,7 +2245,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001191309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001191309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001191309",
         "name": "\u00a7 118",
         "title": "Bel\u00e4stigung der Allgemeinheit",
         "parent": {
@@ -2259,7 +2259,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001204377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001204377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001204377",
         "name": "\u00a7 119",
         "title": "Grob anst\u00f6\u00dfige und bel\u00e4stigende Handlungen",
         "parent": {
@@ -2273,7 +2273,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001243123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001243123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001243123",
         "name": "\u00a7 120",
         "title": "Verbotene Aus\u00fcbung der Prostitution",
         "parent": {
@@ -2287,7 +2287,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001221309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001221309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001221309",
         "name": "\u00a7 121",
         "title": "Halten gef\u00e4hrlicher Tiere",
         "parent": {
@@ -2301,7 +2301,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001231309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001231309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001231309",
         "name": "\u00a7 122",
         "title": "Vollrausch",
         "parent": {
@@ -2315,7 +2315,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE077900123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE077900123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE077900123",
         "name": "\u00a7 123",
         "title": "Einziehung, Unbrauchbarmachung",
         "parent": {
@@ -2329,7 +2329,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000331309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000331309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000331309",
         "name": "Dritter Abschnitt",
         "title": "Mi\u00dfbrauch staatlicher oder\nstaatlich gesch\u00fctzter Zeichen",
         "parent": {
@@ -2340,7 +2340,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001251309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001251309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001251309",
         "name": "\u00a7 124",
         "title": "Benutzen von Wappen oder Dienstflaggen",
         "parent": {
@@ -2354,7 +2354,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001261309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001261309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001261309",
         "name": "\u00a7 125",
         "title": "Benutzen des Roten Kreuzes oder des Schweizer Wappens",
         "parent": {
@@ -2368,7 +2368,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001271309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001271309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001271309",
         "name": "\u00a7 126",
         "title": "Mi\u00dfbrauch von Berufstrachten oder Berufsabzeichen",
         "parent": {
@@ -2382,7 +2382,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001288377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001288377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001288377",
         "name": "\u00a7 127",
         "title": "Herstellen oder Verwenden von Sachen, die zur\nGeld- oder Urkundenf\u00e4lschung benutzt werden k\u00f6nnen",
         "parent": {
@@ -2396,7 +2396,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001295377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001295377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001295377",
         "name": "\u00a7 128",
         "title": "Herstellen oder Verbreiten von papiergeld\u00e4hnlichen\nDrucksachen oder Abbildungen",
         "parent": {
@@ -2410,7 +2410,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001395377",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001395377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001395377",
         "name": "\u00a7 129",
         "title": "Einziehung",
         "parent": {
@@ -2424,7 +2424,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000341309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000341309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000341309",
         "name": "Vierter Abschnitt",
         "title": "Verletzung der\nAufsichtspflicht in Betrieben und Unternehmen",
         "parent": {
@@ -2435,7 +2435,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001397360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001397360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001397360",
         "name": "\u00a7 130",
         "title": null,
         "parent": {
@@ -2449,7 +2449,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000351309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000351309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000351309",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Gemeinsame Vorschriften",
         "parent": {
@@ -2460,7 +2460,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE078700360",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE078700360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE078700360",
         "name": "\u00a7 131",
         "title": null,
         "parent": {
@@ -2474,7 +2474,7 @@
       {
         "type": "heading",
         "id": "BJNR004810968BJNG000361309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNG000361309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000361309",
         "name": "Vierter Teil",
         "title": "Schlu\u00dfvorschriften",
         "parent": null
@@ -2482,7 +2482,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001331309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001331309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001331309",
         "name": "\u00a7 132",
         "title": "Einschr\u00e4nkung von Grundrechten",
         "parent": {
@@ -2496,7 +2496,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001394123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001394123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001394123",
         "name": "\u00a7 133",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -2510,7 +2510,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001353123",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001353123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001353123",
         "name": "\u00a7 134",
         "title": "\u00dcbergangsregelung zum Gesetz zur Einf\u00fchrung der elektronischen Akte in Strafsachen und zur weiteren F\u00f6rderung des elektronischen Rechtsverkehrs; Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -2524,7 +2524,7 @@
       {
         "type": "article",
         "id": "BJNR004810968BJNE001361309",
-        "url": "https://api.rechtsinformationsportal.de/laws/owig/articles/BJNR004810968BJNE001361309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNE001361309",
         "name": "\u00a7 135",
         "title": null,
         "parent": {

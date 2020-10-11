@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR021980989",
-    "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg",
     "firstPublished": "1989-12-15",
     "sourceTimestamp": "20170811221042",
     "titleShort": "Produkthaftungsgesetz",
@@ -32,7 +32,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE000100328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE000100328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE000100328",
         "name": "\u00a7 1",
         "title": "Haftung",
         "parent": null,
@@ -43,7 +43,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE000201311",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE000201311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE000201311",
         "name": "\u00a7 2",
         "title": "Produkt",
         "parent": null,
@@ -54,7 +54,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE000300328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE000300328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE000300328",
         "name": "\u00a7 3",
         "title": "Fehler",
         "parent": null,
@@ -65,7 +65,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE002003307",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE002003307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE002003307",
         "name": "\u00a7 4",
         "title": "Hersteller",
         "parent": null,
@@ -76,7 +76,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE000500328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE000500328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE000500328",
         "name": "\u00a7 5",
         "title": "Mehrere Ersatzpflichtige",
         "parent": null,
@@ -87,7 +87,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE000600328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE000600328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE000600328",
         "name": "\u00a7 6",
         "title": "Haftungsminderung",
         "parent": null,
@@ -98,7 +98,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE000701123",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE000701123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE000701123",
         "name": "\u00a7 7",
         "title": "Umfang der Ersatzpflicht bei T\u00f6tung",
         "parent": null,
@@ -109,7 +109,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE000801377",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE000801377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE000801377",
         "name": "\u00a7 8",
         "title": "Umfang der Ersatzpflicht bei K\u00f6rperverletzung",
         "parent": null,
@@ -120,7 +120,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE000900328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE000900328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE000900328",
         "name": "\u00a7 9",
         "title": "Schadensersatz durch Geldrente",
         "parent": null,
@@ -131,7 +131,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001001377",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001001377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001001377",
         "name": "\u00a7 10",
         "title": "Haftungsh\u00f6chstbetrag",
         "parent": null,
@@ -142,7 +142,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001101377",
         "name": "\u00a7 11",
         "title": "Selbstbeteiligung bei Sachbesch\u00e4digung",
         "parent": null,
@@ -153,7 +153,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001200328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001200328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001200328",
         "name": "\u00a7 12",
         "title": "Verj\u00e4hrung",
         "parent": null,
@@ -164,7 +164,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001300328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001300328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001300328",
         "name": "\u00a7 13",
         "title": "Erl\u00f6schen von Anspr\u00fcchen",
         "parent": null,
@@ -175,7 +175,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001400328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001400328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001400328",
         "name": "\u00a7 14",
         "title": "Unabdingbarkeit",
         "parent": null,
@@ -186,7 +186,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001500328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001500328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001500328",
         "name": "\u00a7 15",
         "title": "Arzneimittelhaftung, Haftung nach anderen\nRechtsvorschriften",
         "parent": null,
@@ -197,7 +197,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001600328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001600328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001600328",
         "name": "\u00a7 16",
         "title": "\u00dcbergangsvorschrift",
         "parent": null,
@@ -208,7 +208,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001701301",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001701301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001701301",
         "name": "\u00a7 17",
         "title": "Erla\u00df von Rechtsverordnungen",
         "parent": null,
@@ -219,7 +219,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001800328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001800328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001800328",
         "name": "\u00a7 18",
         "title": "Berlin-Klausel",
         "parent": null,
@@ -230,7 +230,7 @@
       {
         "type": "article",
         "id": "BJNR021980989BJNE001900328",
-        "url": "https://api.rechtsinformationsportal.de/laws/prodhaftg/articles/BJNR021980989BJNE001900328",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/prodhaftg/articles/BJNR021980989BJNE001900328",
         "name": "\u00a7 19",
         "title": "Inkrafttreten",
         "parent": null,

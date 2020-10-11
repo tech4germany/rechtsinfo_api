@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR002070871",
-    "url": "https://api.rechtsinformationsportal.de/laws/haftpflg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg",
     "firstPublished": "1871-06-07",
     "sourceTimestamp": "20170721221540",
     "titleShort": null,
@@ -36,7 +36,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000101308",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000101308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000101308",
         "name": "\u00a7 1",
         "title": null,
         "parent": null,
@@ -47,7 +47,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000200300",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000200300",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000200300",
         "name": "\u00a7 2",
         "title": null,
         "parent": null,
@@ -58,7 +58,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000300300",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000300300",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000300300",
         "name": "\u00a7 3",
         "title": null,
         "parent": null,
@@ -69,7 +69,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000400300",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000400300",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000400300",
         "name": "\u00a7 4",
         "title": null,
         "parent": null,
@@ -80,7 +80,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000502311",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000502311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000502311",
         "name": "\u00a7 5",
         "title": null,
         "parent": null,
@@ -91,7 +91,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000601308",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000601308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000601308",
         "name": "\u00a7 6",
         "title": null,
         "parent": null,
@@ -102,7 +102,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000700300",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000700300",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000700300",
         "name": "\u00a7 7",
         "title": null,
         "parent": null,
@@ -113,7 +113,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000800300",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000800300",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000800300",
         "name": "\u00a7 8",
         "title": null,
         "parent": null,
@@ -124,7 +124,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE000901308",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE000901308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE000901308",
         "name": "\u00a7 9",
         "title": null,
         "parent": null,
@@ -135,7 +135,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE001001308",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE001001308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE001001308",
         "name": "\u00a7 10",
         "title": null,
         "parent": null,
@@ -146,7 +146,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE001100300",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE001100300",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE001100300",
         "name": "\u00a7 11",
         "title": null,
         "parent": null,
@@ -157,7 +157,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE001200300",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE001200300",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE001200300",
         "name": "\u00a7 12",
         "title": null,
         "parent": null,
@@ -168,7 +168,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE001301308",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE001301308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE001301308",
         "name": "\u00a7 13",
         "title": null,
         "parent": null,
@@ -179,7 +179,7 @@
       {
         "type": "article",
         "id": "BJNR002070871BJNE001400300",
-        "url": "https://api.rechtsinformationsportal.de/laws/haftpflg/articles/BJNR002070871BJNE001400300",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/haftpflg/articles/BJNR002070871BJNE001400300",
         "name": "\u00a7 14",
         "title": null,
         "parent": null,

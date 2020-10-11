@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR084210008",
-    "url": "https://api.rechtsinformationsportal.de/laws/jfdg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg",
     "firstPublished": "2008-05-16",
     "sourceTimestamp": "20200403212528",
     "titleShort": "Jugendfreiwilligendienstegesetz",
@@ -32,7 +32,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000100000",
         "name": "\u00a7 1",
         "title": "F\u00f6rdervoraussetzungen",
         "parent": null,
@@ -43,7 +43,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000201116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000201116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000201116",
         "name": "\u00a7 2",
         "title": "Freiwillige",
         "parent": null,
@@ -54,7 +54,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000301116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000301116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000301116",
         "name": "\u00a7 3",
         "title": "Freiwilliges soziales Jahr",
         "parent": null,
@@ -65,7 +65,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000401116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000401116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000401116",
         "name": "\u00a7 4",
         "title": "Freiwilliges \u00f6kologisches Jahr",
         "parent": null,
@@ -76,7 +76,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000501116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000501116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000501116",
         "name": "\u00a7 5",
         "title": "Jugendfreiwilligendienste im Inland",
         "parent": null,
@@ -87,7 +87,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000601116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000601116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000601116",
         "name": "\u00a7 6",
         "title": "Jugendfreiwilligendienst im Ausland",
         "parent": null,
@@ -98,7 +98,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000701116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000701116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000701116",
         "name": "\u00a7 7",
         "title": "Kombinierter Jugendfreiwilligendienst",
         "parent": null,
@@ -109,7 +109,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000801116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000801116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000801116",
         "name": "\u00a7 8",
         "title": "Zeitliche Ausnahmen",
         "parent": null,
@@ -120,7 +120,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE000902116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE000902116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE000902116",
         "name": "\u00a7 9",
         "title": "F\u00f6rderung",
         "parent": null,
@@ -131,7 +131,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE001000000",
         "name": "\u00a7 10",
         "title": "Tr\u00e4ger",
         "parent": null,
@@ -142,7 +142,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE001100000",
         "name": "\u00a7 11",
         "title": "Vereinbarung, Bescheinigung, Zeugnis",
         "parent": null,
@@ -153,7 +153,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE001201116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE001201116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE001201116",
         "name": "\u00a7 12",
         "title": "Datenschutz",
         "parent": null,
@@ -164,7 +164,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE001300000",
         "name": "\u00a7 13",
         "title": "Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen",
         "parent": null,
@@ -175,7 +175,7 @@
       {
         "type": "article",
         "id": "BJNR084210008BJNE001501116",
-        "url": "https://api.rechtsinformationsportal.de/laws/jfdg/articles/BJNR084210008BJNE001501116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/jfdg/articles/BJNR084210008BJNE001501116",
         "name": "\u00a7 15",
         "title": "(weggefallen)",
         "parent": null,

@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR020650969",
-    "url": "https://api.rechtsinformationsportal.de/laws/rpflg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg",
     "firstPublished": "1969-11-05",
     "sourceTimestamp": "20200505212505",
     "titleShort": null,
@@ -38,7 +38,7 @@
       {
         "type": "heading",
         "id": "BJNR020650969BJNG000102311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNG000102311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000102311",
         "name": "Erster Abschnitt",
         "title": "Aufgaben und Stellung des Rechtspflegers",
         "parent": null
@@ -46,7 +46,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE000802311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE000802311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE000802311",
         "name": "\u00a7 1",
         "title": "Allgemeine Stellung des Rechtspflegers",
         "parent": {
@@ -60,7 +60,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE000904311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE000904311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE000904311",
         "name": "\u00a7 2",
         "title": "Voraussetzungen f\u00fcr die T\u00e4tigkeit als Rechtspfleger",
         "parent": {
@@ -74,7 +74,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001028311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001028311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001028311",
         "name": "\u00a7 3",
         "title": "\u00dcbertragene Gesch\u00e4fte",
         "parent": {
@@ -88,7 +88,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001103311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001103311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001103311",
         "name": "\u00a7 4",
         "title": "Umfang der \u00dcbertragung",
         "parent": {
@@ -102,7 +102,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001202311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001202311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001202311",
         "name": "\u00a7 5",
         "title": "Vorlage an den Richter",
         "parent": {
@@ -116,7 +116,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001302311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001302311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001302311",
         "name": "\u00a7 6",
         "title": "Bearbeitung \u00fcbertragener Sachen durch den Richter",
         "parent": {
@@ -130,7 +130,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001402311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001402311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001402311",
         "name": "\u00a7 7",
         "title": "Bestimmung des zust\u00e4ndigen Organs der Rechtspflege",
         "parent": {
@@ -144,7 +144,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001502311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001502311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001502311",
         "name": "\u00a7 8",
         "title": "G\u00fcltigkeit von Gesch\u00e4ften",
         "parent": {
@@ -158,7 +158,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001602311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001602311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001602311",
         "name": "\u00a7 9",
         "title": "Weisungsfreiheit des Rechtspflegers",
         "parent": {
@@ -172,7 +172,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001702311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001702311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001702311",
         "name": "\u00a7 10",
         "title": "Ausschlie\u00dfung und Ablehnung des Rechtspflegers",
         "parent": {
@@ -186,7 +186,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001809311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001809311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001809311",
         "name": "\u00a7 11",
         "title": "Rechtsbehelfe",
         "parent": {
@@ -200,7 +200,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE001902311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE001902311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE001902311",
         "name": "\u00a7 12",
         "title": "Bezeichnung des Rechtspflegers",
         "parent": {
@@ -214,7 +214,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002003311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002003311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002003311",
         "name": "\u00a7 13",
         "title": "Ausschluss des Anwaltszwangs",
         "parent": {
@@ -228,7 +228,7 @@
       {
         "type": "heading",
         "id": "BJNR020650969BJNG000208311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNG000208311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000208311",
         "name": "Zweiter Abschnitt",
         "title": "Dem Richter vorbehaltene Gesch\u00e4fte in Familiensachen und auf dem Gebiet der freiwilligen Gerichtsbarkeit sowie in Insolvenzverfahren und schifffahrtsrechtlichen Verteilungsverfahren",
         "parent": null
@@ -236,7 +236,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002123360",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002123360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002123360",
         "name": "\u00a7 14",
         "title": "Kindschafts- und Adoptionssachen",
         "parent": {
@@ -250,7 +250,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002206311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002206311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002206311",
         "name": "\u00a7 15",
         "title": "Betreuungssachen und betreuungsgerichtliche Zuweisungssachen",
         "parent": {
@@ -264,7 +264,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002306311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002306311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002306311",
         "name": "\u00a7 16",
         "title": "Nachlass- und Teilungssachen; Europ\u00e4isches Nachlasszeugnis",
         "parent": {
@@ -278,7 +278,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002412311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002412311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002412311",
         "name": "\u00a7 17",
         "title": "Registersachen und unternehmensrechtliche Verfahren",
         "parent": {
@@ -292,7 +292,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002508311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002508311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002508311",
         "name": "\u00a7 18",
         "title": "Insolvenzverfahren",
         "parent": {
@@ -306,7 +306,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002609311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002609311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002609311",
         "name": "\u00a7 19",
         "title": "Aufhebung von Richtervorbehalten",
         "parent": {
@@ -320,7 +320,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE005106311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE005106311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE005106311",
         "name": "\u00a7 19a",
         "title": "Verfahren nach dem internationalen Insolvenzrecht",
         "parent": {
@@ -334,7 +334,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002706311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002706311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002706311",
         "name": "\u00a7 19b",
         "title": "Schifffahrtsrechtliches Verteilungsverfahren",
         "parent": {
@@ -348,7 +348,7 @@
       {
         "type": "heading",
         "id": "BJNR020650969BJNG000304311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNG000304311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000304311",
         "name": "Dritter Abschnitt",
         "title": "Dem Rechtspfleger nach \u00a7 3 Nummer 3 \u00fcbertragene Gesch\u00e4fte",
         "parent": null
@@ -356,7 +356,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002839125",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002839125",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002839125",
         "name": "\u00a7 20",
         "title": "B\u00fcrgerliche Rechtsstreitigkeiten",
         "parent": {
@@ -370,7 +370,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE002904311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE002904311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE002904311",
         "name": "\u00a7 21",
         "title": "Festsetzungsverfahren",
         "parent": {
@@ -384,7 +384,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003004311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003004311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003004311",
         "name": "\u00a7 22",
         "title": "Gerichtliche Gesch\u00e4fte in Straf- und Bu\u00dfgeldverfahren",
         "parent": {
@@ -398,7 +398,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003120311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003120311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003120311",
         "name": "\u00a7 23",
         "title": "Verfahren vor dem Patentgericht",
         "parent": {
@@ -412,7 +412,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003203311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003203311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003203311",
         "name": "\u00a7 24",
         "title": "Aufnahme von Erkl\u00e4rungen",
         "parent": {
@@ -426,7 +426,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE005006311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE005006311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE005006311",
         "name": "\u00a7 24a",
         "title": "Beratungshilfe",
         "parent": {
@@ -440,7 +440,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE005401311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE005401311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE005401311",
         "name": "\u00a7 24b",
         "title": "Amtshilfe",
         "parent": {
@@ -454,7 +454,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE005705311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE005705311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE005705311",
         "name": "\u00a7 25",
         "title": "Sonstige Gesch\u00e4fte auf dem Gebiet der Familiensachen",
         "parent": {
@@ -468,7 +468,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE005803311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE005803311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE005803311",
         "name": "\u00a7 25a",
         "title": "Verfahrenskostenhilfe",
         "parent": {
@@ -482,7 +482,7 @@
       {
         "type": "heading",
         "id": "BJNR020650969BJNG000402311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNG000402311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000402311",
         "name": "Vierter Abschnitt",
         "title": "Sonstige Vorschriften auf dem Gebiet der Gerichtsverfassung",
         "parent": null
@@ -490,7 +490,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003408311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003408311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003408311",
         "name": "\u00a7 26",
         "title": "Verh\u00e4ltnis des Rechtspflegers zum Urkundsbeamten der Gesch\u00e4ftsstelle",
         "parent": {
@@ -504,7 +504,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003502311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003502311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003502311",
         "name": "\u00a7 27",
         "title": "Pflicht zur Wahrnehmung sonstiger Dienstgesch\u00e4fte",
         "parent": {
@@ -518,7 +518,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003602311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003602311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003602311",
         "name": "\u00a7 28",
         "title": "Zust\u00e4ndiger Richter",
         "parent": {
@@ -532,7 +532,7 @@
       {
         "type": "heading",
         "id": "BJNR020650969BJNG000503311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNG000503311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000503311",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Dem Rechtspfleger \u00fcbertragene Gesch\u00e4fte in anderen Bereichen",
         "parent": null
@@ -540,7 +540,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003707311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003707311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003707311",
         "name": "\u00a7 29",
         "title": "Gesch\u00e4fte im internationalen Rechtsverkehr",
         "parent": {
@@ -554,7 +554,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003803311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003803311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003803311",
         "name": "\u00a7 30",
         "title": "(weggefallen)",
         "parent": {
@@ -568,7 +568,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE003905311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE003905311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE003905311",
         "name": "\u00a7 31",
         "title": "Gesch\u00e4fte der Staatsanwaltschaft im Strafverfahren und Vollstreckung in Straf- und Bu\u00dfgeldsachen sowie von Ordnungs- und Zwangsmitteln",
         "parent": {
@@ -582,7 +582,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004003311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004003311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004003311",
         "name": "\u00a7 32",
         "title": "Nicht anzuwendende Vorschriften",
         "parent": {
@@ -596,7 +596,7 @@
       {
         "type": "heading",
         "id": "BJNR020650969BJNG000602311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNG000602311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000602311",
         "name": "Sechster Abschnitt",
         "title": "Schlussvorschriften",
         "parent": null
@@ -604,7 +604,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004107311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004107311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004107311",
         "name": "\u00a7 33",
         "title": "Regelung f\u00fcr die \u00dcbergangszeit; Bef\u00e4higung zum Amt des Bezirksnotars",
         "parent": {
@@ -618,7 +618,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004202311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004202311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004202311",
         "name": "\u00a7 33a",
         "title": "\u00dcbergangsregelung f\u00fcr die Jugendstrafvollstreckung",
         "parent": {
@@ -632,7 +632,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004303311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004303311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004303311",
         "name": "\u00a7 34",
         "title": "Wahrnehmung von Rechtspflegeraufgaben durch Bereichsrechtspfleger",
         "parent": {
@@ -646,7 +646,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE005202311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE005202311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE005202311",
         "name": "\u00a7 34a",
         "title": "Ausbildung von Bereichsrechtspflegern zu Rechtspflegern",
         "parent": {
@@ -660,7 +660,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004407311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004407311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004407311",
         "name": "\u00a7 35",
         "title": "(weggefallen)",
         "parent": {
@@ -674,7 +674,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE006000311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE006000311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE006000311",
         "name": "\u00a7 35a",
         "title": "Ratschreiber und Beschlussfertiger in Baden-W\u00fcrttemberg",
         "parent": {
@@ -688,7 +688,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004504311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004504311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004504311",
         "name": "\u00a7 36",
         "title": "(weggefallen)",
         "parent": {
@@ -702,7 +702,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE000102311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE000102311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE000102311",
         "name": "\u00a7 36a",
         "title": "Vorbehalt f\u00fcr die Freie und Hansestadt Hamburg",
         "parent": {
@@ -716,7 +716,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE005306311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE005306311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE005306311",
         "name": "\u00a7 36b",
         "title": "\u00dcbertragung von Rechtspflegeraufgaben auf den Urkundsbeamten der Gesch\u00e4ftsstelle",
         "parent": {
@@ -730,7 +730,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004602311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004602311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004602311",
         "name": "\u00a7 37",
         "title": "Rechtspflegergesch\u00e4fte nach Landesrecht",
         "parent": {
@@ -744,7 +744,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004702311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004702311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004702311",
         "name": "\u00a7 38",
         "title": "Aufhebung und \u00c4nderung von Vorschriften",
         "parent": {
@@ -758,7 +758,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004802311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004802311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004802311",
         "name": "\u00a7 39",
         "title": "\u00dcberleitungsvorschrift",
         "parent": {
@@ -772,7 +772,7 @@
       {
         "type": "article",
         "id": "BJNR020650969BJNE004902311",
-        "url": "https://api.rechtsinformationsportal.de/laws/rpflg/articles/BJNR020650969BJNE004902311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNE004902311",
         "name": "\u00a7 40",
         "title": "(Inkrafttreten)",
         "parent": {

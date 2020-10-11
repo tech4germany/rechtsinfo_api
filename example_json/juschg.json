@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR273000002",
-    "url": "https://api.rechtsinformationsportal.de/laws/juschg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg",
     "firstPublished": "2002-07-23",
     "sourceTimestamp": "20200214213006",
     "titleShort": null,
@@ -36,7 +36,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE003100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE003100000",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -47,7 +47,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeines",
         "parent": null
@@ -55,7 +55,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000101310",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000101310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000101310",
         "name": "\u00a7 1",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -69,7 +69,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000200000",
         "name": "\u00a7 2",
         "title": "Pr\u00fcfungs- und Nachweispflicht",
         "parent": {
@@ -83,7 +83,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000300000",
         "name": "\u00a7 3",
         "title": "Bekanntmachung der Vorschriften",
         "parent": {
@@ -97,7 +97,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Jugendschutz in der \u00d6ffentlichkeit",
         "parent": null
@@ -105,7 +105,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000400000",
         "name": "\u00a7 4",
         "title": "Gastst\u00e4tten",
         "parent": {
@@ -119,7 +119,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000500000",
         "name": "\u00a7 5",
         "title": "Tanzveranstaltungen",
         "parent": {
@@ -133,7 +133,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000600000",
         "name": "\u00a7 6",
         "title": "Spielhallen, Gl\u00fccksspiele",
         "parent": {
@@ -147,7 +147,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000700000",
         "name": "\u00a7 7",
         "title": "Jugendgef\u00e4hrdende Veranstaltungen und Betriebe",
         "parent": {
@@ -161,7 +161,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000800000",
         "name": "\u00a7 8",
         "title": "Jugendgef\u00e4hrdende Orte",
         "parent": {
@@ -175,7 +175,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE000902116",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE000902116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE000902116",
         "name": "\u00a7 9",
         "title": "Alkoholische Getr\u00e4nke",
         "parent": {
@@ -189,7 +189,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001003377",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001003377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001003377",
         "name": "\u00a7 10",
         "title": "Rauchen in der \u00d6ffentlichkeit, Tabakwaren",
         "parent": {
@@ -203,7 +203,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Jugendschutz im Bereich der Medien",
         "parent": null
@@ -211,7 +211,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000400000",
         "name": "Unterabschnitt 1",
         "title": "Tr\u00e4germedien",
         "parent": {
@@ -222,7 +222,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001100000",
         "name": "\u00a7 11",
         "title": "Filmveranstaltungen",
         "parent": {
@@ -236,7 +236,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001201310",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001201310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001201310",
         "name": "\u00a7 12",
         "title": "Bildtr\u00e4ger mit Filmen oder Spielen",
         "parent": {
@@ -250,7 +250,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001301310",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001301310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001301310",
         "name": "\u00a7 13",
         "title": "Bildschirmspielger\u00e4te",
         "parent": {
@@ -264,7 +264,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001400000",
         "name": "\u00a7 14",
         "title": "Kennzeichnung von Filmen und Film- und Spielprogrammen",
         "parent": {
@@ -278,7 +278,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001503310",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001503310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001503310",
         "name": "\u00a7 15",
         "title": "Jugendgef\u00e4hrdende Tr\u00e4germedien",
         "parent": {
@@ -292,7 +292,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000500000",
         "name": "Unterabschnitt 2",
         "title": "Telemedien",
         "parent": {
@@ -303,7 +303,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001600000",
         "name": "\u00a7 16",
         "title": "Sonderregelung f\u00fcr Telemedien",
         "parent": {
@@ -317,7 +317,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000600000",
         "name": "Abschnitt 4",
         "title": "Bundespr\u00fcfstelle f\u00fcr jugendgef\u00e4hrdende\nMedien",
         "parent": null
@@ -325,7 +325,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001700000",
         "name": "\u00a7 17",
         "title": "Name und Zust\u00e4ndigkeit",
         "parent": {
@@ -339,7 +339,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001803310",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001803310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001803310",
         "name": "\u00a7 18",
         "title": "Liste jugendgef\u00e4hrdender Medien",
         "parent": {
@@ -353,7 +353,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE001900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE001900000",
         "name": "\u00a7 19",
         "title": "Personelle Besetzung",
         "parent": {
@@ -367,7 +367,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002000000",
         "name": "\u00a7 20",
         "title": "Vorschlagsberechtigte Verb\u00e4nde",
         "parent": {
@@ -381,7 +381,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002105301",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002105301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002105301",
         "name": "\u00a7 21",
         "title": "Verfahren",
         "parent": {
@@ -395,7 +395,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002200000",
         "name": "\u00a7 22",
         "title": "Aufnahme von periodischen Tr\u00e4germedien und Telemedien",
         "parent": {
@@ -409,7 +409,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002300000",
         "name": "\u00a7 23",
         "title": "Vereinfachtes Verfahren",
         "parent": {
@@ -423,7 +423,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002400000",
         "name": "\u00a7 24",
         "title": "F\u00fchrung der Liste jugendgef\u00e4hrdender Medien",
         "parent": {
@@ -437,7 +437,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002500000",
         "name": "\u00a7 25",
         "title": "Rechtsweg",
         "parent": {
@@ -451,7 +451,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000700000",
         "name": "Abschnitt 5",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": null
@@ -459,7 +459,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002600000",
         "name": "\u00a7 26",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -473,7 +473,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000800000",
         "name": "Abschnitt 6",
         "title": "Ahndung von Verst\u00f6\u00dfen",
         "parent": null
@@ -481,7 +481,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002700000",
         "name": "\u00a7 27",
         "title": "Strafvorschriften",
         "parent": {
@@ -495,7 +495,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002805377",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002805377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002805377",
         "name": "\u00a7 28",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -509,7 +509,7 @@
       {
         "type": "heading",
         "id": "BJNR273000002BJNG000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNG000900000",
         "name": "Abschnitt 7",
         "title": "Schlussvorschriften",
         "parent": null
@@ -517,7 +517,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE002900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE002900000",
         "name": "\u00a7 29",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -531,7 +531,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE003200310",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE003200310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE003200310",
         "name": "\u00a7 29a",
         "title": "Weitere \u00dcbergangsregelung",
         "parent": {
@@ -545,7 +545,7 @@
       {
         "type": "article",
         "id": "BJNR273000002BJNE003000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/juschg/articles/BJNR273000002BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/juschg/articles/BJNR273000002BJNE003000000",
         "name": "\u00a7 30",
         "title": "Inkrafttreten, Au\u00dferkrafttreten",
         "parent": {

@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR014090971",
-    "url": "https://api.rechtsinformationsportal.de/laws/bafoeg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg",
     "firstPublished": "1971-08-26",
     "sourceTimestamp": "20200731212503",
     "titleShort": "Bundesausbildungsf\u00f6rderungsgesetz",
@@ -40,7 +40,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE001201310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE001201310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE001201310",
         "name": "\u00a7 1",
         "title": "Grundsatz",
         "parent": null,
@@ -51,7 +51,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000101310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000101310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000101310",
         "name": "Abschnitt I",
         "title": "F\u00f6rderungsf\u00e4hige Ausbildung",
         "parent": null
@@ -59,7 +59,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE001314116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE001314116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE001314116",
         "name": "\u00a7 2",
         "title": "Ausbildungsst\u00e4tten",
         "parent": {
@@ -73,7 +73,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE001402310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE001402310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE001402310",
         "name": "\u00a7 3",
         "title": "Fernunterricht",
         "parent": {
@@ -87,7 +87,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE001502310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE001502310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE001502310",
         "name": "\u00a7 4",
         "title": "Ausbildung im Inland",
         "parent": {
@@ -101,7 +101,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE001617116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE001617116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE001617116",
         "name": "\u00a7 5",
         "title": "Ausbildung im Ausland",
         "parent": {
@@ -115,7 +115,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE001707116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE001707116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE001707116",
         "name": "\u00a7 5a",
         "title": "Unber\u00fccksichtigte Ausbildungszeiten",
         "parent": {
@@ -129,7 +129,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE001802116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE001802116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE001802116",
         "name": "\u00a7 6",
         "title": "F\u00f6rderung der Deutschen im Ausland",
         "parent": {
@@ -143,7 +143,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE001917116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE001917116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE001917116",
         "name": "\u00a7 7",
         "title": "Erstausbildung, weitere Ausbildung",
         "parent": {
@@ -157,7 +157,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000201310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000201310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000201310",
         "name": "Abschnitt II",
         "title": "Pers\u00f6nliche Voraussetzungen",
         "parent": null
@@ -165,7 +165,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE009502116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE009502116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE009502116",
         "name": "\u00a7 8",
         "title": "Staatsangeh\u00f6rigkeit",
         "parent": {
@@ -179,7 +179,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE002101310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE002101310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE002101310",
         "name": "\u00a7 9",
         "title": "Eignung",
         "parent": {
@@ -193,7 +193,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE002206116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE002206116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE002206116",
         "name": "\u00a7 10",
         "title": "Alter",
         "parent": {
@@ -207,7 +207,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000301310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000301310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000301310",
         "name": "Abschnitt III",
         "title": "Leistungen",
         "parent": null
@@ -215,7 +215,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE002312116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE002312116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE002312116",
         "name": "\u00a7 11",
         "title": "Umfang der Ausbildungsf\u00f6rderung",
         "parent": {
@@ -229,7 +229,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE002418116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE002418116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE002418116",
         "name": "\u00a7 12",
         "title": "Bedarf f\u00fcr Sch\u00fcler",
         "parent": {
@@ -243,7 +243,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE002620116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE002620116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE002620116",
         "name": "\u00a7 13",
         "title": "Bedarf f\u00fcr Studierende",
         "parent": {
@@ -257,7 +257,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE008811116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE008811116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE008811116",
         "name": "\u00a7 13a",
         "title": "Kranken- und Pflegeversicherungszuschlag",
         "parent": {
@@ -271,7 +271,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE002702310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE002702310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE002702310",
         "name": "\u00a7 14",
         "title": "Bedarf f\u00fcr Praktikanten",
         "parent": {
@@ -285,7 +285,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE002807116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE002807116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE002807116",
         "name": "\u00a7 14a",
         "title": "Zusatzleistungen in H\u00e4rtef\u00e4llen",
         "parent": {
@@ -299,7 +299,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE009305116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE009305116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE009305116",
         "name": "\u00a7 14b",
         "title": "Zusatzleistung f\u00fcr Auszubildende mit Kind (Kinderbetreuungszuschlag)",
         "parent": {
@@ -313,7 +313,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE002914116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE002914116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE002914116",
         "name": "\u00a7 15",
         "title": "F\u00f6rderungsdauer",
         "parent": {
@@ -327,7 +327,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE009006310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE009006310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE009006310",
         "name": "\u00a7 15a",
         "title": "F\u00f6rderungsh\u00f6chstdauer",
         "parent": {
@@ -341,7 +341,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003006116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003006116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003006116",
         "name": "\u00a7 15b",
         "title": "Aufnahme und Beendigung der Ausbildung",
         "parent": {
@@ -355,7 +355,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003110116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003110116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003110116",
         "name": "\u00a7 16",
         "title": "F\u00f6rderungsdauer im Ausland",
         "parent": {
@@ -369,7 +369,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003211116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003211116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003211116",
         "name": "\u00a7 17",
         "title": "F\u00f6rderungsarten",
         "parent": {
@@ -383,7 +383,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003314116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003314116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003314116",
         "name": "\u00a7 18",
         "title": "Darlehensbedingungen",
         "parent": {
@@ -397,7 +397,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003426116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003426116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003426116",
         "name": "\u00a7 18a",
         "title": "Einkommensabh\u00e4ngige R\u00fcckzahlung",
         "parent": {
@@ -411,7 +411,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003520116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003520116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003520116",
         "name": "\u00a7 18b",
         "title": "Teilerlass des Darlehens",
         "parent": {
@@ -425,7 +425,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE009113116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE009113116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE009113116",
         "name": "\u00a7 18c",
         "title": "Bankdarlehen",
         "parent": {
@@ -439,7 +439,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE009204116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE009204116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE009204116",
         "name": "\u00a7 18d",
         "title": "Kreditanstalt f\u00fcr Wiederaufbau",
         "parent": {
@@ -453,7 +453,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003603310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003603310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003603310",
         "name": "\u00a7 19",
         "title": "Aufrechnung",
         "parent": {
@@ -467,7 +467,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003703310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003703310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003703310",
         "name": "\u00a7 20",
         "title": "R\u00fcckzahlungspflicht",
         "parent": {
@@ -481,7 +481,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000401310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000401310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000401310",
         "name": "Abschnitt IV",
         "title": "Einkommensanrechnung",
         "parent": null
@@ -489,7 +489,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003828116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003828116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003828116",
         "name": "\u00a7 21",
         "title": "Einkommensbegriff",
         "parent": {
@@ -503,7 +503,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE003904310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE003904310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE003904310",
         "name": "\u00a7 22",
         "title": "Berechnungszeitraum f\u00fcr das Einkommen des Auszubildenden",
         "parent": {
@@ -517,7 +517,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE004026116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE004026116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE004026116",
         "name": "\u00a7 23",
         "title": "Freibetr\u00e4ge vom Einkommen des Auszubildenden",
         "parent": {
@@ -531,7 +531,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE004110310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE004110310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE004110310",
         "name": "\u00a7 24",
         "title": "Berechnungszeitraum f\u00fcr das Einkommen der Eltern und des Ehegatten oder Lebenspartners",
         "parent": {
@@ -545,7 +545,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE004228116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE004228116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE004228116",
         "name": "\u00a7 25",
         "title": "Freibetr\u00e4ge vom Einkommen der Eltern und des Ehegatten oder Lebenspartners",
         "parent": {
@@ -559,7 +559,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000501310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000501310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000501310",
         "name": "Abschnitt V",
         "title": "Verm\u00f6gensanrechnung",
         "parent": null
@@ -567,7 +567,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE004504310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE004504310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE004504310",
         "name": "\u00a7 26",
         "title": "Umfang der Verm\u00f6gensanrechnung",
         "parent": {
@@ -581,7 +581,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE004603116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE004603116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE004603116",
         "name": "\u00a7 27",
         "title": "Verm\u00f6gensbegriff",
         "parent": {
@@ -595,7 +595,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE004709310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE004709310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE004709310",
         "name": "\u00a7 28",
         "title": "Wertbestimmung des Verm\u00f6gens",
         "parent": {
@@ -609,7 +609,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE004807116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE004807116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE004807116",
         "name": "\u00a7 29",
         "title": "Freibetr\u00e4ge vom Verm\u00f6gen",
         "parent": {
@@ -623,7 +623,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE004901310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE004901310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE004901310",
         "name": "\u00a7 30",
         "title": "Monatlicher Anrechnungsbetrag",
         "parent": {
@@ -637,7 +637,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005001310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005001310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005001310",
         "name": "(XXXX) \u00a7\u00a7 31 bis 34",
         "title": "(weggefallen)",
         "parent": {
@@ -651,7 +651,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000601310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000601310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000601310",
         "name": "Abschnitt VI",
         "title": null,
         "parent": null
@@ -659,7 +659,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005104116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005104116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005104116",
         "name": "\u00a7 35",
         "title": "Anpassung der Bedarfss\u00e4tze und Freibetr\u00e4ge",
         "parent": {
@@ -673,7 +673,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000702310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000702310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000702310",
         "name": "Abschnitt VII",
         "title": "Vorausleistung und Anspruchs\u00fcbergang",
         "parent": null
@@ -681,7 +681,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005211116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005211116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005211116",
         "name": "\u00a7 36",
         "title": "Vorausleistung von Ausbildungsf\u00f6rderung",
         "parent": {
@@ -695,7 +695,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005305310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005305310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005305310",
         "name": "\u00a7 37",
         "title": "\u00dcbergang von Unterhaltsanspr\u00fcchen",
         "parent": {
@@ -709,7 +709,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005401310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005401310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005401310",
         "name": "\u00a7 38",
         "title": "\u00dcbergang von anderen Anspr\u00fcchen",
         "parent": {
@@ -723,7 +723,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000801310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000801310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000801310",
         "name": "Abschnitt VIII",
         "title": "Organisation",
         "parent": null
@@ -731,7 +731,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005507310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005507310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005507310",
         "name": "\u00a7 39",
         "title": "Auftragsverwaltung",
         "parent": {
@@ -745,7 +745,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005610116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005610116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005610116",
         "name": "\u00a7 40",
         "title": "\u00c4mter f\u00fcr Ausbildungsf\u00f6rderung",
         "parent": {
@@ -759,7 +759,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005703310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005703310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005703310",
         "name": "\u00a7 40a",
         "title": "Landes\u00e4mter f\u00fcr Ausbildungsf\u00f6rderung",
         "parent": {
@@ -773,7 +773,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005806116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005806116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005806116",
         "name": "\u00a7 41",
         "title": "Aufgaben der \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung",
         "parent": {
@@ -787,7 +787,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE005905310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE005905310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE005905310",
         "name": "\u00a7 42",
         "title": "(weggefallen)",
         "parent": {
@@ -801,7 +801,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006004310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006004310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006004310",
         "name": "\u00a7 43",
         "title": "(weggefallen)",
         "parent": {
@@ -815,7 +815,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006105116",
         "name": "\u00a7 44",
         "title": "Beirat f\u00fcr Ausbildungsf\u00f6rderung",
         "parent": {
@@ -829,7 +829,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG000901310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG000901310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000901310",
         "name": "Abschnitt IX",
         "title": "Verfahren",
         "parent": null
@@ -837,7 +837,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006211116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006211116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006211116",
         "name": "\u00a7 45",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -851,7 +851,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006302310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006302310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006302310",
         "name": "\u00a7 45a",
         "title": "Wechsel in der Zust\u00e4ndigkeit",
         "parent": {
@@ -865,7 +865,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006411116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006411116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006411116",
         "name": "\u00a7 46",
         "title": "Antrag",
         "parent": {
@@ -879,7 +879,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006506310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006506310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006506310",
         "name": "\u00a7 47",
         "title": "Auskunftspflichten",
         "parent": {
@@ -893,7 +893,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006605116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006605116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006605116",
         "name": "\u00a7 47a",
         "title": "Ersatzpflicht des Ehegatten oder Lebenspartners und der Eltern",
         "parent": {
@@ -907,7 +907,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006711116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006711116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006711116",
         "name": "\u00a7 48",
         "title": "Mitwirkung von Ausbildungsst\u00e4tten",
         "parent": {
@@ -921,7 +921,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006806310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006806310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006806310",
         "name": "\u00a7 49",
         "title": "Feststellung der Voraussetzungen der F\u00f6rderung im Ausland",
         "parent": {
@@ -935,7 +935,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE006909116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE006909116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE006909116",
         "name": "\u00a7 50",
         "title": "Bescheid",
         "parent": {
@@ -949,7 +949,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007011116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007011116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007011116",
         "name": "\u00a7 51",
         "title": "Zahlweise",
         "parent": {
@@ -963,7 +963,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007101310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007101310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007101310",
         "name": "\u00a7 52",
         "title": "(weggefallen)",
         "parent": {
@@ -977,7 +977,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007207116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007207116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007207116",
         "name": "\u00a7 53",
         "title": "\u00c4nderung des Bescheides",
         "parent": {
@@ -991,7 +991,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007301310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007301310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007301310",
         "name": "\u00a7 54",
         "title": "Rechtsweg",
         "parent": {
@@ -1005,7 +1005,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007404116",
         "name": "\u00a7 55",
         "title": "Statistik",
         "parent": {
@@ -1019,7 +1019,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG001001310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG001001310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG001001310",
         "name": "Abschnitt X",
         "title": null,
         "parent": null
@@ -1027,7 +1027,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007508116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007508116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007508116",
         "name": "\u00a7 56",
         "title": "Aufbringung der Mittel",
         "parent": {
@@ -1041,7 +1041,7 @@
       {
         "type": "heading",
         "id": "BJNR014090971BJNG001101310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNG001101310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG001101310",
         "name": "Abschnitt XI",
         "title": "Bu\u00dfgeldvorschriften, \u00dcbergangs- und Schlussvorschriften",
         "parent": null
@@ -1049,7 +1049,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007601310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007601310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007601310",
         "name": "\u00a7 57",
         "title": "(weggefallen)",
         "parent": {
@@ -1063,7 +1063,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007705116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007705116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007705116",
         "name": "\u00a7 58",
         "title": "Ordnungswidrigkeiten",
         "parent": {
@@ -1077,7 +1077,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE008702310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE008702310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE008702310",
         "name": "\u00a7 59",
         "title": "(weggefallen)",
         "parent": {
@@ -1091,7 +1091,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE008906116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE008906116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE008906116",
         "name": "\u00a7 60",
         "title": "Opfer politischer Verfolgung durch SED-Unrecht",
         "parent": {
@@ -1105,7 +1105,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007803310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007803310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007803310",
         "name": "(XXXX) \u00a7\u00a7 61 und 62",
         "title": "(weggefallen)",
         "parent": {
@@ -1119,7 +1119,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE007904310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE007904310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE007904310",
         "name": "\u00a7 63",
         "title": "(weggefallen)",
         "parent": {
@@ -1133,7 +1133,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE008002310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE008002310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE008002310",
         "name": "\u00a7 64",
         "title": "(weggefallen)",
         "parent": {
@@ -1147,7 +1147,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE008107310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE008107310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE008107310",
         "name": "\u00a7 65",
         "title": "Weitergeltende Vorschriften",
         "parent": {
@@ -1161,7 +1161,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE008202310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE008202310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE008202310",
         "name": "\u00a7 66",
         "title": "(weggefallen)",
         "parent": {
@@ -1175,7 +1175,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE008316116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE008316116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE008316116",
         "name": "\u00a7 66a",
         "title": "\u00dcbergangs- und Anwendungsvorschrift",
         "parent": {
@@ -1189,7 +1189,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE009402310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE009402310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE009402310",
         "name": "\u00a7 67",
         "title": "(weggefallen)",
         "parent": {
@@ -1203,7 +1203,7 @@
       {
         "type": "article",
         "id": "BJNR014090971BJNE008504310",
-        "url": "https://api.rechtsinformationsportal.de/laws/bafoeg/articles/BJNR014090971BJNE008504310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNE008504310",
         "name": "\u00a7 68",
         "title": "Inkrafttreten",
         "parent": {

@@ -13,7 +13,7 @@ config = context.config
 # This line sets up loggers basically.
 fileConfig(config.config_file_name)
 
-from rip_api import models
+from rip_api import models  # noqa
 target_metadata = models.Base.metadata
 
 # other values from the config, defined by the needs of env.py,
@@ -21,7 +21,7 @@ target_metadata = models.Base.metadata
 # my_important_option = config.get_main_option("my_important_option")
 # ... etc.
 
-from rip_api import db
+from rip_api import db  # noqa
 db_uri = db.db_uri
 
 

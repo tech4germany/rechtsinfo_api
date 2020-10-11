@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR010890965",
-    "url": "https://api.rechtsinformationsportal.de/laws/aktg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg",
     "firstPublished": "1965-09-06",
     "sourceTimestamp": "20200916213503",
     "titleShort": null,
@@ -32,7 +32,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE000105360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE000105360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE000105360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -43,7 +43,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE000200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE000200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE000200308",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -54,7 +54,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG000300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG000300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG000300308",
         "name": "Erstes Buch",
         "title": "Aktiengesellschaft",
         "parent": null
@@ -62,7 +62,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG000400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG000400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG000400308",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -73,7 +73,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE000500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE000500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE000500308",
         "name": "\u00a7 1",
         "title": "Wesen der Aktiengesellschaft",
         "parent": {
@@ -87,7 +87,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE000601307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE000601307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE000601307",
         "name": "\u00a7 2",
         "title": "Gr\u00fcnderzahl",
         "parent": {
@@ -101,7 +101,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE000702307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE000702307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE000702307",
         "name": "\u00a7 3",
         "title": "Formkaufmann. B\u00f6rsennotierung",
         "parent": {
@@ -115,7 +115,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE000801307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE000801307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE000801307",
         "name": "\u00a7 4",
         "title": "Firma",
         "parent": {
@@ -129,7 +129,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE000901140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE000901140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE000901140",
         "name": "\u00a7 5",
         "title": "Sitz",
         "parent": {
@@ -143,7 +143,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001002307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001002307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001002307",
         "name": "\u00a7 6",
         "title": "Grundkapital",
         "parent": {
@@ -157,7 +157,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001101307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001101307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001101307",
         "name": "\u00a7 7",
         "title": "Mindestnennbetrag des Grundkapitals",
         "parent": {
@@ -171,7 +171,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001204307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001204307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001204307",
         "name": "\u00a7 8",
         "title": "Form und Mindestbetr\u00e4ge der Aktien",
         "parent": {
@@ -185,7 +185,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001301307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001301307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001301307",
         "name": "\u00a7 9",
         "title": "Ausgabebetrag der Aktien",
         "parent": {
@@ -199,7 +199,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001404123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001404123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001404123",
         "name": "\u00a7 10",
         "title": "Aktien und Zwischenscheine",
         "parent": {
@@ -213,7 +213,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001500308",
         "name": "\u00a7 11",
         "title": "Aktien besonderer Gattung",
         "parent": {
@@ -227,7 +227,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001601307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001601307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001601307",
         "name": "\u00a7 12",
         "title": "Stimmrecht. Keine Mehrstimmrechte",
         "parent": {
@@ -241,7 +241,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001700308",
         "name": "\u00a7 13",
         "title": "Unterzeichnung der Aktien",
         "parent": {
@@ -255,7 +255,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001800308",
         "name": "\u00a7 14",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -269,7 +269,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE001900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE001900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE001900308",
         "name": "\u00a7 15",
         "title": "Verbundene Unternehmen",
         "parent": {
@@ -283,7 +283,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002001307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002001307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002001307",
         "name": "\u00a7 16",
         "title": "In Mehrheitsbesitz stehende Unternehmen und mit Mehrheit\nbeteiligte Unternehmen",
         "parent": {
@@ -297,7 +297,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002100308",
         "name": "\u00a7 17",
         "title": "Abh\u00e4ngige und herrschende Unternehmen",
         "parent": {
@@ -311,7 +311,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002200308",
         "name": "\u00a7 18",
         "title": "Konzern und Konzernunternehmen",
         "parent": {
@@ -325,7 +325,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002301307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002301307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002301307",
         "name": "\u00a7 19",
         "title": "Wechselseitig beteiligte Unternehmen",
         "parent": {
@@ -339,7 +339,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002404123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002404123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002404123",
         "name": "\u00a7 20",
         "title": "Mitteilungspflichten",
         "parent": {
@@ -353,7 +353,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002504123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002504123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002504123",
         "name": "\u00a7 21",
         "title": "Mitteilungspflichten der Gesellschaft",
         "parent": {
@@ -367,7 +367,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002600308",
         "name": "\u00a7 22",
         "title": "Nachweis mitgeteilter Beteiligungen",
         "parent": {
@@ -381,7 +381,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG002700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG002700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG002700308",
         "name": "Zweiter Teil",
         "title": "Gr\u00fcndung der Gesellschaft",
         "parent": {
@@ -392,7 +392,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002801307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002801307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002801307",
         "name": "\u00a7 23",
         "title": "Feststellung der Satzung",
         "parent": {
@@ -406,7 +406,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE002901123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE002901123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE002901123",
         "name": "\u00a7 24",
         "title": "(weggefallen)",
         "parent": {
@@ -420,7 +420,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003004123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003004123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003004123",
         "name": "\u00a7 25",
         "title": "Bekanntmachungen der Gesellschaft",
         "parent": {
@@ -434,7 +434,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003100308",
         "name": "\u00a7 26",
         "title": "Sondervorteile. Gr\u00fcndungsaufwand",
         "parent": {
@@ -448,7 +448,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003202140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003202140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003202140",
         "name": "\u00a7 27",
         "title": "Sacheinlagen, Sach\u00fcbernahmen; R\u00fcckzahlung von Einlagen",
         "parent": {
@@ -462,7 +462,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003300308",
         "name": "\u00a7 28",
         "title": "Gr\u00fcnder",
         "parent": {
@@ -476,7 +476,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003400308",
         "name": "\u00a7 29",
         "title": "Errichtung der Gesellschaft",
         "parent": {
@@ -490,7 +490,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003500308",
         "name": "\u00a7 30",
         "title": "Bestellung des Aufsichtsrats, des Vorstands und des\nAbschlu\u00dfpr\u00fcfers",
         "parent": {
@@ -504,7 +504,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003601307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003601307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003601307",
         "name": "\u00a7 31",
         "title": "Bestellung des Aufsichtsrats bei Sachgr\u00fcndung",
         "parent": {
@@ -518,7 +518,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003700308",
         "name": "\u00a7 32",
         "title": "Gr\u00fcndungsbericht",
         "parent": {
@@ -532,7 +532,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003802140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003802140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003802140",
         "name": "\u00a7 33",
         "title": "Gr\u00fcndungspr\u00fcfung. Allgemeines",
         "parent": {
@@ -546,7 +546,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056702123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056702123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056702123",
         "name": "\u00a7 33a",
         "title": "Sachgr\u00fcndung ohne externe Gr\u00fcndungspr\u00fcfung",
         "parent": {
@@ -560,7 +560,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE003903140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE003903140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE003903140",
         "name": "\u00a7 34",
         "title": "Umfang der Gr\u00fcndungspr\u00fcfung",
         "parent": {
@@ -574,7 +574,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004001140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004001140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004001140",
         "name": "\u00a7 35",
         "title": "Meinungsverschiedenheiten zwischen Gr\u00fcndern und Gr\u00fcndungspr\u00fcfern. Verg\u00fctung und Auslagen der Gr\u00fcndungspr\u00fcfer",
         "parent": {
@@ -588,7 +588,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004102140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004102140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004102140",
         "name": "\u00a7 36",
         "title": "Anmeldung der Gesellschaft",
         "parent": {
@@ -602,7 +602,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004201307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004201307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004201307",
         "name": "\u00a7 36a",
         "title": "Leistung der Einlagen",
         "parent": {
@@ -616,7 +616,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004305140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004305140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004305140",
         "name": "\u00a7 37",
         "title": "Inhalt der Anmeldung",
         "parent": {
@@ -630,7 +630,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056800140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056800140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056800140",
         "name": "\u00a7 37a",
         "title": "Anmeldung bei Sachgr\u00fcndung ohne externe Gr\u00fcndungspr\u00fcfung",
         "parent": {
@@ -644,7 +644,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004403140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004403140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004403140",
         "name": "\u00a7 38",
         "title": "Pr\u00fcfung durch das Gericht",
         "parent": {
@@ -658,7 +658,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004501140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004501140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004501140",
         "name": "\u00a7 39",
         "title": "Inhalt der Eintragung",
         "parent": {
@@ -672,7 +672,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004604377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004604377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004604377",
         "name": "\u00a7 40",
         "title": "(weggefallen)",
         "parent": {
@@ -686,7 +686,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004700308",
         "name": "\u00a7 41",
         "title": "Handeln im Namen der Gesellschaft vor der Eintragung.\nVerbotene Aktienausgabe",
         "parent": {
@@ -700,7 +700,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE054501307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE054501307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE054501307",
         "name": "\u00a7 42",
         "title": "Einpersonen-Gesellschaft",
         "parent": {
@@ -714,7 +714,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE004802307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE004802307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE004802307",
         "name": "(XXXX) \u00a7\u00a7 43 und 44",
         "title": null,
         "parent": {
@@ -728,7 +728,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005101377",
         "name": "\u00a7 45",
         "title": "Sitzverlegung",
         "parent": {
@@ -742,7 +742,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005200308",
         "name": "\u00a7 46",
         "title": "Verantwortlichkeit der Gr\u00fcnder",
         "parent": {
@@ -756,7 +756,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005300308",
         "name": "\u00a7 47",
         "title": "Verantwortlichkeit anderer Personen neben den Gr\u00fcndern",
         "parent": {
@@ -770,7 +770,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005400308",
         "name": "\u00a7 48",
         "title": "Verantwortlichkeit des Vorstands und des Aufsichtsrats",
         "parent": {
@@ -784,7 +784,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005500308",
         "name": "\u00a7 49",
         "title": "Verantwortlichkeit der Gr\u00fcndungspr\u00fcfer",
         "parent": {
@@ -798,7 +798,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005601307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005601307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005601307",
         "name": "\u00a7 50",
         "title": "Verzicht und Vergleich",
         "parent": {
@@ -812,7 +812,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005701377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005701377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005701377",
         "name": "\u00a7 51",
         "title": "Verj\u00e4hrung der Ersatzanspr\u00fcche",
         "parent": {
@@ -826,7 +826,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005803140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005803140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005803140",
         "name": "\u00a7 52",
         "title": "Nachgr\u00fcndung",
         "parent": {
@@ -840,7 +840,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE005900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE005900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE005900308",
         "name": "\u00a7 53",
         "title": "Ersatzanspr\u00fcche bei der Nachgr\u00fcndung",
         "parent": {
@@ -854,7 +854,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG006000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG006000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG006000308",
         "name": "Dritter Teil",
         "title": "Rechtsverh\u00e4ltnisse der\nGesellschaft und der Gesellschafter",
         "parent": {
@@ -865,7 +865,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006100308",
         "name": "\u00a7 53a",
         "title": "Gleichbehandlung der Aktion\u00e4re",
         "parent": {
@@ -879,7 +879,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006203377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006203377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006203377",
         "name": "\u00a7 54",
         "title": "Hauptverpflichtung der Aktion\u00e4re",
         "parent": {
@@ -893,7 +893,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006300308",
         "name": "\u00a7 55",
         "title": "Nebenverpflichtungen der Aktion\u00e4re",
         "parent": {
@@ -907,7 +907,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006400308",
         "name": "\u00a7 56",
         "title": "Keine Zeichnung eigener Aktien. Aktien\u00fcbernahme f\u00fcr Rechnung\nder Gesellschaft oder durch ein abh\u00e4ngiges oder in Mehrheitsbesitz\nstehendes Unternehmen",
         "parent": {
@@ -921,7 +921,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006502140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006502140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006502140",
         "name": "\u00a7 57",
         "title": "Keine R\u00fcckgew\u00e4hr, keine Verzinsung der Einlagen",
         "parent": {
@@ -935,7 +935,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006605123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006605123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006605123",
         "name": "\u00a7 58",
         "title": "Verwendung des Jahres\u00fcberschusses",
         "parent": {
@@ -949,7 +949,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006700308",
         "name": "\u00a7 59",
         "title": "Abschlagszahlung auf den Bilanzgewinn",
         "parent": {
@@ -963,7 +963,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006801307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006801307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006801307",
         "name": "\u00a7 60",
         "title": "Gewinnverteilung",
         "parent": {
@@ -977,7 +977,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE006900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE006900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE006900308",
         "name": "\u00a7 61",
         "title": "Verg\u00fctung von Nebenleistungen",
         "parent": {
@@ -991,7 +991,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007002377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007002377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007002377",
         "name": "\u00a7 62",
         "title": "Haftung der Aktion\u00e4re beim Empfang verbotener Leistungen",
         "parent": {
@@ -1005,7 +1005,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007100308",
         "name": "\u00a7 63",
         "title": "Folgen nicht rechtzeitiger Einzahlung",
         "parent": {
@@ -1019,7 +1019,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007200308",
         "name": "\u00a7 64",
         "title": "Ausschlu\u00df s\u00e4umiger Aktion\u00e4re",
         "parent": {
@@ -1033,7 +1033,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007302377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007302377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007302377",
         "name": "\u00a7 65",
         "title": "Zahlungspflicht der Vorm\u00e4nner",
         "parent": {
@@ -1047,7 +1047,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007400308",
         "name": "\u00a7 66",
         "title": "Keine Befreiung der Aktion\u00e4re von ihren Leistungspflichten",
         "parent": {
@@ -1061,7 +1061,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007507360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007507360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007507360",
         "name": "\u00a7 67",
         "title": "Eintragung im Aktienregister",
         "parent": {
@@ -1075,7 +1075,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057300360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057300360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057300360",
         "name": "\u00a7 67a",
         "title": "\u00dcbermittlung von Informationen \u00fcber Unternehmensereignisse; Begriffsbestimmungen",
         "parent": {
@@ -1089,7 +1089,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057400360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057400360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057400360",
         "name": "\u00a7 67b",
         "title": "\u00dcbermittlung von Informationen durch Intermedi\u00e4re an die Aktion\u00e4re",
         "parent": {
@@ -1103,7 +1103,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057500360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057500360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057500360",
         "name": "\u00a7 67c",
         "title": "\u00dcbermittlung von Informationen durch Intermedi\u00e4re an die Gesellschaft; Nachweis des Anteilsbesitzes",
         "parent": {
@@ -1117,7 +1117,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057600360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057600360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057600360",
         "name": "\u00a7 67d",
         "title": "Informationsanspruch der Gesellschaft gegen\u00fcber Intermedi\u00e4ren",
         "parent": {
@@ -1131,7 +1131,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057700360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057700360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057700360",
         "name": "\u00a7 67e",
         "title": "Verarbeitung und Berichtigung personenbezogener Daten der Aktion\u00e4re",
         "parent": {
@@ -1145,7 +1145,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057800360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057800360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057800360",
         "name": "\u00a7 67f",
         "title": "Kosten; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1159,7 +1159,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007601311",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007601311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007601311",
         "name": "\u00a7 68",
         "title": "\u00dcbertragung von Namensaktien. Vinkulierung",
         "parent": {
@@ -1173,7 +1173,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007700308",
         "name": "\u00a7 69",
         "title": "Rechtsgemeinschaft an einer Aktie",
         "parent": {
@@ -1187,7 +1187,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007802360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007802360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007802360",
         "name": "\u00a7 70",
         "title": "Berechnung der Aktienbesitzzeit",
         "parent": {
@@ -1201,7 +1201,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE007909140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE007909140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE007909140",
         "name": "\u00a7 71",
         "title": "Erwerb eigener Aktien",
         "parent": {
@@ -1215,7 +1215,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008003140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008003140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008003140",
         "name": "\u00a7 71a",
         "title": "Umgehungsgesch\u00e4fte",
         "parent": {
@@ -1229,7 +1229,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008100308",
         "name": "\u00a7 71b",
         "title": "Rechte aus eigenen Aktien",
         "parent": {
@@ -1243,7 +1243,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008201307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008201307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008201307",
         "name": "\u00a7 71c",
         "title": "Ver\u00e4u\u00dferung und Einziehung eigener Aktien",
         "parent": {
@@ -1257,7 +1257,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008303307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008303307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008303307",
         "name": "\u00a7 71d",
         "title": "Erwerb eigener Aktien durch Dritte",
         "parent": {
@@ -1271,7 +1271,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008402307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008402307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008402307",
         "name": "\u00a7 71e",
         "title": "Inpfandnahme eigener Aktien",
         "parent": {
@@ -1285,7 +1285,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008501140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008501140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008501140",
         "name": "\u00a7 72",
         "title": "Kraftloserkl\u00e4rung von Aktien im Aufgebotsverfahren",
         "parent": {
@@ -1299,7 +1299,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008602140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008602140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008602140",
         "name": "\u00a7 73",
         "title": "Kraftloserkl\u00e4rung von Aktien durch die Gesellschaft",
         "parent": {
@@ -1313,7 +1313,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008700308",
         "name": "\u00a7 74",
         "title": "Neue Urkunden an Stelle besch\u00e4digter oder verunstalteter\nAktien oder Zwischenscheine",
         "parent": {
@@ -1327,7 +1327,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE008800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE008800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE008800308",
         "name": "\u00a7 75",
         "title": "Neue Gewinnanteilscheine",
         "parent": {
@@ -1341,7 +1341,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG008900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG008900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG008900308",
         "name": "Vierter Teil",
         "title": "Verfassung der Aktiengesellschaft",
         "parent": {
@@ -1352,7 +1352,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG009000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG009000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG009000308",
         "name": "Erster Abschnitt",
         "title": "Vorstand",
         "parent": {
@@ -1363,7 +1363,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009104360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009104360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009104360",
         "name": "\u00a7 76",
         "title": "Leitung der Aktiengesellschaft",
         "parent": {
@@ -1377,7 +1377,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009200308",
         "name": "\u00a7 77",
         "title": "Gesch\u00e4ftsf\u00fchrung",
         "parent": {
@@ -1391,7 +1391,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009301140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009301140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009301140",
         "name": "\u00a7 78",
         "title": "Vertretung",
         "parent": {
@@ -1405,7 +1405,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009401140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009401140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009401140",
         "name": "\u00a7 79",
         "title": "(weggefallen)",
         "parent": {
@@ -1419,7 +1419,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009504140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009504140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009504140",
         "name": "\u00a7 80",
         "title": "Angaben auf Gesch\u00e4ftsbriefen",
         "parent": {
@@ -1433,7 +1433,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009603140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009603140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009603140",
         "name": "\u00a7 81",
         "title": "\u00c4nderung des Vorstands und der Vertretungsbefugnis seiner Mitglieder",
         "parent": {
@@ -1447,7 +1447,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009700308",
         "name": "\u00a7 82",
         "title": "Beschr\u00e4nkungen der Vertretungs- und Gesch\u00e4ftsf\u00fchrungsbefugnis",
         "parent": {
@@ -1461,7 +1461,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009800308",
         "name": "\u00a7 83",
         "title": "Vorbereitung und Ausf\u00fchrung von\nHauptversammlungsbeschl\u00fcssen",
         "parent": {
@@ -1475,7 +1475,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE009901360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE009901360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE009901360",
         "name": "\u00a7 84",
         "title": "Bestellung und Abberufung des Vorstands",
         "parent": {
@@ -1489,7 +1489,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010001140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010001140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010001140",
         "name": "\u00a7 85",
         "title": "Bestellung durch das Gericht",
         "parent": {
@@ -1503,7 +1503,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010101377",
         "name": "\u00a7 86",
         "title": null,
         "parent": {
@@ -1517,7 +1517,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010203360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010203360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010203360",
         "name": "\u00a7 87",
         "title": "Grunds\u00e4tze f\u00fcr die Bez\u00fcge der Vorstandsmitglieder",
         "parent": {
@@ -1531,7 +1531,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057900360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057900360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057900360",
         "name": "\u00a7 87a",
         "title": "Verg\u00fctungssystem b\u00f6rsennotierter Gesellschaften",
         "parent": {
@@ -1545,7 +1545,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010301377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010301377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010301377",
         "name": "\u00a7 88",
         "title": "Wettbewerbsverbot",
         "parent": {
@@ -1559,7 +1559,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010402320",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010402320",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010402320",
         "name": "\u00a7 89",
         "title": "Kreditgew\u00e4hrung an Vorstandsmitglieder",
         "parent": {
@@ -1573,7 +1573,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010503123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010503123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010503123",
         "name": "\u00a7 90",
         "title": "Berichte an den Aufsichtsrat",
         "parent": {
@@ -1587,7 +1587,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010601307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010601307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010601307",
         "name": "\u00a7 91",
         "title": "Organisation. Buchf\u00fchrung",
         "parent": {
@@ -1601,7 +1601,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010702140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010702140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010702140",
         "name": "\u00a7 92",
         "title": "Vorstandspflichten bei Verlust, \u00dcberschuldung oder Zahlungsunf\u00e4higkeit",
         "parent": {
@@ -1615,7 +1615,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010809360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010809360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010809360",
         "name": "\u00a7 93",
         "title": "Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder",
         "parent": {
@@ -1629,7 +1629,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE010900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE010900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE010900308",
         "name": "\u00a7 94",
         "title": "Stellvertreter von Vorstandsmitgliedern",
         "parent": {
@@ -1643,7 +1643,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG011000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG011000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG011000308",
         "name": "Zweiter Abschnitt",
         "title": "Aufsichtsrat",
         "parent": {
@@ -1654,7 +1654,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011103123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011103123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011103123",
         "name": "\u00a7 95",
         "title": "Zahl der Aufsichtsratsmitglieder",
         "parent": {
@@ -1668,7 +1668,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011203360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011203360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011203360",
         "name": "\u00a7 96",
         "title": "Zusammensetzung des Aufsichtsrats",
         "parent": {
@@ -1682,7 +1682,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011302360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011302360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011302360",
         "name": "\u00a7 97",
         "title": "Bekanntmachung \u00fcber die Zusammensetzung des Aufsichtsrats",
         "parent": {
@@ -1696,7 +1696,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011405140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011405140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011405140",
         "name": "\u00a7 98",
         "title": "Gerichtliche Entscheidung \u00fcber die Zusammensetzung des Aufsichtsrats",
         "parent": {
@@ -1710,7 +1710,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011509301",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011509301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011509301",
         "name": "\u00a7 99",
         "title": "Verfahren",
         "parent": {
@@ -1724,7 +1724,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011607123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011607123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011607123",
         "name": "\u00a7 100",
         "title": "Pers\u00f6nliche Voraussetzungen f\u00fcr Aufsichtsratsmitglieder",
         "parent": {
@@ -1738,7 +1738,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011703140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011703140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011703140",
         "name": "\u00a7 101",
         "title": "Bestellung der Aufsichtsratsmitglieder",
         "parent": {
@@ -1752,7 +1752,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011800308",
         "name": "\u00a7 102",
         "title": "Amtszeit der Aufsichtsratsmitglieder",
         "parent": {
@@ -1766,7 +1766,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE011905140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE011905140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE011905140",
         "name": "\u00a7 103",
         "title": "Abberufung der Aufsichtsratsmitglieder",
         "parent": {
@@ -1780,7 +1780,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012005360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012005360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012005360",
         "name": "\u00a7 104",
         "title": "Bestellung durch das Gericht",
         "parent": {
@@ -1794,7 +1794,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012101140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012101140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012101140",
         "name": "\u00a7 105",
         "title": "Unvereinbarkeit der Zugeh\u00f6rigkeit zum Vorstand und zum Aufsichtsrat",
         "parent": {
@@ -1808,7 +1808,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012201377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012201377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012201377",
         "name": "\u00a7 106",
         "title": "Bekanntmachung der \u00c4nderungen im Aufsichtsrat",
         "parent": {
@@ -1822,7 +1822,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012306360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012306360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012306360",
         "name": "\u00a7 107",
         "title": "Innere Ordnung des Aufsichtsrats",
         "parent": {
@@ -1836,7 +1836,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012401311",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012401311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012401311",
         "name": "\u00a7 108",
         "title": "Beschlu\u00dffassung des Aufsichtsrats",
         "parent": {
@@ -1850,7 +1850,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012501377",
         "name": "\u00a7 109",
         "title": "Teilnahme an Sitzungen des Aufsichtsrats und seiner\nAussch\u00fcsse",
         "parent": {
@@ -1864,7 +1864,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012602377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012602377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012602377",
         "name": "\u00a7 110",
         "title": "Einberufung des Aufsichtsrats",
         "parent": {
@@ -1878,7 +1878,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012704123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012704123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012704123",
         "name": "\u00a7 111",
         "title": "Aufgaben und Rechte des Aufsichtsrats",
         "parent": {
@@ -1892,7 +1892,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058000360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058000360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058000360",
         "name": "\u00a7 111a",
         "title": "Gesch\u00e4fte mit nahestehenden Personen",
         "parent": {
@@ -1906,7 +1906,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058100360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058100360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058100360",
         "name": "\u00a7 111b",
         "title": "Zustimmungsvorbehalt des Aufsichtsrats bei Gesch\u00e4ften mit nahestehenden Personen",
         "parent": {
@@ -1920,7 +1920,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058200360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058200360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058200360",
         "name": "\u00a7 111c",
         "title": "Ver\u00f6ffentlichung von Gesch\u00e4ften mit nahestehenden Personen",
         "parent": {
@@ -1934,7 +1934,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012801140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012801140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012801140",
         "name": "\u00a7 112",
         "title": "Vertretung der Gesellschaft gegen\u00fcber Vorstandsmitgliedern",
         "parent": {
@@ -1948,7 +1948,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE012902360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE012902360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE012902360",
         "name": "\u00a7 113",
         "title": "Verg\u00fctung der Aufsichtsratsmitglieder",
         "parent": {
@@ -1962,7 +1962,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE013000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE013000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE013000308",
         "name": "\u00a7 114",
         "title": "Vertr\u00e4ge mit Aufsichtsratsmitgliedern",
         "parent": {
@@ -1976,7 +1976,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE013102320",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE013102320",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE013102320",
         "name": "\u00a7 115",
         "title": "Kreditgew\u00e4hrung an Aufsichtsratsmitglieder",
         "parent": {
@@ -1990,7 +1990,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE013202140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE013202140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE013202140",
         "name": "\u00a7 116",
         "title": "Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder",
         "parent": {
@@ -2004,7 +2004,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG013300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG013300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG013300308",
         "name": "Dritter Abschnitt",
         "title": "Benutzung des Einflusses\nauf die Gesellschaft",
         "parent": {
@@ -2015,7 +2015,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE013402377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE013402377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE013402377",
         "name": "\u00a7 117",
         "title": "Schadenersatzpflicht",
         "parent": {
@@ -2029,7 +2029,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG013500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG013500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG013500308",
         "name": "Vierter Abschnitt",
         "title": "Hauptversammlung",
         "parent": {
@@ -2040,7 +2040,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG013600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG013600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG013600308",
         "name": "Erster Unterabschnitt",
         "title": "Rechte der Hauptversammlung",
         "parent": {
@@ -2051,7 +2051,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE013703360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE013703360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE013703360",
         "name": "\u00a7 118",
         "title": "Allgemeines",
         "parent": {
@@ -2065,7 +2065,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE013803360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE013803360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE013803360",
         "name": "\u00a7 119",
         "title": "Rechte der Hauptversammlung",
         "parent": {
@@ -2079,7 +2079,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE013908360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE013908360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE013908360",
         "name": "\u00a7 120",
         "title": "Entlastung",
         "parent": {
@@ -2093,7 +2093,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058300360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058300360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058300360",
         "name": "\u00a7 120a",
         "title": "Votum zum Verg\u00fctungssystem und zum Verg\u00fctungsbericht",
         "parent": {
@@ -2107,7 +2107,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG014000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG014000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG014000308",
         "name": "Zweiter Unterabschnitt",
         "title": "Einberufung der\nHauptversammlung",
         "parent": {
@@ -2118,7 +2118,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE014107360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE014107360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE014107360",
         "name": "\u00a7 121",
         "title": "Allgemeines",
         "parent": {
@@ -2132,7 +2132,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE014208123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE014208123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE014208123",
         "name": "\u00a7 122",
         "title": "Einberufung auf Verlangen einer Minderheit",
         "parent": {
@@ -2146,7 +2146,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE014305360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE014305360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE014305360",
         "name": "\u00a7 123",
         "title": "Frist, Anmeldung zur Hauptversammlung, Nachweis",
         "parent": {
@@ -2160,7 +2160,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE014408360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE014408360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE014408360",
         "name": "\u00a7 124",
         "title": "Bekanntmachung von Erg\u00e4nzungsverlangen; Vorschl\u00e4ge zur Beschlussfassung",
         "parent": {
@@ -2174,7 +2174,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056900140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056900140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056900140",
         "name": "\u00a7 124a",
         "title": "Ver\u00f6ffentlichungen auf der Internetseite der Gesellschaft",
         "parent": {
@@ -2188,7 +2188,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE014508360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE014508360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE014508360",
         "name": "\u00a7 125",
         "title": "Mitteilungen f\u00fcr die Aktion\u00e4re und an Aufsichtsratsmitglieder",
         "parent": {
@@ -2202,7 +2202,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE014602140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE014602140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE014602140",
         "name": "\u00a7 126",
         "title": "Antr\u00e4ge von Aktion\u00e4ren",
         "parent": {
@@ -2216,7 +2216,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE014705123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE014705123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE014705123",
         "name": "\u00a7 127",
         "title": "Wahlvorschl\u00e4ge von Aktion\u00e4ren",
         "parent": {
@@ -2230,7 +2230,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056302301",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056302301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056302301",
         "name": "\u00a7 127a",
         "title": "Aktion\u00e4rsforum",
         "parent": {
@@ -2244,7 +2244,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE014811360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE014811360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE014811360",
         "name": "\u00a7 128",
         "title": "(weggefallen)",
         "parent": {
@@ -2258,7 +2258,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG014900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG014900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG014900308",
         "name": "Dritter Unterabschnitt",
         "title": "Verhandlungsniederschrift. Auskunftsrecht",
         "parent": {
@@ -2269,7 +2269,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE015056360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE015056360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE015056360",
         "name": "\u00a7 129",
         "title": "Gesch\u00e4ftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmz\u00e4hlung",
         "parent": {
@@ -2283,7 +2283,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056601123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056601123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056601123",
         "name": "\u00a7 130",
         "title": "Niederschrift",
         "parent": {
@@ -2297,7 +2297,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE015105123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE015105123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE015105123",
         "name": "\u00a7 131",
         "title": "Auskunftsrecht des Aktion\u00e4rs",
         "parent": {
@@ -2311,7 +2311,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE015203301",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE015203301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE015203301",
         "name": "\u00a7 132",
         "title": "Gerichtliche Entscheidung \u00fcber das Auskunftsrecht",
         "parent": {
@@ -2325,7 +2325,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG015300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG015300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG015300308",
         "name": "Vierter Unterabschnitt",
         "title": "Stimmrecht",
         "parent": {
@@ -2336,7 +2336,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE015400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE015400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE015400308",
         "name": "\u00a7 133",
         "title": "Grundsatz der einfachen Stimmenmehrheit",
         "parent": {
@@ -2350,7 +2350,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE015504140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE015504140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE015504140",
         "name": "\u00a7 134",
         "title": "Stimmrecht",
         "parent": {
@@ -2364,7 +2364,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058400360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058400360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058400360",
         "name": "\u00a7 134a",
         "title": "Begriffsbestimmungen; Anwendungsbereich",
         "parent": {
@@ -2378,7 +2378,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058500360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058500360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058500360",
         "name": "\u00a7 134b",
         "title": "Mitwirkungspolitik, Mitwirkungsbericht, Abstimmungsverhalten",
         "parent": {
@@ -2392,7 +2392,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058600360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058600360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058600360",
         "name": "\u00a7 134c",
         "title": "Offenlegungspflichten von institutionellen Anlegern und Verm\u00f6gensverwaltern",
         "parent": {
@@ -2406,7 +2406,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058700360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058700360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058700360",
         "name": "\u00a7 134d",
         "title": "Offenlegungspflichten der Stimmrechtsberater",
         "parent": {
@@ -2420,7 +2420,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE015609360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE015609360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE015609360",
         "name": "\u00a7 135",
         "title": "Aus\u00fcbung des Stimmrechts durch Intermedi\u00e4re und gesch\u00e4ftsm\u00e4\u00dfig Handelnde",
         "parent": {
@@ -2434,7 +2434,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE015700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE015700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE015700308",
         "name": "\u00a7 136",
         "title": "Ausschlu\u00df des Stimmrechts",
         "parent": {
@@ -2448,7 +2448,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE015800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE015800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE015800308",
         "name": "\u00a7 137",
         "title": "Abstimmung \u00fcber Wahlvorschl\u00e4ge von Aktion\u00e4ren",
         "parent": {
@@ -2462,7 +2462,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG015900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG015900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG015900308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Sonderbeschlu\u00df",
         "parent": {
@@ -2473,7 +2473,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE016000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE016000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE016000308",
         "name": "\u00a7 138",
         "title": "Gesonderte Versammlung. Gesonderte Abstimmung",
         "parent": {
@@ -2487,7 +2487,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG016100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG016100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG016100308",
         "name": "Sechster Unterabschnitt",
         "title": "Vorzugsaktien\nohne Stimmrecht",
         "parent": {
@@ -2498,7 +2498,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE016202123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE016202123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE016202123",
         "name": "\u00a7 139",
         "title": "Wesen",
         "parent": {
@@ -2512,7 +2512,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE016301123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE016301123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE016301123",
         "name": "\u00a7 140",
         "title": "Rechte der Vorzugsaktion\u00e4re",
         "parent": {
@@ -2526,7 +2526,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE016400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE016400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE016400308",
         "name": "\u00a7 141",
         "title": "Aufhebung oder Beschr\u00e4nkung des Vorzugs",
         "parent": {
@@ -2540,7 +2540,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG016500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG016500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG016500308",
         "name": "Siebenter Unterabschnitt",
         "title": "Sonderpr\u00fcfung.\nGeltendmachung von Ersatzanspr\u00fcchen",
         "parent": {
@@ -2551,7 +2551,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE016610360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE016610360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE016610360",
         "name": "\u00a7 142",
         "title": "Bestellung der Sonderpr\u00fcfer",
         "parent": {
@@ -2565,7 +2565,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE016702140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE016702140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE016702140",
         "name": "\u00a7 143",
         "title": "Auswahl der Sonderpr\u00fcfer",
         "parent": {
@@ -2579,7 +2579,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE016800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE016800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE016800308",
         "name": "\u00a7 144",
         "title": "Verantwortlichkeit der Sonderpr\u00fcfer",
         "parent": {
@@ -2593,7 +2593,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE016903140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE016903140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE016903140",
         "name": "\u00a7 145",
         "title": "Rechte der Sonderpr\u00fcfer. Pr\u00fcfungsbericht",
         "parent": {
@@ -2607,7 +2607,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE017001377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE017001377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE017001377",
         "name": "\u00a7 146",
         "title": "Kosten",
         "parent": {
@@ -2621,7 +2621,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE017105140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE017105140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE017105140",
         "name": "\u00a7 147",
         "title": "Geltendmachung von Ersatzanspr\u00fcchen",
         "parent": {
@@ -2635,7 +2635,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE017403140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE017403140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE017403140",
         "name": "\u00a7 148",
         "title": "Klagezulassungsverfahren",
         "parent": {
@@ -2649,7 +2649,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE017501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE017501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE017501377",
         "name": "\u00a7 149",
         "title": "Bekanntmachungen zur Haftungsklage",
         "parent": {
@@ -2663,7 +2663,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG017201377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG017201377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG017201377",
         "name": "F\u00fcnfter Teil",
         "title": "Rechnungslegung\nGewinnverwendung",
         "parent": {
@@ -2674,7 +2674,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG052701360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG052701360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG052701360",
         "name": "Erster Abschnitt",
         "title": "Jahresabschluss und Lagebericht; Entsprechenserkl\u00e4rung und Verg\u00fctungsbericht",
         "parent": {
@@ -2685,7 +2685,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE052600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE052600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE052600308",
         "name": "\u00a7 150",
         "title": "Gesetzliche R\u00fccklage. Kapitalr\u00fccklage",
         "parent": {
@@ -2699,7 +2699,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE017700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE017700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE017700308",
         "name": "\u00a7 150a",
         "title": "(weggefallen)",
         "parent": {
@@ -2713,7 +2713,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE017800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE017800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE017800308",
         "name": "\u00a7 151",
         "title": "(weggefallen)",
         "parent": {
@@ -2727,7 +2727,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE052703360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE052703360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE052703360",
         "name": "\u00a7 152",
         "title": "Vorschriften zur Bilanz",
         "parent": {
@@ -2741,7 +2741,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE018000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE018000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE018000308",
         "name": "(XXXX) \u00a7\u00a7 153 bis 157",
         "title": "(weggefallen)",
         "parent": {
@@ -2755,7 +2755,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE052802377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE052802377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE052802377",
         "name": "\u00a7 158",
         "title": "Vorschriften zur Gewinn- und Verlustrechnung",
         "parent": {
@@ -2769,7 +2769,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE018600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE018600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE018600308",
         "name": "\u00a7 159",
         "title": null,
         "parent": {
@@ -2783,7 +2783,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE052907123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE052907123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE052907123",
         "name": "\u00a7 160",
         "title": "Vorschriften zum Anhang",
         "parent": {
@@ -2797,7 +2797,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE018805123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE018805123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE018805123",
         "name": "\u00a7 161",
         "title": "Erkl\u00e4rung zum Corporate Governance Kodex",
         "parent": {
@@ -2811,7 +2811,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE058800360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE058800360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE058800360",
         "name": "\u00a7 162",
         "title": "Verg\u00fctungsbericht",
         "parent": {
@@ -2825,7 +2825,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG018901360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG018901360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG018901360",
         "name": "Zweiter Abschnitt",
         "title": "Pr\u00fcfung des Jahresabschlusses",
         "parent": {
@@ -2836,7 +2836,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG019001360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG019001360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG019001360",
         "name": "Erster Unterabschnitt",
         "title": "Pr\u00fcfung durch Abschlu\u00dfpr\u00fcfer",
         "parent": {
@@ -2847,7 +2847,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE019101360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE019101360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE019101360",
         "name": "(XXXX) \u00a7\u00a7 163 bis 169",
         "title": null,
         "parent": {
@@ -2861,7 +2861,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG019900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG019900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG019900308",
         "name": "Zweiter Unterabschnitt",
         "title": "Pr\u00fcfung durch\nden Aufsichtsrat",
         "parent": {
@@ -2872,7 +2872,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE020004123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE020004123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE020004123",
         "name": "\u00a7 170",
         "title": "Vorlage an den Aufsichtsrat",
         "parent": {
@@ -2886,7 +2886,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE020107123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE020107123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE020107123",
         "name": "\u00a7 171",
         "title": "Pr\u00fcfung durch den Aufsichtsrat",
         "parent": {
@@ -2900,7 +2900,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG020200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG020200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG020200308",
         "name": "Dritter Abschnitt",
         "title": "Feststellung des\nJahresabschlusses. Gewinnverwendung",
         "parent": {
@@ -2911,7 +2911,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG020300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG020300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG020300308",
         "name": "Erster Unterabschnitt",
         "title": "Feststellung\ndes Jahresabschlusses",
         "parent": {
@@ -2922,7 +2922,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE020400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE020400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE020400308",
         "name": "\u00a7 172",
         "title": "Feststellung durch Vorstand und Aufsichtsrat",
         "parent": {
@@ -2936,7 +2936,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE020501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE020501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE020501377",
         "name": "\u00a7 173",
         "title": "Feststellung durch die Hauptversammlung",
         "parent": {
@@ -2950,7 +2950,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG020600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG020600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG020600308",
         "name": "Zweiter Unterabschnitt",
         "title": "Gewinnverwendung",
         "parent": {
@@ -2961,7 +2961,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE020701377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE020701377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE020701377",
         "name": "\u00a7 174",
         "title": null,
         "parent": {
@@ -2975,7 +2975,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG020800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG020800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG020800308",
         "name": "Dritter Unterabschnitt",
         "title": "Ordentliche\nHauptversammlung",
         "parent": {
@@ -2986,7 +2986,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE020907123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE020907123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE020907123",
         "name": "\u00a7 175",
         "title": "Einberufung",
         "parent": {
@@ -3000,7 +3000,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE021005360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE021005360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE021005360",
         "name": "\u00a7 176",
         "title": "Vorlagen. Anwesenheit des Abschlu\u00dfpr\u00fcfers",
         "parent": {
@@ -3014,7 +3014,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG021100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG021100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG021100308",
         "name": "Vierter Abschnitt",
         "title": "Bekanntmachung des\nJahresabschlusses",
         "parent": {
@@ -3025,7 +3025,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE021200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE021200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE021200308",
         "name": "\u00a7 177",
         "title": null,
         "parent": {
@@ -3039,7 +3039,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE021300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE021300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE021300308",
         "name": "\u00a7 178",
         "title": null,
         "parent": {
@@ -3053,7 +3053,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG021400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG021400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG021400308",
         "name": "Sechster Teil",
         "title": "Satzungs\u00e4nderung.\nMa\u00dfnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
         "parent": {
@@ -3064,7 +3064,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG021500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG021500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG021500308",
         "name": "Erster Abschnitt",
         "title": "Satzungs\u00e4nderung",
         "parent": {
@@ -3075,7 +3075,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE021600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE021600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE021600308",
         "name": "\u00a7 179",
         "title": "Beschlu\u00df der Hauptversammlung",
         "parent": {
@@ -3089,7 +3089,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE054601140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE054601140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE054601140",
         "name": "\u00a7 179a",
         "title": "Verpflichtung zur \u00dcbertragung des ganzen Gesellschaftsverm\u00f6gens",
         "parent": {
@@ -3103,7 +3103,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE021700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE021700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE021700308",
         "name": "\u00a7 180",
         "title": "Zustimmung der betroffenen Aktion\u00e4re",
         "parent": {
@@ -3117,7 +3117,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE021802140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE021802140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE021802140",
         "name": "\u00a7 181",
         "title": "Eintragung der Satzungs\u00e4nderung",
         "parent": {
@@ -3131,7 +3131,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG021900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG021900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG021900308",
         "name": "Zweiter Abschnitt",
         "title": "Ma\u00dfnahmen der\nKapitalbeschaffung",
         "parent": {
@@ -3142,7 +3142,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG022000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG022000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG022000308",
         "name": "Erster Unterabschnitt",
         "title": "Kapitalerh\u00f6hung gegen Einlagen",
         "parent": {
@@ -3153,7 +3153,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022102307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022102307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022102307",
         "name": "\u00a7 182",
         "title": "Voraussetzungen",
         "parent": {
@@ -3167,7 +3167,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022202140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022202140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022202140",
         "name": "\u00a7 183",
         "title": "Kapitalerh\u00f6hung mit Sacheinlagen; R\u00fcckzahlung von Einlagen",
         "parent": {
@@ -3181,7 +3181,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057000140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057000140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057000140",
         "name": "\u00a7 183a",
         "title": "Kapitalerh\u00f6hung mit Sacheinlagen ohne Pr\u00fcfung",
         "parent": {
@@ -3195,7 +3195,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022301140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022301140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022301140",
         "name": "\u00a7 184",
         "title": "Anmeldung des Beschlusses",
         "parent": {
@@ -3209,7 +3209,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022401307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022401307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022401307",
         "name": "\u00a7 185",
         "title": "Zeichnung der neuen Aktien",
         "parent": {
@@ -3223,7 +3223,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022505360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022505360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022505360",
         "name": "\u00a7 186",
         "title": "Bezugsrecht",
         "parent": {
@@ -3237,7 +3237,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022600308",
         "name": "\u00a7 187",
         "title": "Zusicherung von Rechten auf den Bezug neuer\nAktien",
         "parent": {
@@ -3251,7 +3251,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022703140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022703140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022703140",
         "name": "\u00a7 188",
         "title": "Anmeldung und Eintragung der Durchf\u00fchrung",
         "parent": {
@@ -3265,7 +3265,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022800308",
         "name": "\u00a7 189",
         "title": "Wirksamwerden der Kapitalerh\u00f6hung",
         "parent": {
@@ -3279,7 +3279,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE022901377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE022901377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE022901377",
         "name": "\u00a7 190",
         "title": "(weggefallen)",
         "parent": {
@@ -3293,7 +3293,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023000308",
         "name": "\u00a7 191",
         "title": "Verbotene Ausgabe von Aktien und Zwischenscheinen",
         "parent": {
@@ -3307,7 +3307,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG023100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG023100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG023100308",
         "name": "Zweiter Unterabschnitt",
         "title": "Bedingte\nKapitalerh\u00f6hung",
         "parent": {
@@ -3318,7 +3318,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023203123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023203123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023203123",
         "name": "\u00a7 192",
         "title": "Voraussetzungen",
         "parent": {
@@ -3332,7 +3332,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023304140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023304140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023304140",
         "name": "\u00a7 193",
         "title": "Erfordernisse des Beschlusses",
         "parent": {
@@ -3346,7 +3346,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023403123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023403123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023403123",
         "name": "\u00a7 194",
         "title": "Bedingte Kapitalerh\u00f6hung mit Sacheinlagen; R\u00fcckzahlung von Einlagen",
         "parent": {
@@ -3360,7 +3360,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023503123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023503123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023503123",
         "name": "\u00a7 195",
         "title": "Anmeldung des Beschlusses",
         "parent": {
@@ -3374,7 +3374,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023602377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023602377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023602377",
         "name": "\u00a7 196",
         "title": "(weggefallen)",
         "parent": {
@@ -3388,7 +3388,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023700308",
         "name": "\u00a7 197",
         "title": "Verbotene Aktienausgabe",
         "parent": {
@@ -3402,7 +3402,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023801307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023801307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023801307",
         "name": "\u00a7 198",
         "title": "Bezugserkl\u00e4rung",
         "parent": {
@@ -3416,7 +3416,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE023901307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE023901307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE023901307",
         "name": "\u00a7 199",
         "title": "Ausgabe der Bezugsaktien",
         "parent": {
@@ -3430,7 +3430,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE024000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE024000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE024000308",
         "name": "\u00a7 200",
         "title": "Wirksamwerden der bedingten\nKapitalerh\u00f6hung",
         "parent": {
@@ -3444,7 +3444,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE024102123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE024102123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE024102123",
         "name": "\u00a7 201",
         "title": "Anmeldung der Ausgabe von Bezugsaktien",
         "parent": {
@@ -3458,7 +3458,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG024200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG024200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG024200308",
         "name": "Dritter Unterabschnitt",
         "title": "Genehmigtes\nKapital",
         "parent": {
@@ -3469,7 +3469,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE024301307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE024301307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE024301307",
         "name": "\u00a7 202",
         "title": "Voraussetzungen",
         "parent": {
@@ -3483,7 +3483,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE024400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE024400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE024400308",
         "name": "\u00a7 203",
         "title": "Ausgabe der neuen Aktien",
         "parent": {
@@ -3497,7 +3497,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE024500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE024500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE024500308",
         "name": "\u00a7 204",
         "title": "Bedingungen der Aktienausgabe",
         "parent": {
@@ -3511,7 +3511,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE024602140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE024602140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE024602140",
         "name": "\u00a7 205",
         "title": "Ausgabe gegen Sacheinlagen; R\u00fcckzahlung von Einlagen",
         "parent": {
@@ -3525,7 +3525,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE024701140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE024701140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE024701140",
         "name": "\u00a7 206",
         "title": "Vertr\u00e4ge \u00fcber Sacheinlagen vor Eintragung der Gesellschaft",
         "parent": {
@@ -3539,7 +3539,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG024800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG024800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG024800308",
         "name": "Vierter Unterabschnitt",
         "title": "Kapitalerh\u00f6hung aus\nGesellschaftsmitteln",
         "parent": {
@@ -3550,7 +3550,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE024902377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE024902377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE024902377",
         "name": "\u00a7 207",
         "title": "Voraussetzungen",
         "parent": {
@@ -3564,7 +3564,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE053000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE053000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE053000308",
         "name": "\u00a7 208",
         "title": "Umwandlungsf\u00e4higkeit von Kapital- und Gewinnr\u00fccklagen",
         "parent": {
@@ -3578,7 +3578,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025106360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025106360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025106360",
         "name": "\u00a7 209",
         "title": "Zugrunde gelegte Bilanz",
         "parent": {
@@ -3592,7 +3592,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025201377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025201377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025201377",
         "name": "\u00a7 210",
         "title": "Anmeldung und Eintragung des Beschlusses",
         "parent": {
@@ -3606,7 +3606,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025301307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025301307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025301307",
         "name": "\u00a7 211",
         "title": "Wirksamwerden der Kapitalerh\u00f6hung",
         "parent": {
@@ -3620,7 +3620,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025401307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025401307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025401307",
         "name": "\u00a7 212",
         "title": "Aus der Kapitalerh\u00f6hung Berechtigte",
         "parent": {
@@ -3634,7 +3634,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025500308",
         "name": "\u00a7 213",
         "title": "Teilrechte",
         "parent": {
@@ -3648,7 +3648,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025603360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025603360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025603360",
         "name": "\u00a7 214",
         "title": "Aufforderung an die Aktion\u00e4re",
         "parent": {
@@ -3662,7 +3662,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025701307",
         "name": "\u00a7 215",
         "title": "Eigene Aktien. Teileingezahlte Aktien",
         "parent": {
@@ -3676,7 +3676,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025801140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025801140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025801140",
         "name": "\u00a7 216",
         "title": "Wahrung der Rechte der Aktion\u00e4re und Dritter",
         "parent": {
@@ -3690,7 +3690,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE025902140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE025902140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE025902140",
         "name": "\u00a7 217",
         "title": "Beginn der Gewinnbeteiligung",
         "parent": {
@@ -3704,7 +3704,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE026001307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE026001307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE026001307",
         "name": "\u00a7 218",
         "title": "Bedingtes Kapital",
         "parent": {
@@ -3718,7 +3718,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE026100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE026100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE026100308",
         "name": "\u00a7 219",
         "title": "Verbotene Ausgabe von Aktien und Zwischenscheinen",
         "parent": {
@@ -3732,7 +3732,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE026201307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE026201307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE026201307",
         "name": "\u00a7 220",
         "title": "Wertans\u00e4tze",
         "parent": {
@@ -3746,7 +3746,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG026300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG026300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG026300308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Wandelschuldverschreibungen. Gewinnschuldverschreibungen",
         "parent": {
@@ -3757,7 +3757,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE026402123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE026402123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE026402123",
         "name": "\u00a7 221",
         "title": null,
         "parent": {
@@ -3771,7 +3771,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG026500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG026500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG026500308",
         "name": "Dritter Abschnitt",
         "title": "Ma\u00dfnahmen der\nKapitalherabsetzung",
         "parent": {
@@ -3782,7 +3782,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG026600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG026600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG026600308",
         "name": "Erster Unterabschnitt",
         "title": "Ordentliche\nKapitalherabsetzung",
         "parent": {
@@ -3793,7 +3793,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE026702307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE026702307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE026702307",
         "name": "\u00a7 222",
         "title": "Voraussetzungen",
         "parent": {
@@ -3807,7 +3807,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE026800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE026800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE026800308",
         "name": "\u00a7 223",
         "title": "Anmeldung des Beschlusses",
         "parent": {
@@ -3821,7 +3821,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE026900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE026900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE026900308",
         "name": "\u00a7 224",
         "title": "Wirksamwerden der Kapitalherabsetzung",
         "parent": {
@@ -3835,7 +3835,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE027001307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE027001307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE027001307",
         "name": "\u00a7 225",
         "title": "Gl\u00e4ubigerschutz",
         "parent": {
@@ -3849,7 +3849,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE027101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE027101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE027101377",
         "name": "\u00a7 226",
         "title": "Kraftloserkl\u00e4rung von Aktien",
         "parent": {
@@ -3863,7 +3863,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE027200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE027200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE027200308",
         "name": "\u00a7 227",
         "title": "Anmeldung der Durchf\u00fchrung",
         "parent": {
@@ -3877,7 +3877,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE027301140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE027301140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE027301140",
         "name": "\u00a7 228",
         "title": "Herabsetzung unter den Mindestnennbetrag",
         "parent": {
@@ -3891,7 +3891,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG027400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG027400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG027400308",
         "name": "Zweiter Unterabschnitt",
         "title": "Vereinfachte\nKapitalherabsetzung",
         "parent": {
@@ -3902,7 +3902,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE027500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE027500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE027500308",
         "name": "\u00a7 229",
         "title": "Voraussetzungen",
         "parent": {
@@ -3916,7 +3916,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE027600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE027600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE027600308",
         "name": "\u00a7 230",
         "title": "Verbot von Zahlungen an die Aktion\u00e4re",
         "parent": {
@@ -3930,7 +3930,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE053100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE053100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE053100308",
         "name": "\u00a7 231",
         "title": "Beschr\u00e4nkte Einstellung in die Kapitalr\u00fccklage und\nin die gesetzliche R\u00fccklage",
         "parent": {
@@ -3944,7 +3944,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE027800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE027800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE027800308",
         "name": "\u00a7 232",
         "title": "Einstellung von Betr\u00e4gen in die Kapitalr\u00fccklage bei zu\nhoch angenommenen Verlusten",
         "parent": {
@@ -3958,7 +3958,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE027902377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE027902377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE027902377",
         "name": "\u00a7 233",
         "title": "Gewinnaussch\u00fcttung. Gl\u00e4ubigerschutz",
         "parent": {
@@ -3972,7 +3972,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE028001140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE028001140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE028001140",
         "name": "\u00a7 234",
         "title": "R\u00fcckwirkung der Kapitalherabsetzung",
         "parent": {
@@ -3986,7 +3986,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE028101140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE028101140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE028101140",
         "name": "\u00a7 235",
         "title": "R\u00fcckwirkung einer gleichzeitigen Kapitalerh\u00f6hung",
         "parent": {
@@ -4000,7 +4000,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE028200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE028200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE028200308",
         "name": "\u00a7 236",
         "title": "Offenlegung",
         "parent": {
@@ -4014,7 +4014,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG028301377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG028301377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG028301377",
         "name": "Dritter Unterabschnitt",
         "title": "Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme f\u00fcr St\u00fcckaktien",
         "parent": {
@@ -4025,7 +4025,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE028404123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE028404123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE028404123",
         "name": "\u00a7 237",
         "title": "Voraussetzungen",
         "parent": {
@@ -4039,7 +4039,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE028501307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE028501307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE028501307",
         "name": "\u00a7 238",
         "title": "Wirksamwerden der Kapitalherabsetzung",
         "parent": {
@@ -4053,7 +4053,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE028600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE028600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE028600308",
         "name": "\u00a7 239",
         "title": "Anmeldung der Durchf\u00fchrung",
         "parent": {
@@ -4067,7 +4067,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG028700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG028700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG028700308",
         "name": "Vierter Unterabschnitt",
         "title": "Ausweis der\nKapitalherabsetzung",
         "parent": {
@@ -4078,7 +4078,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE028801360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE028801360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE028801360",
         "name": "\u00a7 240",
         "title": null,
         "parent": {
@@ -4092,7 +4092,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG028900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG028900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG028900308",
         "name": "Siebenter Teil",
         "title": "Nichtigkeit von\nHauptversammlungsbeschl\u00fcssen und des festgestellten\nJahresabschlusses. Sonderpr\u00fcfung wegen unzul\u00e4ssiger\nUnterbewertung",
         "parent": {
@@ -4103,7 +4103,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG029000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG029000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG029000308",
         "name": "Erster Abschnitt",
         "title": "Nichtigkeit von\nHauptversammlungsbeschl\u00fcssen",
         "parent": {
@@ -4114,7 +4114,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG029100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG029100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG029100308",
         "name": "Erster Unterabschnitt",
         "title": "Allgemeines",
         "parent": {
@@ -4125,7 +4125,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE029203140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE029203140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE029203140",
         "name": "\u00a7 241",
         "title": "Nichtigkeitsgr\u00fcnde",
         "parent": {
@@ -4139,7 +4139,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE029304140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE029304140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE029304140",
         "name": "\u00a7 242",
         "title": "Heilung der Nichtigkeit",
         "parent": {
@@ -4153,7 +4153,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE029404360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE029404360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE029404360",
         "name": "\u00a7 243",
         "title": "Anfechtungsgr\u00fcnde",
         "parent": {
@@ -4167,7 +4167,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE029500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE029500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE029500308",
         "name": "\u00a7 244",
         "title": "Best\u00e4tigung anfechtbarer Hauptversammlungsbeschl\u00fcsse*.",
         "parent": {
@@ -4181,7 +4181,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE029601377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE029601377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE029601377",
         "name": "\u00a7 245",
         "title": "Anfechtungsbefugnis",
         "parent": {
@@ -4195,7 +4195,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE029705123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE029705123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE029705123",
         "name": "\u00a7 246",
         "title": "Anfechtungsklage",
         "parent": {
@@ -4209,7 +4209,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056403360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056403360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056403360",
         "name": "\u00a7 246a",
         "title": "Freigabeverfahren",
         "parent": {
@@ -4223,7 +4223,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE029801308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE029801308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE029801308",
         "name": "\u00a7 247",
         "title": "Streitwert",
         "parent": {
@@ -4237,7 +4237,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE029900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE029900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE029900308",
         "name": "\u00a7 248",
         "title": "Urteilswirkung",
         "parent": {
@@ -4251,7 +4251,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056500377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056500377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056500377",
         "name": "\u00a7 248a",
         "title": "Bekanntmachungen zur Anfechtungsklage",
         "parent": {
@@ -4265,7 +4265,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE030003140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE030003140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE030003140",
         "name": "\u00a7 249",
         "title": "Nichtigkeitsklage",
         "parent": {
@@ -4279,7 +4279,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG030100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG030100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG030100308",
         "name": "Zweiter Unterabschnitt",
         "title": "Nichtigkeit\nbestimmter Hauptversammlungsbeschl\u00fcsse",
         "parent": {
@@ -4290,7 +4290,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE030205360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE030205360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE030205360",
         "name": "\u00a7 250",
         "title": "Nichtigkeit der Wahl von Aufsichtsratsmitgliedern",
         "parent": {
@@ -4304,7 +4304,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE030309377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE030309377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE030309377",
         "name": "\u00a7 251",
         "title": "Anfechtung der Wahl von Aufsichtsratsmitgliedern",
         "parent": {
@@ -4318,7 +4318,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE030402307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE030402307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE030402307",
         "name": "\u00a7 252",
         "title": "Urteilswirkung",
         "parent": {
@@ -4332,7 +4332,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE030500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE030500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE030500308",
         "name": "\u00a7 253",
         "title": "Nichtigkeit des Beschlusses \u00fcber die Verwendung des\nBilanzgewinns",
         "parent": {
@@ -4346,7 +4346,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE030603377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE030603377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE030603377",
         "name": "\u00a7 254",
         "title": "Anfechtung des Beschlusses \u00fcber die Verwendung des\nBilanzgewinns",
         "parent": {
@@ -4360,7 +4360,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE030701377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE030701377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE030701377",
         "name": "\u00a7 255",
         "title": "Anfechtung der Kapitalerh\u00f6hung gegen Einlagen",
         "parent": {
@@ -4374,7 +4374,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG030800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG030800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG030800308",
         "name": "Zweiter Abschnitt",
         "title": "Nichtigkeit des\nfestgestellten Jahresabschlusses",
         "parent": {
@@ -4385,7 +4385,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE030915360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE030915360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE030915360",
         "name": "\u00a7 256",
         "title": "Nichtigkeit",
         "parent": {
@@ -4399,7 +4399,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE031001377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE031001377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE031001377",
         "name": "\u00a7 257",
         "title": "Anfechtung der Feststellung des Jahresabschlusses durch die\nHauptversammlung",
         "parent": {
@@ -4413,7 +4413,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG031100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG031100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG031100308",
         "name": "Dritter Abschnitt",
         "title": "Sonderpr\u00fcfung wegen\nunzul\u00e4ssiger Unterbewertung",
         "parent": {
@@ -4424,7 +4424,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE031210360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE031210360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE031210360",
         "name": "\u00a7 258",
         "title": "Bestellung der Sonderpr\u00fcfer",
         "parent": {
@@ -4438,7 +4438,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE031301377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE031301377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE031301377",
         "name": "\u00a7 259",
         "title": "Pr\u00fcfungsbericht. Abschlie\u00dfende Feststellungen",
         "parent": {
@@ -4452,7 +4452,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE031406301",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE031406301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE031406301",
         "name": "\u00a7 260",
         "title": "Gerichtliche Entscheidung \u00fcber die abschlie\u00dfenden Feststellungen der Sonderpr\u00fcfer",
         "parent": {
@@ -4466,7 +4466,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE031502360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE031502360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE031502360",
         "name": "\u00a7 261",
         "title": "Entscheidung \u00fcber den Ertrag auf Grund h\u00f6herer Bewertung",
         "parent": {
@@ -4480,7 +4480,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056203360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056203360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056203360",
         "name": "\u00a7 261a",
         "title": "Mitteilungen an die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht",
         "parent": {
@@ -4494,7 +4494,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG031600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG031600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG031600308",
         "name": "Achter Teil",
         "title": "Aufl\u00f6sung und Nichtigerkl\u00e4rung\nder Gesellschaft",
         "parent": {
@@ -4505,7 +4505,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG031700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG031700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG031700308",
         "name": "Erster Abschnitt",
         "title": "Aufl\u00f6sung",
         "parent": {
@@ -4516,7 +4516,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG031800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG031800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG031800308",
         "name": "Erster Unterabschnitt",
         "title": "Aufl\u00f6sungsgr\u00fcnde\nund Anmeldung",
         "parent": {
@@ -4527,7 +4527,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE031902140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE031902140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE031902140",
         "name": "\u00a7 262",
         "title": "Aufl\u00f6sungsgr\u00fcnde",
         "parent": {
@@ -4541,7 +4541,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE032001307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE032001307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE032001307",
         "name": "\u00a7 263",
         "title": "Anmeldung und Eintragung der Aufl\u00f6sung",
         "parent": {
@@ -4555,7 +4555,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG032100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG032100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG032100308",
         "name": "Zweiter Unterabschnitt",
         "title": "Abwicklung",
         "parent": {
@@ -4566,7 +4566,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE032201307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE032201307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE032201307",
         "name": "\u00a7 264",
         "title": "Notwendigkeit der Abwicklung",
         "parent": {
@@ -4580,7 +4580,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE032305140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE032305140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE032305140",
         "name": "\u00a7 265",
         "title": "Abwickler",
         "parent": {
@@ -4594,7 +4594,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE032401377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE032401377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE032401377",
         "name": "\u00a7 266",
         "title": "Anmeldung der Abwickler",
         "parent": {
@@ -4608,7 +4608,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE032501140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE032501140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE032501140",
         "name": "\u00a7 267",
         "title": "Aufruf der Gl\u00e4ubiger",
         "parent": {
@@ -4622,7 +4622,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE032601307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE032601307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE032601307",
         "name": "\u00a7 268",
         "title": "Pflichten der Abwickler",
         "parent": {
@@ -4636,7 +4636,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE032700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE032700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE032700308",
         "name": "\u00a7 269",
         "title": "Vertretung durch die Abwickler",
         "parent": {
@@ -4650,7 +4650,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE053201140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE053201140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE053201140",
         "name": "\u00a7 270",
         "title": "Er\u00f6ffnungsbilanz. Jahresabschlu\u00df und Lagebericht",
         "parent": {
@@ -4664,7 +4664,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE032901307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE032901307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE032901307",
         "name": "\u00a7 271",
         "title": "Verteilung des Verm\u00f6gens",
         "parent": {
@@ -4678,7 +4678,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE033001140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE033001140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE033001140",
         "name": "\u00a7 272",
         "title": "Gl\u00e4ubigerschutz",
         "parent": {
@@ -4692,7 +4692,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE033101140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE033101140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE033101140",
         "name": "\u00a7 273",
         "title": "Schlu\u00df der Abwicklung",
         "parent": {
@@ -4706,7 +4706,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE033201307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE033201307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE033201307",
         "name": "\u00a7 274",
         "title": "Fortsetzung einer aufgel\u00f6sten Gesellschaft",
         "parent": {
@@ -4720,7 +4720,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG033300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG033300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG033300308",
         "name": "Zweiter Abschnitt",
         "title": "Nichtigerkl\u00e4rung der\nGesellschaft",
         "parent": {
@@ -4731,7 +4731,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE033402140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE033402140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE033402140",
         "name": "\u00a7 275",
         "title": "Klage auf Nichtigerkl\u00e4rung",
         "parent": {
@@ -4745,7 +4745,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE033500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE033500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE033500308",
         "name": "\u00a7 276",
         "title": "Heilung von M\u00e4ngeln",
         "parent": {
@@ -4759,7 +4759,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE033600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE033600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE033600308",
         "name": "\u00a7 277",
         "title": "Wirkung der Eintragung der Nichtigkeit",
         "parent": {
@@ -4773,7 +4773,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG033700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG033700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG033700308",
         "name": "Zweites Buch",
         "title": "Kommanditgesellschaft auf Aktien",
         "parent": null
@@ -4781,7 +4781,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE033800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE033800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE033800308",
         "name": "\u00a7 278",
         "title": "Wesen der Kommanditgesellschaft auf Aktien",
         "parent": {
@@ -4795,7 +4795,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE033901307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE033901307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE033901307",
         "name": "\u00a7 279",
         "title": "Firma",
         "parent": {
@@ -4809,7 +4809,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034002377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034002377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034002377",
         "name": "\u00a7 280",
         "title": "Feststellung der Satzung. Gr\u00fcnder",
         "parent": {
@@ -4823,7 +4823,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034101307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034101307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034101307",
         "name": "\u00a7 281",
         "title": "Inhalt der Satzung",
         "parent": {
@@ -4837,7 +4837,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034200308",
         "name": "\u00a7 282",
         "title": "Eintragung der pers\u00f6nlich haftenden Gesellschafter",
         "parent": {
@@ -4851,7 +4851,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034303123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034303123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034303123",
         "name": "\u00a7 283",
         "title": "Pers\u00f6nlich haftende Gesellschafter",
         "parent": {
@@ -4865,7 +4865,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034401377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034401377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034401377",
         "name": "\u00a7 284",
         "title": "Wettbewerbsverbot",
         "parent": {
@@ -4879,7 +4879,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034500308",
         "name": "\u00a7 285",
         "title": "Hauptversammlung",
         "parent": {
@@ -4893,7 +4893,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034603140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034603140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034603140",
         "name": "\u00a7 286",
         "title": "Jahresabschlu\u00df. Lagebericht",
         "parent": {
@@ -4907,7 +4907,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034700308",
         "name": "\u00a7 287",
         "title": "Aufsichtsrat",
         "parent": {
@@ -4921,7 +4921,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034801140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034801140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034801140",
         "name": "\u00a7 288",
         "title": "Entnahmen der pers\u00f6nlich haftenden Gesellschafter. Kreditgew\u00e4hrung",
         "parent": {
@@ -4935,7 +4935,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE034902140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE034902140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE034902140",
         "name": "\u00a7 289",
         "title": "Aufl\u00f6sung",
         "parent": {
@@ -4949,7 +4949,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE035001307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE035001307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE035001307",
         "name": "\u00a7 290",
         "title": "Abwicklung",
         "parent": {
@@ -4963,7 +4963,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG035100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG035100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG035100308",
         "name": "Drittes Buch",
         "title": "Verbundene Unternehmen",
         "parent": null
@@ -4971,7 +4971,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG035200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG035200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG035200308",
         "name": "Erster Teil",
         "title": "Unternehmensvertr\u00e4ge",
         "parent": {
@@ -4982,7 +4982,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG035300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG035300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG035300308",
         "name": "Erster Abschnitt",
         "title": "Arten von\nUnternehmensvertr\u00e4gen",
         "parent": {
@@ -4993,7 +4993,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE035401140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE035401140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE035401140",
         "name": "\u00a7 291",
         "title": "Beherrschungsvertrag. Gewinnabf\u00fchrungsvertrag",
         "parent": {
@@ -5007,7 +5007,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE035500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE035500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE035500308",
         "name": "\u00a7 292",
         "title": "Andere Unternehmensvertr\u00e4ge",
         "parent": {
@@ -5021,7 +5021,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG035600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG035600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG035600308",
         "name": "Zweiter Abschnitt",
         "title": "Abschlu\u00df, \u00c4nderung\nund Beendigung von Unternehmensvertr\u00e4gen",
         "parent": {
@@ -5032,7 +5032,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE035701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE035701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE035701307",
         "name": "\u00a7 293",
         "title": "Zustimmung der Hauptversammlung",
         "parent": {
@@ -5046,7 +5046,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE054700307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE054700307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE054700307",
         "name": "\u00a7 293a",
         "title": "Bericht \u00fcber den Unternehmensvertrag",
         "parent": {
@@ -5060,7 +5060,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE054801307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE054801307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE054801307",
         "name": "\u00a7 293b",
         "title": "Pr\u00fcfung des Unternehmensvertrags",
         "parent": {
@@ -5074,7 +5074,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE054903140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE054903140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE054903140",
         "name": "\u00a7 293c",
         "title": "Bestellung der Vertragspr\u00fcfer",
         "parent": {
@@ -5088,7 +5088,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055002140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055002140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055002140",
         "name": "\u00a7 293d",
         "title": "Auswahl, Stellung und Verantwortlichkeit der Vertragspr\u00fcfer",
         "parent": {
@@ -5102,7 +5102,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055100307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055100307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055100307",
         "name": "\u00a7 293e",
         "title": "Pr\u00fcfungsbericht",
         "parent": {
@@ -5116,7 +5116,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055201140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055201140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055201140",
         "name": "\u00a7 293f",
         "title": "Vorbereitung der Hauptversammlung",
         "parent": {
@@ -5130,7 +5130,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055301140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055301140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055301140",
         "name": "\u00a7 293g",
         "title": "Durchf\u00fchrung der Hauptversammlung",
         "parent": {
@@ -5144,7 +5144,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE035801377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE035801377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE035801377",
         "name": "\u00a7 294",
         "title": "Eintragung. Wirksamwerden",
         "parent": {
@@ -5158,7 +5158,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE035901307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE035901307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE035901307",
         "name": "\u00a7 295",
         "title": "\u00c4nderung",
         "parent": {
@@ -5172,7 +5172,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE036000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE036000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE036000308",
         "name": "\u00a7 296",
         "title": "Aufhebung",
         "parent": {
@@ -5186,7 +5186,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE036100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE036100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE036100308",
         "name": "\u00a7 297",
         "title": "K\u00fcndigung",
         "parent": {
@@ -5200,7 +5200,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE036200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE036200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE036200308",
         "name": "\u00a7 298",
         "title": "Anmeldung und Eintragung",
         "parent": {
@@ -5214,7 +5214,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE036300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE036300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE036300308",
         "name": "\u00a7 299",
         "title": "Ausschlu\u00df von Weisungen",
         "parent": {
@@ -5228,7 +5228,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG036400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG036400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG036400308",
         "name": "Dritter Abschnitt",
         "title": "Sicherung der\nGesellschaft und der Gl\u00e4ubiger",
         "parent": {
@@ -5239,7 +5239,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE036500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE036500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE036500308",
         "name": "\u00a7 300",
         "title": "Gesetzliche R\u00fccklage",
         "parent": {
@@ -5253,7 +5253,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE036601140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE036601140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE036601140",
         "name": "\u00a7 301",
         "title": "H\u00f6chstbetrag der Gewinnabf\u00fchrung",
         "parent": {
@@ -5267,7 +5267,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE036703377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE036703377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE036703377",
         "name": "\u00a7 302",
         "title": "Verlust\u00fcbernahme",
         "parent": {
@@ -5281,7 +5281,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE036802377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE036802377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE036802377",
         "name": "\u00a7 303",
         "title": "Gl\u00e4ubigerschutz",
         "parent": {
@@ -5295,7 +5295,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG036900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG036900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG036900308",
         "name": "Vierter Abschnitt",
         "title": "Sicherung der\nau\u00dfenstehenden Aktion\u00e4re bei Beherrschungs- und\nGewinnabf\u00fchrungsvertr\u00e4gen",
         "parent": {
@@ -5306,7 +5306,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE037002377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE037002377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE037002377",
         "name": "\u00a7 304",
         "title": "Angemessener Ausgleich",
         "parent": {
@@ -5320,7 +5320,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE037108360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE037108360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE037108360",
         "name": "\u00a7 305",
         "title": "Abfindung",
         "parent": {
@@ -5334,7 +5334,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE037202377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE037202377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE037202377",
         "name": "\u00a7 306",
         "title": null,
         "parent": {
@@ -5348,7 +5348,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE037300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE037300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE037300308",
         "name": "\u00a7 307",
         "title": "Vertragsbeendigung zur Sicherung\nau\u00dfenstehender Aktion\u00e4re",
         "parent": {
@@ -5362,7 +5362,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG037400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG037400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG037400308",
         "name": "Zweiter Teil",
         "title": "Leitungsmacht und\nVerantwortlichkeit bei Abh\u00e4ngigkeit von Unternehmen",
         "parent": {
@@ -5373,7 +5373,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG037500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG037500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG037500308",
         "name": "Erster Abschnitt",
         "title": "Leitungsmacht und\nVerantwortlichkeit bei Bestehen eines Beherrschungsvertrags",
         "parent": {
@@ -5384,7 +5384,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE037600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE037600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE037600308",
         "name": "\u00a7 308",
         "title": "Leitungsmacht",
         "parent": {
@@ -5398,7 +5398,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE037701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE037701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE037701307",
         "name": "\u00a7 309",
         "title": "Verantwortlichkeit der gesetzlichen Vertreter des\nherrschenden Unternehmens",
         "parent": {
@@ -5412,7 +5412,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE037800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE037800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE037800308",
         "name": "\u00a7 310",
         "title": "Verantwortlichkeit der Verwaltungsmitglieder der\nGesellschaft",
         "parent": {
@@ -5426,7 +5426,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG037900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG037900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG037900308",
         "name": "Zweiter Abschnitt",
         "title": "Verantwortlichkeit\nbei Fehlen eines Beherrschungsvertrags",
         "parent": {
@@ -5437,7 +5437,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038001360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038001360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038001360",
         "name": "\u00a7 311",
         "title": "Schranken des Einflusses",
         "parent": {
@@ -5451,7 +5451,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038100308",
         "name": "\u00a7 312",
         "title": "Bericht des Vorstands \u00fcber Beziehungen zu verbundenen\nUnternehmen",
         "parent": {
@@ -5465,7 +5465,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038201305",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038201305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038201305",
         "name": "\u00a7 313",
         "title": "Pr\u00fcfung durch den Abschlu\u00dfpr\u00fcfer",
         "parent": {
@@ -5479,7 +5479,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038302377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038302377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038302377",
         "name": "\u00a7 314",
         "title": "Pr\u00fcfung durch den Aufsichtsrat",
         "parent": {
@@ -5493,7 +5493,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038405140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038405140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038405140",
         "name": "\u00a7 315",
         "title": "Sonderpr\u00fcfung",
         "parent": {
@@ -5507,7 +5507,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038500308",
         "name": "\u00a7 316",
         "title": "Kein Bericht \u00fcber Beziehungen zu verbundenen Unternehmen\nbei Gewinnabf\u00fchrungsvertrag",
         "parent": {
@@ -5521,7 +5521,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038600308",
         "name": "\u00a7 317",
         "title": "Verantwortlichkeit des herrschenden Unternehmens und seiner\ngesetzlichen Vertreter",
         "parent": {
@@ -5535,7 +5535,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038700308",
         "name": "\u00a7 318",
         "title": "Verantwortlichkeit der Verwaltungsmitglieder der\nGesellschaft",
         "parent": {
@@ -5549,7 +5549,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG038800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG038800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG038800308",
         "name": "Dritter Teil",
         "title": "Eingegliederte Gesellschaften",
         "parent": {
@@ -5560,7 +5560,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE038903140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE038903140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE038903140",
         "name": "\u00a7 319",
         "title": "Eingliederung",
         "parent": {
@@ -5574,7 +5574,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039005140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039005140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039005140",
         "name": "\u00a7 320",
         "title": "Eingliederung durch Mehrheitsbeschlu\u00df",
         "parent": {
@@ -5588,7 +5588,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055400307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055400307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055400307",
         "name": "\u00a7 320a",
         "title": "Wirkungen der Eingliederung",
         "parent": {
@@ -5602,7 +5602,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055503140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055503140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055503140",
         "name": "\u00a7 320b",
         "title": "Abfindung der ausgeschiedenen Aktion\u00e4re",
         "parent": {
@@ -5616,7 +5616,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039101307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039101307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039101307",
         "name": "\u00a7 321",
         "title": "Gl\u00e4ubigerschutz",
         "parent": {
@@ -5630,7 +5630,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039200308",
         "name": "\u00a7 322",
         "title": "Haftung der Hauptgesellschaft",
         "parent": {
@@ -5644,7 +5644,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039300308",
         "name": "\u00a7 323",
         "title": "Leitungsmacht der Hauptgesellschaft und Verantwortlichkeit\nder Vorstandsmitglieder",
         "parent": {
@@ -5658,7 +5658,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039400308",
         "name": "\u00a7 324",
         "title": "Gesetzliche R\u00fccklage. Gewinnabf\u00fchrung. Verlust\u00fcbernahme",
         "parent": {
@@ -5672,7 +5672,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039500308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039500308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039500308",
         "name": "\u00a7 325",
         "title": null,
         "parent": {
@@ -5686,7 +5686,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039600308",
         "name": "\u00a7 326",
         "title": "Auskunftsrecht der Aktion\u00e4re der Hauptgesellschaft",
         "parent": {
@@ -5700,7 +5700,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039702377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039702377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039702377",
         "name": "\u00a7 327",
         "title": "Ende der Eingliederung",
         "parent": {
@@ -5714,7 +5714,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG052600377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG052600377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG052600377",
         "name": "Vierter Teil",
         "title": "Ausschluss von Minderheitsaktion\u00e4ren",
         "parent": {
@@ -5725,7 +5725,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055600377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055600377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055600377",
         "name": "\u00a7 327a",
         "title": "\u00dcbertragung von Aktien gegen Barabfindung",
         "parent": {
@@ -5739,7 +5739,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055702140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055702140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055702140",
         "name": "\u00a7 327b",
         "title": "Barabfindung",
         "parent": {
@@ -5753,7 +5753,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055802140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055802140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055802140",
         "name": "\u00a7 327c",
         "title": "Vorbereitung der Hauptversammlung",
         "parent": {
@@ -5767,7 +5767,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE055901140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE055901140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE055901140",
         "name": "\u00a7 327d",
         "title": "Durchf\u00fchrung der Hauptversammlung",
         "parent": {
@@ -5781,7 +5781,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056000377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056000377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056000377",
         "name": "\u00a7 327e",
         "title": "Eintragung des \u00dcbertragungsbeschlusses",
         "parent": {
@@ -5795,7 +5795,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE056101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE056101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE056101377",
         "name": "\u00a7 327f",
         "title": "Gerichtliche Nachpr\u00fcfung der Abfindung",
         "parent": {
@@ -5809,7 +5809,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG039801377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG039801377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG039801377",
         "name": "F\u00fcnfter Teil",
         "title": "Wechselseitig\nbeteiligte Unternehmen",
         "parent": {
@@ -5820,7 +5820,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE039901307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE039901307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE039901307",
         "name": "\u00a7 328",
         "title": "Beschr\u00e4nkung der Rechte",
         "parent": {
@@ -5834,7 +5834,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG040001377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG040001377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG040001377",
         "name": "Sechster Teil",
         "title": "Rechnungslegung im Konzern",
         "parent": {
@@ -5845,7 +5845,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE040100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE040100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE040100308",
         "name": "(XXXX) \u00a7\u00a7 329 bis 336",
         "title": null,
         "parent": {
@@ -5859,7 +5859,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE053302377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE053302377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE053302377",
         "name": "\u00a7 337",
         "title": null,
         "parent": {
@@ -5873,7 +5873,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE041000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE041000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE041000308",
         "name": "\u00a7 338",
         "title": null,
         "parent": {
@@ -5887,7 +5887,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG050301307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG050301307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG050301307",
         "name": "Viertes Buch",
         "title": "Sonder-, Straf- und Schlu\u00dfvorschriften",
         "parent": null
@@ -5895,7 +5895,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG050401307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG050401307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG050401307",
         "name": "Erster Teil",
         "title": "Sondervorschriften bei\nBeteiligung von Gebietsk\u00f6rperschaften",
         "parent": {
@@ -5906,7 +5906,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE050501123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE050501123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE050501123",
         "name": "\u00a7 394",
         "title": "Berichte der Aufsichtsratsmitglieder",
         "parent": {
@@ -5920,7 +5920,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE050600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE050600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE050600308",
         "name": "\u00a7 395",
         "title": "Verschwiegenheitspflicht",
         "parent": {
@@ -5934,7 +5934,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG050701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG050701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG050701307",
         "name": "Zweiter Teil",
         "title": "Gerichtliche Aufl\u00f6sung",
         "parent": {
@@ -5945,7 +5945,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE050800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE050800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE050800308",
         "name": "\u00a7 396",
         "title": "Voraussetzungen",
         "parent": {
@@ -5959,7 +5959,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE050900308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE050900308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE050900308",
         "name": "\u00a7 397",
         "title": "Anordnungen bei der Aufl\u00f6sung",
         "parent": {
@@ -5973,7 +5973,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051000308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051000308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051000308",
         "name": "\u00a7 398",
         "title": "Eintragung",
         "parent": {
@@ -5987,7 +5987,7 @@
       {
         "type": "heading",
         "id": "BJNR010890965BJNG051101307",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNG051101307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNG051101307",
         "name": "Dritter Teil",
         "title": "Straf- und\nBu\u00dfgeldvorschriften. Schlu\u00dfvorschriften",
         "parent": {
@@ -5998,7 +5998,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051205123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051205123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051205123",
         "name": "\u00a7 399",
         "title": "Falsche Angaben",
         "parent": {
@@ -6012,7 +6012,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051302360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051302360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051302360",
         "name": "\u00a7 400",
         "title": "Unrichtige Darstellung",
         "parent": {
@@ -6026,7 +6026,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051402140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051402140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051402140",
         "name": "\u00a7 401",
         "title": "Pflichtverletzung bei Verlust, \u00dcberschuldung oder Zahlungsunf\u00e4higkeit",
         "parent": {
@@ -6040,7 +6040,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051501377",
         "name": "\u00a7 402",
         "title": "Falsche Ausstellung von Berechtigungsnachweisen",
         "parent": {
@@ -6054,7 +6054,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051600308",
         "name": "\u00a7 403",
         "title": "Verletzung der Berichtspflicht",
         "parent": {
@@ -6068,7 +6068,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051701377",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051701377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051701377",
         "name": "\u00a7 404",
         "title": "Verletzung der Geheimhaltungspflicht",
         "parent": {
@@ -6082,7 +6082,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057101123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057101123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057101123",
         "name": "\u00a7 404a",
         "title": "Verletzung der Pflichten bei Abschlusspr\u00fcfungen",
         "parent": {
@@ -6096,7 +6096,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051807360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051807360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051807360",
         "name": "\u00a7 405",
         "title": "Ordnungswidrigkeiten",
         "parent": {
@@ -6110,7 +6110,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE051902140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE051902140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE051902140",
         "name": "\u00a7 406",
         "title": "(weggefallen)",
         "parent": {
@@ -6124,7 +6124,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE052007140",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE052007140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE052007140",
         "name": "\u00a7 407",
         "title": "Zwangsgelder",
         "parent": {
@@ -6138,7 +6138,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE057200123",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE057200123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE057200123",
         "name": "\u00a7 407a",
         "title": "Mitteilungen an die Abschlusspr\u00fcferaufsichtsstelle",
         "parent": {
@@ -6152,7 +6152,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE052100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE052100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE052100308",
         "name": "\u00a7 408",
         "title": "Strafbarkeit pers\u00f6nlich haftender Gesellschafter einer\nKommanditgesellschaft auf Aktien",
         "parent": {
@@ -6166,7 +6166,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE052200308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE052200308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE052200308",
         "name": "\u00a7 409",
         "title": "Geltung in Berlin",
         "parent": {
@@ -6180,7 +6180,7 @@
       {
         "type": "article",
         "id": "BJNR010890965BJNE052300308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aktg/articles/BJNR010890965BJNE052300308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aktg/articles/BJNR010890965BJNE052300308",
         "name": "\u00a7 410",
         "title": "Inkrafttreten",
         "parent": {

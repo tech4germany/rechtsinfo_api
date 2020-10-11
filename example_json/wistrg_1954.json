@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR001750954",
-    "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954",
     "firstPublished": "1954-07-09",
     "sourceTimestamp": "20200103213013",
     "titleShort": "Wirtschaftsstrafgesetz 1954",
@@ -40,7 +40,7 @@
       {
         "type": "heading",
         "id": "BJNR001750954BJNG000100322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNG000100322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNG000100322",
         "name": "Erster Abschnitt",
         "title": "Ahndung von Zuwiderhandlungen\nim Bereich des Wirtschaftsrechts",
         "parent": null
@@ -48,7 +48,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE000400322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE000400322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE000400322",
         "name": "\u00a7 1",
         "title": "Strafbare Verst\u00f6\u00dfe gegen Sicherstellungsvorschriften",
         "parent": {
@@ -62,7 +62,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE000501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE000501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE000501377",
         "name": "\u00a7 2",
         "title": "Ordnungswidrige Verst\u00f6\u00dfe gegen Sicherstellungsvorschriften",
         "parent": {
@@ -76,7 +76,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE000602377",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE000602377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE000602377",
         "name": "\u00a7 3",
         "title": "Verst\u00f6\u00dfe gegen die Preisregelung",
         "parent": {
@@ -90,7 +90,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE000701377",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE000701377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE000701377",
         "name": "\u00a7 4",
         "title": "Preis\u00fcberh\u00f6hung in einem Beruf oder Gewerbe",
         "parent": {
@@ -104,7 +104,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE000805360",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE000805360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE000805360",
         "name": "\u00a7 5",
         "title": "Mietpreis\u00fcberh\u00f6hung",
         "parent": {
@@ -118,7 +118,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE000902360",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE000902360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE000902360",
         "name": "\u00a7 6",
         "title": "Durchf\u00fchrung einer baulichen Ver\u00e4nderung in missbr\u00e4uchlicher Weise",
         "parent": {
@@ -132,7 +132,7 @@
       {
         "type": "heading",
         "id": "BJNR001750954BJNG000200322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNG000200322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNG000200322",
         "name": "Zweiter Abschnitt",
         "title": "Erg\u00e4nzende Vorschriften",
         "parent": null
@@ -140,7 +140,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001000322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001000322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001000322",
         "name": "\u00a7 7",
         "title": "Einziehung",
         "parent": {
@@ -154,7 +154,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001103123",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001103123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001103123",
         "name": "\u00a7 8",
         "title": "Abf\u00fchrung des Mehrerl\u00f6ses",
         "parent": {
@@ -168,7 +168,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001200322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001200322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001200322",
         "name": "\u00a7 9",
         "title": "R\u00fcckerstattung des Mehrerl\u00f6ses",
         "parent": {
@@ -182,7 +182,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001300322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001300322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001300322",
         "name": "\u00a7 10",
         "title": "Selbst\u00e4ndige Abf\u00fchrung des Mehrerl\u00f6ses",
         "parent": {
@@ -196,7 +196,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001401123",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001401123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001401123",
         "name": "\u00a7 11",
         "title": "Verfahren",
         "parent": {
@@ -210,7 +210,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001500322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001500322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001500322",
         "name": "\u00a7 12",
         "title": null,
         "parent": {
@@ -224,7 +224,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001600322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001600322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001600322",
         "name": "\u00a7 13",
         "title": "Besondere Vorschriften f\u00fcr das Strafverfahren",
         "parent": {
@@ -238,7 +238,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001700322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001700322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001700322",
         "name": "\u00a7 14",
         "title": null,
         "parent": {
@@ -252,7 +252,7 @@
       {
         "type": "heading",
         "id": "BJNR001750954BJNG000300322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNG000300322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNG000300322",
         "name": "Dritter Abschnitt",
         "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
         "parent": null
@@ -260,7 +260,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001800322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001800322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001800322",
         "name": "\u00a7 15",
         "title": null,
         "parent": {
@@ -274,7 +274,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE001901140",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE001901140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE001901140",
         "name": "\u00a7 16",
         "title": "Verweisungen",
         "parent": {
@@ -288,7 +288,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE002000322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE002000322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE002000322",
         "name": "\u00a7 17",
         "title": null,
         "parent": {
@@ -302,7 +302,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE002100322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE002100322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE002100322",
         "name": "\u00a7 18",
         "title": null,
         "parent": {
@@ -316,7 +316,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE002200322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE002200322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE002200322",
         "name": "\u00a7 19",
         "title": null,
         "parent": {
@@ -330,7 +330,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE002301360",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE002301360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE002301360",
         "name": "\u00a7 20",
         "title": "(weggefallen)",
         "parent": {
@@ -344,7 +344,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE002400322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE002400322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE002400322",
         "name": "\u00a7 21",
         "title": "Begriffsbestimmung",
         "parent": {
@@ -358,7 +358,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE002302360",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE002302360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE002302360",
         "name": "(XXXX) \u00a7\u00a7 21a und 22",
         "title": "(weggefallen)",
         "parent": {
@@ -372,7 +372,7 @@
       {
         "type": "article",
         "id": "BJNR001750954BJNE002700322",
-        "url": "https://api.rechtsinformationsportal.de/laws/wistrg_1954/articles/BJNR001750954BJNE002700322",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNE002700322",
         "name": "\u00a7 23",
         "title": "Inkrafttreten",
         "parent": {

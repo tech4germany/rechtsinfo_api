@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR272200005",
-    "url": "https://api.rechtsinformationsportal.de/laws/ifg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg",
     "firstPublished": "2005-09-05",
     "sourceTimestamp": "20200911213503",
     "titleShort": "Informationsfreiheitsgesetz",
@@ -32,7 +32,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000100000",
         "name": "\u00a7 1",
         "title": "Grundsatz",
         "parent": null,
@@ -43,7 +43,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000200000",
         "name": "\u00a7 2",
         "title": "Begriffsbestimmungen",
         "parent": null,
@@ -54,7 +54,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000300000",
         "name": "\u00a7 3",
         "title": "Schutz von besonderen \u00f6ffentlichen Belangen",
         "parent": null,
@@ -65,7 +65,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000400000",
         "name": "\u00a7 4",
         "title": "Schutz des beh\u00f6rdlichen Entscheidungsprozesses",
         "parent": null,
@@ -76,7 +76,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000501116",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000501116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000501116",
         "name": "\u00a7 5",
         "title": "Schutz personenbezogener Daten",
         "parent": null,
@@ -87,7 +87,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000600000",
         "name": "\u00a7 6",
         "title": "Schutz des geistigen Eigentums und von Betriebs- oder\nGesch\u00e4ftsgeheimnissen",
         "parent": null,
@@ -98,7 +98,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000700000",
         "name": "\u00a7 7",
         "title": "Antrag und Verfahren",
         "parent": null,
@@ -109,7 +109,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000800000",
         "name": "\u00a7 8",
         "title": "Verfahren bei Beteiligung Dritter",
         "parent": null,
@@ -120,7 +120,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE000900000",
         "name": "\u00a7 9",
         "title": "Ablehnung des Antrags; Rechtsweg",
         "parent": null,
@@ -131,7 +131,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE001002116",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE001002116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE001002116",
         "name": "\u00a7 10",
         "title": "Geb\u00fchren und Auslagen",
         "parent": null,
@@ -142,7 +142,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE001100000",
         "name": "\u00a7 11",
         "title": "Ver\u00f6ffentlichungspflichten",
         "parent": null,
@@ -153,7 +153,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE001201116",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE001201116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE001201116",
         "name": "\u00a7 12",
         "title": "Bundesbeauftragter f\u00fcr die Informationsfreiheit",
         "parent": null,
@@ -164,7 +164,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE001300000",
         "name": "\u00a7 13",
         "title": null,
         "parent": null,
@@ -175,7 +175,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE001400000",
         "name": "\u00a7 14",
         "title": "Bericht und Evaluierung",
         "parent": null,
@@ -186,7 +186,7 @@
       {
         "type": "article",
         "id": "BJNR272200005BJNE001500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/ifg/articles/BJNR272200005BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifg/articles/BJNR272200005BJNE001500000",
         "name": "\u00a7 15",
         "title": "Inkrafttreten",
         "parent": null,

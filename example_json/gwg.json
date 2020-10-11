@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR182210017",
-    "url": "https://api.rechtsinformationsportal.de/laws/gwg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg",
     "firstPublished": "2017-06-23",
     "sourceTimestamp": "20200714212517",
     "titleShort": "Geldw\u00e4schegesetz",
@@ -42,7 +42,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000101311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000101311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000101311",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -53,7 +53,7 @@
       {
         "type": "heading",
         "id": "BJNR182210017BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Begriffsbestimmungen und Verpflichtete",
         "parent": null
@@ -61,7 +61,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000201311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000201311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000201311",
         "name": "\u00a7 1",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -75,7 +75,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000302311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000302311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000302311",
         "name": "\u00a7 2",
         "title": "Verpflichtete, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -89,7 +89,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000402311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000402311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000402311",
         "name": "\u00a7 3",
         "title": "Wirtschaftlich Berechtigter",
         "parent": {
@@ -103,7 +103,7 @@
       {
         "type": "heading",
         "id": "BJNR182210017BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Risikomanagement",
         "parent": null
@@ -111,7 +111,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000501311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000501311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000501311",
         "name": "\u00a7 4",
         "title": "Risikomanagement",
         "parent": {
@@ -125,7 +125,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000600000",
         "name": "\u00a7 5",
         "title": "Risikoanalyse",
         "parent": {
@@ -139,7 +139,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000701311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000701311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000701311",
         "name": "\u00a7 6",
         "title": "Interne Sicherungsma\u00dfnahmen",
         "parent": {
@@ -153,7 +153,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000801311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000801311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000801311",
         "name": "\u00a7 7",
         "title": "Geldw\u00e4schebeauftragter",
         "parent": {
@@ -167,7 +167,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE000901311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE000901311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE000901311",
         "name": "\u00a7 8",
         "title": "Aufzeichnungs- und Aufbewahrungspflicht",
         "parent": {
@@ -181,7 +181,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001001311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001001311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001001311",
         "name": "\u00a7 9",
         "title": "Gruppenweite Pflichten",
         "parent": {
@@ -195,7 +195,7 @@
       {
         "type": "heading",
         "id": "BJNR182210017BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Sorgfaltspflichten in Bezug auf Kunden",
         "parent": null
@@ -203,7 +203,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001101311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001101311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001101311",
         "name": "\u00a7 10",
         "title": "Allgemeine Sorgfaltspflichten",
         "parent": {
@@ -217,7 +217,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001201311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001201311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001201311",
         "name": "\u00a7 11",
         "title": "Identifizierung",
         "parent": {
@@ -231,7 +231,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE006300311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE006300311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE006300311",
         "name": "\u00a7 11a",
         "title": "Verarbeitung personenbezogener Daten durch Verpflichtete",
         "parent": {
@@ -245,7 +245,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001304128",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001304128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001304128",
         "name": "\u00a7 12",
         "title": "Identit\u00e4ts\u00fcberpr\u00fcfung, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -259,7 +259,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001401128",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001401128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001401128",
         "name": "\u00a7 13",
         "title": "Verfahren zur Identit\u00e4ts\u00fcberpr\u00fcfung, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -273,7 +273,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001501128",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001501128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001501128",
         "name": "\u00a7 14",
         "title": "Vereinfachte Sorgfaltspflichten, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -287,7 +287,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001601311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001601311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001601311",
         "name": "\u00a7 15",
         "title": "Verst\u00e4rkte Sorgfaltspflichten, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -301,7 +301,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001701311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001701311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001701311",
         "name": "\u00a7 16",
         "title": "Besondere Vorschriften f\u00fcr das Gl\u00fccksspiel im Internet",
         "parent": {
@@ -315,7 +315,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001801311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001801311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001801311",
         "name": "\u00a7 17",
         "title": "Ausf\u00fchrung der Sorgfaltspflichten durch Dritte, vertragliche Auslagerung",
         "parent": {
@@ -329,7 +329,7 @@
       {
         "type": "heading",
         "id": "BJNR182210017BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Transparenzregister",
         "parent": null
@@ -337,7 +337,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE001901311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE001901311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE001901311",
         "name": "\u00a7 18",
         "title": "Einrichtung des Transparenzregisters und registerf\u00fchrende Stelle",
         "parent": {
@@ -351,7 +351,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002001311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002001311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002001311",
         "name": "\u00a7 19",
         "title": "Angaben zum wirtschaftlich Berechtigten",
         "parent": {
@@ -365,7 +365,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002102311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002102311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002102311",
         "name": "\u00a7 20",
         "title": "Transparenzpflichten im Hinblick auf bestimmte Vereinigungen",
         "parent": {
@@ -379,7 +379,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002201311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002201311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002201311",
         "name": "\u00a7 21",
         "title": "Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen",
         "parent": {
@@ -393,7 +393,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002301124",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002301124",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002301124",
         "name": "\u00a7 22",
         "title": "Zug\u00e4ngliche Dokumente und Daten\u00fcbermittlung an das Transparenzregister, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -407,7 +407,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002402311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002402311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002402311",
         "name": "\u00a7 23",
         "title": "Einsichtnahme in das Transparenzregister, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -421,7 +421,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE006400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE006400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE006400311",
         "name": "\u00a7 23a",
         "title": "Meldung von Unstimmigkeiten an die registerf\u00fchrende Stelle",
         "parent": {
@@ -435,7 +435,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002501311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002501311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002501311",
         "name": "\u00a7 24",
         "title": "Geb\u00fchren und Auslagen, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -449,7 +449,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002600000",
         "name": "\u00a7 25",
         "title": "\u00dcbertragung der F\u00fchrung des Transparenzregisters, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -463,7 +463,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002701311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002701311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002701311",
         "name": "\u00a7 26",
         "title": "Europ\u00e4isches System der Registervernetzung, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -477,7 +477,7 @@
       {
         "type": "heading",
         "id": "BJNR182210017BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Zentralstelle f\u00fcr Finanztransaktionsuntersuchungen",
         "parent": null
@@ -485,7 +485,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002800000",
         "name": "\u00a7 27",
         "title": "Zentrale Meldestelle",
         "parent": {
@@ -499,7 +499,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE002901311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE002901311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE002901311",
         "name": "\u00a7 28",
         "title": "Aufgaben, Aufsicht und Zusammenarbeit",
         "parent": {
@@ -513,7 +513,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003001311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003001311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003001311",
         "name": "\u00a7 29",
         "title": "Verarbeitung personenbezogener Daten durch die Zentralstelle f\u00fcr Finanztransaktionsuntersuchungen",
         "parent": {
@@ -527,7 +527,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003100000",
         "name": "\u00a7 30",
         "title": "Entgegennahme und Analyse von Meldungen",
         "parent": {
@@ -541,7 +541,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003203128",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003203128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003203128",
         "name": "\u00a7 31",
         "title": "Auskunftsrecht gegen\u00fcber inl\u00e4ndischen \u00f6ffentlichen Stellen, Datenzugriffsrecht",
         "parent": {
@@ -555,7 +555,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003300000",
         "name": "\u00a7 32",
         "title": "Daten\u00fcbermittlungsverpflichtung an inl\u00e4ndische \u00f6ffentliche Stellen",
         "parent": {
@@ -569,7 +569,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003401311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003401311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003401311",
         "name": "\u00a7 33",
         "title": "Datenaustausch mit Mitgliedstaaten der Europ\u00e4ischen Union",
         "parent": {
@@ -583,7 +583,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003500000",
         "name": "\u00a7 34",
         "title": "Informationsersuchen im Rahmen der internationalen Zusammenarbeit",
         "parent": {
@@ -597,7 +597,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003601311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003601311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003601311",
         "name": "\u00a7 35",
         "title": "Daten\u00fcbermittlung im Rahmen der internationalen Zusammenarbeit",
         "parent": {
@@ -611,7 +611,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003700000",
         "name": "\u00a7 36",
         "title": "Automatisierter Datenabgleich im europ\u00e4ischen Verbund",
         "parent": {
@@ -625,7 +625,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003800000",
         "name": "\u00a7 37",
         "title": "Berichtigung, Einschr\u00e4nkung der Verarbeitung und L\u00f6schung personenbezogener Daten aus automatisierter Verarbeitung und bei Speicherung in automatisierten Dateien",
         "parent": {
@@ -639,7 +639,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE003900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE003900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE003900000",
         "name": "\u00a7 38",
         "title": "Berichtigung, Einschr\u00e4nkung der Verarbeitung und Vernichtung personenbezogener Daten, die weder automatisiert verarbeitet werden noch in einer automatisierten Datei gespeichert sind",
         "parent": {
@@ -653,7 +653,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004000000",
         "name": "\u00a7 39",
         "title": "Errichtungsanordnung",
         "parent": {
@@ -667,7 +667,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004101311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004101311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004101311",
         "name": "\u00a7 40",
         "title": "Sofortma\u00dfnahmen",
         "parent": {
@@ -681,7 +681,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004200000",
         "name": "\u00a7 41",
         "title": "R\u00fcckmeldung an den meldenden Verpflichteten",
         "parent": {
@@ -695,7 +695,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004301311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004301311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004301311",
         "name": "\u00a7 42",
         "title": "Benachrichtigung von inl\u00e4ndischen \u00f6ffentlichen Stellen an die Zentralstelle f\u00fcr Finanztransaktionsuntersuchungen",
         "parent": {
@@ -709,7 +709,7 @@
       {
         "type": "heading",
         "id": "BJNR182210017BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000600000",
         "name": "Abschnitt 6",
         "title": "Pflichten im Zusammenhang mit Meldungen von Sachverhalten",
         "parent": null
@@ -717,7 +717,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004401311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004401311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004401311",
         "name": "\u00a7 43",
         "title": "Meldepflicht von Verpflichteten, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -731,7 +731,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004500000",
         "name": "\u00a7 44",
         "title": "Meldepflicht von Aufsichtsbeh\u00f6rden",
         "parent": {
@@ -745,7 +745,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004601311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004601311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004601311",
         "name": "\u00a7 45",
         "title": "Form der Meldung, Registrierungspflicht, Ausf\u00fchrung durch Dritte, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -759,7 +759,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004700000",
         "name": "\u00a7 46",
         "title": "Durchf\u00fchrung von Transaktionen",
         "parent": {
@@ -773,7 +773,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004802128",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004802128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004802128",
         "name": "\u00a7 47",
         "title": "Verbot der Informationsweitergabe, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -787,7 +787,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE004900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE004900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE004900000",
         "name": "\u00a7 48",
         "title": "Freistellung von der Verantwortlichkeit",
         "parent": {
@@ -801,7 +801,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005001311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005001311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005001311",
         "name": "\u00a7 49",
         "title": "Informationszugang und Schutz der meldenden Besch\u00e4ftigten",
         "parent": {
@@ -815,7 +815,7 @@
       {
         "type": "heading",
         "id": "BJNR182210017BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000700000",
         "name": "Abschnitt 7",
         "title": "Aufsicht, Zusammenarbeit, Bu\u00dfgeldvorschriften, Datenschutz",
         "parent": null
@@ -823,7 +823,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005101311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005101311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005101311",
         "name": "\u00a7 50",
         "title": "Zust\u00e4ndige Aufsichtsbeh\u00f6rde",
         "parent": {
@@ -837,7 +837,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005201311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005201311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005201311",
         "name": "\u00a7 51",
         "title": "Aufsicht",
         "parent": {
@@ -851,7 +851,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE006600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE006600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE006600311",
         "name": "\u00a7 51a",
         "title": "Verarbeitung personenbezogener Daten durch Aufsichtsbeh\u00f6rden",
         "parent": {
@@ -865,7 +865,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005301311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005301311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005301311",
         "name": "\u00a7 52",
         "title": "Mitwirkungspflichten",
         "parent": {
@@ -879,7 +879,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005401311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005401311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005401311",
         "name": "\u00a7 53",
         "title": "Hinweise auf Verst\u00f6\u00dfe",
         "parent": {
@@ -893,7 +893,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005501311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005501311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005501311",
         "name": "\u00a7 54",
         "title": "Verschwiegenheitspflicht",
         "parent": {
@@ -907,7 +907,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005601311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005601311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005601311",
         "name": "\u00a7 55",
         "title": "Zusammenarbeit mit anderen Beh\u00f6rden",
         "parent": {
@@ -921,7 +921,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005701311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005701311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005701311",
         "name": "\u00a7 56",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -935,7 +935,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005801311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005801311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005801311",
         "name": "\u00a7 57",
         "title": "Bekanntmachung von bestandskr\u00e4ftigen Ma\u00dfnahmen und von unanfechtbaren Bu\u00dfgeldentscheidungen",
         "parent": {
@@ -949,7 +949,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE005901311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE005901311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE005901311",
         "name": "\u00a7 58",
         "title": "(weggefallen)",
         "parent": {
@@ -963,7 +963,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE006001311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE006001311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE006001311",
         "name": "\u00a7 59",
         "title": "\u00dcbergangsregelung",
         "parent": {
@@ -977,7 +977,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE006101311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE006101311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE006101311",
         "name": "Anlage 1",
         "title": "(zu den \u00a7\u00a7 5, 10, 14, 15)<BR/>Faktoren f\u00fcr ein potenziell geringeres Risiko",
         "parent": {
@@ -991,7 +991,7 @@
       {
         "type": "article",
         "id": "BJNR182210017BJNE006201311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gwg/articles/BJNR182210017BJNE006201311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNE006201311",
         "name": "Anlage 2",
         "title": "(zu den \u00a7\u00a7 5, 10, 14, 15)<BR/>Faktoren f\u00fcr ein potenziell h\u00f6heres Risiko",
         "parent": {

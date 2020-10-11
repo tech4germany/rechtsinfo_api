@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR025810005",
-    "url": "https://api.rechtsinformationsportal.de/laws/bartschv",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv",
     "firstPublished": "2005-02-16",
     "sourceTimestamp": "20200910212502",
     "titleShort": "Bundesartenschutzverordnung",
@@ -34,7 +34,7 @@
       {
         "type": "heading",
         "id": "BJNR025810005BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Unterschutzstellung, Ausnahmen und Verbote",
         "parent": null
@@ -42,7 +42,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000100000",
         "name": "\u00a7 1",
         "title": "Besonders gesch\u00fctzte und streng gesch\u00fctzte Tier- und Pflanzenarten",
         "parent": {
@@ -56,7 +56,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000202377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000202377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000202377",
         "name": "\u00a7 2",
         "title": "Ausnahmen",
         "parent": {
@@ -70,7 +70,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000301377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000301377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000301377",
         "name": "\u00a7 3",
         "title": "Verbote f\u00fcr nicht besonders gesch\u00fctzte Tierarten",
         "parent": {
@@ -84,7 +84,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000402377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000402377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000402377",
         "name": "\u00a7 4",
         "title": "Verbotene Handlungen, Verfahren und Ger\u00e4te",
         "parent": {
@@ -98,7 +98,7 @@
       {
         "type": "heading",
         "id": "BJNR025810005BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Teile und Erzeugnisse, Aufzeichnungspflichten",
         "parent": null
@@ -106,7 +106,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000501377",
         "name": "\u00a7 5",
         "title": "Teile und Erzeugnisse",
         "parent": {
@@ -120,7 +120,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000601377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000601377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000601377",
         "name": "\u00a7 6",
         "title": "Aufnahme- und Auslieferungsbuch",
         "parent": {
@@ -134,7 +134,7 @@
       {
         "type": "heading",
         "id": "BJNR025810005BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Haltung und Zucht, Anzeigepflichten",
         "parent": null
@@ -142,7 +142,7 @@
       {
         "type": "heading",
         "id": "BJNR025810005BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000400000",
         "name": "Unterabschnitt 1",
         "title": "Haltung und Anzeigepflichten",
         "parent": {
@@ -153,7 +153,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000700000",
         "name": "\u00a7 7",
         "title": "Haltung von Wirbeltieren",
         "parent": {
@@ -167,7 +167,7 @@
       {
         "type": "heading",
         "id": "BJNR025810005BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000500000",
         "name": "Unterabschnitt 2",
         "title": "Zucht und Haltung von Greifvogelhybriden",
         "parent": {
@@ -178,7 +178,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000800000",
         "name": "\u00a7 8",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -192,7 +192,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE000900000",
         "name": "\u00a7 9",
         "title": "Zuchtverbot",
         "parent": {
@@ -206,7 +206,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001000000",
         "name": "\u00a7 10",
         "title": "Haltungsverbot",
         "parent": {
@@ -220,7 +220,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001100000",
         "name": "\u00a7 11",
         "title": "Flugverbot, Entweichen",
         "parent": {
@@ -234,7 +234,7 @@
       {
         "type": "heading",
         "id": "BJNR025810005BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000600000",
         "name": "Abschnitt 4",
         "title": "Kennzeichnung",
         "parent": null
@@ -242,7 +242,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001201377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001201377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001201377",
         "name": "\u00a7 12",
         "title": "Kennzeichnungspflicht",
         "parent": {
@@ -256,7 +256,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001300000",
         "name": "\u00a7 13",
         "title": "Kennzeichnungsmethoden",
         "parent": {
@@ -270,7 +270,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001400000",
         "name": "\u00a7 14",
         "title": "Ausnahmen von der Kennzeichnungspflicht",
         "parent": {
@@ -284,7 +284,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001501377",
         "name": "\u00a7 15",
         "title": "Ausgabe von Kennzeichen",
         "parent": {
@@ -298,7 +298,7 @@
       {
         "type": "heading",
         "id": "BJNR025810005BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000700000",
         "name": "Abschnitt 5",
         "title": "Ordnungswidrigkeiten",
         "parent": null
@@ -306,7 +306,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001601377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001601377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001601377",
         "name": "\u00a7 16",
         "title": "Ordnungswidrigkeiten",
         "parent": {
@@ -320,7 +320,7 @@
       {
         "type": "heading",
         "id": "BJNR025810005BJNG000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000800000",
         "name": "Abschnitt 6",
         "title": "L\u00e4ndervorbehalt",
         "parent": null
@@ -328,7 +328,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001700000",
         "name": "\u00a7 17",
         "title": "L\u00e4ndervorbehalt",
         "parent": {
@@ -342,7 +342,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001801377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001801377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001801377",
         "name": "Anlage 1",
         "title": "(zu \u00a7 1)<BR/>Schutzstatus wild lebender Tier- und Pflanzenarten *)<BR/>Erl\u00e4uterungen zur Anlage 1",
         "parent": {
@@ -356,7 +356,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE001901377",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE001901377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE001901377",
         "name": "Anlage 2",
         "title": "(zu \u00a7 2 Abs. 3 Nr. 2)<BR/>Liste der Tier- und Pflanzenarten, die als gez\u00fcchtete Tiere oder k\u00fcnstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des \u00a7 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der \u00a7\u00a7 6, 7 und 12 freigestellt sind",
         "parent": {
@@ -370,7 +370,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE002000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE002000000",
         "name": "Anlage 3",
         "title": "(zu \u00a7 5 Nr. 2)\n<BR/>\nOhne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender\nArten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse",
         "parent": {
@@ -384,7 +384,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE002100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE002100000",
         "name": "Anlage 4",
         "title": "(zu \u00a7 6 Abs. 1 Satz 2)\n<BR/>\nMuster f\u00fcr das Aufnahme- und Auslieferungsbuch\n<BR/>\nnach \u00a7 6 Abs. 1 Satz 2",
         "parent": {
@@ -398,7 +398,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE002200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE002200000",
         "name": "Anlage 5",
         "title": "(zu \u00a7 7 Abs. 2)\n<BR/>\nVon der Anzeigepflicht des \u00a7 7 Abs. 2 ausgenommene Arten",
         "parent": {
@@ -412,7 +412,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE002300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE002300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE002300000",
         "name": "Anlage 6",
         "title": "(zu \u00a7 12 Satz 1 und\n<BR/>\n\u00a7 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2)\nKennzeichnungsmethoden",
         "parent": {
@@ -426,7 +426,7 @@
       {
         "type": "article",
         "id": "BJNR025810005BJNE002400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bartschv/articles/BJNR025810005BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNE002400000",
         "name": "Anlage 7",
         "title": "(zu \u00a7 15 Abs. 3 Satz 1)\n<BR/>\nAnforderungen an die Beschriftung von Ringen",
         "parent": {

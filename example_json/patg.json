@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR201170936",
-    "url": "https://api.rechtsinformationsportal.de/laws/patg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/patg",
     "firstPublished": "1936-05-05",
     "sourceTimestamp": "20180524213042",
     "titleShort": null,
@@ -36,7 +36,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE001809360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE001809360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE001809360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -47,7 +47,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000100311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000100311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000100311",
         "name": "Erster Abschnitt",
         "title": "Das Patent",
         "parent": null
@@ -55,7 +55,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE001902377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE001902377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE001902377",
         "name": "\u00a7 1",
         "title": null,
         "parent": {
@@ -69,7 +69,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017400377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017400377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017400377",
         "name": "\u00a7 1a",
         "title": null,
         "parent": {
@@ -83,7 +83,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002003377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002003377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002003377",
         "name": "\u00a7 2",
         "title": null,
         "parent": {
@@ -97,7 +97,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017502360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017502360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017502360",
         "name": "\u00a7 2a",
         "title": null,
         "parent": {
@@ -111,7 +111,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002104301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002104301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002104301",
         "name": "\u00a7 3",
         "title": null,
         "parent": {
@@ -125,7 +125,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002200311",
         "name": "\u00a7 4",
         "title": null,
         "parent": {
@@ -139,7 +139,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002301377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002301377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002301377",
         "name": "\u00a7 5",
         "title": null,
         "parent": {
@@ -153,7 +153,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002400311",
         "name": "\u00a7 6",
         "title": null,
         "parent": {
@@ -167,7 +167,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002500311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002500311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002500311",
         "name": "\u00a7 7",
         "title": null,
         "parent": {
@@ -181,7 +181,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002600311",
         "name": "\u00a7 8",
         "title": null,
         "parent": {
@@ -195,7 +195,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002701377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002701377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002701377",
         "name": "\u00a7 9",
         "title": null,
         "parent": {
@@ -209,7 +209,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017600377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017600377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017600377",
         "name": "\u00a7 9a",
         "title": null,
         "parent": {
@@ -223,7 +223,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017700377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017700377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017700377",
         "name": "\u00a7 9b",
         "title": null,
         "parent": {
@@ -237,7 +237,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017800377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017800377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017800377",
         "name": "\u00a7 9c",
         "title": null,
         "parent": {
@@ -251,7 +251,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002800311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002800311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002800311",
         "name": "\u00a7 10",
         "title": null,
         "parent": {
@@ -265,7 +265,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE002902377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE002902377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE002902377",
         "name": "\u00a7 11",
         "title": null,
         "parent": {
@@ -279,7 +279,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003000311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003000311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003000311",
         "name": "\u00a7 12",
         "title": null,
         "parent": {
@@ -293,7 +293,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003101377",
         "name": "\u00a7 13",
         "title": null,
         "parent": {
@@ -307,7 +307,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003201377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003201377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003201377",
         "name": "\u00a7 14",
         "title": null,
         "parent": {
@@ -321,7 +321,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003301309",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003301309",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003301309",
         "name": "\u00a7 15",
         "title": null,
         "parent": {
@@ -335,7 +335,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003402360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003402360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003402360",
         "name": "\u00a7 16",
         "title": null,
         "parent": {
@@ -349,7 +349,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016809360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016809360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016809360",
         "name": "\u00a7 16a",
         "title": null,
         "parent": {
@@ -363,7 +363,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003503360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003503360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003503360",
         "name": "\u00a7 17",
         "title": null,
         "parent": {
@@ -377,7 +377,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003601377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003601377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003601377",
         "name": "(XXXX) \u00a7\u00a7 18 und 19",
         "title": "(weggefallen)",
         "parent": {
@@ -391,7 +391,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003802360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003802360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003802360",
         "name": "\u00a7 20",
         "title": null,
         "parent": {
@@ -405,7 +405,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE003901301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE003901301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE003901301",
         "name": "\u00a7 21",
         "title": null,
         "parent": {
@@ -419,7 +419,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004001377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004001377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004001377",
         "name": "\u00a7 22",
         "title": null,
         "parent": {
@@ -433,7 +433,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004104360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004104360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004104360",
         "name": "\u00a7 23",
         "title": null,
         "parent": {
@@ -447,7 +447,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004202377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004202377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004202377",
         "name": "\u00a7 24",
         "title": null,
         "parent": {
@@ -461,7 +461,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004303123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004303123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004303123",
         "name": "\u00a7 25",
         "title": null,
         "parent": {
@@ -475,7 +475,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000200311",
         "name": "Zweiter Abschnitt",
         "title": "Patentamt",
         "parent": null
@@ -483,7 +483,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004403301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004403301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004403301",
         "name": "\u00a7 26",
         "title": null,
         "parent": {
@@ -497,7 +497,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004505301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004505301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004505301",
         "name": "\u00a7 27",
         "title": null,
         "parent": {
@@ -511,7 +511,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004603301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004603301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004603301",
         "name": "\u00a7 28",
         "title": null,
         "parent": {
@@ -525,7 +525,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004702301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004702301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004702301",
         "name": "\u00a7 29",
         "title": null,
         "parent": {
@@ -539,7 +539,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE019000123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE019000123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE019000123",
         "name": "\u00a7 29a",
         "title": null,
         "parent": {
@@ -553,7 +553,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004804140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004804140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004804140",
         "name": "\u00a7 30",
         "title": null,
         "parent": {
@@ -567,7 +567,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE004908123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE004908123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE004908123",
         "name": "\u00a7 31",
         "title": null,
         "parent": {
@@ -581,7 +581,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018900123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018900123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018900123",
         "name": "\u00a7 31a",
         "title": "Datenschutz",
         "parent": {
@@ -595,7 +595,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005005360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005005360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005005360",
         "name": "\u00a7 32",
         "title": null,
         "parent": {
@@ -609,7 +609,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005101377",
         "name": "\u00a7 33",
         "title": null,
         "parent": {
@@ -623,7 +623,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000301307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000301307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000301307",
         "name": "Dritter Abschnitt",
         "title": "Verfahren vor dem Patentamt",
         "parent": null
@@ -631,7 +631,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005203301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005203301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005203301",
         "name": "\u00a7 34",
         "title": null,
         "parent": {
@@ -645,7 +645,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017901119",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017901119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017901119",
         "name": "\u00a7 34a",
         "title": null,
         "parent": {
@@ -659,7 +659,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005303301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005303301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005303301",
         "name": "\u00a7 35",
         "title": null,
         "parent": {
@@ -673,7 +673,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018801123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018801123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018801123",
         "name": "\u00a7 35a",
         "title": null,
         "parent": {
@@ -687,7 +687,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005401307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005401307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005401307",
         "name": "\u00a7 36",
         "title": null,
         "parent": {
@@ -701,7 +701,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005502360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005502360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005502360",
         "name": "\u00a7 37",
         "title": null,
         "parent": {
@@ -715,7 +715,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005600311",
         "name": "\u00a7 38",
         "title": null,
         "parent": {
@@ -729,7 +729,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005704360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005704360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005704360",
         "name": "\u00a7 39",
         "title": null,
         "parent": {
@@ -743,7 +743,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005802307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005802307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005802307",
         "name": "\u00a7 40",
         "title": null,
         "parent": {
@@ -757,7 +757,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE005903301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE005903301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE005903301",
         "name": "\u00a7 41",
         "title": null,
         "parent": {
@@ -771,7 +771,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006003360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006003360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006003360",
         "name": "\u00a7 42",
         "title": null,
         "parent": {
@@ -785,7 +785,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006103301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006103301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006103301",
         "name": "\u00a7 43",
         "title": null,
         "parent": {
@@ -799,7 +799,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006204360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006204360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006204360",
         "name": "\u00a7 44",
         "title": null,
         "parent": {
@@ -813,7 +813,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006301307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006301307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006301307",
         "name": "\u00a7 45",
         "title": null,
         "parent": {
@@ -827,7 +827,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006401360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006401360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006401360",
         "name": "\u00a7 46",
         "title": null,
         "parent": {
@@ -841,7 +841,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006502123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006502123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006502123",
         "name": "\u00a7 47",
         "title": null,
         "parent": {
@@ -855,7 +855,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006601307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006601307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006601307",
         "name": "\u00a7 48",
         "title": null,
         "parent": {
@@ -869,7 +869,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006701307",
         "name": "\u00a7 49",
         "title": null,
         "parent": {
@@ -883,7 +883,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016904140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016904140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016904140",
         "name": "\u00a7 49a",
         "title": null,
         "parent": {
@@ -897,7 +897,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006800311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006800311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006800311",
         "name": "\u00a7 50",
         "title": null,
         "parent": {
@@ -911,7 +911,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE006900311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE006900311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE006900311",
         "name": "\u00a7 51",
         "title": null,
         "parent": {
@@ -925,7 +925,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007000311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007000311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007000311",
         "name": "\u00a7 52",
         "title": null,
         "parent": {
@@ -939,7 +939,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007100311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007100311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007100311",
         "name": "\u00a7 53",
         "title": null,
         "parent": {
@@ -953,7 +953,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007201377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007201377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007201377",
         "name": "\u00a7 54",
         "title": null,
         "parent": {
@@ -967,7 +967,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007300311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007300311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007300311",
         "name": "\u00a7 55",
         "title": null,
         "parent": {
@@ -981,7 +981,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007400311",
         "name": "\u00a7 56",
         "title": null,
         "parent": {
@@ -995,7 +995,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007501377",
         "name": "\u00a7 57",
         "title": null,
         "parent": {
@@ -1009,7 +1009,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007601377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007601377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007601377",
         "name": "\u00a7 58",
         "title": null,
         "parent": {
@@ -1023,7 +1023,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007703123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007703123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007703123",
         "name": "\u00a7 59",
         "title": null,
         "parent": {
@@ -1037,7 +1037,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007801301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007801301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007801301",
         "name": "\u00a7 60",
         "title": null,
         "parent": {
@@ -1051,7 +1051,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE007901301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE007901301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE007901301",
         "name": "\u00a7 61",
         "title": null,
         "parent": {
@@ -1065,7 +1065,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008003301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008003301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008003301",
         "name": "\u00a7 62",
         "title": null,
         "parent": {
@@ -1079,7 +1079,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008102301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008102301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008102301",
         "name": "\u00a7 63",
         "title": null,
         "parent": {
@@ -1093,7 +1093,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008202377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008202377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008202377",
         "name": "\u00a7 64",
         "title": null,
         "parent": {
@@ -1107,7 +1107,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000400311",
         "name": "Vierter Abschnitt",
         "title": "Patentgericht",
         "parent": null
@@ -1115,7 +1115,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008303140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008303140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008303140",
         "name": "\u00a7 65",
         "title": null,
         "parent": {
@@ -1129,7 +1129,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008402301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008402301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008402301",
         "name": "\u00a7 66",
         "title": null,
         "parent": {
@@ -1143,7 +1143,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008502301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008502301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008502301",
         "name": "\u00a7 67",
         "title": null,
         "parent": {
@@ -1157,7 +1157,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008602301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008602301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008602301",
         "name": "\u00a7 68",
         "title": null,
         "parent": {
@@ -1171,7 +1171,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008701360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008701360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008701360",
         "name": "\u00a7 69",
         "title": null,
         "parent": {
@@ -1185,7 +1185,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008800311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008800311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008800311",
         "name": "\u00a7 70",
         "title": null,
         "parent": {
@@ -1199,7 +1199,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE008900311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE008900311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE008900311",
         "name": "\u00a7 71",
         "title": null,
         "parent": {
@@ -1213,7 +1213,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009001301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009001301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009001301",
         "name": "\u00a7 72",
         "title": null,
         "parent": {
@@ -1227,7 +1227,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000500311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000500311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000500311",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Verfahren vor dem Patentgericht",
         "parent": null
@@ -1235,7 +1235,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000600311",
         "name": "1.",
         "title": "Beschwerdeverfahren",
         "parent": {
@@ -1246,7 +1246,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009102377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009102377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009102377",
         "name": "\u00a7 73",
         "title": null,
         "parent": {
@@ -1260,7 +1260,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009200311",
         "name": "\u00a7 74",
         "title": null,
         "parent": {
@@ -1274,7 +1274,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009300311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009300311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009300311",
         "name": "\u00a7 75",
         "title": null,
         "parent": {
@@ -1288,7 +1288,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009400311",
         "name": "\u00a7 76",
         "title": null,
         "parent": {
@@ -1302,7 +1302,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009500311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009500311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009500311",
         "name": "\u00a7 77",
         "title": null,
         "parent": {
@@ -1316,7 +1316,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009600311",
         "name": "\u00a7 78",
         "title": null,
         "parent": {
@@ -1330,7 +1330,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009700311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009700311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009700311",
         "name": "\u00a7 79",
         "title": null,
         "parent": {
@@ -1344,7 +1344,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009803301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009803301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009803301",
         "name": "\u00a7 80",
         "title": null,
         "parent": {
@@ -1358,7 +1358,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000701307",
         "name": "2.",
         "title": "Nichtigkeits- und Zwangslizenzverfahren",
         "parent": {
@@ -1369,7 +1369,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE009906140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE009906140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE009906140",
         "name": "\u00a7 81",
         "title": null,
         "parent": {
@@ -1383,7 +1383,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010001140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010001140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010001140",
         "name": "\u00a7 82",
         "title": null,
         "parent": {
@@ -1397,7 +1397,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010101140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010101140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010101140",
         "name": "\u00a7 83",
         "title": null,
         "parent": {
@@ -1411,7 +1411,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010200311",
         "name": "\u00a7 84",
         "title": null,
         "parent": {
@@ -1425,7 +1425,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010304140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010304140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010304140",
         "name": "\u00a7 85",
         "title": null,
         "parent": {
@@ -1439,7 +1439,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018600140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018600140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018600140",
         "name": "\u00a7 85a",
         "title": null,
         "parent": {
@@ -1453,7 +1453,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000800311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000800311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000800311",
         "name": "3.",
         "title": "Gemeinsame Verfahrensvorschriften",
         "parent": {
@@ -1464,7 +1464,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010400311",
         "name": "\u00a7 86",
         "title": null,
         "parent": {
@@ -1478,7 +1478,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010500311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010500311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010500311",
         "name": "\u00a7 87",
         "title": null,
         "parent": {
@@ -1492,7 +1492,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010600311",
         "name": "\u00a7 88",
         "title": null,
         "parent": {
@@ -1506,7 +1506,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010700311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010700311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010700311",
         "name": "\u00a7 89",
         "title": null,
         "parent": {
@@ -1520,7 +1520,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010800311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010800311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010800311",
         "name": "\u00a7 90",
         "title": null,
         "parent": {
@@ -1534,7 +1534,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE010900311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE010900311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE010900311",
         "name": "\u00a7 91",
         "title": null,
         "parent": {
@@ -1548,7 +1548,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011000311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011000311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011000311",
         "name": "\u00a7 92",
         "title": null,
         "parent": {
@@ -1562,7 +1562,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011100311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011100311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011100311",
         "name": "\u00a7 93",
         "title": null,
         "parent": {
@@ -1576,7 +1576,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011200311",
         "name": "\u00a7 94",
         "title": null,
         "parent": {
@@ -1590,7 +1590,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011300311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011300311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011300311",
         "name": "\u00a7 95",
         "title": null,
         "parent": {
@@ -1604,7 +1604,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011400311",
         "name": "\u00a7 96",
         "title": null,
         "parent": {
@@ -1618,7 +1618,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011501377",
         "name": "\u00a7 97",
         "title": null,
         "parent": {
@@ -1632,7 +1632,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011601377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011601377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011601377",
         "name": "\u00a7 98",
         "title": null,
         "parent": {
@@ -1646,7 +1646,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011701307",
         "name": "\u00a7 99",
         "title": null,
         "parent": {
@@ -1660,7 +1660,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG000900311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG000900311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000900311",
         "name": "Sechster Abschnitt",
         "title": "Verfahren vor dem Bundesgerichtshof",
         "parent": null
@@ -1668,7 +1668,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001000311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001000311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001000311",
         "name": "1.",
         "title": "Rechtsbeschwerdeverfahren",
         "parent": {
@@ -1679,7 +1679,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011802301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011802301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011802301",
         "name": "\u00a7 100",
         "title": null,
         "parent": {
@@ -1693,7 +1693,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE011901377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE011901377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE011901377",
         "name": "\u00a7 101",
         "title": null,
         "parent": {
@@ -1707,7 +1707,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012003377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012003377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012003377",
         "name": "\u00a7 102",
         "title": null,
         "parent": {
@@ -1721,7 +1721,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012100311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012100311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012100311",
         "name": "\u00a7 103",
         "title": null,
         "parent": {
@@ -1735,7 +1735,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012200311",
         "name": "\u00a7 104",
         "title": null,
         "parent": {
@@ -1749,7 +1749,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012300311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012300311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012300311",
         "name": "\u00a7 105",
         "title": null,
         "parent": {
@@ -1763,7 +1763,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012401307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012401307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012401307",
         "name": "\u00a7 106",
         "title": null,
         "parent": {
@@ -1777,7 +1777,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012500311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012500311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012500311",
         "name": "\u00a7 107",
         "title": null,
         "parent": {
@@ -1791,7 +1791,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012600311",
         "name": "\u00a7 108",
         "title": null,
         "parent": {
@@ -1805,7 +1805,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012700311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012700311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012700311",
         "name": "\u00a7 109",
         "title": null,
         "parent": {
@@ -1819,7 +1819,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001100311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001100311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001100311",
         "name": "2.",
         "title": "Berufungsverfahren",
         "parent": {
@@ -1830,7 +1830,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012802140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012802140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012802140",
         "name": "\u00a7 110",
         "title": null,
         "parent": {
@@ -1844,7 +1844,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE012902140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE012902140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE012902140",
         "name": "\u00a7 111",
         "title": null,
         "parent": {
@@ -1858,7 +1858,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013002140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013002140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013002140",
         "name": "\u00a7 112",
         "title": null,
         "parent": {
@@ -1872,7 +1872,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013102140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013102140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013102140",
         "name": "\u00a7 113",
         "title": null,
         "parent": {
@@ -1886,7 +1886,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013202140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013202140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013202140",
         "name": "\u00a7 114",
         "title": null,
         "parent": {
@@ -1900,7 +1900,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013301140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013301140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013301140",
         "name": "\u00a7 115",
         "title": null,
         "parent": {
@@ -1914,7 +1914,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013401140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013401140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013401140",
         "name": "\u00a7 116",
         "title": null,
         "parent": {
@@ -1928,7 +1928,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013501140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013501140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013501140",
         "name": "\u00a7 117",
         "title": null,
         "parent": {
@@ -1942,7 +1942,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013601140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013601140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013601140",
         "name": "\u00a7 118",
         "title": null,
         "parent": {
@@ -1956,7 +1956,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013701140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013701140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013701140",
         "name": "\u00a7 119",
         "title": null,
         "parent": {
@@ -1970,7 +1970,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013801140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013801140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013801140",
         "name": "\u00a7 120",
         "title": null,
         "parent": {
@@ -1984,7 +1984,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE013901307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE013901307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE013901307",
         "name": "\u00a7 121",
         "title": null,
         "parent": {
@@ -1998,7 +1998,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001200311",
         "name": "3.",
         "title": "Beschwerdeverfahren",
         "parent": {
@@ -2009,7 +2009,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014002140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014002140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014002140",
         "name": "\u00a7 122",
         "title": null,
         "parent": {
@@ -2023,7 +2023,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001900301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001900301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001900301",
         "name": "4.",
         "title": "Gemeinsame Verfahrensvorschriften",
         "parent": {
@@ -2034,7 +2034,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018000301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018000301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018000301",
         "name": "\u00a7 122a",
         "title": null,
         "parent": {
@@ -2048,7 +2048,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001300311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001300311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001300311",
         "name": "Siebenter Abschnitt",
         "title": "Gemeinsame Vorschriften",
         "parent": null
@@ -2056,7 +2056,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014102301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014102301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014102301",
         "name": "\u00a7 123",
         "title": null,
         "parent": {
@@ -2070,7 +2070,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017101301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017101301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017101301",
         "name": "\u00a7 123a",
         "title": null,
         "parent": {
@@ -2084,7 +2084,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014200311",
         "name": "\u00a7 124",
         "title": null,
         "parent": {
@@ -2098,7 +2098,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014300311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014300311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014300311",
         "name": "\u00a7 125",
         "title": null,
         "parent": {
@@ -2112,7 +2112,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017206301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017206301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017206301",
         "name": "\u00a7 125a",
         "title": null,
         "parent": {
@@ -2126,7 +2126,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014401307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014401307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014401307",
         "name": "\u00a7 126",
         "title": null,
         "parent": {
@@ -2140,7 +2140,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014505123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014505123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014505123",
         "name": "\u00a7 127",
         "title": null,
         "parent": {
@@ -2154,7 +2154,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014600311",
         "name": "\u00a7 128",
         "title": null,
         "parent": {
@@ -2168,7 +2168,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017300377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017300377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017300377",
         "name": "\u00a7 128a",
         "title": null,
         "parent": {
@@ -2182,7 +2182,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018700360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018700360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018700360",
         "name": "\u00a7 128b",
         "title": null,
         "parent": {
@@ -2196,7 +2196,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001400311",
         "name": "Achter Abschnitt",
         "title": "Verfahrenskostenhilfe",
         "parent": null
@@ -2204,7 +2204,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014701307",
         "name": "\u00a7 129",
         "title": null,
         "parent": {
@@ -2218,7 +2218,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014802360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014802360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014802360",
         "name": "\u00a7 130",
         "title": null,
         "parent": {
@@ -2232,7 +2232,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE014901377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE014901377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE014901377",
         "name": "\u00a7 131",
         "title": null,
         "parent": {
@@ -2246,7 +2246,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015002140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015002140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015002140",
         "name": "\u00a7 132",
         "title": null,
         "parent": {
@@ -2260,7 +2260,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015101301",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015101301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015101301",
         "name": "\u00a7 133",
         "title": null,
         "parent": {
@@ -2274,7 +2274,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015200311",
         "name": "\u00a7 134",
         "title": null,
         "parent": {
@@ -2288,7 +2288,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015303377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015303377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015303377",
         "name": "\u00a7 135",
         "title": null,
         "parent": {
@@ -2302,7 +2302,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015405310",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015405310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015405310",
         "name": "\u00a7 136",
         "title": null,
         "parent": {
@@ -2316,7 +2316,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015501310",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015501310",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015501310",
         "name": "\u00a7 137",
         "title": null,
         "parent": {
@@ -2330,7 +2330,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015600311",
         "name": "\u00a7 138",
         "title": null,
         "parent": {
@@ -2344,7 +2344,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001500311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001500311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001500311",
         "name": "Neunter Abschnitt",
         "title": "Rechtsverletzungen",
         "parent": null
@@ -2352,7 +2352,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015701140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015701140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015701140",
         "name": "\u00a7 139",
         "title": null,
         "parent": {
@@ -2366,7 +2366,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015800311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015800311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015800311",
         "name": "\u00a7 140",
         "title": null,
         "parent": {
@@ -2380,7 +2380,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016501140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016501140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016501140",
         "name": "\u00a7 140a",
         "title": null,
         "parent": {
@@ -2394,7 +2394,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016602140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016602140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016602140",
         "name": "\u00a7 140b",
         "title": null,
         "parent": {
@@ -2408,7 +2408,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018100140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018100140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018100140",
         "name": "\u00a7 140c",
         "title": null,
         "parent": {
@@ -2422,7 +2422,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018200140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018200140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018200140",
         "name": "\u00a7 140d",
         "title": null,
         "parent": {
@@ -2436,7 +2436,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018300140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018300140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018300140",
         "name": "\u00a7 140e",
         "title": null,
         "parent": {
@@ -2450,7 +2450,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE015901377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE015901377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE015901377",
         "name": "\u00a7 141",
         "title": null,
         "parent": {
@@ -2464,7 +2464,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018400140",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018400140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018400140",
         "name": "\u00a7 141a",
         "title": null,
         "parent": {
@@ -2478,7 +2478,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016002305",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016002305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016002305",
         "name": "\u00a7 142",
         "title": null,
         "parent": {
@@ -2492,7 +2492,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016705123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016705123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016705123",
         "name": "\u00a7 142a",
         "title": null,
         "parent": {
@@ -2506,7 +2506,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE018501123",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE018501123",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE018501123",
         "name": "\u00a7 142b",
         "title": null,
         "parent": {
@@ -2520,7 +2520,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001600311",
         "name": "Zehnter Abschnitt",
         "title": "Verfahren in Patentstreitsachen",
         "parent": null
@@ -2528,7 +2528,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016106377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016106377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016106377",
         "name": "\u00a7 143",
         "title": null,
         "parent": {
@@ -2542,7 +2542,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016200311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016200311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016200311",
         "name": "\u00a7 144",
         "title": null,
         "parent": {
@@ -2556,7 +2556,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016300311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016300311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016300311",
         "name": "\u00a7 145",
         "title": null,
         "parent": {
@@ -2570,7 +2570,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001700311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001700311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001700311",
         "name": "Elfter Abschnitt",
         "title": "Patentber\u00fchmung",
         "parent": null
@@ -2578,7 +2578,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE016400311",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE016400311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE016400311",
         "name": "\u00a7 146",
         "title": null,
         "parent": {
@@ -2592,7 +2592,7 @@
       {
         "type": "heading",
         "id": "BJNR201170936BJNG001800377",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNG001800377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001800377",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "\u00dcbergangsvorschriften",
         "parent": null
@@ -2600,7 +2600,7 @@
       {
         "type": "article",
         "id": "BJNR201170936BJNE017006360",
-        "url": "https://api.rechtsinformationsportal.de/laws/patg/articles/BJNR201170936BJNE017006360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNE017006360",
         "name": "\u00a7 147",
         "title": null,
         "parent": {

@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR000010949",
-    "url": "https://api.rechtsinformationsportal.de/laws/gg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/gg",
     "firstPublished": "1949-05-23",
     "sourceTimestamp": "20191120212501",
     "titleShort": null,
@@ -32,7 +32,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE001500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE001500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE001500314",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -43,7 +43,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE001601305",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE001601305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE001601305",
         "name": "Pr\u00e4ambel",
         "title": null,
         "parent": null,
@@ -54,7 +54,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000100314",
         "name": "I.",
         "title": "Die Grundrechte",
         "parent": null
@@ -62,7 +62,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE001700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE001700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE001700314",
         "name": "Art 1",
         "title": null,
         "parent": {
@@ -76,7 +76,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE001800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE001800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE001800314",
         "name": "Art 2",
         "title": null,
         "parent": {
@@ -90,7 +90,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE001901307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE001901307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE001901307",
         "name": "Art 3",
         "title": null,
         "parent": {
@@ -104,7 +104,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002000314",
         "name": "Art 4",
         "title": null,
         "parent": {
@@ -118,7 +118,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002100314",
         "name": "Art 5",
         "title": null,
         "parent": {
@@ -132,7 +132,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002200314",
         "name": "Art 6",
         "title": null,
         "parent": {
@@ -146,7 +146,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002300314",
         "name": "Art 7",
         "title": null,
         "parent": {
@@ -160,7 +160,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002400314",
         "name": "Art 8",
         "title": null,
         "parent": {
@@ -174,7 +174,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002500314",
         "name": "Art 9",
         "title": null,
         "parent": {
@@ -188,7 +188,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002600314",
         "name": "Art 10",
         "title": null,
         "parent": {
@@ -202,7 +202,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002700314",
         "name": "Art 11",
         "title": null,
         "parent": {
@@ -216,7 +216,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002800314",
         "name": "Art 12",
         "title": null,
         "parent": {
@@ -230,7 +230,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE002901311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE002901311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE002901311",
         "name": "Art 12a",
         "title": null,
         "parent": {
@@ -244,7 +244,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003001301",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003001301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003001301",
         "name": "Art 13",
         "title": null,
         "parent": {
@@ -258,7 +258,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003100314",
         "name": "Art 14",
         "title": null,
         "parent": {
@@ -272,7 +272,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003200314",
         "name": "Art 15",
         "title": null,
         "parent": {
@@ -286,7 +286,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003302301",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003302301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003302301",
         "name": "Art 16",
         "title": null,
         "parent": {
@@ -300,7 +300,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019500305",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019500305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019500305",
         "name": "Art 16a",
         "title": null,
         "parent": {
@@ -314,7 +314,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003400314",
         "name": "Art 17",
         "title": null,
         "parent": {
@@ -328,7 +328,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003500314",
         "name": "Art 17a",
         "title": null,
         "parent": {
@@ -342,7 +342,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003601305",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003601305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003601305",
         "name": "Art 18",
         "title": null,
         "parent": {
@@ -356,7 +356,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003700314",
         "name": "Art 19",
         "title": null,
         "parent": {
@@ -370,7 +370,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000200314",
         "name": "II.",
         "title": "Der Bund und die L\u00e4nder",
         "parent": null
@@ -378,7 +378,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003800314",
         "name": "Art 20",
         "title": null,
         "parent": {
@@ -392,7 +392,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020101377",
         "name": "Art 20a",
         "title": null,
         "parent": {
@@ -406,7 +406,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE003902311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE003902311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE003902311",
         "name": "Art 21",
         "title": null,
         "parent": {
@@ -420,7 +420,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004001377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004001377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004001377",
         "name": "Art 22",
         "title": null,
         "parent": {
@@ -434,7 +434,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004104160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004104160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004104160",
         "name": "Art 23",
         "title": null,
         "parent": {
@@ -448,7 +448,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004201333",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004201333",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004201333",
         "name": "Art 24",
         "title": null,
         "parent": {
@@ -462,7 +462,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004300314",
         "name": "Art 25",
         "title": null,
         "parent": {
@@ -476,7 +476,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004400314",
         "name": "Art 26",
         "title": null,
         "parent": {
@@ -490,7 +490,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004500314",
         "name": "Art 27",
         "title": null,
         "parent": {
@@ -504,7 +504,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004603307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004603307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004603307",
         "name": "Art 28",
         "title": null,
         "parent": {
@@ -518,7 +518,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004701307",
         "name": "Art 29",
         "title": null,
         "parent": {
@@ -532,7 +532,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004800314",
         "name": "Art 30",
         "title": null,
         "parent": {
@@ -546,7 +546,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE004900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE004900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE004900314",
         "name": "Art 31",
         "title": null,
         "parent": {
@@ -560,7 +560,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005000314",
         "name": "Art 32",
         "title": null,
         "parent": {
@@ -574,7 +574,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005101377",
         "name": "Art 33",
         "title": null,
         "parent": {
@@ -588,7 +588,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005200314",
         "name": "Art 34",
         "title": null,
         "parent": {
@@ -602,7 +602,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005300314",
         "name": "Art 35",
         "title": null,
         "parent": {
@@ -616,7 +616,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005400314",
         "name": "Art 36",
         "title": null,
         "parent": {
@@ -630,7 +630,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005500314",
         "name": "Art 37",
         "title": null,
         "parent": {
@@ -644,7 +644,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000300314",
         "name": "III.",
         "title": "Der Bundestag",
         "parent": null
@@ -652,7 +652,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005600314",
         "name": "Art 38",
         "title": null,
         "parent": {
@@ -666,7 +666,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005701307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005701307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005701307",
         "name": "Art 39",
         "title": null,
         "parent": {
@@ -680,7 +680,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005800314",
         "name": "Art 40",
         "title": null,
         "parent": {
@@ -694,7 +694,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE005900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE005900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE005900314",
         "name": "Art 41",
         "title": null,
         "parent": {
@@ -708,7 +708,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006000314",
         "name": "Art 42",
         "title": null,
         "parent": {
@@ -722,7 +722,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006100314",
         "name": "Art 43",
         "title": null,
         "parent": {
@@ -736,7 +736,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006200314",
         "name": "Art 44",
         "title": null,
         "parent": {
@@ -750,7 +750,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006302160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006302160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006302160",
         "name": "Art 45",
         "title": null,
         "parent": {
@@ -764,7 +764,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006400314",
         "name": "Art 45a",
         "title": null,
         "parent": {
@@ -778,7 +778,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006500314",
         "name": "Art 45b",
         "title": null,
         "parent": {
@@ -792,7 +792,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006600314",
         "name": "Art 45c",
         "title": null,
         "parent": {
@@ -806,7 +806,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020800160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020800160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020800160",
         "name": "Art 45d",
         "title": "Parlamentarisches Kontrollgremium",
         "parent": {
@@ -820,7 +820,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006700314",
         "name": "Art 46",
         "title": null,
         "parent": {
@@ -834,7 +834,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006800314",
         "name": "Art 47",
         "title": null,
         "parent": {
@@ -848,7 +848,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE006900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE006900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE006900314",
         "name": "Art 48",
         "title": null,
         "parent": {
@@ -862,7 +862,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007000314",
         "name": "Art 49",
         "title": "(weggefallen)",
         "parent": {
@@ -876,7 +876,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000400314",
         "name": "IV.",
         "title": "Der Bundesrat",
         "parent": null
@@ -884,7 +884,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007101333",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007101333",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007101333",
         "name": "Art 50",
         "title": null,
         "parent": {
@@ -898,7 +898,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007201305",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007201305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007201305",
         "name": "Art 51",
         "title": null,
         "parent": {
@@ -912,7 +912,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007302377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007302377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007302377",
         "name": "Art 52",
         "title": null,
         "parent": {
@@ -926,7 +926,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007400314",
         "name": "Art 53",
         "title": null,
         "parent": {
@@ -940,7 +940,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000500314",
         "name": "IV a.",
         "title": "Gemeinsamer Ausschu\u00df",
         "parent": null
@@ -948,7 +948,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007500314",
         "name": "Art 53a",
         "title": null,
         "parent": {
@@ -962,7 +962,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000600314",
         "name": "V.",
         "title": "Der Bundespr\u00e4sident",
         "parent": null
@@ -970,7 +970,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007600314",
         "name": "Art 54",
         "title": null,
         "parent": {
@@ -984,7 +984,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007700314",
         "name": "Art 55",
         "title": null,
         "parent": {
@@ -998,7 +998,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007800314",
         "name": "Art 56",
         "title": null,
         "parent": {
@@ -1012,7 +1012,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE007900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE007900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE007900314",
         "name": "Art 57",
         "title": null,
         "parent": {
@@ -1026,7 +1026,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008000314",
         "name": "Art 58",
         "title": null,
         "parent": {
@@ -1040,7 +1040,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008100314",
         "name": "Art 59",
         "title": null,
         "parent": {
@@ -1054,7 +1054,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008200314",
         "name": "Art 59a",
         "title": "(weggefallen)",
         "parent": {
@@ -1068,7 +1068,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008300314",
         "name": "Art 60",
         "title": null,
         "parent": {
@@ -1082,7 +1082,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008400314",
         "name": "Art 61",
         "title": null,
         "parent": {
@@ -1096,7 +1096,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000700314",
         "name": "VI.",
         "title": "Die Bundesregierung",
         "parent": null
@@ -1104,7 +1104,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008500314",
         "name": "Art 62",
         "title": null,
         "parent": {
@@ -1118,7 +1118,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008600314",
         "name": "Art 63",
         "title": null,
         "parent": {
@@ -1132,7 +1132,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008700314",
         "name": "Art 64",
         "title": null,
         "parent": {
@@ -1146,7 +1146,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008800314",
         "name": "Art 65",
         "title": null,
         "parent": {
@@ -1160,7 +1160,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019300314",
         "name": "Art 65a",
         "title": null,
         "parent": {
@@ -1174,7 +1174,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE008900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE008900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE008900314",
         "name": "Art 66",
         "title": null,
         "parent": {
@@ -1188,7 +1188,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009000314",
         "name": "Art 67",
         "title": null,
         "parent": {
@@ -1202,7 +1202,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009100314",
         "name": "Art 68",
         "title": null,
         "parent": {
@@ -1216,7 +1216,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009200314",
         "name": "Art 69",
         "title": null,
         "parent": {
@@ -1230,7 +1230,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000800314",
         "name": "VII.",
         "title": "Die Gesetzgebung des Bundes",
         "parent": null
@@ -1238,7 +1238,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009300314",
         "name": "Art 70",
         "title": null,
         "parent": {
@@ -1252,7 +1252,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009400314",
         "name": "Art 71",
         "title": null,
         "parent": {
@@ -1266,7 +1266,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009503377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009503377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009503377",
         "name": "Art 72",
         "title": null,
         "parent": {
@@ -1280,7 +1280,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009603377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009603377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009603377",
         "name": "Art 73",
         "title": null,
         "parent": {
@@ -1294,7 +1294,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009703377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009703377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009703377",
         "name": "Art 74",
         "title": null,
         "parent": {
@@ -1308,7 +1308,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE009801377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE009801377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE009801377",
         "name": "(XXXX) Art 74a und 75",
         "title": "(weggefallen)",
         "parent": {
@@ -1322,7 +1322,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010001307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010001307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010001307",
         "name": "Art 76",
         "title": null,
         "parent": {
@@ -1336,7 +1336,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010101307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010101307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010101307",
         "name": "Art 77",
         "title": null,
         "parent": {
@@ -1350,7 +1350,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010200314",
         "name": "Art 78",
         "title": null,
         "parent": {
@@ -1364,7 +1364,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010300314",
         "name": "Art 79",
         "title": null,
         "parent": {
@@ -1378,7 +1378,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010403307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010403307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010403307",
         "name": "Art 80",
         "title": null,
         "parent": {
@@ -1392,7 +1392,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010500314",
         "name": "Art 80a",
         "title": null,
         "parent": {
@@ -1406,7 +1406,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010600314",
         "name": "Art 81",
         "title": null,
         "parent": {
@@ -1420,7 +1420,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010700314",
         "name": "Art 82",
         "title": null,
         "parent": {
@@ -1434,7 +1434,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG000900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG000900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000900314",
         "name": "VIII.",
         "title": "Die Ausf\u00fchrung der Bundesgesetze und die Bundesverwaltung",
         "parent": null
@@ -1442,7 +1442,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010800314",
         "name": "Art 83",
         "title": null,
         "parent": {
@@ -1456,7 +1456,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE010901377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE010901377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE010901377",
         "name": "Art 84",
         "title": null,
         "parent": {
@@ -1470,7 +1470,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011001377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011001377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011001377",
         "name": "Art 85",
         "title": null,
         "parent": {
@@ -1484,7 +1484,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011100314",
         "name": "Art 86",
         "title": null,
         "parent": {
@@ -1498,7 +1498,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011203307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011203307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011203307",
         "name": "Art 87",
         "title": null,
         "parent": {
@@ -1512,7 +1512,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011300314",
         "name": "Art 87a",
         "title": null,
         "parent": {
@@ -1526,7 +1526,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011400314",
         "name": "Art 87b",
         "title": null,
         "parent": {
@@ -1540,7 +1540,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011501377",
         "name": "Art 87c",
         "title": null,
         "parent": {
@@ -1554,7 +1554,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011602160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011602160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011602160",
         "name": "Art 87d",
         "title": null,
         "parent": {
@@ -1568,7 +1568,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019600307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019600307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019600307",
         "name": "Art 87e",
         "title": null,
         "parent": {
@@ -1582,7 +1582,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019900307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019900307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019900307",
         "name": "Art 87f",
         "title": null,
         "parent": {
@@ -1596,7 +1596,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011701333",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011701333",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011701333",
         "name": "Art 88",
         "title": null,
         "parent": {
@@ -1610,7 +1610,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011800314",
         "name": "Art 89",
         "title": null,
         "parent": {
@@ -1624,7 +1624,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE011901311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE011901311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE011901311",
         "name": "Art 90",
         "title": null,
         "parent": {
@@ -1638,7 +1638,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012000314",
         "name": "Art 91",
         "title": null,
         "parent": {
@@ -1652,7 +1652,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG001001160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG001001160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001001160",
         "name": "VIIIa.",
         "title": "Gemeinschaftsaufgaben, Verwaltungszusammenarbeit",
         "parent": null
@@ -1660,7 +1660,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012101377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012101377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012101377",
         "name": "Art 91a",
         "title": null,
         "parent": {
@@ -1674,7 +1674,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012202377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012202377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012202377",
         "name": "Art 91b",
         "title": null,
         "parent": {
@@ -1688,7 +1688,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020901311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020901311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020901311",
         "name": "Art 91c",
         "title": null,
         "parent": {
@@ -1702,7 +1702,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021000160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021000160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021000160",
         "name": "Art 91d",
         "title": null,
         "parent": {
@@ -1716,7 +1716,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021300140",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021300140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021300140",
         "name": "Art 91e",
         "title": null,
         "parent": {
@@ -1730,7 +1730,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG001100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG001100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001100314",
         "name": "IX.",
         "title": "Die Rechtsprechung",
         "parent": null
@@ -1738,7 +1738,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012300314",
         "name": "Art 92",
         "title": null,
         "parent": {
@@ -1752,7 +1752,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012404377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012404377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012404377",
         "name": "Art 93",
         "title": null,
         "parent": {
@@ -1766,7 +1766,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012500314",
         "name": "Art 94",
         "title": null,
         "parent": {
@@ -1780,7 +1780,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012600314",
         "name": "Art 95",
         "title": null,
         "parent": {
@@ -1794,7 +1794,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012701377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012701377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012701377",
         "name": "Art 96",
         "title": null,
         "parent": {
@@ -1808,7 +1808,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012800314",
         "name": "Art 97",
         "title": null,
         "parent": {
@@ -1822,7 +1822,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE012901377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE012901377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE012901377",
         "name": "Art 98",
         "title": null,
         "parent": {
@@ -1836,7 +1836,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013000314",
         "name": "Art 99",
         "title": null,
         "parent": {
@@ -1850,7 +1850,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013100314",
         "name": "Art 100",
         "title": null,
         "parent": {
@@ -1864,7 +1864,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013200314",
         "name": "Art 101",
         "title": null,
         "parent": {
@@ -1878,7 +1878,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013300314",
         "name": "Art 102",
         "title": null,
         "parent": {
@@ -1892,7 +1892,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013400314",
         "name": "Art 103",
         "title": null,
         "parent": {
@@ -1906,7 +1906,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013500314",
         "name": "Art 104",
         "title": null,
         "parent": {
@@ -1920,7 +1920,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG001200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG001200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001200314",
         "name": "X.",
         "title": "Das Finanzwesen",
         "parent": null
@@ -1928,7 +1928,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013601377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013601377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013601377",
         "name": "Art 104a",
         "title": null,
         "parent": {
@@ -1942,7 +1942,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020403311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020403311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020403311",
         "name": "Art 104b",
         "title": null,
         "parent": {
@@ -1956,7 +1956,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021401311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021401311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021401311",
         "name": "Art 104c",
         "title": null,
         "parent": {
@@ -1970,7 +1970,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021800311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021800311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021800311",
         "name": "Art 104d",
         "title": null,
         "parent": {
@@ -1984,7 +1984,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013702377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013702377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013702377",
         "name": "Art 105",
         "title": null,
         "parent": {
@@ -1998,7 +1998,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013803160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013803160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013803160",
         "name": "Art 106",
         "title": null,
         "parent": {
@@ -2012,7 +2012,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019700307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019700307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019700307",
         "name": "Art 106a",
         "title": null,
         "parent": {
@@ -2026,7 +2026,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020801160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020801160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020801160",
         "name": "Art 106b",
         "title": null,
         "parent": {
@@ -2040,7 +2040,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE013903311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE013903311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE013903311",
         "name": "Art 107",
         "title": null,
         "parent": {
@@ -2054,7 +2054,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014003311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014003311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014003311",
         "name": "Art 108",
         "title": null,
         "parent": {
@@ -2068,7 +2068,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014102160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014102160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014102160",
         "name": "Art 109",
         "title": null,
         "parent": {
@@ -2082,7 +2082,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021101311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021101311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021101311",
         "name": "Art 109a",
         "title": null,
         "parent": {
@@ -2096,7 +2096,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014200314",
         "name": "Art 110",
         "title": null,
         "parent": {
@@ -2110,7 +2110,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014300314",
         "name": "Art 111",
         "title": null,
         "parent": {
@@ -2124,7 +2124,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014400314",
         "name": "Art 112",
         "title": null,
         "parent": {
@@ -2138,7 +2138,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014500314",
         "name": "Art 113",
         "title": null,
         "parent": {
@@ -2152,7 +2152,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014601311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014601311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014601311",
         "name": "Art 114",
         "title": null,
         "parent": {
@@ -2166,7 +2166,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014701160",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014701160",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014701160",
         "name": "Art 115",
         "title": null,
         "parent": {
@@ -2180,7 +2180,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG001300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG001300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001300314",
         "name": "X a.",
         "title": "Verteidigungsfall",
         "parent": null
@@ -2188,7 +2188,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014800314",
         "name": "Art 115a",
         "title": null,
         "parent": {
@@ -2202,7 +2202,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE014900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE014900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE014900314",
         "name": "Art 115b",
         "title": null,
         "parent": {
@@ -2216,7 +2216,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015000314",
         "name": "Art 115c",
         "title": null,
         "parent": {
@@ -2230,7 +2230,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015100314",
         "name": "Art 115d",
         "title": null,
         "parent": {
@@ -2244,7 +2244,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015201333",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015201333",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015201333",
         "name": "Art 115e",
         "title": null,
         "parent": {
@@ -2258,7 +2258,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015300314",
         "name": "Art 115f",
         "title": null,
         "parent": {
@@ -2272,7 +2272,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015400314",
         "name": "Art 115g",
         "title": null,
         "parent": {
@@ -2286,7 +2286,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015500314",
         "name": "Art 115h",
         "title": null,
         "parent": {
@@ -2300,7 +2300,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015600314",
         "name": "Art 115i",
         "title": null,
         "parent": {
@@ -2314,7 +2314,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015700314",
         "name": "Art 115k",
         "title": null,
         "parent": {
@@ -2328,7 +2328,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015800314",
         "name": "Art 115l",
         "title": null,
         "parent": {
@@ -2342,7 +2342,7 @@
       {
         "type": "heading",
         "id": "BJNR000010949BJNG001400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNG001400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001400314",
         "name": "XI.",
         "title": "\u00dcbergangs- und Schlu\u00dfbestimmungen",
         "parent": null
@@ -2350,7 +2350,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE015900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE015900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE015900314",
         "name": "Art 116",
         "title": null,
         "parent": {
@@ -2364,7 +2364,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016000314",
         "name": "Art 117",
         "title": null,
         "parent": {
@@ -2378,7 +2378,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016100314",
         "name": "Art 118",
         "title": null,
         "parent": {
@@ -2392,7 +2392,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020200307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020200307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020200307",
         "name": "Art 118a",
         "title": null,
         "parent": {
@@ -2406,7 +2406,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016200314",
         "name": "Art 119",
         "title": null,
         "parent": {
@@ -2420,7 +2420,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016300314",
         "name": "Art 120",
         "title": null,
         "parent": {
@@ -2434,7 +2434,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016400314",
         "name": "Art 120a",
         "title": null,
         "parent": {
@@ -2448,7 +2448,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016500314",
         "name": "Art 121",
         "title": null,
         "parent": {
@@ -2462,7 +2462,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016600314",
         "name": "Art 122",
         "title": null,
         "parent": {
@@ -2476,7 +2476,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016700314",
         "name": "Art 123",
         "title": null,
         "parent": {
@@ -2490,7 +2490,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016800314",
         "name": "Art 124",
         "title": null,
         "parent": {
@@ -2504,7 +2504,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE016900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE016900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE016900314",
         "name": "Art 125",
         "title": null,
         "parent": {
@@ -2518,7 +2518,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020301377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020301377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020301377",
         "name": "Art 125a",
         "title": null,
         "parent": {
@@ -2532,7 +2532,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020501377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020501377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020501377",
         "name": "Art 125b",
         "title": null,
         "parent": {
@@ -2546,7 +2546,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020602311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020602311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020602311",
         "name": "Art 125c",
         "title": null,
         "parent": {
@@ -2560,7 +2560,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017000314",
         "name": "Art 126",
         "title": null,
         "parent": {
@@ -2574,7 +2574,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017100314",
         "name": "Art 127",
         "title": null,
         "parent": {
@@ -2588,7 +2588,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017200314",
         "name": "Art 128",
         "title": null,
         "parent": {
@@ -2602,7 +2602,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017300314",
         "name": "Art 129",
         "title": null,
         "parent": {
@@ -2616,7 +2616,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017400314",
         "name": "Art 130",
         "title": null,
         "parent": {
@@ -2630,7 +2630,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017500314",
         "name": "Art 131",
         "title": null,
         "parent": {
@@ -2644,7 +2644,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017600314",
         "name": "Art 132",
         "title": null,
         "parent": {
@@ -2658,7 +2658,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017700314",
         "name": "Art 133",
         "title": null,
         "parent": {
@@ -2672,7 +2672,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017800314",
         "name": "Art 134",
         "title": null,
         "parent": {
@@ -2686,7 +2686,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE017900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE017900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE017900314",
         "name": "Art 135",
         "title": null,
         "parent": {
@@ -2700,7 +2700,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018001305",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018001305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018001305",
         "name": "Art 135a",
         "title": null,
         "parent": {
@@ -2714,7 +2714,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018100314",
         "name": "Art 136",
         "title": null,
         "parent": {
@@ -2728,7 +2728,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018200314",
         "name": "Art 137",
         "title": null,
         "parent": {
@@ -2742,7 +2742,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018300314",
         "name": "Art 138",
         "title": null,
         "parent": {
@@ -2756,7 +2756,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018400314",
         "name": "Art 139",
         "title": null,
         "parent": {
@@ -2770,7 +2770,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018500314",
         "name": "Art 140",
         "title": null,
         "parent": {
@@ -2784,7 +2784,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018600314",
         "name": "Art 141",
         "title": null,
         "parent": {
@@ -2798,7 +2798,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018700314",
         "name": "Art 142",
         "title": null,
         "parent": {
@@ -2812,7 +2812,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018800314",
         "name": "Art 142a",
         "title": "(weggefallen)",
         "parent": {
@@ -2826,7 +2826,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE018901305",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE018901305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE018901305",
         "name": "Art 143",
         "title": null,
         "parent": {
@@ -2840,7 +2840,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019800307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019800307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019800307",
         "name": "Art 143a",
         "title": null,
         "parent": {
@@ -2854,7 +2854,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020000307",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020000307",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020000307",
         "name": "Art 143b",
         "title": null,
         "parent": {
@@ -2868,7 +2868,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE020700377",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE020700377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE020700377",
         "name": "Art 143c",
         "title": null,
         "parent": {
@@ -2882,7 +2882,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021201311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021201311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021201311",
         "name": "Art 143d",
         "title": null,
         "parent": {
@@ -2896,7 +2896,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021501311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021501311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021501311",
         "name": "Art 143e",
         "title": null,
         "parent": {
@@ -2910,7 +2910,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021600311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021600311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021600311",
         "name": "Art 143f",
         "title": null,
         "parent": {
@@ -2924,7 +2924,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE021700311",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE021700311",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE021700311",
         "name": "Art 143g",
         "title": null,
         "parent": {
@@ -2938,7 +2938,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019000314",
         "name": "Art 144",
         "title": null,
         "parent": {
@@ -2952,7 +2952,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019100314",
         "name": "Art 145",
         "title": null,
         "parent": {
@@ -2966,7 +2966,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019201305",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019201305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019201305",
         "name": "Art 146",
         "title": null,
         "parent": {
@@ -2980,7 +2980,7 @@
       {
         "type": "article",
         "id": "BJNR000010949BJNE019400305",
-        "url": "https://api.rechtsinformationsportal.de/laws/gg/articles/BJNR000010949BJNE019400305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNE019400305",
         "name": "Anhang EV",
         "title": null,
         "parent": {

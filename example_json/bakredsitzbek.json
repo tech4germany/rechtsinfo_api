@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR169710000",
-    "url": "https://api.rechtsinformationsportal.de/laws/bakredsitzbek",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/bakredsitzbek",
     "firstPublished": "2000-11-10",
     "sourceTimestamp": "20131008093806",
     "titleShort": null,
@@ -27,7 +27,7 @@
       {
         "type": "article",
         "id": "BJNR169710000BJNE000100305",
-        "url": "https://api.rechtsinformationsportal.de/laws/bakredsitzbek/articles/BJNR169710000BJNE000100305",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bakredsitzbek/articles/BJNR169710000BJNE000100305",
         "name": "(XXXX)",
         "title": null,
         "parent": null,

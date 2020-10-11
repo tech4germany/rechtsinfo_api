@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR397010002",
-    "url": "https://api.rechtsinformationsportal.de/laws/waffg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg",
     "firstPublished": "2002-10-11",
     "sourceTimestamp": "20200925212510",
     "titleShort": null,
@@ -34,7 +34,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000021360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000021360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000021360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -45,7 +45,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Bestimmungen",
         "parent": null
@@ -53,7 +53,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000101360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000101360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000101360",
         "name": "\u00a7 1",
         "title": "Gegenstand und Zweck des Gesetzes, Begriffsbestimmungen",
         "parent": {
@@ -67,7 +67,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000200000",
         "name": "\u00a7 2",
         "title": "Grunds\u00e4tze des Umgangs mit Waffen oder Munition, Waffenliste",
         "parent": {
@@ -81,7 +81,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000301377",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000301377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000301377",
         "name": "\u00a7 3",
         "title": "Umgang mit Waffen oder Munition durch Kinder und Jugendliche",
         "parent": {
@@ -95,7 +95,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000300000",
         "name": "Abschnitt 2",
         "title": "Umgang mit Waffen oder Munition",
         "parent": null
@@ -103,7 +103,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000400000",
         "name": "Unterabschnitt 1",
         "title": "Allgemeine Voraussetzungen f\u00fcr\nWaffen- und Munitionserlaubnisse",
         "parent": {
@@ -114,7 +114,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000402360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000402360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000402360",
         "name": "\u00a7 4",
         "title": "Voraussetzungen f\u00fcr eine Erlaubnis",
         "parent": {
@@ -128,7 +128,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000505360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000505360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000505360",
         "name": "\u00a7 5",
         "title": "Zuverl\u00e4ssigkeit",
         "parent": {
@@ -142,7 +142,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000602128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000602128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000602128",
         "name": "\u00a7 6",
         "title": "Pers\u00f6nliche Eignung",
         "parent": {
@@ -156,7 +156,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000701128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000701128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000701128",
         "name": "\u00a7 7",
         "title": "Sachkunde",
         "parent": {
@@ -170,7 +170,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000801377",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000801377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000801377",
         "name": "\u00a7 8",
         "title": "Bed\u00fcrfnis, allgemeine Grunds\u00e4tze",
         "parent": {
@@ -184,7 +184,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE000900000",
         "name": "\u00a7 9",
         "title": "Inhaltliche Beschr\u00e4nkungen, Nebenbestimmungen und Anordnungen",
         "parent": {
@@ -198,7 +198,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000500000",
         "name": "Unterabschnitt 2",
         "title": "Erlaubnisse f\u00fcr einzelne Arten des\nUmgangs mit Waffen oder Munition, Ausnahmen",
         "parent": {
@@ -209,7 +209,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001004360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001004360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001004360",
         "name": "\u00a7 10",
         "title": "Erteilung von Erlaubnissen zum Erwerb, Besitz, F\u00fchren und Schie\u00dfen",
         "parent": {
@@ -223,7 +223,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001102118",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001102118",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001102118",
         "name": "\u00a7 11",
         "title": "Erwerb und Besitz von Schusswaffen oder Munition mit Bezug zu einem anderen Mitgliedstaat",
         "parent": {
@@ -237,7 +237,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001202118",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001202118",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001202118",
         "name": "\u00a7 12",
         "title": "Ausnahmen von den Erlaubnispflichten",
         "parent": {
@@ -251,7 +251,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000600000",
         "name": "Unterabschnitt 3",
         "title": "Besondere Erlaubnistatbest\u00e4nde f\u00fcr\nbestimmte Personengruppen",
         "parent": {
@@ -262,7 +262,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001304360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001304360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001304360",
         "name": "\u00a7 13",
         "title": "Erwerb und Besitz von Schusswaffen und Munition durch J\u00e4ger, F\u00fchren und Schie\u00dfen zu Jagdzwecken",
         "parent": {
@@ -276,7 +276,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001404116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001404116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001404116",
         "name": "\u00a7 14",
         "title": "Erwerb und Besitz von Schusswaffen und Munition durch Sportsch\u00fctzen",
         "parent": {
@@ -290,7 +290,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001503116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001503116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001503116",
         "name": "\u00a7 15",
         "title": "Schie\u00dfsportverb\u00e4nde, schie\u00dfsportliche Vereine",
         "parent": {
@@ -304,7 +304,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE006202128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE006202128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE006202128",
         "name": "\u00a7 15a",
         "title": "Sportordnungen",
         "parent": {
@@ -318,7 +318,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE006301128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE006301128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE006301128",
         "name": "\u00a7 15b",
         "title": "Fachbeirat Schie\u00dfsport",
         "parent": {
@@ -332,7 +332,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001600000",
         "name": "\u00a7 16",
         "title": "Erwerb und Besitz von Schusswaffen und Munition durch\nBrauchtumssch\u00fctzen, F\u00fchren von Waffen und Schie\u00dfen zur Brauchtumspflege",
         "parent": {
@@ -346,7 +346,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001700000",
         "name": "\u00a7 17",
         "title": "Erwerb und Besitz von Schusswaffen oder Munition durch Waffen- oder\nMunitionssammler",
         "parent": {
@@ -360,7 +360,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001802360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001802360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001802360",
         "name": "\u00a7 18",
         "title": "Erwerb und Besitz von Schusswaffen oder Munition durch Waffen- oder Munitionssachverst\u00e4ndige",
         "parent": {
@@ -374,7 +374,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE001900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE001900000",
         "name": "\u00a7 19",
         "title": "Erwerb und Besitz von Schusswaffen und Munition, F\u00fchren von Schusswaffen\ndurch gef\u00e4hrdete Personen",
         "parent": {
@@ -388,7 +388,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009500128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009500128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009500128",
         "name": "\u00a7 20",
         "title": "Erwerb und Besitz von Schusswaffen durch Erwerber infolge eines Erbfalls",
         "parent": {
@@ -402,7 +402,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000700000",
         "name": "Unterabschnitt 4",
         "title": "Besondere Erlaubnistatbest\u00e4nde f\u00fcr\nWaffenherstellung, Waffenhandel, Schie\u00dfst\u00e4tten, Bewachungsunternehmer",
         "parent": {
@@ -413,7 +413,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE002102360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE002102360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE002102360",
         "name": "\u00a7 21",
         "title": "Gewerbsm\u00e4\u00dfige Waffenherstellung, Waffenhandel",
         "parent": {
@@ -427,7 +427,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE006400377",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE006400377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE006400377",
         "name": "\u00a7 21a",
         "title": "Stellvertretungserlaubnis",
         "parent": {
@@ -441,7 +441,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE002203128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE002203128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE002203128",
         "name": "\u00a7 22",
         "title": "Fachkunde",
         "parent": {
@@ -455,7 +455,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE002303360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE002303360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE002303360",
         "name": "\u00a7 23",
         "title": "(weggefallen)",
         "parent": {
@@ -469,7 +469,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE002404360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE002404360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE002404360",
         "name": "\u00a7 24",
         "title": "Kennzeichnungspflicht, Markenanzeigepflicht",
         "parent": {
@@ -483,7 +483,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE002502360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE002502360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE002502360",
         "name": "\u00a7 25",
         "title": "Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -497,7 +497,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008100360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008100360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008100360",
         "name": "\u00a7 25a",
         "title": "Anordnungen zur Kennzeichnung",
         "parent": {
@@ -511,7 +511,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE002600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE002600000",
         "name": "\u00a7 26",
         "title": "Nichtgewerbsm\u00e4\u00dfige Waffenherstellung",
         "parent": {
@@ -525,7 +525,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009600128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009600128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009600128",
         "name": "\u00a7 27",
         "title": "Schie\u00dfst\u00e4tten, Schie\u00dfen durch Minderj\u00e4hrige auf Schie\u00dfst\u00e4tten",
         "parent": {
@@ -539,7 +539,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008200360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008200360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008200360",
         "name": "\u00a7 27a",
         "title": "Sicherheitstechnische Pr\u00fcfung von Schie\u00dfst\u00e4tten; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -553,7 +553,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE002801116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE002801116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE002801116",
         "name": "\u00a7 28",
         "title": "Erwerb, Besitz und F\u00fchren von Schusswaffen und Munition durch Bewachungsunternehmer und ihr Bewachungspersonal",
         "parent": {
@@ -567,7 +567,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE007101360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE007101360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE007101360",
         "name": "\u00a7 28a",
         "title": "Erwerb, Besitz und F\u00fchren von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal f\u00fcr Bewachungsaufgaben nach \u00a7 31 Absatz 1 der Gewerbeordnung",
         "parent": {
@@ -581,7 +581,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000800000",
         "name": "Unterabschnitt 5",
         "title": "Verbringen und Mitnahme von Waffen\noder Munition in den, durch den oder aus dem Geltungsbereich des\nGesetzes",
         "parent": {
@@ -592,7 +592,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE002905360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE002905360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE002905360",
         "name": "\u00a7 29",
         "title": "Verbringen von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich dieses Gesetzes",
         "parent": {
@@ -606,7 +606,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE003005360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE003005360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE003005360",
         "name": "\u00a7 30",
         "title": "Allgemeine Erlaubnis zum Verbringen von Waffen oder Munition aus dem Geltungsbereich dieses Gesetzes in andere Mitgliedstaaten",
         "parent": {
@@ -620,7 +620,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE003107360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE003107360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE003107360",
         "name": "\u00a7 31",
         "title": "(weggefallen)",
         "parent": {
@@ -634,7 +634,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE003205360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE003205360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE003205360",
         "name": "\u00a7 32",
         "title": "Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes, Europ\u00e4ischer Feuerwaffenpass",
         "parent": {
@@ -648,7 +648,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009700128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009700128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009700128",
         "name": "\u00a7 33",
         "title": "Anmelde- und Nachweispflichten, Befugnisse der \u00dcberwachungsbeh\u00f6rden beim Verbringen oder der Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich dieses Gesetzes",
         "parent": {
@@ -662,7 +662,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000900000",
         "name": "Unterabschnitt 6",
         "title": "Obhutspflichten, Anzeige-, Hinweis-\nund Nachweispflichten",
         "parent": {
@@ -673,7 +673,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009800128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009800128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009800128",
         "name": "\u00a7 34",
         "title": "\u00dcberlassen von Waffen oder Munition, Pr\u00fcfung der Erwerbsberechtigung, Anzeigepflicht",
         "parent": {
@@ -687,7 +687,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE003500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE003500000",
         "name": "\u00a7 35",
         "title": "Werbung, Hinweispflichten, Handelsverbote",
         "parent": {
@@ -701,7 +701,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE003603128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE003603128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE003603128",
         "name": "\u00a7 36",
         "title": "Aufbewahrung von Waffen oder Munition",
         "parent": {
@@ -715,7 +715,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE003703360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE003703360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE003703360",
         "name": "\u00a7 37",
         "title": "Anzeigepflichten der gewerblichen Waffenhersteller und Waffenh\u00e4ndler",
         "parent": {
@@ -729,7 +729,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008300360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008300360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008300360",
         "name": "\u00a7 37a",
         "title": "Anzeigepflichten der Inhaber einer Waffenbesitzkarte oder einer gleichgestellten anderen Erlaubnis zum Erwerb und Besitz und der Inhaber einer nichtgewerbsm\u00e4\u00dfigen Waffenherstellungserlaubnis",
         "parent": {
@@ -743,7 +743,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008400360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008400360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008400360",
         "name": "\u00a7 37b",
         "title": "Anzeige der Vernichtung,der Unbrauchbarmachung und des Abhandenkommens",
         "parent": {
@@ -757,7 +757,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008500360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008500360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008500360",
         "name": "\u00a7 37c",
         "title": "Anzeigepflichten bei Inbesitznahme",
         "parent": {
@@ -771,7 +771,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008600360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008600360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008600360",
         "name": "\u00a7 37d",
         "title": "Anzeige von unbrauchbar gemachten Schusswaffen",
         "parent": {
@@ -785,7 +785,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008700360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008700360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008700360",
         "name": "\u00a7 37e",
         "title": "Ausnahmen von der Anzeigepflicht",
         "parent": {
@@ -799,7 +799,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008800360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008800360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008800360",
         "name": "\u00a7 37f",
         "title": "Inhalt der Anzeigen",
         "parent": {
@@ -813,7 +813,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE008900360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE008900360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE008900360",
         "name": "\u00a7 37g",
         "title": "Eintragungen in die Waffenbesitzkarte",
         "parent": {
@@ -827,7 +827,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009000360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009000360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009000360",
         "name": "\u00a7 37h",
         "title": "Ausstellung einer Anzeigebescheinigung",
         "parent": {
@@ -841,7 +841,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009100360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009100360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009100360",
         "name": "\u00a7 37i",
         "title": "Mitteilungspflicht bei Umzug ins Ausland und bei Umzug im Ausland",
         "parent": {
@@ -855,7 +855,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE003805360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE003805360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE003805360",
         "name": "\u00a7 38",
         "title": "Ausweispflichten",
         "parent": {
@@ -869,7 +869,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE003900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE003900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE003900000",
         "name": "\u00a7 39",
         "title": "Auskunfts- und Vorzeigepflicht, Nachschau",
         "parent": {
@@ -883,7 +883,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009200360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009200360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009200360",
         "name": "\u00a7 39a",
         "title": "Verordnungserm\u00e4chtigung f\u00fcr die Ersatzdokumentation",
         "parent": {
@@ -897,7 +897,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG001501360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG001501360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001501360",
         "name": "Unterabschnitt 6a",
         "title": "Besondere Regelungen zum Umgang mit Salutwaffen und unbrauchbar gemachten Schusswaffen, zur Unbrauchbarmachung von Schusswaffen und zur Aufbewahrung von Salutwaffen",
         "parent": {
@@ -908,7 +908,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009300360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009300360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009300360",
         "name": "\u00a7 39b",
         "title": "Erwerb, Besitz und Aufbewahrung von Salutwaffen",
         "parent": {
@@ -922,7 +922,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE007703128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE007703128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE007703128",
         "name": "\u00a7 39c",
         "title": "Unbrauchbarmachung von Schusswaffen und Umgang mit unbrauchbar gemachten Schusswaffen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -936,7 +936,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001000000",
         "name": "Unterabschnitt 7",
         "title": "Verbote",
         "parent": {
@@ -947,7 +947,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004002360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004002360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004002360",
         "name": "\u00a7 40",
         "title": "Verbotene Waffen",
         "parent": {
@@ -961,7 +961,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004101116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004101116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004101116",
         "name": "\u00a7 41",
         "title": "Waffenverbote f\u00fcr den Einzelfall",
         "parent": {
@@ -975,7 +975,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004203360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004203360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004203360",
         "name": "\u00a7 42",
         "title": "Verbot des F\u00fchrens von Waffen bei \u00f6ffentlichen Veranstaltungen; Verordnungserm\u00e4chtigungen f\u00fcr Verbotszonen",
         "parent": {
@@ -989,7 +989,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE006601118",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE006601118",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE006601118",
         "name": "\u00a7 42a",
         "title": "Verbot des F\u00fchrens von Anscheinswaffen und bestimmten tragbaren Gegenst\u00e4nden",
         "parent": {
@@ -1003,7 +1003,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001100000",
         "name": "Abschnitt 3",
         "title": "Sonstige waffenrechtliche Vorschriften",
         "parent": null
@@ -1011,7 +1011,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004301116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004301116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004301116",
         "name": "\u00a7 43",
         "title": "Erhebung und \u00dcbermittlung personenbezogener Daten",
         "parent": {
@@ -1025,7 +1025,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004403360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004403360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004403360",
         "name": "\u00a7 44",
         "title": "\u00dcbermittlung an und von Meldebeh\u00f6rden",
         "parent": {
@@ -1039,7 +1039,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE006702360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE006702360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE006702360",
         "name": "\u00a7 44a",
         "title": "Beh\u00f6rdliche Aufbewahrungspflichten",
         "parent": {
@@ -1053,7 +1053,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004502116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004502116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004502116",
         "name": "\u00a7 45",
         "title": "R\u00fccknahme und Widerruf",
         "parent": {
@@ -1067,7 +1067,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004602116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004602116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004602116",
         "name": "\u00a7 46",
         "title": "Weitere Ma\u00dfnahmen",
         "parent": {
@@ -1081,7 +1081,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004701128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004701128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004701128",
         "name": "\u00a7 47",
         "title": "Verordnungen zur Erf\u00fcllung internationaler Vereinbarungen oder zur Angleichung an Gemeinschaftsrecht",
         "parent": {
@@ -1095,7 +1095,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004805118",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004805118",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004805118",
         "name": "\u00a7 48",
         "title": "Sachliche Zust\u00e4ndigkeit",
         "parent": {
@@ -1109,7 +1109,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE004901377",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE004901377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE004901377",
         "name": "\u00a7 49",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -1123,7 +1123,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005007301",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005007301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005007301",
         "name": "\u00a7 50",
         "title": "(weggefallen)",
         "parent": {
@@ -1137,7 +1137,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG001200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001200000",
         "name": "Abschnitt 4",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null
@@ -1145,7 +1145,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005102360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005102360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005102360",
         "name": "\u00a7 51",
         "title": "Strafvorschriften",
         "parent": {
@@ -1159,7 +1159,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005206360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005206360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005206360",
         "name": "\u00a7 52",
         "title": "Strafvorschriften",
         "parent": {
@@ -1173,7 +1173,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE007001118",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE007001118",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE007001118",
         "name": "\u00a7 52a",
         "title": "(weggefallen)",
         "parent": {
@@ -1187,7 +1187,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005309360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005309360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005309360",
         "name": "\u00a7 53",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -1201,7 +1201,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005401118",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005401118",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005401118",
         "name": "\u00a7 54",
         "title": "Einziehung",
         "parent": {
@@ -1215,7 +1215,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001300000",
         "name": "Abschnitt 5",
         "title": "Ausnahmen von der Anwendung des Gesetzes",
         "parent": null
@@ -1223,7 +1223,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009900128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009900128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009900128",
         "name": "\u00a7 55",
         "title": "Ausnahmen f\u00fcr oberste Bundes- und Landesbeh\u00f6rden, Bundeswehr, Polizei und Zollverwaltung, erheblich gef\u00e4hrdete Hoheitstr\u00e4ger sowie Bedienstete anderer Staaten",
         "parent": {
@@ -1237,7 +1237,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005602116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005602116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005602116",
         "name": "\u00a7 56",
         "title": "Sondervorschriften f\u00fcr Staatsg\u00e4ste und andere Besucher",
         "parent": {
@@ -1251,7 +1251,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005701118",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005701118",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005701118",
         "name": "\u00a7 57",
         "title": "Kriegswaffen",
         "parent": {
@@ -1265,7 +1265,7 @@
       {
         "type": "heading",
         "id": "BJNR397010002BJNG001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNG001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001400000",
         "name": "Abschnitt 6",
         "title": "\u00dcbergangsvorschriften,\nVerwaltungsvorschriften",
         "parent": null
@@ -1273,7 +1273,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005805116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005805116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005805116",
         "name": "\u00a7 58",
         "title": "Altbesitz; \u00dcbergangsvorschriften",
         "parent": {
@@ -1287,7 +1287,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE005901128",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE005901128",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE005901128",
         "name": "\u00a7 59",
         "title": "Verwaltungsvorschriften",
         "parent": {
@@ -1301,7 +1301,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE007900360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE007900360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE007900360",
         "name": "\u00a7 60",
         "title": "\u00dcbergangsvorschrift zur Kostenverordnung",
         "parent": {
@@ -1315,7 +1315,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE009400360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE009400360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE009400360",
         "name": "\u00a7 60a",
         "title": "\u00dcbergangsvorschrift zu den Waffenb\u00fcchern",
         "parent": {
@@ -1329,7 +1329,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE006003360",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE006003360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE006003360",
         "name": "Anlage 1",
         "title": "(zu \u00a7 1 Abs. 4)<BR/>Begriffsbestimmungen",
         "parent": {
@@ -1343,7 +1343,7 @@
       {
         "type": "article",
         "id": "BJNR397010002BJNE006105116",
-        "url": "https://api.rechtsinformationsportal.de/laws/waffg/articles/BJNR397010002BJNE006105116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNE006105116",
         "name": "Anlage 2",
         "title": "(zu \u00a7 2 Abs. 2 bis 4)<BR/>Waffenliste",
         "parent": {

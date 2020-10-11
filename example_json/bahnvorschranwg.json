@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR208110934",
-    "url": "https://api.rechtsinformationsportal.de/laws/bahnvorschranwg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/bahnvorschranwg",
     "firstPublished": "1934-09-26",
     "sourceTimestamp": "20120625151842",
     "titleShort": null,
@@ -27,7 +27,7 @@
       {
         "type": "article",
         "id": "BJNR208110934BJNE000100326",
-        "url": "https://api.rechtsinformationsportal.de/laws/bahnvorschranwg/articles/BJNR208110934BJNE000100326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bahnvorschranwg/articles/BJNR208110934BJNE000100326",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -38,7 +38,7 @@
       {
         "type": "article",
         "id": "BJNR208110934BJNE000200326",
-        "url": "https://api.rechtsinformationsportal.de/laws/bahnvorschranwg/articles/BJNR208110934BJNE000200326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bahnvorschranwg/articles/BJNR208110934BJNE000200326",
         "name": "Einziger Paragraph",
         "title": null,
         "parent": null,

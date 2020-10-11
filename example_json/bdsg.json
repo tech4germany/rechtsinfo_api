@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR209710017",
-    "url": "https://api.rechtsinformationsportal.de/laws/bdsg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg",
     "firstPublished": "2017-06-30",
     "sourceTimestamp": "20191204212556",
     "titleShort": null,
@@ -38,7 +38,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000101116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000101116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000101116",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -49,7 +49,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000100000",
         "name": "Teil 1",
         "title": "Gemeinsame Bestimmungen",
         "parent": null
@@ -57,7 +57,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000200000",
         "name": "Kapitel 1",
         "title": "Anwendungsbereich und Begriffsbestimmungen",
         "parent": {
@@ -68,7 +68,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000201116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000201116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000201116",
         "name": "\u00a7 1",
         "title": "Anwendungsbereich des Gesetzes",
         "parent": {
@@ -82,7 +82,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000300000",
         "name": "\u00a7 2",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -96,7 +96,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000300000",
         "name": "Kapitel 2",
         "title": "Rechtsgrundlagen der Verarbeitung personenbezogener Daten",
         "parent": {
@@ -107,7 +107,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000400000",
         "name": "\u00a7 3",
         "title": "Verarbeitung personenbezogener Daten durch \u00f6ffentliche Stellen",
         "parent": {
@@ -121,7 +121,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000501116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000501116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000501116",
         "name": "\u00a7 4",
         "title": "Video\u00fcberwachung \u00f6ffentlich zug\u00e4nglicher R\u00e4ume",
         "parent": {
@@ -135,7 +135,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000400000",
         "name": "Kapitel 3",
         "title": "Datenschutzbeauftragte \u00f6ffentlicher Stellen",
         "parent": {
@@ -146,7 +146,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000600000",
         "name": "\u00a7 5",
         "title": "Benennung",
         "parent": {
@@ -160,7 +160,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000700000",
         "name": "\u00a7 6",
         "title": "Stellung",
         "parent": {
@@ -174,7 +174,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000800000",
         "name": "\u00a7 7",
         "title": "Aufgaben",
         "parent": {
@@ -188,7 +188,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000500000",
         "name": "Kapitel 4",
         "title": "Die oder der Bundesbeauftragte f\u00fcr den Datenschutz und die Informationsfreiheit",
         "parent": {
@@ -199,7 +199,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE000900000",
         "name": "\u00a7 8",
         "title": "Errichtung",
         "parent": {
@@ -213,7 +213,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001001116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001001116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001001116",
         "name": "\u00a7 9",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -227,7 +227,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001100000",
         "name": "\u00a7 10",
         "title": "Unabh\u00e4ngigkeit",
         "parent": {
@@ -241,7 +241,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001200000",
         "name": "\u00a7 11",
         "title": "Ernennung und Amtszeit",
         "parent": {
@@ -255,7 +255,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001300000",
         "name": "\u00a7 12",
         "title": "Amtsverh\u00e4ltnis",
         "parent": {
@@ -269,7 +269,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001400000",
         "name": "\u00a7 13",
         "title": "Rechte und Pflichten",
         "parent": {
@@ -283,7 +283,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001500000",
         "name": "\u00a7 14",
         "title": "Aufgaben",
         "parent": {
@@ -297,7 +297,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001600000",
         "name": "\u00a7 15",
         "title": "T\u00e4tigkeitsbericht",
         "parent": {
@@ -311,7 +311,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001701116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001701116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001701116",
         "name": "\u00a7 16",
         "title": "Befugnisse",
         "parent": {
@@ -325,7 +325,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000600000",
         "name": "Kapitel 5",
         "title": "Vertretung im Europ\u00e4ischen Datenschutzausschuss, zentrale Anlaufstelle, Zusammenarbeit der Aufsichtsbeh\u00f6rden des Bundes und der L\u00e4nder in Angelegenheiten der Europ\u00e4ischen Union",
         "parent": {
@@ -336,7 +336,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001800000",
         "name": "\u00a7 17",
         "title": "Vertretung im Europ\u00e4ischen Datenschutzausschuss, zentrale Anlaufstelle",
         "parent": {
@@ -350,7 +350,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE001900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE001900000",
         "name": "\u00a7 18",
         "title": "Verfahren der Zusammenarbeit der Aufsichtsbeh\u00f6rden des Bundes und der L\u00e4nder",
         "parent": {
@@ -364,7 +364,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002001116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002001116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002001116",
         "name": "\u00a7 19",
         "title": "Zust\u00e4ndigkeiten",
         "parent": {
@@ -378,7 +378,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000700000",
         "name": "Kapitel 6",
         "title": "Rechtsbehelfe",
         "parent": {
@@ -389,7 +389,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002100000",
         "name": "\u00a7 20",
         "title": "Gerichtlicher Rechtsschutz",
         "parent": {
@@ -403,7 +403,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002200000",
         "name": "\u00a7 21",
         "title": "Antrag der Aufsichtsbeh\u00f6rde auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Beschlusses der Europ\u00e4ischen Kommission",
         "parent": {
@@ -417,7 +417,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000800000",
         "name": "Teil 2",
         "title": "Durchf\u00fchrungsbestimmungen f\u00fcr Verarbeitungen zu Zwecken gem\u00e4\u00df Artikel 2 der Verordnung (EU) 2016/679",
         "parent": null
@@ -425,7 +425,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000900000",
         "name": "Kapitel 1",
         "title": "Rechtsgrundlagen der Verarbeitung personenbezogener Daten",
         "parent": {
@@ -436,7 +436,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001000000",
         "name": "Abschnitt 1",
         "title": "Verarbeitung besonderer Kategorien personenbezogener Daten und Verarbeitung zu anderen Zwecken",
         "parent": {
@@ -447,7 +447,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002301116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002301116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002301116",
         "name": "\u00a7 22",
         "title": "Verarbeitung besonderer Kategorien personenbezogener Daten",
         "parent": {
@@ -461,7 +461,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002400000",
         "name": "\u00a7 23",
         "title": "Verarbeitung zu anderen Zwecken durch \u00f6ffentliche Stellen",
         "parent": {
@@ -475,7 +475,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002500000",
         "name": "\u00a7 24",
         "title": "Verarbeitung zu anderen Zwecken durch nicht\u00f6ffentliche Stellen",
         "parent": {
@@ -489,7 +489,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002600000",
         "name": "\u00a7 25",
         "title": "Daten\u00fcbermittlungen durch \u00f6ffentliche Stellen",
         "parent": {
@@ -503,7 +503,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001100000",
         "name": "Abschnitt 2",
         "title": "Besondere Verarbeitungssituationen",
         "parent": {
@@ -514,7 +514,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002701116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002701116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002701116",
         "name": "\u00a7 26",
         "title": "Datenverarbeitung f\u00fcr Zwecke des Besch\u00e4ftigungsverh\u00e4ltnisses",
         "parent": {
@@ -528,7 +528,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002800000",
         "name": "\u00a7 27",
         "title": "Datenverarbeitung zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken",
         "parent": {
@@ -542,7 +542,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE002900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE002900000",
         "name": "\u00a7 28",
         "title": "Datenverarbeitung zu im \u00f6ffentlichen Interesse liegenden Archivzwecken",
         "parent": {
@@ -556,7 +556,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003000000",
         "name": "\u00a7 29",
         "title": "Rechte der betroffenen Person und aufsichtsbeh\u00f6rdliche Befugnisse im Fall von Geheimhaltungspflichten",
         "parent": {
@@ -570,7 +570,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003100000",
         "name": "\u00a7 30",
         "title": "Verbraucherkredite",
         "parent": {
@@ -584,7 +584,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003200000",
         "name": "\u00a7 31",
         "title": "Schutz des Wirtschaftsverkehrs bei Scoring und Bonit\u00e4tsausk\u00fcnften",
         "parent": {
@@ -598,7 +598,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001200000",
         "name": "Kapitel 2",
         "title": "Rechte der betroffenen Person",
         "parent": {
@@ -609,7 +609,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003300000",
         "name": "\u00a7 32",
         "title": "Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person",
         "parent": {
@@ -623,7 +623,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003400000",
         "name": "\u00a7 33",
         "title": "Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden",
         "parent": {
@@ -637,7 +637,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003500000",
         "name": "\u00a7 34",
         "title": "Auskunftsrecht der betroffenen Person",
         "parent": {
@@ -651,7 +651,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003600000",
         "name": "\u00a7 35",
         "title": "Recht auf L\u00f6schung",
         "parent": {
@@ -665,7 +665,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003700000",
         "name": "\u00a7 36",
         "title": "Widerspruchsrecht",
         "parent": {
@@ -679,7 +679,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003800000",
         "name": "\u00a7 37",
         "title": "Automatisierte Entscheidungen im Einzelfall einschlie\u00dflich Profiling",
         "parent": {
@@ -693,7 +693,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001300000",
         "name": "Kapitel 3",
         "title": "Pflichten der Verantwortlichen und Auftragsverarbeiter",
         "parent": {
@@ -704,7 +704,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE003901116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE003901116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE003901116",
         "name": "\u00a7 38",
         "title": "Datenschutzbeauftragte nicht\u00f6ffentlicher Stellen",
         "parent": {
@@ -718,7 +718,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004000000",
         "name": "\u00a7 39",
         "title": "Akkreditierung",
         "parent": {
@@ -732,7 +732,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001400000",
         "name": "Kapitel 4",
         "title": "Aufsichtsbeh\u00f6rde f\u00fcr die Datenverarbeitung durch nicht\u00f6ffentliche Stellen",
         "parent": {
@@ -743,7 +743,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004100000",
         "name": "\u00a7 40",
         "title": "Aufsichtsbeh\u00f6rden der L\u00e4nder",
         "parent": {
@@ -757,7 +757,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001500000",
         "name": "Kapitel 5",
         "title": "Sanktionen",
         "parent": {
@@ -768,7 +768,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004200000",
         "name": "\u00a7 41",
         "title": "Anwendung der Vorschriften \u00fcber das Bu\u00dfgeld- und Strafverfahren",
         "parent": {
@@ -782,7 +782,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004300000",
         "name": "\u00a7 42",
         "title": "Strafvorschriften",
         "parent": {
@@ -796,7 +796,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004400000",
         "name": "\u00a7 43",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -810,7 +810,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001600000",
         "name": "Kapitel 6",
         "title": "Rechtsbehelfe",
         "parent": {
@@ -821,7 +821,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004500000",
         "name": "\u00a7 44",
         "title": "Klagen gegen den Verantwortlichen oder Auftragsverarbeiter",
         "parent": {
@@ -835,7 +835,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001700000",
         "name": "Teil 3",
         "title": "Bestimmungen f\u00fcr Verarbeitungen zu Zwecken gem\u00e4\u00df Artikel 1 Absatz 1 der Richtlinie (EU) 2016/680",
         "parent": null
@@ -843,7 +843,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001800000",
         "name": "Kapitel 1",
         "title": "Anwendungsbereich, Begriffsbestimmungen und allgemeine Grunds\u00e4tze f\u00fcr die Verarbeitung personenbezogener Daten",
         "parent": {
@@ -854,7 +854,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004600000",
         "name": "\u00a7 45",
         "title": "Anwendungsbereich",
         "parent": {
@@ -868,7 +868,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004700000",
         "name": "\u00a7 46",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -882,7 +882,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004800000",
         "name": "\u00a7 47",
         "title": "Allgemeine Grunds\u00e4tze f\u00fcr die Verarbeitung personenbezogener Daten",
         "parent": {
@@ -896,7 +896,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG001900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG001900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001900000",
         "name": "Kapitel 2",
         "title": "Rechtsgrundlagen der Verarbeitung personenbezogener Daten",
         "parent": {
@@ -907,7 +907,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE004900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE004900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE004900000",
         "name": "\u00a7 48",
         "title": "Verarbeitung besonderer Kategorien personenbezogener Daten",
         "parent": {
@@ -921,7 +921,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005000000",
         "name": "\u00a7 49",
         "title": "Verarbeitung zu anderen Zwecken",
         "parent": {
@@ -935,7 +935,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005100000",
         "name": "\u00a7 50",
         "title": "Verarbeitung zu archivarischen, wissenschaftlichen und statistischen Zwecken",
         "parent": {
@@ -949,7 +949,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005200000",
         "name": "\u00a7 51",
         "title": "Einwilligung",
         "parent": {
@@ -963,7 +963,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005300000",
         "name": "\u00a7 52",
         "title": "Verarbeitung auf Weisung des Verantwortlichen",
         "parent": {
@@ -977,7 +977,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005400000",
         "name": "\u00a7 53",
         "title": "Datengeheimnis",
         "parent": {
@@ -991,7 +991,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005500000",
         "name": "\u00a7 54",
         "title": "Automatisierte Einzelentscheidung",
         "parent": {
@@ -1005,7 +1005,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG002000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG002000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG002000000",
         "name": "Kapitel 3",
         "title": "Rechte der betroffenen Person",
         "parent": {
@@ -1016,7 +1016,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005600000",
         "name": "\u00a7 55",
         "title": "Allgemeine Informationen zu Datenverarbeitungen",
         "parent": {
@@ -1030,7 +1030,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005700000",
         "name": "\u00a7 56",
         "title": "Benachrichtigung betroffener Personen",
         "parent": {
@@ -1044,7 +1044,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005800000",
         "name": "\u00a7 57",
         "title": "Auskunftsrecht",
         "parent": {
@@ -1058,7 +1058,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE005900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE005900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE005900000",
         "name": "\u00a7 58",
         "title": "Rechte auf Berichtigung und L\u00f6schung sowie Einschr\u00e4nkung der Verarbeitung",
         "parent": {
@@ -1072,7 +1072,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006000000",
         "name": "\u00a7 59",
         "title": "Verfahren f\u00fcr die Aus\u00fcbung der Rechte der betroffenen Person",
         "parent": {
@@ -1086,7 +1086,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006100000",
         "name": "\u00a7 60",
         "title": "Anrufung der oder des Bundesbeauftragten",
         "parent": {
@@ -1100,7 +1100,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006200000",
         "name": "\u00a7 61",
         "title": "Rechtsschutz gegen Entscheidungen der oder des Bundesbeauftragten oder bei deren oder dessen Unt\u00e4tigkeit",
         "parent": {
@@ -1114,7 +1114,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG002100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG002100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG002100000",
         "name": "Kapitel 4",
         "title": "Pflichten der Verantwortlichen und Auftragsverarbeiter",
         "parent": {
@@ -1125,7 +1125,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006300000",
         "name": "\u00a7 62",
         "title": "Auftragsverarbeitung",
         "parent": {
@@ -1139,7 +1139,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006400000",
         "name": "\u00a7 63",
         "title": "Gemeinsam Verantwortliche",
         "parent": {
@@ -1153,7 +1153,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006500000",
         "name": "\u00a7 64",
         "title": "Anforderungen an die Sicherheit der Datenverarbeitung",
         "parent": {
@@ -1167,7 +1167,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006600000",
         "name": "\u00a7 65",
         "title": "Meldung von Verletzungen des Schutzes personenbezogener Daten an die oder den Bundesbeauftragten",
         "parent": {
@@ -1181,7 +1181,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006700000",
         "name": "\u00a7 66",
         "title": "Benachrichtigung betroffener Personen bei Verletzungen des Schutzes personenbezogener Daten",
         "parent": {
@@ -1195,7 +1195,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006800000",
         "name": "\u00a7 67",
         "title": "Durchf\u00fchrung einer Datenschutz-Folgenabsch\u00e4tzung",
         "parent": {
@@ -1209,7 +1209,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE006900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE006900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE006900000",
         "name": "\u00a7 68",
         "title": "Zusammenarbeit mit der oder dem Bundesbeauftragten",
         "parent": {
@@ -1223,7 +1223,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007000000",
         "name": "\u00a7 69",
         "title": "Anh\u00f6rung der oder des Bundesbeauftragten",
         "parent": {
@@ -1237,7 +1237,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007100000",
         "name": "\u00a7 70",
         "title": "Verzeichnis von Verarbeitungst\u00e4tigkeiten",
         "parent": {
@@ -1251,7 +1251,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007200000",
         "name": "\u00a7 71",
         "title": "Datenschutz durch Technikgestaltung und datenschutzfreundliche Voreinstellungen",
         "parent": {
@@ -1265,7 +1265,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007300000",
         "name": "\u00a7 72",
         "title": "Unterscheidung zwischen verschiedenen Kategorien betroffener Personen",
         "parent": {
@@ -1279,7 +1279,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007400000",
         "name": "\u00a7 73",
         "title": "Unterscheidung zwischen Tatsachen und pers\u00f6nlichen Einsch\u00e4tzungen",
         "parent": {
@@ -1293,7 +1293,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007500000",
         "name": "\u00a7 74",
         "title": "Verfahren bei \u00dcbermittlungen",
         "parent": {
@@ -1307,7 +1307,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007600000",
         "name": "\u00a7 75",
         "title": "Berichtigung und L\u00f6schung personenbezogener Daten sowie Einschr\u00e4nkung der Verarbeitung",
         "parent": {
@@ -1321,7 +1321,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007700000",
         "name": "\u00a7 76",
         "title": "Protokollierung",
         "parent": {
@@ -1335,7 +1335,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007800000",
         "name": "\u00a7 77",
         "title": "Vertrauliche Meldung von Verst\u00f6\u00dfen",
         "parent": {
@@ -1349,7 +1349,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG002200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG002200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG002200000",
         "name": "Kapitel 5",
         "title": "Daten\u00fcbermittlungen an Drittstaaten und an internationale Organisationen",
         "parent": {
@@ -1360,7 +1360,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE007900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE007900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE007900000",
         "name": "\u00a7 78",
         "title": "Allgemeine Voraussetzungen",
         "parent": {
@@ -1374,7 +1374,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE008000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE008000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE008000000",
         "name": "\u00a7 79",
         "title": "Daten\u00fcbermittlung bei geeigneten Garantien",
         "parent": {
@@ -1388,7 +1388,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE008100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE008100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE008100000",
         "name": "\u00a7 80",
         "title": "Daten\u00fcbermittlung ohne geeignete Garantien",
         "parent": {
@@ -1402,7 +1402,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE008200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE008200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE008200000",
         "name": "\u00a7 81",
         "title": "Sonstige Daten\u00fcbermittlung an Empf\u00e4nger in Drittstaaten",
         "parent": {
@@ -1416,7 +1416,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG002300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG002300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG002300000",
         "name": "Kapitel 6",
         "title": "Zusammenarbeit der Aufsichtsbeh\u00f6rden",
         "parent": {
@@ -1427,7 +1427,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE008300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE008300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE008300000",
         "name": "\u00a7 82",
         "title": "Gegenseitige Amtshilfe",
         "parent": {
@@ -1441,7 +1441,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG002400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG002400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG002400000",
         "name": "Kapitel 7",
         "title": "Haftung und Sanktionen",
         "parent": {
@@ -1452,7 +1452,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE008400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE008400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE008400000",
         "name": "\u00a7 83",
         "title": "Schadensersatz und Entsch\u00e4digung",
         "parent": {
@@ -1466,7 +1466,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE008500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE008500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE008500000",
         "name": "\u00a7 84",
         "title": "Strafvorschriften",
         "parent": {
@@ -1480,7 +1480,7 @@
       {
         "type": "heading",
         "id": "BJNR209710017BJNG002500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNG002500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG002500000",
         "name": "Teil 4",
         "title": "Besondere Bestimmungen f\u00fcr Verarbeitungen im Rahmen von nicht in die Anwendungsbereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden T\u00e4tigkeiten",
         "parent": null
@@ -1488,7 +1488,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE008600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE008600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE008600000",
         "name": "\u00a7 85",
         "title": "Verarbeitung personenbezogener Daten im Rahmen von nicht in die Anwendungs- bereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden T\u00e4tigkeiten",
         "parent": {
@@ -1502,7 +1502,7 @@
       {
         "type": "article",
         "id": "BJNR209710017BJNE008700116",
-        "url": "https://api.rechtsinformationsportal.de/laws/bdsg/articles/BJNR209710017BJNE008700116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNE008700116",
         "name": "\u00a7 86",
         "title": "Verarbeitung personenbezogener Daten f\u00fcr Zwecke staatlicher Auszeichnungen und Ehrungen",
         "parent": {

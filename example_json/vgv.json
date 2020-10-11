@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR062410016",
-    "url": "https://api.rechtsinformationsportal.de/laws/vgv",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv",
     "firstPublished": "2016-04-12",
     "sourceTimestamp": "20200514213016",
     "titleShort": "Vergabeverordnung",
@@ -34,7 +34,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000100000",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -43,31 +43,28 @@
         "documentaryFootnotes": null
       },
       {
-        "type": "headingArticle",
+        "type": "heading",
         "id": "BJNR062410016BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Bestimmungen und Kommunikation",
-        "parent": null,
-        "body": null,
-        "footnotes": null,
-        "documentaryFootnotes": "<P>(+++ Abschnitt 1 (\u00a7\u00a7 1 bis 13): Zur Anwendung vgl. \u00a7 2 +++)</P>"
+        "parent": null
       },
       {
         "type": "heading",
         "id": "BJNR062410016BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000200000",
         "name": "Unterabschnitt 1",
         "title": "Allgemeine Bestimmungen",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000100000"
         }
       },
       {
         "type": "article",
         "id": "BJNR062410016BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000200000",
         "name": "\u00a7 1",
         "title": "Gegenstand und Anwendungsbereich",
         "parent": {
@@ -81,7 +78,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE000301125",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000301125",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000301125",
         "name": "\u00a7 2",
         "title": "Vergabe von Bauauftr\u00e4gen",
         "parent": {
@@ -95,7 +92,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000400000",
         "name": "\u00a7 3",
         "title": "Sch\u00e4tzung des Auftragswerts",
         "parent": {
@@ -109,7 +106,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000500000",
         "name": "\u00a7 4",
         "title": "Gelegentliche gemeinsame Auftragsvergabe; zentrale Beschaffung",
         "parent": {
@@ -123,7 +120,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000600000",
         "name": "\u00a7 5",
         "title": "Wahrung der Vertraulichkeit",
         "parent": {
@@ -137,7 +134,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000700000",
         "name": "\u00a7 6",
         "title": "Vermeidung von Interessenkonflikten",
         "parent": {
@@ -151,7 +148,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000800000",
         "name": "\u00a7 7",
         "title": "Mitwirkung an der Vorbereitung des Vergabeverfahrens",
         "parent": {
@@ -165,7 +162,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE000900000",
         "name": "\u00a7 8",
         "title": "Dokumentation und Vergabevermerk",
         "parent": {
@@ -179,18 +176,18 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000300000",
         "name": "Unterabschnitt 2",
         "title": "Kommunikation",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000100000"
         }
       },
       {
         "type": "article",
         "id": "BJNR062410016BJNE001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001000000",
         "name": "\u00a7 9",
         "title": "Grunds\u00e4tze der Kommunikation",
         "parent": {
@@ -204,7 +201,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001100000",
         "name": "\u00a7 10",
         "title": "Anforderungen an die verwendeten elektronischen Mittel",
         "parent": {
@@ -218,7 +215,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001202124",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001202124",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001202124",
         "name": "\u00a7 11",
         "title": "Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren",
         "parent": {
@@ -232,7 +229,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001300000",
         "name": "\u00a7 12",
         "title": "Einsatz alternativer elektronischer Mittel bei der Kommunikation",
         "parent": {
@@ -246,7 +243,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001400000",
         "name": "\u00a7 13",
         "title": "Allgemeine Verwaltungsvorschriften",
         "parent": {
@@ -260,7 +257,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000400000",
         "name": "Abschnitt 2",
         "title": "Vergabeverfahren",
         "parent": null
@@ -268,7 +265,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000500000",
         "name": "Unterabschnitt 1",
         "title": "Verfahrensarten",
         "parent": {
@@ -279,7 +276,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001502360",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001502360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001502360",
         "name": "\u00a7 14",
         "title": "Wahl der Verfahrensart",
         "parent": {
@@ -293,7 +290,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001600000",
         "name": "\u00a7 15",
         "title": "Offenes Verfahren",
         "parent": {
@@ -307,7 +304,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001700000",
         "name": "\u00a7 16",
         "title": "Nicht offenes Verfahren",
         "parent": {
@@ -321,7 +318,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001800000",
         "name": "\u00a7 17",
         "title": "Verhandlungsverfahren",
         "parent": {
@@ -335,7 +332,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE001900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE001900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE001900000",
         "name": "\u00a7 18",
         "title": "Wettbewerblicher Dialog",
         "parent": {
@@ -349,7 +346,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002000000",
         "name": "\u00a7 19",
         "title": "Innovationspartnerschaft",
         "parent": {
@@ -363,7 +360,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002100000",
         "name": "\u00a7 20",
         "title": "Angemessene Fristsetzung; Pflicht zur Fristverl\u00e4ngerung",
         "parent": {
@@ -375,27 +372,24 @@
         "documentaryFootnotes": null
       },
       {
-        "type": "headingArticle",
+        "type": "heading",
         "id": "BJNR062410016BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000600000",
         "name": "Unterabschnitt 2",
         "title": "Besondere Methoden und Instrumente in Vergabeverfahren",
         "parent": {
           "type": "heading",
           "id": "BJNR062410016BJNG000400000"
-        },
-        "body": null,
-        "footnotes": null,
-        "documentaryFootnotes": "<P>(+++ Unterabschnitt 2 (\u00a7\u00a7 21 bis 27): Zur Anwendung vgl. \u00a7 2 +++)</P>"
+        }
       },
       {
         "type": "article",
         "id": "BJNR062410016BJNE002200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002200000",
         "name": "\u00a7 21",
         "title": "Rahmenvereinbarungen",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000600000"
         },
         "body": "<P>(1) Der Abschluss einer Rahmenvereinbarung erfolgt im Wege einer nach dieser Verordnung anwendbaren Verfahrensart. Das in Aussicht genommene Auftragsvolumen ist so genau wie m\u00f6glich zu ermitteln und bekannt zu geben, braucht aber nicht abschlie\u00dfend festgelegt zu werden. Eine Rahmenvereinbarung darf nicht missbr\u00e4uchlich oder in einer Art angewendet werden, die den Wettbewerb behindert, einschr\u00e4nkt oder verf\u00e4lscht.</P><P>(2) Auf einer Rahmenvereinbarung beruhende Einzelauftr\u00e4ge werden nach den Kriterien dieses Absatzes und der Abs\u00e4tze 3 bis 5 vergeben. Die Einzelauftragsvergabe erfolgt ausschlie\u00dflich zwischen den in der Auftragsbekanntmachung oder der Aufforderung zur Interessensbest\u00e4tigung genannten \u00f6ffentlichen Auftraggebern und denjenigen Unternehmen, die zum Zeitpunkt des Abschlusses des Einzelauftrags Vertragspartei der Rahmenvereinbarung sind. Dabei d\u00fcrfen keine wesentlichen \u00c4nderungen an den Bedingungen der Rahmenvereinbarung vorgenommen werden.</P><P>(3) Wird eine Rahmenvereinbarung mit nur einem Unternehmen geschlossen, so werden die auf dieser Rahmenvereinbarung beruhenden Einzelauftr\u00e4ge entsprechend den Bedingungen der Rahmenvereinbarung vergeben. F\u00fcr die Vergabe der Einzelauftr\u00e4ge kann der \u00f6ffentliche Auftraggeber das an der Rahmenvereinbarung beteiligte Unternehmen in Textform nach \u00a7 126b des B\u00fcrgerlichen Gesetzbuchs auffordern, sein Angebot erforderlichenfalls zu vervollst\u00e4ndigen.</P><P>(4) Wird eine Rahmenvereinbarung mit mehr als einem Unternehmen geschlossen, werden die Einzelauftr\u00e4ge wie folgt vergeben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>gem\u00e4\u00df den Bedingungen der Rahmenvereinbarung ohne erneutes Vergabeverfahren, wenn in der Rahmenvereinbarung alle Bedingungen f\u00fcr die Erbringung der Leistung sowie die objektiven Bedingungen f\u00fcr die Auswahl der Unternehmen festgelegt sind, die sie als Partei der Rahmenvereinbarung ausf\u00fchren werden; die letztgenannten Bedingungen sind in der Auftragsbekanntmachung oder den Vergabeunterlagen f\u00fcr die Rahmenvereinbarung zu nennen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>wenn in der Rahmenvereinbarung alle Bedingungen f\u00fcr die Erbringung der Leistung festgelegt sind, teilweise ohne erneutes Vergabeverfahren gem\u00e4\u00df Nummer 1 und teilweise mit erneutem Vergabeverfahren zwischen den Unternehmen, die Partei der Rahmenvereinbarung sind, gem\u00e4\u00df Nummer 3, wenn diese M\u00f6glichkeit in der Auftragsbekanntmachung oder den Vergabeunterlagen f\u00fcr die Rahmenvereinbarung durch die \u00f6ffentlichen Auftraggeber festgelegt ist; die Entscheidung, ob bestimmte Liefer- oder Dienstleistungen nach erneutem Vergabeverfahren oder direkt entsprechend den Bedingungen der Rahmenvereinbarung beschafft werden sollen, wird nach objektiven Kriterien getroffen, die in der Auftragsbekanntmachung oder den Vergabeunterlagen f\u00fcr die Rahmenvereinbarung festgelegt sind; in der Auftragsbekanntmachung oder den Vergabeunterlagen ist au\u00dferdem festzulegen, welche Bedingungen einem erneuten Vergabeverfahren unterliegen k\u00f6nnen; diese M\u00f6glichkeiten gelten auch f\u00fcr jedes Los einer Rahmenvereinbarung, f\u00fcr das alle Bedingungen f\u00fcr die Erbringung der Leistung in der Rahmenvereinbarung festgelegt sind, ungeachtet dessen, ob alle Bedingungen f\u00fcr die Erbringung einer Leistung f\u00fcr andere Lose festgelegt wurden; oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sofern nicht alle Bedingungen zur Erbringung der Leistung in der Rahmenvereinbarung festgelegt sind, mittels eines erneuten Vergabeverfahrens zwischen den Unternehmen, die Parteien der Rahmenvereinbarung sind.</LA></DD></DL></P><P>(5) Die in Absatz 4 Nummer 2 und 3 genannten Vergabeverfahren beruhen auf denselben Bedingungen wie der Abschluss der Rahmenvereinbarung und erforderlichenfalls auf genauer formulierten Bedingungen sowie gegebenenfalls auf weiteren Bedingungen, die in der Auftragsbekanntmachung oder den Vergabeunterlagen f\u00fcr die Rahmenvereinbarung in \u00dcbereinstimmung mit dem folgenden Verfahren genannt werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>vor Vergabe jedes Einzelauftrags konsultiert der \u00f6ffentliche Auftraggeber in Textform nach \u00a7 126b des B\u00fcrgerlichen Gesetzbuchs die Unternehmen, die in der Lage sind, den Auftrag auszuf\u00fchren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der \u00f6ffentliche Auftraggeber setzt eine ausreichende Frist f\u00fcr die Abgabe der Angebote f\u00fcr jeden Einzelauftrag fest; dabei ber\u00fccksichtigt er unter anderem die Komplexit\u00e4t des Auftragsgegenstands und die f\u00fcr die \u00dcbermittlung der Angebote erforderliche Zeit,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Angebote sind in Textform nach \u00a7 126b des B\u00fcrgerlichen Gesetzbuchs einzureichen und d\u00fcrfen bis zum Ablauf der Einreichungsfrist nicht ge\u00f6ffnet werden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der \u00f6ffentliche Auftraggeber vergibt die Einzelauftr\u00e4ge an den Bieter, der auf der Grundlage der in der Auftragsbekanntmachung oder den Vergabeunterlagen f\u00fcr die Rahmenvereinbarung genannten Zuschlagskriterien das jeweils wirtschaftlichste Angebot vorgelegt hat.</LA></DD></DL></P><P>(6) Die Laufzeit einer Rahmenvereinbarung darf h\u00f6chstens vier Jahre betragen, es sei denn, es liegt ein im Gegenstand der Rahmenvereinbarung begr\u00fcndeter Sonderfall vor.</P>",
@@ -405,11 +399,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002300000",
         "name": "\u00a7 22",
         "title": "Grunds\u00e4tze f\u00fcr den Betrieb dynamischer Beschaffungssysteme",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000600000"
         },
         "body": "<P>(1) Der \u00f6ffentliche Auftraggeber kann f\u00fcr die Beschaffung markt\u00fcblicher Leistungen ein dynamisches Beschaffungssystem nutzen.</P><P>(2) Bei der Auftragsvergabe \u00fcber ein dynamisches Beschaffungssystem befolgt der \u00f6ffentliche Auftraggeber die Vorschriften f\u00fcr das nicht offene Verfahren.</P><P>(3) Ein dynamisches Beschaffungssystem wird ausschlie\u00dflich mithilfe elektronischer Mittel eingerichtet und betrieben. Die \u00a7\u00a7 11 und 12 finden Anwendung.</P><P>(4) Ein dynamisches Beschaffungssystem steht im gesamten Zeitraum seiner Einrichtung allen Bietern offen, die die im jeweiligen Vergabeverfahren festgelegten Eignungskriterien erf\u00fcllen. Die Zahl der zum dynamischen Beschaffungssystem zugelassenen Bewerber darf nicht begrenzt werden.</P><P>(5) Der Zugang zu einem dynamischen Beschaffungssystem ist f\u00fcr alle Unternehmen kostenlos.</P>",
@@ -419,11 +413,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002400000",
         "name": "\u00a7 23",
         "title": "Betrieb eines dynamischen Beschaffungssystems",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000600000"
         },
         "body": "<P>(1) Der \u00f6ffentliche Auftraggeber gibt in der Auftragsbekanntmachung an, dass er ein dynamisches Beschaffungssystem nutzt und f\u00fcr welchen Zeitraum es betrieben wird.</P><P>(2) Der \u00f6ffentliche Auftraggeber informiert die Europ\u00e4ische Kommission wie folgt \u00fcber eine \u00c4nderung der G\u00fcltigkeitsdauer: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wird die G\u00fcltigkeitsdauer ohne Einstellung des dynamischen Beschaffungssystems ge\u00e4ndert, ist das Muster gem\u00e4\u00df Anhang II der Durchf\u00fchrungsverordnung (EU) 2015/1986 der Kommission vom 11. November 2015 zur Einf\u00fchrung von Standardformularen f\u00fcr die Ver\u00f6ffentlichung von Vergabebekanntmachungen f\u00fcr \u00f6ffentliche Auftr\u00e4ge und zur Aufhebung der Durchf\u00fchrungsverordnung (EU) Nr. 842/2011 (ABl. L 296 vom 12.11.2015, S. 1) in der jeweils geltenden Fassung zu verwenden.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Wird das dynamische Beschaffungssystem eingestellt, ist das Muster gem\u00e4\u00df Anhang III der Durchf\u00fchrungsverordnung (EU) 2015/1986 zu verwenden.</LA></DD></DL></P><P>(3) In den Vergabeunterlagen sind mindestens die Art und die gesch\u00e4tzte Menge der zu beschaffenden Leistung sowie alle erforderlichen Daten des dynamischen Beschaffungssystems anzugeben.</P><P>(4) In den Vergabeunterlagen ist anzugeben, ob ein dynamisches Beschaffungssystem in Kategorien von Leistungen untergliedert wurde. Gegebenenfalls sind die objektiven Merkmale jeder Kategorie anzugeben.</P><P>(5) Hat ein \u00f6ffentlicher Auftraggeber ein dynamisches Beschaffungssystem in Kategorien von Leistungen untergliedert, legt er f\u00fcr jede Kategorie die Eignungskriterien gesondert fest.</P><P>(6) \u00a7 16 Absatz 4 und \u00a7 51 Absatz 1 finden mit der Ma\u00dfgabe Anwendung, dass die zugelassenen Bewerber f\u00fcr jede einzelne, \u00fcber ein dynamisches Beschaffungssystem stattfindende Auftragsvergabe gesondert zur Angebotsabgabe aufzufordern sind. Wurde ein dynamisches Beschaffungssystem in Kategorien von Leistungen untergliedert, werden jeweils alle f\u00fcr die einem konkreten Auftrag entsprechende Kategorie zugelassenen Bewerber aufgefordert, ein Angebot zu unterbreiten.</P>",
@@ -433,11 +427,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002500000",
         "name": "\u00a7 24",
         "title": "Fristen beim Betrieb dynamischer Beschaffungssysteme",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000600000"
         },
         "body": "<P>(1) Abweichend von \u00a7 16 gelten bei der Nutzung eines dynamischen Beschaffungssystems die Bestimmungen der Abs\u00e4tze 2 bis 5.</P><P>(2) Die Mindestfrist f\u00fcr den Eingang der Teilnahmeantr\u00e4ge betr\u00e4gt 30 Tage, gerechnet ab dem Tag nach der Absendung der Auftragsbekanntmachung, oder im Falle einer Vorinformation nach \u00a7 38 Absatz 4 nach der Absendung der Aufforderung zur Interessensbest\u00e4tigung. Sobald die Aufforderung zur Angebotsabgabe f\u00fcr die erste einzelne Auftragsvergabe im Rahmen eines dynamischen Beschaffungssystems abgesandt worden ist, gelten keine weiteren Fristen f\u00fcr den Eingang der Teilnahmeantr\u00e4ge.</P><P>(3) Der \u00f6ffentliche Auftraggeber bewertet den Antrag eines Unternehmens auf Teilnahme an einem dynamischen Beschaffungssystem unter Zugrundelegung der Eignungskriterien innerhalb von zehn Arbeitstagen nach dessen Eingang. In begr\u00fcndeten Einzelf\u00e4llen, insbesondere wenn Unterlagen gepr\u00fcft werden m\u00fcssen oder um auf sonstige Art und Weise zu \u00fcberpr\u00fcfen, ob die Eignungskriterien erf\u00fcllt sind, kann die Frist auf 15 Arbeitstage verl\u00e4ngert werden. Wurde die Aufforderung zur Angebotsabgabe f\u00fcr die erste einzelne Auftragsvergabe im Rahmen eines dynamischen Beschaffungssystems noch nicht versandt, kann der \u00f6ffentliche Auftraggeber die Frist verl\u00e4ngern, sofern w\u00e4hrend der verl\u00e4ngerten Frist keine Aufforderung zur Angebotsabgabe versandt wird. Die Fristverl\u00e4ngerung ist in den Vergabeunterlagen anzugeben. Jedes Unternehmen wird unverz\u00fcglich dar\u00fcber informiert, ob es zur Teilnahme an einem dynamischen Beschaffungssystem zugelassen wurde oder nicht.</P><P>(4) Die Frist f\u00fcr den Eingang der Angebote betr\u00e4gt mindestens zehn Tage, gerechnet ab dem Tag nach der Absendung der Aufforderung zur Angebotsabgabe. \u00a7 16 Absatz 6 findet Anwendung.</P><P>(5) Der \u00f6ffentliche Auftraggeber kann von den zu einem dynamischen Beschaffungssystem zugelassenen Bewerbern jederzeit verlangen, innerhalb von f\u00fcnf Arbeitstagen nach \u00dcbermittlung der Aufforderung zur Angebotsabgabe eine erneute und aktualisierte Einheitliche Europ\u00e4ische Eigenerkl\u00e4rung nach \u00a7 48 Absatz 3 einzureichen. \u00a7 48 Absatz 3 bis 6 findet Anwendung.</P>",
@@ -447,11 +441,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002600000",
         "name": "\u00a7 25",
         "title": "Grunds\u00e4tze f\u00fcr die Durchf\u00fchrung elektronischer Auktionen",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000600000"
         },
         "body": "<P>(1) Der \u00f6ffentliche Auftraggeber kann im Rahmen eines offenen, eines nicht offenen oder eines Verhandlungsverfahrens vor der Zuschlagserteilung eine elektronische Auktion durchf\u00fchren, sofern der Inhalt der Vergabeunterlagen hinreichend pr\u00e4zise beschrieben und die Leistung mithilfe automatischer Bewertungsmethoden eingestuft werden kann. Geistig-sch\u00f6pferische Leistungen k\u00f6nnen nicht Gegenstand elektronischer Auktionen sein. Der elektronischen Auktion hat eine vollst\u00e4ndige erste Bewertung aller Angebote anhand der Zuschlagskriterien und der jeweils daf\u00fcr festgelegten Gewichtung vorauszugehen. Die S\u00e4tze 1 und 2 gelten entsprechend bei einem erneuten Vergabeverfahren zwischen den Parteien einer Rahmenvereinbarung nach \u00a7 21 und bei einem erneuten Vergabeverfahren w\u00e4hrend der Laufzeit eines dynamischen Beschaffungssystems nach \u00a7 22. Eine elektronische Auktion kann mehrere, aufeinanderfolgende Phasen umfassen.</P><P>(2) Im Rahmen der elektronischen Auktion werden die Angebote mittels festgelegter Methoden elektronisch bewertet und automatisch in eine Rangfolge gebracht. Die sich schrittweise wiederholende, elektronische Bewertung der Angebote beruht auf <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>neuen, nach unten korrigierten Preisen, wenn der Zuschlag allein aufgrund des Preises erfolgt, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>neuen, nach unten korrigierten Preisen oder neuen, auf bestimmte Angebotskomponenten abstellenden Werten, wenn das Angebot mit dem besten Preis-Leistungs-Verh\u00e4ltnis oder, bei Verwendung eines Kosten-Wirksamkeits-Ansatzes, mit den niedrigsten Kosten den Zuschlag erh\u00e4lt.</LA></DD></DL></P><P>(3) Die Bewertungsmethoden werden mittels einer mathematischen Formel definiert und in der Aufforderung zur Teilnahme an der elektronischen Auktion bekanntgemacht. Wird der Zuschlag nicht allein aufgrund des Preises erteilt, muss aus der mathematischen Formel auch die Gewichtung aller Angebotskomponenten nach Absatz 2 Nummer 2 hervorgehen. Sind Nebenangebote zugelassen, ist f\u00fcr diese ebenfalls eine mathematische Formel bekanntzumachen.</P><P>(4) Angebotskomponenten nach Absatz 2 Nummer 2 m\u00fcssen numerisch oder prozentual beschrieben werden.</P>",
@@ -461,11 +455,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002700000",
         "name": "\u00a7 26",
         "title": "Durchf\u00fchrung elektronischer Auktionen",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000600000"
         },
         "body": "<P>(1) Der \u00f6ffentliche Auftraggeber k\u00fcndigt in der Auftragsbekanntmachung oder in der Aufforderung zur Interessensbest\u00e4tigung an, dass er eine elektronische Auktion durchf\u00fchrt.</P><P>(2) Die Vergabeunterlagen m\u00fcssen mindestens folgende Angaben enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>alle Angebotskomponenten, deren Werte Grundlage der automatischen Neureihung der Angebote sein werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>gegebenenfalls die Obergrenzen der Werte nach Nummer 1, wie sie sich aus den technischen Spezifikationen ergeben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Auflistung aller Daten, die den Bietern w\u00e4hrend der elektronischen Auktion zur Verf\u00fcgung gestellt werden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>den Termin, an dem die Daten nach Nummer 3 den Bietern zur Verf\u00fcgung gestellt werden,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>alle f\u00fcr den Ablauf der elektronischen Auktion relevanten Daten und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Bedingungen, unter denen die Bieter w\u00e4hrend der elektronischen Auktion Gebote abgeben k\u00f6nnen, insbesondere die Mindestabst\u00e4nde zwischen den der automatischen Neureihung der Angebote zugrunde liegenden Preisen oder Werten.</LA></DD></DL></P><P>(3) Der \u00f6ffentliche Auftraggeber fordert alle Bieter, die zul\u00e4ssige Angebote unterbreitet haben, gleichzeitig zur Teilnahme an der elektronischen Auktion auf. Ab dem genannten Zeitpunkt ist die Internetverbindung gem\u00e4\u00df den in der Aufforderung zur Teilnahme an der elektronischen Auktion genannten Anweisungen zu nutzen. Der Aufforderung zur Teilnahme an der elektronischen Auktion ist jeweils das Ergebnis der vollst\u00e4ndigen Bewertung des betreffenden Angebots nach \u00a7 25 Absatz 1 Satz 3 beizuf\u00fcgen.</P><P>(4) Eine elektronische Auktion darf fr\u00fchestens zwei Arbeitstage nach der Versendung der Aufforderung zur Teilnahme gem\u00e4\u00df Absatz 3 beginnen.</P><P>(5) Der \u00f6ffentliche Auftraggeber teilt allen Bietern im Laufe einer jeden Phase der elektronischen Auktion unverz\u00fcglich zumindest den jeweiligen Rang ihres Angebots innerhalb der Reihenfolge aller Angebote mit. Er kann den Bietern weitere Daten nach Absatz 2 Nummer 3 zur Verf\u00fcgung stellen. Die Identit\u00e4t der Bieter darf in keiner Phase einer elektronischen Auktion offengelegt werden.</P><P>(6) Der Zeitpunkt des Beginns und des Abschlusses einer jeden Phase ist in der Aufforderung zur Teilnahme an einer elektronischen Auktion ebenso anzugeben wie gegebenenfalls die Zeit, die jeweils nach Eingang der letzten neuen Preise oder Werte nach \u00a7 25 Absatz 2 Satz 2 Nummer 1 und 2 vergangen sein muss, bevor eine Phase einer elektronischen Auktion abgeschlossen wird.</P><P>(7) Eine elektronische Auktion wird abgeschlossen, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der vorher festgelegte und in der Aufforderung zur Teilnahme an einer elektronischen Auktion bekanntgemachte Zeitpunkt erreicht ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>von den Bietern keine neuen Preise oder Werte nach \u00a7 25 Absatz 2 Satz 2 Nummer 1 und 2 mitgeteilt werden, die die Anforderungen an Mindestabst\u00e4nde nach Absatz 2 Nummer 6 erf\u00fcllen, und die vor Beginn einer elektronischen Auktion bekanntgemachte Zeit, die zwischen dem Eingang der letzten neuen Preise oder Werte und dem Abschluss der elektronischen Auktion vergangen sein muss, abgelaufen ist oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die letzte Phase einer elektronischen Auktion abgeschlossen ist.</LA></DD></DL></P><P>(8) Der Zuschlag wird nach Abschluss einer elektronischen Auktion entsprechend ihrem Ergebnis mitgeteilt.</P>",
@@ -475,11 +469,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002801360",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002801360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002801360",
         "name": "\u00a7 27",
         "title": "Elektronische Kataloge",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG000600000"
         },
         "body": "<P>(1) Der \u00f6ffentliche Auftraggeber kann festlegen, dass Angebote in Form eines elektronischen Katalogs einzureichen sind oder einen elektronischen Katalog beinhalten m\u00fcssen. Angeboten, die in Form eines elektronischen Katalogs eingereicht werden, k\u00f6nnen weitere Unterlagen beigef\u00fcgt werden.</P><P>(2) Akzeptiert der \u00f6ffentliche Auftraggeber Angebote in Form eines elektronischen Katalogs oder schreibt der \u00f6ffentliche Auftraggeber vor, dass Angebote in Form eines elektronischen Katalogs einzureichen sind, so weist er in der Auftragsbekanntmachung oder in der Aufforderung zur Interessensbest\u00e4tigung darauf hin.</P><P>(3) Schlie\u00dft der \u00f6ffentliche Auftraggeber mit einem oder mehreren Unternehmen eine Rahmenvereinbarung im Anschluss an die Einreichung der Angebote in Form eines elektronischen Katalogs, kann er vorschreiben, dass ein erneutes Vergabeverfahren f\u00fcr Einzelauftr\u00e4ge auf der Grundlage aktualisierter elektronischer Kataloge erfolgt, indem er <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bieter auffordert, ihre elektronischen Kataloge an die Anforderungen des zu vergebenden Einzelauftrages anzupassen und erneut einzureichen, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bieter informiert, dass er den bereits eingereichten elektronischen Katalogen zu einem bestimmten Zeitpunkt die Daten entnimmt, die erforderlich sind, um Angebote zu erstellen, die den Anforderungen des zu vergebenden Einzelauftrags entsprechen; dieses Verfahren ist in der Auftragsbekanntmachung oder den Vergabeunterlagen f\u00fcr den Abschluss einer Rahmenvereinbarung anzuk\u00fcndigen; der Bieter kann diese Methode der Datenerhebung ablehnen.</LA></DD></DL></P><P>(4) Hat der \u00f6ffentliche Auftraggeber gem\u00e4\u00df Absatz 3 Nummer 2 bereits eingereichten elektronischen Katalogen selbstst\u00e4ndig Daten zur Angebotserstellung entnommen, legt er jedem Bieter die gesammelten Daten vor der Erteilung des Zuschlags vor, sodass dieser die M\u00f6glichkeit zum Einspruch oder zur Best\u00e4tigung hat, dass das Angebot keine materiellen Fehler enth\u00e4lt.</P>",
@@ -489,7 +483,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000700000",
         "name": "Unterabschnitt 3",
         "title": "Vorbereitung des Vergabeverfahrens",
         "parent": {
@@ -500,7 +494,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE002900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE002900000",
         "name": "\u00a7 28",
         "title": "Markterkundung",
         "parent": {
@@ -514,7 +508,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003000000",
         "name": "\u00a7 29",
         "title": "Vergabeunterlagen",
         "parent": {
@@ -528,7 +522,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003100000",
         "name": "\u00a7 30",
         "title": "Aufteilung nach Losen",
         "parent": {
@@ -542,7 +536,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003200000",
         "name": "\u00a7 31",
         "title": "Leistungsbeschreibung",
         "parent": {
@@ -556,7 +550,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003300000",
         "name": "\u00a7 32",
         "title": "Technische Anforderungen",
         "parent": {
@@ -570,7 +564,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003400000",
         "name": "\u00a7 33",
         "title": "Nachweisf\u00fchrung durch Bescheinigungen von Konformit\u00e4tsbewertungsstellen",
         "parent": {
@@ -584,7 +578,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003500000",
         "name": "\u00a7 34",
         "title": "Nachweisf\u00fchrung durch G\u00fctezeichen",
         "parent": {
@@ -598,7 +592,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003600000",
         "name": "\u00a7 35",
         "title": "Nebenangebote",
         "parent": {
@@ -612,7 +606,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003700000",
         "name": "\u00a7 36",
         "title": "Unterauftr\u00e4ge",
         "parent": {
@@ -626,7 +620,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000800000",
         "name": "Unterabschnitt 4",
         "title": "Ver\u00f6ffentlichungen, Transparenz",
         "parent": {
@@ -637,7 +631,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003800000",
         "name": "\u00a7 37",
         "title": "Auftragsbekanntmachung; Beschafferprofil",
         "parent": {
@@ -651,7 +645,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE003900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE003900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE003900000",
         "name": "\u00a7 38",
         "title": "Vorinformation",
         "parent": {
@@ -665,7 +659,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004000000",
         "name": "\u00a7 39",
         "title": "Vergabebekanntmachung; Bekanntmachung \u00fcber Auftrags\u00e4nderungen",
         "parent": {
@@ -679,7 +673,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004100000",
         "name": "\u00a7 40",
         "title": "Ver\u00f6ffentlichung von Bekanntmachungen",
         "parent": {
@@ -693,7 +687,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004200000",
         "name": "\u00a7 41",
         "title": "Bereitstellung der Vergabeunterlagen",
         "parent": {
@@ -707,7 +701,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG000900000",
         "name": "Unterabschnitt 5",
         "title": "Anforderungen an Unternehmen; Eignung",
         "parent": {
@@ -718,7 +712,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004300000",
         "name": "\u00a7 42",
         "title": "Auswahl geeigneter Unternehmen; Ausschluss von Bewerbern und Bietern",
         "parent": {
@@ -732,7 +726,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004400000",
         "name": "\u00a7 43",
         "title": "Rechtsform von Unternehmen und Bietergemeinschaften",
         "parent": {
@@ -746,7 +740,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004500000",
         "name": "\u00a7 44",
         "title": "Bef\u00e4higung und Erlaubnis zur Berufsaus\u00fcbung",
         "parent": {
@@ -760,7 +754,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004600000",
         "name": "\u00a7 45",
         "title": "Wirtschaftliche und finanzielle Leistungsf\u00e4higkeit",
         "parent": {
@@ -774,7 +768,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004700000",
         "name": "\u00a7 46",
         "title": "Technische und berufliche Leistungsf\u00e4higkeit",
         "parent": {
@@ -788,7 +782,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004800000",
         "name": "\u00a7 47",
         "title": "Eignungsleihe",
         "parent": {
@@ -802,7 +796,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE004900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE004900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE004900000",
         "name": "\u00a7 48",
         "title": "Beleg der Eignung und des Nichtvorliegens von Ausschlussgr\u00fcnden",
         "parent": {
@@ -816,7 +810,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005000000",
         "name": "\u00a7 49",
         "title": "Beleg der Einhaltung von Normen der Qualit\u00e4tssicherung und des Umweltmanagements",
         "parent": {
@@ -830,7 +824,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005100000",
         "name": "\u00a7 50",
         "title": "Einheitliche Europ\u00e4ische Eigenerkl\u00e4rung",
         "parent": {
@@ -844,7 +838,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005200000",
         "name": "\u00a7 51",
         "title": "Begrenzung der Anzahl der Bewerber",
         "parent": {
@@ -858,7 +852,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001000000",
         "name": "Unterabschnitt 6",
         "title": "Einreichung, Form und Umgang mit Interessensbekundungen, Interessensbest\u00e4tigungen, Teilnahmeantr\u00e4gen und Angeboten",
         "parent": {
@@ -869,7 +863,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005300000",
         "name": "\u00a7 52",
         "title": "Aufforderung zur Interessensbest\u00e4tigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog",
         "parent": {
@@ -883,7 +877,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005401118",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005401118",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005401118",
         "name": "\u00a7 53",
         "title": "Form und \u00dcbermittlung der Interessensbekundungen, Interessensbest\u00e4tigungen, Teilnahmeantr\u00e4ge und Angebote",
         "parent": {
@@ -897,7 +891,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005500000",
         "name": "\u00a7 54",
         "title": "Aufbewahrung unge\u00f6ffneter Interessensbekundungen, Interessensbest\u00e4tigungen, Teilnahmeantr\u00e4ge und Angebote",
         "parent": {
@@ -911,7 +905,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005600000",
         "name": "\u00a7 55",
         "title": "\u00d6ffnung der Interessensbest\u00e4tigungen, Teilnahmeantr\u00e4ge und Angebote",
         "parent": {
@@ -925,7 +919,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001100000",
         "name": "Unterabschnitt 7",
         "title": "Pr\u00fcfung und Wertung der Interessensbest\u00e4tigungen, Teilnahmeantr\u00e4ge und Angebote; Zuschlag",
         "parent": {
@@ -936,7 +930,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005700000",
         "name": "\u00a7 56",
         "title": "Pr\u00fcfung der Interessensbest\u00e4tigungen, Teilnahmeantr\u00e4ge und Angebote; Nachforderung von Unterlagen",
         "parent": {
@@ -950,7 +944,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005800000",
         "name": "\u00a7 57",
         "title": "Ausschluss von Interessensbekundungen, Interessensbest\u00e4tigungen, Teilnahmeantr\u00e4gen und Angeboten",
         "parent": {
@@ -964,7 +958,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE005900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE005900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE005900000",
         "name": "\u00a7 58",
         "title": "Zuschlag und Zuschlagskriterien",
         "parent": {
@@ -978,7 +972,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006000000",
         "name": "\u00a7 59",
         "title": "Berechnung von Lebenszykluskosten",
         "parent": {
@@ -992,7 +986,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006100000",
         "name": "\u00a7 60",
         "title": "Ungew\u00f6hnlich niedrige Angebote",
         "parent": {
@@ -1006,7 +1000,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006200000",
         "name": "\u00a7 61",
         "title": "Ausf\u00fchrungsbedingungen",
         "parent": {
@@ -1020,7 +1014,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006300000",
         "name": "\u00a7 62",
         "title": "Unterrichtung der Bewerber und Bieter",
         "parent": {
@@ -1034,7 +1028,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006400000",
         "name": "\u00a7 63",
         "title": "Aufhebung von Vergabeverfahren",
         "parent": {
@@ -1048,7 +1042,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG001200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001200000",
         "name": "Abschnitt 3",
         "title": "Besondere Vorschriften f\u00fcr die Vergabe von sozialen und anderen besonderen Dienstleistungen",
         "parent": null
@@ -1056,7 +1050,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006500000",
         "name": "\u00a7 64",
         "title": "Vergabe von Auftr\u00e4gen f\u00fcr soziale und andere besondere Dienstleistungen",
         "parent": {
@@ -1070,7 +1064,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006600000",
         "name": "\u00a7 65",
         "title": "Erg\u00e4nzende Verfahrensregeln",
         "parent": {
@@ -1084,7 +1078,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006700000",
         "name": "\u00a7 66",
         "title": "Ver\u00f6ffentlichungen, Transparenz",
         "parent": {
@@ -1098,7 +1092,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001300000",
         "name": "Abschnitt 4",
         "title": "Besondere Vorschriften f\u00fcr die Beschaffung energieverbrauchsrelevanter Leistungen und von Stra\u00dfenfahrzeugen",
         "parent": null
@@ -1106,7 +1100,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006800000",
         "name": "\u00a7 67",
         "title": "Beschaffung energieverbrauchsrelevanter Liefer- oder Dienstleistungen",
         "parent": {
@@ -1120,7 +1114,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE006900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE006900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE006900000",
         "name": "\u00a7 68",
         "title": "Beschaffung von Stra\u00dfenfahrzeugen",
         "parent": {
@@ -1132,24 +1126,21 @@
         "documentaryFootnotes": null
       },
       {
-        "type": "headingArticle",
+        "type": "heading",
         "id": "BJNR062410016BJNG001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001400000",
         "name": "Abschnitt 5",
         "title": "Planungswettbewerbe",
-        "parent": null,
-        "body": null,
-        "footnotes": null,
-        "documentaryFootnotes": "<P>(+++ Abschnitt 5 (\u00a7\u00a7 69 bis 72): Zur Anwendung vgl. \u00a7 69 Abs. 2 +++) (+++ Abschnitt 5 (\u00a7\u00a7 69 bis 72): Zur Anwendung vgl. \u00a7 78 Abs. 3 +++)</P>"
+        "parent": null
       },
       {
         "type": "article",
         "id": "BJNR062410016BJNE007000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007000000",
         "name": "\u00a7 69",
         "title": "Anwendungsbereich",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG001400000"
         },
         "body": "<P>(1) Wettbewerbe nach \u00a7 103 Absatz 6 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen werden insbesondere auf den Gebieten der Raumplanung, des St\u00e4dtebaus und des Bauwesens oder der Datenverarbeitung durchgef\u00fchrt (Planungswettbewerbe).</P><P>(2) Bei der Durchf\u00fchrung eines Planungswettbewerbs wendet der \u00f6ffentliche Auftraggeber die \u00a7\u00a7 5, 6 und 43 und die Vorschriften dieses Abschnitts an.</P>",
@@ -1159,11 +1150,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE007100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007100000",
         "name": "\u00a7 70",
         "title": "Ver\u00f6ffentlichung, Transparenz",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG001400000"
         },
         "body": "<P>(1) Der \u00f6ffentliche Auftraggeber teilt seine Absicht, einen Planungswettbewerb auszurichten, in einer Wettbewerbsbekanntmachung mit. Die Wettbewerbsbekanntmachung wird nach dem Muster gem\u00e4\u00df Anhang IX der Durchf\u00fchrungsverordnung (EU) 2015/1986 erstellt. \u00a7 40 ist entsprechend anzuwenden.</P><P>(2) Beabsichtigt der \u00f6ffentliche Auftraggeber im Anschluss an einen Planungswettbewerb einen Dienstleistungsauftrag im Verhandlungsverfahren ohne Teilnahmewettbewerb zu vergeben, hat der \u00f6ffentliche Auftraggeber die Eignungskriterien und die zum Nachweis der Eignung erforderlichen Unterlagen hierf\u00fcr bereits in der Wettbewerbsbekanntmachung anzugeben.</P><P>(3) Die Ergebnisse des Planungswettbewerbs sind bekanntzumachen und innerhalb von 30 Tagen an das Amt f\u00fcr Ver\u00f6ffentlichungen der Europ\u00e4ischen Union zu \u00fcbermitteln. Die Bekanntmachung wird nach dem Muster gem\u00e4\u00df Anhang X der Durchf\u00fchrungsverordnung (EU) 2015/1986 erstellt.</P><P>(4) \u00a7 39 Absatz 6 gilt entsprechend.</P>",
@@ -1173,11 +1164,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE007200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007200000",
         "name": "\u00a7 71",
         "title": "Ausrichtung",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG001400000"
         },
         "body": "<P>(1) Die an einem Planungswettbewerb Interessierten sind vor Wettbewerbsbeginn \u00fcber die geltenden Durchf\u00fchrungsregeln zu informieren.</P><P>(2) Die Zulassung von Teilnehmern an einem Planungswettbewerb darf nicht beschr\u00e4nkt werden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>unter Bezugnahme auf das Gebiet eines Mitgliedstaats der Europ\u00e4ischen Union oder einen Teil davon oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>auf nur nat\u00fcrliche oder nur juristische Personen.</LA></DD></DL></P><P>(3) Bei einem Planungswettbewerb mit beschr\u00e4nkter Teilnehmerzahl hat der \u00f6ffentliche Auftraggeber eindeutige und nichtdiskriminierende Auswahlkriterien festzulegen. Die Zahl der Bewerber, die zur Teilnahme aufgefordert werden, muss ausreichen, um den Wettbewerb zu gew\u00e4hrleisten.</P>",
@@ -1187,11 +1178,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE007300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007300000",
         "name": "\u00a7 72",
         "title": "Preisgericht",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG001400000"
         },
         "body": "<P>(1) Das Preisgericht darf nur aus Preisrichtern bestehen, die von den Teilnehmern des Planungswettbewerbs unabh\u00e4ngig sind. Wird von den Wettbewerbsteilnehmern eine bestimmte berufliche Qualifikation verlangt, muss mindestens ein Drittel der Preisrichter \u00fcber dieselbe oder eine gleichwertige Qualifikation verf\u00fcgen.</P><P>(2) Das Preisgericht ist in seinen Entscheidungen und Stellungnahmen unabh\u00e4ngig. Es trifft seine Entscheidungen nur aufgrund von Kriterien, die in der Wettbewerbsbekanntmachung genannt sind. Die Wettbewerbsarbeiten sind ihm anonym vorzulegen. Die Anonymit\u00e4t ist bis zu den Stellungnahmen oder Entscheidungen des Preisgerichts zu wahren.</P><P>(3) Das Preisgericht erstellt einen Bericht \u00fcber die Rangfolge der von ihm ausgew\u00e4hlten Wettbewerbsarbeiten, indem es auf die einzelnen Projekte eingeht und seine Bemerkungen sowie noch zu kl\u00e4rende Fragen auff\u00fchrt. Dieser Bericht ist von den Preisrichtern zu unterzeichnen.</P><P>(4) Die Teilnehmer k\u00f6nnen zur Kl\u00e4rung bestimmter Aspekte der Wettbewerbsarbeiten aufgefordert werden, Fragen zu beantworten, die das Preisgericht in seinem Protokoll festzuhalten hat. Der Dialog zwischen Preisrichtern und Teilnehmern ist zu dokumentieren.</P>",
@@ -1201,7 +1192,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG001500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001500000",
         "name": "Abschnitt 6",
         "title": "Besondere Vorschriften f\u00fcr die Vergabe von Architekten- und Ingenieurleistungen",
         "parent": null
@@ -1209,7 +1200,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001600000",
         "name": "Unterabschnitt 1",
         "title": "Allgemeines",
         "parent": {
@@ -1220,7 +1211,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE007400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007400000",
         "name": "\u00a7 73",
         "title": "Anwendungsbereich und Grunds\u00e4tze",
         "parent": {
@@ -1234,7 +1225,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE007500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007500000",
         "name": "\u00a7 74",
         "title": "Verfahrensart",
         "parent": {
@@ -1248,7 +1239,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE007600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007600000",
         "name": "\u00a7 75",
         "title": "Eignung",
         "parent": {
@@ -1262,7 +1253,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE007700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007700000",
         "name": "\u00a7 76",
         "title": "Zuschlag",
         "parent": {
@@ -1276,7 +1267,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE007800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007800000",
         "name": "\u00a7 77",
         "title": "Kosten und Verg\u00fctung",
         "parent": {
@@ -1288,27 +1279,24 @@
         "documentaryFootnotes": null
       },
       {
-        "type": "headingArticle",
+        "type": "heading",
         "id": "BJNR062410016BJNG001700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001700000",
         "name": "Unterabschnitt 2",
         "title": "Planungswettbewerbe f\u00fcr Architekten- und Ingenieurleistungen",
         "parent": {
           "type": "heading",
           "id": "BJNR062410016BJNG001500000"
-        },
-        "body": null,
-        "footnotes": null,
-        "documentaryFootnotes": "<P>(+++ Unterabschnitt 2 (\u00a7\u00a7 78 bis 80: Zur Anwendung vgl. \u00a7 78 Abs. 3 +++)</P>"
+        }
       },
       {
         "type": "article",
         "id": "BJNR062410016BJNE007900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE007900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE007900000",
         "name": "\u00a7 78",
         "title": "Grunds\u00e4tze und Anwendungsbereich f\u00fcr Planungswettbewerbe",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG001700000"
         },
         "body": "<P>(1) Planungswettbewerbe gew\u00e4hrleisten die Wahl der besten L\u00f6sung der Planungsaufgabe und sind gleichzeitig ein geeignetes Instrument zur Sicherstellung der Planungsqualit\u00e4t und F\u00f6rderung der Baukultur.</P><P>(2) Planungswettbewerbe dienen dem Ziel, alternative Vorschl\u00e4ge f\u00fcr Planungen, insbesondere auf dem Gebiet der Raumplanung, des St\u00e4dtebaus und des Bauwesens, auf der Grundlage ver\u00f6ffentlichter einheitlicher Richtlinien zu erhalten. Sie k\u00f6nnen vor oder ohne Vergabeverfahren ausgerichtet werden. In den einheitlichen Richtlinien wird auch die Mitwirkung der Architekten- und Ingenieurkammern an der Vorbereitung und bei der Durchf\u00fchrung von Planungswettbewerben geregelt. Der \u00f6ffentliche Auftraggeber pr\u00fcft bei Aufgabenstellungen im Hoch-, St\u00e4dte- und Br\u00fcckenbau sowie in der Landschafts- und Freiraumplanung, ob f\u00fcr diese ein Planungswettbewerb durchgef\u00fchrt werden soll, und dokumentiert seine Entscheidung.</P><P>(3) Die Bestimmungen dieses Unterabschnitts sind zus\u00e4tzlich zu Abschnitt 5 f\u00fcr die Ausrichtung von Planungswettbewerben anzuwenden. Die auf die Durchf\u00fchrung von Planungswettbewerben anwendbaren Regeln nach Absatz 2 sind in der Wettbewerbsbekanntmachung mitzuteilen.</P>",
@@ -1318,11 +1306,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE008000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE008000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE008000000",
         "name": "\u00a7 79",
         "title": "Durchf\u00fchrung von Planungswettbewerben",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG001700000"
         },
         "body": "<P>(1) Mit der Ausrichtung eines Planungswettbewerbs sind Preise oder neben Preisen Anerkennungen auszuloben, die der Bedeutung und Schwierigkeit der Bauaufgabe sowie dem Leistungsumfang nach der jeweils geltenden Honorarordnung angemessen sind.</P><P>(2) Ausgeschlossen von Planungswettbewerben sind Personen, die infolge ihrer Beteiligung an der Vorbereitung oder Durchf\u00fchrung des Planungswettbewerbs bevorzugt sein oder Einfluss auf die Entscheidung des Preisgerichts nehmen k\u00f6nnen. Das Gleiche gilt f\u00fcr Personen, die sich durch Angeh\u00f6rige oder ihnen wirtschaftlich verbundene Personen einen entsprechenden Vorteil oder Einfluss verschaffen k\u00f6nnen.</P><P>(3) Abweichend von \u00a7 72 Absatz 1 Satz 2 muss die Mehrheit der Preisrichter \u00fcber dieselbe oder eine gleichwertige Qualifikation verf\u00fcgen, wie sie von den Teilnehmern verlangt wird. Auch muss die Mehrheit der Preisrichter unabh\u00e4ngig vom Ausrichter sein.</P><P>(4) Das Preisgericht hat in seinen Entscheidungen die in der Wettbewerbsbekanntmachung als bindend bezeichneten Vorgaben des Ausrichters zu beachten. Nicht zugelassene oder \u00fcber das geforderte Ma\u00df hinausgehende Teilleistungen sind von der Wertung auszuschlie\u00dfen.</P><P>(5) Das Preisgericht hat einen von den Preisrichtern zu unterzeichnenden Bericht \u00fcber die Rangfolge und hierin eine Beurteilung der von ihm ausgew\u00e4hlten Wettbewerbsarbeiten zu erstellen. Der Ausrichter informiert die Teilnehmer unverz\u00fcglich \u00fcber das Ergebnis durch Versendung des Protokolls der Preisgerichtssitzung. Der Ausrichter soll sp\u00e4testens einen Monat nach der Entscheidung des Preisgerichts alle eingereichten Wettbewerbsarbeiten mit Namensangaben der Verfasser unter Auslegung des Protokolls \u00f6ffentlich ausstellen. Soweit ein Preistr\u00e4ger wegen mangelnder Teilnahmeberechtigung oder Versto\u00dfes gegen Wettbewerbsregeln nicht ber\u00fccksichtigt werden kann, r\u00fccken die \u00fcbrigen Preistr\u00e4ger sowie sonstige Teilnehmer in der Rangfolge des Preisgerichts nach, soweit das Preisgericht ausweislich seines Protokolls nichts anderes bestimmt hat.</P>",
@@ -1332,11 +1320,11 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE008100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE008100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE008100000",
         "name": "\u00a7 80",
         "title": "Aufforderung zur Verhandlung; Nutzung der Ergebnisse des Planungswettbewerbs",
         "parent": {
-          "type": "headingArticle",
+          "type": "heading",
           "id": "BJNR062410016BJNG001700000"
         },
         "body": "<P>(1) Soweit und sobald das Ergebnis des Planungswettbewerbs realisiert werden soll und beabsichtigt ist, einen oder mehrere der Preistr\u00e4ger mit den zu beschaffenden Planungsleistungen zu beauftragen, hat der \u00f6ffentliche Auftraggeber in der Aufforderung zur Teilnahme an den Verhandlungen die zum Nachweis der Eignung erforderlichen Unterlagen f\u00fcr die gem\u00e4\u00df \u00a7 70 Absatz 2 bereits in der Wettbewerbsbekanntmachung genannten Eignungskriterien zu verlangen.</P><P>(2) Gesetzliche Vorschriften, nach denen Teill\u00f6sungen von Teilnehmern des Planungswettbewerbs, die bei der Auftragserteilung nicht ber\u00fccksichtigt worden sind, nur mit deren Erlaubnis genutzt werden d\u00fcrfen, bleiben unber\u00fchrt.</P>",
@@ -1346,7 +1334,7 @@
       {
         "type": "heading",
         "id": "BJNR062410016BJNG001800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNG001800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNG001800000",
         "name": "Abschnitt 7",
         "title": "\u00dcbergangs- und Schlussbestimmungen",
         "parent": null
@@ -1354,7 +1342,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE008200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE008200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE008200000",
         "name": "\u00a7 81",
         "title": "\u00dcbergangsbestimmungen",
         "parent": {
@@ -1368,7 +1356,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE008300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE008300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE008300000",
         "name": "\u00a7 82",
         "title": "Fristenberechnung",
         "parent": {
@@ -1382,7 +1370,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE008400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE008400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE008400000",
         "name": "Anlage 1",
         "title": "(zu \u00a7 31 Absatz 2)<BR/>Technische Anforderungen, Begriffsbestimmungen",
         "parent": {
@@ -1396,7 +1384,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE008500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE008500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE008500000",
         "name": "Anlage 2",
         "title": "(zu \u00a7 68 Absatz 1 und 3)<BR/>Daten zur Berechnung der \u00fcber die Lebensdauer von Stra\u00dfenfahrzeugen anfallenden externen Kosten",
         "parent": {
@@ -1410,7 +1398,7 @@
       {
         "type": "article",
         "id": "BJNR062410016BJNE008600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/vgv/articles/BJNR062410016BJNE008600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/vgv/articles/BJNR062410016BJNE008600000",
         "name": "Anlage 3",
         "title": "(zu \u00a7 68 Absatz 3)<BR/>Methode zur Berechnung der \u00fcber die Lebensdauer von Stra\u00dfenfahrzeugen anfallenden Betriebskosten",
         "parent": {

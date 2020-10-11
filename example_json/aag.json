@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR368610005",
-    "url": "https://api.rechtsinformationsportal.de/laws/aag",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/aag",
     "firstPublished": "2005-12-22",
     "sourceTimestamp": "20200703213054",
     "titleShort": "Aufwendungsausgleichsgesetz",
@@ -42,7 +42,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000103360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000103360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000103360",
         "name": "\u00a7 1",
         "title": "Erstattungsanspruch",
         "parent": null,
@@ -53,7 +53,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000206360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000206360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000206360",
         "name": "\u00a7 2",
         "title": "Erstattung",
         "parent": null,
@@ -64,7 +64,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000301308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000301308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000301308",
         "name": "\u00a7 3",
         "title": "Feststellung der Umlagepflicht",
         "parent": null,
@@ -75,7 +75,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000401360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000401360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000401360",
         "name": "\u00a7 4",
         "title": "Versagung und R\u00fcckforderung der Erstattung",
         "parent": null,
@@ -86,7 +86,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000500000",
         "name": "\u00a7 5",
         "title": "Abtretung",
         "parent": null,
@@ -97,7 +97,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000600000",
         "name": "\u00a7 6",
         "title": "Verj\u00e4hrung und Aufrechnung",
         "parent": null,
@@ -108,7 +108,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000701308",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000701308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000701308",
         "name": "\u00a7 7",
         "title": "Aufbringung der Mittel",
         "parent": null,
@@ -119,7 +119,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000800000",
         "name": "\u00a7 8",
         "title": "Verwaltung der Mittel",
         "parent": null,
@@ -130,7 +130,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE000902360",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE000902360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE000902360",
         "name": "\u00a7 9",
         "title": "Satzung",
         "parent": null,
@@ -141,7 +141,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE001000000",
         "name": "\u00a7 10",
         "title": "Anwendung sozialversicherungsrechtlicher Vorschriften",
         "parent": null,
@@ -152,7 +152,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE001302119",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE001302119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE001302119",
         "name": "\u00a7 11",
         "title": "Ausnahmevorschriften",
         "parent": null,
@@ -163,7 +163,7 @@
       {
         "type": "article",
         "id": "BJNR368610005BJNE001200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/aag/articles/BJNR368610005BJNE001200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/aag/articles/BJNR368610005BJNE001200000",
         "name": "\u00a7 12",
         "title": "Freiwilliges Ausgleichsverfahren",
         "parent": null,

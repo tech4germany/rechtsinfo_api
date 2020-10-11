@@ -9,9 +9,15 @@ import starlette
 from . import PUBLIC_ASSET_ROOT, db, models, urls
 from . import api_schemas
 
-app = fastapi.FastAPI()
+app = fastapi.FastAPI(docs_url=None, redoc_url=None, openapi_url=None)
 app.add_middleware(GZipMiddleware)
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
+
+v1 = fastapi.FastAPI(
+    docs_url=None,
+    redoc_url=None
+)
+app.mount("/v1", v1)
 
 
 class ApiException(Exception):
@@ -29,19 +35,22 @@ def build_error_response(status_code, title, detail=None):
     return fastapi.responses.JSONResponse(status_code=status_code, content={"errors": [error]})
 
 
-@app.exception_handler(ApiException)
 async def api_exception_handler(request: fastapi.Request, exc: ApiException):
     return build_error_response(exc.status_code, exc.title, exc.detail)
 
+app.exception_handler(ApiException)(api_exception_handler)
+v1.exception_handler(ApiException)(api_exception_handler)
 
-@app.exception_handler(Exception)
+
 async def generic_exception_handler(request: fastapi.Request, exc: Exception):
     return build_error_response(
         status_code=500, title="Internal Server Error", detail="Something went wrong while processing your request."
     )
 
+app.exception_handler(Exception)(generic_exception_handler)
+v1.exception_handler(Exception)(generic_exception_handler)
 
-@app.exception_handler(starlette.exceptions.HTTPException)
+
 async def http_exception_handler(request: fastapi.Request, exc: starlette.exceptions.HTTPException):
     response = build_error_response(status_code=exc.status_code, title=exc.detail)
     headers = getattr(exc, "headers", None)
@@ -50,8 +59,11 @@ async def http_exception_handler(request: fastapi.Request, exc: starlette.except
 
     return response
 
+app.exception_handler(starlette.exceptions.HTTPException)(http_exception_handler)
+v1.exception_handler(starlette.exceptions.HTTPException)(http_exception_handler)
 
-@app.exception_handler(fastapi.exceptions.RequestValidationError)
+
+@v1.exception_handler(fastapi.exceptions.RequestValidationError)
 async def validation_error_handler(request: fastapi.Request, exc: fastapi.exceptions.RequestValidationError):
     detail = fastapi.encoders.jsonable_encoder(exc.errors())
     return build_error_response(status_code=422, title="Unprocessable Entity", detail=detail)
@@ -61,7 +73,7 @@ class GetLawIncludeOptions(Enum):
     contents = "contents"
 
 
-@app.get("/laws/{slug}", response_model=api_schemas.LawResponse)
+@v1.get("/laws/{slug}", response_model=api_schemas.LawResponse)
 def get_law(
     slug: str,
     include: Optional[GetLawIncludeOptions] = None
@@ -84,7 +96,7 @@ class ListLawsIncludeOptions(Enum):
     all_fields = "all_fields"
 
 
-@app.get("/laws", response_model=api_schemas.LawsResponse)
+@v1.get("/laws", response_model=api_schemas.LawsResponse)
 def list_laws(
     page: int = fastapi.Query(1, gt=0),
     per_page: int = fastapi.Query(10, gt=0, le=100),
@@ -112,7 +124,7 @@ def list_laws(
     }
 
 
-@app.get("/laws/{slug}/articles/{article_id}", response_model=api_schemas.ContentItemResponse)
+@v1.get("/laws/{slug}/articles/{article_id}", response_model=api_schemas.ContentItemResponse)
 def get_article(
     slug: str,
     article_id: str
@@ -129,7 +141,7 @@ def get_article(
         }
 
 
-@app.get("/search", response_model=api_schemas.SearchResultsResponse)
+@v1.get("/search", response_model=api_schemas.SearchResultsResponse)
 def get_search_results(
     q: str,
     page: int = fastapi.Query(1, gt=0),
@@ -157,20 +169,44 @@ def get_search_results(
     }
 
 
-@app.get("/bulk_downloads/all_laws.json.gz")
+@v1.get("/bulk_downloads/all_laws.json.gz")
 async def bulk_download_laws_json():
     return fastapi.responses.RedirectResponse(
         url=f"{PUBLIC_ASSET_ROOT}/all_laws.json.gz",
         status_code=302)
 
 
-@app.get("/bulk_downloads/all_laws.tar.gz")
+@v1.get("/bulk_downloads/all_laws.tar.gz")
 async def bulk_download_laws_tarball():
     return fastapi.responses.RedirectResponse(
         url=f"{PUBLIC_ASSET_ROOT}/all_laws.tar.gz",
         status_code=302)
 
 
-@app.get("/")
+@v1.get("/docs", response_class=fastapi.responses.HTMLResponse, include_in_schema=False)
+async def rapidoc():
+    return f"""
+        <!doctype html>
+        <html>
+            <head>
+                <meta charset="utf-8">
+                <script type="module" src="https://unpkg.com/rapidoc/dist/rapidoc-min.js"></script>
+            </head>
+            <body><rapi-doc spec-url="/v1{v1.openapi_url}"></rapi-doc></body>
+        </html>
+    """
+
+
+@v1.get("/", include_in_schema=False)
 async def redirect_root():
     return fastapi.responses.RedirectResponse(url="/docs", status_code=302)
+
+
+@app.get("/", include_in_schema=False)
+async def redirect_app_root():
+    return fastapi.responses.RedirectResponse(url="/v1/docs", status_code=302)
+
+
+@app.get("/docs", include_in_schema=False)
+async def redirect_app_docs():
+    return fastapi.responses.RedirectResponse(url="/v1/docs", status_code=302)

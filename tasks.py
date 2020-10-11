@@ -193,9 +193,9 @@ ingest.add_task(ingest_data_from_location)
 ingest.add_task(update_all_laws)
 ns.add_collection(ingest)
 
-examples = Collection('examples')
-examples.add_task(generate_json_example)
-examples.add_task(generate_json_examples)
+examples = Collection('example_json')
+examples.add_task(generate_json_example, 'generate')
+examples.add_task(generate_json_examples, 'generate-all')
 ns.add_collection(examples)
 
 dev = Collection('dev')

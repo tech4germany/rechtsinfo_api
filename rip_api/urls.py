@@ -1,6 +1,6 @@
 import urllib.parse
 
-API_BASE_URL = "https://api.rechtsinformationsportal.de"
+API_BASE_URL = "https://api.rechtsinformationsportal.de/v1"
 
 
 def _build_url(path, params=None):

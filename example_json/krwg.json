@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR021210012",
-    "url": "https://api.rechtsinformationsportal.de/laws/krwg",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg",
     "firstPublished": "2012-02-24",
     "sourceTimestamp": "20180117214002",
     "titleShort": "Kreislaufwirtschaftsgesetz",
@@ -32,7 +32,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000100000",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -43,7 +43,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000100000",
         "name": "Teil 1",
         "title": "Allgemeine Vorschriften",
         "parent": null
@@ -51,7 +51,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000200000",
         "name": "\u00a7 1",
         "title": "Zweck des Gesetzes",
         "parent": {
@@ -65,7 +65,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000303116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000303116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000303116",
         "name": "\u00a7 2",
         "title": "Geltungsbereich",
         "parent": {
@@ -79,7 +79,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000400000",
         "name": "\u00a7 3",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -93,7 +93,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000501000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000501000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000501000",
         "name": "\u00a7 4",
         "title": "Nebenprodukte",
         "parent": {
@@ -107,7 +107,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000601000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000601000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000601000",
         "name": "\u00a7 5",
         "title": "Ende der Abfalleigenschaft",
         "parent": {
@@ -121,7 +121,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000200000",
         "name": "Teil 2",
         "title": "Grunds\u00e4tze und Pflichten der Erzeuger und Besitzer von Abf\u00e4llen sowie der \u00f6ffentlich-rechtlichen Entsorgungstr\u00e4ger",
         "parent": null
@@ -129,7 +129,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000300000",
         "name": "Abschnitt 1",
         "title": "Grunds\u00e4tze der Abfallvermeidung und Abfallbewirtschaftung",
         "parent": {
@@ -140,7 +140,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000700000",
         "name": "\u00a7 6",
         "title": "Abfallhierarchie",
         "parent": {
@@ -154,7 +154,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000400000",
         "name": "Abschnitt 2",
         "title": "Kreislaufwirtschaft",
         "parent": {
@@ -165,7 +165,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000800000",
         "name": "\u00a7 7",
         "title": "Grundpflichten der Kreislaufwirtschaft",
         "parent": {
@@ -179,7 +179,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE000902116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE000902116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE000902116",
         "name": "\u00a7 8",
         "title": "Rangfolge und Hochwertigkeit der Verwertungsma\u00dfnahmen",
         "parent": {
@@ -193,7 +193,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001000000",
         "name": "\u00a7 9",
         "title": "Getrennthalten von Abf\u00e4llen zur Verwertung, Vermischungsverbot",
         "parent": {
@@ -207,7 +207,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001100000",
         "name": "\u00a7 10",
         "title": "Anforderungen an die Kreislaufwirtschaft",
         "parent": {
@@ -221,7 +221,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001201000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001201000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001201000",
         "name": "\u00a7 11",
         "title": "Kreislaufwirtschaft f\u00fcr Bioabf\u00e4lle und Kl\u00e4rschl\u00e4mme",
         "parent": {
@@ -235,7 +235,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001301000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001301000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001301000",
         "name": "\u00a7 12",
         "title": "Qualit\u00e4tssicherung im Bereich der Bioabf\u00e4lle und Kl\u00e4rschl\u00e4mme",
         "parent": {
@@ -249,7 +249,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001400000",
         "name": "\u00a7 13",
         "title": "Pflichten der Anlagenbetreiber",
         "parent": {
@@ -263,7 +263,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001500000",
         "name": "\u00a7 14",
         "title": "F\u00f6rderung des Recyclings und der sonstigen stofflichen Verwertung",
         "parent": {
@@ -277,7 +277,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000500000",
         "name": "Abschnitt 3",
         "title": "Abfallbeseitigung",
         "parent": {
@@ -288,7 +288,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001600000",
         "name": "\u00a7 15",
         "title": "Grundpflichten der Abfallbeseitigung",
         "parent": {
@@ -302,7 +302,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001700000",
         "name": "\u00a7 16",
         "title": "Anforderungen an die Abfallbeseitigung",
         "parent": {
@@ -316,7 +316,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000600000",
         "name": "Abschnitt 4",
         "title": "\u00d6ffentlich-rechtliche Entsorgung und Beauftragung Dritter",
         "parent": {
@@ -327,7 +327,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001800000",
         "name": "\u00a7 17",
         "title": "\u00dcberlassungspflichten",
         "parent": {
@@ -341,7 +341,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE001901116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE001901116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE001901116",
         "name": "\u00a7 18",
         "title": "Anzeigeverfahren f\u00fcr Sammlungen",
         "parent": {
@@ -355,7 +355,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002000000",
         "name": "\u00a7 19",
         "title": "Duldungspflichten bei Grundst\u00fccken",
         "parent": {
@@ -369,7 +369,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002100000",
         "name": "\u00a7 20",
         "title": "Pflichten der \u00f6ffentlich-rechtlichen Entsorgungstr\u00e4ger",
         "parent": {
@@ -383,7 +383,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002200000",
         "name": "\u00a7 21",
         "title": "Abfallwirtschaftskonzepte und Abfallbilanzen",
         "parent": {
@@ -397,7 +397,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002300000",
         "name": "\u00a7 22",
         "title": "Beauftragung Dritter",
         "parent": {
@@ -411,7 +411,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000700000",
         "name": "Teil 3",
         "title": "Produktverantwortung",
         "parent": null
@@ -419,7 +419,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002401000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002401000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002401000",
         "name": "\u00a7 23",
         "title": "Produktverantwortung",
         "parent": {
@@ -433,7 +433,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002500000",
         "name": "\u00a7 24",
         "title": "Anforderungen an Verbote, Beschr\u00e4nkungen und Kennzeichnungen",
         "parent": {
@@ -447,7 +447,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002600000",
         "name": "\u00a7 25",
         "title": "Anforderungen an R\u00fccknahme- und R\u00fcckgabepflichten",
         "parent": {
@@ -461,7 +461,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002702116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002702116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002702116",
         "name": "\u00a7 26",
         "title": "Freiwillige R\u00fccknahme",
         "parent": {
@@ -475,7 +475,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002800000",
         "name": "\u00a7 27",
         "title": "Besitzerpflichten nach R\u00fccknahme",
         "parent": {
@@ -489,7 +489,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000800000",
         "name": "Teil 4",
         "title": "Planungsverantwortung",
         "parent": null
@@ -497,7 +497,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG000900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG000900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000900000",
         "name": "Abschnitt 1",
         "title": "Ordnung und Durchf\u00fchrung der Abfallbeseitigung",
         "parent": {
@@ -508,7 +508,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE002900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE002900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE002900000",
         "name": "\u00a7 28",
         "title": "Ordnung der Abfallbeseitigung",
         "parent": {
@@ -522,7 +522,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003000000",
         "name": "\u00a7 29",
         "title": "Durchf\u00fchrung der Abfallbeseitigung",
         "parent": {
@@ -536,7 +536,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG001000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG001000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001000000",
         "name": "Abschnitt 2",
         "title": "Abfallwirtschaftspl\u00e4ne und Abfallvermeidungsprogramme",
         "parent": {
@@ -547,7 +547,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003100000",
         "name": "\u00a7 30",
         "title": "Abfallwirtschaftspl\u00e4ne",
         "parent": {
@@ -561,7 +561,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003200000",
         "name": "\u00a7 31",
         "title": "Aufstellung von Abfallwirtschaftspl\u00e4nen",
         "parent": {
@@ -575,7 +575,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003300000",
         "name": "\u00a7 32",
         "title": "Beteiligung der \u00d6ffentlichkeit bei der Aufstellung von Abfallwirtschaftspl\u00e4nen, Unterrichtung der \u00d6ffentlichkeit",
         "parent": {
@@ -589,7 +589,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003401116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003401116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003401116",
         "name": "\u00a7 33",
         "title": "Abfallvermeidungsprogramme",
         "parent": {
@@ -603,7 +603,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG001100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG001100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001100000",
         "name": "Abschnitt 3",
         "title": "Zulassung von Anlagen, in denen Abf\u00e4lle entsorgt werden",
         "parent": {
@@ -614,7 +614,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003500000",
         "name": "\u00a7 34",
         "title": "Erkundung geeigneter Standorte",
         "parent": {
@@ -628,7 +628,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003601116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003601116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003601116",
         "name": "\u00a7 35",
         "title": "Planfeststellung und Genehmigung",
         "parent": {
@@ -642,7 +642,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003701000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003701000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003701000",
         "name": "\u00a7 36",
         "title": "Erteilung, Sicherheitsleistung, Nebenbestimmungen",
         "parent": {
@@ -656,7 +656,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003800000",
         "name": "\u00a7 37",
         "title": "Zulassung des vorzeitigen Beginns",
         "parent": {
@@ -670,7 +670,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE003901000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE003901000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE003901000",
         "name": "\u00a7 38",
         "title": "Planfeststellungsverfahren und weitere Verwaltungsverfahren",
         "parent": {
@@ -684,7 +684,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004000000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004000000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004000000",
         "name": "\u00a7 39",
         "title": "Bestehende Abfallbeseitigungsanlagen",
         "parent": {
@@ -698,7 +698,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004100000",
         "name": "\u00a7 40",
         "title": "Stilllegung",
         "parent": {
@@ -712,7 +712,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004201000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004201000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004201000",
         "name": "\u00a7 41",
         "title": "Emissionserkl\u00e4rung",
         "parent": {
@@ -726,7 +726,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004300000",
         "name": "\u00a7 42",
         "title": "Zugang zu Informationen",
         "parent": {
@@ -740,7 +740,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004401116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004401116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004401116",
         "name": "\u00a7 43",
         "title": "Anforderungen an Deponien",
         "parent": {
@@ -754,7 +754,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004500000",
         "name": "\u00a7 44",
         "title": "Kosten der Ablagerung von Abf\u00e4llen",
         "parent": {
@@ -768,7 +768,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG001200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG001200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001200000",
         "name": "Teil 5",
         "title": "Absatzf\u00f6rderung und Abfallberatung",
         "parent": null
@@ -776,7 +776,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004600000",
         "name": "\u00a7 45",
         "title": "Pflichten der \u00f6ffentlichen Hand",
         "parent": {
@@ -790,7 +790,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004700000",
         "name": "\u00a7 46",
         "title": "Abfallberatungspflicht",
         "parent": {
@@ -804,7 +804,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG001300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG001300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001300000",
         "name": "Teil 6",
         "title": "\u00dcberwachung",
         "parent": null
@@ -812,7 +812,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004802116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004802116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004802116",
         "name": "\u00a7 47",
         "title": "Allgemeine \u00dcberwachung",
         "parent": {
@@ -826,7 +826,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE004901000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE004901000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE004901000",
         "name": "\u00a7 48",
         "title": "Abfallbezeichnung, gef\u00e4hrliche Abf\u00e4lle",
         "parent": {
@@ -840,7 +840,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005001116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005001116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005001116",
         "name": "\u00a7 49",
         "title": "Registerpflichten",
         "parent": {
@@ -854,7 +854,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005100000",
         "name": "\u00a7 50",
         "title": "Nachweispflichten",
         "parent": {
@@ -868,7 +868,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005200000",
         "name": "\u00a7 51",
         "title": "\u00dcberwachung im Einzelfall",
         "parent": {
@@ -882,7 +882,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005301116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005301116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005301116",
         "name": "\u00a7 52",
         "title": "Anforderungen an Nachweise und Register",
         "parent": {
@@ -896,7 +896,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005402116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005402116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005402116",
         "name": "\u00a7 53",
         "title": "Sammler, Bef\u00f6rderer, H\u00e4ndler und Makler von Abf\u00e4llen",
         "parent": {
@@ -910,7 +910,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005501000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005501000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005501000",
         "name": "\u00a7 54",
         "title": "Sammler, Bef\u00f6rderer, H\u00e4ndler und Makler von gef\u00e4hrlichen Abf\u00e4llen",
         "parent": {
@@ -924,7 +924,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005601000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005601000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005601000",
         "name": "\u00a7 55",
         "title": "Kennzeichnung der Fahrzeuge",
         "parent": {
@@ -938,7 +938,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG001400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG001400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001400000",
         "name": "Teil 7",
         "title": "Entsorgungsfachbetriebe",
         "parent": null
@@ -946,7 +946,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005701116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005701116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005701116",
         "name": "\u00a7 56",
         "title": "Zertifizierung von Entsorgungsfachbetrieben",
         "parent": {
@@ -960,7 +960,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005800000",
         "name": "\u00a7 57",
         "title": "Anforderungen an Entsorgungsfachbetriebe, technische \u00dcberwachungsorganisationen und Entsorgergemeinschaften",
         "parent": {
@@ -974,7 +974,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG001500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG001500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001500000",
         "name": "Teil 8",
         "title": "Betriebsorganisation, Betriebsbeauftragter f\u00fcr Abfall und Erleichterungen f\u00fcr auditierte Unternehmensstandorte",
         "parent": null
@@ -982,7 +982,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE005900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE005900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE005900000",
         "name": "\u00a7 58",
         "title": "Mitteilungspflichten zur Betriebsorganisation",
         "parent": {
@@ -996,7 +996,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006002116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006002116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006002116",
         "name": "\u00a7 59",
         "title": "Bestellung eines Betriebsbeauftragten f\u00fcr Abfall",
         "parent": {
@@ -1010,7 +1010,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006103116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006103116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006103116",
         "name": "\u00a7 60",
         "title": "Aufgaben des Betriebsbeauftragten f\u00fcr Abfall",
         "parent": {
@@ -1024,7 +1024,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006201116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006201116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006201116",
         "name": "\u00a7 61",
         "title": "Anforderungen an Erleichterungen f\u00fcr auditierte Unternehmensstandorte",
         "parent": {
@@ -1038,7 +1038,7 @@
       {
         "type": "heading",
         "id": "BJNR021210012BJNG001600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNG001600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001600000",
         "name": "Teil 9",
         "title": "Schlussbestimmungen",
         "parent": null
@@ -1046,7 +1046,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006300000",
         "name": "\u00a7 62",
         "title": "Anordnungen im Einzelfall",
         "parent": {
@@ -1060,7 +1060,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006400000",
         "name": "\u00a7 63",
         "title": "Geheimhaltung und Datenschutz",
         "parent": {
@@ -1074,7 +1074,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006500000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006500000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006500000",
         "name": "\u00a7 64",
         "title": "Elektronische Kommunikation",
         "parent": {
@@ -1088,7 +1088,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006600000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006600000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006600000",
         "name": "\u00a7 65",
         "title": "Umsetzung von Rechtsakten der Europ\u00e4ischen Union",
         "parent": {
@@ -1102,7 +1102,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006700000",
         "name": "\u00a7 66",
         "title": "Vollzug im Bereich der Bundeswehr",
         "parent": {
@@ -1116,7 +1116,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006800000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006800000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006800000",
         "name": "\u00a7 67",
         "title": "Beteiligung des Bundestages beim Erlass von Rechtsverordnungen",
         "parent": {
@@ -1130,7 +1130,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE006900000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE006900000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE006900000",
         "name": "\u00a7 68",
         "title": "Anh\u00f6rung beteiligter Kreise",
         "parent": {
@@ -1144,7 +1144,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE007002116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE007002116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE007002116",
         "name": "\u00a7 69",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -1158,7 +1158,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE007100000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE007100000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE007100000",
         "name": "\u00a7 70",
         "title": "Einziehung",
         "parent": {
@@ -1172,7 +1172,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE007200000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE007200000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE007200000",
         "name": "\u00a7 71",
         "title": "Ausschluss abweichenden Landesrechts",
         "parent": {
@@ -1186,7 +1186,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE007300000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE007300000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE007300000",
         "name": "\u00a7 72",
         "title": "\u00dcbergangsvorschrift",
         "parent": {
@@ -1200,7 +1200,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE007400000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE007400000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE007400000",
         "name": "Anlage 1",
         "title": "Beseitigungsverfahren",
         "parent": {
@@ -1214,7 +1214,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE007501116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE007501116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE007501116",
         "name": "Anlage 2",
         "title": "Verwertungsverfahren",
         "parent": {
@@ -1228,7 +1228,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE007601116",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE007601116",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE007601116",
         "name": "Anlage 3",
         "title": "Kriterien zur Bestimmung des Standes der Technik",
         "parent": {
@@ -1242,7 +1242,7 @@
       {
         "type": "article",
         "id": "BJNR021210012BJNE007700000",
-        "url": "https://api.rechtsinformationsportal.de/laws/krwg/articles/BJNR021210012BJNE007700000",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNE007700000",
         "name": "Anlage 4",
         "title": "Beispiele f\u00fcr Abfallvermeidungsma\u00dfnahmen nach \u00a7 33",
         "parent": {

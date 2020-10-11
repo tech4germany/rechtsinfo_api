@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR507500943",
-    "url": "https://api.rechtsinformationsportal.de/laws/a_kae",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae",
     "firstPublished": "1943-02-27",
     "sourceTimestamp": "20130405133058",
     "titleShort": null,
@@ -34,7 +34,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000100326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000100326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000100326",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -45,7 +45,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000200326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000200326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000200326",
         "name": "\u00a7 1",
         "title": null,
         "parent": null,
@@ -56,7 +56,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000300326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000300326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000300326",
         "name": "\u00a7 2",
         "title": null,
         "parent": null,
@@ -67,7 +67,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000400326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000400326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000400326",
         "name": "\u00a7 3",
         "title": null,
         "parent": null,
@@ -78,7 +78,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000500326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000500326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000500326",
         "name": "\u00a7 4",
         "title": null,
         "parent": null,
@@ -89,7 +89,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000600326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000600326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000600326",
         "name": "\u00a7 5",
         "title": null,
         "parent": null,
@@ -100,7 +100,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000700326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000700326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000700326",
         "name": "\u00a7 6",
         "title": null,
         "parent": null,
@@ -111,7 +111,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000800326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000800326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000800326",
         "name": "\u00a7 7",
         "title": null,
         "parent": null,
@@ -122,7 +122,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE000900326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE000900326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE000900326",
         "name": "\u00a7 8",
         "title": null,
         "parent": null,
@@ -133,7 +133,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001000326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001000326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001000326",
         "name": "\u00a7 9",
         "title": null,
         "parent": null,
@@ -144,7 +144,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001100326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001100326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001100326",
         "name": "\u00a7 10",
         "title": null,
         "parent": null,
@@ -155,7 +155,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001200326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001200326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001200326",
         "name": "\u00a7 11",
         "title": null,
         "parent": null,
@@ -166,7 +166,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001300326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001300326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001300326",
         "name": "\u00a7 12",
         "title": null,
         "parent": null,
@@ -177,7 +177,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001400326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001400326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001400326",
         "name": "\u00a7 13",
         "title": null,
         "parent": null,
@@ -188,7 +188,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001500326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001500326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001500326",
         "name": "\u00a7 14",
         "title": null,
         "parent": null,
@@ -199,7 +199,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001600326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001600326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001600326",
         "name": "\u00a7 15",
         "title": null,
         "parent": null,
@@ -210,7 +210,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001700326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001700326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001700326",
         "name": "\u00a7 16",
         "title": null,
         "parent": null,
@@ -221,7 +221,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001800326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001800326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001800326",
         "name": "\u00a7 17",
         "title": null,
         "parent": null,
@@ -232,7 +232,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE001900326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE001900326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE001900326",
         "name": "\u00a7 18",
         "title": null,
         "parent": null,
@@ -243,7 +243,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE002000326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE002000326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE002000326",
         "name": "\u00a7 19",
         "title": null,
         "parent": null,
@@ -254,7 +254,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE002100326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE002100326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE002100326",
         "name": "\u00a7 20",
         "title": null,
         "parent": null,
@@ -265,7 +265,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE002200326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE002200326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE002200326",
         "name": "\u00a7 21",
         "title": null,
         "parent": null,
@@ -276,7 +276,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE002300326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE002300326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE002300326",
         "name": "\u00a7 22",
         "title": null,
         "parent": null,
@@ -287,7 +287,7 @@
       {
         "type": "article",
         "id": "BJNR507500943BJNE002400326",
-        "url": "https://api.rechtsinformationsportal.de/laws/a_kae/articles/BJNR507500943BJNE002400326",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/a_kae/articles/BJNR507500943BJNE002400326",
         "name": "Schlu\u00dfformel",
         "title": null,
         "parent": null,

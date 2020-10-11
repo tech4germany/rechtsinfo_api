@@ -2,7 +2,7 @@
   "data": {
     "type": "law",
     "id": "BJNR030150975",
-    "url": "https://api.rechtsinformationsportal.de/laws/sgb_1",
+    "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1",
     "firstPublished": "1975-12-11",
     "sourceTimestamp": "20200703213015",
     "titleShort": null,
@@ -40,7 +40,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010902119",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010902119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010902119",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -51,7 +51,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG000300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG000300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000300314",
         "name": "Erster Abschnitt",
         "title": "Aufgaben des Sozialgesetzbuchs\nund soziale Rechte",
         "parent": null
@@ -59,7 +59,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE001700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE001700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE001700314",
         "name": "\u00a7 1",
         "title": "Aufgaben des Sozialgesetzbuchs",
         "parent": {
@@ -73,7 +73,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE001800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE001800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE001800314",
         "name": "\u00a7 2",
         "title": "Soziale Rechte",
         "parent": {
@@ -87,7 +87,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE001901308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE001901308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE001901308",
         "name": "\u00a7 3",
         "title": "Bildungs- und Arbeitsf\u00f6rderung",
         "parent": {
@@ -101,7 +101,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002002308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002002308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002002308",
         "name": "\u00a7 4",
         "title": "Sozialversicherung",
         "parent": {
@@ -115,7 +115,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002100314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002100314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002100314",
         "name": "\u00a7 5",
         "title": "Soziale Entsch\u00e4digung bei Gesundheitssch\u00e4den",
         "parent": {
@@ -129,7 +129,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002200314",
         "name": "\u00a7 6",
         "title": "Minderung des Familienaufwands",
         "parent": {
@@ -143,7 +143,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002300314",
         "name": "\u00a7 7",
         "title": "Zuschu\u00df f\u00fcr eine angemessene Wohnung",
         "parent": {
@@ -157,7 +157,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002401308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002401308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002401308",
         "name": "\u00a7 8",
         "title": "Kinder- und Jugendhilfe",
         "parent": {
@@ -171,7 +171,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002501308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002501308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002501308",
         "name": "\u00a7 9",
         "title": "Sozialhilfe",
         "parent": {
@@ -185,7 +185,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002602308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002602308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002602308",
         "name": "\u00a7 10",
         "title": "Teilhabe behinderter Menschen",
         "parent": {
@@ -199,7 +199,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG000400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG000400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000400314",
         "name": "Zweiter Abschnitt",
         "title": "Einweisungsvorschriften",
         "parent": null
@@ -207,7 +207,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG000500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG000500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000500314",
         "name": "Erster Titel",
         "title": "Allgemeines \u00fcber\nSozialleistungen und Leistungstr\u00e4ger",
         "parent": {
@@ -218,7 +218,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002700314",
         "name": "\u00a7 11",
         "title": "Leistungsarten",
         "parent": {
@@ -232,7 +232,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002800314",
         "name": "\u00a7 12",
         "title": "Leistungstr\u00e4ger",
         "parent": {
@@ -246,7 +246,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE002900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE002900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE002900314",
         "name": "\u00a7 13",
         "title": "Aufkl\u00e4rung",
         "parent": {
@@ -260,7 +260,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003000314",
         "name": "\u00a7 14",
         "title": "Beratung",
         "parent": {
@@ -274,7 +274,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003103360",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003103360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003103360",
         "name": "\u00a7 15",
         "title": "Auskunft",
         "parent": {
@@ -288,7 +288,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003200314",
         "name": "\u00a7 16",
         "title": "Antragstellung",
         "parent": {
@@ -302,7 +302,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003307119",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003307119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003307119",
         "name": "\u00a7 17",
         "title": "Ausf\u00fchrung der Sozialleistungen",
         "parent": {
@@ -316,7 +316,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG000600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG000600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000600314",
         "name": "Zweiter Titel",
         "title": "Einzelne Sozialleistungen\nund zust\u00e4ndige Leistungstr\u00e4ger",
         "parent": {
@@ -327,7 +327,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003401306",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003401306",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003401306",
         "name": "\u00a7 18",
         "title": "Leistungen der Ausbildungsf\u00f6rderung",
         "parent": {
@@ -341,7 +341,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003514140",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003514140",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003514140",
         "name": "\u00a7 19",
         "title": "Leistungen der Arbeitsf\u00f6rderung",
         "parent": {
@@ -355,7 +355,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010601308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010601308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010601308",
         "name": "\u00a7 19a",
         "title": "Leistungen der Grundsicherung f\u00fcr Arbeitsuchende",
         "parent": {
@@ -369,7 +369,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE009502308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE009502308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE009502308",
         "name": "\u00a7 19b",
         "title": "Leistungen bei gleitendem \u00dcbergang \u00e4lterer Arbeitnehmer in den Ruhestand",
         "parent": {
@@ -383,7 +383,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003603308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003603308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003603308",
         "name": "\u00a7 20",
         "title": null,
         "parent": {
@@ -397,7 +397,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003707308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003707308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003707308",
         "name": "\u00a7 21",
         "title": "Leistungen der gesetzlichen Krankenversicherung",
         "parent": {
@@ -411,7 +411,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE009600308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE009600308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE009600308",
         "name": "\u00a7 21a",
         "title": "Leistungen der sozialen Pflegeversicherung",
         "parent": {
@@ -425,7 +425,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE009704308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE009704308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE009704308",
         "name": "\u00a7 21b",
         "title": "Leistungen bei Schwangerschaftsabbr\u00fcchen",
         "parent": {
@@ -439,7 +439,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003808377",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003808377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003808377",
         "name": "\u00a7 22",
         "title": "Leistungen der gesetzlichen Unfallversicherung",
         "parent": {
@@ -453,7 +453,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE003916119",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE003916119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE003916119",
         "name": "\u00a7 23",
         "title": "Leistungen der gesetzlichen Rentenversicherung einschlie\u00dflich der Alterssicherung der Landwirte",
         "parent": {
@@ -467,7 +467,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004005377",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004005377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004005377",
         "name": "\u00a7 24",
         "title": "Versorgungsleistungen bei Gesundheitssch\u00e4den",
         "parent": {
@@ -481,7 +481,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004108360",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004108360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004108360",
         "name": "\u00a7 25",
         "title": "Kindergeld, Kinderzuschlag, Leistungen f\u00fcr Bildung und Teilhabe, Elterngeld und Betreuungsgeld",
         "parent": {
@@ -495,7 +495,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004201306",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004201306",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004201306",
         "name": "\u00a7 26",
         "title": "Wohngeld",
         "parent": {
@@ -509,7 +509,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004303308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004303308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004303308",
         "name": "\u00a7 27",
         "title": "Leistungen der Kinder- und Jugendhilfe",
         "parent": {
@@ -523,7 +523,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004407119",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004407119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004407119",
         "name": "\u00a7 28",
         "title": "Leistungen der Sozialhilfe",
         "parent": {
@@ -537,7 +537,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010303119",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010303119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010303119",
         "name": "\u00a7 28a",
         "title": "Leistungen der Eingliederungshilfe",
         "parent": {
@@ -551,7 +551,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004507119",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004507119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004507119",
         "name": "\u00a7 29",
         "title": "Leistungen zur Rehabilitation und Teilhabe behinderter Menschen",
         "parent": {
@@ -565,7 +565,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG000700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG000700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000700314",
         "name": "Dritter Abschnitt",
         "title": "Gemeinsame Vorschriften\nf\u00fcr alle Sozialleistungsbereiche dieses Gesetzbuchs",
         "parent": null
@@ -573,7 +573,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG000800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG000800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000800314",
         "name": "Erster Titel",
         "title": "Allgemeine Grunds\u00e4tze",
         "parent": {
@@ -584,7 +584,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004601306",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004601306",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004601306",
         "name": "\u00a7 30",
         "title": "Geltungsbereich",
         "parent": {
@@ -598,7 +598,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004700314",
         "name": "\u00a7 31",
         "title": "Vorbehalt des Gesetzes",
         "parent": {
@@ -612,7 +612,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004800314",
         "name": "\u00a7 32",
         "title": "Verbot nachteiliger Vereinbarungen",
         "parent": {
@@ -626,7 +626,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE004900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE004900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE004900314",
         "name": "\u00a7 33",
         "title": "Ausgestaltung von Rechten und Pflichten",
         "parent": {
@@ -640,7 +640,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE009800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE009800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE009800308",
         "name": "\u00a7 33a",
         "title": "Altersabh\u00e4ngige Rechte und Pflichten",
         "parent": {
@@ -654,7 +654,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010200301",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010200301",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010200301",
         "name": "\u00a7 33b",
         "title": "Lebenspartnerschaften",
         "parent": {
@@ -668,7 +668,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010800308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010800308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010800308",
         "name": "\u00a7 33c",
         "title": "Benachteiligungsverbot",
         "parent": {
@@ -682,7 +682,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005002308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005002308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005002308",
         "name": "\u00a7 34",
         "title": "Begrenzung von Rechten und Pflichten",
         "parent": {
@@ -696,7 +696,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005119126",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005119126",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005119126",
         "name": "\u00a7 35",
         "title": "Sozialgeheimnis",
         "parent": {
@@ -710,7 +710,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005200314",
         "name": "\u00a7 36",
         "title": "Handlungsf\u00e4higkeit",
         "parent": {
@@ -724,7 +724,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010506124",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010506124",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010506124",
         "name": "\u00a7 36a",
         "title": "Elektronische Kommunikation",
         "parent": {
@@ -738,7 +738,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005305308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005305308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005305308",
         "name": "\u00a7 37",
         "title": "Vorbehalt abweichender Regelungen",
         "parent": {
@@ -752,7 +752,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG000900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG000900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000900314",
         "name": "Zweiter Titel",
         "title": "Grunds\u00e4tze des\nLeistungsrechts",
         "parent": {
@@ -763,7 +763,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005400314",
         "name": "\u00a7 38",
         "title": "Rechtsanspruch",
         "parent": {
@@ -777,7 +777,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005500314",
         "name": "\u00a7 39",
         "title": "Ermessensleistungen",
         "parent": {
@@ -791,7 +791,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005600314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005600314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005600314",
         "name": "\u00a7 40",
         "title": "Entstehen der Anspr\u00fcche",
         "parent": {
@@ -805,7 +805,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005700314",
         "name": "\u00a7 41",
         "title": "F\u00e4lligkeit",
         "parent": {
@@ -819,7 +819,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005802308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005802308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005802308",
         "name": "\u00a7 42",
         "title": "Vorsch\u00fcsse",
         "parent": {
@@ -833,7 +833,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE005901306",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE005901306",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE005901306",
         "name": "\u00a7 43",
         "title": "Vorl\u00e4ufige Leistungen",
         "parent": {
@@ -847,7 +847,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006001308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006001308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006001308",
         "name": "\u00a7 44",
         "title": "Verzinsung",
         "parent": {
@@ -861,7 +861,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006102308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006102308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006102308",
         "name": "\u00a7 45",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -875,7 +875,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006200314",
         "name": "\u00a7 46",
         "title": "Verzicht",
         "parent": {
@@ -889,7 +889,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006301377",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006301377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006301377",
         "name": "\u00a7 47",
         "title": "Auszahlung von Geldleistungen",
         "parent": {
@@ -903,7 +903,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006404119",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006404119",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006404119",
         "name": "\u00a7 48",
         "title": "Auszahlung bei Verletzung der Unterhaltspflicht",
         "parent": {
@@ -917,7 +917,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006502308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006502308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006502308",
         "name": "\u00a7 49",
         "title": "Auszahlung bei Unterbringung",
         "parent": {
@@ -931,7 +931,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006601314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006601314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006601314",
         "name": "\u00a7 50",
         "title": "\u00dcberleitung bei Unterbringung",
         "parent": {
@@ -945,7 +945,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006705308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006705308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006705308",
         "name": "\u00a7 51",
         "title": "Aufrechnung",
         "parent": {
@@ -959,7 +959,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006800314",
         "name": "\u00a7 52",
         "title": "Verrechnung",
         "parent": {
@@ -973,7 +973,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE006902308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE006902308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE006902308",
         "name": "\u00a7 53",
         "title": "\u00dcbertragung und Verpf\u00e4ndung",
         "parent": {
@@ -987,7 +987,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007011360",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007011360",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007011360",
         "name": "\u00a7 54",
         "title": "Pf\u00e4ndung",
         "parent": {
@@ -1001,7 +1001,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007102308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007102308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007102308",
         "name": "\u00a7 55",
         "title": "(weggefallen)",
         "parent": {
@@ -1015,7 +1015,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007204308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007204308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007204308",
         "name": "\u00a7 56",
         "title": "Sonderrechtsnachfolge",
         "parent": {
@@ -1029,7 +1029,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007300314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007300314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007300314",
         "name": "\u00a7 57",
         "title": "Verzicht und Haftung des Sonderrechtsnachfolgers",
         "parent": {
@@ -1043,7 +1043,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007400314",
         "name": "\u00a7 58",
         "title": "Vererbung",
         "parent": {
@@ -1057,7 +1057,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007500314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007500314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007500314",
         "name": "\u00a7 59",
         "title": "Ausschlu\u00df der Rechtsnachfolge",
         "parent": {
@@ -1071,7 +1071,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG001000314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG001000314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG001000314",
         "name": "Dritter Titel",
         "title": "Mitwirkung des\nLeistungsberechtigten",
         "parent": {
@@ -1082,7 +1082,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007602308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007602308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007602308",
         "name": "\u00a7 60",
         "title": "Angabe von Tatsachen",
         "parent": {
@@ -1096,7 +1096,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007700314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007700314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007700314",
         "name": "\u00a7 61",
         "title": "Pers\u00f6nliches Erscheinen",
         "parent": {
@@ -1110,7 +1110,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007800314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007800314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007800314",
         "name": "\u00a7 62",
         "title": "Untersuchungen",
         "parent": {
@@ -1124,7 +1124,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE007900314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE007900314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE007900314",
         "name": "\u00a7 63",
         "title": "Heilbehandlung",
         "parent": {
@@ -1138,7 +1138,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE008002308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE008002308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE008002308",
         "name": "\u00a7 64",
         "title": "Leistungen zur Teilhabe am Arbeitsleben",
         "parent": {
@@ -1152,7 +1152,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE008102304",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE008102304",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE008102304",
         "name": "\u00a7 65",
         "title": "Grenzen der Mitwirkung",
         "parent": {
@@ -1166,7 +1166,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE008200314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE008200314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE008200314",
         "name": "\u00a7 65a",
         "title": "Aufwendungsersatz",
         "parent": {
@@ -1180,7 +1180,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE008302308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE008302308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE008302308",
         "name": "\u00a7 66",
         "title": "Folgen fehlender Mitwirkung",
         "parent": {
@@ -1194,7 +1194,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE008400314",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE008400314",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE008400314",
         "name": "\u00a7 67",
         "title": "Nachholung der Mitwirkung",
         "parent": {
@@ -1208,7 +1208,7 @@
       {
         "type": "heading",
         "id": "BJNR030150975BJNG001100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNG001100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG001100308",
         "name": "Vierter Abschnitt",
         "title": "\u00dcbergangs- und Schlussvorschriften",
         "parent": null
@@ -1216,7 +1216,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010010377",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010010377",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010010377",
         "name": "\u00a7 68",
         "title": "Besondere Teile dieses Gesetzbuches",
         "parent": {
@@ -1230,7 +1230,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010100308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010100308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010100308",
         "name": "\u00a7 69",
         "title": "Stadtstaaten-Klausel",
         "parent": {
@@ -1244,7 +1244,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010400308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010400308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010400308",
         "name": "\u00a7 70",
         "title": "\u00dcberleitungsvorschrift zum Verj\u00e4hrungsrecht",
         "parent": {
@@ -1258,7 +1258,7 @@
       {
         "type": "article",
         "id": "BJNR030150975BJNE010700308",
-        "url": "https://api.rechtsinformationsportal.de/laws/sgb_1/articles/BJNR030150975BJNE010700308",
+        "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNE010700308",
         "name": "\u00a7 71",
         "title": "\u00dcberleitungsvorschrift zur \u00dcbertragung, Verpf\u00e4ndung und Pf\u00e4ndung",
         "parent": {
