@@ -141,18 +141,25 @@ def get_article(
         }
 
 
+class SearchFilterTypeOptions(Enum):
+    laws = "laws"
+    articles = "articles"
+
+
 @v1.get("/search", response_model=api_schemas.SearchResultsResponse)
 def get_search_results(
     q: str,
     page: int = fastapi.Query(1, gt=0),
     per_page: int = fastapi.Query(10, gt=0, le=100),
+    filter: Optional[SearchFilterTypeOptions] = None
 ):
     orm_type_to_schema = {
         models.Law: api_schemas.LawBasicFields,
         models.ContentItem: api_schemas.ContentItemBasicFields
     }
     with db.session_scope() as session:
-        pagination = db.fulltext_search_laws_content_items(session, q, page, per_page)
+        filter_type = filter and filter.value
+        pagination = db.fulltext_search_laws_content_items(session, q, page, per_page, filter_type)
         data = [orm_type_to_schema[type(item)].from_orm_model(item) for item in pagination.items]
 
     return {
@@ -163,8 +170,8 @@ def get_search_results(
             "per_page": pagination.per_page
         },
         "links": {
-            "prev": urls.search(q, pagination.prev_page, per_page),
-            "next": urls.search(q, pagination.next_page, per_page)
+            "prev": urls.search(q, pagination.prev_page, per_page, filter),
+            "next": urls.search(q, pagination.next_page, per_page, filter)
         }
     }
 

@@ -59,26 +59,6 @@ class QueryItemProvider:
         return self.query.offset(offset).limit(limit).all()
 
 
-class PrependedQueryItemProvider(QueryItemProvider):
-    def __init__(self, query, prepended_item):
-        self.prepended_item = prepended_item
-        self.query = query
-
-    @property
-    def total(self):
-        return super().total + 1
-
-    def items(self, offset, limit):
-        if offset == 0:
-            limit -= 1
-            items = [self.prepended_item] + super().items(offset, limit)
-        else:
-            offset -= 1
-            items = super().items(offset, limit)
-
-        return items
-
-
 @dataclasses.dataclass
 class Pagination:
     page: int
@@ -195,6 +175,27 @@ def _full_text_search_query(session, model, tsquery):
     return session.query(*fields).filter(model.search_tsv.op('@@')(tsquery))
 
 
+def _find_exact_hit(session, query, filter_type):
+    if filter_type == "laws":
+        return _find_law_exact_match(session, query)
+    elif filter_type == "articles":
+        return _find_article_num_exact_match(session, query)
+    else:
+        return (
+            _find_law_exact_match(session, query)
+            or _find_article_num_exact_match(session, query)
+        )
+
+
+def _exact_hit_to_search_result_query(session, instance):
+    fields = [
+        literal(instance.__table__.name[:-1]).label("type"),
+        literal(instance.id).label("id"),
+        literal(10000).label("rank")
+    ]
+    return session.query(*fields)
+
+
 def _map_search_results_to_models(session, items):
     # Collect ids.
     item_ids = {'law': [], 'content_item': []}
@@ -212,11 +213,8 @@ def _map_search_results_to_models(session, items):
     return [mapped[item_type][item_id] for item_type, item_id, _ in items]
 
 
-def fulltext_search_laws_content_items(session, query, page, per_page):
-    exact_hit = (
-        _find_law_exact_match(session, query)
-        or _find_article_num_exact_match(session, query)
-    )
+def fulltext_search_laws_content_items(session, query, page, per_page, filter_type):
+    exact_hit = _find_exact_hit(session, query, filter_type)
 
     tsquery = func.websearch_to_tsquery("german", query)
 
@@ -225,14 +223,20 @@ def fulltext_search_laws_content_items(session, query, page, per_page):
         _full_text_search_query(session, ContentItem, tsquery)
         .filter(ContentItem.item_type.in_(['article', 'heading_article']))
     )
-    combined_query = law_query.union(content_items_query).order_by(text("rank desc"))
 
-    item_provider = QueryItemProvider(combined_query)
+    if filter_type == "laws":
+        query = law_query
+    elif filter_type == "articles":
+        query = content_items_query
+    else:
+        query = law_query.union(content_items_query)
+
     if exact_hit:
-        prepended_item = (type(exact_hit).__table__.name[:-1], exact_hit.id, 1)
-        item_provider = PrependedQueryItemProvider(combined_query, prepended_item)
+        query = _exact_hit_to_search_result_query(session, exact_hit).union(query)
 
-    pagination = paginate(item_provider, page, per_page)
+    query = query.order_by(text("rank desc"))
+
+    pagination = paginate(QueryItemProvider(query), page, per_page)
     pagination.items = _map_search_results_to_models(session, pagination.items)
 
     return pagination
