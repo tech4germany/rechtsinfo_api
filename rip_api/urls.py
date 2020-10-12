@@ -42,7 +42,7 @@ def get_article(law_slug, item_id):
     return _build_url(f"/laws/{law_slug}/articles/{item_id}")
 
 
-def search(query, page, per_page, filter):
+def search(query, page, per_page, type_filter):
     if not (query and page and per_page):
         return None
 
@@ -51,7 +51,7 @@ def search(query, page, per_page, filter):
         "page": page,
         "per_page": per_page
     }
-    if filter:
-        params['filter'] = filter.value
+    if type_filter:
+        params['filter'] = type_filter.value
 
     return _build_url("/search", params)

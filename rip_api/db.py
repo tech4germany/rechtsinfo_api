@@ -175,10 +175,10 @@ def _full_text_search_query(session, model, tsquery):
     return session.query(*fields).filter(model.search_tsv.op('@@')(tsquery))
 
 
-def _find_exact_hit(session, query, filter_type):
-    if filter_type == "laws":
+def _find_exact_hit(session, query, type_filter):
+    if type_filter == "laws":
         return _find_law_exact_match(session, query)
-    elif filter_type == "articles":
+    elif type_filter == "articles":
         return _find_article_num_exact_match(session, query)
     else:
         return (
@@ -213,9 +213,9 @@ def _map_search_results_to_models(session, items):
     return [mapped[item_type][item_id] for item_type, item_id, _ in items]
 
 
-def fulltext_search_laws_content_items(session, query, page, per_page, filter_type):
+def fulltext_search_laws_content_items(session, query, page, per_page, type_filter):
     # TODO: This is a mess. Clean up and add tests.
-    exact_hit = _find_exact_hit(session, query, filter_type)
+    exact_hit = _find_exact_hit(session, query, type_filter)
 
     tsquery = func.websearch_to_tsquery("german", query)
 
@@ -225,9 +225,9 @@ def fulltext_search_laws_content_items(session, query, page, per_page, filter_ty
         .filter(ContentItem.item_type.in_(["article", "heading_article"]))
     )
 
-    if filter_type == "laws":
+    if type_filter == "laws":
         query = law_query
-    elif filter_type == "articles":
+    elif type_filter == "articles":
         query = content_items_query
     else:
         query = law_query.union(content_items_query)
