@@ -80,6 +80,24 @@ def download_laws(location):
     _delete_removed(removed, lambda slug: location.remove_law(slug))
 
 
+def _fixup_slug_duplicates(session):
+    """Use gii_slug as a law's slug in case of conflicts (except for a handful cases)."""
+    overrides = {
+        "aeg": { "aeg_1994": "aeg", "aeg": "aeg_2" },
+        "afrg": { "altfrg": "afrg", "afrg": "afrg_2" },
+        "gbv": { "gbv_2011": "gbv" },
+        "stvo": { "stvo_2013": "stvo" }
+    }
+    dupes_by_slug = db.laws_with_duplicate_slugs(session)
+
+    for dupes in dupes_by_slug:
+        slug_overrides = overrides.get(dupes[0].slug, {})
+        for law in dupes:
+            law.slug = slug_overrides.get(law.gii_slug, law.gii_slug)
+
+    session.commit()
+
+
 def ingest_data_from_location(session, location):
     print("Loading timestamps")
     laws_on_disk = location.list_slugs_with_timestamps()
@@ -97,6 +115,7 @@ def ingest_data_from_location(session, location):
         session.commit()
 
     _add_or_replace(new_or_updated, add_fn)
+    _fixup_slug_duplicates(session)
 
     print("Deleting removed laws")
     db.bulk_delete_laws_by_gii_slug(session, removed)

@@ -6,7 +6,7 @@ import re
 import typing
 
 from sqlalchemy import create_engine, func, literal, text, column
-from sqlalchemy.orm import joinedload, load_only, sessionmaker
+from sqlalchemy.orm import joinedload, load_only, sessionmaker, aliased
 
 from .models import slugify, Base, Law, ContentItem
 
@@ -110,6 +110,23 @@ def all_gii_slugs(session):
 
 def all_laws_load_only_gii_slug_and_source_timestamp(session):
     return session.query(Law).options(load_only("gii_slug", "source_timestamp")).all()
+
+
+def laws_with_duplicate_slugs(session):
+    law2 = aliased(Law)
+    law_pairs_query = (
+        session.query(Law, law2).
+        join(law2, Law.slug==law2.slug).filter(Law.id != law2.id)
+    )
+
+    dupes = {}
+    # Transform pairs to list per slug. (Needed in case more than 2 laws share a slug.)
+    for law1, law2 in law_pairs_query:
+        laws = dupes.setdefault(law1.slug, set())
+        laws.add(law1)
+        laws.add(law2)
+
+    return [list(laws) for laws in dupes.values()]
 
 
 def find_law_by_doknr(session, doknr):
