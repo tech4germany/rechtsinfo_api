@@ -155,7 +155,7 @@ def get_search_results(
 ):
     orm_type_to_schema = {
         models.Law: api_schemas.LawBasicFields,
-        models.ContentItem: api_schemas.ContentItemBasicFields
+        models.ContentItem: api_schemas.ContentItemBasicFieldsWithLaw
     }
     with db.session_scope() as session:
         type_filter_value = type_filter and type_filter.value

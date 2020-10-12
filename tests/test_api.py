@@ -262,7 +262,7 @@ class TestSearch:
         results = response.json()["data"]
         assert len(results) == 3
 
-        assert results[0] == {
+        law_response_dict = {
             "type": "law",
             "id": "BJNR055429995",
             "url": "https://api.rechtsinformationsportal.de/v1/laws/skaufg",
@@ -276,13 +276,15 @@ class TestSearch:
             "abbreviation": "SkAufG",
             "slug": "skaufg"
         }
+        assert results[0] == law_response_dict
 
         assert results[1] == {
             "type": "headingArticle",
             "id": "BJNR055429995BJNG000200305",
             "url": "https://api.rechtsinformationsportal.de/v1/laws/skaufg/articles/BJNR055429995BJNG000200305",
             "name": "Art 2",
-            "title": None
+            "title": None,
+            "law": law_response_dict
         }
 
         assert results[2] == {
@@ -290,7 +292,8 @@ class TestSearch:
             "id": "BJNR055429995BJNE000801310",
             "url": "https://api.rechtsinformationsportal.de/v1/laws/skaufg/articles/BJNR055429995BJNE000801310",
             "name": "§ 2",
-            "title": "Grenzübertritt, Einreise"
+            "title": "Grenzübertritt, Einreise",
+            "law": law_response_dict
         }
 
     def test_includes_pagination_envelope(self, client, law):

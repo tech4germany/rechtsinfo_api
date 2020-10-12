@@ -80,30 +80,6 @@ class ContentItemWithTextContent(ContentItemAllFields):
     documentaryFootnotes: Optional[str] = ...
 
 
-class HeadingBasicFields(ContentItemBasicFields):
-    type: str = "heading"
-
-
-class HeadingAllFields(ContentItemAllFields):
-    type: str = "heading"
-
-
-class ArticleBasicFields(ContentItemBasicFields):
-    type: str = "article"
-
-
-class ArticleAllFields(ContentItemWithTextContent):
-    type: str = "article"
-
-
-class HeadingArticleBasicFields(ContentItemBasicFields):
-    type: str = "headingArticle"
-
-
-class HeadingArticleAllFields(ContentItemWithTextContent):
-    type: str = "headingArticle"
-
-
 class LawBasicFields(pydantic.BaseModel):
     type: str = "law"
     id: str
@@ -175,6 +151,61 @@ class LawAllFields(LawBasicFields):
         return attrs
 
 
+class ContentItemBasicFieldsWithLaw(ContentItemBasicFields):
+    law: LawBasicFields
+
+    @staticmethod
+    def model_class_from_item_type(item_type):
+        return {
+            "article": ArticleBasicFieldsWithLaw,
+            "heading": HeadingBasicFieldsWithLaw,
+            "heading_article": HeadingArticleBasicFieldsWithLaw,
+        }[item_type]
+
+    @classmethod
+    def _attrs_dict_from_item(cls, item):
+        return {
+            **super()._attrs_dict_from_item(item),
+            "law": LawBasicFields.from_orm_model(item.law)
+        }
+
+
+class HeadingBasicFields(ContentItemBasicFields):
+    type: str = "heading"
+
+
+class HeadingBasicFieldsWithLaw(ContentItemBasicFieldsWithLaw):
+    type: str = "heading"
+
+
+class HeadingAllFields(ContentItemAllFields):
+    type: str = "heading"
+
+
+class ArticleBasicFields(ContentItemBasicFields):
+    type: str = "article"
+
+
+class ArticleBasicFieldsWithLaw(ContentItemBasicFieldsWithLaw):
+    type: str = "article"
+
+
+class ArticleAllFields(ContentItemWithTextContent):
+    type: str = "article"
+
+
+class HeadingArticleBasicFields(ContentItemBasicFields):
+    type: str = "headingArticle"
+
+
+class HeadingArticleBasicFieldsWithLaw(ContentItemBasicFieldsWithLaw):
+    type: str = "headingArticle"
+
+
+class HeadingArticleAllFields(ContentItemWithTextContent):
+    type: str = "headingArticle"
+
+
 class LawAllFieldsWithContents(LawAllFields):
     # Ordering in the Union matters, cf. LawResponse.
     contents: List[Union[ArticleAllFields, HeadingAllFields, HeadingArticleAllFields]]
@@ -218,6 +249,6 @@ class ContentItemResponse(pydantic.BaseModel):
 
 
 class SearchResultsResponse(pydantic.BaseModel):
-    data: List[Union[LawBasicFields, ArticleBasicFields, HeadingArticleBasicFields]]
+    data: List[Union[LawBasicFields, ArticleBasicFieldsWithLaw, ArticleBasicFields, HeadingArticleBasicFieldsWithLaw, HeadingArticleBasicFields]]
     links: PaginationLinks
     pagination: Pagination
