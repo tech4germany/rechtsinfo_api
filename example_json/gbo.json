@@ -39,7 +39,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG000101307",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -299,7 +301,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG000201307",
         "name": "Zweiter Abschnitt",
         "title": "Eintragungen in das Grundbuch",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -951,7 +955,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG000301307",
         "name": "Dritter Abschnitt",
         "title": "Hypotheken-, Grundschuld-,\nRentenschuldbrief",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1169,7 +1175,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG000401307",
         "name": "Vierter Abschnitt",
         "title": "Beschwerde",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1331,7 +1339,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG000501307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Verfahren des Grundbuchamts in\nbesonderen F\u00e4llen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1342,7 +1352,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001390897BJNG000501307"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1395,7 +1407,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001390897BJNG000501307"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1490,7 +1504,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001390897BJNG000501307"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1862,7 +1878,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG001001307",
         "name": "Sechster Abschnitt",
         "title": "Anlegung von Grundbuchbl\u00e4ttern",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2010,7 +2028,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG001101307",
         "name": "Siebenter Abschnitt",
         "title": "Das maschinell gef\u00fchrte Grundbuch",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2172,7 +2192,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG001200160",
         "name": "Achter Abschnitt",
         "title": "Elektronischer Rechtsverkehr und elektronische Grundakte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2278,7 +2300,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gbo/articles/BJNR001390897BJNG000903160",
         "name": "Neunter Abschnitt",
         "title": "\u00dcbergangs- und Schlu\u00dfbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

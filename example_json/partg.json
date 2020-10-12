@@ -39,7 +39,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000103307",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Bestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -117,7 +119,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000203307",
         "name": "Zweiter Abschnitt",
         "title": "Innere Ordnung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -279,7 +283,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000303307",
         "name": "Dritter Abschnitt",
         "title": "Aufstellung von Wahlbewerbern",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -301,7 +307,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000404307",
         "name": "Vierter Abschnitt",
         "title": "Staatliche Finanzierung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -393,7 +401,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000804307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Rechenschaftslegung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -569,7 +579,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000900377",
         "name": "Sechster Abschnitt",
         "title": "Verfahren bei unrichtigen\nRechenschaftsberichten sowie Strafvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -633,7 +645,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000506377",
         "name": "Siebter Abschnitt",
         "title": "Vollzug des Verbots\nverfassungswidriger Parteien",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -669,7 +683,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000606377",
         "name": "Achter Abschnitt",
         "title": "Schlu\u00dfbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -62,7 +62,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000100310",
         "name": "1. Abschnitt",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -126,7 +128,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000201116",
         "name": "2. Abschnitt",
         "title": "Koordinierung und epidemische Lage von nationaler Tragweite",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -176,7 +180,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000302116",
         "name": "3. Abschnitt",
         "title": "\u00dcberwachung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -352,7 +358,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000400310",
         "name": "4. Abschnitt",
         "title": "Verh\u00fctung \u00fcbertragbarer Krankheiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -486,7 +494,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000500310",
         "name": "5. Abschnitt",
         "title": "Bek\u00e4mpfung \u00fcbertragbarer Krankheiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -620,7 +630,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000601116",
         "name": "6. Abschnitt",
         "title": "Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -684,7 +696,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000700310",
         "name": "7. Abschnitt",
         "title": "Wasser",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -762,7 +776,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000800310",
         "name": "8. Abschnitt",
         "title": "Gesundheitliche Anforderungen\nan das Personal beim Umgang mit Lebensmitteln",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -798,7 +814,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000900310",
         "name": "9. Abschnitt",
         "title": "T\u00e4tigkeiten mit\nKrankheitserregern",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -974,7 +992,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001001116",
         "name": "10. Abschnitt",
         "title": "Vollzug des Gesetzes und zust\u00e4ndige Beh\u00f6rden",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1024,7 +1044,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001100310",
         "name": "11. Abschnitt",
         "title": "Angleichung an Gemeinschaftsrecht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1046,7 +1068,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001200310",
         "name": "12. Abschnitt",
         "title": "Entsch\u00e4digung in besonderen F\u00e4llen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1236,7 +1260,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001300310",
         "name": "13. Abschnitt",
         "title": "Kosten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1258,7 +1284,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001400310",
         "name": "14. Abschnitt",
         "title": "Sondervorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1311,7 +1339,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR104510000BJNG001400310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1375,7 +1405,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001601116",
         "name": "15. Abschnitt",
         "title": "\u00dcbergangsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

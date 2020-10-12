@@ -56,7 +56,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Begriffsbestimmungen und Verpflichtete",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -106,7 +108,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Risikomanagement",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -198,7 +202,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Sorgfaltspflichten in Bezug auf Kunden",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -332,7 +338,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Transparenzregister",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -480,7 +488,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Zentralstelle f\u00fcr Finanztransaktionsuntersuchungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -712,7 +722,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000600000",
         "name": "Abschnitt 6",
         "title": "Pflichten im Zusammenhang mit Meldungen von Sachverhalten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -818,7 +830,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwg/articles/BJNR182210017BJNG000700000",
         "name": "Abschnitt 7",
         "title": "Aufsicht, Zusammenarbeit, Bu\u00dfgeldvorschriften, Datenschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -57,7 +57,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/pferdewmeistprv/articles/BJNR182500015BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeines",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -121,7 +123,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/pferdewmeistprv/articles/BJNR182500015BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Pr\u00fcfungsteil Pferdehaltung, Pferdeeinsatz, Pferdezucht und Dienstleistungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -185,7 +189,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/pferdewmeistprv/articles/BJNR182500015BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Pr\u00fcfungsteil Betriebs- und Unternehmensf\u00fchrung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -249,7 +255,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/pferdewmeistprv/articles/BJNR182500015BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Pr\u00fcfungsteil Berufsausbildung und Mitarbeiterf\u00fchrung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -327,7 +335,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/pferdewmeistprv/articles/BJNR182500015BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Befreiung von Pr\u00fcfungsleistungen, Bewertungen in den Pr\u00fcfungen, Bestehens- und Zeugnisregelungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -377,7 +387,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/pferdewmeistprv/articles/BJNR182500015BJNG000600000",
         "name": "Abschnitt 6",
         "title": "Erg\u00e4nzungs- und Wiederholungspr\u00fcfung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -413,7 +425,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/pferdewmeistprv/articles/BJNR182500015BJNG000700000",
         "name": "Abschnitt 7",
         "title": "Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

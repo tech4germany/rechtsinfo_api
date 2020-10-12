@@ -39,7 +39,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG000200000",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -75,7 +77,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG000500000",
         "name": "Zweiter Abschnitt",
         "title": "Pflichten des Arbeitgebers",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -251,7 +255,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG001800000",
         "name": "Dritter Abschnitt",
         "title": "Pflichten und Rechte der Besch\u00e4ftigten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -301,7 +307,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG002200000",
         "name": "Vierter Abschnitt",
         "title": "Verordnungserm\u00e4chtigungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -351,7 +359,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG002700308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Gemeinsame deutsche Arbeitsschutzstrategie",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -387,7 +397,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG002601308",
         "name": "Sechster Abschnitt",
         "title": "Schlu\u00dfvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

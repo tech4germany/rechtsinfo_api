@@ -35,7 +35,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tmg/articles/BJNR017910007BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Bestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -99,7 +101,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tmg/articles/BJNR017910007BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Zulassungsfreiheit und Informationspflichten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -149,7 +153,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tmg/articles/BJNR017910007BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Verantwortlichkeit",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -213,7 +219,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tmg/articles/BJNR017910007BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Datenschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -305,7 +313,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tmg/articles/BJNR017910007BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

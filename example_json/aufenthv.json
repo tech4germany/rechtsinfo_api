@@ -179,7 +179,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/aufenthv/articles/BJNR294510004BJNG000100000",
         "name": "Kapitel 1",
         "title": "Allgemeine Bestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -201,7 +203,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/aufenthv/articles/BJNR294510004BJNG000200000",
         "name": "Kapitel 2",
         "title": "Einreise und Aufenthalt im Bundesgebiet",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -212,7 +216,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -405,7 +411,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -416,7 +424,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -483,7 +493,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -564,7 +576,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -631,7 +645,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -698,7 +714,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -849,7 +867,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -944,7 +964,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -997,7 +1019,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1033,7 +1057,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/aufenthv/articles/BJNR294510004BJNG001200000",
         "name": "Kapitel 3",
         "title": "Geb\u00fchren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1265,7 +1291,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/aufenthv/articles/BJNR294510004BJNG001300000",
         "name": "Kapitel 4",
         "title": "Ordnungsrechtliche Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1329,7 +1357,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/aufenthv/articles/BJNR294510004BJNG001400000",
         "name": "Kapitel 5",
         "title": "Verfahrensvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1340,7 +1370,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG001400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1421,7 +1453,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG001400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1432,7 +1466,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG001601310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1555,7 +1591,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG001601310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1692,7 +1730,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG001601310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1815,7 +1855,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR294510004BJNG001601310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1851,7 +1893,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/aufenthv/articles/BJNR294510004BJNG001900000",
         "name": "Kapitel 6",
         "title": "Ordnungswidrigkeiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1887,7 +1931,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/aufenthv/articles/BJNR294510004BJNG002000000",
         "name": "Kapitel 7",
         "title": "\u00dcbergangs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

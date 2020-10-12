@@ -48,7 +48,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -84,7 +86,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Gesundheitsschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -95,7 +99,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR122810017BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -190,7 +196,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR122810017BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -299,7 +307,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR122810017BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -321,7 +331,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000600000",
         "name": "Abschnitt 3",
         "title": "K\u00fcndigungsschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -343,7 +355,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000700000",
         "name": "Abschnitt 4",
         "title": "Leistungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -463,7 +477,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000800000",
         "name": "Abschnitt 5",
         "title": "Durchf\u00fchrung des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -555,7 +571,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG000900000",
         "name": "Abschnitt 6",
         "title": "Bu\u00dfgeldvorschriften, Strafvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -591,7 +609,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/muschg/articles/BJNR122810017BJNG001000000",
         "name": "Abschnitt 7",
         "title": "Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -362,7 +362,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/skaufg/articles/BJNR055429995BJNG000300305",
         "name": "Art 3",
         "title": null,
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -52,7 +52,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG003604116",
         "name": "Erstes Kapitel",
         "title": "Allgemeines St\u00e4dtebaurecht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -63,7 +65,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -74,7 +78,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -211,7 +217,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -278,7 +286,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -359,7 +369,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -440,7 +452,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -451,7 +465,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000504116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -532,7 +548,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000504116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -613,7 +631,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000504116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -708,7 +728,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -719,7 +741,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000905116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -870,7 +894,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG000905116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -965,7 +991,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -976,7 +1004,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG001304116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1477,7 +1507,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG001304116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1558,7 +1590,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1569,7 +1603,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG001604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1692,7 +1728,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG001604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1857,7 +1895,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG001604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2134,7 +2174,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2145,7 +2187,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG002104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2212,7 +2256,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG002104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2349,7 +2395,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003604116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2399,7 +2447,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG003704116",
         "name": "Zweites Kapitel",
         "title": "Besonderes St\u00e4dtebaurecht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2410,7 +2460,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2421,7 +2473,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003804116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2488,7 +2542,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003804116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2667,7 +2723,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003804116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2762,7 +2820,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003804116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2843,7 +2903,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003804116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2896,7 +2958,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003804116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2935,7 +2999,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3044,7 +3110,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3111,7 +3179,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3136,7 +3206,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3161,7 +3233,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3172,7 +3246,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG004506116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3225,7 +3301,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG004506116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3306,7 +3384,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3345,7 +3425,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3426,7 +3508,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG003704116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3504,7 +3588,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005104116",
         "name": "Drittes Kapitel",
         "title": "Sonstige Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3515,7 +3601,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3638,7 +3726,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3649,7 +3739,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005305116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3716,7 +3808,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005305116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3783,7 +3877,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005305116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3906,7 +4002,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005305116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3959,7 +4057,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005104116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4191,7 +4291,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baugb/articles/BJNR003410960BJNG005904116",
         "name": "Viertes Kapitel",
         "title": "\u00dcberleitungs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4202,7 +4304,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005904116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4437,7 +4541,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR003410960BJNG005904116"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

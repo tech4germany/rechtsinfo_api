@@ -48,7 +48,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/erbstdv/articles/BJNR265800998BJNG000100311",
         "name": "Zu \u00a7 33 ErbStG",
         "title": null,
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -98,7 +100,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/erbstdv/articles/BJNR265800998BJNG000200311",
         "name": "Zu \u00a7 34 ErbStG",
         "title": null,
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -218,7 +222,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/erbstdv/articles/BJNR265800998BJNG000300311",
         "name": "Schlu\u00dfvorschriften",
         "title": null,
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

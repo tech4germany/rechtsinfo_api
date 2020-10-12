@@ -50,7 +50,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000101307",
         "name": "Erster Teil",
         "title": "Anwendungsbereich",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -72,7 +74,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000201307",
         "name": "Zweiter Teil",
         "title": "Auslieferung an das Ausland",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -668,7 +672,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000301307",
         "name": "Dritter Teil",
         "title": "Durchlieferung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -746,7 +752,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000401307",
         "name": "Vierter Teil",
         "title": "Rechtshilfe durch Vollstreckung\nausl\u00e4ndischer Erkenntnisse",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -964,7 +972,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000501307",
         "name": "F\u00fcnfter Teil",
         "title": "Sonstige Rechtshilfe",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1154,7 +1164,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000601307",
         "name": "Sechster Teil",
         "title": "Ausgehende Ersuchen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1246,7 +1258,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000702125",
         "name": "Siebenter Teil",
         "title": "Gemeinsame Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1257,7 +1271,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000702125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1380,7 +1396,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000702125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1472,7 +1490,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000804160",
         "name": "Achter Teil",
         "title": "Auslieferungs- und Durchlieferungsverkehr mit Mitgliedstaaten der Europ\u00e4ischen Union",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1483,7 +1503,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000804160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1522,7 +1544,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000804160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1659,7 +1683,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000804160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1698,7 +1724,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000804160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1748,7 +1776,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG000902160",
         "name": "Neunter Teil",
         "title": "Vollstreckungshilfeverkehr mit den Mitgliedstaaten der Europ\u00e4ischen Union",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1759,7 +1789,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000902160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1770,7 +1802,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG001801311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1991,7 +2025,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG001801311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2100,7 +2136,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000902160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2111,7 +2149,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG001901160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2136,7 +2176,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG001901160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2357,7 +2399,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG001901160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2396,7 +2440,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000902160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2533,7 +2579,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000902160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2544,7 +2592,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG003100311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2709,7 +2759,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG003100311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2762,7 +2814,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG000902160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2938,7 +2992,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG002100160",
         "name": "Zehnter Teil",
         "title": "Sonstiger Rechtshilfeverkehr mit den Mitgliedstaaten der Europ\u00e4ischen Union",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2949,7 +3005,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG002100160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2974,7 +3032,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG002100160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3125,7 +3185,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG002100160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3273,7 +3335,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG003700125",
         "name": "Elfter Teil",
         "title": "Schutz personenbezogener Daten im Rechtshilfeverkehr innerhalb der Europ\u00e4ischen Union und mit den Schengen-assoziierten Staaten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3323,7 +3387,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/irg/articles/BJNR020710982BJNG003502125",
         "name": "Zw\u00f6lfter Teil",
         "title": "Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem K\u00f6nigreich Norwegen (doppelt)",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3362,7 +3428,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR020710982BJNG003502125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Hinweis: Die \u00c4nderung d. Art. 1 Nr. 6 G v. 1.6.2017 I 1414 durch Art. 21 Nr. 5 G v. 20.11.2019 I 1724 mWv 26.11.2019 (Umbenennung) ist nicht ausf\u00fchrbar, da Art. 1 Nr. 6 G v. 1.6.2017 I 1414 iVm Bek. v. 2.12.2019 I 1999 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1724 bereits mWv 1.11.2019 in Kraft getreten war +++)</P>"
       },
       {
         "type": "article",

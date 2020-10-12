@@ -39,7 +39,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000100666",
         "name": "Erster Titel",
         "title": "Gerichtsbarkeit",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -299,7 +301,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000200666",
         "name": "Zweiter Titel",
         "title": "Allgemeine Vorschriften \u00fcber das Pr\u00e4sidium\nund die Gesch\u00e4ftsverteilung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -447,7 +451,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000300666",
         "name": "Dritter Titel",
         "title": "Amtsgerichte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -665,7 +671,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000400666",
         "name": "Vierter Titel",
         "title": "Sch\u00f6ffengerichte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1107,7 +1115,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000500666",
         "name": "F\u00fcnfter Titel",
         "title": "Landgerichte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1395,7 +1405,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000600666",
         "name": "5a. Titel",
         "title": "Strafvollstreckungskammern",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1431,7 +1443,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000700666",
         "name": "Sechster Titel",
         "title": "Schwurgerichte (weggefallen)",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1453,7 +1467,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000800666",
         "name": "Siebenter Titel",
         "title": "Kammern f\u00fcr Handelssachen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1769,7 +1785,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG000900666",
         "name": "Achter Titel",
         "title": "Oberlandesgerichte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1945,7 +1963,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001000666",
         "name": "Neunter Titel",
         "title": "Bundesgerichtshof",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2191,7 +2211,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001100666",
         "name": "9a. Titel",
         "title": "Zust\u00e4ndigkeit f\u00fcr Wiederaufnahmeverfahren\nin Strafsachen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2213,7 +2235,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001200666",
         "name": "Zehnter Titel",
         "title": "Staatsanwaltschaft",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2431,7 +2455,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001300666",
         "name": "Elfter Titel",
         "title": "Gesch\u00e4ftsstelle",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2453,7 +2479,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001400666",
         "name": "Zw\u00f6lfter Titel",
         "title": "Zustellungs- u. Vollstreckungsbeamte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2489,7 +2517,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001500666",
         "name": "Dreizehnter Titel",
         "title": "Rechtshilfe",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2679,7 +2709,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001600666",
         "name": "Vierzehnter Titel",
         "title": "\u00d6ffentlichkeit und Sitzungspolizei",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2925,7 +2957,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001702301",
         "name": "F\u00fcnfzehnter Titel",
         "title": "Gerichtssprache",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3059,7 +3093,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001800666",
         "name": "Sechzehnter Titel",
         "title": "Beratung und Abstimmung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3151,7 +3187,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gvg/articles/BJNR005130950BJNG001801308",
         "name": "Siebzehnter Titel",
         "title": "Rechtsschutz bei \u00fcberlangen Gerichtsverfahren und strafrechtlichen Ermittlungsverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

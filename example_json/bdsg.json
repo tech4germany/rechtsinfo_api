@@ -52,7 +52,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000100000",
         "name": "Teil 1",
         "title": "Gemeinsame Bestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -63,7 +65,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -102,7 +106,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -141,7 +147,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -194,7 +202,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -331,7 +341,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -384,7 +396,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -420,7 +434,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG000800000",
         "name": "Teil 2",
         "title": "Durchf\u00fchrungsbestimmungen f\u00fcr Verarbeitungen zu Zwecken gem\u00e4\u00df Artikel 2 der Verordnung (EU) 2016/679",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -431,7 +447,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -442,7 +460,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -509,7 +529,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -604,7 +626,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -699,7 +723,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -738,7 +764,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -763,7 +791,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -816,7 +846,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -838,7 +870,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG001700000",
         "name": "Teil 3",
         "title": "Bestimmungen f\u00fcr Verarbeitungen zu Zwecken gem\u00e4\u00df Artikel 1 Absatz 1 der Richtlinie (EU) 2016/680",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -849,7 +883,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -902,7 +938,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1011,7 +1049,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1120,7 +1160,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1355,7 +1397,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1422,7 +1466,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1447,7 +1493,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR209710017BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1483,7 +1531,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bdsg/articles/BJNR209710017BJNG002500000",
         "name": "Teil 4",
         "title": "Besondere Bestimmungen f\u00fcr Verarbeitungen im Rahmen von nicht in die Anwendungsbereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden T\u00e4tigkeiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

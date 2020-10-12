@@ -68,14 +68,20 @@ class ContentItemAllFields(ContentItemBasicFields):
 
         if item.item_type in ('article', 'heading_article'):
             attrs["body"] = item.body
-            attrs["footnotes"] = item.footnotes
-            attrs["documentaryFootnotes"] = item.documentary_footnotes
+
+        attrs["footnotes"] = item.footnotes
+        attrs["documentaryFootnotes"] = item.documentary_footnotes
 
         return attrs
 
 
-class ContentItemWithTextContent(ContentItemAllFields):
+class ContentItemWithBodyAndFootnotes(ContentItemAllFields):
     body: Optional[str] = ...
+    footnotes: Optional[str] = ...
+    documentaryFootnotes: Optional[str] = ...
+
+
+class ContentItemWithFootnotes(ContentItemAllFields):
     footnotes: Optional[str] = ...
     documentaryFootnotes: Optional[str] = ...
 
@@ -178,7 +184,7 @@ class HeadingBasicFieldsWithLaw(ContentItemBasicFieldsWithLaw):
     type: str = "heading"
 
 
-class HeadingAllFields(ContentItemAllFields):
+class HeadingAllFields(ContentItemWithFootnotes):
     type: str = "heading"
 
 
@@ -190,7 +196,7 @@ class ArticleBasicFieldsWithLaw(ContentItemBasicFieldsWithLaw):
     type: str = "article"
 
 
-class ArticleAllFields(ContentItemWithTextContent):
+class ArticleAllFields(ContentItemWithBodyAndFootnotes):
     type: str = "article"
 
 
@@ -202,7 +208,7 @@ class HeadingArticleBasicFieldsWithLaw(ContentItemBasicFieldsWithLaw):
     type: str = "headingArticle"
 
 
-class HeadingArticleAllFields(ContentItemWithTextContent):
+class HeadingArticleAllFields(ContentItemWithBodyAndFootnotes):
     type: str = "headingArticle"
 
 

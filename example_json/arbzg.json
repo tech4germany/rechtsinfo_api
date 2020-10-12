@@ -35,7 +35,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbzg/articles/BJNR117100994BJNG000100307",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -71,7 +73,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbzg/articles/BJNR117100994BJNG000200307",
         "name": "Zweiter Abschnitt",
         "title": "Werkt\u00e4gliche Arbeitszeit\nund arbeitsfreie Zeiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -163,7 +167,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbzg/articles/BJNR117100994BJNG000300307",
         "name": "Dritter Abschnitt",
         "title": "Sonn- und Feiertagsruhe",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -241,7 +247,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbzg/articles/BJNR117100994BJNG000400307",
         "name": "Vierter Abschnitt",
         "title": "Ausnahmen in besonderen F\u00e4llen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -277,7 +285,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbzg/articles/BJNR117100994BJNG000500307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Durchf\u00fchrung des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -313,7 +323,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbzg/articles/BJNR117100994BJNG000600307",
         "name": "Sechster Abschnitt",
         "title": "Sonderregelungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -391,7 +403,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbzg/articles/BJNR117100994BJNG000700307",
         "name": "Siebter Abschnitt",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -427,7 +441,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbzg/articles/BJNR117100994BJNG000800307",
         "name": "Achter Abschnitt",
         "title": "Schlu\u00dfvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

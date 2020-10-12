@@ -50,7 +50,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/luftsig/articles/BJNR007810005BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeines",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -86,7 +88,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/luftsig/articles/BJNR007810005BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Sicherheitsma\u00dfnahmen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -290,7 +294,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/luftsig/articles/BJNR007810005BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Unterst\u00fctzung und Amtshilfe durch die Streitkr\u00e4fte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -340,7 +346,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/luftsig/articles/BJNR007810005BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Zust\u00e4ndigkeit und Verfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -404,7 +412,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/luftsig/articles/BJNR007810005BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Bu\u00dfgeld- und Strafvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -454,7 +464,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/luftsig/articles/BJNR007810005BJNG000600000",
         "name": "Abschnitt 6",
         "title": "Schlussbestimmung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

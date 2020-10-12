@@ -54,7 +54,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG000104310",
         "name": "Teil I",
         "title": "Anwendungsbereich, \u00f6rtliche Zust\u00e4ndigkeit, elektronische Kommunikation, Amtshilfe, europ\u00e4ische Verwaltungszusammenarbeit",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -62,7 +64,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG002100310",
         "name": "Abschnitt 1",
         "title": "Anwendungsbereich, \u00f6rtliche Zust\u00e4ndigkeit, elektronische Kommunikation",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -129,7 +133,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG000104310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -210,7 +216,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG000104310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -288,7 +296,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG000202301",
         "name": "Teil II",
         "title": "Allgemeine Vorschriften \u00fcber das\nVerwaltungsverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -299,7 +309,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG002100310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -632,7 +644,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG000202301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -671,7 +685,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG000202301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -707,7 +723,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG000602301",
         "name": "Teil III",
         "title": "Verwaltungsakt",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -718,7 +736,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG000602301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -869,7 +889,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG000602301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1034,7 +1056,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG000602301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1056,7 +1080,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG001002301",
         "name": "Teil IV",
         "title": "\u00d6ffentlich-rechtlicher Vertrag",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1190,7 +1216,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG001102301",
         "name": "Teil V",
         "title": "Besondere Verfahrensarten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1201,7 +1229,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG001102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1338,7 +1368,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG001102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1419,7 +1451,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG001102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1525,7 +1559,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG001402301",
         "name": "Teil VI",
         "title": "Rechtsbehelfsverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1561,7 +1597,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG001502301",
         "name": "Teil VII",
         "title": "Ehrenamtliche T\u00e4tigkeit, Aussch\u00fcsse",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1572,7 +1610,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG001502301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1681,7 +1721,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG001502301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1773,7 +1815,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vwvfg/articles/BJNR012530976BJNG001802301",
         "name": "Teil VIII",
         "title": "Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

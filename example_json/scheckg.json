@@ -46,7 +46,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000100306",
         "name": "Erster Abschnitt",
         "title": "Ausstellung und Form des Schecks",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -236,7 +238,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000200306",
         "name": "Zweiter Abschnitt",
         "title": "\u00dcbertragung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -398,7 +402,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000300306",
         "name": "Dritter Abschnitt",
         "title": "Scheckb\u00fcrgschaft",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -448,7 +454,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000400306",
         "name": "Vierter Abschnitt",
         "title": "Vorlegung und Zahlung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -582,7 +590,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000500306",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Gekreuzter Scheck und Verrechnungsscheck",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -646,7 +656,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000600306",
         "name": "Sechster Abschnitt",
         "title": "R\u00fcckgriff mangels Zahlung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -780,7 +792,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000700306",
         "name": "Siebenter Abschnitt",
         "title": "Ausfertigung mehrerer St\u00fccke\neines Schecks",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -816,7 +830,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000800306",
         "name": "Achter Abschnitt",
         "title": "\u00c4nderungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -838,7 +854,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG000900306",
         "name": "Neunter Abschnitt",
         "title": "Verj\u00e4hrung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -874,7 +892,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG001000306",
         "name": "Zehnter Abschnitt",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -938,7 +958,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG001100306",
         "name": "Elfter Abschnitt",
         "title": "Erg\u00e4nzende Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -974,7 +996,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/scheckg/articles/BJNR005970933BJNG001200306",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "Geltungsbereich der Gesetze",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

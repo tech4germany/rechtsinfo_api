@@ -48,7 +48,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -98,7 +100,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Beamtenverh\u00e4ltnis",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -288,7 +292,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Laufbahnen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -450,7 +456,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Abordnung, Versetzung und Zuweisung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -500,7 +508,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Beendigung des Beamtenverh\u00e4ltnisses",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -511,7 +521,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR016010009BJNG000500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -718,7 +730,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR016010009BJNG000500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -813,7 +827,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR016010009BJNG000500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -961,7 +977,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG000900000",
         "name": "Abschnitt 6",
         "title": "Rechtliche Stellung im Beamtenverh\u00e4ltnis",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -972,7 +990,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR016010009BJNG000900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1389,7 +1409,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR016010009BJNG000900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1568,7 +1590,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR016010009BJNG000900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1705,7 +1729,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR016010009BJNG000900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1881,7 +1907,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG001400000",
         "name": "Abschnitt 7",
         "title": "Beamtenvertretung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1931,7 +1959,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG001500000",
         "name": "Abschnitt 8",
         "title": "Bundespersonalausschuss",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2023,7 +2053,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG001600000",
         "name": "Abschnitt 9",
         "title": "Beschwerdeweg und Rechtsschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2087,7 +2119,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG001700000",
         "name": "Abschnitt 10",
         "title": "Besondere Rechtsverh\u00e4ltnisse",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2165,7 +2199,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG001800000",
         "name": "Abschnitt 11",
         "title": "Umbildung von K\u00f6rperschaften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2229,7 +2265,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG001900000",
         "name": "Abschnitt 12",
         "title": "Spannungs- und Verteidigungsfall, Verwendungen im Ausland",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2321,7 +2359,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bbg/articles/BJNR016010009BJNG002000000",
         "name": "Abschnitt 13",
         "title": "\u00dcbergangs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

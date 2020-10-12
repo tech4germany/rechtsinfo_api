@@ -54,7 +54,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000101310",
         "name": "Abschnitt I",
         "title": "F\u00f6rderungsf\u00e4hige Ausbildung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -160,7 +162,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000201310",
         "name": "Abschnitt II",
         "title": "Pers\u00f6nliche Voraussetzungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -210,7 +214,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000301310",
         "name": "Abschnitt III",
         "title": "Leistungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -484,7 +490,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000401310",
         "name": "Abschnitt IV",
         "title": "Einkommensanrechnung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -562,7 +570,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000501310",
         "name": "Abschnitt V",
         "title": "Verm\u00f6gensanrechnung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -654,7 +664,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000601310",
         "name": "Abschnitt VI",
         "title": null,
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -676,7 +688,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000702310",
         "name": "Abschnitt VII",
         "title": "Vorausleistung und Anspruchs\u00fcbergang",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -726,7 +740,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000801310",
         "name": "Abschnitt VIII",
         "title": "Organisation",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -832,7 +848,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG000901310",
         "name": "Abschnitt IX",
         "title": "Verfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1022,7 +1040,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG001001310",
         "name": "Abschnitt X",
         "title": null,
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1044,7 +1064,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bafoeg/articles/BJNR014090971BJNG001101310",
         "name": "Abschnitt XI",
         "title": "Bu\u00dfgeldvorschriften, \u00dcbergangs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

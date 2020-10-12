@@ -35,7 +35,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG000100000",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -309,7 +311,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG035800000",
         "name": "Zweiter Teil",
         "title": "Er\u00f6ffnung des Insolvenzverfahrens.\nErfa\u00dftes Verm\u00f6gen und Verfahrensbeteiligte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -320,7 +324,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG035800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -723,7 +729,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG035800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1042,7 +1050,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG035800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1414,7 +1424,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG035900000",
         "name": "Dritter Teil",
         "title": "Wirkungen der Er\u00f6ffnung des Insolvenzverfahrens",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1425,7 +1437,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG035900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1758,7 +1772,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG035900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2133,7 +2149,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG035900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2407,7 +2425,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036000000",
         "name": "Vierter Teil",
         "title": "Verwaltung und Verwertung der Insolvenzmasse",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2418,7 +2438,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036000000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2541,7 +2563,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036000000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2678,7 +2702,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036000000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2812,7 +2838,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036100000",
         "name": "F\u00fcnfter Teil",
         "title": "Befriedigung der Insolvenzgl\u00e4ubiger. Einstellung\ndes Verfahrens",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2823,7 +2851,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3016,7 +3046,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3307,7 +3339,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3469,7 +3503,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036200000",
         "name": "Sechster Teil",
         "title": "Insolvenzplan",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3480,7 +3516,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3757,7 +3795,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4076,7 +4116,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4364,7 +4406,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG037200311",
         "name": "Siebter Teil",
         "title": "Koordinierung der Verfahren von Schuldnern, die derselben Unternehmensgruppe angeh\u00f6ren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4375,7 +4419,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG037200311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4428,7 +4474,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG037200311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4520,7 +4568,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036701311",
         "name": "Achter Teil",
         "title": "Eigenverwaltung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4822,7 +4872,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036301311",
         "name": "Neunter Teil",
         "title": "Restschuldbefreiung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5152,7 +5204,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036402311",
         "name": "Zehnter Teil",
         "title": "Verbraucherinsolvenzverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5300,7 +5354,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036501311",
         "name": "Elfter Teil",
         "title": "Besondere Arten des Insolvenzverfahrens",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5311,7 +5367,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036501311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5560,7 +5618,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036501311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5585,7 +5645,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036501311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5621,7 +5683,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036801311",
         "name": "Zw\u00f6lfter Teil",
         "title": "Internationales Insolvenzrecht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5632,7 +5696,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036801311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5755,7 +5821,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036801311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5920,7 +5988,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR286600994BJNG036801311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5998,7 +6068,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/inso/articles/BJNR286600994BJNG036602311",
         "name": "Dreizehnter Teil",
         "title": "Inkrafttreten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -54,7 +54,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG000104118",
         "name": "Teil 1",
         "title": "Wettbewerbsbeschr\u00e4nkungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -65,7 +67,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -132,7 +136,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -199,7 +205,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -238,7 +246,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -305,7 +315,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -400,7 +412,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -411,7 +425,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG003805118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -506,7 +522,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG003805118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -671,7 +689,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -822,7 +842,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -889,7 +911,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG000104118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -900,7 +924,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG017802118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1051,7 +1077,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG017802118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1076,7 +1104,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG017802118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1098,7 +1128,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG005604118",
         "name": "Teil 2",
         "title": "Kartellbeh\u00f6rden",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1109,7 +1141,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG005604118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1204,7 +1238,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG005604118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1254,7 +1290,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG006405118",
         "name": "Teil 3",
         "title": "Verfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1265,7 +1303,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006405118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1276,7 +1316,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006504118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1413,7 +1455,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006504118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1592,7 +1636,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006504118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1645,7 +1691,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006504118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1712,7 +1760,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006405118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1849,7 +1899,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006405118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1874,7 +1926,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006405118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1997,7 +2051,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG006405118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2117,7 +2173,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG002404118",
         "name": "Teil 4",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen und Konzessionen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Teil 4: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "heading",
@@ -2128,7 +2186,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG002404118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Kapitel 1: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "heading",
@@ -2139,7 +2199,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG018200118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Abschnitt 1: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -2402,7 +2464,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG018200118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Abschnitt 2: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "heading",
@@ -2413,7 +2477,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG002604118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Unterabschnitt 1: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -2480,7 +2546,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG002604118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Unterabschnitt 2: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -2743,7 +2811,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG018200118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Abschnitt 3: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "heading",
@@ -2754,7 +2824,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG003004118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Unterabschnitt 1: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -2877,7 +2949,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG003004118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Unterabschnitt 2: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -2944,7 +3018,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG003004118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Unterabschnitt 3: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -3053,7 +3129,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG002404118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Kapitel 2: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "heading",
@@ -3064,7 +3142,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG018800118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Abschnitt 1: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -3145,7 +3225,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG018800118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Abschnitt 2: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -3310,7 +3392,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR252110998BJNG018800118"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Abschnitt 3: Zur Anwendung vgl. \u00a7 41 Abs. 2 MessbG +++)</P>"
       },
       {
         "type": "article",
@@ -3514,7 +3598,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG011105118",
         "name": "Teil 5",
         "title": "Anwendungsbereich der Teile 1 bis 3",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3536,7 +3622,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG011204118",
         "name": "Teil 6",
         "title": "\u00dcbergangs- und Schlussbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

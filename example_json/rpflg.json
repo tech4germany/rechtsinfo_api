@@ -41,7 +41,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000102311",
         "name": "Erster Abschnitt",
         "title": "Aufgaben und Stellung des Rechtspflegers",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -231,7 +233,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000208311",
         "name": "Zweiter Abschnitt",
         "title": "Dem Richter vorbehaltene Gesch\u00e4fte in Familiensachen und auf dem Gebiet der freiwilligen Gerichtsbarkeit sowie in Insolvenzverfahren und schifffahrtsrechtlichen Verteilungsverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -351,7 +355,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000304311",
         "name": "Dritter Abschnitt",
         "title": "Dem Rechtspfleger nach \u00a7 3 Nummer 3 \u00fcbertragene Gesch\u00e4fte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -485,7 +491,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000402311",
         "name": "Vierter Abschnitt",
         "title": "Sonstige Vorschriften auf dem Gebiet der Gerichtsverfassung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -535,7 +543,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000503311",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Dem Rechtspfleger \u00fcbertragene Gesch\u00e4fte in anderen Bereichen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -599,7 +609,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rpflg/articles/BJNR020650969BJNG000602311",
         "name": "Sechster Abschnitt",
         "title": "Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

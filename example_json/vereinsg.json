@@ -50,7 +50,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vereinsg/articles/BJNR005930964BJNG000100326",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -86,7 +88,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vereinsg/articles/BJNR005930964BJNG000200326",
         "name": "Zweiter Abschnitt",
         "title": "Verbot von Vereinen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -192,7 +196,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vereinsg/articles/BJNR005930964BJNG000300326",
         "name": "Dritter Abschnitt",
         "title": "Beschlagnahme und Einziehung des\nVerm\u00f6gens verbotener Vereine",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -256,7 +262,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vereinsg/articles/BJNR005930964BJNG000400326",
         "name": "Vierter Abschnitt",
         "title": "Sondervorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -334,7 +342,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vereinsg/articles/BJNR005930964BJNG000500326",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Schlu\u00dfbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

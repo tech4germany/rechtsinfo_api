@@ -50,7 +50,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000100311",
         "name": "Erster Abschnitt",
         "title": "Das Patent",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -478,7 +480,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000200311",
         "name": "Zweiter Abschnitt",
         "title": "Patentamt",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -626,7 +630,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000301307",
         "name": "Dritter Abschnitt",
         "title": "Verfahren vor dem Patentamt",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1110,7 +1116,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000400311",
         "name": "Vierter Abschnitt",
         "title": "Patentgericht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1230,7 +1238,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000500311",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Verfahren vor dem Patentgericht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1241,7 +1251,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR201170936BJNG000500311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1364,7 +1376,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR201170936BJNG000500311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1459,7 +1473,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR201170936BJNG000500311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1663,7 +1679,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG000900311",
         "name": "Sechster Abschnitt",
         "title": "Verfahren vor dem Bundesgerichtshof",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1674,7 +1692,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR201170936BJNG000900311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1825,7 +1845,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR201170936BJNG000900311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2004,7 +2026,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR201170936BJNG000900311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2029,7 +2053,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR201170936BJNG000900311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2051,7 +2077,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001300311",
         "name": "Siebenter Abschnitt",
         "title": "Gemeinsame Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2199,7 +2227,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001400311",
         "name": "Achter Abschnitt",
         "title": "Verfahrenskostenhilfe",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2347,7 +2377,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001500311",
         "name": "Neunter Abschnitt",
         "title": "Rechtsverletzungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2523,7 +2555,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001600311",
         "name": "Zehnter Abschnitt",
         "title": "Verfahren in Patentstreitsachen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2573,7 +2607,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001700311",
         "name": "Elfter Abschnitt",
         "title": "Patentber\u00fchmung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2595,7 +2631,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/patg/articles/BJNR201170936BJNG001800377",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "\u00dcbergangsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -43,7 +43,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNG000100322",
         "name": "Erster Abschnitt",
         "title": "Ahndung von Zuwiderhandlungen\nim Bereich des Wirtschaftsrechts",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -135,7 +137,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNG000200322",
         "name": "Zweiter Abschnitt",
         "title": "Erg\u00e4nzende Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -255,7 +259,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wistrg_1954/articles/BJNR001750954BJNG000300322",
         "name": "Dritter Abschnitt",
         "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

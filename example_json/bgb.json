@@ -50,7 +50,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgb/articles/BJNR001950896BJNG000102377",
         "name": "Buch 1",
         "title": "Allgemeiner Teil",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -61,7 +63,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -72,7 +76,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -251,7 +257,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -262,7 +270,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -273,7 +283,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -802,7 +814,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1163,7 +1177,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1300,7 +1316,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1325,7 +1343,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1546,7 +1566,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1557,7 +1579,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1736,7 +1760,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2195,7 +2221,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2388,7 +2416,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2483,7 +2513,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2746,7 +2778,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2813,7 +2847,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2936,7 +2972,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2947,7 +2985,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3084,7 +3124,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3249,7 +3291,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG001902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3344,7 +3388,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3439,7 +3485,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3573,7 +3621,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgb/articles/BJNR001950896BJNG002202377",
         "name": "Buch 2",
         "title": "Recht der Schuldverh\u00e4ltnisse",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3584,7 +3634,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3595,7 +3647,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4376,7 +4430,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4555,7 +4611,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002202377"
-        }
+        },
+        "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"BJNR001950896BJNG023401377_001\" Pos=\"exp\" Postfix=\")\"><B>Amtlicher Hinweis:</B><BR/>Dieser Abschnitt dient auch der Umsetzung der Richtlinie 93/13/EWG des Rates vom 5. April 1993 \u00fcber missbr\u00e4uchliche Klauseln in Verbrauchervertr\u00e4gen (ABl. EG Nr. L 95 S. 29).</Footnote>",
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4706,7 +4764,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4717,7 +4777,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4728,7 +4790,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4795,7 +4859,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4806,7 +4872,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG023602360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4845,7 +4913,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG023602360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4954,7 +5024,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG023602360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4993,7 +5065,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG023602360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5018,7 +5092,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5057,7 +5133,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5138,7 +5216,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5261,7 +5341,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5384,7 +5466,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5535,7 +5619,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "headingArticle",
@@ -5686,7 +5772,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG003103360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5921,7 +6009,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5932,7 +6022,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG003202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6083,7 +6175,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG003202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6304,7 +6398,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG003202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6455,7 +6551,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG003202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6480,7 +6578,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6715,7 +6815,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6810,7 +6912,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7003,7 +7107,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG002202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "headingArticle",
@@ -7028,7 +7134,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG004102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7361,7 +7469,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG004102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -7372,7 +7482,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG024201377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7411,7 +7523,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG024201377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7520,7 +7634,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG024201377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7685,7 +7801,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG004102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7780,7 +7898,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG004102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7805,7 +7925,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7984,7 +8106,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG024902140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -7995,7 +8119,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG025002140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8048,7 +8174,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG025002140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8395,7 +8523,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG024902140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8462,7 +8592,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG024902140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8487,7 +8619,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG024902140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8512,7 +8646,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG024902140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8551,7 +8687,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG024902140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8590,7 +8728,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8867,7 +9007,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -8878,7 +9020,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005003377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9155,7 +9299,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005003377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -9166,7 +9312,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9289,7 +9437,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9384,7 +9534,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -9395,7 +9547,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9462,7 +9616,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9529,7 +9685,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9764,7 +9922,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9845,7 +10005,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10052,7 +10214,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -10063,7 +10227,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG022302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10144,7 +10310,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG022302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10281,7 +10449,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG022302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10320,7 +10490,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG022302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10373,7 +10545,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG021702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10412,7 +10586,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005003377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10493,7 +10669,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005003377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10616,7 +10794,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005003377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11061,7 +11241,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11198,7 +11380,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11279,7 +11463,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG005503377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11640,7 +11826,9 @@
         "parent": {
           "type": "headingArticle",
           "id": "BJNR001950896BJNG005503377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11763,7 +11951,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -11774,7 +11964,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -11785,7 +11977,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12146,7 +12340,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12269,7 +12465,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12364,7 +12562,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12389,7 +12589,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12470,7 +12672,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12509,7 +12713,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005602377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12870,7 +13076,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -12881,7 +13089,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12948,7 +13158,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13029,7 +13241,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG005902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13054,7 +13268,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13149,7 +13365,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -13160,7 +13378,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG006104140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13409,7 +13629,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG006104140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -13420,7 +13642,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG026000140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13473,7 +13697,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG026000140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13540,7 +13766,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG026000140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -13551,7 +13779,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG026300140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13618,7 +13848,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG026300140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13727,7 +13959,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG026300140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13878,7 +14112,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14043,7 +14279,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14236,7 +14474,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14317,7 +14557,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14832,7 +15074,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15095,7 +15339,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15148,7 +15394,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15201,7 +15449,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15408,7 +15658,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15433,7 +15685,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15486,7 +15740,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15637,7 +15893,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15872,7 +16130,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15925,7 +16185,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -16090,7 +16352,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG004002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -16546,7 +16810,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgb/articles/BJNR001950896BJNG007702377",
         "name": "Buch 3",
         "title": "Sachenrecht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -16557,7 +16823,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG007702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -16834,7 +17102,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG007702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -17279,7 +17549,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG007702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -17290,7 +17562,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -17609,7 +17883,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -17690,7 +17966,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -17701,7 +17979,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -17852,7 +18132,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -17989,7 +18271,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -18098,7 +18382,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -18179,7 +18465,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -18288,7 +18576,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -18579,7 +18869,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -18912,7 +19204,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG008002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -18993,7 +19287,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG007702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -19004,7 +19300,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG009302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -19183,7 +19481,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG009302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -19194,7 +19494,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG009502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -19807,7 +20109,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG009502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -20056,7 +20360,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG009502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -20137,7 +20443,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG009302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -20204,7 +20512,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG007702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -20369,7 +20679,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG007702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -20492,7 +20804,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG007702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -20503,7 +20817,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG010202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -21634,7 +21950,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG010202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -21645,7 +21963,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG010402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -21768,7 +22088,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG010402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -21849,7 +22171,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG007702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -21860,7 +22184,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG010702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -22669,7 +22995,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG010702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23013,7 +23341,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgb/articles/BJNR001950896BJNG011002377",
         "name": "Buch 4",
         "title": "Familienrecht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -23024,7 +23354,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -23035,7 +23367,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23130,7 +23464,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -23141,7 +23477,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG020402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23194,7 +23532,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG020402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23247,7 +23587,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG020402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23272,7 +23614,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG020402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23325,7 +23669,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23420,7 +23766,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23473,7 +23821,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -23680,7 +24030,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -23691,7 +24043,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -24108,7 +24462,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -24119,7 +24475,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -24214,7 +24572,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -24239,7 +24599,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -24250,7 +24612,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -24359,7 +24723,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -24762,7 +25128,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -25067,7 +25435,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -25246,7 +25616,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012202377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -25761,7 +26133,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -25800,7 +26174,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -25895,7 +26271,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -25906,7 +26284,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -25987,7 +26367,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26026,7 +26408,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -26037,7 +26421,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG013102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26062,7 +26448,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG013102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26255,7 +26643,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG013102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26322,7 +26712,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG013102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26389,7 +26781,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG013102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26442,7 +26836,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG012902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26467,7 +26863,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26492,7 +26890,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -26503,7 +26903,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26542,7 +26944,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -26777,7 +27181,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -26788,7 +27194,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -27065,7 +27473,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014902377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -27146,7 +27556,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -27325,7 +27737,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -28316,7 +28730,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -28425,7 +28841,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG014402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -28436,7 +28854,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG015903377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -28825,7 +29245,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG015903377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -28920,7 +29342,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG011002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -28931,7 +29355,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016203377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -28942,7 +29368,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -29275,7 +29703,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -29972,7 +30402,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -30151,7 +30583,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -30190,7 +30624,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -30313,7 +30749,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -30520,7 +30958,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016203377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -30909,7 +31349,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG016203377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -31099,7 +31541,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgb/articles/BJNR001950896BJNG017302377",
         "name": "Buch 5",
         "title": "Erbrecht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -31110,7 +31554,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -31401,7 +31847,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -31412,7 +31860,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -31773,7 +32223,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -31784,7 +32236,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -31837,7 +32291,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -31918,7 +32374,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -32181,7 +32639,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -32486,7 +32946,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -32553,7 +33015,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -32760,7 +33224,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017502377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -32771,7 +33237,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -33160,7 +33628,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018402377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -33255,7 +33725,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -33266,7 +33738,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -33599,7 +34073,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -33792,7 +34268,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -34461,7 +34939,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -35116,7 +35596,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -35197,7 +35679,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -35656,7 +36140,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -36017,7 +36503,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG018702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -36154,7 +36642,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -36571,7 +37061,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -37100,7 +37592,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -37209,7 +37703,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -37318,7 +37814,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -37511,7 +38009,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR001950896BJNG017302377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

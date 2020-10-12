@@ -46,7 +46,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000100000",
         "name": "Teil 1",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -124,7 +126,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000200000",
         "name": "Teil 2",
         "title": "Grunds\u00e4tze und Pflichten der Erzeuger und Besitzer von Abf\u00e4llen sowie der \u00f6ffentlich-rechtlichen Entsorgungstr\u00e4ger",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -135,7 +139,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR021210012BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -160,7 +166,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR021210012BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -283,7 +291,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR021210012BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -322,7 +332,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR021210012BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -414,7 +426,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000700000",
         "name": "Teil 3",
         "title": "Produktverantwortung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -492,7 +506,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG000800000",
         "name": "Teil 4",
         "title": "Planungsverantwortung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -503,7 +519,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR021210012BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -542,7 +560,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR021210012BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -609,7 +629,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR021210012BJNG000800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -771,7 +793,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001200000",
         "name": "Teil 5",
         "title": "Absatzf\u00f6rderung und Abfallberatung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -807,7 +831,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001300000",
         "name": "Teil 6",
         "title": "\u00dcberwachung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -941,7 +967,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001400000",
         "name": "Teil 7",
         "title": "Entsorgungsfachbetriebe",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -977,7 +1005,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001500000",
         "name": "Teil 8",
         "title": "Betriebsorganisation, Betriebsbeauftragter f\u00fcr Abfall und Erleichterungen f\u00fcr auditierte Unternehmensstandorte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1041,7 +1071,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/krwg/articles/BJNR021210012BJNG001600000",
         "name": "Teil 9",
         "title": "Schlussbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

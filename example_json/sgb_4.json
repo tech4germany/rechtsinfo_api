@@ -70,7 +70,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG000303308",
         "name": "Erster Abschnitt",
         "title": "Grunds\u00e4tze und Begriffsbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -81,7 +83,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -176,7 +180,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -383,7 +389,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -478,7 +486,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -559,7 +569,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -598,7 +610,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -623,7 +637,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -701,7 +717,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG000703308",
         "name": "Zweiter Abschnitt",
         "title": "Leistungen und Beitr\u00e4ge",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -712,7 +730,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000703308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -751,7 +771,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG000703308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -927,7 +949,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG002003308",
         "name": "Dritter Abschnitt",
         "title": "Meldepflichten des Arbeitgebers, Gesamtsozialversicherungsbeitrag",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -938,7 +962,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG002003308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -991,7 +1017,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG002003308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1142,7 +1170,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG002003308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1206,7 +1236,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG001004308",
         "name": "Vierter Abschnitt",
         "title": "Tr\u00e4ger der Sozialversicherung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1217,7 +1249,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG001004308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1452,7 +1486,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG001004308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1841,7 +1877,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG001004308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2132,7 +2170,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG001004308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2241,7 +2281,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG001004308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2319,7 +2361,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG001604308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Versicherungsbeh\u00f6rden",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2383,7 +2427,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG003701126",
         "name": "Sechster Abschnitt",
         "title": "Verarbeitung von elektronischen Daten in der Sozialversicherung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2394,7 +2440,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG003701126"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2461,7 +2509,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG003701126"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2514,7 +2564,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR138450976BJNG003701126"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2592,7 +2644,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG004000119",
         "name": "Siebter Abschnitt",
         "title": "Informationsangebote in den Meldeverfahren der sozialen Sicherung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2628,7 +2682,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG004100119",
         "name": "Achter Abschnitt",
         "title": "Elektronisches Antrags- und Bescheinigungsverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2692,7 +2748,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG003005119",
         "name": "Neunter Abschnitt",
         "title": "Aufbewahrung von Unterlagen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2742,7 +2800,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG002706119",
         "name": "Zehnter Abschnitt",
         "title": "Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2792,7 +2852,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_4/articles/BJNR138450976BJNG002907119",
         "name": "Elfter Abschnitt",
         "title": "\u00dcbergangsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

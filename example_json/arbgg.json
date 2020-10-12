@@ -43,7 +43,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000100303",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -303,7 +305,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000200303",
         "name": "Zweiter Teil",
         "title": "Aufbau der Gerichte f\u00fcr Arbeitssachen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -314,7 +318,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000200303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -591,7 +597,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000200303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -700,7 +708,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000200303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -792,7 +802,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000600303",
         "name": "Dritter Teil",
         "title": "Verfahren vor den Gerichten f\u00fcr\nArbeitssachen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -803,7 +815,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000600303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -814,7 +828,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000700303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1217,7 +1233,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000700303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1354,7 +1372,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000700303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1477,7 +1497,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000700303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1516,7 +1538,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000700303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1541,7 +1565,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000600303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1552,7 +1578,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG001300303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1675,7 +1703,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG001300303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1756,7 +1786,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG001300303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1879,7 +1911,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG001300303"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1943,7 +1977,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001800303",
         "name": "Vierter Teil",
         "title": "Schiedsvertrag in Arbeitsstreitigkeiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2091,7 +2127,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001900303",
         "name": "F\u00fcnfter Teil",
         "title": "\u00dcbergangs- und\nSchlu\u00dfvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

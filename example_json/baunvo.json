@@ -46,7 +46,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baunvo/articles/BJNR004290962BJNG000102116",
         "name": "Erster Abschnitt",
         "title": "Art der baulichen Nutzung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -306,7 +308,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baunvo/articles/BJNR004290962BJNG000202116",
         "name": "Zweiter Abschnitt",
         "title": "Ma\u00df der baulichen Nutzung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -412,7 +416,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baunvo/articles/BJNR004290962BJNG000302116",
         "name": "Dritter Abschnitt",
         "title": "Bauweise, \u00fcberbaubare Grundst\u00fccksfl\u00e4che",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -448,7 +454,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baunvo/articles/BJNR004290962BJNG000402116",
         "name": "Vierter Abschnitt",
         "title": null,
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -470,7 +478,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/baunvo/articles/BJNR004290962BJNG000502116",
         "name": "F\u00fcnfter Abschnitt",
         "title": "\u00dcberleitungs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

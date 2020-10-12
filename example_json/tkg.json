@@ -67,7 +67,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG000100000",
         "name": "Teil 1",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -187,7 +189,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG000200000",
         "name": "Teil 2",
         "title": "Marktregulierung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -198,7 +202,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -335,7 +341,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -500,7 +508,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -511,7 +521,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG000500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -564,7 +576,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG000500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -701,7 +715,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG000500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -726,7 +742,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -807,7 +825,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -843,7 +863,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG001101308",
         "name": "Teil 3",
         "title": "Kundenschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1201,7 +1223,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG001200000",
         "name": "Teil 4",
         "title": "Rundfunk\u00fcbertragung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1265,7 +1289,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG001300000",
         "name": "Teil 5",
         "title": "Vergabe von Frequenzen, Nummern und Wegerechten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1276,7 +1302,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG001300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1483,7 +1511,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG001300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1704,7 +1734,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG001300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1715,7 +1747,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG001601123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1866,7 +1900,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG001601123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2126,7 +2162,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG001700000",
         "name": "Teil 6",
         "title": "Universaldienst",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2274,7 +2312,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG001800000",
         "name": "Teil 7",
         "title": "Fernmeldegeheimnis, Datenschutz, \u00d6ffentliche Sicherheit",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2285,7 +2325,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG001800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2338,7 +2380,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG001800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2587,7 +2631,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG001800000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2819,7 +2865,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG002201308",
         "name": "Teil 8",
         "title": "Bundesnetzagentur",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2830,7 +2878,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG002201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3009,7 +3059,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG002201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3104,7 +3156,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG002201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3115,7 +3169,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG002500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3210,7 +3266,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG002500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3277,7 +3335,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR119000004BJNG002500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3313,7 +3373,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG002900000",
         "name": "Teil 9",
         "title": "Abgaben",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3405,7 +3467,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG003000000",
         "name": "Teil 10",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3441,7 +3505,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tkg/articles/BJNR119000004BJNG003100000",
         "name": "Teil 11",
         "title": "\u00dcbergangs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

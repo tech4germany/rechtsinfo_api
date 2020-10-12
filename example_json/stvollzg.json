@@ -57,7 +57,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000100314",
         "name": "Erster Abschnitt",
         "title": "Anwendungsbereich",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -79,7 +81,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000200314",
         "name": "Zweiter Abschnitt",
         "title": "Vollzug der Freiheitsstrafe",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -90,7 +94,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -143,7 +149,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -322,7 +330,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -417,7 +427,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -624,7 +636,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -859,7 +873,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -912,7 +928,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1091,7 +1109,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1158,7 +1178,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1239,7 +1261,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1320,7 +1344,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1527,7 +1553,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1650,7 +1678,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1745,7 +1775,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2008,7 +2040,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2033,7 +2067,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG000200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2111,7 +2147,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001800314",
         "name": "Dritter Abschnitt",
         "title": "Besondere Vorschriften \u00fcber den\nVollzug der freiheitsentziehenden Ma\u00dfregeln der Besserung und\nSicherung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2122,7 +2160,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG001800314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2231,7 +2271,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG001800314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2281,7 +2323,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002200314",
         "name": "Vierter Abschnitt",
         "title": "Vollzugsbeh\u00f6rden",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2292,7 +2336,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2471,7 +2517,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2524,7 +2572,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2647,7 +2697,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2714,7 +2766,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002200314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2736,7 +2790,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002802125",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Vollzug weiterer freiheitsentziehender Ma\u00dfnahmen in Justizvollzugsanstalten, Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft, Sozial- und Arbeitslosenversicherung, Schlu\u00dfvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2747,7 +2803,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002802125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2814,7 +2872,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002802125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2909,7 +2969,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002802125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2948,7 +3010,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002802125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2973,7 +3037,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002802125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3110,7 +3176,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002802125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3149,7 +3217,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002802125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3244,7 +3314,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG002802125"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

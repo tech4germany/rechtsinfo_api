@@ -52,7 +52,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rog/articles/BJNR298610008BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -228,7 +230,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rog/articles/BJNR298610008BJNG000500360",
         "name": "Abschnitt 2",
         "title": "Raumordnung in den L\u00e4ndern",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -292,7 +296,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rog/articles/BJNR298610008BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Raumordnung im Bund",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -398,7 +404,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/rog/articles/BJNR298610008BJNG000401360",
         "name": "Abschnitt 4",
         "title": "Erg\u00e4nzende Vorschriften und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

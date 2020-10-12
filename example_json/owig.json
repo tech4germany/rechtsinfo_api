@@ -52,7 +52,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000011309",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -63,7 +65,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000011309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -172,7 +176,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000011309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -309,7 +315,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000011309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -348,7 +356,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000011309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -401,7 +411,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000011309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -524,7 +536,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000011309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -563,7 +577,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000011309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -627,7 +643,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000091309",
         "name": "Zweiter Teil",
         "title": "Bu\u00dfgeldverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -638,7 +656,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -803,7 +823,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -968,7 +990,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -979,7 +1003,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000121309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1032,7 +1058,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000121309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1085,7 +1113,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000121309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1152,7 +1182,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000121309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1191,7 +1223,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1230,7 +1264,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1241,7 +1277,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000181309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1308,7 +1346,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000181309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1459,7 +1499,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000181309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1512,7 +1554,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1565,7 +1609,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1618,7 +1664,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1657,7 +1705,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1892,7 +1942,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1903,7 +1955,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000261309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1970,7 +2024,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000261309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1995,7 +2051,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000371309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2020,7 +2078,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000261309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2045,7 +2105,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2070,7 +2132,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000091309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2120,7 +2184,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000301309",
         "name": "Dritter Teil",
         "title": "Einzelne Ordnungswidrigkeiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2131,7 +2197,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000301309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2212,7 +2280,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000301309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2335,7 +2405,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000301309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2430,7 +2502,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000301309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2455,7 +2529,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR004810968BJNG000301309"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2477,7 +2553,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/owig/articles/BJNR004810968BJNG000361309",
         "name": "Vierter Teil",
         "title": "Schlu\u00dfvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -35,7 +35,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/agg/articles/BJNR189710006BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeiner Teil",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -113,7 +115,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/agg/articles/BJNR189710006BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Schutz der Besch\u00e4ftigten vor Benachteiligung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -124,7 +128,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR189710006BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -205,7 +211,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR189710006BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -244,7 +252,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR189710006BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -311,7 +321,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR189710006BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -347,7 +359,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/agg/articles/BJNR189710006BJNG000700000",
         "name": "Abschnitt 3",
         "title": "Schutz vor Benachteiligung im Zivilrechtsverkehr",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -397,7 +411,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/agg/articles/BJNR189710006BJNG000800000",
         "name": "Abschnitt 4",
         "title": "Rechtsschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -433,7 +449,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/agg/articles/BJNR189710006BJNG000900000",
         "name": "Abschnitt 5",
         "title": "Sonderregelungen f\u00fcr \u00f6ffentlich-rechtliche\nDienstverh\u00e4ltnisse",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -455,7 +473,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/agg/articles/BJNR189710006BJNG001000000",
         "name": "Abschnitt 6",
         "title": "Antidiskriminierungsstelle",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -547,7 +567,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/agg/articles/BJNR189710006BJNG001100000",
         "name": "Abschnitt 7",
         "title": "Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

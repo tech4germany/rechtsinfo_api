@@ -48,7 +48,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gmbhg/articles/BJNR004770892BJNG000201140",
         "name": "Abschnitt 1",
         "title": "Errichtung der Gesellschaft",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -294,7 +296,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gmbhg/articles/BJNR004770892BJNG001501140",
         "name": "Abschnitt 2",
         "title": "Rechtsverh\u00e4ltnisse der Gesellschaft und der Gesellschafter",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -638,7 +642,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gmbhg/articles/BJNR004770892BJNG003801140",
         "name": "Abschnitt 3",
         "title": "Vertretung und Gesch\u00e4ftsf\u00fchrung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -968,7 +974,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gmbhg/articles/BJNR004770892BJNG005901140",
         "name": "Abschnitt 4",
         "title": "Ab\u00e4nderungen des Gesellschaftsvertrags",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1396,7 +1404,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gmbhg/articles/BJNR004770892BJNG006701140",
         "name": "Abschnitt 5",
         "title": "Aufl\u00f6sung und Nichtigkeit der Gesellschaft",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1656,7 +1666,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gmbhg/articles/BJNR004770892BJNG008601140",
         "name": "Abschnitt 6",
         "title": "Ordnungs-, Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

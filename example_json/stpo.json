@@ -54,7 +54,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stpo/articles/BJNR006290950BJNG000102311",
         "name": "Erstes Buch",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -65,7 +67,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -174,7 +178,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -423,7 +429,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -588,7 +596,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -697,7 +707,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000504311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -792,7 +804,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000504311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -887,7 +901,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -982,7 +998,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1399,7 +1417,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1844,7 +1864,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2611,7 +2633,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3112,7 +3136,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3193,7 +3219,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3218,7 +3246,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3299,7 +3329,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG000102311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3629,7 +3661,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stpo/articles/BJNR006290950BJNG001502311",
         "name": "Zweites Buch",
         "title": "Verfahren im ersten Rechtszug",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3640,7 +3674,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG001502311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3959,7 +3995,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG001502311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4460,7 +4498,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG001502311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4471,7 +4511,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG001502311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4734,7 +4776,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG001502311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4983,7 +5027,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG001502311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5918,7 +5964,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG001502311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5943,7 +5991,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG001502311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6133,7 +6183,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stpo/articles/BJNR006290950BJNG002302311",
         "name": "Drittes Buch",
         "title": "Rechtsmittel",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -6144,7 +6196,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG002302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6267,7 +6321,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG002302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6418,7 +6474,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG002302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6737,7 +6795,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG002302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7137,7 +7197,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stpo/articles/BJNR006290950BJNG002802311",
         "name": "Viertes Buch",
         "title": "Wiederaufnahme eines durch rechtskr\u00e4ftiges Urteil abgeschlossenen Verfahrens",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7397,7 +7459,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stpo/articles/BJNR006290950BJNG002902311",
         "name": "F\u00fcnftes Buch",
         "title": "Beteiligung des Verletzten am Verfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -7408,7 +7472,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG002902311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7727,7 +7793,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG002902311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7878,7 +7946,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG002902311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7987,7 +8057,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG002902311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8121,7 +8193,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stpo/articles/BJNR006290950BJNG003302311",
         "name": "Sechstes Buch",
         "title": "Besondere Arten des Verfahrens",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -8132,7 +8206,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG003302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8255,7 +8331,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG003302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8322,7 +8400,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG003302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8389,7 +8469,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG003302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8694,7 +8776,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG003302311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8730,7 +8814,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stpo/articles/BJNR006290950BJNG003802311",
         "name": "Siebentes Buch",
         "title": "Strafvollstreckung und Kosten des Verfahrens",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -8741,7 +8827,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG003802311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9382,7 +9470,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG003802311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9642,7 +9732,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/stpo/articles/BJNR006290950BJNG004304311",
         "name": "Achtes Buch",
         "title": "Schutz und Verwendung von Daten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -9653,7 +9745,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG004304311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9790,7 +9884,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG004304311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9927,7 +10023,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG004304311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9994,7 +10092,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG004304311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -10061,7 +10161,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006290950BJNG004304311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

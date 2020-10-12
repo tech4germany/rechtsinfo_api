@@ -52,7 +52,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG000101311",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -158,7 +160,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG000201311",
         "name": "Abschnitt 2",
         "title": "F\u00e4lligkeit",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -222,7 +226,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG000301311",
         "name": "Abschnitt 3",
         "title": "Vorschuss und Vorauszahlung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -370,7 +376,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG000401311",
         "name": "Abschnitt 4",
         "title": "Kostenansatz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -420,7 +428,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG000501311",
         "name": "Abschnitt 5",
         "title": "Kostenhaftung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -610,7 +620,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG000601311",
         "name": "Abschnitt 6",
         "title": "Geb\u00fchrenvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -688,7 +700,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG000701311",
         "name": "Abschnitt 7",
         "title": "Wertvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -699,7 +713,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR071810004BJNG000701311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -836,7 +852,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR071810004BJNG000701311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1071,7 +1089,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR071810004BJNG000701311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1149,7 +1169,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG001101311",
         "name": "Abschnitt 8",
         "title": "Erinnerung und Beschwerde",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1227,7 +1249,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gkg/articles/BJNR071810004BJNG001202311",
         "name": "Abschnitt 9",
         "title": "Schluss- und \u00dcbergangsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

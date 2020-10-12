@@ -39,7 +39,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000103377",
         "name": "Erster Abschnitt",
         "title": "Grundsatz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -61,7 +63,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000203377",
         "name": "Zweiter Abschnitt",
         "title": "Tierhaltung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -111,7 +115,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000303377",
         "name": "Dritter Abschnitt",
         "title": "T\u00f6ten von Tieren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -161,7 +167,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000403377",
         "name": "Vierter Abschnitt",
         "title": "Eingriffe an Tieren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -211,7 +219,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000503377",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Tierversuche",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -289,7 +299,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000604360",
         "name": "Sechster Abschnitt",
         "title": "Tierschutzbeauftragte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -311,7 +323,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000705360",
         "name": "Siebenter Abschnitt",
         "title": "Zucht, Halten von Tieren, Handel mit Tieren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -375,7 +389,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000805360",
         "name": "Achter Abschnitt",
         "title": "Verbringungs-, Verkehrs- und Haltungsverbot",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -397,7 +413,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000905360",
         "name": "Neunter Abschnnitt",
         "title": "Sonstige Bestimmungen zum Schutz der Tiere",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -447,7 +465,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG001005360",
         "name": "Zehnter Abschnitt",
         "title": "Durchf\u00fchrung des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -651,7 +671,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG001105360",
         "name": "Elfter Abschnitt",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -743,7 +765,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG001206360",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "\u00dcbergangs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

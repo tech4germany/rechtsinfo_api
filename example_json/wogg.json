@@ -46,7 +46,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000100000",
         "name": "Teil 1",
         "title": "Zweck des Wohngeldes und Wohngeldberechtigung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -96,7 +98,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000200000",
         "name": "Teil 2",
         "title": "Berechnung und H\u00f6he des Wohngeldes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -107,7 +111,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR185610008BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -132,7 +138,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR185610008BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -199,7 +207,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR185610008BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -266,7 +276,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR185610008BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -361,7 +373,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR185610008BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -383,7 +397,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000800000",
         "name": "Teil 3",
         "title": "Nichtbestehen des Wohngeldanspruchs",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -419,7 +435,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000900000",
         "name": "Teil 4",
         "title": "Bewilligung, Zahlung und \u00c4nderung des Wohngeldes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -567,7 +585,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG001000000",
         "name": "Teil 5",
         "title": "Kostentragung und Datenabgleich",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -603,7 +623,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG001100000",
         "name": "Teil 6",
         "title": "Wohngeldstatistik",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -653,7 +675,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG001200000",
         "name": "Teil 7",
         "title": "Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -731,7 +755,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG001300000",
         "name": "Teil 8",
         "title": "\u00dcberleitungsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -46,7 +46,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/urhg/articles/BJNR012730965BJNG000101377",
         "name": "Teil 1",
         "title": "Urheberrecht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -57,7 +59,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -82,7 +86,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -163,7 +169,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -230,7 +238,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -241,7 +251,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -266,7 +278,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -319,7 +333,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -512,7 +528,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -565,7 +583,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -576,7 +596,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001001377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -629,7 +651,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001001377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -990,7 +1014,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1001,7 +1027,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001302123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1236,7 +1264,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001302123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1373,7 +1403,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001302123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1482,7 +1514,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001302123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1605,7 +1639,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001302123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1672,7 +1708,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001302123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1725,7 +1763,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1820,7 +1860,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG000101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1926,7 +1968,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/urhg/articles/BJNR012730965BJNG001501377",
         "name": "Teil 2",
         "title": "Verwandte Schutzrechte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1937,7 +1981,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1976,7 +2022,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2001,7 +2049,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2208,7 +2258,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2247,7 +2299,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2272,7 +2326,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2353,7 +2409,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG001501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2403,7 +2461,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/urhg/articles/BJNR012730965BJNG002101377",
         "name": "Teil 3",
         "title": "Besondere Bestimmungen f\u00fcr Filme",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2414,7 +2474,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2523,7 +2585,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002101377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2545,7 +2609,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/urhg/articles/BJNR012730965BJNG002401377",
         "name": "Teil 4",
         "title": "Gemeinsame Bestimmungen f\u00fcr Urheberrecht\nund verwandte Schutzrechte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2556,7 +2622,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002401377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2637,7 +2705,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002401377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2648,7 +2718,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002601377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2855,7 +2927,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002601377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2992,7 +3066,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002601377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3031,7 +3107,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002401377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3042,7 +3120,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002901377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3067,7 +3147,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002901377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3106,7 +3188,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002901377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3159,7 +3243,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002901377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3184,7 +3270,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG002901377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3206,7 +3294,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/urhg/articles/BJNR012730965BJNG003501377",
         "name": "Teil 5",
         "title": "Anwendungsbereich,\n\u00dcbergangs- und Schlussbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3217,7 +3307,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG003501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3228,7 +3320,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG003601377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3295,7 +3389,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG003601377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3390,7 +3486,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG003501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3751,7 +3849,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR012730965BJNG003501377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

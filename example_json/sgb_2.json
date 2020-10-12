@@ -78,7 +78,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG000101308",
         "name": "Kapitel 1",
         "title": "F\u00f6rdern und Fordern",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -226,7 +228,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG000201308",
         "name": "Kapitel 2",
         "title": "Anspruchsvoraussetzungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -388,7 +392,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG000301308",
         "name": "Kapitel 3",
         "title": "Leistungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -399,7 +405,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG000301308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -690,7 +698,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG000301308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -701,7 +711,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG000502308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -726,7 +738,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG000502308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -835,7 +849,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG000502308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -902,7 +918,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG000502308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -955,7 +973,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG000502308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1022,7 +1042,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG000502308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1114,7 +1136,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG001001308",
         "name": "Kapitel 4",
         "title": "Gemeinsame Vorschriften f\u00fcr Leistungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1125,7 +1149,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG001001308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1332,7 +1358,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR295500003BJNG001001308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1508,7 +1536,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG001301308",
         "name": "Kapitel 5",
         "title": "Finanzierung und Aufsicht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1600,7 +1630,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG001404126",
         "name": "Kapitel 6",
         "title": "Datenverarbeitung und datenschutzrechtliche Verantwortung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1720,7 +1752,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG001501308",
         "name": "Kapitel 7",
         "title": "Statistik und Forschung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1784,7 +1818,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG001601308",
         "name": "Kapitel 8",
         "title": "Mitwirkungspflichten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1890,7 +1926,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG001702377",
         "name": "Kapitel 9",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1940,7 +1978,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG001801308",
         "name": "Kapitel 10",
         "title": "Bek\u00e4mpfung von Leistungsmissbrauch",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1962,7 +2002,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_2/articles/BJNR295500003BJNG001901308",
         "name": "Kapitel 11",
         "title": "\u00dcbergangs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

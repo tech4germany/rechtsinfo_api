@@ -37,7 +37,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Unterschutzstellung, Ausnahmen und Verbote",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -101,7 +103,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Teile und Erzeugnisse, Aufzeichnungspflichten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -137,7 +141,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Haltung und Zucht, Anzeigepflichten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -148,7 +154,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR025810005BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -173,7 +181,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR025810005BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -237,7 +247,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000600000",
         "name": "Abschnitt 4",
         "title": "Kennzeichnung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -301,7 +313,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000700000",
         "name": "Abschnitt 5",
         "title": "Ordnungswidrigkeiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -323,7 +337,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bartschv/articles/BJNR025810005BJNG000800000",
         "name": "Abschnitt 6",
         "title": "L\u00e4ndervorbehalt",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

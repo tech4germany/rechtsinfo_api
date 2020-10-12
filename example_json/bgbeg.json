@@ -77,7 +77,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgbeg/articles/BJNR006049896BJNG000103377",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -88,7 +90,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000103377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -127,7 +131,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000103377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -138,7 +144,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -205,7 +213,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -300,7 +310,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -339,7 +351,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG001002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -350,7 +364,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG001002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -403,7 +419,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG001002377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -498,7 +516,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -537,7 +557,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -548,7 +570,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG001203140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -629,7 +653,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -696,7 +722,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -707,7 +735,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG052602123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -732,7 +762,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG052602123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -771,7 +803,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG052602123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -796,7 +830,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG052602123"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -821,7 +857,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000103377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -860,7 +898,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG052301377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -868,7 +908,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgbeg/articles/BJNR006049896BJNG000203377",
         "name": "Zweiter Teil",
         "title": "Verh\u00e4ltnis des B\u00fcrgerlichen Gesetzbuchs zu den Reichsgesetzen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -949,7 +991,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000203377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -957,7 +1001,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgbeg/articles/BJNR006049896BJNG000303377",
         "name": "Dritter Teil",
         "title": "Verh\u00e4ltnis des B\u00fcrgerlichen Gesetzbuchs zu den Landesgesetzen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -996,7 +1042,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1091,7 +1139,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1158,7 +1208,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1197,7 +1249,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1362,7 +1416,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1373,7 +1429,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1426,7 +1484,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1465,7 +1525,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1574,7 +1636,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2005,7 +2069,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2072,7 +2138,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2111,7 +2179,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2136,7 +2206,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2147,7 +2219,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000303377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2169,7 +2243,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgbeg/articles/BJNR006049896BJNG000403377",
         "name": "Vierter Teil",
         "title": "\u00dcbergangsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2180,7 +2256,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000403377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2205,7 +2283,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000403377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2790,7 +2870,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000403377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2857,7 +2939,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000403377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2924,7 +3008,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG000403377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2960,7 +3046,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgbeg/articles/BJNR006049896BJNG022702377",
         "name": "F\u00fcnfter Teil",
         "title": "\u00dcbergangsvorschriften aus Anla\u00df j\u00fcngerer \u00c4nderungen des B\u00fcrgerlichen Gesetzbuchs und dieses Einf\u00fchrungsgesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3055,7 +3143,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG022702377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3903,7 +3993,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgbeg/articles/BJNR006049896BJNG022802377",
         "name": "Sechster Teil",
         "title": "Inkrafttreten und \u00dcbergangsrecht aus Anla\u00df der Einf\u00fchrung des B\u00fcrgerlichen Gesetzbuchs und dieses Einf\u00fchrungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3928,7 +4020,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG022802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4079,7 +4173,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG022802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4258,7 +4354,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG022802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4269,7 +4367,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG024802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4462,7 +4562,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG024802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4571,7 +4673,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG022802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4792,7 +4896,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG022802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4831,7 +4937,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG022802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4884,7 +4992,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG022802377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4920,7 +5030,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bgbeg/articles/BJNR006049896BJNG030003360",
         "name": "Siebter Teil",
         "title": "Durchf\u00fchrung des B\u00fcrgerlichen Gesetzbuchs, Verordnungserm\u00e4chtigungen, L\u00e4nder\u00f6ffnungsklauseln, Informationspflichten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4931,7 +5043,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4956,7 +5070,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5051,7 +5167,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5062,7 +5180,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5129,7 +5249,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5154,7 +5276,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5221,7 +5345,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5274,7 +5400,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5565,7 +5693,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5604,7 +5734,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5615,7 +5747,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG053400140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5654,7 +5788,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG053400140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5791,7 +5927,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG053400140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5886,7 +6024,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG053400140"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5953,7 +6093,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6006,7 +6148,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6157,7 +6301,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6210,7 +6356,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR006049896BJNG030003360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

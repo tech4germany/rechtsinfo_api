@@ -39,7 +39,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/kschg/articles/BJNR004990951BJNG000100311",
         "name": "Erster Abschnitt",
         "title": "Allgemeiner K\u00fcndigungsschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -257,7 +259,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/kschg/articles/BJNR004990951BJNG000200311",
         "name": "Zweiter Abschnitt",
         "title": "K\u00fcndigungsschutz im Rahmen der\nBetriebsverfassung und Personalvertretung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -293,7 +297,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/kschg/articles/BJNR004990951BJNG000300311",
         "name": "Dritter Abschnitt",
         "title": "Anzeigepflichtige Entlassungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -385,7 +391,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/kschg/articles/BJNR004990951BJNG000400311",
         "name": "Vierter Abschnitt",
         "title": "Schlu\u00dfbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

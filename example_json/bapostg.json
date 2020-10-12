@@ -50,7 +50,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000101305",
         "name": "Abschnitt 1",
         "title": "Errichtung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -86,7 +88,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000201305",
         "name": "Abschnitt 2",
         "title": "Aufgaben",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -108,7 +112,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000302305",
         "name": "Abschnitt 3",
         "title": "Organisation",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -186,7 +192,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000403305",
         "name": "Abschnitt 4",
         "title": "Postbeamtenversorgungskasse",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -264,7 +272,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000502305",
         "name": "Abschnitt 5",
         "title": "Dienstrechtliche Aufgaben",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -342,7 +352,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000601305",
         "name": "Abschnitt 6",
         "title": "Wirtschaftsf\u00fchrung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -406,7 +418,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000701305",
         "name": "Abschnitt 7",
         "title": "Personal",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -456,7 +470,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000802305",
         "name": "Abschnitt 8",
         "title": "Soziale Aufgaben",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -481,7 +497,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR232510994BJNG000802305"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -548,7 +566,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR232510994BJNG001001305"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -671,7 +691,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR232510994BJNG000802305"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -707,7 +729,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000901305",
         "name": "Abschnitt 9",
         "title": "\u00dcbergangsregelungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

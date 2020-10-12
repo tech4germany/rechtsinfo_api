@@ -54,7 +54,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000300314",
         "name": "Erster Abschnitt",
         "title": "Aufgaben des Sozialgesetzbuchs\nund soziale Rechte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -202,7 +204,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000400314",
         "name": "Zweiter Abschnitt",
         "title": "Einweisungsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -213,7 +217,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR030150975BJNG000400314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -322,7 +328,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR030150975BJNG000400314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -568,7 +576,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG000700314",
         "name": "Dritter Abschnitt",
         "title": "Gemeinsame Vorschriften\nf\u00fcr alle Sozialleistungsbereiche dieses Gesetzbuchs",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -579,7 +589,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR030150975BJNG000700314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -758,7 +770,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR030150975BJNG000700314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1077,7 +1091,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR030150975BJNG000700314"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1211,7 +1227,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_1/articles/BJNR030150975BJNG001100308",
         "name": "Vierter Abschnitt",
         "title": "\u00dcbergangs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

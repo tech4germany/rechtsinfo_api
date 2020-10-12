@@ -53,7 +53,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG000100000",
         "name": "Teil 1",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -159,7 +161,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG000200000",
         "name": "Teil 2",
         "title": "Vorschriften f\u00fcr die Erstversicherung und die R\u00fcckversicherung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -170,7 +174,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -181,7 +187,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -318,7 +326,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -427,7 +437,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -606,7 +618,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -617,7 +631,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -698,7 +714,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -751,7 +769,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -846,7 +866,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -955,7 +977,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1036,7 +1060,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1047,7 +1073,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1114,7 +1142,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1223,7 +1253,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1332,7 +1364,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1343,7 +1377,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1564,7 +1600,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1575,7 +1613,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1684,7 +1724,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1905,7 +1947,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2070,7 +2114,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2109,7 +2155,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2232,7 +2280,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG001700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2327,7 +2377,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2338,7 +2390,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG002600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2461,7 +2515,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG002600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2682,7 +2738,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG002600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2749,7 +2807,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG002600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2844,7 +2904,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3415,7 +3477,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3426,7 +3490,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3535,7 +3601,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3585,7 +3653,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG003500000",
         "name": "Teil 3",
         "title": "Sicherungsfonds",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3747,7 +3817,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG005900118",
         "name": "Abschnitt 1",
         "title": "Abgrenzung zu anderen Lebensversicherungsunternehmen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3755,7 +3827,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG003600000",
         "name": "Teil 4",
         "title": "Einrichtungen der betrieblichen Altersversorgung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3766,7 +3840,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3819,7 +3895,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3900,7 +3978,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3981,7 +4061,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4076,7 +4158,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4115,7 +4199,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4196,7 +4282,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG003600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4288,7 +4376,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG005800124",
         "name": "Teil 4a",
         "title": "Reine Beitragszusagen in der betrieblichen Altersversorgung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4352,7 +4442,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG004000000",
         "name": "Teil 5",
         "title": "Gruppen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4363,7 +4455,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004000000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4444,7 +4538,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004000000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4455,7 +4551,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4788,7 +4886,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4827,7 +4927,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4894,7 +4996,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004000000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5031,7 +5135,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004000000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5098,7 +5204,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004000000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5134,7 +5242,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG004900000",
         "name": "Teil 6",
         "title": "Aufsicht: Aufgaben und allgemeine Befugnisse, Organisation",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5145,7 +5255,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5464,7 +5576,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5573,7 +5687,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5626,7 +5742,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG004900000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5637,7 +5755,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG005300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5732,7 +5852,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR043410015BJNG005300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5810,7 +5932,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG005600000",
         "name": "Teil 7",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5874,7 +5998,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/vag/articles/BJNR043410015BJNG005700000",
         "name": "Teil 8",
         "title": "\u00dcbergangs- und Schlussbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -58,7 +58,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG000032301",
         "name": "Buch 1",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -69,7 +71,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000032301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -80,7 +84,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG079100301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -245,7 +251,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG079100301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -760,7 +768,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG079100301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -813,7 +823,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG079100301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -950,7 +962,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000032301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -961,7 +975,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000592301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1112,7 +1128,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000592301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1193,7 +1211,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000592301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1400,7 +1420,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000592301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1635,7 +1657,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000592301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1954,7 +1978,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000592301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2049,7 +2075,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000592301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2284,7 +2312,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG000032301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2295,7 +2325,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG015502301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2922,7 +2954,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG015502301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2933,7 +2967,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG019803301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3294,7 +3330,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG019803301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3389,7 +3427,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG015502301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3624,7 +3664,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG015502301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3761,7 +3803,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG015502301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3979,7 +4023,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG029702301",
         "name": "Buch 2",
         "title": "Verfahren im ersten Rechtszug",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3990,7 +4036,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029702301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4001,7 +4049,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4754,7 +4804,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5297,7 +5349,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5602,7 +5656,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5683,7 +5739,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5946,7 +6004,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6027,7 +6087,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6444,7 +6506,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6679,7 +6743,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7124,7 +7190,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7303,7 +7371,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7412,7 +7482,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7563,7 +7635,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG029702301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -7781,7 +7855,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG059802301",
         "name": "Buch 3",
         "title": "Rechtsmittel",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -7792,7 +7868,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG059802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8237,7 +8315,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG059802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8612,7 +8692,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG059802301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -8623,7 +8705,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG066902301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8732,7 +8816,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG066902301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -8796,7 +8882,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG068202301",
         "name": "Buch 4",
         "title": "Wiederaufnahme des Verfahrens",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9000,7 +9088,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG069702301",
         "name": "Buch 5",
         "title": "Urkunden- und Wechselprozess",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9218,7 +9308,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG071307311",
         "name": "Buch 6",
         "title": "Musterfeststellungsverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9366,7 +9458,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG075002301",
         "name": "Buch 7",
         "title": "Mahnverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -9654,7 +9748,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG075102301",
         "name": "Buch 8",
         "title": "Zwangsvollstreckung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -9665,7 +9761,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11286,7 +11384,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -11297,7 +11397,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11476,7 +11578,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -11487,7 +11591,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080301160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11596,7 +11702,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080301160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -11985,7 +12093,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080301160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12780,7 +12890,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -12917,7 +13029,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13082,7 +13196,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13107,7 +13223,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075303308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13230,7 +13348,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13507,7 +13627,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -13532,7 +13654,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14005,7 +14129,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG075102301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -14016,7 +14142,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080900311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14083,7 +14211,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080900311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14136,7 +14266,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080900311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14217,7 +14349,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080900311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14253,7 +14387,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG076404311",
         "name": "Buch 9",
         "title": "(weggefallen)",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14275,7 +14411,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG076503301",
         "name": "Buch 10",
         "title": "Schiedsrichterliches Verfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -14286,7 +14424,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14353,7 +14493,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14434,7 +14576,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14529,7 +14673,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14568,7 +14714,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14705,7 +14853,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14828,7 +14978,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14853,7 +15005,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14892,7 +15046,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14959,7 +15115,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG076503301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -14981,7 +15139,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/zpo/articles/BJNR005330950BJNG078401301",
         "name": "Buch 11",
         "title": "Justizielle Zusammenarbeit in der Europ\u00e4ischen Union",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -14992,7 +15152,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078401301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15073,7 +15235,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078401301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15140,7 +15304,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078401301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15193,7 +15359,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078401301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -15204,7 +15372,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078801301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15257,7 +15427,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078801301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15338,7 +15510,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078401301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -15349,7 +15523,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG079500160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15402,7 +15578,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG079500160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15441,7 +15619,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG079500160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15480,7 +15660,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG079500160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15547,7 +15729,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078401301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -15558,7 +15742,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080000160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15695,7 +15881,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080000160"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15776,7 +15964,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078401301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -15787,7 +15977,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080600311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15826,7 +16018,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG080600311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -15921,7 +16115,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR005330950BJNG078401301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

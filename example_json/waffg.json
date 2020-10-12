@@ -48,7 +48,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Bestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -98,7 +100,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG000300000",
         "name": "Abschnitt 2",
         "title": "Umgang mit Waffen oder Munition",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -109,7 +113,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR397010002BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -204,7 +210,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR397010002BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -257,7 +265,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR397010002BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -408,7 +418,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR397010002BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -587,7 +599,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR397010002BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -668,7 +682,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR397010002BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -903,7 +919,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR397010002BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -942,7 +960,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR397010002BJNG000300000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1006,7 +1026,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001100000",
         "name": "Abschnitt 3",
         "title": "Sonstige waffenrechtliche Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1140,7 +1162,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001200000",
         "name": "Abschnitt 4",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1218,7 +1242,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001300000",
         "name": "Abschnitt 5",
         "title": "Ausnahmen von der Anwendung des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1268,7 +1294,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/waffg/articles/BJNR397010002BJNG001400000",
         "name": "Abschnitt 6",
         "title": "\u00dcbergangsvorschriften,\nVerwaltungsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

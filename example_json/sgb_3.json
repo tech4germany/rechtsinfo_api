@@ -58,7 +58,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG000200000",
         "name": "Erstes Kapitel",
         "title": "Allgemeine Vorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -69,7 +71,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -248,7 +252,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -399,7 +405,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG000200000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -435,7 +443,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG016001308",
         "name": "Zweites Kapitel",
         "title": "Versicherungspflicht",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -446,7 +456,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016001308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -527,7 +539,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016001308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -549,7 +563,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG016601308",
         "name": "Drittes Kapitel",
         "title": "Aktive Arbeitsf\u00f6rderung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -560,7 +576,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016601308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -571,7 +589,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG000901308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -680,7 +700,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG000901308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -817,7 +839,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG000901308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -884,7 +908,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016601308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -951,7 +977,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016601308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -962,7 +990,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001101308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1015,7 +1045,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001101308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1110,7 +1142,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001101308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1359,7 +1393,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001101308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1510,7 +1546,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001101308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1549,7 +1587,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016601308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1658,7 +1698,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016601308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1669,7 +1711,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG057500308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1750,7 +1794,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG057500308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1789,7 +1835,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016601308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1800,7 +1848,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001802308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1811,7 +1861,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG056600666"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1833,7 +1885,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG002301308",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Anordnungserm\u00e4chtigung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1914,7 +1968,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG056600666"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1967,7 +2023,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG056600666"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2034,7 +2092,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG056600666"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2059,7 +2119,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG056600666"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2084,7 +2146,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG056600666"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2109,7 +2173,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001802308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2162,7 +2228,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016601308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2173,7 +2241,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG002402308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2226,7 +2296,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG002402308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2265,7 +2337,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG002402308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2276,7 +2350,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG002701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2315,7 +2391,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG002701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2438,7 +2516,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG002701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2477,7 +2557,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG002701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2502,7 +2584,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG016601308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2622,7 +2706,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG018301308",
         "name": "Viertes Kapitel",
         "title": "Arbeitslosengeld und Insolvenzgeld",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2633,7 +2719,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG018301308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2644,7 +2732,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001202308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2781,7 +2871,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001202308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2820,7 +2912,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001202308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2859,7 +2953,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001202308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2954,7 +3050,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001202308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3049,7 +3147,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001202308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3074,7 +3174,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001202308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3099,7 +3201,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG001202308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3138,7 +3242,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG018301308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3261,7 +3367,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG018301308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3311,7 +3419,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG035601308",
         "name": "F\u00fcnftes Kapitel",
         "title": "Zulassung von Tr\u00e4gern und Ma\u00dfnahmen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3445,7 +3555,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG038002360",
         "name": "Sechstes Kapitel",
         "title": "Erg\u00e4nzende vergabespezifische Regelungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3495,7 +3607,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG042101308",
         "name": "Siebtes Kapitel",
         "title": "Weitere Aufgaben der Bundesagentur",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3506,7 +3620,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG042101308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3601,7 +3717,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG042101308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3612,7 +3730,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG008600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3679,7 +3799,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG008600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3690,7 +3812,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG008801308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3743,7 +3867,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG008801308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3866,7 +3992,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG008801308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3905,7 +4033,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG042101308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3927,7 +4057,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG045100000",
         "name": "Achtes Kapitel",
         "title": "Pflichten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3938,7 +4070,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG045100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -3949,7 +4083,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG009400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3988,7 +4124,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG009400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4083,7 +4221,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG009400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4164,7 +4304,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG009400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4189,7 +4331,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG045100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4214,7 +4358,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG045100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4250,7 +4396,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG046600000",
         "name": "Neuntes Kapitel",
         "title": "Gemeinsame Vorschriften f\u00fcr Leistungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4261,7 +4409,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG046600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4328,7 +4478,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG046600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4353,7 +4505,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG046600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4504,7 +4658,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG046600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4529,7 +4685,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG046600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4565,7 +4723,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG048400000",
         "name": "Zehntes Kapitel",
         "title": "Finanzierung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4576,7 +4736,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG048400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4601,7 +4763,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG048400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4612,7 +4776,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG010700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4721,7 +4887,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG010700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4830,7 +4998,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG010700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4883,7 +5053,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG048400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -4894,7 +5066,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG011100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -4961,7 +5135,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG011100000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5042,7 +5218,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG048400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5095,7 +5273,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG048400000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5131,7 +5311,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG051201308",
         "name": "Elftes Kapitel",
         "title": "Organisation und Datenschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5142,7 +5324,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG051201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5223,7 +5407,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG051201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5234,7 +5420,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG011701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5343,7 +5531,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG011701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5396,7 +5586,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG011701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5421,7 +5613,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG051201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5600,7 +5794,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG051201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5625,7 +5821,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG051201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5717,7 +5915,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG055001308",
         "name": "Zw\u00f6lftes Kapitel",
         "title": "Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5728,7 +5928,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG055001308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5767,7 +5969,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG055001308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5789,7 +5993,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/sgb_3/articles/BJNR059500997BJNG055500000",
         "name": "Dreizehntes Kapitel",
         "title": "Sonderregelungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -5800,7 +6006,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG055500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -5937,7 +6145,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG055500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6074,7 +6284,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG055500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6127,7 +6339,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG055500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -6278,7 +6492,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR059500997BJNG055500000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

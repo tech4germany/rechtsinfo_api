@@ -41,7 +41,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNG000101140",
         "name": "Kapitel 1",
         "title": "Allgemeine Bestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -189,7 +191,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNG000201140",
         "name": "Kapitel 2",
         "title": "Rechtsfolgen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -253,7 +257,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNG000301140",
         "name": "Kapitel 3",
         "title": "Verfahrensvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -317,7 +323,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNG000402140",
         "name": "Kapitel 4",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

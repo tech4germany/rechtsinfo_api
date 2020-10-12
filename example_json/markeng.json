@@ -50,7 +50,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG018500000",
         "name": "Teil 1",
         "title": "Anwendungsbereich",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -86,7 +88,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG018600000",
         "name": "Teil 2",
         "title": "Voraussetzungen, Inhalt und Schranken des Schutzes\nvon Marken und gesch\u00e4ftlichen Bezeichnungen, \u00dcbertragung\nund Lizenz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -97,7 +101,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -164,7 +170,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -273,7 +281,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -438,7 +448,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -547,7 +559,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018600000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -625,7 +639,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG018700000",
         "name": "Teil 3",
         "title": "Verfahren in Markenangelegenheiten",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -636,7 +652,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -829,7 +847,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -882,7 +902,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1005,7 +1027,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1198,7 +1222,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1461,7 +1487,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1598,7 +1626,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018700000"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1746,7 +1776,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG018800000",
         "name": "Teil 4",
         "title": "Kollektivmarken",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1894,7 +1926,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG018902360",
         "name": "Teil 5",
         "title": "Gew\u00e4hrleistungsmarken",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2014,7 +2048,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG018901360",
         "name": "Teil 6",
         "title": "Schutz von Marken nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2025,7 +2061,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018902360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2204,7 +2242,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018902360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2313,7 +2353,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018902360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2447,7 +2489,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG019001360",
         "name": "Teil 7",
         "title": "Geographische Herkunftsangaben",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2458,7 +2502,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018901360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2525,7 +2571,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG018901360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2634,7 +2682,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG019001360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2684,7 +2734,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG019101360",
         "name": "Teil 8",
         "title": "Verfahren in Kennzeichenstreitsachen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2734,7 +2786,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG019201360",
         "name": "Teil 9",
         "title": "Straf- und Bu\u00dfgeldvorschriften, Beschlagnahme bei der Einfuhr und Ausfuhr",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2745,7 +2799,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG019101360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2812,7 +2868,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR308210994BJNG019101360"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2904,7 +2962,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/markeng/articles/BJNR308210994BJNG019301360",
         "name": "Teil 10",
         "title": "\u00dcbergangsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

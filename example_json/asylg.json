@@ -56,7 +56,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000104311",
         "name": "Abschnitt 1",
         "title": "Geltungsbereich",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -78,7 +80,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001600311",
         "name": "Abschnitt 2",
         "title": "Schutzgew\u00e4hrung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -89,7 +93,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR111260992BJNG001600311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -114,7 +120,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR111260992BJNG001600311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -220,7 +228,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001900311",
         "name": "Abschnitt 3",
         "title": "Allgemeine Bestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -340,7 +350,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000204311",
         "name": "Abschnitt 4",
         "title": "Asylverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -351,7 +363,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR111260992BJNG000204311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -488,7 +502,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR111260992BJNG000204311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -597,7 +613,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR111260992BJNG000204311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -832,7 +850,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR111260992BJNG000204311"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1022,7 +1042,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000704311",
         "name": "Abschnitt 5",
         "title": "Unterbringung und Verteilung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1184,7 +1206,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000805311",
         "name": "Abschnitt 6",
         "title": "Recht des Aufenthalts w\u00e4hrend des Asylverfahrens",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1458,7 +1482,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001105311",
         "name": "Abschnitt 7",
         "title": "Folgeantrag, Zweitantrag",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1494,7 +1520,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001204311",
         "name": "Abschnitt 8",
         "title": "Erl\u00f6schen der Rechtsstellung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1572,7 +1600,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001304311",
         "name": "Abschnitt 9",
         "title": "Gerichtsverfahren",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1776,7 +1806,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001404311",
         "name": "Abschnitt 10",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1840,7 +1872,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001504311",
         "name": "Abschnitt 11",
         "title": "\u00dcbergangs- und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

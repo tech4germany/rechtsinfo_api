@@ -57,7 +57,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000100314",
         "name": "I.",
         "title": "Die Grundrechte",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -373,7 +375,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000200314",
         "name": "II.",
         "title": "Der Bund und die L\u00e4nder",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -647,7 +651,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000300314",
         "name": "III.",
         "title": "Der Bundestag",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -879,7 +885,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000400314",
         "name": "IV.",
         "title": "Der Bundesrat",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -943,7 +951,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000500314",
         "name": "IV a.",
         "title": "Gemeinsamer Ausschu\u00df",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -965,7 +975,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000600314",
         "name": "V.",
         "title": "Der Bundespr\u00e4sident",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1099,7 +1111,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000700314",
         "name": "VI.",
         "title": "Die Bundesregierung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1233,7 +1247,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000800314",
         "name": "VII.",
         "title": "Die Gesetzgebung des Bundes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1437,7 +1453,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG000900314",
         "name": "VIII.",
         "title": "Die Ausf\u00fchrung der Bundesgesetze und die Bundesverwaltung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1655,7 +1673,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001001160",
         "name": "VIIIa.",
         "title": "Gemeinschaftsaufgaben, Verwaltungszusammenarbeit",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1733,7 +1753,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001100314",
         "name": "IX.",
         "title": "Die Rechtsprechung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1923,7 +1945,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001200314",
         "name": "X.",
         "title": "Das Finanzwesen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2183,7 +2207,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001300314",
         "name": "X a.",
         "title": "Verteidigungsfall",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2345,7 +2371,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/gg/articles/BJNR000010949BJNG001400314",
         "name": "XI.",
         "title": "\u00dcbergangs- und Schlu\u00dfbestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

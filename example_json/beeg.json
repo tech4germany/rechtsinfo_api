@@ -43,7 +43,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000101119",
         "name": "Abschnitt 1",
         "title": "Elterngeld",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -191,7 +193,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000401119",
         "name": "Abschnitt 2",
         "title": "Betreuungsgeld",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -255,7 +259,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000501119",
         "name": "Abschnitt 3",
         "title": "Verfahren und Organisation",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -403,7 +409,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000202119",
         "name": "Abschnitt 4",
         "title": "Elternzeit f\u00fcr Arbeitnehmerinnen und Arbeitnehmer",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -509,7 +517,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/beeg/articles/BJNR274810006BJNG000302119",
         "name": "Abschnitt 5",
         "title": "Statistik und Schlussvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

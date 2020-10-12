@@ -50,7 +50,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/hwo/articles/BJNR014110953BJNG000102377",
         "name": "Erster Teil",
         "title": "Aus\u00fcbung eines Handwerks\nund eines handwerks\u00e4hnlichen Gewerbes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -61,7 +63,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -170,7 +174,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -377,7 +383,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000102377"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -427,7 +435,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/hwo/articles/BJNR014110953BJNG000501308",
         "name": "Zweiter Teil",
         "title": "Berufsbildung im Handwerk",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -438,7 +448,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000501308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -547,7 +559,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000501308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -656,7 +670,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000501308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -709,7 +725,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000501308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -930,7 +948,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000501308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -969,7 +989,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000501308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1204,7 +1226,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000501308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1313,7 +1337,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG000501308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1377,7 +1403,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/hwo/articles/BJNR014110953BJNG001401308",
         "name": "Dritter Teil",
         "title": "Meisterpr\u00fcfung, Meistertitel",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1388,7 +1416,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG001401308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1525,7 +1555,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG001401308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1603,7 +1635,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/hwo/articles/BJNR014110953BJNG001701308",
         "name": "Vierter Teil",
         "title": "Organisation des Handwerks",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -1614,7 +1648,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG001701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2017,7 +2053,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG001701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2126,7 +2164,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG001701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2193,7 +2233,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG001701308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2579,7 +2621,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/hwo/articles/BJNR014110953BJNG002201308",
         "name": "F\u00fcnfter Teil",
         "title": "Bu\u00dfgeld-, \u00dcbergangs- und Schlu\u00dfvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2590,7 +2634,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG002201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2643,7 +2689,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG002201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2780,7 +2828,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR014110953BJNG002201308"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

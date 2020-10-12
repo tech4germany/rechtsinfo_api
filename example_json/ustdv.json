@@ -52,7 +52,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000104301",
         "name": "-",
         "title": "Zu \u00a7 3a des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -74,7 +76,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002903301",
         "name": "-",
         "title": "Zu \u00a7 3b des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -166,7 +170,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000205301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 1 Buchstabe a und den \u00a7\u00a7 6 und 7 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -177,7 +183,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR023590979BJNG000205301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -297,7 +305,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG003003301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 1 Buchstabe b und \u00a7 6a des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -361,7 +371,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000504301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 2 und \u00a7 8 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -383,7 +395,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000604301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 3 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -433,7 +447,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000704301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 5 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -455,7 +471,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000804301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 18 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -477,7 +495,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000904301",
         "name": "-",
         "title": "Zu \u00a7 4a des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -499,7 +519,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001004301",
         "name": "-",
         "title": "Zu \u00a7 10 Abs. 6 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -521,7 +543,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001104301",
         "name": "-",
         "title": "Zu \u00a7 12 Abs. 2 Nr. 1 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -543,7 +567,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001204301",
         "name": "-",
         "title": "Zu \u00a7 12 Abs. 2 Nr. 7 Buchstabe d des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -565,7 +591,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG003100301",
         "name": "-",
         "title": "Zu \u00a7 13b des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -587,7 +615,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001304301",
         "name": "-",
         "title": "Zu \u00a7 14 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -651,7 +681,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001404301",
         "name": "-",
         "title": "Zu \u00a7 15 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -729,7 +761,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001504301",
         "name": "-",
         "title": "Zu \u00a7 15a des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -765,7 +799,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001604301",
         "name": "-",
         "title": "Zu den \u00a7\u00a7 16 und 18 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -776,7 +812,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR023590979BJNG001604301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -829,7 +867,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR023590979BJNG001604301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -868,7 +908,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR023590979BJNG001604301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -991,7 +1033,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR023590979BJNG001604301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1058,7 +1102,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR023590979BJNG001604301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1080,7 +1126,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002204301",
         "name": "-",
         "title": "Zu \u00a7 22 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1186,7 +1234,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002304301",
         "name": "-",
         "title": "Zu \u00a7 23 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1222,7 +1272,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002404301",
         "name": "-",
         "title": "Zu \u00a7 24 Abs. 4 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1244,7 +1296,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002504301",
         "name": "-",
         "title": "Zu \u00a7 25 Abs. 2 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1266,7 +1320,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002604301",
         "name": "-",
         "title": "Zu \u00a7 26 Abs. 5 des Gesetzes",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1291,7 +1347,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR023590979BJNG002604301"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",

@@ -72,7 +72,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000104310",
         "name": "Erster Abschnitt",
         "title": "Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -164,7 +166,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000203310",
         "name": "Zweiter Abschnitt",
         "title": "Anforderungen an die Arzneimittel",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -312,7 +316,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000303310",
         "name": "Dritter Abschnitt",
         "title": "Herstellung von Arzneimitteln",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -488,7 +494,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000403310",
         "name": "Vierter Abschnitt",
         "title": "Zulassung der Arzneimittel",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -846,7 +854,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000504310",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Registrierung von Arzneimitteln",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -938,7 +948,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000605310",
         "name": "Sechster Abschnitt",
         "title": "Schutz des Menschen bei der\nklinischen Pr\u00fcfung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1058,7 +1070,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000705310",
         "name": "Siebter Abschnitt",
         "title": "Abgabe von Arzneimitteln",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1290,7 +1304,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000805310",
         "name": "Achter Abschnitt",
         "title": "Sicherung und Kontrolle der\nQualit\u00e4t",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1340,7 +1356,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG000905310",
         "name": "Neunter Abschnitt",
         "title": "Sondervorschriften f\u00fcr\nArzneimittel, die bei Tieren angewendet werden",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1628,7 +1646,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG001007116",
         "name": "Zehnter Abschnitt",
         "title": "Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1818,7 +1838,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG001105310",
         "name": "Elfter Abschnitt",
         "title": "\u00dcberwachung",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -1966,7 +1988,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG001206310",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "Sondervorschriften f\u00fcr\nBundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2002,7 +2026,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG001306310",
         "name": "Dreizehnter Abschnitt",
         "title": "Einfuhr und Ausfuhr",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2108,7 +2134,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG001406310",
         "name": "Vierzehnter Abschnitt",
         "title": "Informationsbeauftragter,\nPharmaberater",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2158,7 +2186,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG001505310",
         "name": "F\u00fcnfzehnter Abschnitt",
         "title": "Bestimmung der zust\u00e4ndigen\nBundesoberbeh\u00f6rden und sonstige Bestimmungen",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2306,7 +2336,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG001605310",
         "name": "Sechzehnter Abschnitt",
         "title": "Haftung f\u00fcr\nArzneimittelsch\u00e4den",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2496,7 +2528,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG001705310",
         "name": "Siebzehnter Abschnitt",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -2560,7 +2594,9 @@
         "url": "https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNG002003310",
         "name": "Achtzehnter Abschnitt",
         "title": "\u00dcberleitungs- und\n\u00dcbergangsvorschriften",
-        "parent": null
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "heading",
@@ -2571,7 +2607,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3030,7 +3068,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3069,7 +3109,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3150,7 +3192,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3175,7 +3219,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3200,7 +3246,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3225,7 +3273,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3250,7 +3300,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3275,7 +3327,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3300,7 +3354,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3325,7 +3381,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3350,7 +3408,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3375,7 +3435,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3400,7 +3462,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3453,7 +3517,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3478,7 +3544,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3503,7 +3571,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3528,7 +3598,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
@@ -3553,7 +3625,9 @@
         "parent": {
           "type": "heading",
           "id": "BJNR024480976BJNG002003310"
-        }
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
       },
       {
         "type": "article",
