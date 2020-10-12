@@ -245,6 +245,17 @@ resource "aws_api_gateway_method" "proxy" {
   authorization = "NONE"
 }
 
+resource "aws_api_gateway_method_settings" "settings" {
+  rest_api_id   = aws_api_gateway_rest_api.api_gateway.id
+  stage_name  = aws_api_gateway_stage.prod.stage_name
+  method_path = "*/*"
+
+  settings {
+    throttling_rate_limit  = 100
+    throttling_burst_limit = 50
+  }
+}
+
 resource "aws_api_gateway_integration" "lambda" {
   rest_api_id = aws_api_gateway_rest_api.api_gateway.id
   resource_id = aws_api_gateway_method.proxy.resource_id
