@@ -255,6 +255,10 @@ class ContentItemResponse(pydantic.BaseModel):
 
 
 class SearchResultsResponse(pydantic.BaseModel):
-    data: List[Union[LawBasicFields, ArticleBasicFieldsWithLaw, ArticleBasicFields, HeadingArticleBasicFieldsWithLaw, HeadingArticleBasicFields]]
+    data: List[Union[
+        LawBasicFields,
+        ArticleBasicFieldsWithLaw, ArticleBasicFields,
+        HeadingArticleBasicFieldsWithLaw, HeadingArticleBasicFields
+    ]]
     links: PaginationLinks
     pagination: Pagination

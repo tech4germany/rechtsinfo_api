@@ -141,7 +141,7 @@ Die Abhängigkeiten sind installiert, die Datenbank aufgesetzt - Zeit, sie mit D
 # Daten von gesetze-im-internet.de herunterladen
 invoke ingest.download-laws ./downloads/gii/
 # Heruntergeladene Daten parsen und in die Datenbank importieren
-invoke ingest.ingest-data-from-location ./downloads/gii/
+invoke ingest.ingest-data ./downloads/gii/
 ```
 
 Die Daten werden in `./downloads/gii/` gespeichert und mit Timestamps versehen, so dass bei späterem Ausführen nur diejenigen Gesetze aktualisiert werden, für die es Änderungen auf gesetze-im-internet.de gibt.
@@ -212,11 +212,11 @@ export AWS_DEFAULT_REGION=eu-central-1
 Für einfache Code-Updates genügt es, eine neue ZIP-Datei auf S3 hochzuladen und die Lambda-Funktionen darüber upzudaten:
 
 ```sh
-invoke deploy.build-and-upload-lambda-function
+invoke deploy.update-lambda-function
 ```
 
 Haben sich die Python-Abhängigkeiten in der `Pipfile` geändert, muss das Abhängigkeits-Layer neu gebaut werden. Für Layer-Updates muss eine neue Version des Layers erzeugt die Konfiguration der Lambda-Funktionen aktualisiert werden. Dafür werden die Abhängigkeiten in einem (lambci/docker-lambda)[https://github.com/lambci/docker-lambda/] Docker-Container gebaut, der die AWS Lambda Umgebung simuliert, und anschliessend werden die Lambda-Funktionen mit terraform aktualisiert:
 
 ```sh
-invoke deploy.build-and-upload-lambda-deps-layer
+invoke deploy.update-lambda-deps-layer
 ```

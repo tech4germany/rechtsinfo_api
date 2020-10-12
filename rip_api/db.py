@@ -116,7 +116,7 @@ def laws_with_duplicate_slugs(session):
     law2 = aliased(Law)
     law_pairs_query = (
         session.query(Law, law2).
-        join(law2, Law.slug==law2.slug).filter(Law.id != law2.id)
+        join(law2, Law.slug == law2.slug).filter(Law.id != law2.id)
     )
 
     dupes = {}

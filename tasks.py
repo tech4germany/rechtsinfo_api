@@ -7,12 +7,15 @@ import uvicorn
 from rip_api import ASSET_BUCKET, db, gesetze_im_internet
 from rip_api.gesetze_im_internet.download import location_from_string
 
+ns = Collection()
+
+
+# Database tasks
 
 @task
 def db_init(c):
     """
-    Create database (if needed) and run migrations.
-    (You can set the database url with the DB_URI environment variable.)
+    Set up database. (Set DB url with the DB_URI env variable.)
     """
     try:
         db._engine.connect().execute('select 1')
@@ -30,6 +33,26 @@ def db_migrate(c):
     c.run("alembic upgrade head")
 
 
+ns.add_collection(Collection(
+    'database',
+    init=db_init,
+    migrate=db_migrate
+))
+
+
+# Tests
+
+@task
+def run_tests(c):
+    """Run project test suite."""
+    c.run("pytest")
+
+
+ns.add_task(run_tests, 'tests')
+
+
+# Ingest tasks
+
 @task(
     help={
         "data-location": "Where to store downloaded law data (local path or S3 prefix url)"
@@ -37,23 +60,9 @@ def db_migrate(c):
 )
 def download_laws(c, data_location):
     """
-    Check for updates to law zip files on gesetze-im-internet.de and download them.
+    Download any updated law files from gesetze-im-internet.de.
     """
     gesetze_im_internet.download_laws(location_from_string(data_location))
-
-
-@task(
-    help={
-        "data-location": "Where law data has been downloaded (local path or S3 prefix url)",
-        "gii-slug": "The slug of the law you want to ingest (as used in gesetze-im-internet.de URLs)",
-    }
-)
-def ingest_law(c, data_location, gii_slug):
-    """
-    Process a single law's directory and store/update it in the DB.
-    """
-    with db.session_scope() as session:
-        gesetze_im_internet.ingest_law(session, location_from_string(data_location), gii_slug)
 
 
 @task(
@@ -69,27 +78,37 @@ def ingest_data_from_location(c, data_location):
         gesetze_im_internet.ingest_data_from_location(session, location_from_string(data_location))
 
 
-@task(
-    help={
-        "data-location": "Where to store downloaded law data (local path or S3 prefix url)"
-    }
-)
-def update_all_laws(c, data_location):
-    """
-    Run the full import pipeline for gesetze-im-internet.de.
-    """
-    download_laws(c, data_location)
-    ingest_data_from_location(c, data_location)
+ns.add_collection(Collection(
+    'ingest',
+    download_laws=download_laws,
+    ingest_data=ingest_data_from_location
+))
 
+
+# Dev tasks
+
+@task
+def start_api_server(c):
+    """Start API server in development mode."""
+    uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
+
+
+ns.add_collection(Collection(
+    'dev',
+    start_api_server=start_api_server
+))
+
+
+# Example JSON tasks
 
 @task(
     help={
         "law-abbr": "The abbreviation of the law you want to generate (slugified)"
     }
 )
-def generate_json_example(c, law_abbr):
+def json_generate(c, law_abbr):
     """
-    Generate JSON response for a single law and store it in the `example_json` directory.
+    Update JSON response for a single law in example_json/.
     """
     with db.session_scope() as session:
         law = db.find_law_by_slug(session, law_abbr)
@@ -99,9 +118,9 @@ def generate_json_example(c, law_abbr):
 
 
 @task
-def generate_json_examples(c):
+def json_generate_all(c):
     """
-    Generate JSON response for a predefined set of laws and store them in the `example_json` directory.
+    Update JSON response for a all laws in example_json/.
     """
     for law_abbr in [
         "a_kae", "aag", "aaueg_aendg", "abfaev", "abv", "abwv", "agg", "aktg", "alg", "amg", "ao", "arbgg", "arbschg",
@@ -114,19 +133,25 @@ def generate_json_examples(c):
         "tvg", "urhg", "uschadg", "ustdv", "uwg", "vag", "vereinsg", "vgv", "vvg_infov", "vwvfg", "waffg", "wistrg_1954",
         "wogg", "zpo", "zvg", "zwvwv"
     ]:
-        generate_json_example(c, law_abbr)
+        json_generate(c, law_abbr)
 
+
+ns.add_collection(Collection(
+    'example_json',
+    generate=json_generate,
+    **{'generate-all': json_generate_all}
+))
+
+
+# Deployment-related tasks
 
 @task
-def generate_and_upload_bulk_law_files(c):
+def update_bulk_law_files(c):
+    """
+    Generate and upload bulk law files.
+    """
     with db.session_scope() as session:
         gesetze_im_internet.generate_and_upload_bulk_law_files(session)
-
-
-@task
-def start_api_server(c):
-    """Start API server in development mode."""
-    uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
 
 
 def update_lambda_fn(function_name, s3_key):
@@ -136,8 +161,8 @@ def update_lambda_fn(function_name, s3_key):
 
 
 @task
-def build_and_upload_lambda_deps_layer(c):
-    """Build and package all Python dependencies in a docker container and upload to S3."""
+def update_lambda_deps_layer(c):
+    """Build Python dependencies in docker and upload to S3."""
     print("Warning! This will run `terraform apply`. Abort if this is not what you want!")
     prompt = input("Proceed? [Y/n]")
     if prompt.strip() in ('n', 'N'):
@@ -158,8 +183,8 @@ def build_and_upload_lambda_deps_layer(c):
 
 
 @task
-def build_and_upload_lambda_function(c):
-    """Create zip file containing application code and upload to S3."""
+def update_lambda_function(c):
+    """Create application zip file and upload to S3."""
     function_s3_key = "lambda_function.zip"
 
     # Build local zip file.
@@ -173,37 +198,9 @@ def build_and_upload_lambda_function(c):
         update_lambda_fn(fn, function_s3_key)
 
 
-@task
-def run_tests(c):
-    """Run project test suite."""
-    c.run("pytest")
-
-
-ns = Collection()
-ns.add_task(run_tests, 'tests')
-
-database = Collection('database')
-database.add_task(db_init, 'init')
-database.add_task(db_migrate, 'migrate')
-ns.add_collection(database)
-
-ingest = Collection('ingest')
-ingest.add_task(download_laws)
-ingest.add_task(ingest_data_from_location)
-ingest.add_task(update_all_laws)
-ns.add_collection(ingest)
-
-examples = Collection('example_json')
-examples.add_task(generate_json_example, 'generate')
-examples.add_task(generate_json_examples, 'generate-all')
-ns.add_collection(examples)
-
-dev = Collection('dev')
-dev.add_task(start_api_server)
-ns.add_collection(dev)
-
-deploy = Collection('deploy')
-deploy.add_task(generate_and_upload_bulk_law_files)
-deploy.add_task(build_and_upload_lambda_deps_layer)
-deploy.add_task(build_and_upload_lambda_function)
-ns.add_collection(deploy)
+ns.add_collection(Collection(
+    'deploy',
+    update_bulk_law_files=update_bulk_law_files,
+    update_lambda_deps_layer=update_lambda_deps_layer,
+    update_lambda_function=update_lambda_function
+))

@@ -83,10 +83,10 @@ def download_laws(location):
 def _fixup_slug_duplicates(session):
     """Use gii_slug as a law's slug in case of conflicts (except for a handful cases)."""
     overrides = {
-        "aeg": { "aeg_1994": "aeg", "aeg": "aeg_2" },
-        "afrg": { "altfrg": "afrg", "afrg": "afrg_2" },
-        "gbv": { "gbv_2011": "gbv" },
-        "stvo": { "stvo_2013": "stvo" }
+        "aeg": {"aeg_1994": "aeg", "aeg": "aeg_2"},
+        "afrg": {"altfrg": "afrg", "afrg": "afrg_2"},
+        "gbv": {"gbv_2011": "gbv"},
+        "stvo": {"stvo_2013": "stvo"}
     }
     dupes_by_slug = db.laws_with_duplicate_slugs(session)
 
