@@ -5,7 +5,7 @@ import os
 import re
 import typing
 
-from sqlalchemy import create_engine, func, literal, text
+from sqlalchemy import create_engine, func, literal, text, column
 from sqlalchemy.orm import joinedload, load_only, sessionmaker
 
 from .models import slugify, Base, Law, ContentItem
@@ -214,6 +214,7 @@ def _map_search_results_to_models(session, items):
 
 
 def fulltext_search_laws_content_items(session, query, page, per_page, filter_type):
+    # TODO: This is a mess. Clean up and add tests.
     exact_hit = _find_exact_hit(session, query, filter_type)
 
     tsquery = func.websearch_to_tsquery("german", query)
@@ -221,7 +222,7 @@ def fulltext_search_laws_content_items(session, query, page, per_page, filter_ty
     law_query = _full_text_search_query(session, Law, tsquery)
     content_items_query = (
         _full_text_search_query(session, ContentItem, tsquery)
-        .filter(ContentItem.item_type.in_(['article', 'heading_article']))
+        .filter(ContentItem.item_type.in_(["article", "heading_article"]))
     )
 
     if filter_type == "laws":
@@ -232,7 +233,20 @@ def fulltext_search_laws_content_items(session, query, page, per_page, filter_ty
         query = law_query.union(content_items_query)
 
     if exact_hit:
-        query = _exact_hit_to_search_result_query(session, exact_hit).union(query)
+        # Group by type+id and select max(rank) to remove duplicate results.
+        query = (
+            session.query(
+                column("type"),
+                column("id"),
+                func.max(column("rank")).label("rank")
+            )
+            .select_from(
+                _exact_hit_to_search_result_query(session, exact_hit)
+                .union(query)
+                .subquery()
+            )
+            .group_by(column("id"), column("type"))
+        )
 
     query = query.order_by(text("rank desc"))
 
