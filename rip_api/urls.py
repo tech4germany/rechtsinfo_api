@@ -52,6 +52,6 @@ def search(query, page, per_page, type_filter):
         "per_page": per_page
     }
     if type_filter:
-        params['filter'] = type_filter.value
+        params['type'] = type_filter.value
 
     return _build_url("/search", params)
