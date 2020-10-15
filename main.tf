@@ -207,7 +207,7 @@ resource "aws_iam_role_policy_attachment" "lambda-access" {
 # Schedule the update functions to run daily.
 resource "aws_cloudwatch_event_rule" "daily_import" {
   name                = "fellows-2020-rechtsinfo-daily-import"
-  schedule_expression = "cron(0 6 * * ? *)"
+  schedule_expression = "cron(0 4 * * ? *)"
 }
 
 resource "aws_cloudwatch_event_target" "daily_import" {
@@ -215,7 +215,7 @@ resource "aws_cloudwatch_event_target" "daily_import" {
   arn  = aws_lambda_function.download_laws.arn
 }
 
-# Allow lambda funtion to be triggered by CloudWatch Events.
+# Allow lambda function to be triggered by CloudWatch Events.
 resource "aws_lambda_permission" "allow_cloudwatch_invoke" {
   action        = "lambda:InvokeFunction"
   function_name = aws_lambda_function.download_laws.function_name
