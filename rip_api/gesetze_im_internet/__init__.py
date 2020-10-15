@@ -154,7 +154,7 @@ def write_all_law_json_files(session, dir_path):
     all_laws = []
 
     for law in db.all_laws(session):
-        law_api_model = api_schemas.LawAllFieldsWithContents.from_orm_model(law)
+        law_api_model = api_schemas.LawAllFields.from_orm_model(law, include_contents=True)
         single_law_response = api_schemas.LawResponse(data=law_api_model)
         _write_file(f"{laws_path}/{law.slug}.json", single_law_response.json(indent=2))
 
@@ -165,7 +165,7 @@ def write_all_law_json_files(session, dir_path):
 
 def write_law_json_file(session, law, dir_path):
     filepath = f"{dir_path}/{law.slug}.json"
-    law_schema = api_schemas.LawAllFieldsWithContents.from_orm_model(law)
+    law_schema = api_schemas.LawAllFields.from_orm_model(law, include_contents=True)
     response = api_schemas.LawResponse(data=law_schema)
     _write_file(filepath, response.json(indent=2))
 

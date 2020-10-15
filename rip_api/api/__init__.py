@@ -77,6 +77,7 @@ class ListLawsIncludeOptions(Enum):
     tags=["Laws"],
     summary="List all laws",
     response_model=api_schemas.LawsResponse,
+    response_model_exclude_unset=True,
 )
 def list_laws(
     include: Optional[ListLawsIncludeOptions] = None,
@@ -117,6 +118,7 @@ class GetLawIncludeOptions(Enum):
     tags=["Laws"],
     summary="Get a single law",
     response_model=api_schemas.LawResponse,
+    response_model_exclude_unset=True,
 )
 def get_law(
     slug: str = Path(..., description="URL-safe lowercased abbreviation of the law."),
@@ -162,10 +164,6 @@ def get_law(
             parent['children'].append(item)
     ```
     """
-    schema_class = api_schemas.LawAllFields
-    if include == GetLawIncludeOptions.contents:
-        schema_class = api_schemas.LawAllFieldsWithContents
-
     with db.session_scope() as session:
         law = db.find_law_by_slug(session, slug)
         if not law:
@@ -173,7 +171,11 @@ def get_law(
                 status_code=404, title="Resource not found", detail="Could not find a law for this slug."
             )
 
-        return {"data": schema_class.from_orm_model(law)}
+        law_data = api_schemas.LawAllFields.from_orm_model(
+            law,
+            include_contents=(include == GetLawIncludeOptions.contents)
+        )
+        return api_schemas.LawResponse(data=law_data)
 
 
 @v1.get(
