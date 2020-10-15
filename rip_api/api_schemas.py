@@ -1,12 +1,12 @@
 from typing import List, Optional, Union
 
 import humps
-import pydantic
+from pydantic import BaseModel, create_model, validator
 
 from . import PUBLIC_ASSET_ROOT, urls
 
 
-class ContentItemBasicFields(pydantic.BaseModel):
+class ContentItemBasicFields(BaseModel):
     type: str
     id: str
     url: str
@@ -38,13 +38,13 @@ class ContentItemBasicFields(pydantic.BaseModel):
 
 
 class ContentItemAllFields(ContentItemBasicFields):
-    parent: Optional[pydantic.create_model(
+    parent: Optional[create_model(
         'ContentItemReference',  # noqa
         type=(str, ...),
         id=(str, ...)
     )]
 
-    @pydantic.validator("type", allow_reuse=True, check_fields=False)
+    @validator("type", allow_reuse=True, check_fields=False)
     def type_string_must_match_model_type(cls, v):
         if v != cls.__fields__["type"].default:
             raise ValueError("type string must match model type")
@@ -86,7 +86,7 @@ class ContentItemWithFootnotes(ContentItemAllFields):
     documentaryFootnotes: Optional[str] = ...
 
 
-class LawBasicFields(pydantic.BaseModel):
+class LawBasicFields(BaseModel):
     type: str = "law"
     id: str
     url: str
@@ -117,17 +117,17 @@ class LawBasicFields(pydantic.BaseModel):
 
 class LawAllFields(LawBasicFields):
     extraAbbreviations: List[str]
-    publicationInfo: List[pydantic.create_model(
+    publicationInfo: List[create_model(
         'PublicationInfoItem',  # noqa
         reference=(str, ...),
         periodical=(str, ...)
     )]
-    statusInfo: List[pydantic.create_model(
+    statusInfo: List[create_model(
         'StatusInfoItem',  # noqa
         comment=(str, ...),
         category=(str, ...)
     )]
-    notes: pydantic.create_model(
+    notes: create_model(
         'TextContent',  # noqa
         body=(Optional[str], ...),
         footnotes=(Optional[str], ...),
@@ -223,7 +223,7 @@ class LawAllFieldsWithContents(LawAllFields):
         return attrs
 
 
-class LawResponse(pydantic.BaseModel):
+class LawResponse(BaseModel):
     # LawWithContents must come first in the Union: FastAPI tries them in order and only skips
     # types if there's a validation error.
     data: Union[LawAllFieldsWithContents, LawAllFields]
@@ -233,28 +233,28 @@ class LawResponse(pydantic.BaseModel):
         return cls(data=LawAllFields.from_orm_model(law))
 
 
-class PaginationLinks(pydantic.BaseModel):
+class PaginationLinks(BaseModel):
     prev: Optional[str]
     next: Optional[str]
 
 
-class Pagination(pydantic.BaseModel):
+class Pagination(BaseModel):
     total: int
     page: int
     per_page: int
 
 
-class LawsResponse(pydantic.BaseModel):
+class LawsResponse(BaseModel):
     data: list
     links: PaginationLinks
     pagination: Pagination
 
 
-class ContentItemResponse(pydantic.BaseModel):
+class ContentItemResponse(BaseModel):
     data: Union[LawAllFields, ArticleAllFields, HeadingArticleAllFields]
 
 
-class SearchResultsResponse(pydantic.BaseModel):
+class SearchResultsResponse(BaseModel):
     data: List[Union[
         LawBasicFields,
         ArticleBasicFieldsWithLaw, ArticleBasicFields,
