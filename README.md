@@ -13,25 +13,17 @@ Entstanden innerhalb der 12 Wochen des [Tech4Germany Fellowships 2020](https://t
 
 :wave:
 
-<pre>
-*-------------------------------------------------*
-|   -- TODO:  BILD einfügen  --                   |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-*-------------------------------------------------*
-</pre>
+![Teamfoto](docs/team.jpg)
 
 _von links nach rechts_: [Niko Felger](https://www.linkedin.com/in/nfelger/) –
 [Greta Fest](https://www.linkedin.com/in/greta-fest-722a73122/) –
 [Tito Rodriguez](https://www.linkedin.com/in/joseernestorodriguez/) –
 [Conrad Schlenkhoff](https://www.linkedin.com/in/conrad-schlenkhoff/)
+
+
+### Die API im Projektkontext:
+
+![Projektüberblick](docs/project_context.svg)
 
 ## Hintergrund
 > _Rechtsinformationen für alle_
