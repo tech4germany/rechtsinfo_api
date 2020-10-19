@@ -15,20 +15,21 @@ Entstanden innerhalb der 12 Wochen des [Tech4Germany Fellowships 2020](https://t
 
 ![Teamfoto](docs/team.jpg)
 
-_von links nach rechts_: [Niko Felger](https://www.linkedin.com/in/nfelger/) –
+_von links nach rechts_:
 [Greta Fest](https://www.linkedin.com/in/greta-fest-722a73122/) –
+[Niko Felger](https://www.linkedin.com/in/nfelger/) –
 [Tito Rodriguez](https://www.linkedin.com/in/joseernestorodriguez/) –
 [Conrad Schlenkhoff](https://www.linkedin.com/in/conrad-schlenkhoff/)
 
 
-### Die API im Projektkontext:
-
-![Projektüberblick](docs/project_context.svg)
-
 ## Hintergrund
 > _Rechtsinformationen für alle_
  
-Jeder hat das Recht auf Zugang zu den Gesetzen und Gerichtsentscheidungen, die unser Zusammenleben in der Gesellschaft regeln. Bisher sind die Rechtsinformationen des Bundes in maschinenlesbarer Form nur als umständlich zu verarbeitende Sammlung einzelner, in Teilen kryptischer XML-Dateien auf gesetze-im-internet.de und rechtsprechung-im-internet.de verfügbar. Wir wollen das ändern, indem wir diese Daten aufbereiten und in einem selbsterklärenden JSON-Format über eine Standards-konforme API der Öffentlichkeit zur Verfügung stellen.
+Jeder hat das Recht auf Zugang zu den Gesetzen und Gerichtsentscheidungen, die unser Zusammenleben in der Gesellschaft regeln. Bisher sind die Rechtsinformationen des Bundes in maschinenlesbarer Form nur als umständlich zu verarbeitende Sammlung einzelner, in Teilen kryptischer XML-Dateien auf [gesetze-im-internet.de](http://www.gesetze-im-internet.de/) und [rechtsprechung-im-internet.de](http://www.rechtsprechung-im-internet.de/) verfügbar. Wir wollen das ändern, indem wir diese Daten aufbereiten und in einem selbsterklärenden JSON-Format über eine Standards-konforme API der Öffentlichkeit zur Verfügung stellen.
+
+## Die API im Projektkontext:
+
+![Projektüberblick](docs/project_context.svg)
 
 ## Stand
 
@@ -38,8 +39,6 @@ Aktuell enthalten sind alle Bundesgesetze und -verordnungen in ihrer aktuellen F
 ## Nutzung
 
 Wer die API nutzen möchte, findet auf https://api.rechtsinformationsportal.de/ detaillierte Dokumentation.
-
-TODO: *verschieben in API docs* Die API lässt sich mit geläufigen HTTP Tools nutzen. Wer lieber eine Client Library verwenden möchte, findet bei https://openapi-generator.tech/ Code-Generatoren für über 50 verschieden Sprachen. Das API Schema liegt unter https://api.rechtsinformationsportal.de/v1/openapi.json.
 
 ## Installation lokal
 
@@ -207,7 +206,7 @@ Für einfache Code-Updates genügt es, eine neue ZIP-Datei auf S3 hochzuladen un
 invoke deploy.update-lambda-function
 ```
 
-Haben sich die Python-Abhängigkeiten in der `Pipfile` geändert, muss das Abhängigkeits-Layer neu gebaut werden. Für Layer-Updates muss eine neue Version des Layers erzeugt die Konfiguration der Lambda-Funktionen aktualisiert werden. Dafür werden die Abhängigkeiten in einem (lambci/docker-lambda)[https://github.com/lambci/docker-lambda/] Docker-Container gebaut, der die AWS Lambda Umgebung simuliert, und anschliessend werden die Lambda-Funktionen mit terraform aktualisiert:
+Haben sich die Python-Abhängigkeiten in der `Pipfile` geändert, muss das Abhängigkeits-Layer neu gebaut werden. Für Layer-Updates muss eine neue Version des Layers erzeugt die Konfiguration der Lambda-Funktionen aktualisiert werden. Dafür werden die Abhängigkeiten in einem [lambci/docker-lambda](https://github.com/lambci/docker-lambda/) Docker-Container gebaut, der die AWS Lambda Umgebung simuliert, und anschliessend werden die Lambda-Funktionen mit terraform aktualisiert:
 
 ```sh
 invoke deploy.update-lambda-deps-layer

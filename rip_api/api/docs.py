@@ -23,6 +23,9 @@ For detailed information on this project (in German), see:
 - [tech4germany/rechtsinfo_api](https://github.com/tech4germany/rechtsinfo_api) on Github and
 - [the Tech4Germany website](https://tech.4germany.org/project/rechtsinformationsportal/).
 
+The API can be accessed with common HTTP tools. If you prefer using a client library, [OpenAPI Generator](https://openapi-generator.tech/) provides code generators for 50+ languages. The OpenAPI schema can be found at [https://api.rechtsinformationsportal.de/v1/openapi.json](https://api.rechtsinformationsportal.de/v1/openapi.json).
+
+
 ### Note on text contents
 <details>
   <summary><small>Click to expand</small></summary>
@@ -33,7 +36,7 @@ Elements which exist in HTML with equivalent meaning include: `<P>`, `<pre>`, `<
 
 Elements which exist in HTML but work differently:
 - `<DL>/<DT>/<DD> and <LA>` - Definition lists are used for enumerating paragraphs inside articles. In `<DL>` elements, attribute `Type` indicates the enumeration style (arabic/alpha/roman/etc), `Font` the text styles (normal/bold/italic/etc); `<DT>` holds the enumeration; `<DD>` holds the text content inside `<LA>` custom tags. (<a href="https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNE025900116">example</a>)
-- `<table> etc` - The table format used in the data has some similarities to HTML but differs in many ways. It also bears some resemblance to the [CALS table model](https://www.oasis-open.org/specs/tablemodels.php) ([see also Wikipedia](https://en.wikipedia.org/wiki/CALS_Table_Model)). It uses `<row>` for table rows and `<entry>` for cell data. Other tags in use are: `<tgroup>`, `<thead>`, `<tfoot>`, `<tbody>`, `<colspec>`, `<spanspec>`.
+- `<table> etc` - The table format used in the data has some similarities to HTML but differs in many ways. It also bears some resemblance to the [CALS table model](https://www.oasis-open.org/specs/tablemodels.php) ([see also Wikipedia](https://en.wikipedia.org/wiki/CALS_Table_Model)). It uses `<row>` for table rows and `<entry>` for cell data. Other tags in use are: `<tgroup>`, `<thead>`, `<tfoot>`, `<tbody>`, `<colspec>`, `<spanspec>`. (<a href="https://api.rechtsinformationsportal.de/v1/laws/zzulv/articles/BJNR023100998BJNE001203310">example</a>)
 
 Custom elements (with our buest guess at their meaning):
 
