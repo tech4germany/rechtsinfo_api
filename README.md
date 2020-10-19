@@ -27,7 +27,7 @@ _von links nach rechts_:
  
 Jeder hat das Recht auf Zugang zu den Gesetzen und Gerichtsentscheidungen, die unser Zusammenleben in der Gesellschaft regeln. Bisher sind die Rechtsinformationen des Bundes in maschinenlesbarer Form nur als umständlich zu verarbeitende Sammlung einzelner, in Teilen kryptischer XML-Dateien auf [gesetze-im-internet.de](http://www.gesetze-im-internet.de/) und [rechtsprechung-im-internet.de](http://www.rechtsprechung-im-internet.de/) verfügbar. Wir wollen das ändern, indem wir diese Daten aufbereiten und in einem selbsterklärenden JSON-Format über eine Standards-konforme API der Öffentlichkeit zur Verfügung stellen.
 
-## Die API im Projektkontext:
+## Die API im Projektkontext
 
 ![Projektüberblick](docs/project_context.svg)
 
