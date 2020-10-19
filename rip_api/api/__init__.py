@@ -5,10 +5,11 @@ import fastapi
 from fastapi import Path, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
+from fastapi.openapi.utils import get_openapi
 import starlette
 
 from rip_api import PUBLIC_ASSET_ROOT, api_schemas, db, models, urls
-from .docs import tags_metadata, description_api, description_page, description_per_page
+from .docs import tags_metadata, description_api, description_page, description_per_page, docs_html, customize_openapi_schema
 from .errors import (
     ApiException,
     api_exception_handler,
@@ -41,6 +42,30 @@ v1.exception_handler(ApiException)(api_exception_handler)
 v1.exception_handler(Exception)(generic_exception_handler)
 v1.exception_handler(starlette.exceptions.HTTPException)(http_exception_handler)
 v1.exception_handler(fastapi.exceptions.RequestValidationError)(validation_error_handler)
+
+
+def custom_openapi():
+    # cf. https://fastapi.tiangolo.com/advanced/extending-openapi/
+    if v1.openapi_schema:
+        return v1.openapi_schema
+
+    openapi_schema = get_openapi(
+        title=v1.title,
+        openapi_version=v1.openapi_version,
+        version=v1.version,
+        description=v1.description,
+        routes=v1.routes,
+        tags=v1.openapi_tags,
+        servers=v1.servers,
+    )
+
+    customize_openapi_schema(openapi_schema)
+
+    v1.openapi_schema = openapi_schema
+    return v1.openapi_schema
+
+
+v1.openapi = custom_openapi
 
 
 class ListLawsIncludeOptions(Enum):
@@ -222,21 +247,7 @@ async def bulk_download_laws_tarball():
     include_in_schema=False,
 )
 async def rapidoc():
-    return f"""
-        <!doctype html>
-        <html>
-            <head>
-                <meta charset="utf-8">
-                <script type="module" src="https://unpkg.com/rapidoc/dist/rapidoc-min.js"></script>
-            </head>
-            <body>
-                <rapi-doc spec-url="/v1{v1.openapi_url}" show-header="false"
-                          allow-authentication="false" allow-server-selection="false">
-                </rapi-doc>
-            </body>
-        </html>
-    """
-
+    return docs_html(v1)
 
 @v1.get("/", include_in_schema=False)
 async def redirect_root():

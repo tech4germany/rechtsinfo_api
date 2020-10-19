@@ -120,3 +120,48 @@ for item in law_json['data']['contents']:
 
 description_page = "Result page number"
 description_per_page = "Number of items per page"
+
+
+def docs_html(v1):
+    return f"""
+        <!doctype html>
+        <html>
+            <head>
+                <meta charset="utf-8">
+                <script type="module" src="https://unpkg.com/rapidoc/dist/rapidoc-min.js"></script>
+            </head>
+            <body>
+                <rapi-doc spec-url="/v1{v1.openapi_url}" show-header="false"
+                          allow-authentication="false" allow-server-selection="false">
+                </rapi-doc>
+            </body>
+        </html>
+    """
+
+
+redirect_spec = {
+    "description": "Redirect Response to download location",
+    "application/gzip": {
+        "schema": {
+            "type": "string",
+            "format": "binary"
+        }
+    }
+}
+
+
+def customize_openapi_schema(openapi_schema):
+    """
+    Some aspects of the openapi schema are not easily changed using fastapi, so we modify it directly.
+    """
+
+    for path, path_dict in openapi_schema["paths"].items():
+        # Remove wrong default 422 - better undocumented than documented incorrectly!
+        for method_dict in path_dict.values():
+            if "422" in method_dict["responses"]:
+                del method_dict["responses"]["422"]
+
+        # Describe correct redirect responses
+        if path.startswith("/bulk_downloads"):
+            for method_dict in path_dict.values():
+                method_dict["responses"][302] = redirect_spec
