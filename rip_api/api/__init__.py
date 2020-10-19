@@ -1,8 +1,9 @@
 from enum import Enum
+import logging
 from typing import Optional
 
 import fastapi
-from fastapi import Path, Query
+from fastapi import Path, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.openapi.utils import get_openapi
@@ -18,9 +19,18 @@ from .errors import (
     validation_error_handler,
 )
 
+logging.basicConfig()
+logger = logging.getLogger("rip_api")
+
 app = fastapi.FastAPI(docs_url=None, redoc_url=None, openapi_url=None)
 app.add_middleware(GZipMiddleware)
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
+
+
+@app.middleware("http")
+async def log_request(request: Request, call_next):
+    logger.info(f"{request.method} {request.url}")
+    return await call_next(request)
 
 
 v1 = fastapi.FastAPI(
