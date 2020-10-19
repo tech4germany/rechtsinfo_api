@@ -249,6 +249,7 @@ async def bulk_download_laws_tarball():
 async def rapidoc():
     return docs_html(v1)
 
+
 @v1.get("/", include_in_schema=False)
 async def redirect_root():
     return fastapi.responses.RedirectResponse(url="/docs", status_code=302)

@@ -1,7 +1,7 @@
-from typing import List, Optional, Union
+from typing import List, Union
 
 import humps
-from pydantic import BaseModel, Field, create_model, validator
+from pydantic import BaseModel, Field, validator
 
 from . import PUBLIC_ASSET_ROOT, urls
 
