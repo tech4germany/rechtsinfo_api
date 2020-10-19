@@ -4,7 +4,7 @@ from mangum import Mangum
 from . import ASSET_BUCKET, db, gesetze_im_internet
 from .api import app
 
-api = Mangum(app)
+api = Mangum(app, log_level="debug")
 
 DATA_LOCATION = f"s3://{ASSET_BUCKET}/public/gesetze_im_internet"
 
