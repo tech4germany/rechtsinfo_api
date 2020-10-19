@@ -32,7 +32,7 @@ Text contents (mainly body and footnote text, but occasionally also text in law 
 Elements which exist in HTML with equivalent meaning include: `<P>`, `<pre>`, `<BR>`, `<SUB>`, `<SUP>`, `<B>`, `<I>`, `<U>`, `<small>`, `<IMG>`
 
 Elements which exist in HTML but work differently:
-- `<DL>/<DT>/<DD> and <LA>` - Definitions lists are used for enumerating paragraphs inside articles. `<DL>` attribute `Type` indicates the enumeration style (arabic/alpha/roman/etc), `Font` the text styles (normal/bold/italic/etc); `<DT>` holds the enumeration; `<DD>` holds the text content inside `<LA>` custom tags. (<a href="https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNE025900116">example</a>)
+- `<DL>/<DT>/<DD> and <LA>` - Definition lists are used for enumerating paragraphs inside articles. In `<DL>` elements, attribute `Type` indicates the enumeration style (arabic/alpha/roman/etc), `Font` the text styles (normal/bold/italic/etc); `<DT>` holds the enumeration; `<DD>` holds the text content inside `<LA>` custom tags. (<a href="https://api.rechtsinformationsportal.de/v1/laws/amg/articles/BJNR024480976BJNE025900116">example</a>)
 - `<table> etc` - The table format used in the data has some similarities to HTML but differs in many ways. It also bears some resemblance to the [CALS table model](https://www.oasis-open.org/specs/tablemodels.php) ([see also Wikipedia](https://en.wikipedia.org/wiki/CALS_Table_Model)). It uses `<row>` for table rows and `<entry>` for cell data. Other tags in use are: `<tgroup>`, `<thead>`, `<tfoot>`, `<tbody>`, `<colspec>`, `<spanspec>`.
 
 Custom elements (with our buest guess at their meaning):
@@ -45,10 +45,10 @@ Custom elements (with our buest guess at their meaning):
 - `<FnArea>` - Area for footnotes _inside_ body text (<a href="https://api.rechtsinformationsportal.de/v1/laws/euwo/articles/BJNR014530988BJNE012504377">example</a>)
 - `<QuoteL>` - Opening quote marks (<a href="https://api.rechtsinformationsportal.de/v1/laws/medbvsv/articles/BJNR614700020BJNE000500000">example</a>)
 - `<QuoteR>` - Closing quote marks (<a href="https://api.rechtsinformationsportal.de/v1/laws/medbvsv/articles/BJNR614700020BJNE000500000">example</a>)
-- `<Title>` - Centered heading-styled text (<a href="https://api.rechtsinformationsportal.de/v1/laws/schbesv/articles/BJNR257500013BJNE001301305">example</a>)
-- `<Subtitle>` - Centered subheading-styled text (<a href="https://api.rechtsinformationsportal.de/v1/laws/betrpraemdurchfg/articles/BJNR176310004BJNE001004377">example</a>)
+- `<Title>` - Heading-styled text (<a href="https://api.rechtsinformationsportal.de/v1/laws/schbesv/articles/BJNR257500013BJNE001301305">example</a>)
+- `<Subtitle>` - Subheading-styled text (<a href="https://api.rechtsinformationsportal.de/v1/laws/betrpraemdurchfg/articles/BJNR176310004BJNE001004377">example</a>)
 - `<FILE>` - Links to file attachments, see also the "Note on attachments" below (<a href="https://api.rechtsinformationsportal.de/v1/laws/pstv/articles/BJNR226300008BJNE009100000">example</a>)
-- `<Accolade>` - Used to indicate vertical lines in tables (<a href="https://api.rechtsinformationsportal.de/v1/laws/tabakerzv/articles/BJNR098010016BJNE003800000">example</a>)
+- `<Accolade>` - Indicates vertical lines in tables (<a href="https://api.rechtsinformationsportal.de/v1/laws/tabakerzv/articles/BJNR098010016BJNE003800000">example</a>)
 - `<noindex>` - Unclear, possibly search-related? (<a href="https://api.rechtsinformationsportal.de/v1/laws/hhg/articles/BJNR004980955BJNE003402310">example</a>)
 - `<Citation>` - Unclear, possibly like `<cite>` in HTML (<a href="https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000901116">example</a>)
 - `<Split>` - Unclear, possibly a special line break (<a href="https://api.rechtsinformationsportal.de/v1/laws/ausbeignv_2009/articles/BJNR008800009BJNE001200000">example</a>)
@@ -100,7 +100,7 @@ for (const item of lawJson.data.contents) {
 
 ##### Python
 ```python
-// JSON response for a law including contents, e.g. https://api.rechtsinformationsportal.de/v1/laws/beeg?include=contents
+# JSON response for a law including contents, e.g. https://api.rechtsinformationsportal.de/v1/laws/beeg?include=contents
 law_json = ...
 content_by_id = {}
 hierarchical_contents = []

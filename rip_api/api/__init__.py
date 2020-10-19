@@ -179,7 +179,7 @@ class SearchTypeOptions(Enum):
     response_model=api_schemas.SearchResultsResponse,
 )
 def get_search_results(
-    q: str = Query(..., description="Œuery to search for."),
+    q: str = Query(..., description="Query to search for."),
     type_filter: Optional[SearchTypeOptions] = Query(None, alias="type", description="Only return results of specified type."),
     page: int = Query(1, gt=0),
     per_page: int = Query(10, gt=0, le=100),

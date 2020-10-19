@@ -44,7 +44,7 @@ class ContentItemReference(BaseModel):
 
 
 class ContentItemAllFields(ContentItemBasicFields):
-    parent: ContentItemReference = Field(None, description="Containing section heading (see docs for /laws/{slug})")
+    parent: ContentItemReference = Field(None, description="Containing heading (see Note on hierarchical sections)")
 
     @validator("type", allow_reuse=True, check_fields=False)
     def type_string_must_match_model_type(cls, v):
