@@ -19,8 +19,8 @@ from .errors import (
     validation_error_handler,
 )
 
-logging.basicConfig()
 logger = logging.getLogger("rip_api")
+logger.setLevel(logging.INFO)
 
 app = fastapi.FastAPI(docs_url=None, redoc_url=None, openapi_url=None)
 app.add_middleware(GZipMiddleware)
@@ -29,8 +29,9 @@ app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], all
 
 @app.middleware("http")
 async def log_request(request: Request, call_next):
-    logger.info(f"{request.method} {request.url}")
-    return await call_next(request)
+    response = await call_next(request)
+    logger.info(f"status_code={response.status_code} method={request.method} path={request.url.path} params={request.query_params}")
+    return response
 
 
 v1 = fastapi.FastAPI(
