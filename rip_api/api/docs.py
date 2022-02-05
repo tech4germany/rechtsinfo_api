@@ -25,6 +25,8 @@ For detailed information on this project (in German), see:
 
 The API can be accessed with common HTTP tools. If you prefer using a client library, [OpenAPI Generator](https://openapi-generator.tech/) provides code generators for 50+ languages. The OpenAPI schema can be found at [https://api.rechtsinformationsportal.de/v1/openapi.json](https://api.rechtsinformationsportal.de/v1/openapi.json).
 
+**Disclaimer: This API is a prototype for demonstration purposes. It is not actively maintained, its contents are not kept up-to-date and it may go offline without any notice.**
+
 
 ### Note on text contents
 <details>
