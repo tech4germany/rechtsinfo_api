@@ -2,10 +2,9 @@
 
 ![Tests](https://github.com/tech4germany/rechtsinfo_api/workflows/Tests/badge.svg) [![license](https://img.shields.io/github/license/tech4germany/rechtsinfo_api.svg)](LICENSE)
 
-API für Rechtsinformationen des Bundes.
+API Prototyp für Rechtsinformationen des Bundes.
 
-Live: https://api.rechtsinformationsportal.de/  
-Dokumentation: https://api.rechtsinformationsportal.de/docs
+> :warning: Dieser Prototyp ist nicht mehr online verfügbar. Der [DigitalService](https://digitalservice.bund.de) arbeitet an einer [vollumfänglichen, offiziellen Lösung](https://digitalservice.bund.de/blog/neues-rechtsinformationssystem). Für die zwischenzeitliche Überbrückung ist möglicherweise dieses Open-Source Projekt hilfreich: https://github.com/nfelger/gadi.
 
 ## Tech4Germany Projekt
 
@@ -38,7 +37,9 @@ Aktuell enthalten sind alle Bundesgesetze und -verordnungen in ihrer aktuellen F
 
 ## Nutzung
 
-Wer die API nutzen möchte, findet auf https://api.rechtsinformationsportal.de/ detaillierte Dokumentation.
+~Wer die API nutzen möchte, findet auf https://api.rechtsinformationsportal.de/ detaillierte Dokumentation.~
+
+Die API ist nicht mehr online. Wer maschinenlesbare Gesetze sucht, wird hier fündig: https://github.com/nfelger/gadi
 
 ## Installation lokal
 
