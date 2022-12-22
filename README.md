@@ -4,7 +4,7 @@
 
 API Prototyp für Rechtsinformationen des Bundes.
 
-> :warning: Dieser Prototyp ist nicht mehr online verfügbar. Der [DigitalService](https://digitalservice.bund.de) arbeitet an einer [vollumfänglichen, offiziellen Lösung](https://digitalservice.bund.de/blog/neues-rechtsinformationssystem). Für die zwischenzeitliche Überbrückung ist möglicherweise dieses Open-Source Projekt hilfreich: https://github.com/nfelger/gadi.
+> :warning: Dieser Prototyp ist nicht mehr online verfügbar. Der [DigitalService](https://digitalservice.bund.de) arbeitet an einer [vollumfänglichen, offiziellen Lösung](https://digitalservice.bund.de/blog/neues-rechtsinformationssystem). Für die zwischenzeitliche Überbrückung ist möglicherweise dieses Open-Source Projekt hilfreich: https://github.com/nfelger/gesetze-aus-dem-internet.
 
 ## Tech4Germany Projekt
 
@@ -39,7 +39,7 @@ Aktuell enthalten sind alle Bundesgesetze und -verordnungen in ihrer aktuellen F
 
 ~Wer die API nutzen möchte, findet auf https://api.rechtsinformationsportal.de/ detaillierte Dokumentation.~
 
-Die API ist nicht mehr online. Wer maschinenlesbare Gesetze sucht, wird hier fündig: https://github.com/nfelger/gadi
+Die API ist nicht mehr online.
 
 ## Installation lokal
 
